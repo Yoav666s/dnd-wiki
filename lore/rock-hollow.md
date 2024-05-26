@@ -1,5 +1,3 @@
-<title>Rock Hollow</title>
-
 # Rock Hollow
 
 ![rock hollow](../images/rock-hollow.png)

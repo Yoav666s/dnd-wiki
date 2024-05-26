@@ -1,5 +1,3 @@
-<title>Glenfast</title>
-
 # Glenfast
 A large country in the continent of [Durn](durn.md#durn).
 It’s a half-island located in the south. it's mostly inhabited by halflings, gnomes, and dwarves.

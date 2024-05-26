@@ -1,5 +1,3 @@
-<title>Order of the Nocturnal Pact</title>
-
 # The Order
 
 ---

@@ -1,5 +1,3 @@
-<title>Durn</title>
-
 # Durn
 A large continent
 
