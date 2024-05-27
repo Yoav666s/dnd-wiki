@@ -1,13 +1,16 @@
 # Glenfast
-A large country in the continent of [Durn](durn.md#durn).
-It’s a half-island located in the south. it's mostly inhabited by halflings, gnomes, and dwarves.
-It has three main districts: [Solemnvor](#solemnvor), [Froste](#froste), [Mortmount](#mortmount)
+A large country in the continent of [Durn](durn.md#durn). It’s a half-island located in the south. it's mostly inhabited by dwarves. The worst battles of the [Last War](the-last-war.md#the-last-war) took place there, and is now one of the most strictly guarded countries in [the empire](the-empire.md#the-sadaaly-empire). The elves have established new order, dividing the country to three main districts: [Solemnvor](#solemnvor), [Froste](#froste), [Mortmount](#mortmount)
 
-## Solemnvor
+## Solemnvore
+Referred to as 'Sullenmerr' in Dwarvish.
 
 ## Froste
+Referred to as the 'Krass' in Dwarvish.
 
 ## Mortmount
+Referred to as 'Otterkrest' in Dwarvish. The northern-most part of the country, Mortmount is where the land meets the ocean in the form of a tall cliff. The dwarvish citizens of this district are mostly miners, demolitionists, and metalworkers.
+
+Due to the shape of the terrain, docks or ports could not be built and thus the inhabitants have no access to trade overseas. This has been one of the most crucial weaknesses that the Sad'aaly have exploited during the Last War and has eventually led to the empire's triumph.
 
 #### Norven Cort
 

@@ -1,9 +1,8 @@
 # Durn
-A large continent
+The largest, most prosperous continent in [Nornfeld](nornfeld.md#nornfeld) mostly governed by the [Sad'aaly Empire](the-empire.md#the-sadaaly-empire).
 
-### [Sad’aal-Moran](sadaal-moran.md#sadaal-moran)
-A prosperous country in the off-center or Durn.
-Mostly inhabited by elves, humans, half elves, halflings, dwarves, and gnomes.
+### [Sad’aal Moran](sadaal-moran.md#sadaal-moran)
+A relatively small but prosperous country located near the west coast of Durn. Mostly inhabited by elves and half elves, Sad-Moran is the heart of [the empire](the-empire.md#the-sadaaly-empire). 
 
 ### [Glenfast](glenfast.md#gelnfast)
 A large country in the continent of Durn.
