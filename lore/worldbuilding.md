@@ -42,14 +42,14 @@ Some (but not all) mythical creatures may be intelligent and capable of speech.
 
 ## Elmersodus, the Nocturnal Sentinel
 
-![An illustration of the thing](images/elmersodus.png)
+![An illustration of the thing](images/elmersodus.jpg)
 
 Also referred to as The Nocturnal Sentinel, Elmersodus is a powerful dragon that inhabits the land and skies. His powers affect the night sky, painting them as he sees fit. At night, he can also control the weather, the behavior of clouds and the intensity of starlight. He can see anything that’s touched by moonlight, and hear any sound the wind carries to him.
 Unlike other dragons he doesn’t breath fire or spit acid. He controls the howling wind. His eyes look like moonstone, and his hard skin is a mix of dark blue and purple. His scales shine like silver in certain angles.
 
 ## Thing of the Hollow
 
-![An illustration of the thing](images/thing-of-the-hollow.png)
+![An illustration of the thing](images/thing-of-the-hollow.jpg)
 
 Thing of the Hollow is a mythical creature that doesn’t speak any language, and it is believed to be itself [Rock Hollow](#rock-hollow). As patron of the underground, it guides its inhabitants and followers through the caverns and allows them safe passage. Trespassers and invaders are led astray until they lose their way. Some eventually manage to escape, but very often too late, as they have already been driven to insanity.
 

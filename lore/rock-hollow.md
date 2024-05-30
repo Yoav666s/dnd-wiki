@@ -1,6 +1,6 @@
 # Rock Hollow
 
-![rock hollow](../images/rock-hollow.png)
+![rock hollow](../images/rock-hollow.jpg)
 
 Deep underground, all throughout [Durn](durn.md#durn), there’s a vast network of caverns and tunnels, leading anywhere and everywhere around Durn. It is believed to be alive, shifting and changing without pattern. Creatures from the surface who accidentally find an entrance are rarely seen again. It is said that the caverns play tricks on your mind, beguiling you with illusions of your worst fears and deepest desires.
 This network is commonly referred to as Rock Hollow, the Hollow, or, simply, the caverns.
@@ -16,7 +16,7 @@ Those under the Thing's blessing are allowed safe passage through the Hollow.
 
 # Thing of the Hollow
 
-![An illustration of the thing](../images/thing-of-the-hollow.png)
+![An illustration of the thing](../images/thing-of-the-hollow.jpg)
 
 Thing of the Hollow is a [mythical aberration](mythical-creatures.md#mythical-creatures) that doesn’t speak any language, and it is believed to be itself [Rock Hollow](#rock-hollow). As patron of the underground, it guides its inhabitants and followers through the caverns and allows them safe passage. Trespassers and invaders are led astray until they lose their way. Some eventually manage to escape, but very often too late, as they have already been driven to insanity.
 
