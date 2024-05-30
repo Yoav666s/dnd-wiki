@@ -4,14 +4,14 @@ Some (but not all) mythical creatures may be intelligent and capable of speech.
 
 ---
 
-#### [Elmersodus, the Nocturnal Sentinel](the-nocturnal-pact.md#elmersodus-the-nocturnal-sentinel)
+#### [Elmersodus, the Nocturnal Sentinel](elmersodus.md#elmersodus-the-nocturnal-sentinel)
 
 ![elmersodus](../images/elmersodus.jpg)
 
-Elmersodus is a powerful dragon that inhabits the land and skies. His powers affect the night sky, painting them as he sees fit. At night, he can also control the weather, the behavior of clouds and the intensity of starlight. He can see anything that’s touched by moonlight, and hear any sound the wind carries to him.
+Elmersodus is a powerful dragon that commands the winds, the weather, and the . His powers affect the night sky, painting them as he sees fit. At night, he can also control the weather, the behavior of clouds and the intensity of starlight. He can see anything that’s touched by moonlight, and hear any sound the wind carries to him.
 - [Amulet of the Sentinel](#amulet-of-the-sentinel)
 
-#### [Thing of the Hollow](rock-hollow.md#thing-of-the-hollow)
+#### [Thing of the Hollow](the-thing.md#thing-of-the-hollow)
 
 ![thing of the  hollow](../images/thing-of-the-hollow.jpg)
 
@@ -27,12 +27,12 @@ When a [mythical creature](#mythical-creatures) is defeated it leaves behind a p
 
 #### [Amulet of the Sentinel](../items/sentinel-amulet.md#amulet-of-the-sentinel)
 
-![amulet of the sentinel](../images/sentinel-amulet.jpg)
+![amulet of the sentinel](../images/sentinel-amulet-small.jpg)
 
-A magical amulet that holds the resting soul of the [Sentinel](#elmersodus-the-nocturnal-sentinel), after he is defeated. When a spell caster attunes to this item, they have the powers of Elmersodus, using it as an arcane focus.
+A magical amulet that holds the resting soul of the [sentinel](#elmersodus-the-nocturnal-sentinel), after he is defeated. When a creatures attunes to this item, it gains the power to command the winds
 
 #### [The Locket](../items/the-locket.md#the-locket)
 
-![the locket](../images/the-locket.jpg)
+![the locket](../images/the-locket-small.jpg)
 
 Locket of the [Thing](#thing-of-the-hollow).
