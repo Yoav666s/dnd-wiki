@@ -2,7 +2,7 @@
 The largest, most prosperous continent in [Nornfeld](nornfeld.md#nornfeld) mostly governed by the [Sad'aaly Empire](the-empire.md#the-sadaaly-empire).
 
 ### [Sad’aal Moran](sadaal-moran.md#sadaal-moran)
-A relatively small but prosperous country located near the west coast of Durn. Mostly inhabited by elves and half elves, Sad-Moran is the heart of the empire. 
+A relatively small but prosperous country located near the west coast of Durn. Mostly inhabited by elves and half elves, Sad-Moran is the heart of the empire.
 
 ### [Glenfast](glenfast.md#gelnfast)
 A large country in the continent of Durn.
@@ -11,6 +11,9 @@ It has three main districts: [Solemnvor](glenfast.md#solemnvor), [Froste](glenfa
 
 ---
 # [Rock Hollow](rock-hollow.md#rock-hollow)
+
+![rock hollow](../images/rock-hollow-small.jpg)
+
 Deep underground, all throughout [Durn](#durn), there’s a vast network of caverns and tunnels, leading anywhere and everywhere around Durn. It is believed to be alive, shifting and changing without pattern. Creatures from the surface who accidentally find an entrance are rarely seen again. It is said that the caverns play tricks on your mind, beguiling you with illusions of your worst fears and deepest desires.
 This network is commonly referred to as Rock Hollow, the Hollow, or, simply, the caverns.
 
