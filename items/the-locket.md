@@ -1,5 +1,4 @@
-<title>The Locket</title>
+# The Locket
+When the [thing](../lore/the-thing.md#thing-of-the-hollow) dies, he drops this.
 
-this is a [test](../lore/mythical-creatures.md#the-locket)
-
-![aa](../images/the-locket.png)
+![the locket](../images/the-locket.png)

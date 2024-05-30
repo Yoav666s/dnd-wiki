@@ -40,11 +40,11 @@ There is believed to be a beating heart somewhere within the caverns, which keep
 The continent of Durn is full of mythical creatures that reside in certain areas. Their eternal souls are their source of life, but they can be defeated. When a mythical creature is defeated, it leaves behind an [emblem](#mythical-emblems) that encapsulates its soul until it is risen again. While in that state, it’s possible to use this emblem as a source of magic (relating to the creature’s powers and abilities). This keeps the creature at bay, preventing it from returning to its true form. That also means that if the emblem is not in steady use, the creature might rise again, and the keeper of the emblem won’t be able to use its magic until the creature is defeated once more.
 Some (but not all) mythical creatures may be intelligent and capable of speech.
 
-## Elmersodus, the Nocturnal Sentinel
+## Elmersodus, the Azure Sentinel
 
 ![An illustration of the thing](images/elmersodus.jpg)
 
-Also referred to as The Nocturnal Sentinel, Elmersodus is a powerful dragon that inhabits the land and skies. His powers affect the night sky, painting them as he sees fit. At night, he can also control the weather, the behavior of clouds and the intensity of starlight. He can see anything that’s touched by moonlight, and hear any sound the wind carries to him.
+Also referred to as The Azure Sentinel, Elmersodus is a powerful dragon that inhabits the land and skies. His powers affect the night sky, painting them as he sees fit. At night, he can also control the weather, the behavior of clouds and the intensity of starlight. He can see anything that’s touched by moonlight, and hear any sound the wind carries to him.
 Unlike other dragons he doesn’t breath fire or spit acid. He controls the howling wind. His eyes look like moonstone, and his hard skin is a mix of dark blue and purple. His scales shine like silver in certain angles.
 
 ## Thing of the Hollow
