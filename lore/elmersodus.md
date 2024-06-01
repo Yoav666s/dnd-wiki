@@ -1,4 +1,4 @@
-# Elmersodus, the Azure Sentinel
+# Elmersodus, the Weathered Sentinel
 
 ![elmersodus](../images/elmersodus.jpg)
 

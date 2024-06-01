@@ -4,7 +4,7 @@ Some (but not all) mythical creatures may be intelligent and capable of speech.
 
 ---
 
-#### [Elmersodus, the Azure Sentinel](elmersodus.md#elmersodus-the-azure-sentinel)
+#### [Elmersodus, the Weathered Sentinel](elmersodus.md#elmersodus-the-weathered-sentinel)
 
 ![elmersodus](../images/elmersodus.jpg)
 
@@ -29,7 +29,7 @@ When a [mythical creature](#mythical-creatures) is defeated it leaves behind a p
 
 ![amulet of the sentinel](../images/sentinel-amulet-small.jpg)
 
-A magical amulet that holds the resting soul of the [sentinel](#elmersodus-the-azure-sentinel), after he is defeated. When a creatures attunes to this item, it gains the power to command the winds
+A magical amulet that holds the resting soul of the [sentinel](#elmersodus-the-weathered-sentinel), after he is defeated. When a creatures attunes to this item, it gains the power to command the winds
 
 #### [The Locket](../items/the-locket.md#the-locket)
 
