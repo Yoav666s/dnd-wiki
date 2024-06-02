@@ -8,6 +8,8 @@
 | :------------- | :------------- | :------------- | :------------- |
 | Instantaneous  | Transmutation  | Ranged         | Bludgeoning    |
 
-*description*
+---
 
-*-(a small nugget of rabbit poop)
+description
+
+\*-*(a small nugget of rabbit poop)*
