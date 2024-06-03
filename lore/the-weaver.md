@@ -6,7 +6,7 @@ Any attempts to please him don't tend to be fruitful, and attempts to defy him o
 
 ![the weaver](../images/the-weaver.jpg)
 
-### Weaver's Yarn
+## Weaver's Yarn
 The weaver chooses certain people to provide guidance for. They are commonly referred to as 'chosen ones', 'puppets', or 'pawns'. He marks his message with [lone strands of yarn](../items/weavers-yarn.md#yarn) that find their way to odd places, wrapped around particular objects that may or may not hold special meaning to the recipient. He never speaks with words, yarn being his only tool of communication.
 
 He attempts to direct and guide the recipient on a certain path, which is as likely to be profitable as it is to be detrimental. It does not always make for a great story, either. In fact, it is often very underwhelming. He is as equally fond of those who follow his guidance as he is of those who don't. It is unknown how or why he chooses his pawns, and whether it is better not to be chosen. Regardless, the chosen ones are forever subjected to his whimsical messages, whether they decide to do his bidding or not.
