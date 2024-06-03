@@ -21,4 +21,4 @@ When followers find an abandoned temple they bring a ball of yarn into it, allow
 ## Whim of the Weaver
 When certain people enter his temple, the weaver may decide to send them on what is referred to as a 'Whim of the Weaver'. The yarn in the temple will wrap itself around the chosen pawn, gently at first, until he or she is covered completely. Should the pawn resist, the yarn becomes aggressive, swiftly engulfing and restraining him. The pawn then disappears and is sent to a pocket dimension, perhaps never to return, and his fate now lies solely in the hands of the weaver. Those who manage to come back report of differing experiences, some pleasant, some unspeakably gruesome. The whim always relates to the pawn's own unique weaknesses, fears, hidden desires, and falsities. Some view it as the weaver's way of ensuring justice, while others view it as another of his cruel, sadistic games.
 
-![a halfling entangled in the weaver's yarn](../images/whims-of-the-weaver.jpg)
+![a halfling entangled in the weaver's yarn](../images/whim-of-the-weaver.jpg)
