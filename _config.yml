@@ -21,10 +21,10 @@
 title: The Untold Legends of Nornfeld
 email: yoav666s@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A D&D 5e wiki for original homebrew content.
+  A D&D 5e wiki for my original homebrew content.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yoav666s.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ???
+# twitter_username: 
 github_username:  Yoav666s
 
 # Build settings
