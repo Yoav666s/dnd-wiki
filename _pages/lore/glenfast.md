@@ -14,7 +14,7 @@ Due to the shape of the terrain, docks or ports could not be built and thus the 
 
 #### Norven Cort
 
-[![norven cort](../images/norven-cort.jpg)](../images/norven-cort.png)
+[![norven cort](../../assets/images/norven-cort.jpg)](../../assets/images/norven-cort.png)
 
 An omnivore that inhabits forests and domestic areas, commonly found in the Northern Valleys of Mortmount (or simply 'Norv' in Dwarvish). Commonly referred to as Cort.
 The horns are an uncommon ingredient, which is used primarily for crafting unholy charms. Can also be ground in order to mix a variety of potions.

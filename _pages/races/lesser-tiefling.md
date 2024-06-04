@@ -1,6 +1,6 @@
 # Lesser Tiefling
 
-![lesser tiefling](../images/lesser-tiefling.jpg)
+![lesser tiefling](../../assets/images/lesser-tiefling.jpg)
 
 > “We're not the exception, but the rule.
 >
