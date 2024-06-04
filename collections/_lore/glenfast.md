@@ -3,7 +3,7 @@ permalink: /lore/glenfast/
 ---
 
 # Glenfast
-A large country in the continent of [Durn](durn.md#durn). It’s a half-island located in the south. it's mostly inhabited by dwarves. The worst battles of the [Last War](the-last-war.md#the-last-war) took place there, and is now one of the most strictly guarded countries in [the empire](the-empire.md#the-sadaaly-empire). The elves have established new order, dividing the country to three main districts: [Solemnvor](#solemnvor), [Froste](#froste), [Mortmount](#mortmount)
+A large country in the continent of [Durn](durn#durn). It’s a half-island located in the south. it's mostly inhabited by dwarves. The worst battles of the [Last War](the-last-war#the-last-war) took place there, and is now one of the most strictly guarded countries in [the empire](the-empire#the-sadaaly-empire). The elves have established new order, dividing the country to three main districts: [Solemnvor](#solemnvor), [Froste](#froste), [Mortmount](#mortmount)
 
 ## Solemnvore
 Referred to as 'Sullenmerr' in Dwarvish.
