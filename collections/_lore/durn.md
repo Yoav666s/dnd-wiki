@@ -1,8 +1,12 @@
 ---
+title: "Durn"
 permalink: /lore/durn/
+excerpt: "The largest, most prosperous continent in [Nornfeld](/lore/nornfeld#nornfeld) mostly governed by the [Sad'aaly Empire](/lore/the-empire#the-sadaaly-empire)."
+# header:
+#   image: /assets/images/the-weaver-large.jpg
+#   teaser: /assets/images/the-weaver-large.jpg
 ---
 
-# Durn
 The largest, most prosperous continent in [Nornfeld](/lore/nornfeld#nornfeld) mostly governed by the [Sad'aaly Empire](/lore/the-empire#the-sadaaly-empire).
 
 ### [Sad’aal Moran](/lore/sadaal-moran#sadaal-moran)
