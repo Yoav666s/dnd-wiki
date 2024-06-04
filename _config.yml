@@ -335,6 +335,5 @@ defaults:
       path: ""
       type: lore
     values:
-      layout: single
       author_profile: false
-      share: true
+      share: false
