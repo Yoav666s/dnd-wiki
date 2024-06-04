@@ -309,6 +309,12 @@ compress_html:
     envs: development
 
 
+collections:
+  lore:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Defaults
 defaults:
   # _posts
@@ -322,3 +328,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _lore
+  - scope:
+    path: ""
+    type: lore
+    values:
+      layout: single
+      author_profile: false
+      share: false

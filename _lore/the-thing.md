@@ -1,6 +1,6 @@
 # Thing of the Hollow
 
-[![An illustration of the thing](../../assets/images/thing-of-the-hollow.jpg)](../../assets/images/thing-of-the-hollow.png)
+[![An illustration of the thing](../assets/images/thing-of-the-hollow.jpg)](../assets/images/thing-of-the-hollow.png)
 
 Thing of the Hollow is a [mythical aberration](mythical-creatures.md#mythical-creatures) that doesn’t speak any language, and it is believed to be itself [Rock Hollow](rock-hollow.md#rock-hollow). As patron of the underground, it guides its inhabitants and followers through the caverns and allows them safe passage. Trespassers and invaders are led astray until they lose their way. Some eventually manage to escape, but very often too late, as they have already been driven to insanity.
 

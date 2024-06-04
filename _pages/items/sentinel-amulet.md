@@ -10,4 +10,4 @@ When the [sentinel](../lore/elmersodus.md#elmersodus-the-weathered-sentinel) is 
 
 The amulet has 10 charges, and regains 1d6 + 4 expended charges daily at dawn. If you regain more charges than were previously left expended, roll a d20. On 3 or less, the amulet disappears and Elmersodus is resurrected in his lair.
 
-[![amulet of the sentinel](../../assets/images/sentinel-amulet.jpg)](../../assets/images/sentinel-amulet.png)
+[![amulet of the sentinel](../assets/images/sentinel-amulet.jpg)](../assets/images/sentinel-amulet.png)
