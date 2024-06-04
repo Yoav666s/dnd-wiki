@@ -1,3 +1,7 @@
+---
+permalink: /durn/
+---
+
 # Durn
 The largest, most prosperous continent in [Nornfeld](nornfeld.md#nornfeld) mostly governed by the [Sad'aaly Empire](the-empire.md#the-sadaaly-empire).
 
