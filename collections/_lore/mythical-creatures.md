@@ -29,13 +29,13 @@ When a [mythical creature](#mythical-creatures) is defeated it leaves behind a p
 
 ---
 
-#### [Amulet of the Sentinel](/items/sentinel-amulet#amulet-of-the-sentinel)
+#### [Amulet of the Sentinel](/items/sentinel-amulet)
 
 [![amulet of the sentinel](../../assets/images/sentinel-amulet-small.jpg)](../../assets/images/sentinel-amulet.png)
 
 A magical amulet that holds the resting soul of the [sentinel](#elmersodus-the-weathered-sentinel), after he is defeated. When a creatures attunes to this item, it gains the power to command the winds
 
-#### [The Locket](/items/the-locket#the-locket)
+#### [The Locket](/items/the-locket)
 
 [![the locket](../../assets/images/the-locket-small.jpg)](../../assets/images/the-locket.png)
 
