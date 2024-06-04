@@ -14,7 +14,7 @@ It’s a half-island located in the south. it's mostly inhabited by halflings, g
 It has three main districts: [Solemnvor](glenfast.md#solemnvor), [Froste](glenfast.md#froste), [Mortmount](glenfast.md#mortmount)
 
 ---
-# [Rock Hollow](lore/rock-hollow#rock-hollow)
+# [Rock Hollow](/lore/rock-hollow#rock-hollow)
 
 [![rock hollow](../../assets/images/rock-hollow-small.jpg)](../../assets/images/rock-hollow.png)
 
