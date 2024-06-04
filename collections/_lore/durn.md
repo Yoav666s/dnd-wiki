@@ -1,5 +1,5 @@
 ---
-permalink: /durn/
+permalink: /lore/durn/
 ---
 
 # Durn

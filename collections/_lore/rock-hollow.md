@@ -1,3 +1,7 @@
+---
+permalink: /lore/rock-hollow
+---
+
 # Rock Hollow
 
 [![rock hollow](../../assets/images/rock-hollow.jpg)](../../assets/images/rock-hollow.png)
