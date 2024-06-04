@@ -313,7 +313,7 @@ collections_dir: collections
 collections:
   lore:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
 
 
 # Defaults
