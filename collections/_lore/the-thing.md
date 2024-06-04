@@ -1,3 +1,7 @@
+---
+permalink: /lore/the-thing/
+---
+
 # Thing of the Hollow
 
 [![An illustration of the thing](../../assets/images/thing-of-the-hollow.jpg)](../../assets/images/thing-of-the-hollow.png)

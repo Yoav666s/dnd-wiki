@@ -1,3 +1,7 @@
+---
+permalink: /lore/elmersodus/
+---
+
 # Elmersodus, the Weathered Sentinel
 
 [![elmersodus](../../assets/images/elmersodus.jpg)](../../assets/images/elmersodus.png)

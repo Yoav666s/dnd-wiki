@@ -1,3 +1,7 @@
+---
+permalink: /lore/mythical-creatures/
+---
+
 # Mythical Creatures
 The continent of [Durn](durn.md#durn) is full of mythical creatures that reside in certain areas. Their eternal souls are their source of life, but they can be defeated. When a mythical creature is defeated, it leaves behind an [emblem](#mythical-emblems) that encapsulates its soul until it is risen again. While in that state, it’s possible to use this emblem as a source of magic (relating to the creature’s powers and abilities). This keeps the creature at bay, preventing it from returning to its true form. That also means that if the emblem is not in steady use, the creature might rise again, and the keeper of the emblem won’t be able to use its magic until the creature is defeated once more.
 Some (but not all) mythical creatures may be intelligent and capable of speech.
