@@ -10,4 +10,4 @@ When the [thing's](../lore/the-thing.md#thing-of-the-hollow) heart is destroyed,
 
 The Locket has 6 charges and regains 1d6 expended charges daily at dawn. If you regain more charges than were previously left expended, roll a d20. On 3 or less, the Locket disappears and the Hollow Heart reappears somewhere in the caverns, resurrecting the Thing.
 
-![the locket](../images/the-locket.jpg)
+[![the locket](../images/the-locket.jpg)](../images/the-locket.png)
