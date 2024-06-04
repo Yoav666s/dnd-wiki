@@ -1,5 +1,5 @@
 ---
-title: "Durn"
+permalink: /lore/durn/
 ---
 
 # Durn

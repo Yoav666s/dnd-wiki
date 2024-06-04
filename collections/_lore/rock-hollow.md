@@ -1,5 +1,5 @@
 ---
-title: "Rock Hollow"
+permalink: /lore/rock-hollow/
 ---
 
 # Rock Hollow
