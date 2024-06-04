@@ -309,6 +309,7 @@ compress_html:
     envs: development
 
 collections_dir: collections
+
 collections:
   lore:
     output: true
