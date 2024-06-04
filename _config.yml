@@ -308,11 +308,11 @@ compress_html:
   ignore:
     envs: development
 
-
+collections_dir: collections
 collections:
   lore:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path
 
 
 # Defaults
@@ -336,4 +336,4 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: false
+      share: true
