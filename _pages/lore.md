@@ -1,7 +1,7 @@
 ---
 title: Lore
 layout: collection
-permalink: /:collection/:path
+permalink: /lore/:name
 collection: lore
 entries_layout: grid
 classes: wide
