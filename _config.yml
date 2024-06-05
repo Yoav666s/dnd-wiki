@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yoav"
 description              : "A D&D 5e wiki for my original homebrew content."
-url                      : "https://yoav666s.github.io"
+url                      : "https://www.nornfeld-wiki.infinityfreeapp.com/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yoav666s/dnd-wiki"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -342,6 +342,8 @@ defaults:
       sidebar:
         nav: "cats"
       comments: true
+      header:
+        image: /assets/images/lore-header.jpg
 
   # _items
   - scope:
