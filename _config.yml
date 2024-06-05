@@ -338,7 +338,7 @@ defaults:
       path: ""
       type: lore
     values:
-      layout: default
+      layout: single
       sidebar:
         nav: "cats"
       comments: true
@@ -348,7 +348,7 @@ defaults:
       path: ""
       type: items
     values:
-      layout: default
+      layout: single
       sidebar:
         nav: "cats"
       comments: true
