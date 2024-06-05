@@ -343,7 +343,7 @@ defaults:
         nav: "cats"
       comments: true
       header:
-        image: /assets/images/lore-header.jpg
+        overlay_image: /assets/images/lore-header.jpg
 
   # _items
   - scope:
@@ -355,4 +355,4 @@ defaults:
         nav: "cats"
       comments: true
       header:
-        image: /assets/images/items-header.jpg
+        overlay_image: /assets/images/items-header.jpg
