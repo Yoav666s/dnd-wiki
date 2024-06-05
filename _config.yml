@@ -344,6 +344,7 @@ defaults:
       comments: true
       header:
         overlay_image: /assets/images/lore-header.jpg
+        overlay_filter: 0.375
 
   # _items
   - scope:
@@ -356,3 +357,4 @@ defaults:
       comments: true
       header:
         overlay_image: /assets/images/items-header.jpg
+        overlay_filter: 0.375
