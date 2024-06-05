@@ -26,7 +26,7 @@ layout: default
     justify-content: flex-start;
     color: white;
     background: rgba(0, 0, 0, 0.125); /* Optional: to add a semi-transparent background over the image */
-    padding-top: 20px; /* adds space at the top */
+    padding-top: 10px; /* adds space at the top */
   }
   h1 {
     margin: 30px 0;
@@ -35,11 +35,9 @@ layout: default
     letter-spacing: -1px;
   }
   h1, p {
-    text-shadow:
-      -2px -2px 0 #000,
-       2px -2px 0 #000,
-      -2px  2px 0 #000,
-       2px  2px 0 #000; /* creates a black outline */
+    color: white; /* ensure text color remains white */
+    -webkit-text-stroke-width: 2px; /* adds an outline to the text */
+    -webkit-text-stroke-color: black; /* color of the text outline */
   }
 </style>
 
@@ -48,6 +46,5 @@ layout: default
   <div class="overlay">
     <h1>404</h1>
     <p><strong>Page not found</strong></p>
-    <p>This seems to be the wrong path...</p>
   </div>
 </div>
