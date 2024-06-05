@@ -24,8 +24,7 @@ layout: default
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    color: white;
-    background: rgba(0, 0, 0, 0.125); /* Optional: to add a semi-transparent background over the image */
+    background: rgba(0, 0, 0, 0.0); /* Optional: to add a semi-transparent background over the image */
     padding-top: 10px; /* adds space at the top */
   }
   h1 {
@@ -33,11 +32,11 @@ layout: default
     font-size: 6em;
     line-height: 1;
     letter-spacing: -1px;
-  }
-  h1, p {
-    color: white; /* ensure text color remains white */
     -webkit-text-stroke-width: 2px; /* adds an outline to the text */
     -webkit-text-stroke-color: black; /* color of the text outline */
+  }
+  h1, p {
+    color: white;
   }
 </style>
 
@@ -45,6 +44,7 @@ layout: default
   <img src="/assets/images/not-found.jpg" alt="cute image">
   <div class="overlay">
     <h1>404</h1>
-    <p><strong>Page not found</strong></p>
   </div>
+  <p><strong>Page could not be found :(</strong></p>
+  <p>It seems you're on the wrong path...</p>
 </div>
