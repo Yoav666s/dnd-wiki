@@ -5,9 +5,27 @@ layout: default
 
 <style type="text/css" media="screen">
   .container {
+    position: relative;
     margin: 10px auto;
     max-width: 600px;
     text-align: center;
+  }
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background: rgba(0, 0, 0, 0.5); /* Optional: to add a semi-transparent background over the image */
   }
   h1 {
     margin: 30px 0;
@@ -19,6 +37,8 @@ layout: default
 
 <div class="container">
   <img src="/assets/images/not-found.jpg" alt="cute image">
-  <h1>404</h1>
-  <p><strong>This seems to be the wrong path...</strong></p>
+  <div class="overlay">
+    <h1>404</h1>
+    <p><strong>This seems to be the wrong path...</strong></p>
+  </div>
 </div>
