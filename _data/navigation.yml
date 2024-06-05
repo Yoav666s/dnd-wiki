@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Home"
-  - url: https://www.nornfeld-wiki.infinityfreeapp.com/
+  # - title: "Home"
+  #   url: https://www.nornfeld-wiki.infinityfreeapp.com/
 
-sidebar:
+categories:
   - title: "Categories"
     children:
       - title: "Lore"
