@@ -3,7 +3,6 @@ title: "Rock Hollow"
 permalink: /lore/rock-hollow/
 excerpt: "A vast network of caverns and tunnels, leading anywhere and everywhere around [Nornfeld](/lore/nornfeld)."
 header:
-  image: /assets/images/rock-hollow-large.jpg
   teaser: /assets/images/rock-hollow-large.jpg
 ---
 

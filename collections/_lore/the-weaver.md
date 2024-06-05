@@ -3,7 +3,6 @@ title: "The Weaver"
 permalink: /lore/the-weaver/
 excerpt: "The weaver is a deity, believed to be in charge of fate, destiny, and possibility."
 header:
-  image: /assets/images/the-weaver-large.jpg
   teaser: /assets/images/the-weaver-large.jpg
 ---
 
