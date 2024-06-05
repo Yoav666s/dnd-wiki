@@ -8,9 +8,9 @@ header:
 
 The weaver is a deity, believed to be in charge of fate, destiny, and possibility. He goes by many names; The Storyteller, Master of Myths, Weaver of Fates, He who cannot be Trusted.  He is commonly depicted as a hooded figure holding a ball of yarn. The extent of his powers is yet to be understood, as his intentions are ever unclear. It is said that the weaver's will is never predictable. He plays with the fate of those he chooses, showering them with gifts, bestowing curses upon them, and sending very confusing message. Some believe that there is a lesson he is trying to teach them, while others believe that this is his way to keep himself amused.
 
-Any attempts to please him don't tend to be fruitful, and attempts to defy him often end up inconsequential. It is seemingly impossible to gain his neither favor nor his contempt, to affect his choices, or to alter courses of fate that he has already set.
-
 [![the weaver](../../assets/images/the-weaver.jpg)](../../assets/images/the-weaver.png)
+
+Any attempts to please him don't tend to be fruitful, and attempts to defy him often end up inconsequential. It is seemingly impossible to gain his neither favor nor his contempt, to affect his choices, or to alter courses of fate that he has already set.
 
 # Weaver's Yarn
 The weaver chooses certain people to provide guidance for. They are commonly referred to as 'chosen ones', 'puppets', or 'pawns'. He marks his message with [lone strands of yarn](/items/weavers-yarn/) that he leaves in odd places, wrapped around particular objects that may or may not hold special meaning to the recipient. He never speaks with words, yarn is his only way of communicating with mortals.
