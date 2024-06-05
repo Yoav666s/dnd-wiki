@@ -3,7 +3,6 @@ title: "The Locket"
 permalink: /items/the-locket/
 excerpt: "When the [thing's](/lore/the-thing#thing-of-the-hollow) heart is destroyed, his essence becomes stored in this locket."
 header:
-  image: /assets/images/the-locket-large.jpg
   teaser: /assets/images/the-locket-large.jpg
 ---
 

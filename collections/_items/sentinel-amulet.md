@@ -3,7 +3,6 @@ title: "Amulet of the Sentinel"
 permalink: /items/sentinel-amulet/
 excerpt: "When the [sentinel](/lore/elmersodus/) is defeated, his soul becomes contained in an amulet."
 header:
-  image: /assets/images/sentinel-amulet-large.jpg
   teaser: /assets/images/sentinel-amulet-large.jpg
 ---
 

@@ -354,3 +354,5 @@ defaults:
       sidebar:
         nav: "cats"
       comments: true
+      header:
+        image: /assets/images/items-header.jpg

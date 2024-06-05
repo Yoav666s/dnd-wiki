@@ -3,7 +3,6 @@ title: "Yarn"
 permalink: /items/weavers-yarn/
 excerpt: "A very ordinary strand of yarn that was found in a very unordinary place, typically left there as a [message from the weaver](/lore/the-weaver#weavers-yarn)."
 header:
-  image: /assets/images/weavers-yarn-large.jpg
   teaser: /assets/images/weavers-yarn-large.jpg
 ---
 
