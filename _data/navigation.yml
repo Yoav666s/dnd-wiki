@@ -1,7 +1,11 @@
 # main links
 main:
-  - title: "Lore"
-    url: /lore/
+  - title: "Categories"
+    children:
+      - title: "Lore"
+        url: /lore/
+      - title: "Items"
+        url: "/items/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
