@@ -339,10 +339,9 @@ defaults:
       type: lore
     values:
       layout: default
-      author_profile: false
-      share: false
       sidebar:
-        nav: "categories"
+        nav: "cats"
+      comments: true
 
   # _items
   - scope:
@@ -350,7 +349,6 @@ defaults:
       type: items
     values:
       layout: default
-      author_profile: false
-      share: false
       sidebar:
-        nav: "categories"
+        nav: "cats"
+      comments: true
