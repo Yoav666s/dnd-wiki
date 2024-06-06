@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Untold Legends of Nornfeld"
+title                    : "Nornfeld Wiki"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yoav"
-description              : "A D&D 5e wiki for my original homebrew content."
+description              : "An original homebrew D&D wiki"
 url                      : "https://www.nornfeld-wiki.infinityfreeapp.com/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yoav666s/dnd-wiki"
