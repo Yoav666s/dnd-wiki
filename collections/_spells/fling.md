@@ -2,9 +2,9 @@
 title: "Fling"
 permalink: /spells/fling/
 excerpt: "Choose an object to fling in a straight line up to 60 feet in a direction you choose."
-# header:
-#   image: /assets/images/the-weaver-large.jpg
-#   teaser: /assets/images/the-weaver-large.jpg
+header:
+  overlay_image: /assets/images/spells/fling/header.png
+  teaser: /assets/images/spells/fling/header.jpg
 ---
 
 | LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |
