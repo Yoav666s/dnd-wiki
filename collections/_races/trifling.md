@@ -3,7 +3,7 @@ title: "Trifling"
 permalink: /races/trifling/
 excerpt: "Triflings are derived from bloodlines of tieflings mixed with halflings, dwarves, and gnomes. Heavily resembling imps in their appearance, they are commonly greeted with suspicion and hostility."
 header:
-  image: /assets/images/trifling/header.png
+  overlay_image: /assets/images/trifling/header.png
   teaser: /assets/images/trifling/header.jpg
 ---
 
