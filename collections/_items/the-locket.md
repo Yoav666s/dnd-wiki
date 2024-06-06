@@ -7,7 +7,7 @@ header:
   teaser: assets/images/the-thing/emblem/header.jpg
 ---
 
-When the [thing's](/lore/the-thing#thing-of-the-hollow) heart is destroyed, his essence becomes stored in this locket. You may use the Locket as an arcane focus. While wearing the Locket:
+The [thing's](/lore/the-thing#thing-of-the-hollow) emblem. When its heart is destroyed, its essence becomes stored in this locket. You may use the Locket as an arcane focus. While wearing the Locket:
 
 - You can expend 1 charge to cast the **move earth** spell.
 - You can expend 2 charge to cast the **phantasmal force** spell.

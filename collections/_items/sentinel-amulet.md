@@ -1,13 +1,13 @@
 ---
 title: "Amulet of the Sentinel"
 permalink: /items/sentinel-amulet/
-excerpt: "When the [sentinel](/lore/elmersodus/) is defeated, his soul becomes contained in an amulet."
+excerpt: "When the [sentinel](/lore/elmersodus/) is defeated, his soul becomes contained in this amulet."
 header:
   overlay_image: /assets/images/elmersodus/emblem/header.png
   teaser: /assets/images/elmersodus/emblem/header.jpg
 ---
 
-When the [sentinel](/lore/elmersodus/) is defeated, his soul becomes contained in an amulet. You may use this amulet as an arcane focus or a holy symbol. While you wear this amulet:
+The emblem of the [sentinel](/lore/elmersodus/); when he is defeated, his soul becomes contained in this amulet. You may use this amulet as an arcane focus or a holy symbol. While you wear this amulet:
 
 - You can expend 1 charge to cast the **gust of wind** spell as an action.
 - You can expend 3 charges to cast the **control winds** spell as an action.
