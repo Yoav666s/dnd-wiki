@@ -1,14 +1,16 @@
 # main links
 main:
-  - title: "Home"
-    url: https://www.nornfeld-wiki.infinityfreeapp.com/
-  - title: "test page"
-    url: /lore/the-weaver/
+  # - title: "Home"
+  #   url: https://www.nornfeld-wiki.infinityfreeapp.com/
+  # - title: "test page"
+  #   url: /lore/the-weaver/
 
 cats:
   - title: "Categories"
     children:
       - title: "Lore"
         url: /lore/
+      - title: "Races"
+        url: /races/
       - title: "Items"
         url: /items/
