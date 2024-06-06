@@ -3,8 +3,8 @@ title: "The Locket"
 permalink: /items/the-locket/
 excerpt: "When the [thing's](/lore/the-thing#thing-of-the-hollow) heart is destroyed, his essence becomes stored in this locket."
 header:
-  overlay_image: /assets/assets/images/the-thing/emblem/header.jpg
-  teaser: /assets/assets/images/the-thing/emblem/header.jpg
+  overlay_image: assets/images/the-thing/emblem/header.png
+  teaser: assets/images/the-thing/emblem/header.jpg
 ---
 
 When the [thing's](/lore/the-thing#thing-of-the-hollow) heart is destroyed, his essence becomes stored in this locket. You may use the Locket as an arcane focus. While wearing the Locket:
