@@ -3,7 +3,8 @@ title: "The Locket"
 permalink: /items/the-locket/
 excerpt: "When the [thing's](/lore/the-thing#thing-of-the-hollow) heart is destroyed, his essence becomes stored in this locket."
 header:
-  teaser: /assets/images/the-locket-large.jpg
+  overlay_image: /assets/assets/images/the-thing/emblem/header.jpg
+  teaser: /assets/assets/images/the-thing/emblem/header.jpg
 ---
 
 When the [thing's](/lore/the-thing#thing-of-the-hollow) heart is destroyed, his essence becomes stored in this locket. You may use the Locket as an arcane focus. While wearing the Locket:
@@ -16,4 +17,4 @@ When the [thing's](/lore/the-thing#thing-of-the-hollow) heart is destroyed, his 
 
 The Locket has 6 charges and regains 1d6 expended charges daily at dawn. If you regain more charges than were previously left expended, roll a d20. On 3 or less, the Locket disappears and the Hollow Heart reappears somewhere in the caverns, resurrecting the Thing.
 
-[![the locket](../../assets/images/the-locket.jpg)](../../assets/images/the-locket.png)
+[![the locket](../../assets/images/the-thing/emblem/normal.jpg)](../../assets/images/the-thing/emblem/full.png)
