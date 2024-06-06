@@ -3,7 +3,7 @@ title: "The Last War"
 permalink: /lore/the-eternal-sleeper/
 excerpt: "The war that led to the conquering of the entire continent of Durn"
 # header:
-#   image: /assets/images/rock-hollow-large.jpg
+#   overlay_image: /assets/images/rock-hollow-large.jpg
 #   teaser: /assets/images/rock-hollow-large.jpg
 ---
 

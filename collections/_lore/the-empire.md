@@ -3,7 +3,7 @@ title: "The Sad'aaly Empire"
 permalink: /lore/the-empire/
 excerpt: "The Sad'aaly empire is the rightful ruler of the entire continent of [Durn](/lore/durn/)."
 # header:
-#   image: /assets/images/rock-hollow-large.jpg
+#   overlay_image: /assets/images/rock-hollow-large.jpg
 #   teaser: /assets/images/rock-hollow-large.jpg
 ---
 

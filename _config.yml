@@ -323,6 +323,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  spells:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -350,19 +354,6 @@ defaults:
         overlay_image: /assets/images/lore/header.png
         overlay_filter: 0.375
 
-  # _items
-  - scope:
-      path: ""
-      type: items
-    values:
-      layout: single
-      sidebar:
-        nav: "cats"
-      comments: true
-      header:
-        overlay_image: /assets/images/items/header.png
-        overlay_filter: 0.375
-
   # _races
   - scope:
       path: ""
@@ -374,4 +365,30 @@ defaults:
       comments: true
       header:
         overlay_image: /assets/images/races/header.png
+        overlay_filter: 0.375
+
+  # _spells
+  - scope:
+      path: ""
+      type: spells
+    values:
+      layout: single
+      sidebar:
+        nav: "cats"
+      comments: true
+      header:
+        overlay_image: /assets/images/spells/header.png
+        overlay_filter: 0.375
+
+  # _items
+  - scope:
+      path: ""
+      type: items
+    values:
+      layout: single
+      sidebar:
+        nav: "cats"
+      comments: true
+      header:
+        overlay_image: /assets/images/items/header.png
         overlay_filter: 0.375

@@ -3,7 +3,7 @@ title: "Mythical Creatures"
 permalink: /lore/mythical-creatures/
 excerpt: "Powerful creatures that inhabit various areas in Nornfeld"
 # header:
-#   image: /assets/images/elmersodus-large.jpg
+#   overlay_image: /assets/images/elmersodus-large.jpg
 #   teaser: /assets/images/elmersodus-large.jpg
 ---
 

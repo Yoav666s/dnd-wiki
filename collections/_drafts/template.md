@@ -1,4 +1,11 @@
-# Name
+---
+title: ""
+permalink: /spells/spell-name/
+excerpt: "Not Implemented"
+# header:
+#   overlay_image: /assets/images/the-weaver-large.jpg
+#   teaser: /assets/images/the-weaver-large.jpg
+---
 
 | LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |
 | :------------- | :------------- | :------------- | :------------- |

@@ -59,7 +59,7 @@ Thanks to your infernal bloodline, you have superior vision in dark and dim cond
 You know the produce flame cantrip. When you reach 3rd level, you can cast the disguise self spell with this trait a number of times equal to your proficiency bonus. When you reach 5th level, you can cast the invisibility spell with this trait a number of times equal to your proficiency bonus. Charisma is your spellcasting ability for these spells, and you regain all expended uses when you finish a long rest.
 
 ### The Meek Shall Inherit
-Living a life of constant danger and faced with hostility from all sides, you've adapted to accommodate for your weakness. Your Strength score is reduced by 2 points, but you can choose a feat.
+Living a life of constant danger and faced with hostility from all sides, you've adapted to accommodate for your weakness. Your Strength score is reduced by 1 point, but you can choose a feat.
 
 ### Languages
 You can speak, read, and write Common and Infernal.

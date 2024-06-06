@@ -12,5 +12,7 @@ cats:
         url: /lore/
       - title: "Races"
         url: /races/
+      - title: "Spells"
+        url: /spells/
       - title: "Items"
         url: /items/
