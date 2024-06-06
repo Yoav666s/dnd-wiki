@@ -343,7 +343,7 @@ defaults:
         nav: "cats"
       comments: true
       header:
-        overlay_image: /assets/images/lore-header.jpg
+        overlay_image: /assets/images/lore/header.jpg
         overlay_filter: 0.375
 
   # _items
@@ -356,5 +356,5 @@ defaults:
         nav: "cats"
       comments: true
       header:
-        overlay_image: /assets/images/items-header.jpg
+        overlay_image: /assets/images/items/header.jpg
         overlay_filter: 0.375
