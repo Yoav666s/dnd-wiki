@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Name (?th Level)"
 permalink: /spells/spell-name/
 excerpt: "Not Implemented"
 # header:

@@ -1,5 +1,5 @@
 ---
-title: "Fling"
+title: "Fling (Cantrip)"
 permalink: /spells/fling/
 excerpt: "Choose an object to fling in a straight line up to 60 feet in a direction you choose."
 header:
