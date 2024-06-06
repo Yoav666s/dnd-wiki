@@ -319,6 +319,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  races:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -357,4 +361,17 @@ defaults:
       comments: true
       header:
         overlay_image: /assets/images/items/header.jpg
+        overlay_filter: 0.375
+
+  # _races
+  - scope:
+      path: ""
+      type: races
+    values:
+      layout: single
+      sidebar:
+        nav: "cats"
+      comments: true
+      header:
+        overlay_image: /assets/images/races/header.jpg
         overlay_filter: 0.375
