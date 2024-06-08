@@ -2,6 +2,10 @@
 title: "False Display (Cantrip)"
 permalink: /spells/false-display/
 excerpt: "You cast a harmless, illusory aspect of another non-illusion spell that you have seen before."
+tags:
+  - spell
+  - combat
+  - deception
 # header:
 #   overlay_image: /assets/images/false-display/header.png
 #   teaser: /assets/images/false-display/header.jpg

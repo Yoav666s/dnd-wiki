@@ -2,7 +2,11 @@
 title: "Subterfuge (Cantrip)"
 permalink: /spells/subterfuge/
 excerpt: "Choose an object to fling in a straight line up to 60 feet in a direction you choose."
-header:
+tags:
+  - spell
+  - deception
+  - utility
+# header:
   # overlay_image: /assets/images/spells/subterfuge/header.png
   # teaser: /assets/images/spells/subterfuge/header.jpg
 ---

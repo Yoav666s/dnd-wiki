@@ -2,6 +2,11 @@
 title: "Minor Phantasm (Cantrip)"
 permalink: /spells/minor-phantasm/
 excerpt: "You create a phantasmal, inanimate object or other visible phenomenon of your choice that is perceivable only to the target."
+tags:
+  - spell
+  - damage
+  - control
+  - deception
 # header:
 #   overlay_image: /assets/images/minor-phantasm/header.png
 #   teaser: /assets/images/minor-phantasm/header.jpg

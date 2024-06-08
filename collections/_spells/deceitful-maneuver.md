@@ -2,6 +2,9 @@
 title: "Deceitful Maneuver (Cantrip)"
 permalink: /spells/deceitful-maneuver/
 excerpt: "You become invisible at the same time that an illusory double of you appears instead of you."
+tags:
+  - spell
+  - deception
 # header:
 #   overlay_image: /assets/images/deceitful-maneuver/header.png
 #   teaser: /assets/images/deceitful-maneuver/header.jpg
