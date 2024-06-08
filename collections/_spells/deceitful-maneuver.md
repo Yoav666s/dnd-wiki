@@ -7,9 +7,7 @@ excerpt: "You become invisible at the same time that an illusory double of you a
 #   teaser: /assets/images/the-weaver-large.jpg
 ---
 
-You become invisible at the same time that an illusory double of you appears instead of you.
-
-For the duration, you can sneak around at half your movement speed, and perform actions as normal. You gain an advantage on Dexterity (Sleight of Hand, Stealth) checks. Anything you're wearing or carrying is invisible as long as it is on your person, including any small objects you pick up. If you would provoke an opportunity attack while under the effects of this spell, you may evade it if you succeed a Dexterity saving throw against the enemy's passive perception.
+You become invisible at the same time that an illusory double of you appears instead of you. For the duration, you can sneak around at half your movement speed, and perform actions as normal. You gain an advantage on Dexterity (Sleight of Hand, Stealth) checks. Anything you're wearing or carrying is invisible as long as it is on your person, including any small objects you pick up. If you would provoke an opportunity attack while under the effects of this spell, you may evade it if you succeed a Dexterity saving throw against the enemy's passive perception.
 
 The spell ends early if you move faster than half of your normal movement speed, touch another creature, perform an attack, make an audible sound, or if someone tries to interact with your illusion. You automatically fail Constitution saving throws to maintain concentration on this spell when interrupted.
 
