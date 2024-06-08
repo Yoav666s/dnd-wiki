@@ -31,7 +31,7 @@ Heavily resembling imps in their appearance, triflings subsist in small minoriti
 
 Lacking in physical strength, triflings must rely on their cunning guile and quick reflexes to survive. They are commonly mistaken for imps, greeted with suspicion and even hostility. They find it difficult to gain the trust of others, and so they begin to embrace others' prejudice against them, using their devilish appearance for their advantage.
 
-![trifling](../../assets/images/trifling/normal.jpg)
+[![trifling](../../assets/images/trifling/normal.jpg)](../../assets/images/trifling/full.png)
 
 > ##### MET WITH HATE
 >
