@@ -1,7 +1,7 @@
 ---
 title: "Subterfuge (Cantrip)"
 permalink: /spells/subterfuge/
-excerpt: "Choose an object to fling in a straight line up to 60 feet in a direction you choose."
+excerpt: "You create a magical distraction within a range of 30 ft."
 tags:
   - spell
   - deception
