@@ -5,6 +5,7 @@ excerpt: "You become invisible at the same time that an illusory double of you a
 tags:
   - spell
   - deception
+keywords: "spell, deception"
 # header:
 #   overlay_image: /assets/images/deceitful-maneuver/header.png
 #   teaser: /assets/images/deceitful-maneuver/header.jpg
