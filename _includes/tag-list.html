@@ -7,12 +7,19 @@
 
 {% if site.tag_archive.path %}
   {% assign tags_sorted = page.tags | sort_natural %}
+  {% assign tag_attributes = 'class="page__taxonomy-item p-category" rel="tag"' %}
 
   <p class="page__taxonomy">
     <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i></strong>
     <span itemprop="keywords">
     {% for tag_word in tags_sorted %}
-      <a class="page__taxonomy-item p-category" rel="tag" markdown="1">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+      {% assign tag_link = nil %}
+      {% if tag_word == "Elmersodus" %}
+        {% assign tag_link = '/lore/elmersodus' %}
+      {% elsif tag_word == "Mythical Emblem" %}
+        {% assign tag_link = '/lore/mythical-creatures/#mythical-emblems' %}
+      {% endif %}
+      <a{% if tag_link %}href="{{ tag_link }}" {% endif %}{{ tag_attributes }}>{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
     {% endfor %}
     </span>
   </p>
