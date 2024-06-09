@@ -6,7 +6,7 @@ main:
   #   url: /lore/the-weaver/
 
 cats:
-  - title: "Categories"
+  - title: "Other Categories"
     children:
       - title: "Lore"
         url: /lore/
