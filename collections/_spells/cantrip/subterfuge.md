@@ -6,9 +6,9 @@ tags:
   - Spell
   - Deception
   - Utility
-# header:
-  # overlay_image: /assets/images/spells/subterfuge/header.png
-  # teaser: /assets/images/spells/subterfuge/header.jpg
+header:
+  overlay_image: /assets/images/spells/subterfuge/header.png
+  teaser: /assets/images/spells/subterfuge/header.jpg
 ---
 
 **Cantrip** (*Master of Mischief*) \
