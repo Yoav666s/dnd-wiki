@@ -11,7 +11,7 @@ tags:
   # teaser: /assets/images/spells/subterfuge/header.jpg
 ---
 
-**Cantrip** (*Rogue - Master of Mischief*) \
+**Cantrip** (*Master of Mischief*) \
 You create one of the following instantaneous magical effects within range:
 - You create an auditory effect, such as a whisper, footsteps, faint musical notes, or creaky floorboards.
 - You interact with a nearby opening mechanism, causing an unlocked door, window, or container to softly open or close.
