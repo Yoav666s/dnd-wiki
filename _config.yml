@@ -310,6 +310,7 @@ compress_html:
 
 collections_dir: collections
 
+# Tags to hide when rendering a page, usually only added for search purposes
 hidden_tags:
   - Spell
   - Item
@@ -387,6 +388,7 @@ defaults:
       header:
         overlay_image: /assets/images/spells/header.png
         overlay_filter: 0.375
+      show_tags: true
 
   # _items
   - scope:
