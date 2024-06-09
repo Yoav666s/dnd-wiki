@@ -310,6 +310,14 @@ compress_html:
 
 collections_dir: collections
 
+exclude_tags:
+  - Spell
+  - Item
+  - Race
+  - Subclass
+  - Class
+  - Lore
+
 collections:
   lore:
     output: true
