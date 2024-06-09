@@ -23,6 +23,6 @@ You can end the spell early as an action. You may match your pose to your illuso
 
 | DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
 | :------------- | :------------- | :------------- | :------------- |
-| 1 Round        | Illusion       | None           | Invisible      |
+| <i class="fa-solid fa-copyright"></i> 1 Round      | Illusion       | None           | Invisible      |
 
 \*-*(a bit of fleece, an eyelash encased in gum arabic)*
