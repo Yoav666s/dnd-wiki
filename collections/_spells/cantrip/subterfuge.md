@@ -17,7 +17,7 @@ You create one of the following instantaneous magical effects within range:
 - You interact with a nearby opening mechanism, causing an unlocked door, window, or container to softly open or close.
 - You create an instantaneous, harmless, physical sensory effect on another person, such as a tap on the shoulder, warm breathing against the neck, or a light tug on a pocket.
 - You topple over a small object that weighs up to 5 lbs., possibly causing it to fall off a table or a shelf.
-- You instantaneously light or snuff out a small flame such as that of a candle or a torch. multiple times, make a separate roll for each attack.
+- You instantaneously light or snuff out a small flame such as that of a candle or a torch.
 
 | LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |
 | :------------- | :------------- | :------------- | :------------- |
