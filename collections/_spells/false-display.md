@@ -1,16 +1,17 @@
 ---
-title: "False Display (Cantrip)"
+title: "False Display"
 permalink: /spells/false-display/
 excerpt: "You cast a harmless, illusory aspect of another non-illusion spell that you have seen before."
 tags:
-  - spell
-  - combat
-  - deception
+  - Spell
+  - Combat
+  - Deception
 # header:
 #   overlay_image: /assets/images/false-display/header.png
 #   teaser: /assets/images/false-display/header.jpg
 ---
 
+**Cantrip** (*Rogue - Master of Mischief*) \
 You cast a harmless, illusory aspect of another non-illusion spell that you have seen before, such as Fire Bolt or Mage Hand. This effect can either be instantaneous or last for up to 10 minutes, depending on the spell you copy.
 
 You may cast this spell during combat in an attempt to confuse or distract an enemy. The target must succeed an Intelligence saving throw in order to tell that it's only an illusion. On failure, the target loses concentration and must use its reaction to evade it.

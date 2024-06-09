@@ -1,18 +1,18 @@
 ---
-title: "Subterfuge (Cantrip)"
+title: "Subterfuge"
 permalink: /spells/subterfuge/
 excerpt: "You create a magical distraction within a range of 30 ft."
 tags:
-  - spell
-  - deception
-  - utility
+  - Spell
+  - Deception
+  - Utility
 # header:
   # overlay_image: /assets/images/spells/subterfuge/header.png
   # teaser: /assets/images/spells/subterfuge/header.jpg
 ---
 
+**Cantrip** (*Rogue - Master of Mischief*) \
 You create one of the following instantaneous magical effects within range:
-
 - You create an auditory effect, such as a whisper, footsteps, faint musical notes, or creaky floorboards.
 - You interact with a nearby opening mechanism, causing an unlocked door, window, or container to softly open or close.
 - You create an instantaneous, harmless, physical sensory effect on another person, such as a tap on the shoulder, warm breathing against the neck, or a light tug on a pocket.

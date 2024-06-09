@@ -1,17 +1,18 @@
 ---
-title: "Minor Phantasm (Cantrip)"
+title: "Minor Phantasm"
 permalink: /spells/minor-phantasm/
 excerpt: "You create a phantasmal, inanimate object or other visible phenomenon of your choice that is perceivable only to the target."
 tags:
-  - spell
-  - damage
-  - control
-  - deception
+  - Spell
+  - Damage
+  - Control
+  - Deception
 # header:
 #   overlay_image: /assets/images/minor-phantasm/header.png
 #   teaser: /assets/images/minor-phantasm/header.jpg
 ---
 
+**Cantrip** (*Rogue - Master of Mischief*) \
 You craft an illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence saving throw. On a failed save, you create a phantasmal, inanimate object or other visible phenomenon of your choice that is no larger than a 5-foot cube and that is perceivable only to the target for the duration. The illusion also ends if you dismiss it as an action or cast this spell again. This spell has no effect on undead or constructs.
 
 The phantasm includes sound, temperature, and other stimuli, also evident only to the creature, and the target treats the phantasm as if it were real. The target rationalizes any illogical outcomes from interacting with the phantasm. For example, a target attempting to sit on a phantasmal chair falls, but still believes that the chair exists. The target comes up with another explanation for its fall - it slipped, someone pulled the chair from behind it, or the target simply misjudged the chair's position.

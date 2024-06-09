@@ -3,7 +3,7 @@ title: "Name (?th Level)"
 permalink: /spells/spell-name/
 excerpt: "Not Implemented"
 tags:
-  - spell
+  - Spell
 # header:
 #   overlay_image: /assets/images/the-weaver-large.jpg
 #   teaser: /assets/images/the-weaver-large.jpg
