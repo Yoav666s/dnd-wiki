@@ -7,12 +7,13 @@
 
 {% if site.tag_archive.path %}
   {% assign tags_sorted = page.tags | sort_natural %}
+  {% assign hidden_tags = site.hidden_tags %}
 
   <p class="page__taxonomy">
     <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i></strong>
     <span itemprop="keywords">
     {% for tag_word in tags_sorted %}
-      {% unless exclude_tags contains tag_word %}
+      {% unless hidden_tags contains tag_word %}
         <a class="page__taxonomy-item p-category" rel="tag">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
       {% endunless %}
     {% endfor %}

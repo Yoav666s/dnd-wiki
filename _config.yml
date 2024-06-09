@@ -310,7 +310,7 @@ compress_html:
 
 collections_dir: collections
 
-exclude_tags:
+hidden_tags:
   - Spell
   - Item
   - Race
