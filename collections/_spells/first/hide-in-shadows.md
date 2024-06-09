@@ -7,8 +7,8 @@ tags:
   - Buff
   - Invisibility
 header:
-  overlay_image: /assets/images/hide-in-shadows/header.png
-  teaser: /assets/images/hide-in-shadows/header.jpg
+  overlay_image: /assets/images/spells/hide-in-shadows/header.png
+  teaser: /assets/images/spells/hide-in-shadows/header.jpg
 ---
 
 **1st Level** (*Master of Mischief*) \
