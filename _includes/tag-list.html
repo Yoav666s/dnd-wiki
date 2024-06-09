@@ -18,7 +18,7 @@
       {% elsif tag_word == "Mythical Emblem" %}
         {% assign tag_link = '/lore/mythical-creatures/#mythical-emblems' %}
       {% endif %}
-      <a{% if tag_link %} href="{{ tag_link }}"{{% endif%}} class="page__taxonomy-item p-category" rel="tag">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+      <a{% if tag_link %} href="{{ tag_link }}"{{% endif %}} class="page__taxonomy-item p-category" rel="tag">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
     {% endfor %}
     </span>
   </p>
