@@ -1,7 +1,7 @@
 ---
 title: "Imaginary Friend"
 permalink: /spells/imaginary-friend/
-excerpt: "Not Implemented"
+excerpt: "You create an illusion of any creature that is no larger than yourself, along with a mindless, shapeless, medium force - composing together an imaginary friend."
 tags:
   - Spell
   - Control
