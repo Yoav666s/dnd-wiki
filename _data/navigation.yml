@@ -16,3 +16,24 @@ cats:
         url: /spells/
       - title: "Items"
         url: /items/
+
+spells:
+  - title: "Cantrip"
+    children:
+    - title: "Deceitful Maneuver"
+      url: /spells/deceitful-maneuver/
+    - title: "False Display"
+      url: /spells/false-display/
+    - title: "Fling"
+      url: /spells/fling/
+    - title: "Minor Phantasm"
+      url: /spells/minor-phantasm/
+    - title: "Subterfuge"
+      url: /spells/subterfuge/
+
+  - title: "1st Level"
+    children:
+      - title: "Hide in Shadows"
+        url: /spells/hide-in-shadows/
+      - title: "Imaginary Friend"
+        url: /spells/imaginary-friend/

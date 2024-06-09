@@ -383,7 +383,9 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: "cats"
+        nav:
+          - spells
+          - cats
       comments: true
       header:
         overlay_image: /assets/images/spells/header.png
