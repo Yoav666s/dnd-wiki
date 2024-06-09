@@ -5,7 +5,7 @@ excerpt: "When the [sentinel](/lore/elmersodus/) is defeated, his soul becomes c
 tags:
   - Magical Item
   - Mythical Emblem
-  - Elmersodus
+  - "[Elmersodus](/lore/elmersodus/)"
 header:
   overlay_image: /assets/images/elmersodus/emblem/header.png
   teaser: /assets/images/elmersodus/emblem/header.jpg
