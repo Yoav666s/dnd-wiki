@@ -8,6 +8,7 @@
 {% if site.tag_archive.path %}
   {% assign tags_sorted = page.tags | sort_natural %}
   {% assign hidden_tags = site.hidden_tags %}
+  {% assign classes = site.classes %}
 
   {% if page.show_tags %}
     <p class="page__taxonomy">
@@ -21,4 +22,23 @@
       </span>
     </p>
   {% endif %}
+{% endif %}
+
+{% if page.classes %}
+  {% assign classes_sorted = page.classes | sort_natural %}
+  {% assign class_pages = site.classes | map: 'title' %}
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-book" aria-hidden="true"></i></strong>
+    <span itemprop="keywords">
+    {% for class_tag in classes_sorted %}
+      {% assign class_page = site.classes | where: "title", class_tag | first %}
+      {% if class_page %}
+        <a class="page__taxonomy-item p-category" rel="tag" href="{{ class_page.url | relative_url }}">{{ class_tag }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+      {% else %}
+        <span class="page__taxonomy-item p-category">{{ class_tag }}</span>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+      {% endif %}
+    {% endfor %}
+    </span>
+  </p>
 {% endif %}
