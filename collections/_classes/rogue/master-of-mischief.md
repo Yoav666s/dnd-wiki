@@ -62,24 +62,27 @@ Your hands are nimble and your senses are shrewd. Starting at 3rd level, you gai
 
 You trickery point pool is calculated as such: `Character level + DEX Modifier`
 
-## Concealed Gesture
-You can spend 1 trickery point to give yourself advantage on a Dexterity (Sleight of Hand) check when attempting to cast a spell without being noticed.
-
 ## Deft Hands
-You can spend two trickery points to cast a cantrip as a bonus action instead of an action. On following turns, you may interact with it as a bonus action instead of an action until it ends.
+Starting at 3rd level, you can spend 2 trickery points to cast a cantrip as a bonus action, instead of an action. On following turns and until it ends, you may interact with it as a bonus action instead of an action.
+
+## Concealed Gesture
+Starting at 9th level, you can spend 1 trickery point to give yourself advantage on a Dexterity (Sleight of Hand) check when attempting to cast a spell without being noticed.
+
+## Quick Reflexes
+Starting at 13th level, you can spend 5 trickery points in order to take an additional reaction. If it's an Artful Instinct, you don't have to spend additional points to cast it.
 
 # Mischievous Incantations
-At 3rd level, you choose two Master of Mischief cantrips to specialize in:
+At 3rd level, you choose two cantrips to specialize in:
 - [Deceitful Maneuver](/spells/deceitful-maneuver/)
 - [False Display](/spells/false-display/)
 - [Fling](/spells/fling/)
 - [Minor Phantasm](/spells/minor-phantasm)
 - [Subterfuge](/spells/subterfuge/)
 
-You learn them if you don't know them already, and they do not count against your known cantrips.
+You learn them if you don't know them already, and they do not count against your known cantrips. They dictate which abilities you attain at higher levels.
 
 # Second Nature
-Starting at 9th level, your mischievous incantations become second nature to you, and you can spend 1 trickery point to cast them effortlessly as a free interaction, if to a lesser effect.
+Starting at 9th level, your mischievous incantations become second nature to you, and you can spend 1 trickery point to cast them effortlessly as a free interaction, if to a lesser effect. If you try to do so without being noticed, you gain advantage on the Dexterity (Sleight of Hand) check.
 
 ## Deceitful Step
 If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you learn the **Deceitful Step**. As your free interaction, you can spend 1 trickery point to cast Deceitful Maneuver. It doesn't require your concentration, but it dispels either at the start of your next turn or after you move 5 feet in any direction.
@@ -118,5 +121,5 @@ If you're [specialized](#mischievous-incantations) in the [Minor Phantasm](/spel
 ## Sudden Ruse
 If you're [specialized](#mischievous-incantations) in the [Subterfuge](/spells/subterfuge/) cantrip, you learn the **Sudden Ruse**. When an ally makes an attack on an enemy that is within 30 feet of you, you may spend 1 trickery point and use your reaction to cast Subterfuge in an attempt to distract only that enemy, giving your ally advantage on the attack.
 
-# Quick Reflexes
-Starting at 17th level, you can spend 5 trickery points in order to take an additional reaction.
+# Unimplemented Feature 
+Starting at 17th level, this feature is yet to be implemented.
