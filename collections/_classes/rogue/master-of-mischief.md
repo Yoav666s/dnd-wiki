@@ -88,7 +88,7 @@ If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/
 If you're [specialized](#mischievous-incantations) in the [False Display](/spells/false-display/) cantrip, you learn the **Folly Spectacle**. As your free interaction, you can spend 1 trickery point to cast False Display targeting a creature within 5 feet of you.
 
 ## Flick
-If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip, you learn **Flick**. As your free interaction, you can spend 1 trickery point to Fling one object within 10 feet of you up to 30 feet in a chosen direction. Its damage is reduced to 1d4, but it may still deal an additional 1d4 depending on its properties.
+If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip, you learn **Flick**. As your free interaction, you can spend 1 trickery point to Fling one object within 10 feet of you up to 30 feet in a chosen direction. The damage is reduced to 1d4, but it may still deal an additional 1d4 depending on its properties.
 
 ## Milder Phantasm
 If you're [specialized](#mischievous-incantations) in the [Minor Phantasm](/spells/minor-phantasm) cantrip, you learn the **Milder Phantasm**. As your free interaction, you can spend 1 trickery point to cast Minor Phantasm on a creature within 5 feet of you. It doesn't require your concentration, but it dispels at the start of your next turn.

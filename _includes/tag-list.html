@@ -24,7 +24,7 @@
   {% endif %}
 {% endif %}
 
-{% if page.classes %}
+{% if page.available_for %}
   {% assign classes_sorted = page.available_for | sort_natural %}
   {% assign class_pages = site.classes | map: 'title' %}
 
