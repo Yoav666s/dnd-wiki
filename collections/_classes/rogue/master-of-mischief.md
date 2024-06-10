@@ -1,6 +1,7 @@
 ---
 title: "Master of Mischief"
 permalink: /classes/rogue/master-of-mischief/
+excerpt: "You are a master of mischief."
 header:
   overlay_image: /assets/images/classes/rogue/master-of-mischief/header.png
   teaser: /assets/images/classes/rogue/master-of-mischief/header.jpg
@@ -17,7 +18,7 @@ The Master of Mischief Spellcasting table shows how many spell slots you have to
 
 For example, if you know the 1st-level spell charm person and have a 1st-level and a 2nd-level spell slot available, you can cast charm person using either slot.
 
-Spells Known of 1st-Level and Higher
+## Spells Known of 1st-Level and Higher
 You know three 1st-level spells of your choice, two of which you must choose from the enchantment and illusion spells on the sorcerer spell list.
 
 The Spells Known column of the Master of Mischief Spellcasting table shows when you learn more spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
@@ -33,6 +34,29 @@ Spell save DC = 8 + your proficiency bonus + your Dexterity modifier
 
 Spell attack modifier = your proficiency bonus + your Dexterity modifier
 
+## Master of Mischief Spellcasting
+
+| Rogue Level    | Cantrips Known | Spells Known   | 1st Level Slots | 2nd Level Slots | 3rd Level Slots | 4th Level Slots |
+| :------------: | :------------: | :------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| 3rd            | 3              | 3              | 2               | -               | -               | -               |
+| 4th            | 3              | 4              | 3               | -               | -               | -               |
+| 5th            | 3              | 4              | 3               | -               | -               | -               |
+| 6th            | 3              | 4              | 3               | -               | -               | -               |
+| 7th            | 3              | 5              | 4               | 2               | -               | -               |
+| 8th            | 3              | 6              | 4               | 2               | -               | -               |
+| 9th            | 3              | 6              | 4               | 2               | -               | -               |
+| 10th           | 4              | 7              | 4               | 3               | -               | -               |
+| 11th           | 4              | 8              | 4               | 3               | -               | -               |
+| 12th           | 4              | 8              | 4               | 3               | -               | -               |
+| 13th           | 4              | 9              | 4               | 3               | 2               | -               |
+| 14th           | 4              | 10             | 4               | 3               | 2               | -               |
+| 15th           | 4              | 10             | 4               | 3               | 2               | -               |
+| 16th           | 4              | 11             | 4               | 3               | 3               | -               |
+| 17th           | 4              | 11             | 4               | 3               | 3               | -               |
+| 18th           | 4              | 11             | 4               | 3               | 3               | -               |
+| 19th           | 4              | 12             | 4               | 3               | 3               | 1               |
+| 20th           | 4              | 13             | 4               | 3               | 3               | 1               |
+
 # Trickery Points
 Your hands are nimble and your senses are shrewd. Starting at 3rd level, you gain trickery points. You can spend them to swiftly cast cantrips in unexpected moments.
 
@@ -42,7 +66,7 @@ You trickery point pool is calculated as such: Character level + DEX Modifier
 You can spend a trickery point to give yourself advantage on a Dexterity (Sleight of Hand) check when attempting to cast a spell without being noticed.
 
 ## Deft Hands
-You can spend two trickery points to cast a cantrip as a bonus action instead of an action. On following turns, you may interact with it as a bonus action until it ends.
+You can spend two trickery points to cast a cantrip as a bonus action instead of an action. On following turns, you may interact with it as a bonus action instead of an action until it ends.
 
 # Mischievous Incantations
 At 3rd level, you choose two Master of Mischief cantrips to specialize in:
