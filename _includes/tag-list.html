@@ -8,7 +8,7 @@
 {% if site.tag_archive.path %}
   {% assign tags_sorted = page.tags | sort_natural %}
   {% assign hidden_tags = site.hidden_tags %}
-  {% assign classes = site.available_for %}
+  {% assign classes = site.classes %}
 
   {% if page.show_tags %}
     <p class="page__taxonomy">
@@ -25,7 +25,7 @@
 {% endif %}
 
 {% if page.classes %}
-  {% assign classes_sorted = page.classes | sort_natural %}
+  {% assign classes_sorted = page.available_for | sort_natural %}
   {% assign class_pages = site.classes | map: 'title' %}
 
   <p class="page__taxonomy">
