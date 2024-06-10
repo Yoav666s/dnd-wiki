@@ -6,7 +6,7 @@ tags:
   - Spell
   - Buff
   - Invisibility
-classes:
+available_for:
   - Master of Mischief
 header:
   overlay_image: /assets/images/spells/hide-in-shadows/header.png

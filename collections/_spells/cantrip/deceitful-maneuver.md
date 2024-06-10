@@ -5,7 +5,7 @@ excerpt: "You become invisible at the same time that an illusory double appears 
 tags:
   - Spell
   - Deception
-classes:
+available_for:
   - Master of Mischief
 # header:
 #   overlay_image: /assets/images/deceitful-maneuver/header.png

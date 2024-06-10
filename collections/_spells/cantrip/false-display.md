@@ -6,7 +6,7 @@ tags:
   - Spell
   - Combat
   - Deception
-classes:
+available_for:
   - Master of Mischief
 # header:
 #   overlay_image: /assets/images/false-display/header.png

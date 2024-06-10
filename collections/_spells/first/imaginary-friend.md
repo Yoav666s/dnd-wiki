@@ -6,7 +6,7 @@ tags:
   - Spell
   - Control
   - Deception
-classes:
+available_for:
   - Master of Mischief
 # header:
 #   overlay_image: /assets/images/the-weaver-large.jpg

@@ -6,7 +6,7 @@ tags:
   - Spell
   - Damage
   - Control
-classes:
+available_for:
   - Master of Mischief
 header:
   overlay_image: /assets/images/spells/fling/header.png

@@ -7,7 +7,7 @@ tags:
   - Damage
   - Control
   - Deception
-classes:
+available_for:
   - Master of Mischief
 # header:
 #   overlay_image: /assets/images/minor-phantasm/header.png

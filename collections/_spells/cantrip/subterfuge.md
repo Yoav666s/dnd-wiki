@@ -6,7 +6,7 @@ tags:
   - Spell
   - Deception
   - Utility
-classes:
+available_for:
   - Master of Mischief
 header:
   overlay_image: /assets/images/spells/subterfuge/header.png
