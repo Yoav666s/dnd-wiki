@@ -421,3 +421,5 @@ defaults:
       header:
         overlay_image: /assets/images/classes/header.png
         overlay_filter: 0.375
+      toc: true
+      toc_label: ""

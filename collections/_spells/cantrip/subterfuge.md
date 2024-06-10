@@ -21,7 +21,9 @@ You create one of the following instantaneous magical effects within range:
 - You topple over a small object that weighs up to 5 lbs., possibly causing it to fall off a table or a shelf.
 - You instantaneously light or snuff out a small flame such as that of a candle or a torch.
 
-Any affected creature must succeed an Intelligence saving throw. On failure, the first attack against it has advantage until your next turn. Consecutive saving throws against this spell have advantage. A creature automatically succeeds the saving throw if it notices you casting this spell.
+You may attempt to cast this spell in an attempt to distract a creature, forcing it to make an Intelligence saving throw. On failure, it is distracted and the first attack against it has advantage until your next turn.
+
+You can create one additional distraction reach a higher level: two distractions at 5th level, three distractions at 11th level, and four distractions at 17th level. Instead of creating multiple effects, you may target multiple creatures with the same effect.
 
 | LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |
 | :------------- | :------------- | :------------- | :------------- |
