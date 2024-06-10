@@ -6,12 +6,14 @@ tags:
   - Spell
   - Deception
   - Utility
+classes:
+  - Master of Mischief
 header:
   overlay_image: /assets/images/spells/subterfuge/header.png
   teaser: /assets/images/spells/subterfuge/header.jpg
 ---
 
-**Cantrip** (*Master of Mischief*) \
+**Cantrip** \
 You create one of the following instantaneous magical effects within range:
 - You create an auditory effect, such as a whisper, footsteps, faint musical notes, or creaky floorboards.
 - You interact with a nearby opening mechanism, causing an unlocked door, window, or container to softly open or close.
