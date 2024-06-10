@@ -27,6 +27,6 @@ The target is so convinced of the phantasm’s reality that it can even take dam
 
 | DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
 | :------------- | :------------- | :------------- | :------------- |
-| 1 minute       | Illusion       | INT Save       | Psychic        |
+| <i class="fa-solid fa-copyright"></i> 1 minute     | Illusion       | INT Save       | Psychic        |
 
 \*-*(a bit of fleece)*
