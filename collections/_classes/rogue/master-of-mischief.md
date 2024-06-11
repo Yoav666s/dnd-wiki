@@ -84,22 +84,22 @@ At 3rd level, you choose two cantrips to specialize in:
 You learn them if you don't know them already, and they do not count against your known cantrips. They dictate which abilities you attain at higher levels.
 
 # Second Nature
-Starting at 9th level, your mischievous incantations become second nature to you, and you can spend 1 trickery point to cast them effortlessly as a free interaction, if to a lesser effect. If you try to do so without being noticed, you gain advantage on the Dexterity (Sleight of Hand) check.
+Starting at 9th level, your mischievous incantations become second nature to you, and you can spend 1 trickery point to cast them effortlessly as a free interaction, to a lesser effect. If you  try to do so without being noticed, you gain advantage on the Dexterity (Sleight of Hand) check.
 
 ## Deceitful Step
-If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you learn the **Deceitful Step**. As your free interaction, you can spend 1 trickery point to cast Deceitful Maneuver. It doesn't require your concentration, but it dispels either at the start of your next turn or after you move 5 feet in any direction.
+If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you learn the **Deceitful Step**. As your free interaction, you can cast Deceitful Maneuver. It doesn't require your concentration, but it dispels either at the start of your next turn or after you move 5 feet in any direction.
 
 ## Folly Spectacle
 If you're [specialized](#mischievous-incantations) in the [False Display](/spells/false-display/) cantrip, you learn the **Folly Spectacle**. As your free interaction, you can spend 1 trickery point to cast False Display targeting a creature within 5 feet of you.
 
 ## Flick
-If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip, you learn **Flick**. As your free interaction, you can spend 1 trickery point to Fling one object within 10 feet of you up to 30 feet in a chosen direction. The damage is reduced to 1d4, but it may still deal an additional 1d4 depending on its properties.
+If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip, you learn **Flick**. As your free interaction, you can spend 2 trickery point to Fling one object within 10 feet of you up to 30 feet in a chosen direction. The damage is reduced to 1d6, but it may still deal an additional 1d4 depending on its properties.
 
 ## Milder Phantasm
 If you're [specialized](#mischievous-incantations) in the [Minor Phantasm](/spells/minor-phantasm) cantrip, you learn the **Milder Phantasm**. As your free interaction, you can spend 1 trickery point to cast Minor Phantasm on a creature within 5 feet of you. It doesn't require your concentration, but it ends at the start of your next turn.
 
 ## Subtle Cues
-If you're [specialized](#mischievous-incantations) in the [Subterfuge](/spells/subterfuge/) cantrip, you learn **Subtle Cues**. As your interaction, you can spend 1 trickery point to cast Subterfuge and distract one creature within 15 feet of you.
+If you're [specialized](#mischievous-incantations) in the [Subterfuge](/spells/subterfuge/) cantrip, you learn **Subtle Cues**. As your interaction, cast Subterfuge and distract one creature within 15 feet of you.
 
 # Artful Instincts
 Starting at 13th level, trickery and mischief slowly become an extension of your body. You learn to utilize your mischievous incantations in a repertoire of unique reactions. If you do so through an [Elegant Improvisation](#elegant-improvisation), you don't need to spend additional trickery points.
