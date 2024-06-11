@@ -69,7 +69,7 @@ Starting at 3rd level, you can spend 2 trickery points to cast a cantrip as a bo
 Starting at 9th level, you can spend 1 trickery point to give yourself advantage on a Dexterity (Sleight of Hand) check when attempting to cast a spell without being noticed.
 
 ## Elegant Improvisation
-Starting at 13th level, you can spend 3 trickery points once per round in order to take an additional reaction.
+Starting at 13th level, you can spend 3 trickery points in order to take an additional reaction, once per round.
 
 ## Astute Awareness
 
