@@ -68,8 +68,10 @@ Starting at 3rd level, you can spend 2 trickery points to cast a cantrip as a bo
 ## Concealed Gesture
 Starting at 9th level, you can spend 1 trickery point to give yourself advantage on a Dexterity (Sleight of Hand) check when attempting to cast a spell without being noticed.
 
-## Quick Reflexes
-Starting at 13th level, you can spend 5 trickery points in order to take an additional reaction. If it's an Artful Instinct, you don't have to spend additional points to cast it.
+## Elegant Improvisation
+Starting at 13th level, you can spend 5 trickery points in order to take an additional reaction.
+
+## Astute Awareness
 
 # Mischievous Incantations
 At 3rd level, you choose two cantrips to specialize in:
@@ -100,7 +102,7 @@ If you're [specialized](#mischievous-incantations) in the [Minor Phantasm](/spel
 If you're [specialized](#mischievous-incantations) in the [Subterfuge](/spells/subterfuge/) cantrip, you learn **Subtle Cues**. As your interaction, you can spend 1 trickery point to cast Subterfuge and distract one creature within 15 feet of you.
 
 # Artful Instincts
-Starting at 13th level, trickery and mischief slowly become an extension of your body. You learn to utilize your mischievous incantations in a repertoire of unique reactions.
+Starting at 13th level, trickery and mischief slowly become an extension of your body. You learn to utilize your mischievous incantations in a repertoire of unique reactions. If you do so through an [Elegant Improvisation](#elegant-improvisation), you don't need to spend additional trickery points.
 
 ## Deceitful Dodge
 If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you learn the **Deceitful Dodge**. When you're targeted by an attack that relies on sight, you may spend 1 trickery point and use your reaction to cast Deceitful Maneuver in an attempt to dodge, moving out of the way and giving your enemy disadvantage on the attack roll. You may move up to 5 feet if there is a safe, unoccupied area within 5 feet for you to step into and you have enough remaining movement to do so.
@@ -116,7 +118,7 @@ If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/
 Subtract `1d10 + your DEX modifier` from the attack roll. If the projectile would then miss the target, you may divert it in a direction you choose within a 30-foot cone of the original direction. If you direct the projectile to hit a different target, it can evade it by succeeding a Dexterity saving throw against the modified attack roll. On a hit, the original attacker rolls for damage.
 
 ## Momentary Phantasm
-If you're [specialized](#mischievous-incantations) in the [Minor Phantasm](/spells/minor-phantasm) cantrip, you learn the **Momentary Phantasm**. When a creature makes a melee attack within 30 feet of you, you may spend 2 trickery points and use your reaction to cast Minor Phantasm in an attempt to interrupt it. The phantasm has to directly affect the attack, such as turning the attacker's weapon to molten lava, creating a splash of acid in its face, etc.
+If you're [specialized](#mischievous-incantations) in the [Minor Phantasm](/spells/minor-phantasm) cantrip, you learn the **Momentary Phantasm**. When a creature makes a melee attack within 30 feet of you, you may spend 2 trickery points and use your reaction to cast Minor Phantasm in an attempt to interrupt it. The phantasm has to directly affect the attack, such as turning the attacker's weapon to molten lava, creating a splash of acid in its face, etc. 
 
 ## Sudden Ruse
 If you're [specialized](#mischievous-incantations) in the [Subterfuge](/spells/subterfuge/) cantrip, you learn the **Sudden Ruse**. When an ally makes an attack on an enemy that is within 30 feet of you, you may spend 1 trickery point and use your reaction to cast Subterfuge in an attempt to distract only that enemy, giving your ally advantage on the attack.
