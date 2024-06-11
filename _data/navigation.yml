@@ -22,8 +22,8 @@ spells:
     children:
     - title: "Deceitful Maneuver"
       url: /spells/deceitful-maneuver/
-    - title: "False Display"
-      url: /spells/false-display/
+    - title: "Folly Spectacle"
+      url: /spells/folly-spectacle/
     - title: "Fling"
       url: /spells/fling/
     - title: "Minor Phantasm"
