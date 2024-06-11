@@ -84,7 +84,7 @@ At 3rd level, you choose two cantrips to specialize in:
 You learn them if you don't know them already, and they do not count against your known cantrips. They dictate which abilities you attain at higher levels.
 
 # Second Nature
-Starting at 9th level, your mischievous incantations become second nature to you, and you can spend 1 trickery point to cast them effortlessly as a free interaction, to a lesser effect. If you  try to do so without being noticed, you gain advantage on the Dexterity (Sleight of Hand) check.
+Starting at 9th level, your mischievous incantations become second nature to you, and you can cast them effortlessly as a free interaction, if to a lesser effect. If you attempt to do so without being noticed, you gain advantage on the Dexterity (Sleight of Hand) check.
 
 ## Deceitful Step
 If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you learn the **Deceitful Step**. As your free interaction, you can cast Deceitful Maneuver. It doesn't require your concentration, but it dispels either at the start of your next turn or after you move 5 feet in any direction.
