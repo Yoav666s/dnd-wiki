@@ -17,6 +17,13 @@ cats:
       - title: "Spells"
         url: /spells/
 
+classes:
+  - title: "Rogue"
+    url: /classes/rogue/
+    children:
+      - title: "Mischievous Apprentice"
+        url: /classes/rogue/mischievous-apprentice/
+
 spells:
   - title: "Cantrip"
     children:

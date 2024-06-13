@@ -361,7 +361,8 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: "cats"
+        nav:
+          - cats
       comments: true
       header:
         overlay_image: /assets/images/lore/header.png
@@ -376,7 +377,8 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: "cats"
+        nav:
+          - cats
       comments: true
       header:
         overlay_image: /assets/images/races/header.png
@@ -408,7 +410,8 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: "cats"
+        nav:
+          - cats
       comments: true
       header:
         overlay_image: /assets/images/items/header.png
@@ -422,7 +425,9 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: "cats"
+        nav:
+          - classes
+          - cats
       comments: true
       header:
         overlay_image: /assets/images/classes/header.png
