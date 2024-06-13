@@ -4,12 +4,16 @@ permalink: /spells/spell-name/
 excerpt: "Not Implemented"
 tags:
   - Spell
+available_for:
+  - Wizard
+  - Sorcerer
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
 ---
 
-**?th Level** (*classes,*)\
+**?th Level Spell**
+
 description
 
 | LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |

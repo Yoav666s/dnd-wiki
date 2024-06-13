@@ -12,7 +12,8 @@ available_for:
 #   teaser: /assets/images/deceitful-maneuver/header.jpg
 ---
 
-**Cantrip** \
+**Cantrip**
+
 You become invisible at the same time that an illusory double appears instead of you. For the duration, you can sneak around at half your movement speed, and perform actions as normal. You gain an advantage on Dexterity (Sleight of Hand, Stealth) checks. Anything you're wearing or carrying is invisible as long as it is on your person, including any small objects you pick up. If you would provoke an opportunity attack while invisible, you may evade it if you succeed a Dexterity (Stealth) check against the enemy's passive perception.
 
 The spell ends early if you move faster than half of your normal movement speed, touch another creature, perform an attack, make an audible sound, or if someone tries to interact with your illusion. You automatically fail Constitution saving throws to maintain concentration when this spell is interrupted.

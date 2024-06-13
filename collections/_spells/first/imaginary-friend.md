@@ -13,7 +13,8 @@ available_for:
 #   teaser: /assets/images/the-weaver-large.jpg
 ---
 
-**1st Level** \
+**1st Level Spell** 
+
 You create an illusion of any creature that is no larger than yourself, along with a mindless, shapeless, medium force. Composing together an imaginary friend, this spell has two independent components: The illusory aspect and the physical aspect. It springs into existence in an unoccupied space within range.
 
 - The illusory aspect lasts for 1 minute, or for as long as you maintain concentration. At any point, and as long as the physical aspect is still active, you may resume concentrating on the illusion, making it reappear at the appropriate position.

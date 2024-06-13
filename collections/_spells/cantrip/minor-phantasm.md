@@ -14,7 +14,8 @@ available_for:
 #   teaser: /assets/images/minor-phantasm/header.jpg
 ---
 
-**Cantrip** \
+**Cantrip**
+
 You craft an illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence saving throw. On a failed save, you create or modify an inanimate object, living creature, or other visible phenomenon of your choice that is no larger than a 5-foot cube. The phantasm is perceivable only to the target for the duration. This spell has no effect on undead or constructs.
 
 The phantasm includes sound, temperature, and other stimuli, also evident only to the creature, and the target treats the phantasm as if it were real. The target rationalizes any illogical outcomes from interacting with the phantasm. For example, a target attempting to sit on a phantasmal chair will fall, but still believe that the chair exists. The target comes up with another explanation for its fall - it slipped, someone pulled the chair from behind it, or the target simply misjudged the chair's position.
