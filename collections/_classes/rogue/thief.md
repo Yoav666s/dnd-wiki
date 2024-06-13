@@ -2,6 +2,8 @@
 title: "Thief"
 permalink: /classes/rogue/thief/
 excerpt: "Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators."
+tags:
+  - Rogue
 available_for:
   - Rogue
 header:

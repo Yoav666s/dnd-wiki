@@ -2,6 +2,8 @@
 title: "Mischievous Apprentice"
 permalink: /classes/rogue/mischievous-apprentice/
 excerpt: "You have learned use magic not for power, primarily, but for your own entertainment. You are specialized in mischievous magic tricks not eminently known to the masses."
+tags:
+  - Rogue
 available_for:
   - Rogue
 header:
