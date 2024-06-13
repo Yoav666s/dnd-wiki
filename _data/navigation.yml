@@ -23,6 +23,8 @@ classes:
     children:
       - title: "Mischievous Apprentice"
         url: /classes/rogue/mischievous-apprentice/
+      - title: "Thief"
+      - url: /classes/rogue/thief/
 
 spells:
   - title: "Cantrip"

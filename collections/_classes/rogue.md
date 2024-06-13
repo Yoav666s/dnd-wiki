@@ -19,7 +19,7 @@ Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper 
 | :---: | :---------------: | :----------: | :----------------------------------------- |
 | 1st   | +2                | 1d6          | Expertise, Sneak Attack, Thieves' Cant     |
 | 2nd   | +2                | 1d6          | Cunning Action                             |
-| 3rd   | +2                | 2d6          | Roguish Archetype, *Steady Aim (Optional)* |
+| 3rd   | +2                | 2d6          | Roguish Archetype                          |
 | 4th   | +2                | 2d6          | Ability Score Improvement                  |
 | 5th   | +3                | 3d6          | Uncanny Dodge                              |
 | 6th   | +3                | 3d6          | Expertise                                  |
@@ -94,10 +94,7 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 | Scout                                            | Xanathar's Guide to Everything |
 | Soulknife                                        | Tasha's Cauldron of Everything |
 | Swashbuckler                                     | Xanathar's Guide to Everything |
-| Thief                                            | Player's Handbook              |
-
-## Steady Aim (Optional)
-At 3rd level, as a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+| [Thief](thief)                                   | Player's Handbook              |
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
