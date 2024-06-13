@@ -1,6 +1,9 @@
 ---
 title: "Rogue"
 permalink: /classes/rogue/
+header:
+  overlay_image: /assets/images/classes/rogue/header.png
+  teaser: /assets/images/classes/rogue/header.jpg
 ---
 
 Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a resourcefulness and versatility that is the cornerstone of any successful adventuring party.
