@@ -1,4 +1,4 @@
 ---
 title: "Ability Scores"
-srd: true
+permalink: /rules/ability-scores/
 ---
