@@ -10,6 +10,7 @@ Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper 
 </div>
 
 # The Rogue
+
 | Level | Proficiency Bonus | Sneak Attack | Features                                   |
 | :---: | :---------------: | :----------: | :----------------------------------------- |
 | 1st   | +2                | 1d6          | Expertise, Sneak Attack, Thieves' Cant     |
