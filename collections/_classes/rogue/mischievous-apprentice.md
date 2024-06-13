@@ -1,7 +1,7 @@
 ---
 title: "Mischievous Apprentice"
 permalink: /classes/rogue/mischievous-apprentice/
-excerpt: "You are a master of mischief."
+excerpt: "You are an apprentice in mischief."
 header:
   overlay_image: /assets/images/classes/rogue/mischievous-apprentice/header.png
   teaser: /assets/images/classes/rogue/mischievous-apprentice/header.jpg
@@ -133,4 +133,4 @@ If you're [specialized](#mischievous-incantations) in the [Subterfuge](/spells/s
 ---
 
 # Elegant Improvisation
-Starting at 17th level, you can take an additional reaction once per round, and only in order to cast a spell that has the casting time of 1 reaction, or to perform a [Precarious Riposte](#precarious-riposte). You can do this a number of times equal to your proficiency bonus per long rest.
+Starting at 17th level, you can take an additional reaction once per round, and only in order to cast a spell that has the casting time of 1 reaction, or to perform a [Precarious Riposte](#precarious-riposte). You can use this feature a number of times equal to your Dexterity modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
