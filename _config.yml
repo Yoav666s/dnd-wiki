@@ -363,7 +363,6 @@ defaults:
       sidebar:
         nav:
           - cats
-      comments: true
       header:
         overlay_image: /assets/images/lore/header.png
         overlay_filter: 0.375
@@ -379,7 +378,6 @@ defaults:
       sidebar:
         nav:
           - cats
-      comments: true
       header:
         overlay_image: /assets/images/races/header.png
         overlay_filter: 0.375
@@ -396,7 +394,6 @@ defaults:
         nav:
           - spells
           - cats
-      comments: true
       header:
         overlay_image: /assets/images/spells/header.png
         overlay_filter: 0.375
@@ -412,7 +409,6 @@ defaults:
       sidebar:
         nav:
           - cats
-      comments: true
       header:
         overlay_image: /assets/images/items/header.png
         overlay_filter: 0.375
@@ -428,7 +424,6 @@ defaults:
         nav:
           - classes
           - cats
-      comments: true
       header:
         overlay_image: /assets/images/classes/header.png
         overlay_filter: 0.375
