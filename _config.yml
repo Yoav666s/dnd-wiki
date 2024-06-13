@@ -416,6 +416,7 @@ defaults:
       layout: single
       sidebar:
         nav:
+          - rules
           - cats
       header:
         overlay_image: /assets/images/rules/header.png

@@ -6,14 +6,14 @@ excerpt: "Is a character muscle-bound and insightful? Brilliant and charming? Ni
 
 Six abilities provide a quick description of every creature’s physical and mental characteristics:
 
-- **Strength**, measuring physical power
-- **Dexterity**, measuring agility
-- **Constitution**, measuring endurance
-- **Intelligence**, measuring reasoning and memory
-- **Wisdom**, measuring perception and insight
-- **Charisma**, measuring force of personality
+- [**Strength**](#strength), measuring physical power
+- [**Dexterity**](#dexterity), measuring agility
+- [**Constitution**](#constitution), measuring endurance
+- [**Intelligence**](#intelligence), measuring reasoning and memory
+- [**Wisdom**](#wisdom), measuring perception and insight
+- [**Charisma**](#charisma), measuring force of personality
 
-Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities--a creature’s assets as well as weaknesses. The three main rolls of the game—the [ability check](), the saving throw, and the attack roll--rely on the six ability scores. The book’s introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
+Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities--a creature’s assets as well as weaknesses. The three main rolls of the game—the ability check, the saving throw, and the attack roll--rely on the six ability scores. The book’s introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
 
 # Ability Scores and Modifiers
 Each of a creature’s abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature’s training and competence in activities related to that ability.

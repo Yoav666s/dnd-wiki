@@ -28,6 +28,16 @@ classes:
       - title: "Thief"
         url: /classes/rogue/thief/
 
+rules:
+  # - title: "Creating A Character"
+  #   children:
+  - title: "Playing The Game"
+    children:
+      - title: "Ability Scores"
+        url: /rules/ability-scores/
+      - title: "Adventuring"
+        url: /rules/adventuring/
+
 spells:
   - title: "Cantrip"
     children:
