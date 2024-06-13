@@ -8,10 +8,10 @@ header:
 ---
 
 # Spellcasting
-When you reach 3rd level, you gain the ability to cast spells. See Spells Rules for the general rules of spellcasting and the Spells Listing for the Sorcerer spell list.
+When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
 
 ## Cantrips
-You learn three cantrips of your choice from the Master of Mischief spell list.
+You learn three cantrips of your choice from the Master of Mischief spell list. You learn another cantrip at 10th level.
 
 ## Spell Slots
 The [Master of Mischief Spellcasting table](#master-of-mischief-spellcasting) shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
@@ -36,55 +36,51 @@ Spell attack modifier = your proficiency bonus + your Dexterity modifier
 
 ## Master of Mischief Spellcasting
 
-| Rogue Level    | Cantrips Known | Spells Known   | 1st Level Slots | 2nd Level Slots | 3rd Level Slots | 4th Level Slots |
-| :------------: | :------------: | :------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| 3rd            | 3              | 3              | 2               | -               | -               | -               |
-| 4th            | 3              | 4              | 3               | -               | -               | -               |
-| 5th            | 3              | 4              | 3               | -               | -               | -               |
-| 6th            | 3              | 4              | 3               | -               | -               | -               |
-| 7th            | 3              | 5              | 4               | 2               | -               | -               |
-| 8th            | 3              | 6              | 4               | 2               | -               | -               |
-| 9th            | 3              | 6              | 4               | 2               | -               | -               |
-| 10th           | 4              | 7              | 4               | 3               | -               | -               |
-| 11th           | 4              | 8              | 4               | 3               | -               | -               |
-| 12th           | 4              | 8              | 4               | 3               | -               | -               |
-| 13th           | 4              | 9              | 4               | 3               | 2               | -               |
-| 14th           | 4              | 10             | 4               | 3               | 2               | -               |
-| 15th           | 4              | 10             | 4               | 3               | 2               | -               |
-| 16th           | 4              | 11             | 4               | 3               | 3               | -               |
-| 17th           | 4              | 11             | 4               | 3               | 3               | -               |
-| 18th           | 4              | 11             | 4               | 3               | 3               | -               |
-| 19th           | 4              | 12             | 4               | 3               | 3               | 1               |
-| 20th           | 4              | 13             | 4               | 3               | 3               | 1               |
+| Rogue Level | Cantrips Known | Spells Known | 1st Level Slots | 2nd Level Slots | 3rd Level Slots | 4th Level Slots |
+| :---------: | :------------: | :----------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| 3rd         | 3              | 3            | 2               | -               | -               | -               |
+| 4th         | 3              | 4            | 3               | -               | -               | -               |
+| 5th         | 3              | 4            | 3               | -               | -               | -               |
+| 6th         | 3              | 4            | 3               | -               | -               | -               |
+| 7th         | 3              | 5            | 4               | 2               | -               | -               |
+| 8th         | 3              | 6            | 4               | 2               | -               | -               |
+| 9th         | 3              | 6            | 4               | 2               | -               | -               |
+| 10th        | 4              | 7            | 4               | 3               | -               | -               |
+| 11th        | 4              | 8            | 4               | 3               | -               | -               |
+| 12th        | 4              | 8            | 4               | 3               | -               | -               |
+| 13th        | 4              | 9            | 4               | 3               | 2               | -               |
+| 14th        | 4              | 10           | 4               | 3               | 2               | -               |
+| 15th        | 4              | 10           | 4               | 3               | 2               | -               |
+| 16th        | 4              | 11           | 4               | 3               | 3               | -               |
+| 17th        | 4              | 11           | 4               | 3               | 3               | -               |
+| 18th        | 4              | 11           | 4               | 3               | 3               | -               |
+| 19th        | 4              | 12           | 4               | 3               | 3               | 1               |
+| 20th        | 4              | 13           | 4               | 3               | 3               | 1               |
 
 ---
 
-# Concealed Gesture
-Starting at 3rd level, you have advantage on Dexterity (Sleight of Hand) checks when attempting to cast a spell without being noticed.
-
-# Cunning Flair
-You have a flair for magic, or more specifically, for cantrips. Starting at 3rd level, you can cast a cantrip as a bonus action if it has the casting time of 1 action. You can do this a number of times equal to your proficiency bonus per short rest.
-
 # Mischievous Incantations
-At 3rd level, you choose up two cantrips to specialize in, from the Master of Mischief spell list. The ones you choose gain bonuses as you progress.
+At 3rd level, choose two cantrips to specialize in, from the Master of Mischief spell list:
 
 ## [Deceitful Maneuver](/spells/deceitful-maneuver/)
-You can cast this spell freely as part of any interaction, such as drawing a dagger, sitting down, or moving up to 5 feet. It doesn't require your concentration, but it dispels after you finish the interaction.
+You can cast this spell freely as part of any interaction, such as drawing a dagger, pulling a lever, or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
 
 ## [Folly Spectacle](/spells/folly-spectacle/)
-When you cast this spell, you don't provoke opportunity attacks from creatures you target for the rest of the turn.
+When you cast this spell, you don't provoke opportunity attacks from the creature you target for the rest of the turn.
 
 ## [Fling](/spells/fling/)
 Ranged attacks you make with this spell can deal sneak attack damage.
 
 ## [Minor Phantasm](/spells/minor-phantasm)
-As long as a creature is actively distracted by the effects of this spell, the first attack against it each round has advantage.
+Taking damage doesn't automatically end this spell for the target. Instead, it must make another Intelligence saving throw to realize that it's an illusion.
 
 ## [Subterfuge](/spells/subterfuge/)
-Distractions you affect with this spell can be more deliberate and , for example:
-- A whisper can be in a specific voice that you've heard and can consist of five words.
-- You may interact with more complex or delicate mechanisms, such as belt buckles, straps, and tied knots.
+Distractions you affect with this spell can be more deliberate, for example:
+- A whisper can be in a specific voice that you've heard and can consist of up to five words.
+- You may interact with more delicate mechanisms, such as belt buckles, straps, and tied knots.
 - Physical sensory effects may cause more of a ruse, such as pulling a guard's helmet down to cover his eyes.
+
+In addition to these benefits, you can use your bonus action to cast the cantrips you're specialized in, and have advantage on Dexterity (Sleight of Hand) checks when attempting to cast them without being noticed.
 
 ---
 
@@ -95,21 +91,21 @@ At 9th level, your [mischievous incantations](#mischievous-incantations) gain ad
 You are able to move at normal speed without breaking the effects of this spell.
 
 ## [Folly Spectacle](/spells/folly-spectacle/)
-Creatures have disadvantage on saving throws made against this spell.
+Creatures have disadvantage on saving throws made against this spell if they are engaged in combat with another creature.
 
 ## [Fling](/spells/fling/)
 This spell's damage dice are replaced for you with 1d10 instead of 1d8, and 1d6 instead of 1d4.
 
 ## [Minor Phantasm](/spells/minor-phantasm)
-???
+As long as a creature is actively distracted by the effects of this spell, attacks against it have advantage.
 
 ## [Subterfuge](/spells/subterfuge/)
-You may cast this spell as your free interaction, affecting no more than one distraction.
+You may cast this spell in order to distract a creature. The next attack against it has advantage until the your next turn.
 
 ---
 
 # Precarious Riposte
-Starting at 13th level, your mischievous incantations become instinctual, allowing you to cast them in a repertoire of unique reactions. If you do so through an [Elegant Improvisation](#elegant-improvisation), you don't need to spend additional flair points.
+Starting at 13th level, your mischievous incantations become instinctual, allowing you to cast them in a repertoire of unique reactions.
 
 ## Deceitful Dodge
 If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you learn the **Deceitful Dodge**. When you're targeted by an attack that relies on sight, you may use your reaction to cast Deceitful Maneuver to give it disadvantage.
@@ -117,34 +113,24 @@ If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/
 You may also move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. A ranged attack will automatically miss if you move out of the projectile's path. If you would move out of a creature's engagement range, you must succeed a Dexterity (Stealth) check against its passive perception or provoke an opportunity attack.
 
 ## Daunting Display
-If you're [specialized](#mischievous-incantations) in the [Folly Spectacle](/spells/folly-spectacle/) cantrip, you learn the **Daunting Display**. When a creature attempts to move within 30 feet of you, you may spend 1 flair point and use your reaction to cast Folly Spectacle in an attempt to startle it.
+If you're [specialized](#mischievous-incantations) in the [Folly Spectacle](/spells/folly-spectacle/) cantrip, you learn the **Daunting Display**. When a creature attempts to move within 30 feet of you, you may use your reaction to cast Folly Spectacle in an attempt to startle it.
 
 The creature must make an Intelligence saving throw in order to tell that it's only an illusion. On failure, it uses its reaction to stop in its tracks and its speed is reduced to 0 until the end of the round.
 
 ## Divert
-If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip, you learn **Divert**. When you notice a ranged weapon attack, you may spend 2 flair points and use your reaction to try and divert its projectile when it reaches a distance of 30 feet or less from you.
+If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip, you learn **Divert**. When you notice a ranged weapon attack, you may use your reaction to try and divert its projectile when it reaches a distance of 30 feet or less from you.
 
-Subtract `1d10 + your DEX modifier` from the attack roll. If the projectile would then miss the target, you may divert it in a direction you choose within a 30-foot cone of the original direction. If you direct the projectile to hit a different target, it can evade it by succeeding a Dexterity saving throw against the modified attack roll. On a hit, the original attacker rolls for damage.
+Subtract 1d10 + your DEX modifier from the attack roll. If the projectile would then miss the target, you may divert it in a direction you choose within a 30-foot cone of the original direction. If you direct the projectile to hit a different target, it can evade it by succeeding a Dexterity saving throw against the modified attack roll. On a hit, the original attacker rolls for damage.
 
 ## Momentary Phantasm
-If you're [specialized](#mischievous-incantations) in the [Minor Phantasm](/spells/minor-phantasm) cantrip, you learn the **Momentary Phantasm**. When a creature makes a melee attack within 30 feet of you, you may spend 1 flair point and use your reaction to cast Minor Phantasm in an attempt to interrupt it. The phantasm has to directly affect the attack, such as turning the attacker's weapon to molten lava, creating a splash of acid in its face, etc.
+If you're [specialized](#mischievous-incantations) in the [Minor Phantasm](/spells/minor-phantasm) cantrip, you learn the **Momentary Phantasm**. When a creature makes a melee attack within 30 feet of you, you may use your reaction to cast Minor Phantasm in an attempt to interrupt it.
+
+The attacker must make an Intelligence saving throw. On failure, the phantasm takes effect and the attack is prevented. The phantasm you create must directly affect the attack, such making the attacker's weapon appear as a snake. This requires your concentration.
 
 ## Sudden Ruse
-If you're [specialized](#mischievous-incantations) in the [Subterfuge](/spells/subterfuge/) cantrip, you learn the **Sudden Ruse**. When an enemy within 30 feet of you makes an attack, you may use your reaction to cast Subterfuge in an attempt to startle that creature, giving it disadvantage on the attack roll.
-
-# Elegant Improvisation
-Starting at 13th level, you can take an additional reaction, once per round, and only in order to cast a spell that has the casting time of 1 reaction, or to perform a [Precarious Riposte](#precarious-riposte). You can do this a number of times equal to your proficiency bonus per short rest.
+If you're [specialized](#mischievous-incantations) in the [Subterfuge](/spells/subterfuge/) cantrip, you learn the **Sudden Ruse**. When an enemy within 30 feet of you makes an attack, you may use your reaction to cast Subterfuge in an attempt to startle, confuse, or distract that creature, giving it disadvantage on the attack roll.
 
 ---
 
-# Flawless Artistry
-Starting at 17th level,
-
-## Deceitful Maneuver
-If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you may spend 1 flair points to cast it as part of your movement, but it still requires your concentration.
-
-## Folly Spectacle
-If you're [specialized](#mischievous-incantations) in the [Folly Spectacle](/spells/folly-spectacle/) cantrip, you learn to **fuck**.
-
-## Fling
-If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip,
+# Elegant Improvisation
+Starting at 17th level, you can take an additional reaction once per round, and only in order to cast a spell that has the casting time of 1 reaction, or to perform a [Precarious Riposte](#precarious-riposte). You can do this a number of times equal to your proficiency bonus per long rest.

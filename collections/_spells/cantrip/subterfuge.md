@@ -21,8 +21,6 @@ You create one of the following instantaneous magical effects within range:
 - You topple over a small object that weighs up to 5 lbs., possibly causing it to fall off a table or a shelf.
 - You instantaneously light or snuff out a small flame such as that of a candle or a torch.
 
-You can create one additional distraction reach a higher level: two distractions at 5th level, three distractions at 11th level, and four distractions at 17th level.
-
 | LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |
 | :------------- | :------------- | :------------- | :------------- |
 | Cantrip        | 1 Action       | 30 ft.         | S              |
