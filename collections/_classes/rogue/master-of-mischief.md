@@ -59,70 +59,52 @@ Spell attack modifier = your proficiency bonus + your Dexterity modifier
 
 ---
 
-# Flair Points
-You have an eye for flair. Starting at 3rd level, you gain flair points, which can spend to swiftly cast cantrips in unexpected moments.
+# Concealed Gesture
+Starting at 3rd level, you have advantage on Dexterity (Sleight of Hand) checks when attempting to cast a spell without being noticed.
 
-You flair point pool is calculated as such: `Character level + DEX Modifier`
-
-## Deft Hands
-Starting at 3rd level, you can spend 2 flair points to cast a cantrip as a bonus action, instead of an action. On following turns and until it ends, you may interact with it as a bonus action instead of an action.
-
-## Concealed Gesture
-Starting at 9th level, you can spend 1 flair point to give yourself advantage on a Dexterity (Sleight of Hand) check when attempting to cast a spell without being noticed.
-
-## Elegant Improvisation
-Starting at 13th level, you can spend 3 flair points in order to take an additional reaction, once per round. It can only be used to cast a spell that has the casting time of a reaction, or to perform a [Precarious Riposte](#precarious-riposte).
-
-## Astute Awareness
-This feature is yet to be implemented.
+# Cunning Flair
+You have a flair for magic, or more specifically, for cantrips. Starting at 3rd level, you can cast a cantrip as a bonus action if it has the casting time of 1 action. You can do this a number of times equal to your proficiency bonus per short rest.
 
 # Mischievous Incantations
-At 3rd level, you choose two cantrips to specialize in:
-- [Deceitful Maneuver](/spells/deceitful-maneuver/)
-- [Folly Spectacle](/spells/folly-spectacle/)
-- [Fling](/spells/fling/)
-- [Minor Phantasm](/spells/minor-phantasm)
-- [Subterfuge](/spells/subterfuge/)
+At 3rd level, you choose up two cantrips to specialize in, from the Master of Mischief spell list. The ones you choose gain bonuses as you progress.
 
-You learn them if you don't know them already, and they do not count against your known cantrips. The ones you choose dictate which abilities you attain at higher levels.
+## [Deceitful Maneuver](/spells/deceitful-maneuver/)
+You can cast this spell freely as part of any interaction, such as drawing a dagger, sitting down, or moving up to 5 feet. It doesn't require your concentration, but it dispels after you finish the interaction.
+
+## [Folly Spectacle](/spells/folly-spectacle/)
+When you cast this spell, you don't provoke opportunity attacks from creatures you target for the rest of the turn.
+
+## [Fling](/spells/fling/)
+Ranged attacks you make with this spell can deal sneak attack damage.
+
+## [Minor Phantasm](/spells/minor-phantasm)
+As long as a creature is actively distracted by the effects of this spell, the first attack against it each round has advantage.
+
+## [Subterfuge](/spells/subterfuge/)
+Distractions you affect with this spell can be more deliberate and , for example:
+- A whisper can be in a specific voice that you've heard and can consist of five words.
+- You may interact with more complex or delicate mechanisms, such as belt buckles, straps, and tied knots.
+- Physical sensory effects may cause more of a ruse, such as pulling a guard's helmet down to cover his eyes.
 
 ---
 
 # Whetted Sleights
-Starting at 9th level, you have honed your mischievous incantations, gaining a bonus to the ones you're specialized in.
+At 9th level, your [mischievous incantations](#mischievous-incantations) gain additional bonuses.
 
-## Deceitful Maneuver
-If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you're no longer required to move at half speed in order to maintain concentration on it.
+## [Deceitful Maneuver](/spells/deceitful-maneuver/)
+You are able to move at normal speed without breaking the effects of this spell.
 
-## Folly Spectacle
-If you're [specialized](#mischievous-incantations) in the [Folly Spectacle](/spells/folly-spectacle/) cantrip, creatures you target have disadvantage on their first saving throw against this spell each turn, as long as they are engaged in combat with another creature.
+## [Folly Spectacle](/spells/folly-spectacle/)
+Creatures have disadvantage on saving throws made against this spell.
 
-## Fling
-If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip, you learn to control the motion of the objects you Fling well enough to determine their orientation. When casting this spell, if you would strike a creature with a sharp object, instead of bludgeoning damage it deals `1d8 piercing damage + your DEX modifier` and takes no damage from impact.
+## [Fling](/spells/fling/)
+This spell's damage dice are replaced for you with 1d10 instead of 1d8, and 1d6 instead of 1d4.
 
-## Minor Phantasm
-If you're [specialized](#mischievous-incantations) in the [Minor Phantasm](/spells/minor-phantasm) cantrip, the first attack agaisnt an affected creature each round has advantage, given that the illusion would realistically distract it.
+## [Minor Phantasm](/spells/minor-phantasm)
+???
 
-## Subterfuge
-If you're [specialized](#mischievous-incantations) in the [Subterfuge](/spells/subterfuge/) cantrip, you can cast this spell as a bonus action without spending flair points.
-
-# Second Nature
-Starting at 9th level, your mischievous incantations become second nature to you, and you can cast them effortlessly as a free interaction, at a diminished range. If you attempt to do so without being noticed, you gain advantage on the Dexterity (Sleight of Hand) check.
-
-## Deceitful Motion
-If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you learn the **Deceitful Motion**. You can cast Deceitful Maneuver freely as part of any interaction, such as drawing a dagger, picking up a pouch, or sitting down. It doesn't require your concentration, but it dispels after you finish the interaction or move 5 feet in any direction.
-
-## Folly Diversion
-If you're [specialized](#mischievous-incantations) in the [Folly Spectacle](/spells/folly-spectacle/) cantrip, you learn the **Folly Diversion**. As your free interaction, you can spend 1 flair point to cast Folly Spectacle targeting one creature you're engaged with.
-
-## Flick
-If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip, you learn **Flick**. As your free interaction, you can spend 2 flair points to Fling one object within 10 feet of you up to 30 feet in a chosen direction.
-
-## Milder Phantasm
-If you're [specialized](#mischievous-incantations) in the [Minor Phantasm](/spells/minor-phantasm) cantrip, you learn the **Milder Phantasm**. As your free interaction, you can spend 1 flair point to cast Minor Phantasm on a creature within 5 feet of you, and it cannot be larger than a 1-foot cube. It doesn't require your concentration, but it ends at the start of your next turn.
-
-## Subtle Cues
-If you're [specialized](#mischievous-incantations) in the [Subterfuge](/spells/subterfuge/) cantrip, you learn **Subtle Cues**. As your interaction, you can cast Subterfuge and distract one creature within 10 feet of you.
+## [Subterfuge](/spells/subterfuge/)
+You may cast this spell as your free interaction, affecting no more than one distraction.
 
 ---
 
@@ -150,16 +132,19 @@ If you're [specialized](#mischievous-incantations) in the [Minor Phantasm](/spel
 ## Sudden Ruse
 If you're [specialized](#mischievous-incantations) in the [Subterfuge](/spells/subterfuge/) cantrip, you learn the **Sudden Ruse**. When an enemy within 30 feet of you makes an attack, you may use your reaction to cast Subterfuge in an attempt to startle that creature, giving it disadvantage on the attack roll.
 
+# Elegant Improvisation
+Starting at 13th level, you can take an additional reaction, once per round, and only in order to cast a spell that has the casting time of 1 reaction, or to perform a [Precarious Riposte](#precarious-riposte). You can do this a number of times equal to your proficiency bonus per short rest.
+
 ---
 
-# Flexible Casting
+# Flawless Artistry
 Starting at 17th level,
 
-## Deceitful Glide
-If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you learn the **Deceitful Glide**. You may spend 2 flair points to cast Deceitful Maneuver as part of your movement.
+## Deceitful Maneuver
+If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you may spend 1 flair points to cast it as part of your movement, but it still requires your concentration.
 
-##
-If you're [specialized](#mischievous-incantations) in the [Folly Spectacle](/spells/folly-spectacle/) cantrip, you learn the **fuck**.
+## Folly Spectacle
+If you're [specialized](#mischievous-incantations) in the [Folly Spectacle](/spells/folly-spectacle/) cantrip, you learn to **fuck**.
 
-## Slit
-If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip, you learn **Slit**. When you cast this spell and hit a creature with a blade, it deals `1d10 slashing damage + your DEX modifier` and continues flying until it reaches its maximum range of motion or you decide to stop it. Any additional creatures in its path must succeed a Dexterity saving throw or take the same amount of damage, rolled separately.
+## Fling
+If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip,
