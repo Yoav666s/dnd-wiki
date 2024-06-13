@@ -1,13 +1,19 @@
 ---
 title: "Thief"
 permalink: /classes/rogue/thief/
-excerpt: "Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators.."
+excerpt: "Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators."
 header:
   overlay_image: /assets/images/classes/rogue/header.png
   teaser: /assets/images/classes/rogue/header.jpg
 ---
 
+<div class="notice" markdown="1">
+*[Rogue](/classes/rogue/) Subclass*
+</div>
+
 You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ.
+
+Source: *Basic Rules*
 
 # Fast Hands
 Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.
