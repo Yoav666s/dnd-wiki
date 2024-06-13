@@ -112,8 +112,8 @@ If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/
 
 You may also move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. A ranged attack will automatically miss if you move out of the projectile's path. If you would move out of a creature's engagement range, you must succeed a Dexterity (Stealth) check against its passive perception or provoke an opportunity attack.
 
-## Daunting Display
-If you're [specialized](#mischievous-incantations) in the [Folly Spectacle](/spells/folly-spectacle/) cantrip, you learn the **Daunting Display**. When a creature attempts to move within 30 feet of you, you may use your reaction to cast Folly Spectacle in an attempt to startle it.
+## Daunting Spectacle
+If you're [specialized](#mischievous-incantations) in the [Folly Spectacle](/spells/folly-spectacle/) cantrip, you learn the **Daunting Spectacle**. When a creature attempts to move within 30 feet of you, you may use your reaction to cast Folly Spectacle in an attempt to startle it.
 
 The creature must make an Intelligence saving throw in order to tell that it's only an illusion. On failure, it uses its reaction to stop in its tracks and its speed is reduced to 0 until the end of the round.
 
