@@ -1,7 +1,7 @@
 ---
 title: "Mischievous Apprentice"
 permalink: /classes/rogue/mischievous-apprentice/
-excerpt: "You have learned use magic not for power, primarily, but for your own entertainment. You are specialized in mischievous magic tricks not eminently known to the masses."
+excerpt: "You have learned to use magic not for power, primarily, but for your own entertainment. You are specialized in mischievous magic tricks not eminently known to the masses."
 tags:
   - Rogue
 available_for:
@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/classes/rogue/mischievous-apprentice/header.jpg
 ---
 
-You have learned use magic not for power, primarily, but for your own entertainment. You are specialized in mischievous magic tricks not eminently known to the masses, which you use to deceive, prank, and irritate anyone unlucky enough to cross your path.
+You have learned to use magic not for power, primarily, but for your own entertainment. You are specialized in mischievous magic tricks not eminently known to the masses, which you use to deceive, prank, and irritate anyone unlucky enough to cross your path.
 
 Source: *Untold legends of Nornfeld*
 
