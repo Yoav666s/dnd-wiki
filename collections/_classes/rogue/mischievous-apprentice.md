@@ -1,11 +1,16 @@
 ---
 title: "Mischievous Apprentice"
 permalink: /classes/rogue/mischievous-apprentice/
-excerpt: "You are an apprentice in mischief."
+excerpt: "You have learned use magic not for power, primarily, but for your own entertainment. You are specialized in mischievous magic tricks not eminently known to the masses."
 header:
   overlay_image: /assets/images/classes/rogue/mischievous-apprentice/header.png
   teaser: /assets/images/classes/rogue/mischievous-apprentice/header.jpg
 ---
+
+
+You have learned use magic not for power, primarily, but for your own entertainment. You are specialized in mischievous magic tricks not eminently known to the masses, which you use to deceive, prank, and irritate anyone unlucky enough to cross your path.
+
+Source: *Untold legends of Nornfeld*
 
 # Spellcasting
 When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
@@ -59,28 +64,29 @@ Spell attack modifier = your proficiency bonus + your Dexterity modifier
 
 ---
 
+# Misdirection
+A good magician never reveals his secrets. Starting at 3rd level, you gain advantage on Dexterity (Sleight of Hand) checks when trying to cast a spell without being noticed.
+
 # Mischievous Incantations
-At 3rd level, choose two cantrips to specialize in, from the Mischievous Apprentice spell list:
+At 3rd level, choose two cantrips to specialize in. You can use your bonus action to cast them, and gain the following benefits:
 
 ## [Deceitful Maneuver](/spells/deceitful-maneuver/)
-You can cast this spell freely as part of any interaction, such as drawing a dagger, pulling a lever, or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
+If you're specialized in this cantrip, you can cast it freely as part of any interaction, such as drawing a dagger, pulling a lever, or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
 
 ## [Folly Spectacle](/spells/folly-spectacle/)
-When you cast this spell, you don't provoke opportunity attacks from the creature you target for the rest of the turn.
+If you're specialized in this cantrip, you don't provoke opportunity attacks from the creature you target with it for the rest of the turn.
 
 ## [Fling](/spells/fling/)
-Ranged attacks you make with this spell can deal sneak attack damage.
+If you're specialized in this cantrip, ranged attacks you make with it can deal sneak attack damage.
 
 ## [Minor Phantasm](/spells/minor-phantasm)
-Taking damage doesn't automatically end this spell for the target. Instead, it must make another Intelligence saving throw to realize that it's an illusion.
+If you're specialized in this cantrip, taking damage doesn't automatically end it for the target. Instead, it must make another Intelligence saving throw to realize that it's an illusion.
 
 ## [Subterfuge](/spells/subterfuge/)
-Distractions you affect with this spell can be more deliberate, for example:
+If you're specialized in this cantrip, distractions you affect with it can be more deliberate, for example:
 - A whisper can be in a specific voice that you've heard and can consist of up to five words.
 - You may interact with more delicate mechanisms, such as belt buckles, straps, and tied knots.
 - Physical sensory effects may cause more of a ruse, such as pulling a guard's helmet down to cover his eyes.
-
-In addition to these benefits, you can use your bonus action to cast the cantrips you're specialized in, and have advantage on Dexterity (Sleight of Hand) checks when attempting to cast them without being noticed.
 
 ---
 
@@ -88,19 +94,19 @@ In addition to these benefits, you can use your bonus action to cast the cantrip
 At 9th level, your [mischievous incantations](#mischievous-incantations) gain additional bonuses.
 
 ## [Deceitful Maneuver](/spells/deceitful-maneuver/)
-You are able to move at normal speed without breaking the effects of this spell.
+If you're specialized in this cantrip, you are able to move at normal speed without breaking the effects of this spell.
 
 ## [Folly Spectacle](/spells/folly-spectacle/)
-Creatures have disadvantage on saving throws made against this spell if they are engaged in combat with another creature.
+If you're specialized in this cantrip, creatures have disadvantage on saving throws made against this spell while engaged in combat with another creature.
 
 ## [Fling](/spells/fling/)
-This spell's damage dice are replaced for you with 1d10 instead of 1d8, and 1d6 instead of 1d4.
+If you're specialized in this cantrip, its damage dice are replaced for you with 1d10 instead of 1d8, and 1d6 instead of 1d4.
 
 ## [Minor Phantasm](/spells/minor-phantasm)
-As long as a creature is actively distracted by the effects of this spell, attacks against it have advantage.
+If you're specialized in this cantrip, as long as a creature is actively distracted by the effects of this spell, attacks against it have advantage.
 
 ## [Subterfuge](/spells/subterfuge/)
-You may cast this spell in order to distract a creature. The next attack against it has advantage until the your next turn.
+If you're specialized in this cantrip, you may cast this spell in order to distract a creature. The next attack against it has advantage until the your next turn.
 
 ---
 
@@ -110,7 +116,7 @@ Starting at 13th level, your mischievous incantations become instinctual, allowi
 ## Deceitful Dodge
 If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you learn the **Deceitful Dodge**. When you're targeted by an attack that relies on sight, you may use your reaction to cast Deceitful Maneuver to give it disadvantage.
 
-You may also move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. A ranged attack will automatically miss if you move out of the projectile's path. If you would move out of a creature's engagement range, you must succeed a Dexterity (Stealth) check against its passive perception or provoke an opportunity attack.
+You may also move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. An attack will automatically miss if you move out of its path. If you would move out of a creature's engagement range, you must succeed a Dexterity (Stealth) check against its passive perception or provoke an opportunity attack.
 
 ## Daunting Spectacle
 If you're [specialized](#mischievous-incantations) in the [Folly Spectacle](/spells/folly-spectacle/) cantrip, you learn the **Daunting Spectacle**. When a creature attempts to move within 30 feet of you, you may use your reaction to cast Folly Spectacle in an attempt to startle it.

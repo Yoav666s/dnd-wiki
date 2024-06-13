@@ -1,6 +1,7 @@
 ---
 title: "Rogue"
 permalink: /classes/rogue/
+excerpt: "Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation."
 header:
   overlay_image: /assets/images/classes/rogue/header.png
   teaser: /assets/images/classes/rogue/header.jpg
