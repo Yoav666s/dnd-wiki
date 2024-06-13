@@ -318,6 +318,9 @@ hidden_tags:
   - Subclass
   - Class
   - Lore
+  - Rule
+  - Equipment
+  - Feat
 
 collections:
   classes:
@@ -333,6 +336,10 @@ collections:
     permalink: /:collection/:path/
 
   races:
+    output: true
+    permalink: /:collection/:path/
+
+  rules:
     output: true
     permalink: /:collection/:path/
 
@@ -353,6 +360,23 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _classes
+  - scope:
+      path: ""
+      type: classes
+    values:
+      layout: single
+      sidebar:
+        nav:
+          - classes
+          - cats
+      header:
+        overlay_image: /assets/images/classes/header.png
+        overlay_filter: 0.375
+      toc: true
+      toc_label: "Contents"
+
 
   # _lore
   - scope:
@@ -384,6 +408,22 @@ defaults:
       toc: true
       toc_label: "Contents"
 
+  # _rules
+  - scope:
+      path: ""
+      type: rules
+    values:
+      layout: single
+      sidebar:
+        nav:
+          - cats
+      header:
+        overlay_image: /assets/images/rules/header.png
+        overlay_filter: 0.375
+      toc: true
+      toc_label: "Contents"
+
+
   # _spells
   - scope:
       path: ""
@@ -413,19 +453,3 @@ defaults:
         overlay_image: /assets/images/items/header.png
         overlay_filter: 0.375
       classes: wide
-
-  # _classes
-  - scope:
-      path: ""
-      type: classes
-    values:
-      layout: single
-      sidebar:
-        nav:
-          - classes
-          - cats
-      header:
-        overlay_image: /assets/images/classes/header.png
-        overlay_filter: 0.375
-      toc: true
-      toc_label: "Contents"
