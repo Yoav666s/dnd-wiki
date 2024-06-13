@@ -6,7 +6,7 @@ tags:
   - Spell
   - Deception
 available_for:
-  - Master of Mischief
+  - Mischievous Apprentice
 # header:
 #   overlay_image: /assets/images/deceitful-maneuver/header.png
 #   teaser: /assets/images/deceitful-maneuver/header.jpg

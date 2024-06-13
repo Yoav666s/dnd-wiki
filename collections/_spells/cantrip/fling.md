@@ -7,7 +7,7 @@ tags:
   - Damage
   - Control
 available_for:
-  - Master of Mischief
+  - Mischievous Apprentice
 header:
   overlay_image: /assets/images/spells/fling/header.png
   teaser: /assets/images/spells/fling/header.jpg

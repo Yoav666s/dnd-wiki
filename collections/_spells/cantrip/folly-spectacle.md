@@ -7,7 +7,7 @@ tags:
   - Combat
   - Deception
 available_for:
-  - Master of Mischief
+  - Mischievous Apprentice
 # header:
 #   overlay_image: /assets/images/folly-spectacle/header.png
 #   teaser: /assets/images/folly-spectacle/header.jpg

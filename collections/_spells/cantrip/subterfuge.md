@@ -7,7 +7,7 @@ tags:
   - Deception
   - Utility
 available_for:
-  - Master of Mischief
+  - Mischievous Apprentice
 header:
   overlay_image: /assets/images/spells/subterfuge/header.png
   teaser: /assets/images/spells/subterfuge/header.jpg

@@ -7,7 +7,7 @@ tags:
   - Buff
   - Invisibility
 available_for:
-  - Master of Mischief
+  - Mischievous Apprentice
 header:
   overlay_image: /assets/images/spells/hide-in-shadows/header.png
   teaser: /assets/images/spells/hide-in-shadows/header.jpg

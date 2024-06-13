@@ -1,27 +1,27 @@
 ---
-title: "Master of Mischief"
-permalink: /classes/rogue/master-of-mischief/
+title: "Mischievous Apprentice"
+permalink: /classes/rogue/mischievous-apprentice/
 excerpt: "You are a master of mischief."
 header:
-  overlay_image: /assets/images/classes/rogue/master-of-mischief/header.png
-  teaser: /assets/images/classes/rogue/master-of-mischief/header.jpg
+  overlay_image: /assets/images/classes/rogue/mischievous-apprentice/header.png
+  teaser: /assets/images/classes/rogue/mischievous-apprentice/header.jpg
 ---
 
 # Spellcasting
 When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
 
 ## Cantrips
-You learn three cantrips of your choice from the Master of Mischief spell list. You learn another cantrip at 10th level.
+You learn three cantrips of your choice from the Mischievous Apprentice spell list. You learn another cantrip at 10th level.
 
 ## Spell Slots
-The [Master of Mischief Spellcasting table](#master-of-mischief-spellcasting) shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+The [Mischievous Apprentice Spellcasting table](#mischievous-apprentice-spellcasting) shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 
 For example, if you know the 1st-level spell charm person and have a 1st-level and a 2nd-level spell slot available, you can cast charm person using either slot.
 
 ## Spells Known of 1st-Level and Higher
 You know three 1st-level spells of your choice, two of which you must choose from the enchantment and illusion spells on the sorcerer spell list.
 
-The Spells Known column of the Master of Mischief Spellcasting table shows when you learn more spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
+The Spells Known column of the Mischievous Apprentice Spellcasting table shows when you learn more spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
 
 The spells you learn at 8th, 14th, and 20th level can come from any school of magic.
 
@@ -34,7 +34,7 @@ Spell save DC = 8 + your proficiency bonus + your Dexterity modifier
 
 Spell attack modifier = your proficiency bonus + your Dexterity modifier
 
-## Master of Mischief Spellcasting
+## Mischievous Apprentice Spellcasting
 
 | Rogue Level | Cantrips Known | Spells Known | 1st Level Slots | 2nd Level Slots | 3rd Level Slots | 4th Level Slots |
 | :---------: | :------------: | :----------: | :-------------: | :-------------: | :-------------: | :-------------: |
@@ -60,7 +60,7 @@ Spell attack modifier = your proficiency bonus + your Dexterity modifier
 ---
 
 # Mischievous Incantations
-At 3rd level, choose two cantrips to specialize in, from the Master of Mischief spell list:
+At 3rd level, choose two cantrips to specialize in, from the Mischievous Apprentice spell list:
 
 ## [Deceitful Maneuver](/spells/deceitful-maneuver/)
 You can cast this spell freely as part of any interaction, such as drawing a dagger, pulling a lever, or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.

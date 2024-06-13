@@ -8,7 +8,7 @@ tags:
   - Control
   - Deception
 available_for:
-  - Master of Mischief
+  - Mischievous Apprentice
 # header:
 #   overlay_image: /assets/images/minor-phantasm/header.png
 #   teaser: /assets/images/minor-phantasm/header.jpg

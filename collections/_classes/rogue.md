@@ -79,6 +79,15 @@ Starting at 2nd level, your quick thinking and agility allow you to move and act
 ## Roguish Archetype
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
-| Archetype              | Source                  |
-| :--------------------- | :---------------------- |
-| Arcane Trickster       | Player's Handbook       |
+| Archetype                                        | Source                         |
+| :----------------------------------------------- | :----------------------------- |
+| Arcane Trickster                                 | Player's Handbook              |
+| Assassin                                         | Player's Handbook              |
+| Inquisitive                                      | Xanathar's Guide to Everything |
+| Mastermind                                       | Xanathar's Guide to Everything |
+| [Mischievous Apprentice](mischievous-apprentice) | Untold Legends of Nornfeld     |
+| Phantom                                          | Tasha's Cauldron of Everything |
+| Scout                                            | Xanathar's Guide to Everything |
+| Soulknife                                        | Tasha's Cauldron of Everything |
+| Swashbuckler                                     | Xanathar's Guide to Everything |
+| Thief                                            | Player's Handbook              |
