@@ -1,7 +1,7 @@
 ---
 title: "Thief"
 permalink: /classes/rogue/thief/
-excerpt: "Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation."
+excerpt: "Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators.."
 header:
   overlay_image: /assets/images/classes/rogue/header.png
   teaser: /assets/images/classes/rogue/header.jpg
