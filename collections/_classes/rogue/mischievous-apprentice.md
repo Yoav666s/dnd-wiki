@@ -75,11 +75,14 @@ If you're specialized in this cantrip, ranged attacks you make with it are eligi
 ## [Folly Spectacle](/spells/folly-spectacle/)
 If you're specialized in this cantrip, you don't provoke opportunity attacks from the creature you target with it for the rest of the turn.
 
+## [Message](/spells/message/)
+If you're specialized in this cantrip, you may force a creature to make an Intelligence saving throw the first time you target it with this spell. On failure, it believes that the voice is emanating from its own thoughts.
+
 ## [Minor Illusion](spells/minor-illusion)
-If you're specialized in this cantrip, you can animate an image you create. As a bonus action, you can move it up to 30 feet.
+If you're specialized in this cantrip, you can animate an image you create. When you cast this spell and as a bonus action on each of your following turns, you can move the illusion up to 30 feet. You must be within 60 feet of it to do so.
 
 ## [Minor Phantasm](/spells/minor-phantasm)
-If you're specialized in this cantrip, taking damage doesn't automatically end it for the target. Instead, it must make another Intelligence saving throw to realize that it's an illusion.
+If you're specialized in this cantrip, taking damage doesn't automatically end it for the target. Instead, it must succeed an Intelligence saving throw to realize that it's an illusion.
 
 ## [Subterfuge](/spells/subterfuge/)
 If you're specialized in this cantrip, distractions you affect with it can be more deliberate, for example:
@@ -103,6 +106,9 @@ If you're specialized in this cantrip, its damage dice are replaced for you with
 
 ## [Folly Spectacle](/spells/folly-spectacle/)
 If you're specialized in this cantrip, creatures have disadvantage on saving throws made against this spell while engaged in combat with another creature.
+
+## [Message](/spells/message/)
+If you're specialized in this cantrip, you have advantage on Charisma (Persuasion, Deception) checks when sending a message to a target that has failed its saving throw.
 
 ## [Minor Illusion](spells/minor-illusion)
 If you're specialized in this cantrip, you can cause sound to emanate from an image you create with this spell.  
@@ -132,6 +138,9 @@ Subtract 1d10 + your DEX modifier from the attack roll. If the projectile would 
 If you're [specialized](#mischievous-incantations) in the [Folly Spectacle](/spells/folly-spectacle/) cantrip, you learn the **Daunting Spectacle**. When a creature attempts to move within 30 feet of you, you may use your reaction to cast Folly Spectacle in an attempt to startle it.
 
 The creature must make an Intelligence saving throw in order to tell that it's only an illusion. On failure, it uses its reaction to stop in its tracks and its speed is reduced to 0 until the end of the round.
+
+## Intrusive Thoughts
+If you're [specialized](#mischievous-incantations) in the [Message](/spells/message/) cantrip, you learn **Intrusive Thoughts**. When you notice a creature taking any action within 120 feet, you may use your reaction to cast message in an attempt to intervene.
 
 ## Minor Inconvenience
 If you're [specialized](#mischievous-incantations) in the [Minor Illusion](/spells/minor-illusion/) cantrip, you learn **Minor Inconvenience**. When an enemy starts its turn within 30 feet of an illusion you created, you may use your reaction to make the illusion taunt it.

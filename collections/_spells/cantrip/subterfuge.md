@@ -28,4 +28,4 @@ You create one of the following instantaneous magical effects within range:
 
 | DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
 | :------------- | :------------- | :------------- | :------------- |
-| Instantaneous  | Transmutation  | INT Save       | Utility        |
+| Instantaneous  | Transmutation  | None           | Utility        |
