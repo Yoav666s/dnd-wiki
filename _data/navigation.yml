@@ -8,6 +8,8 @@ cats:
     children:
       - title: "Classes"
         url: /classes/
+      - title: "Feats"
+        url: /feats/
       - title: "Items"
         url: /items/
       - title: "Lore"

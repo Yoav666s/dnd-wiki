@@ -327,6 +327,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  feats:
+    output: true
+    permalink: /:collection/:path/
+
   items:
     output: true
     permalink: /:collection/:path/
@@ -377,6 +381,20 @@ defaults:
       toc: true
       toc_label: "Contents"
 
+  # _feats
+  - scope:
+      path: ""
+      type: feats
+    values:
+      layout: single
+      sidebar:
+        nav:
+          - cats
+      header:
+        overlay_image: /assets/images/classes/header.png
+        overlay_filter: 0.375
+      show_tags: true
+      classes: wide
 
   # _lore
   - scope:
