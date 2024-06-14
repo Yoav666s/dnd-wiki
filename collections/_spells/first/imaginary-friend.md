@@ -6,6 +6,7 @@ tags:
   - Spell
   - Control
   - Deception
+  - Conjuration
 available_for:
   - Mischievous Apprentice
 # header:
@@ -13,7 +14,7 @@ available_for:
 #   teaser: /assets/images/the-weaver-large.jpg
 ---
 
-**1st Level Spell** 
+**1st Level Spell**
 
 You create an illusion of any creature that is no larger than yourself, along with a mindless, shapeless, medium force. Composing together an imaginary friend, this spell has two independent components: The illusory aspect and the physical aspect. It springs into existence in an unoccupied space within range.
 

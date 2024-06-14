@@ -1,7 +1,10 @@
 ---
 title: "Mischievous Initiate"
 permalink: /feats/mischievous-initiate/
-excerpt: "Choose a [Mischievous Apprentice cantrip](/classes/rogue/mischievous-apprentice/#mischievous-incantations) to specialize in."
+excerpt: "You’re well practiced in a [mischievous apprentice’s](/classes/rogue/mischievous-apprentice/) trickery."
 ---
 
-Choose a Mischievous Apprentice cantrip to specialize in. You learn it if you don't know it already, and it doesn't count against your number of cantrips known. You can cast it as a bonus action and it gains any additional benefits you may have from other sources.
+You’re well practiced in a mischievous apprentice’s trickery:
+- You learn one cantrip of your choice from the mischievous apprentice spell list. Dexterity is your spellcasting ability for it.
+- You become specialized in this cantrip. It gains an additional benefit from the [mischievous incantations](/classes/rogue/mischievous-apprentice/#mischievous-incantations) feature, and you can cast it as a bonus action.
+- You have advantage on Dexterity (Sleight of Hand) checks when trying to cast this spell without being noticed.

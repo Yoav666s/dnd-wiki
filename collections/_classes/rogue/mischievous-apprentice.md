@@ -13,8 +13,6 @@ header:
 
 You have learned to use magic not for power, primarily, but for your own entertainment. You are specialized in mischievous magic tricks not eminently known to the masses, which you use to deceive, prank, and irritate anyone unlucky enough to cross your path.
 
-Source: *Untold legends of Nornfeld*
-
 # Spellcasting
 When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
 
@@ -80,7 +78,7 @@ If you're specialized in this cantrip, you can cast it freely as part of any int
 If you're specialized in this cantrip, you don't provoke opportunity attacks from the creature you target with it for the rest of the turn.
 
 ## [Fling](/spells/fling/)
-If you're specialized in this cantrip, ranged attacks you make with it can deal sneak attack damage.
+If you're specialized in this cantrip, ranged attacks you make with it are eligible to deal sneak attack damage.
 
 ## [Minor Phantasm](/spells/minor-phantasm)
 If you're specialized in this cantrip, taking damage doesn't automatically end it for the target. Instead, it must make another Intelligence saving throw to realize that it's an illusion.
