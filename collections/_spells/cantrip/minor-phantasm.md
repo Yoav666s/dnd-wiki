@@ -24,7 +24,7 @@ The target is so convinced of the phantasm’s reality that it can even take dam
 
 | LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |
 | :------------- | :------------- | :------------- | :------------- |
-| Cantrip        | 1 Action       | 30 ft. (5 ft.) | v, S, M *      |
+| Cantrip        | 1 Action       | 30 ft. (5 ft.) | V, S, M *      |
 
 | DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
 | :------------- | :------------- | :------------- | :------------- |
