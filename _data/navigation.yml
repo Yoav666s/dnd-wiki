@@ -27,9 +27,6 @@ classes:
     children:
       - title: "Mischievous Apprentice"
         url: /classes/rogue/mischievous-apprentice/
-        children:
-          - title: "Spells"
-            url: /rules/spell-list/mischievous-apprentice/
       - title: "Thief"
         url: /classes/rogue/thief/
 
