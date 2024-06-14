@@ -17,7 +17,7 @@ You have learned to use magic not for power, primarily, but for your own enterta
 When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
 
 ## Cantrips
-You learn three cantrips of your choice from the Mischievous Apprentice spell list. You learn another cantrip at 10th level.
+You learn three cantrips of your choice from the [Mischievous Apprentice spell list](/rules/spell-list/mischievous-apprentice/). You learn another cantrip at 10th level.
 
 ## Spell Slots
 The [Mischievous Apprentice Spellcasting table](#mischievous-apprentice-spellcasting) shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.

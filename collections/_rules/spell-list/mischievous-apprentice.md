@@ -1,6 +1,7 @@
 ---
 title: "Mischievous Apprentice Spell List"
 permalink: /rules/spell-list/mischievous-apprentice/
+excerpt: ""
 ---
 
 # Cantrips (0 Level)
