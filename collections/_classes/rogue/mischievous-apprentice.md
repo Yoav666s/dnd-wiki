@@ -109,7 +109,7 @@ If you're specialized in this cantrip, its damage dice are replaced for you with
 If you're specialized in this cantrip, as long as a creature is actively distracted by the effects of this spell, attacks against it have advantage.
 
 ## [Subterfuge](/spells/subterfuge/)
-If you're specialized in this cantrip, you may cast this spell in order to distract a creature. The next attack against it has advantage until the your next turn.
+If you're specialized in this cantrip, you may cast this spell in order to distract a creature. The next attack against it has advantage until your next turn.
 
 ---
 
