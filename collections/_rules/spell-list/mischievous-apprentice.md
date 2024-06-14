@@ -5,16 +5,13 @@ excerpt: "[Read More](/classes/rogue/mischievous-apprentice/){: .btn .btn--light
 ---
 
 # Cantrips (0 Level)
-- [Dancing Lights](/spells/dancing-lights/)
 - [Deceitful Maneuver](/spells/deceitful-maneuver/)
 - [Fling](/spells/fling/)
 - [Folly Spectacle](/spells/folly-spectacle/)
-- [Light](/spells/light/)
 - [Message](/spells/message/)
 - [Minor Illusion](/spells/minor-illusion/)
 - [Minor Phantasm](/spells/minor-phantasm/)
 - [Subterfuge](/spells/subterfuge/)
-- [Vicious Mockery](/spells/vicious-mockery/)
 
 # 1st Level
 - Catapult

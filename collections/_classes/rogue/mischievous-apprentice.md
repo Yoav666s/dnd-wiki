@@ -17,7 +17,7 @@ You have learned to use magic not for power, primarily, but for your own enterta
 When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
 
 ## Cantrips
-You learn three cantrips of your choice from the Mischievous Apprentice [spell list](/rules/spell-list/mischievous-apprentice/), two of which must be mischievous incantations. You learn another cantrip at 10th level.
+You learn three cantrips of your choice from the Mischievous Apprentice [spell list](/rules/spell-list/mischievous-apprentice/). You learn another cantrip at 10th level.
 
 ## Spell Slots
 The Mischievous Apprentice [spellcasting table](#mischievous-apprentice-spellcasting) shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
@@ -76,7 +76,7 @@ If you're specialized in this cantrip, ranged attacks you make with it are eligi
 If you're specialized in this cantrip, you don't provoke opportunity attacks from the creature you target with it for the rest of the turn.
 
 ## [Message](/spells/message/)
-If you're specialized in this cantrip, you may force a creature to make an Intelligence saving throw the first time you target it with this spell. On failure, it believes that the voice is emanating from its own thoughts.
+If you're specialized in this cantrip, you can mask your voice when casting it. You may force a creature to make an Intelligence saving throw the first time you target it with this spell. On failure, it believes that the voice is emanating from its own thoughts, but you don't know whether it succeeds or fails.
 
 ## [Minor Illusion](spells/minor-illusion)
 If you're specialized in this cantrip, you can animate an image you create. When you cast this spell and as a bonus action on each of your following turns, you can move the illusion up to 30 feet. You must be within 60 feet of it to do so.
@@ -108,7 +108,7 @@ If you're specialized in this cantrip, its damage dice are replaced for you with
 If you're specialized in this cantrip, creatures have disadvantage on saving throws made against this spell while engaged in combat with another creature.
 
 ## [Message](/spells/message/)
-If you're specialized in this cantrip, you have advantage on Charisma (Persuasion, Deception) checks when sending a message to a target that has failed its saving throw.
+If you're specialized in this cantrip, you have +5 on Charisma (Persuasion, Deception) checks when sending messages to a target that has failed its saving throw.
 
 ## [Minor Illusion](spells/minor-illusion)
 If you're specialized in this cantrip, you can cause sound to emanate from an image you create with this spell.  
