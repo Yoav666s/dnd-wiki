@@ -48,6 +48,7 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+        {% include page__source.html %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
@@ -58,7 +59,6 @@ layout: default
         {% endif %}
         {% include page__taxonomy.html %}
         {% include page__date.html %}
-        {% include page__source.html %}
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}

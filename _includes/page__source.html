@@ -1,7 +1,9 @@
-<div class="notice">
 {% if page.source %}
-  <i>{{ page.source }}</i>
+  <div class="notice{% if page.source == 'Basic Rules' %}--success{% endif %}">
+    <i>{{ page.source }}</i>
+  </div>
 {% else %}
-  <i>Untold Legends of Nornfeld</i>
+  <div class="notice--info">
+    <i>Untold Legends of Nornfeld</i>
+  </div>
 {% endif %}
-</div>
