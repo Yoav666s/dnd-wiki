@@ -114,7 +114,7 @@ If you're specialized in this cantrip, you have +5 on Charisma (Persuasion, Dece
 If you're specialized in this cantrip, you can cause sound to emanate from an image you create with this spell.  
 
 ## [Minor Phantasm](/spells/minor-phantasm)
-If you're specialized in this cantrip, as long as a creature is actively distracted by the effects of this spell, attacks against it have advantage.
+If you're specialized in this cantrip, as long as a creature is actively distracted by the effects of this spell, it has disadvantage on saving throws.
 
 ## [Subterfuge](/spells/subterfuge/)
 If you're specialized in this cantrip, you may cast this spell in order to distract a creature. The next attack against it has advantage until your next turn.
