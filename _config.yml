@@ -448,7 +448,7 @@ defaults:
       path: ""
       type: spells
     values:
-      layout: spell
+      layout: single
       sidebar:
         nav:
           - spells
