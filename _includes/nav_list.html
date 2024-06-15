@@ -20,10 +20,11 @@
             {% endfor %}
           </ul>
           {% endif %}
-          
+
           {% if nav.level != null %}
           <ul>
             {% assign level_spells = site.spells | where: "level", nav.level %}
+            <li><a>{{ nav.level }}</a></li>
             {% for spell in level_spells %}
               <li><a href="{{ spell.url | relative_url }}"{% if spell.url == page.url %} class="active"{% endif %}>{{ spell.title }}</a></li>
             {% endfor %}
