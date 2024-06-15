@@ -1,14 +1,11 @@
 ---
-title: "Message"
-permalink: /spells/message/
-excerpt: "You point your finger toward a creature within range and whisper a message."
+title: "Acid Splash"
+permalink: /spells/acid-splash/
+excerpt: "You hurl a bubble of acid."
 tags:
   - Spell
-  - Communication
-  - Social
+  - Damage
 available_for:
-  - Mischievous Apprentice
-  - Bard
   - Sorcerer
   - Wizard
   - Artificer
@@ -18,16 +15,14 @@ source: "Basic Rules"
 #   teaser: /assets/images/spells/message/header.jpg
 ---
 
-You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
+You hurl a bubble of acid. Choose one or two creatures you can see within range. If you choose two, they must be within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
 
-You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn't have to follow a straight line and can travel freely around corners or through openings.
+This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 | LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |
 | :------------- | :------------- | :------------- | :------------- |
-| Cantrip        | 1 Action       | 120 ft.        | V, S, M *      |
+| Cantrip        | 1 Action       | 60 ft.         | V, S           |
 
 | DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
 | :------------- | :------------- | :------------- | :------------- |
-| 1 Round        | Transmutation  | None           | Communication  |
-
-\*-*(a short piece of copper wire)*
+| Instantaneous  | Conjuration    | DEX Save       | Acid           |
