@@ -48,10 +48,10 @@ rules:
 spells:
   - title: "Spells"
     children:
-    {% for spell in site.spells %}
-      - title: "{{ spell.title }}"
-        url: "{{ spell.url }}"
-    {% endfor %}
+      {% for spell in site.spells %}
+        - title: "{{ spell.title }}"
+          url: {{ spell.url | relative_url }}
+      {% endfor %}
 
   # - title: "Cantrip"
   #   children:
