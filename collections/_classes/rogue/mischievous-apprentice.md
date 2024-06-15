@@ -78,7 +78,7 @@ If you're specialized in this cantrip, you don't provoke opportunity attacks fro
 ## [Message](/spells/message/)
 If you're specialized in this cantrip, you can mask your voice when casting it. You may force a creature to make an Intelligence saving throw the first time you target it with this spell. On failure, it believes that the voice is emanating from its own thoughts, but you don't know whether it succeeds or fails.
 
-## [Minor Illusion](spells/minor-illusion)
+## [Minor Illusion](/spells/minor-illusion)
 If you're specialized in this cantrip, you can animate an image you create. When you cast this spell and as a bonus action on each of your following turns, you can move the illusion up to 30 feet. You must be within 60 feet of it to do so.
 
 ## [Minor Phantasm](/spells/minor-phantasm)
@@ -110,7 +110,7 @@ If you're specialized in this cantrip, creatures have disadvantage on saving thr
 ## [Message](/spells/message/)
 If you're specialized in this cantrip, you have +5 on Charisma (Persuasion, Deception) checks when sending messages to a target that has failed its saving throw.
 
-## [Minor Illusion](spells/minor-illusion)
+## [Minor Illusion](/spells/minor-illusion)
 If you're specialized in this cantrip, you can cause sound to emanate from an image you create with this spell.  
 
 ## [Minor Phantasm](/spells/minor-phantasm)
