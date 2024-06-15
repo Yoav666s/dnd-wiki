@@ -1,18 +1,17 @@
 ---
 title: "Name"
-permalink: /spells/spell-name/
+permalink: /spells/name/
 excerpt: "Not Implemented"
 tags:
   - Spell
 available_for:
   - Wizard
   - Sorcerer
+source: "Basic Rules"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
 ---
-
-**?th Level Spell**
 
 description
 
