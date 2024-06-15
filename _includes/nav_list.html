@@ -19,12 +19,13 @@
               <li><a href="{{ child.url | relative_url }}"{% if child.url == page.url %} class="active"{% endif %}>{{ child.title }}</a></li>
             {% endfor %}
           </ul>
-          {% elsif nav.level != null %}
+          {% endif %}
+          
+          {% if nav.level != null %}
           <ul>
-            {% for spell in site.spells %}
-              {% if spell.level == nav.level %}
-                <li><a href="{{ spell.url | relative_url }}"{% if child.url == page.url %} class="active"{% endif %}>{{ spell.title }}</a></li>
-              {% endif %}
+            {% assign level_spells = site.spells | where: "level", nav.level %}
+            {% for spell in level_spells %}
+              <li><a href="{{ spell.url | relative_url }}"{% if spell.url == page.url %} class="active"{% endif %}>{{ spell.title }}</a></li>
             {% endfor %}
           </ul>
           {% endif %}
