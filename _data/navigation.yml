@@ -46,10 +46,12 @@ rules:
         url: /rules/spell-list/mischievous-apprentice/
 
 spells:
-{% for spell in site.spells %}
-  - title: "{{ spell.title }}"
-    url: "{{ spell.url }}"
-{% endfor %}
+  - title: "Spells"
+    children:
+    {% for spell in site.spells %}
+      - title: "{{ spell.title }}"
+        url: "{{ spell.url }}"
+    {% endfor %}
 
   # - title: "Cantrip"
   #   children:
