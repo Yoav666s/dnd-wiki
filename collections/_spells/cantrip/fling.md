@@ -8,6 +8,7 @@ tags:
   - Control
 available_for:
   - Mischievous Apprentice
+level: 0
 header:
   overlay_image: /assets/images/spells/fling/header.png
   teaser: /assets/images/spells/fling/header.jpg

@@ -12,6 +12,7 @@ available_for:
   - Warlock
   - Wizard
 source: "Basic Rules"
+level: 0
 # header:
 #   overlay_image: /assets/images/minor-phantasm/header.png
 #   teaser: /assets/images/minor-phantasm/header.jpg

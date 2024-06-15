@@ -10,6 +10,7 @@ available_for:
   - Wizard
   - Artificer
 source: "Basic Rules"
+level: 0
 # header:
 #   overlay_image: /assets/images/spells/message/header.png
 #   teaser: /assets/images/spells/message/header.jpg

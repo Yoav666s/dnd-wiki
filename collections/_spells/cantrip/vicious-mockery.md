@@ -9,6 +9,7 @@ tags:
 available_for:
   - Bard
 source: "Basic Rules"
+level: 0
 # header:
 #   overlay_image: /assets/images/spells/subterfuge/header.png
 #   teaser: /assets/images/spells/subterfuge/header.jpg
