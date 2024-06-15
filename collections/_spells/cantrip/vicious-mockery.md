@@ -7,7 +7,6 @@ tags:
   - Damage
   - Debuff
 available_for:
-  - Mischievous Apprentice
   - Bard
 source: "Basic Rules"
 # header:
