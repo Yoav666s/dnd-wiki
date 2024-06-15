@@ -48,8 +48,10 @@ rules:
 spells:
   - title: "Cantrips"
     children_placeholder: true
+    level: 0
   - title: "1st Level"
     children_placeholder: true
+    level: 1
   # - title: "Cantrip"
   #   children:
   #   - title: "Acid Splash"

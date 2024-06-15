@@ -1,0 +1,28 @@
+---
+layout: single
+---
+<div class="page__sidebar">
+  <nav class="sidebar__nav">
+    <ul class="sidebar__list">
+      {% assign navigation = site.data.navigation.spells %}
+      {% for item in navigation %}
+        <li class="sidebar__item" style="padding-left: {{ item.level | times: 20 }}px;">
+          <a href="#">{{ item.title }}</a>
+          {% if item.children_placeholder %}
+            <ul class="sidebar__sublist">
+              {% assign level_spells = site.spells | where: "level", item.level %}
+              {% for spell in level_spells %}
+                <li class="sidebar__subitem">
+                  <a href="{{ spell.url | relative_url }}">{{ spell.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</div>
+<div class="page__content">
+  {{ content }}
+</div>
