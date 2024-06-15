@@ -450,9 +450,7 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav:
-          - custom/spells-sidebar
-          - cats
+        nav: "custom/spells-sidebar"
       header:
         overlay_image: /assets/images/spells/header.png
         overlay_filter: 0.375
