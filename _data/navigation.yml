@@ -46,28 +46,33 @@ rules:
         url: /rules/spell-list/mischievous-apprentice/
 
 spells:
-  - title: "Cantrip"
-    children:
-    - title: "Acid Splash"
-      url: /spells/acid-splash/
-    - title: "Deceitful Maneuver"
-      url: /spells/deceitful-maneuver/
-    - title: "Fling"
-      url: /spells/fling/
-    - title: "Folly Spectacle"
-      url: /spells/folly-spectacle/
-    - title: "Message"
-      url: /spells/message/
-    - title: "Minor Illusion"
-      url: /spells/minor-illusion/
-    - title: "Minor Phantasm"
-      url: /spells/minor-phantasm/
-    - title: "Subterfuge"
-      url: /spells/subterfuge/
-    - title: "Vicious Mockery"
-      url: /spells/vicious-mockery/
+{% for spell in site.spells %}
+  - title: "{{ spell.title }}"
+    url: "{{ spell.url }}"
+{% endfor %}
 
-  - title: "1st Level"
-    children:
-      - title: "Hide in Shadows"
-        url: /spells/hide-in-shadows/
+  # - title: "Cantrip"
+  #   children:
+  #   - title: "Acid Splash"
+  #     url: /spells/acid-splash/
+  #   - title: "Deceitful Maneuver"
+  #     url: /spells/deceitful-maneuver/
+  #   - title: "Fling"
+  #     url: /spells/fling/
+  #   - title: "Folly Spectacle"
+  #     url: /spells/folly-spectacle/
+  #   - title: "Message"
+  #     url: /spells/message/
+  #   - title: "Minor Illusion"
+  #     url: /spells/minor-illusion/
+  #   - title: "Minor Phantasm"
+  #     url: /spells/minor-phantasm/
+  #   - title: "Subterfuge"
+  #     url: /spells/subterfuge/
+  #   - title: "Vicious Mockery"
+  #     url: /spells/vicious-mockery/
+  #
+  # - title: "1st Level"
+  #   children:
+  #     - title: "Hide in Shadows"
+  #       url: /spells/hide-in-shadows/
