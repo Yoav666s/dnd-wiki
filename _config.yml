@@ -451,7 +451,7 @@ defaults:
       layout: single
       sidebar:
         nav:
-          - spells
+          - custom/spells-sidebar
           - cats
       header:
         overlay_image: /assets/images/spells/header.png
