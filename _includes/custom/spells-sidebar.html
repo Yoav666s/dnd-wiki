@@ -1,8 +1,0 @@
-<nav class="sidebar__inner">
-  <h2 class="widget-title">Spells</h2>
-  <ul>
-    {% for spell in site.spells %}
-      <li><a href="{{ spell.url | relative_url }}">{{ spell.title }}</a></li>
-    {% endfor %}
-  </ul>
-</nav>
