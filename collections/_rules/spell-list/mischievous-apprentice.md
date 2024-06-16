@@ -8,7 +8,7 @@ for_class:
   - Mischievous Apprentice
 ---
 
-# title
+# Title
 
 <!-- # Cantrips (0 Level)
 - [Deceitful Maneuver](/spells/deceitful-maneuver/)
