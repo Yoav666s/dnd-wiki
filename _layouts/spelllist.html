@@ -7,10 +7,10 @@ layout: single
   {{ content }}
   {% for level in levels %}
     {% assign ref = {{ spell.title | downcase | replace: ' ', '-' }}%}
-    <h1 id="{{ ref }}"">{{ level.title }}
+    <h1 id="{{ ref }}">{{ level.title }}
       <a class="header-link" href="#{{ ref }}" title="Permalink">
         <span class="sr-only">Permalink</span>
-        <i class="fas fa-link">::before</i>
+        <i class="fas fa-link"></i>
       </a>
     </h1>
   {% endfor %}
