@@ -8,7 +8,7 @@ tags:
   - Deception
 available_for:
   - Mischievous Apprentice
-level: 0
+level: "Cantrip"
 # header:
 #   overlay_image: /assets/images/folly-spectacle/header.png
 #   teaser: /assets/images/folly-spectacle/header.jpg

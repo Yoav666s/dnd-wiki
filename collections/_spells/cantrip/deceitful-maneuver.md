@@ -7,7 +7,7 @@ tags:
   - Deception
 available_for:
   - Mischievous Apprentice
-level: 0
+level: "Cantrip"
 # header:
 #   overlay_image: /assets/images/deceitful-maneuver/header.png
 #   teaser: /assets/images/deceitful-maneuver/header.jpg

@@ -9,7 +9,7 @@ tags:
   - Deception
 available_for:
   - Mischievous Apprentice
-level: 0
+level: "Cantrip"
 # header:
 #   overlay_image: /assets/images/minor-phantasm/header.png
 #   teaser: /assets/images/minor-phantasm/header.jpg

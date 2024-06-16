@@ -9,7 +9,7 @@ tags:
   - Illusion
 available_for:
   - Mischievous Apprentice
-level: 1
+level: "1st Level"
 header:
   overlay_image: /assets/images/spells/hide-in-shadows/header.png
   teaser: /assets/images/spells/hide-in-shadows/header.jpg
