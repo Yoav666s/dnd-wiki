@@ -3,7 +3,7 @@ layout: single
 ---
 <div class="page__content">
   {{ content }}
-  {% assign levels = site.data.navigation['spells'] %}
+  {% assign levels = site.data.navigation.spells %}
   {% for level in levels %}
     <p>{{ level.title }}</p>
     {% assign level_spells = site.spells | where: "level", level.title %}
