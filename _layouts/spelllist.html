@@ -7,7 +7,10 @@ toc: false
 <div class="page__content">
   {{ content }}
   {% for level in levels %}
-    <h1>{{ level.title }}</h1>
     {% assign level_spells = site.spells | where: "level", level.title %}
+    {% assign filtered_spells = level_spells | where_exp: "spell", "spell.available_for contains page.class or spell.available_for contains page.subclass" %}
+    {% if filtered_spells %}
+      <h1>{{ level.title }}</h1>
+    {% endif %}
   {% endfor %}
 </div>
