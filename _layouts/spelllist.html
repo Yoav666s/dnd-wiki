@@ -4,7 +4,8 @@ layout: single
 <div class="page__content">
   {{ content }}
   {% for level in site.data.navigation[spells] %}
-    <h1>{{ level.title }}</h1>
+    <p>poop</p>
+    <p>{{ level.title }}</p>
     {% assign level_spells = site.spells | where: "level", level.title %}
     {% assign filtered_spells = level_spells | where_exp: "spell", "spell.available_for | any: 'page.for_class'" %}
     <ul>
