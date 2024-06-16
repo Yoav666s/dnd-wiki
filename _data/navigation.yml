@@ -46,10 +46,8 @@ rules:
         url: /rules/spell-list/mischievous-apprentice/
 
 spells:
-  - title: "Cantrips"
-    level: 0
+  - title: "Cantrip"
   - title: "1st Level"
-    level: 1
   # - title: "Cantrip"
   #   children:
   #   - title: "Acid Splash"
