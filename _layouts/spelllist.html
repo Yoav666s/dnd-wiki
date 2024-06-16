@@ -3,7 +3,6 @@ layout: single
 ---
 <div class="page__content">
   {{ content }}
-  poop2
   {% for level in site.data.navigation[spells] %}
     <h1>{{ level.title }}</h1>
     {% assign level_spells = site.spells | where: "level", level.title %}
