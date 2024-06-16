@@ -48,3 +48,11 @@ rules:
 spells:
   - title: "Cantrip"
   - title: "1st Level"
+  - title: "2nd Level"
+  - title: "3rd Level"
+  - title: "4th Level"
+  - title: "5th Level"
+  - title: "6th Level"
+  - title: "7th Level"
+  - title: "8th Level"
+  - title: "9th Level"
