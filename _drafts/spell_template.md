@@ -8,6 +8,7 @@ available_for:
   - Wizard
   - Sorcerer
 source: "Basic Rules"
+level: "Cantrip"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
