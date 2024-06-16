@@ -8,6 +8,8 @@ for_class:
   - Mischievous Apprentice
 ---
 
+poop
+
 <!-- # Cantrips (0 Level)
 - [Deceitful Maneuver](/spells/deceitful-maneuver/)
 - [Fling](/spells/fling/)
