@@ -7,7 +7,6 @@ tags:
   - Healing
 available_for:
   - Cleric
-  - Artificer
 source: "Basic Rules"
 level: "Cantrip"
 # header:

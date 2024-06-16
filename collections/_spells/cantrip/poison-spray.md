@@ -1,5 +1,5 @@
 ---
-title: "Poision Spray"
+title: "Poison Spray"
 permalink: /spells/poison-spray/
 excerpt: "You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm."
 tags:
@@ -9,7 +9,6 @@ available_for:
   - Druid
   - Sorcerer
   - Wizard
-  - Artificer
 source: "Basic Rules"
 level: "Cantrip"
 # header:

@@ -10,7 +10,6 @@ available_for:
   - Sorcerer
   - Warlock
   - Wizard
-  - Artificer
 source: "Basic Rules"
 level: "Cantrip"
 # header:

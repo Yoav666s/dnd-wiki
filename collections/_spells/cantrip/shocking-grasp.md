@@ -8,7 +8,6 @@ tags:
 available_for:
   - Sorcerer
   - Wizard
-  - Artificer
 source: "Basic Rules"
 level: "Cantrip"
 # header:

@@ -11,7 +11,6 @@ available_for:
   - Bard
   - Sorcerer
   - Wizard
-  - Artificer
 source: "Basic Rules"
 level: "Cantrip"
 # header:

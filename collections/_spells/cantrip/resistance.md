@@ -8,7 +8,6 @@ tags:
 available_for:
   - Cleric
   - Druid
-  - Artificer
 source: "Basic Rules"
 level: "Cantrip"
 # header:

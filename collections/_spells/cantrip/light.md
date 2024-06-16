@@ -11,7 +11,6 @@ available_for:
   - Cleric
   - Sorcerer
   - Wizard
-  - Artificer
   - Mischievous Apprentice
 source: "Basic Rules"
 level: "Cantrip"
