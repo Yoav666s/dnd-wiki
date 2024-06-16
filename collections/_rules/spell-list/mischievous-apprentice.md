@@ -8,8 +8,6 @@ for_class:
   - Mischievous Apprentice
 ---
 
-# Title
-
 <!-- # Cantrips (0 Level)
 - [Deceitful Maneuver](/spells/deceitful-maneuver/)
 - [Fling](/spells/fling/)
