@@ -3,8 +3,8 @@ layout: single
 ---
 <div class="page__content">
   {{ content }}
-  {% for level in site.data.navigation[spells] %}
-    <p>poop</p>
+  {% assign levels = site.data.navigation['spells'] %}
+  {% for level in levels %}
     <p>{{ level.title }}</p>
     {% assign level_spells = site.spells | where: "level", level.title %}
     {% assign filtered_spells = level_spells | where_exp: "spell", "spell.available_for | any: 'page.for_class'" %}
