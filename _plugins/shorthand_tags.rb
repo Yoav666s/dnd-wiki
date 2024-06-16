@@ -1,18 +1,18 @@
 # _plugins/custom_tags.rb
 module Jekyll
   class CustomTag < Liquid::Tag
-    def initialize(tag_name, text, tokens)
+    def initialize(tag_name, markup, tokens)
       super
-      @text = text.strip
+      @name = markup.strip
     end
 
     def render(context)
-      if @text == 'c'
+      if @name == 'c'
         '<i class="fa-solid fa-copyright"></i>'
-      elsif @text == 'r'
+      elsif @name == 'r'
         '<i class="fa-solid fa-ritual"></i>'
       else
-        raise ArgumentError, "Invalid tag syntax in #{@tag_name}: #{@text}"
+        raise ArgumentError, "Invalid tag syntax: #{@name}"
       end
     end
   end
