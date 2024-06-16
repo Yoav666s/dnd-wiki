@@ -1,0 +1,29 @@
+---
+title: "Fire Bolt"
+permalink: /spells/fire-bolt/
+excerpt: "You hurl a mote of fire at a creature or object within range."
+tags:
+  - Spell
+  - Damage
+available_for:
+  - Sorcerer
+  - Wizard
+  - Artificer
+source: "Basic Rules"
+level: "Cantrip"
+# header:
+#   overlay_image: /assets/images/spells/message/header.png
+#   teaser: /assets/images/spells/message/header.jpg
+---
+
+You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
+
+This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+
+| LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |
+| :------------- | :------------- | :------------- | :------------- |
+| Cantrip        | 1 Action       | 120 ft.        | V, S           |
+
+| DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
+| :------------- | :------------- | :------------- | :------------- |
+| Instantaneous  | Evocation      | Ranged         | Fire           |

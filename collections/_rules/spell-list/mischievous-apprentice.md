@@ -5,6 +5,7 @@ excerpt: "[Read More](/classes/rogue/mischievous-apprentice/){: .btn .btn--light
 layout: spelllist
 class: "Rogue"
 subclass: "Mischievous Apprentice"
+toc: false
 ---
 
 <!-- # Cantrips (0 Level)
