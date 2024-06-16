@@ -9,6 +9,7 @@ available_for:
   - Bard
   - Cleric
 level: "1st Level"
+school: "Enchantment"
 source: "Basic Rules"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
@@ -25,6 +26,6 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 | DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
 | :------------- | :------------- | :------------- | :------------- |
-| {% include c.html %} 1 Minute       | Enchantment    | WIS Save       | Charmed        |
+| <i class="fa-solid fa-copyright"></i> 1 Minute       | {{ page.school }}   | CHA Save       | Charmed        |
 
 \*-*(a drop of blood)*

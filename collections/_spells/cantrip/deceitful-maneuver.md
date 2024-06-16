@@ -8,6 +8,7 @@ tags:
 available_for:
   - Mischievous Apprentice
 level: "Cantrip"
+school: "Illusion"
 # header:
 #   overlay_image: /assets/images/deceitful-maneuver/header.png
 #   teaser: /assets/images/deceitful-maneuver/header.jpg

@@ -9,6 +9,7 @@ available_for:
   - Ranger
   - Wizard
 level: "1st Level"
+school: "Abjuration"
 source: "Basic Rules"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png

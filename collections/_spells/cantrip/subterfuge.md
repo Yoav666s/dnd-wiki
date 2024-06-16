@@ -9,6 +9,7 @@ tags:
 available_for:
   - Mischievous Apprentice
 level: "Cantrip"
+school: "Transmutation"
 header:
   overlay_image: /assets/images/spells/subterfuge/header.png
   teaser: /assets/images/spells/subterfuge/header.jpg

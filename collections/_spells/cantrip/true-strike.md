@@ -12,6 +12,7 @@ available_for:
   - Wizard
 source: "Basic Rules"
 level: "Cantrip"
+school: "Divination"
 # header:
 #   overlay_image: /assets/images/spells/message/header.png
 #   teaser: /assets/images/spells/message/header.jpg

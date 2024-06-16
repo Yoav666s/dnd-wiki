@@ -10,6 +10,7 @@ available_for:
   - Bard
 source: "Basic Rules"
 level: "Cantrip"
+school: "Enchantment"
 # header:
 #   overlay_image: /assets/images/spells/subterfuge/header.png
 #   teaser: /assets/images/spells/subterfuge/header.jpg
@@ -25,4 +26,4 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 
 | DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
 | :------------- | :------------- | :------------- | :------------- |
-| Instantaneous  | Enchantment    | WIS Save       | Psychic        |
+| Instantaneous  | {{ page.school }}   | WIS Save       | Psychic        |

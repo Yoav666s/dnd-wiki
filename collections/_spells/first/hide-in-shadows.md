@@ -10,6 +10,7 @@ tags:
 available_for:
   - Mischievous Apprentice
 level: "1st Level"
+school: "Illusion"
 header:
   overlay_image: /assets/images/spells/hide-in-shadows/header.png
   teaser: /assets/images/spells/hide-in-shadows/header.jpg

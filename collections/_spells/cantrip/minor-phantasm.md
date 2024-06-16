@@ -10,6 +10,7 @@ tags:
 available_for:
   - Mischievous Apprentice
 level: "Cantrip"
+school: "Illusion"
 # header:
 #   overlay_image: /assets/images/minor-phantasm/header.png
 #   teaser: /assets/images/minor-phantasm/header.jpg

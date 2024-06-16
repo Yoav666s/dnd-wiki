@@ -11,6 +11,7 @@ available_for:
   - Druid
   - Ranger
 level: "1st Level"
+school: "Enchantment"
 source: "Basic Rules"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
@@ -27,6 +28,6 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 | DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
 | :------------- | :------------- | :------------- | :------------- |
-| 24 Hours       | Enchantment    | WIS Save       | Charmed        |
+| 24 Hours       | {{ page.school }}   | WIS Save       | Charmed        |
 
 \*-*(a morsel of food)*

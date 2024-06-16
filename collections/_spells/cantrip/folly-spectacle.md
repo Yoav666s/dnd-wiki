@@ -9,6 +9,7 @@ tags:
 available_for:
   - Mischievous Apprentice
 level: "Cantrip"
+school: "Illusion"
 # header:
 #   overlay_image: /assets/images/folly-spectacle/header.png
 #   teaser: /assets/images/folly-spectacle/header.jpg

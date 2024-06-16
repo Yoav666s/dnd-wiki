@@ -9,6 +9,7 @@ available_for:
   - Druid
 source: "Basic Rules"
 level: "Cantrip"
+school: "Transmutation"
 # header:
 #   overlay_image: /assets/images/spells/message/header.png
 #   teaser: /assets/images/spells/message/header.jpg

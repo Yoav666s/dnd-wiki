@@ -10,6 +10,7 @@ available_for:
   - Druid
 level: "Cantrip"
 source: "Basic Rules"
+school: "Divination"
 # header:
 #   overlay_image: /assets/images/deceitful-maneuver/header.png
 #   teaser: /assets/images/deceitful-maneuver/header.jpg
