@@ -2,9 +2,13 @@
 title: "Mischievous Apprentice Spell List"
 permalink: /rules/spell-list/mischievous-apprentice/
 excerpt: "[Read More](/classes/rogue/mischievous-apprentice/){: .btn .btn--light-outline .btn--small}"
+layout: spelllist
+for_class:
+  - Rogue
+  - Mischievous Apprentice
 ---
 
-# Cantrips (0 Level)
+<!-- # Cantrips (0 Level)
 - [Deceitful Maneuver](/spells/deceitful-maneuver/)
 - [Fling](/spells/fling/)
 - [Folly Spectacle](/spells/folly-spectacle/)
@@ -51,4 +55,4 @@ excerpt: "[Read More](/classes/rogue/mischievous-apprentice/){: .btn .btn--light
 - [Confusion](/spells/confusion/)
 - [Greater Invisibility](/spells/greater-invisibility/)
 - [Hallucinatory Terrain](/spells/hallucinatory-terrain/)
-- [Phantasmal Killer](/spells/phantasmal-killer/)
+- [Phantasmal Killer](/spells/phantasmal-killer/) -->
