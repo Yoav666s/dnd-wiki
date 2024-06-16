@@ -1,17 +1,22 @@
-# _plugins/shorthand_tags.rb
+# _plugins/custom_tags.rb
 module Jekyll
-  class ConcentrationTag < Liquid::Tag
-    def render(context)
-      '<i class="fa-solid fa-copyright"></i>'
+  class CustomTag < Liquid::Tag
+    def initialize(tag_name, text, tokens)
+      super
+      @text = text.strip
     end
-  end
 
-  class RitualTag < Liquid::Tag
     def render(context)
-      '<i class="fa-solid fa-copyright"></i>'
+      if @text == 'c'
+        '<i class="fa-solid fa-copyright"></i>'
+      elsif @text == 'r'
+        '<i class="fa-solid fa-ritual"></i>'
+      else
+        raise ArgumentError, "Invalid tag syntax in #{@tag_name}: #{@text}"
+      end
     end
   end
 end
 
-Liquid::Template.register_tag('c', Jekyll::ConcentrationTag)
-Liquid::Template.register_tag('r', Jekyll::RitualTag)
+Liquid::Template.register_tag('c', Jekyll::CustomTag)
+Liquid::Template.register_tag('r', Jekyll::CustomTag)

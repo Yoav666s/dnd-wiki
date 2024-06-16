@@ -25,6 +25,6 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 | DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
 | :------------- | :------------- | :------------- | :------------- |
-| 1 Minute       | Enchantment    | WIS Save       | Charmed        |
+| {% c %} 1 Minute       | Enchantment    | WIS Save       | Charmed        |
 
 \*-*(a drop of blood)*
