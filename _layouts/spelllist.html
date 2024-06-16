@@ -19,6 +19,15 @@ toc: false
 
     {% if spell_found %}
       <h1>{{ level.title }}</h1>
+      <ul>
+      {% for spell in level_spells %}
+        {% if spell.available_for contains page.class or spell.available_for contains page.subclass %}
+          <li>
+            <a href="{{ spell.url | relative_url }}">{{ spell.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
     {% endif %}
   {% endfor %}
 </div>
