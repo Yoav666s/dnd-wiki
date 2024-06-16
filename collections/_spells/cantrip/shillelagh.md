@@ -1,6 +1,6 @@
 ---
-title: "Sacred Flame"
-permalink: /spells/sacred-flame/
+title: "Shillelagh"
+permalink: /spells/shillelagh/
 excerpt: "Flame-like radiance descends on a creature that you can see within range."
 tags:
   - Spell

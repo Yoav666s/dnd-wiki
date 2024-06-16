@@ -1,7 +1,7 @@
 ---
 title: "Prestidigitation"
 permalink: /spells/prestidigitation/
-excerpt: "This spell is a minor magical trick that novice spellcasters use for practice.."
+excerpt: "This spell is a minor magical trick that novice spellcasters use for practice."
 tags:
   - Spell
   - Utility
