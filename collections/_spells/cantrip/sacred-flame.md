@@ -1,14 +1,12 @@
 ---
-title: "Ray of Frost"
-permalink: /spells/ray-of-frost/
-excerpt: "A frigid beam of blue-white light streaks toward a creature within range."
+title: "Sacred Flame"
+permalink: /spells/sacred-flame/
+excerpt: "Flame-like radiance descends on a creature that you can see within range."
 tags:
   - Spell
   - Damage
 available_for:
-  - Sorcerer
-  - Wizard
-  - Artificer
+  - Cleric
 source: "Basic Rules"
 level: "Cantrip"
 # header:
@@ -16,7 +14,7 @@ level: "Cantrip"
 #   teaser: /assets/images/spells/message/header.jpg
 ---
 
-A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
@@ -26,4 +24,4 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 | DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
 | :------------- | :------------- | :------------- | :------------- |
-| Instantaneous  | Evocation      | Ranged         | Cold           |
+| Instantaneous  | Evocation      | DEX Save       | Radiant        |
