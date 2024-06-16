@@ -1,19 +1,8 @@
 ---
 layout: single
 ---
+{% assign levels = site.data.navigation.spells %}
+
 <div class="page__content">
   {{ content }}
-  {% assign levels = site.data.navigation.spells %}
-  {% for level in levels %}
-    <p>{{ level.title }}</p>
-    <!-- {% assign level_spells = site.spells | where: "level", level.title %}
-    {% assign filtered_spells = level_spells | where_exp: "spell", "spell.available_for | any: 'page.for_class'" %}
-    <ul>
-      {% for spell in filtered_spells %}
-        <li>
-          <a href="{{ spell.url | relative_url }}">{{ spell.title }}</a>
-        </li>
-      {% endfor %}
-    </ul> -->
-  {% endfor %}
 </div>
