@@ -3,12 +3,12 @@ layout: single
 ---
 <div class="page__content">
   {{ content }}
-  {% for level in site.data.navigation[spells] %}
+  {% for level in site.data.navigation["spells"] %}
     <h1>{{ level.title }}</h1>
     {% assign level_spells = site.spells | where: "level", level.title %}
     {% assign filtered_spells = level_spells | where_exp: "spell", "spell.available_for | any: 'page.for_class'" %}
     <ul>
-      {% for spell in level_spells %}
+      {% for spell in filtered_spells %}
         <li>
           <a href="{{ spell.url | relative_url }}">{{ spell.title }}</a>
         </li>
