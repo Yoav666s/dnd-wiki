@@ -2,10 +2,13 @@
 layout: single
 ---
 <div class="page__content">
-  {% include spell_table.md %}
-  {{ page.description }}
+  {% capture spell_table %}
+    {% include spell_table.md %}
+  {% endcapture %}
+  {{ spell_table | markdownify }}
+  {{ page.description | markdownify }}
   {% if page.material %}
-    <p>*-<i>({{ page.material }})</i></p>
+    <p>*-<i>({{ page.material | markdownify }})</i></p>
   {% endif %}
   {{ content }}
 </div>
