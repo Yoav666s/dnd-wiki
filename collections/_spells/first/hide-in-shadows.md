@@ -25,13 +25,3 @@ header:
   overlay_image: /assets/images/spells/hide-in-shadows/header.png
   teaser: /assets/images/spells/hide-in-shadows/header.jpg
 ---
-
-| LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |
-| :------------- | :------------- | :------------- | :------------- |
-| 1st            | 1 Action       | Self           | V, S, M *      |
-
-| DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
-| :------------- | :------------- | :------------- | :------------- |
-| <i class="fa-solid fa-copyright"></i> 1 Hour       | Illusion       | None           | Invisible      |
-
-\*-*(an eyelash encased in gum arabic)*
