@@ -14,19 +14,12 @@
       <td>{{ page.range }}</td>
       <td>{{ page.comp | join: ', ' }}{% if page.material %}*{% endif %}</td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
     <tr>
       <th>Duration</th>
       <th>Casting Time</th>
       <th>Attack / Save</th>
       <th>Damage / Effect</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td>{% if page.concentration %}<i class="fa-solid fa-copyright"></i>{% endif %}{{ page.duration }}</td>
       <td>{{ page.cast_time }}{% if page.ritual %}<i class="fa-solid fa-registered"></i>{% endif %}</td>
