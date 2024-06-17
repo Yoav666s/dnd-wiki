@@ -28,11 +28,3 @@ source: "Basic Rules"
 #   overlay_image: /assets/images/spells/message/header.png
 #   teaser: /assets/images/spells/message/header.jpg
 ---
-
-| LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |
-| :------------- | :------------- | :------------- | :------------- |
-| Cantrip        | 1 Action       | 30 ft.         | V              |
-
-| DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
-| :------------- | :------------- | :------------- | :------------- |
-| 1 Minute       | Transmutation  | None           | Control        |
