@@ -13,7 +13,7 @@ range: "60 ft."
 comp:
   - S
 attack: "Ranged"
-damage: "Bludgeoning"
+effect: "Bludgeoning"
 description: |
   Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 60 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. You may send it towards one of your free hands and catch it.
 
