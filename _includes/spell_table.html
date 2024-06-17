@@ -21,7 +21,7 @@
       <td>{% if page.concentration %}<i class="fa-solid fa-copyright"></i> {% endif %}{% if page.duration %}{{ page.duration }}{% else %}Instantaneous{% endif %}</td>
       <td>{% if page.cast_time %}{{ page.cast_time }}{% else %}1 Action{% endif %}{% if page.ritual %} <i class="fa-solid fa-registered"></i>{% endif %}</td>
       <td>{% if page.attack %}{{ page.attack }}{% else %}None{% endif %}</td>
-      <td>{% if page.effect %}{{ page.effect }}{% include effect.html type=page.effect %}{% else %}{% for tag in page.tags %}{% if tag != "Spell" %}{{ tag }}{% break %}{% endif %}{% endfor %}{% endif %}</td>
+      <td>{% if page.effect %}{{ page.effect }} {% include effect.html type=page.effect %}{% else %}{% for tag in page.tags %}{% if tag != "Spell" %}{{ tag }}{% break %}{% endif %}{% endfor %}{% endif %}</td>
     </tr>
   </tbody>
 </table>
