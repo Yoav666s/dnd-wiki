@@ -6,7 +6,8 @@ tags:
   - Control
 available_for:
   - Cleric
-level: "Transmutation"
+level: "Cantrip"
+school: "Transmutation"
 range: "30 ft."
 comp:
   - V
