@@ -9,6 +9,11 @@
     {% endif %}
   {% endfor %}
 {% endif %}
+{% if page.range %}
+  {% assign range = page.range %}
+{% else %}
+  {% assign range = "Self" %}
+{% endif %}
 
 <table><tbody>
     <tr>
@@ -20,7 +25,7 @@
     <tr>
       <td>{{ page.level }}</td>
       <td>{{ page.school }}</td>
-      <td>{% if page.range %}{{ page.range }} {% include area.html type=page.area %}{% else %}Self{% endif %}</td>
+      <td>{% include range.html type=range %} {{ range }}{% if page.area %} / {{ page.area }}  {% include range.html type=page.shape %}{% endif %}</td>
       <td>{{ page.comp | join: ', ' }}{% if page.material %} *{% endif %}</td>
     </tr>
     <tr>
@@ -32,7 +37,7 @@
     <tr>
       <td>{% if page.concentration %}<i class="fa-solid fa-copyright"></i> {% endif %}{% if page.duration %}{{ page.duration }}{% else %}Instantaneous{% endif %}</td>
       <td>{% if page.cast_time %}{{ page.cast_time }}{% else %}1 Action{% endif %}{% if page.ritual %} <i class="fa-solid fa-registered"></i>{% endif %}</td>
-      <td>{% if page.attack %}{{ page.attack }}{% else %}None{% endif %}</td>
+      <td>{% if page.attack %}{% include range.html type=page.attack %} {{ page.attack }}{% else %}None{% endif %}</td>
       <td>{% include effect.html type=effect %} {{ effect }}</td>
     </tr>
   </tbody>

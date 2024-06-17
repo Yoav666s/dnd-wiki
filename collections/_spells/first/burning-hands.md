@@ -5,25 +5,24 @@ tags:
   - Spell
   - Damage
 available_for:
-  - Bard
-  - Cleric
-  - Life Domain
+  - Sorcerer
+  - Wizard
 level: "1st Level"
-school: "Enchantment"
-range: "Self / 15 ft"
-area: "Cone"
+school: "Evocation"
+area: "15 ft"
+shape: "Cone"
 comp:
   - V
   - S
-  - M
-material: "a sprinkling of holy water"
-duration: "1 Minute"
-concentration: true
+attack: "DEX Save"
+effect: "Fire"
 description: |
-  You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
+  As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
 
-  **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
-excerpt: "You bless up to three creatures of your choice within range."
+  The fire ignites any flammable objects in the area that aren't being worn or carried.
+
+  **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+excerpt: "As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips."
 source: "Basic Rules"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
