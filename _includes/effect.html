@@ -1,4 +1,4 @@
-{% case include.type | downcase | replace: ' ', '-' %}
+{% case include.type | downcase %}
   {% when "acid" %}<i class="fa-solid fa-flask"></i>
   {% when "bludgeoning" %}<i class="fa-solid fa-person-falling-burst"></i>
   {% when "cold" %}<i class="fa-regular fa-snowflake"></i>
