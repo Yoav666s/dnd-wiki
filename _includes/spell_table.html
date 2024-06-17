@@ -20,7 +20,7 @@
     <tr>
       <td>{{ page.level }}</td>
       <td>{{ page.school }}</td>
-      <td>{% if page.range %}{{ page.range }}{% else %}Self{% endif %}</td>
+      <td>{% if page.range %}{{ page.range }} {% include area.html type=page.area %}{% else %}Self{% endif %}</td>
       <td>{{ page.comp | join: ', ' }}{% if page.material %} *{% endif %}</td>
     </tr>
     <tr>
