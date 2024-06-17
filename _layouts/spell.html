@@ -1,0 +1,11 @@
+---
+layout: single
+---
+<div class="page__content">
+  {% include spell_table.md %}
+  {{ page.description }}
+  {% if page.material %}
+    <p>*-<i>({{ page.material }})</i></p>
+  {% endif %}
+  {{ content }}
+</div>

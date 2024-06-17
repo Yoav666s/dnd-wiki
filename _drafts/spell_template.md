@@ -1,27 +1,29 @@
 ---
 title: "Name"
 permalink: /spells/name/
-excerpt: "Not Implemented"
+description: "description"
+excerpt: "description"
 tags:
   - Spell
 available_for:
   - Wizard
   - Sorcerer
-source: "Basic Rules"
 level: "Cantrip"
+cast_time: "1 Action"
+school: "Transmutation"
+range: "30 ft."
+comp:
+  - V
+  - S
+  - M
+material: "a small nugget of rabbit poop"
+duration: "Instantaneous"
+attack: "WIS Save"
+source: "Basic Rules"
+effect: "Fire"
+concentration: false
+ritual: false
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
 ---
-
-description
-
-| LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |
-| :------------- | :------------- | :------------- | :------------- |
-| Cantrip        | 1 Action       | 30 ft.         | V, S, M *      |
-
-| DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
-| :------------- | :------------- | :------------- | :------------- |
-| Instantaneous  | Transmutation  | Ranged         | Bludgeoning    |
-
-\*-*(a small nugget of rabbit poop)*
