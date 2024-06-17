@@ -11,7 +11,7 @@ available_for:
   - Ranger
 level: "1st Level"
 school: "Enchantment"
-range: "30 ft."
+range: "30 ft"
 comp:
   - V
   - S

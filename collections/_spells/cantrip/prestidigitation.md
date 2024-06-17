@@ -12,7 +12,7 @@ available_for:
   - Wizard
 level: "Cantrip"
 school: "Transmutation"
-range: "10 ft."
+range: "10 ft"
 comp:
   - V
   - S

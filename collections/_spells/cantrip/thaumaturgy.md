@@ -8,7 +8,7 @@ available_for:
   - Cleric
 level: "Cantrip"
 school: "Transmutation"
-range: "30 ft."
+range: "30 ft"
 comp:
   - V
 duration: "1 Minute"

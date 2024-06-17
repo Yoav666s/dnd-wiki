@@ -1,7 +1,7 @@
 {% case include.type %}
-  {% when "Cone" %}<i class="fa-solid fa-greater-than"></i>
-  {% when "Cube" %}<i class="fa-solid fa-cube"></i>
-  {% when "Cylinder" %}<i class="fa-solid fa-greater-than"></i>
-  {% when "Line" %}<i class="fa-solid fa-slash"></i>
-  {% when "Sphere" %}<i class="fa-solid fa-globe"></i>
+  {% when "Cone" %}<i class="fa-solid fa-greater-than" title="{{ include.type }}"></i>
+  {% when "Cube" %}<i class="fa-solid fa-cube" title="{{ include.type }}"></i>
+  {% when "Cylinder" %}<i class="fa-solid fa-greater-than" title="{{ include.type }}"></i>
+  {% when "Line" %}<i class="fa-solid fa-slash" title="{{ include.type }}"></i>
+  {% when "Sphere" %}<i class="fa-solid fa-globe" title="{{ include.type }}"></i>
 {% endcase %}

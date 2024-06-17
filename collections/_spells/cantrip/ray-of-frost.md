@@ -9,7 +9,7 @@ available_for:
   - Wizard
 level: "Cantrip"
 school: "Evocation"
-range: "60 ft."
+range: "60 ft"
 attack: "Ranged"
 effect: "Cold"
 description: |

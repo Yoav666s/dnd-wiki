@@ -10,7 +10,8 @@ available_for:
   - Life Domain
 level: "1st Level"
 school: "Enchantment"
-area: "15 ft. Cone"
+range: "Self / 15 ft"
+area: "Cone"
 comp:
   - V
   - S

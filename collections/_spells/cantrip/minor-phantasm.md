@@ -10,7 +10,8 @@ available_for:
   - Mischievous Apprentice
 level: "Cantrip"
 school: "Illusion"
-range: "30 ft. (5 ft.)"
+range: "30 ft / 5 ft"
+area: "Cube"
 comp:
   - V
   - S

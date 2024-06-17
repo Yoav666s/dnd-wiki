@@ -9,7 +9,7 @@ available_for:
   - Bard
 level: "Cantrip"
 school: "Enchantment"
-range: "60 ft."
+range: "60 ft"
 comp:
   - V
 attack: "WIS Save"

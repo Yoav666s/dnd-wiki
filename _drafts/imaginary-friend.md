@@ -31,7 +31,7 @@ If a creature uses its action to examine the illusion, the creature can determin
 
 | LEVEL          | CASTING TIME   | RANGE/AREA     | COMPONENTS     |
 | :------------- | :------------- | :------------- | :------------- |
-| 1st            | 1 Action <i class="fa-solid fa-registered"></i>     | 60 ft.         | V, S, M *      |
+| 1st            | 1 Action <i class="fa-solid fa-registered"></i>     | 60 ft         | V, S, M *      |
 
 | DURATION       | SCHOOL         | ATTACK/SAVE    | DAMAGE/EFFECT  |
 | :------------- | :------------- | :------------- | :------------- |

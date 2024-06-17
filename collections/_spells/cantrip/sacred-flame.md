@@ -8,7 +8,7 @@ available_for:
   - Cleric
 level: "Cantrip"
 school: "Evocation"
-range: "60 ft."
+range: "60 ft"
 comp:
   - V
   - S

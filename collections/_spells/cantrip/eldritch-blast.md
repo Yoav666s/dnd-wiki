@@ -8,7 +8,7 @@ available_for:
   - Warlock
 level: "Cantrip"
 school: "Evocation"
-range: "120 ft."
+range: "120 ft"
 comp:
   - V
   - S

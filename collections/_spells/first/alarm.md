@@ -9,7 +9,7 @@ available_for:
   - Wizard
 level: "1st Level"
 school: "Abjuration"
-range: "30 ft."
+range: "30 ft"
 comp:
   - V
   - S

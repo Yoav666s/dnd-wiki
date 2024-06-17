@@ -11,7 +11,7 @@ available_for:
 level: "Cantrip"
 cast_time: "1 Action"
 school: "Transmutation"
-range: "30 ft."
+range: "30 ft"
 comp:
   - V
   - S

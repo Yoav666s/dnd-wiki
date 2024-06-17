@@ -13,7 +13,8 @@ available_for:
   - Mischievous Apprentice
 level: "Cantrip"
 school: "Evocation"
-range: "20 ft."
+range: "Touch / 20 ft"
+area: "Sphere"
 comp:
   - V
   - M

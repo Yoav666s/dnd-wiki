@@ -10,7 +10,7 @@ available_for:
   - Wizard
 level: "Cantrip"
 school: "Conjuration"
-range: "10 ft."
+range: "10 ft"
 comp:
   - V
   - S

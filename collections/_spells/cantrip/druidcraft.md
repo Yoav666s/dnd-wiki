@@ -8,7 +8,7 @@ available_for:
   - Druid
 level: "Cantrip"
 school: "Transmutation"
-range: "30 ft."
+range: "30 ft"
 comp:
   - V
   - S

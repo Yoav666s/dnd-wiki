@@ -12,7 +12,8 @@ available_for:
   - Wizard
 level: "Cantrip"
 school: "Illusion"
-range: "30 ft. (5 ft.)"
+range: "30 ft / 5 ft"
+area: "Cube"
 comp:
   - S
   - M

@@ -11,7 +11,7 @@ available_for:
   - Wizard
 level: "Cantrip"
 school: "Divination"
-range: "30 ft."
+range: "30 ft"
 comp:
   - S
 duration: "1 Round"
