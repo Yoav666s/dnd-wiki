@@ -1,6 +1,6 @@
-| Level            | School            | Range / Area     | Components                                                    |
-| :--------------- | :---------------- | :--------------- | :------------------------------------------------------------ |
-| {{ page.level }} | {{ page.school }} | {{ page.range }} | {{ page.comp | join ', ' }}{% if page.material %}*{% endif %} |
+| Level            | School            | Range / Area     | Components                  |
+| :--------------- | :---------------- | :--------------- | :-------------------------- |
+| {{ page.level }} | {{ page.school }} | {{ page.range }} | {{ page.comp | join ', ' }} |
 
 | Duration            | Casting Time         | Attack / Save     | Damage / Effect   |
 | :------------------ | :------------------- | :---------------- | :---------------- |
