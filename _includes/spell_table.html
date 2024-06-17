@@ -18,9 +18,9 @@
       <th>Damage / Effect</th>
     </tr>
     <tr>
-      <td>{% if page.concentration %}<i class="fa-solid fa-copyright"></i>{% endif %}{{ page.duration }}</td>
-      <td>{{ page.cast_time }}{% if page.ritual %}<i class="fa-solid fa-registered"></i>{% endif %}</td>
-      <td>{{ page.attack }}</td>
+      <td>{% if page.concentration %}<i class="fa-solid fa-copyright"></i> {% endif %}{{ page.duration }}</td>
+      <td>{{ page.cast_time }}{% if page.ritual %} <i class="fa-solid fa-registered"></i>{% endif %}</td>
+      <td>{% if page.attack %}{{ page.attack }}{% else %}None{% endif %}</td>
       <td>{{ page.effect }}</td>
     </tr>
   </tbody>
