@@ -5,7 +5,7 @@ layout: single
   {% include spell_table.html %}
   {{ page.description | markdownify }}
   {% if page.material %}
-    <p>*-<i>({{ page.material | markdownify }})</i></p>
+    <p>*-<i>({{ page.material }})</i></p>
   {% endif %}
   {{ content }}
 </div>
