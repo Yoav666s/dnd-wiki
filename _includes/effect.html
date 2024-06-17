@@ -1,0 +1,30 @@
+{% case include.type | downcase | replace: ' ', '-' %}
+  {% when "acid" %}<i class="fa-solid fa-flask"></i>
+  {% when "bludgeoning" %}<i class="fa-solid fa-person-falling-burst"></i>
+  {% when "cold" %}<i class="fa-regular fa-snowflake"></i>
+  {% when "fire" %}<i class="fa-solid fa-fire-flame-curved"></i>
+  {% when "force" %}<i class="fa-solid fa-explosion"></i>
+  {% when "lightning" %}<i class="fa-solid fa-bolt"></i>
+  {% when "necrotic" %}<i class="fa-solid fa-book-skull"></i>
+  {% when "piercing" %}<i class="fa-solid fa-icicles"></i>
+  {% when "poison" %}<i class="fa-solid fa-skull"></i>
+  {% when "psychic" %}<i class="fa-solid fa-brain"></i>
+  {% when "radiant" %}<i class="fa-solid fa-hands-holding"></i>
+  {% when "slashing" %}<i class="fa-regular fa-moon"></i>
+  {% when "thunder" %}<i class="fa-solid fa-cloud-bolt"></i>
+  {% when "blinded" %}<i class="fa-regular fa-eye-slash"></i>
+  {% when "charmed" %}<i class="fa-solid fa-heart-crack"></i>
+  {% when "deafened" %}<i class="fa-solid fa-ear-deaf"></i>
+  {% when "frightened" %}<i class="fa-regular fa-face-sad-cry"></i>
+  {% when "grappled" %}<i class="fa-solid fa-hand-fist"></i>
+  {% when "incapacitated" %}<i class="fa-solid fa-user-injured"></i>
+  {% when "invisible" %}<i class="fa-regular fa-eye"></i>
+  {% when "paralyzed" %}<i class="fa-solid fa-face-flushed"></i>
+  {% when "petrified" %}<i class="fa-solid fa-face-meh-blank"></i>
+  {% when "poisioned" %}<i class="fa-solid fa-person-dots-from-line"></i>
+  {% when "prone" %}<i class="fa-solid fa-person-falling"></i>
+  {% when "restrained" %}<i class="fa-solid fa-square-person-confined"></i>
+  {% when "stunned" %}<i class="fa-solid fa-hand-sparkles"></i>
+  {% when "unconscious" %}<i class="fa-solid fa-face-dizzy"></i>
+  {% when "exhaustion" %}<i class="fa-solid fa-face-tired"></i>
+{% endcase %}
