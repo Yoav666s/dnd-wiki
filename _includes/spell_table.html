@@ -6,6 +6,12 @@
       <th>Range / Area</th>
       <th>Components</th>
     </tr>
+    <tr>
+      <th>Duration</th>
+      <th>Casting Time</th>
+      <th>Attack / Save</th>
+      <th>Damage / Effect</th>
+    </tr>
   </thead>
   <tbody>
     <tr>
@@ -13,12 +19,6 @@
       <td>{{ page.school }}</td>
       <td>{{ page.range }}</td>
       <td>{{ page.comp | join: ', ' }}{% if page.material %}*{% endif %}</td>
-    </tr>
-    <tr>
-      <th>Duration</th>
-      <th>Casting Time</th>
-      <th>Attack / Save</th>
-      <th>Damage / Effect</th>
     </tr>
     <tr>
       <td>{% if page.concentration %}<i class="fa-solid fa-copyright"></i>{% endif %}{{ page.duration }}</td>
