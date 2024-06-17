@@ -10,6 +10,9 @@ available_for:
 level: "Cantrip"
 school: "Evocation"
 range: "60 ft"
+comp:
+  - V
+  - S
 attack: "Ranged"
 effect: "Cold"
 description: |
