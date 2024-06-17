@@ -2,10 +2,7 @@
 layout: single
 ---
 <div class="page__content">
-  {% capture spell_table %}
-    {% include spell_table.md %}
-  {% endcapture %}
-  {{ spell_table | markdownify }}
+  {% include spell_table.html %}
   {{ page.description | markdownify }}
   {% if page.material %}
     <p>*-<i>({{ page.material | markdownify }})</i></p>
