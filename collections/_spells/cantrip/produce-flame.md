@@ -9,7 +9,7 @@ available_for:
   - Druid
 level: "Cantrip"
 school: "Conjuration"
-range: "Self / 30 ft"
+area: "30 ft"
 comp:
   - V
   - S
