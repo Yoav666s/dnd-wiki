@@ -3,7 +3,6 @@ title: "Ray of Frost"
 permalink: /spells/ray-of-frost/
 tags:
   - Spell
-  - Damage
 available_for:
   - Sorcerer
   - Wizard
@@ -21,7 +20,4 @@ description: |
   The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 excerpt: "A frigid beam of blue-white light streaks toward a creature within range."
 source: "Basic Rules"
-# header:
-#   overlay_image: /assets/images/spells/message/header.png
-#   teaser: /assets/images/spells/message/header.jpg
 ---

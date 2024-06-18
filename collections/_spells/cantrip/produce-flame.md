@@ -3,17 +3,14 @@ title: "Produce Flame"
 permalink: /spells/produce-flame/
 tags:
   - Spell
-  - Creation
-  - Damage
 available_for:
   - Druid
 level: "Cantrip"
 school: "Conjuration"
-area: "30 ft"
 comp:
   - V
   - S
-duration: "10 Minutes"
+duration: "10 minutes"
 attack: "Ranged"
 effect: "Fire"
 description: |
@@ -24,7 +21,4 @@ description: |
   This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 excerpt: "A flickering flame appears in your hand."
 source: "Basic Rules"
-# header:
-#   overlay_image: /assets/images/spells/message/header.png
-#   teaser: /assets/images/spells/message/header.jpg
 ---

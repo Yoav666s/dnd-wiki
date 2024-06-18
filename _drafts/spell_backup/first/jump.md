@@ -1,10 +1,11 @@
 ---
-title: "Jump"
-permalink: /spells/jump/
+title: "Longstrider"
+permalink: /spells/longstrider/
 tags:
   - Spell
   - Movement
 available_for:
+  - Bard
   - Druid
   - Ranger
   - Sorcerer

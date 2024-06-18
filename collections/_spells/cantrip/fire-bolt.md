@@ -3,7 +3,6 @@ title: "Fire Bolt"
 permalink: /spells/fire-bolt/
 tags:
   - Spell
-  - Damage
 available_for:
   - Sorcerer
   - Wizard
@@ -21,7 +20,4 @@ description: |
   This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 excerpt: "You hurl a mote of fire at a creature or object within range."
 source: "Basic Rules"
-# header:
-#   overlay_image: /assets/images/spells/message/header.png
-#   teaser: /assets/images/spells/message/header.jpg
 ---

@@ -3,9 +3,7 @@ title: "Minor Illusion"
 permalink: /spells/minor-illusion/
 tags:
   - Spell
-  - Control
 available_for:
-  - Mischievous Apprentice
   - Bard
   - Sorcerer
   - Warlock
@@ -13,13 +11,11 @@ available_for:
 level: "Cantrip"
 school: "Illusion"
 range: "30 ft"
-area: "5 ft"
-shape: "Cube"
 comp:
   - S
   - M
-material: "a bit of fleece"
-duration: "1 Minute"
+material: "a bit of fleece."
+duration: "1 minute"
 description: |
   You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
 
@@ -30,7 +26,4 @@ description: |
   If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 excerpt: "You create a sound or an image of an object within range that lasts for the duration."
 source: "Basic Rules"
-# header:
-#   overlay_image: /assets/images/minor-phantasm/header.png
-#   teaser: /assets/images/minor-phantasm/header.jpg
 ---
