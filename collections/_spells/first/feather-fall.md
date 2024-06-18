@@ -28,4 +28,4 @@ source: "Basic Rules"
 #   teaser: /assets/images/spells/name/header.jpg
 ---
 
-\*\*-*which you take when you or a creature within 60 feet of you falls*
+\*\*-*(which you take when you or a creature within 60 feet of you falls)*
