@@ -21,7 +21,7 @@ description: |
   **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 excerpt: "You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames."
 notes: |
-  \* - *which you take in response to being damaged by a creature within 60 feet of you that you can see*
+  * - which you take in response to being damaged by a creature within 60 feet of you that you can see
 source: "Basic Rules"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
