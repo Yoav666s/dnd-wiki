@@ -29,7 +29,7 @@
   {% assign class_pages = site.classes | map: 'title' %}
 
   <p class="page__taxonomy">
-    <strong></strong>
+    <strong>{include effect.html type="Class"}  </strong>
     <span itemprop="keywords">
     {% for class_tag in classes_sorted %}
       {% assign class_page = site.classes | where: "title", class_tag | first %}
