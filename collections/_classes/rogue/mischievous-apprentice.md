@@ -127,7 +127,7 @@ Starting at 13th level, your mischievous incantations become instinctual, allowi
 ## Deceitful Dodge
 If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you learn the **Deceitful Dodge**. When you're targeted by an attack that relies on sight, you may use your reaction to cast Deceitful Maneuver to give it disadvantage.
 
-You may also move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. An attack will automatically miss if you move out of its path. If you would move out of a creature's engagement range, you must succeed a Dexterity (Stealth) check against its passive perception or provoke an opportunity attack.
+You may also move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. If you move out of the attack's path, you may evade it completely by succeeding a Dexterity saving throw against the attack roll.
 
 ## Divert
 If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip, you learn **Divert**. When you notice a ranged weapon attack, you may use your reaction to try and divert its projectile when it reaches a distance of 30 feet or less from you.
