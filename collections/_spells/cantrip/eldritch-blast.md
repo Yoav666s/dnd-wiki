@@ -1,6 +1,6 @@
 ---
 title: "Eldritch Blast"
-permalink: /spells/chill-touch/
+permalink: /spells/eldritch-blast/
 tags:
   - Spell
   - Damage
