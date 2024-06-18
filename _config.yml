@@ -456,7 +456,6 @@ defaults:
       header:
         overlay_image: /assets/images/spells/header.png
         overlay_filter: 0.375
-      show_tags: true
       classes: wide
 
   # _items
