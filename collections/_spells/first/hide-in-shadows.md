@@ -4,8 +4,6 @@ permalink: /spells/hide-in-shadows/
 tags:
   - Spell
   - Buff
-  - Invisibility
-  - Illusion
 available_for:
   - Mischievous Apprentice
 level: "1st Level"
