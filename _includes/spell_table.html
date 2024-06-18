@@ -26,7 +26,7 @@
     <tr>
       <td>{{ page.level }}</td>
       <td>{{ page.school }}</td>
-      <td>{% include range.html type=range %} {{ range }}{% if page.area %} / {{ page.area }}  {% include range.html type=page.shape %}{% endif %}</td>
+      <td>{% include range.html type=range %} {{ range }}{% if page.area %} / {% include range.html type=page.shape %} {{ page.area }}{% endif %}</td>
       <td>{{ page.comp | join: ', ' }}{% if page.material %} *{% endif %}</td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td>{% if page.concentration %}{% include effect.html type="Concentration" %} {% endif %}{% if page.duration %}{{ page.duration }}{% else %}Instantaneous{% endif %}</td>
-      <td>{% if page.cast_time %}{{ page.cast_time }}{% else %}1 Action{% endif %}{% if page.ritual %} {% include effect.html type="Ritual" %}{% endif %}</td>
+      <td>{% if page.ritual %}{% include effect.html type="Ritual" %} {% endif %}{% if page.cast_time %}{{ page.cast_time }}{% else %}1 Action{% endif %}</td>
       <td>{% if page.attack %}{% include range.html type=page.attack %} {{ page.attack }}{% else %}None{% endif %}</td>
       <td>{% include effect.html type=effect %} {{ effect }}</td>
     </tr>
