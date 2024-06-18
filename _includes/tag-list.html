@@ -12,7 +12,7 @@
 
   {% if page.show_tags %}
     <p class="page__taxonomy">
-      <a>{% include effect.html type="Tag" %} </a>
+      <strong>{% include effect.html type="Tag" %} Tags: </strong>
       <span itemprop="keywords">
       {% for tag_word in tags_sorted %}
         {% unless hidden_tags contains tag_word %}
@@ -29,7 +29,7 @@
   {% assign class_pages = site.classes | map: 'title' %}
 
   <p class="page__taxonomy">
-    {% include effect.html type="Class" %}
+    <strong>{% include effect.html type="Class" %} Available for: </strong>
     <span itemprop="keywords">
     {% for class_tag in classes_sorted %}
       {% assign class_page = site.classes | where: "title", class_tag | first %}
