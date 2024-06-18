@@ -30,7 +30,7 @@ description: |
 
   The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 
-  The GM has the creatures' statistics.
+  The DM has the creatures' statistics.
 
   **At higher levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 excerpt: "You summon elementals that appear in unoccupied spaces that you can see within range."
