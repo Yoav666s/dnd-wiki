@@ -2,7 +2,8 @@
   {% assign effect = page.effect %}
 {% else %}
   {% assign effect = "None" %}
-  {% for tag in page.tags %}
+  {% assign tags_sorted = page.tags | sort_natural %}
+  {% for tag in tags_sorted %}
     {% if tag != "Spell" %}
       {% assign effect = tag %}
       {% break %}
