@@ -1,12 +1,12 @@
 ---
 layout: single
 ---
-{% assign note_size = "14px" %}
+{% assign note_style = "font-size: 14px;" %}
 
 <div class="page__content">
   {% include spell_table.html %}
   {{ page.description | markdownify }}
-  {% if page.material %}<p style="font-size: {{ note_size }};"><i>* - ({{ page.material }})</i></p>{% endif %}
-  <p style="font-size: {{ note_size }};"><i>{{ page.notes }}</i></p>
+  {% if page.material %}<p style="{{ note_style }}"><i>* - ({{ page.material }})</i></p>{% endif %}
+  <p style="{{ note_style }}"><i>{{ page.notes }}</i></p>
   {{ content }}
 </div>
