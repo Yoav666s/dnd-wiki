@@ -6,7 +6,7 @@ layout: single
 <div class="page__content">
   {{ content }}
   {% for level in levels %}
-    {% assign level_spells = site.spells | where: "level", level.title | sort_natural %}
+    {% assign level_spells = site.spells | where: "level", level.title | sort: "title" %}
     {% assign spell_found = false %}
 
     {% for spell in level_spells %}
