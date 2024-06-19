@@ -3,6 +3,8 @@ title: "Silent Image"
 permalink: /spells/silent-image/
 tags:
   - Spell
+  - 1st Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer
@@ -17,7 +19,7 @@ comp:
   - S
   - M
 material: "a bit of fleece."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 description: |
   You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.

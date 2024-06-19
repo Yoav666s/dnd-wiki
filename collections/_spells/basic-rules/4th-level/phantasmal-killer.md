@@ -3,6 +3,10 @@ title: "Phantasmal Killer"
 permalink: /spells/phantasmal-killer/
 tags:
   - Spell
+  - 4th Level
+  - Illusion
+  - Damage
+  - Psychic
 available_for:
   - Wizard
 level: "4th Level"
@@ -11,7 +15,7 @@ range: "120 ft"
 comp:
   - V
   - S
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "WIS Save"
 effect: "Psychic"

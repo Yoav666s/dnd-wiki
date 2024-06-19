@@ -3,6 +3,10 @@ title: "Magic Missile"
 permalink: /spells/magic-missile/
 tags:
   - Spell
+  - 1st Level
+  - Evocation
+  - Damage
+  - Force
 available_for:
   - Sorcerer
   - Wizard

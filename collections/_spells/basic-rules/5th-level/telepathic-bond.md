@@ -3,6 +3,8 @@ title: "Telepathic Bond"
 permalink: /spells/telepathic-bond/
 tags:
   - Spell
+  - 5th Level
+  - Divination
 available_for:
   - Wizard
 level: "5th Level"
@@ -13,7 +15,7 @@ comp:
   - S
   - M
 material: "pieces of eggshell from two different kinds of creatures"
-duration: "1 hour"
+duration: "1 Hour"
 ritual: true
 description: |
   You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores of 2 or less aren't affected by this spell.

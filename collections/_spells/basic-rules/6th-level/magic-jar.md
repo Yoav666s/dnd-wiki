@@ -3,6 +3,8 @@ title: "Magic Jar"
 permalink: /spells/magic-jar/
 tags:
   - Spell
+  - 6th Level
+  - Necromancy
 available_for:
   - Wizard
 level: "6th Level"
@@ -12,7 +14,7 @@ comp:
   - S
   - M
 material: "a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp."
-duration: "Until dispelled"
+duration: "Until Dispelled"
 cast_time: "1 Minute"
 attack: "CHA Save"
 description: |

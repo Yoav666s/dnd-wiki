@@ -3,6 +3,8 @@ title: "Mass Suggestion"
 permalink: /spells/mass-suggestion/
 tags:
   - Spell
+  - 6th Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer
@@ -15,7 +17,7 @@ comp:
   - V
   - M
 material: "a snake's tongue and either a bit of honeycomb or a drop of sweet oil."
-duration: "24 hours"
+duration: "24 Hours"
 attack: "WIS Save"
 description: |
   You suggest a course of activity (limited to a sentence or two) and magically influence up to twelve creatures of your choice that you can see within range and that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell.

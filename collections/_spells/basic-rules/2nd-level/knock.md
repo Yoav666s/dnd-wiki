@@ -3,6 +3,8 @@ title: "Knock"
 permalink: /spells/knock/
 tags:
   - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Bard
   - Sorcerer

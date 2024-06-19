@@ -3,6 +3,8 @@ title: "Magic Weapon"
 permalink: /spells/magic-weapon/
 tags:
   - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Paladin
   - Wizard
@@ -12,7 +14,7 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 cast_time: "1 Bonus Action"
 description: |

@@ -3,6 +3,8 @@ title: "Resilient Sphere"
 permalink: /spells/resilient-sphere/
 tags:
   - Spell
+  - 4th Level
+  - Evocation
 available_for:
   - Wizard
 level: "4th Level"
@@ -13,7 +15,7 @@ comp:
   - S
   - M
 material: "a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "DEX Save"
 description: |

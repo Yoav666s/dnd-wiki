@@ -3,6 +3,8 @@ title: "Magic Circle"
 permalink: /spells/magic-circle/
 tags:
   - Spell
+  - 3rd Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin
@@ -18,7 +20,7 @@ comp:
   - S
   - M
 material: "holy water or powdered silver and iron worth at least 100 gp, which the spell consumes."
-duration: "1 hour"
+duration: "1 Hour"
 cast_time: "1 Minute"
 attack: "CHA Save"
 description: |

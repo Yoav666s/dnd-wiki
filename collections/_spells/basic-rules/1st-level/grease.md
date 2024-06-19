@@ -3,6 +3,8 @@ title: "Grease"
 permalink: /spells/grease/
 tags:
   - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Wizard
 level: "1st Level"
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a bit of pork rind or butter."
-duration: "1 minute"
+duration: "1 Minute"
 attack: "DEX Save"
 description: |
   Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.

@@ -3,6 +3,10 @@ title: "Delayed Blast Fireball"
 permalink: /spells/delayed-blast-fireball/
 tags:
   - Spell
+  - 7th Level
+  - Evocation
+  - Damage
+  - Fire
 available_for:
   - Sorcerer
   - Wizard
@@ -16,7 +20,7 @@ comp:
   - S
   - M
 material: "a tiny ball of bat guano and sulfur."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "DEX Save"
 effect: "Fire"

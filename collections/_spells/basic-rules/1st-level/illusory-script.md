@@ -3,6 +3,8 @@ title: "Illusory Script"
 permalink: /spells/illusory-script/
 tags:
   - Spell
+  - 1st Level
+  - Illusion
 available_for:
   - Bard
   - Warlock
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "a lead-based ink worth at least 10gp, which this spell consumes."
-duration: "10 days"
+duration: "10 Days"
 cast_time: "1 Minute"
 ritual: true
 description: |

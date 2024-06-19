@@ -3,6 +3,10 @@ title: "Sleep"
 permalink: /spells/sleep/
 tags:
   - Spell
+  - 1st Level
+  - Enchantment
+  - Damage
+  - 
 available_for:
   - Bard
   - Sorcerer
@@ -17,7 +21,7 @@ comp:
   - S
   - M
 material: "a pinch of fine sand, rose petals, or a cricket."
-duration: "1 minute"
+duration: "1 Minute"
 effect: ""
 description: |
   This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).

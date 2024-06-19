@@ -3,6 +3,10 @@ title: "Guiding Bolt"
 permalink: /spells/guiding-bolt/
 tags:
   - Spell
+  - 1st Level
+  - Evocation
+  - Damage
+  - Radiant
 available_for:
   - Cleric
 level: "1st Level"
@@ -11,7 +15,7 @@ range: "120 ft"
 comp:
   - V
   - S
-duration: "1 round"
+duration: "1 Round"
 attack: "Ranged"
 effect: "Radiant"
 description: |

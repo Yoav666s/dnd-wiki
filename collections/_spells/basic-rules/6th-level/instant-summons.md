@@ -3,6 +3,8 @@ title: "Instant Summons"
 permalink: /spells/instant-summons/
 tags:
   - Spell
+  - 6th Level
+  - Conjuration
 available_for:
   - Wizard
 level: "6th Level"
@@ -13,7 +15,7 @@ comp:
   - S
   - M
 material: "a sapphire worth 1,000 gp."
-duration: "Until dispelled"
+duration: "Until Dispelled"
 cast_time: "1 Minute"
 ritual: true
 description: |

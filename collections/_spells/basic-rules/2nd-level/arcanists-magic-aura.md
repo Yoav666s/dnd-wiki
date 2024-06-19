@@ -3,6 +3,8 @@ title: "Arcanist's Magic Aura"
 permalink: /spells/arcanists-magic-aura/
 tags:
   - Spell
+  - 2nd Level
+  - Illusion
 available_for:
   - Wizard
 level: "2nd Level"
@@ -13,7 +15,7 @@ comp:
   - S
   - M
 material: "a small square of silk."
-duration: "24 hours"
+duration: "24 Hours"
 description: |
   You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn't being carried or worn by another creature.
 

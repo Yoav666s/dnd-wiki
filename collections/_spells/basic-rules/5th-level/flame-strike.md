@@ -3,6 +3,10 @@ title: "Flame Strike"
 permalink: /spells/flame-strike/
 tags:
   - Spell
+  - 5th Level
+  - Evocation
+  - Damage
+  - Fire
 available_for:
   - Cleric
 level: "5th Level"

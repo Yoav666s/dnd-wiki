@@ -3,6 +3,8 @@ title: "Alarm"
 permalink: /spells/alarm/
 tags:
   - Spell
+  - 1st Level
+  - Abjuration
 available_for:
   - Ranger
   - Wizard
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "a tiny bell and a piece of fine silver wire."
-duration: "8 hours"
+duration: "8 Hours"
 cast_time: "1 Minute"
 ritual: true
 description: |

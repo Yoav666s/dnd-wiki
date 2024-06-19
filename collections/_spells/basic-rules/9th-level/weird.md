@@ -3,6 +3,8 @@ title: "Weird"
 permalink: /spells/weird/
 tags:
   - Spell
+  - 9th Level
+  - Illusion
 available_for:
   - Wizard
 level: "9th Level"
@@ -13,7 +15,7 @@ shape: "Sphere"
 comp:
   - V
   - S
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "WIS Save"
 description: |

@@ -3,6 +3,8 @@ title: "Resurrection"
 permalink: /spells/resurrection/
 tags:
   - Spell
+  - 7th Level
+  - Necromancy
 available_for:
   - Bard
   - Cleric

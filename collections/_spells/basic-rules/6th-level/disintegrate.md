@@ -3,6 +3,10 @@ title: "Disintegrate"
 permalink: /spells/disintegrate/
 tags:
   - Spell
+  - 6th Level
+  - Transmutation
+  - Damage
+  - Force
 available_for:
   - Sorcerer
   - Wizard

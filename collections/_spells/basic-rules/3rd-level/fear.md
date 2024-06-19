@@ -3,6 +3,8 @@ title: "Fear"
 permalink: /spells/fear/
 tags:
   - Spell
+  - 3rd Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer
@@ -17,7 +19,7 @@ comp:
   - S
   - M
 material: "a white feather or the heart of a hen."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "WIS Save"
 description: |

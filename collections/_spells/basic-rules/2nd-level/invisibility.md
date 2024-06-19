@@ -3,6 +3,8 @@ title: "Invisibility"
 permalink: /spells/invisibility/
 tags:
   - Spell
+  - 2nd Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "an eyelash encased in gum arabic."
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.

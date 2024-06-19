@@ -3,6 +3,10 @@ title: "Produce Flame"
 permalink: /spells/produce-flame/
 tags:
   - Spell
+  - Cantrip
+  - Conjuration
+  - Damage
+  - Fire
 available_for:
   - Druid
 level: "Cantrip"
@@ -10,7 +14,7 @@ school: "Conjuration"
 comp:
   - V
   - S
-duration: "10 minutes"
+duration: "10 Minutes"
 attack: "Ranged"
 effect: "Fire"
 description: |

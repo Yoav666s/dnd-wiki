@@ -3,6 +3,8 @@ title: "Death Ward"
 permalink: /spells/death-ward/
 tags:
   - Spell
+  - 4th Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin
@@ -12,7 +14,7 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "8 hours"
+duration: "8 Hours"
 description: |
   You touch a creature and grant it a measure of protection from death.
 

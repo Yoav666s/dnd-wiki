@@ -3,6 +3,8 @@ title: "Planar Binding"
 permalink: /spells/planar-binding/
 tags:
   - Spell
+  - 5th Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "a jewel worth at least 1,000 gp, which the spell consumes."
-duration: "24 hours"
+duration: "24 Hours"
 cast_time: "1 Hour"
 attack: "CHA Save"
 description: |

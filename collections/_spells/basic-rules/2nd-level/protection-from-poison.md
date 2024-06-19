@@ -3,6 +3,8 @@ title: "Protection from Poison"
 permalink: /spells/protection-from-poison/
 tags:
   - Spell
+  - 2nd Level
+  - Abjuration
 available_for:
   - Cleric
   - Druid
@@ -14,7 +16,7 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "1 hour"
+duration: "1 Hour"
 description: |
   You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
 

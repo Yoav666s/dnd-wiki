@@ -3,6 +3,10 @@ title: "Harm"
 permalink: /spells/harm/
 tags:
   - Spell
+  - 6th Level
+  - Necromancy
+  - Damage
+  - Necrotic
 available_for:
   - Cleric
 level: "6th Level"

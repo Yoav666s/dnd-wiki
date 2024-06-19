@@ -3,6 +3,8 @@ title: "Private Sanctum"
 permalink: /spells/private-sanctum/
 tags:
   - Spell
+  - 4th Level
+  - Abjuration
 available_for:
   - Wizard
 level: "4th Level"
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite."
-duration: "24 hours"
+duration: "24 Hours"
 cast_time: "10 Minutes"
 description: |
   You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it.

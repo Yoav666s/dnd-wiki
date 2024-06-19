@@ -3,6 +3,10 @@ title: "Incendiary Cloud"
 permalink: /spells/incendiary-cloud/
 tags:
   - Spell
+  - 8th Level
+  - Conjuration
+  - Damage
+  - Fire
 available_for:
   - Sorcerer
   - Wizard
@@ -14,7 +18,7 @@ shape: "Sphere"
 comp:
   - V
   - S
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "DEX Save"
 effect: "Fire"

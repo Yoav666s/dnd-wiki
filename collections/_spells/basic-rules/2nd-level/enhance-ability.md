@@ -3,6 +3,8 @@ title: "Enhance Ability"
 permalink: /spells/enhance-ability/
 tags:
   - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Bard
   - Cleric
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "fur or a feather from a beast."
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.

@@ -3,6 +3,8 @@ title: "Time Stop"
 permalink: /spells/time-stop/
 tags:
   - Spell
+  - 9th Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard

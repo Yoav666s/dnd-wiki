@@ -3,6 +3,10 @@ title: "Acid Splash"
 permalink: /spells/acid-splash/
 tags:
   - Spell
+  - Cantrip
+  - Conjuration
+  - Damage
+  - Acid
 available_for:
   - Sorcerer
   - Wizard

@@ -3,6 +3,8 @@ title: "Magic Mouth"
 permalink: /spells/magic-mouth/
 tags:
   - Spell
+  - 2nd Level
+  - Illusion
 available_for:
   - Bard
   - Wizard
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "a honeycomb and jade dust of at least 10 inches, the spell consumes."
-duration: "Until dispelled"
+duration: "Until Dispelled"
 cast_time: "1 Minute"
 ritual: true
 description: |

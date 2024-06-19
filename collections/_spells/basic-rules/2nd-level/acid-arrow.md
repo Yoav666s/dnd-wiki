@@ -3,6 +3,10 @@ title: "Acid Arrow"
 permalink: /spells/acid-arrow/
 tags:
   - Spell
+  - 2nd Level
+  - Evocation
+  - Damage
+  - Acid
 available_for:
   - Wizard
 level: "2nd Level"

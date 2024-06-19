@@ -3,13 +3,17 @@ title: "Branding Smite"
 permalink: /spells/branding-smite/
 tags:
   - Spell
+  - 2nd Level
+  - Evocation
+  - Damage
+  - Radiant
 available_for:
   - Paladin
 level: "2nd Level"
 school: "Evocation"
 comp:
   - V
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 cast_time: "1 Bonus Action"
 effect: "Radiant"

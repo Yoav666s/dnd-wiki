@@ -3,6 +3,8 @@ title: "Charm Person"
 permalink: /spells/charm-person/
 tags:
   - Spell
+  - 1st Level
+  - Enchantment
 available_for:
   - Bard
   - Druid
@@ -15,7 +17,7 @@ range: "30 ft"
 comp:
   - V
   - S
-duration: "1 hour"
+duration: "1 Hour"
 attack: "WIS Save"
 description: |
   You attempt to charm a humanoid you can see within range. It must make a wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.

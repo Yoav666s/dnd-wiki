@@ -3,6 +3,8 @@ title: "Fabricate"
 permalink: /spells/fabricate/
 tags:
   - Spell
+  - 4th Level
+  - Transmutation
 available_for:
   - Wizard
 level: "4th Level"

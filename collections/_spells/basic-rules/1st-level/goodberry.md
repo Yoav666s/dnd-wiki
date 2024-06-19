@@ -3,6 +3,8 @@ title: "Goodberry"
 permalink: /spells/goodberry/
 tags:
   - Spell
+  - 1st Level
+  - Transmutation
 available_for:
   - Druid
   - Ranger

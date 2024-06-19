@@ -3,6 +3,8 @@ title: "Power Word Kill"
 permalink: /spells/power-word-kill/
 tags:
   - Spell
+  - 9th Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer

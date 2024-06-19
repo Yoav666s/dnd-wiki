@@ -3,6 +3,8 @@ title: "Find the Path"
 permalink: /spells/find-the-path/
 tags:
   - Spell
+  - 6th Level
+  - Divination
 available_for:
   - Bard
   - Cleric
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "a set of divinatory tools--such as bones, ivory sticks, cards, teeth, or carved runes--worth 100gp and an object from the location you wish to find."
-duration: "Up to 24 hours"
+duration: "24 Hours"
 concentration: true
 cast_time: "1 Minute"
 description: |

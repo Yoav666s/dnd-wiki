@@ -3,6 +3,8 @@ title: "Forcecage"
 permalink: /spells/forcecage/
 tags:
   - Spell
+  - 7th Level
+  - Evocation
 available_for:
   - Bard
   - Warlock
@@ -17,7 +19,7 @@ comp:
   - S
   - M
 material: "ruby dust worth 1,500 gp."
-duration: "1 hour"
+duration: "1 Hour"
 description: |
   An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
 

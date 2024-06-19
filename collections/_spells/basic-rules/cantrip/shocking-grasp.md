@@ -3,6 +3,10 @@ title: "Shocking Grasp"
 permalink: /spells/shocking-grasp/
 tags:
   - Spell
+  - Cantrip
+  - Evocation
+  - Damage
+  - Lightning
 available_for:
   - Sorcerer
   - Wizard

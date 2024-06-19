@@ -3,6 +3,8 @@ title: "Forbiddance"
 permalink: /spells/forbiddance/
 tags:
   - Spell
+  - 6th Level
+  - Abjuration
 available_for:
   - Cleric
 level: "6th Level"
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp."
-duration: "24 hours"
+duration: "24 Hours"
 cast_time: "10 Minutes"
 ritual: true
 description: |

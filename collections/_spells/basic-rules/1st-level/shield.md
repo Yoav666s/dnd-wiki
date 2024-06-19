@@ -3,6 +3,8 @@ title: "Shield"
 permalink: /spells/shield/
 tags:
   - Spell
+  - 1st Level
+  - Abjuration
 available_for:
   - Sorcerer
   - Wizard
@@ -11,7 +13,7 @@ school: "Abjuration"
 comp:
   - V
   - S
-duration: "1 round"
+duration: "1 Round"
 cast_time: "1 Reaction"
 description: |
   An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.

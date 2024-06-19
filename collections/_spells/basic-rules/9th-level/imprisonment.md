@@ -3,6 +3,8 @@ title: "Imprisonment"
 permalink: /spells/imprisonment/
 tags:
   - Spell
+  - 9th Level
+  - Abjuration
 available_for:
   - Warlock
   - Wizard
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500gp per hit die of the target."
-duration: "Until dispelled"
+duration: "Until Dispelled"
 cast_time: "1 Minute"
 attack: "WIS Save"
 description: |
@@ -42,7 +44,7 @@ description: |
 
   The special component for this version of the spell consists of rare soporific herbs.
 
-  ***Ending the Spell.*** During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the DM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature's name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
+  ***Ending the Spell.*** During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the GM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature's name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
 
   A dispel magic spell can end the spell only if it is cast as a 9th-level spell, targeting either the prison or the special component used to create it.
 

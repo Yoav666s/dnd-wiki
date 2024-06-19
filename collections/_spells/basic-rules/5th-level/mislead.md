@@ -3,6 +3,8 @@ title: "Mislead"
 permalink: /spells/mislead/
 tags:
   - Spell
+  - 5th Level
+  - Illusion
 available_for:
   - Bard
   - Wizard
@@ -10,7 +12,7 @@ level: "5th Level"
 school: "Illusion"
 comp:
   - S
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   You become invisible at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.

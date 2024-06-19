@@ -3,6 +3,8 @@ title: "Meld Into Stone"
 permalink: /spells/meld-into-stone/
 tags:
   - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Cleric
 level: "3rd Level"
@@ -11,7 +13,7 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "8 hours"
+duration: "8 Hours"
 ritual: true
 description: |
   You step into a stone object or surface large enough to fully contain your body, melding yourself and all the equipment you carry with the stone for the duration. Using your movement, you step into the stone at a point you can touch. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.

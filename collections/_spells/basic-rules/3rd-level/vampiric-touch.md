@@ -3,6 +3,10 @@ title: "Vampiric Touch"
 permalink: /spells/vampiric-touch/
 tags:
   - Spell
+  - 3rd Level
+  - Necromancy
+  - Damage
+  - Necrotic
 available_for:
   - Warlock
   - Wizard
@@ -11,7 +15,7 @@ school: "Necromancy"
 comp:
   - V
   - S
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "Melee"
 effect: "Necrotic"

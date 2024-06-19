@@ -3,6 +3,8 @@ title: "Misty Step"
 permalink: /spells/misty-step/
 tags:
   - Spell
+  - 2nd Level
+  - Conjuration
 available_for:
   - Sorcerer
   - Warlock

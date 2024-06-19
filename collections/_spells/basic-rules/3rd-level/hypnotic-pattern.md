@@ -3,6 +3,8 @@ title: "Hypnotic Pattern"
 permalink: /spells/hypnotic-pattern/
 tags:
   - Spell
+  - 3rd Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a glowing stick of incense or a crystal vial filled with phosphorescent material."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "WIS Save"
 description: |

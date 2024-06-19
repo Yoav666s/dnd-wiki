@@ -3,6 +3,8 @@ title: "Hold Monster"
 permalink: /spells/hold-monster/
 tags:
   - Spell
+  - 5th Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "a small piece of iron."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "WIS Save"
 description: |

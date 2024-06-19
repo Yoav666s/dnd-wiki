@@ -3,6 +3,8 @@ title: "Telekinesis"
 permalink: /spells/telekinesis/
 tags:
   - Spell
+  - 5th Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard
@@ -14,7 +16,7 @@ shape: "Sphere"
 comp:
   - V
   - S
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 description: |
   You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and as your action each round for the duration, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.

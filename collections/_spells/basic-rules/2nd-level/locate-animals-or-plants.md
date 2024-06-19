@@ -3,6 +3,8 @@ title: "Locate Animals or Plants"
 permalink: /spells/locate-animals-or-plants/
 tags:
   - Spell
+  - 2nd Level
+  - Divination
 available_for:
   - Bard
   - Druid

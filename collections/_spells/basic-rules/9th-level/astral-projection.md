@@ -3,6 +3,8 @@ title: "Astral Projection"
 permalink: /spells/astral-projection/
 tags:
   - Spell
+  - 9th Level
+  - Necromancy
 available_for:
   - Cleric
   - Warlock

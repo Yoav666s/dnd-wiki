@@ -3,6 +3,8 @@ title: "Fly"
 permalink: /spells/fly/
 tags:
   - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Warlock
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a wing feather from any bird."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 description: |
   You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.

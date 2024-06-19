@@ -3,6 +3,8 @@ title: "Eyebite"
 permalink: /spells/eyebite/
 tags:
   - Spell
+  - 6th Level
+  - Necromancy
 available_for:
   - Bard
   - Sorcerer
@@ -13,7 +15,7 @@ school: "Necromancy"
 comp:
   - V
   - S
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "WIS Save"
 description: |

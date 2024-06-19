@@ -3,6 +3,10 @@ title: "Thunderwave"
 permalink: /spells/thunderwave/
 tags:
   - Spell
+  - 1st Level
+  - Evocation
+  - Damage
+  - Thunder
 available_for:
   - Bard
   - Druid

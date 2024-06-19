@@ -3,6 +3,8 @@ title: "Irresistible Dance"
 permalink: /spells/irresistible-dance/
 tags:
   - Spell
+  - 6th Level
+  - Enchantment
 available_for:
   - Bard
   - Wizard
@@ -11,7 +13,7 @@ school: "Enchantment"
 range: "30 ft"
 comp:
   - V
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 description: |
   Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can't be charmed are immune to this spell.

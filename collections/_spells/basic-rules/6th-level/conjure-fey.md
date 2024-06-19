@@ -3,6 +3,8 @@ title: "Conjure Fey"
 permalink: /spells/conjure-fey/
 tags:
   - Spell
+  - 6th Level
+  - Conjuration
 available_for:
   - Druid
   - Warlock
@@ -12,7 +14,7 @@ range: "90 ft"
 comp:
   - V
   - S
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 cast_time: "1 Minute"
 description: |
@@ -22,7 +24,7 @@ description: |
 
   If your concentration is broken, the fey creature doesn't disappear. Instead, you lose control of the fey creature, it becomes hostile toward you and your companions, and it might attack. An uncontrolled fey creature can't be dismissed by you, and it disappears 1 hour after you summoned it.
 
-  The DM has the fey creature's statistics.
+  The GM has the fey creature's statistics.
 
   **At higher levels.** When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.
 excerpt: "You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower."

@@ -3,6 +3,8 @@ title: "Create or Destroy Water"
 permalink: /spells/create-or-destroy-water/
 tags:
   - Spell
+  - 1st Level
+  - Transmutation
 available_for:
   - Cleric
   - Druid

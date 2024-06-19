@@ -3,6 +3,10 @@ title: "Wall of Thorns"
 permalink: /spells/wall-of-thorns/
 tags:
   - Spell
+  - 6th Level
+  - Conjuration
+  - Damage
+  - Piercing
 available_for:
   - Druid
 level: "6th Level"
@@ -15,7 +19,7 @@ comp:
   - S
   - M
 material: "a handful of thorns."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 attack: "DEX Save"
 effect: "Piercing"

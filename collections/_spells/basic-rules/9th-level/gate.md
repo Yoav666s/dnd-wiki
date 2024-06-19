@@ -3,6 +3,8 @@ title: "Gate"
 permalink: /spells/gate/
 tags:
   - Spell
+  - 9th Level
+  - Conjuration
 available_for:
   - Cleric
   - Sorcerer
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a diamond worth at least 5,000gp."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 description: |
   You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration.
@@ -24,7 +26,7 @@ description: |
 
   Deities and other planar rulers can prevent portals created by this spell from opening in their presence or anywhere within their domains.
 
-  When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn't work). If that creature is on a plane other than the one you are on, the portal opens in the named creature's immediate vicinity and draws the creature through it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the DM deems appropriate. It might leave, attack you, or help you.
+  When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn't work). If that creature is on a plane other than the one you are on, the portal opens in the named creature's immediate vicinity and draws the creature through it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the GM deems appropriate. It might leave, attack you, or help you.
 excerpt: "You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence."
 source: "Basic Rules"
 ---

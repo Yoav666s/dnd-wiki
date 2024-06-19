@@ -3,6 +3,10 @@ title: "Meteor Swarm"
 permalink: /spells/meteor-swarm/
 tags:
   - Spell
+  - 9th Level
+  - Evocation
+  - Damage
+  - Fire
 available_for:
   - Sorcerer
   - Wizard

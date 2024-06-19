@@ -3,6 +3,8 @@ title: "False Life"
 permalink: /spells/false-life/
 tags:
   - Spell
+  - 1st Level
+  - Necromancy
 available_for:
   - Sorcerer
   - Wizard
@@ -13,7 +15,7 @@ comp:
   - S
   - M
 material: "a small amount of alcohol or distilled spirits."
-duration: "1 hour"
+duration: "1 Hour"
 description: |
   Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 

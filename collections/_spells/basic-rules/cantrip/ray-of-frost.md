@@ -3,6 +3,10 @@ title: "Ray of Frost"
 permalink: /spells/ray-of-frost/
 tags:
   - Spell
+  - Cantrip
+  - Evocation
+  - Damage
+  - Cold
 available_for:
   - Sorcerer
   - Wizard

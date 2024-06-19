@@ -3,6 +3,8 @@ title: "Dominate Monster"
 permalink: /spells/dominate-monster/
 tags:
   - Spell
+  - 8th Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer
@@ -14,7 +16,7 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 attack: "WIS Save"
 description: |

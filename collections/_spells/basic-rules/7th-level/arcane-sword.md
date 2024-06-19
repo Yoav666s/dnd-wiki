@@ -3,6 +3,10 @@ title: "Arcane Sword"
 permalink: /spells/arcane-sword/
 tags:
   - Spell
+  - 7th Level
+  - Evocation
+  - Damage
+  - Force
 available_for:
   - Bard
   - Wizard
@@ -14,7 +18,7 @@ comp:
   - S
   - M
 material: "a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "Melee"
 effect: "Force"

@@ -3,6 +3,10 @@ title: "Poison Spray"
 permalink: /spells/poison-spray/
 tags:
   - Spell
+  - Cantrip
+  - Conjuration
+  - Damage
+  - Poison
 available_for:
   - Sorcerer
   - Warlock

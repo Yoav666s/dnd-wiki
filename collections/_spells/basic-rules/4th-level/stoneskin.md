@@ -3,6 +3,8 @@ title: "Stoneskin"
 permalink: /spells/stoneskin/
 tags:
   - Spell
+  - 4th Level
+  - Abjuration
 available_for:
   - Druid
   - Ranger
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "diamond dust worth 100 gp, which the spell consumes."
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.

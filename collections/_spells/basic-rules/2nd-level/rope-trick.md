@@ -3,6 +3,8 @@ title: "Rope Trick"
 permalink: /spells/rope-trick/
 tags:
   - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Wizard
 level: "2nd Level"
@@ -13,7 +15,7 @@ comp:
   - S
   - M
 material: "powdered corn extract and a twisted loop of parchment."
-duration: "1 hour"
+duration: "1 Hour"
 description: |
   You touch a length of rope that is up to 60 feet long. One end of the rope then rises into the air until the whole rope hangs perpendicular to the ground. At the upper end of the rope, an invisible entrance opens to an extradimensional space that lasts until the spell ends.
 

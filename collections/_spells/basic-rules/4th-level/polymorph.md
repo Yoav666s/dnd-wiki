@@ -3,6 +3,8 @@ title: "Polymorph"
 permalink: /spells/polymorph/
 tags:
   - Spell
+  - 4th Level
+  - Transmutation
 available_for:
   - Bard
   - Druid
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "a caterpillar cocoon."
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 attack: "WIS Save"
 description: |

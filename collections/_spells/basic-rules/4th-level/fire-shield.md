@@ -3,6 +3,10 @@ title: "Fire Shield"
 permalink: /spells/fire-shield/
 tags:
   - Spell
+  - 4th Level
+  - Evocation
+  - Damage
+  - Fire
 available_for:
   - Wizard
 level: "4th Level"
@@ -14,7 +18,7 @@ comp:
   - S
   - M
 material: "a little phosphorus or a firefly."
-duration: "10 minutes"
+duration: "10 Minutes"
 effect: "Fire"
 description: |
   Thin and vaporous flame surround your body for the duration of the spell, radiating a bright light bright light in a 10-foot radius and dim light for an additional 10 feet. You can end the spell using an action to make it disappear.

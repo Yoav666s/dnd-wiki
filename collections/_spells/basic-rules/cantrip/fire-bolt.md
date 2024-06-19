@@ -3,6 +3,10 @@ title: "Fire Bolt"
 permalink: /spells/fire-bolt/
 tags:
   - Spell
+  - Cantrip
+  - Evocation
+  - Damage
+  - Fire
 available_for:
   - Sorcerer
   - Wizard

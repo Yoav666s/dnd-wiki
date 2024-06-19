@@ -3,6 +3,8 @@ title: "Prayer of Healing"
 permalink: /spells/prayer-of-healing/
 tags:
   - Spell
+  - 2nd Level
+  - Evocation
 available_for:
   - Cleric
 level: "2nd Level"

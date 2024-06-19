@@ -3,6 +3,8 @@ title: "Maze"
 permalink: /spells/maze/
 tags:
   - Spell
+  - 8th Level
+  - Conjuration
 available_for:
   - Wizard
 level: "8th Level"
@@ -11,7 +13,7 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 description: |
   You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.

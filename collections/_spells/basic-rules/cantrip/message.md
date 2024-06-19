@@ -3,6 +3,8 @@ title: "Message"
 permalink: /spells/message/
 tags:
   - Spell
+  - Cantrip
+  - Transmutation
 available_for:
   - Bard
   - Sorcerer
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a short piece of copper wire."
-duration: "1 round"
+duration: "1 Round"
 description: |
   You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
 

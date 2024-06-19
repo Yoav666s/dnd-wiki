@@ -3,6 +3,8 @@ title: "Counterspell"
 permalink: /spells/counterspell/
 tags:
   - Spell
+  - 3rd Level
+  - Abjuration
 available_for:
   - Sorcerer
   - Warlock

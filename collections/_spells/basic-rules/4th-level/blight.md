@@ -3,6 +3,10 @@ title: "Blight"
 permalink: /spells/blight/
 tags:
   - Spell
+  - 4th Level
+  - Necromancy
+  - Damage
+  - Necrotic
 available_for:
   - Druid
   - Sorcerer

@@ -3,6 +3,8 @@ title: "Lesser Restoration"
 permalink: /spells/lesser-restoration/
 tags:
   - Spell
+  - 2nd Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

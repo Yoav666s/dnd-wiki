@@ -3,6 +3,8 @@ title: "Stone Shape"
 permalink: /spells/stone-shape/
 tags:
   - Spell
+  - 4th Level
+  - Transmutation
 available_for:
   - Cleric
   - Druid

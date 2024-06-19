@@ -3,6 +3,8 @@ title: "Speak with Dead"
 permalink: /spells/speak-with-dead/
 tags:
   - Spell
+  - 3rd Level
+  - Necromancy
 available_for:
   - Bard
   - Cleric
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "burning incense."
-duration: "10 minutes"
+duration: "10 Minutes"
 description: |
   You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose. The corpse must still have a mouth and can't be undead. The spell fails if the corpse was the target of this spell within the last 10 days.
 

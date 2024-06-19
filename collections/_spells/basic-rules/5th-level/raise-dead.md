@@ -3,6 +3,8 @@ title: "Raise Dead"
 permalink: /spells/raise-dead/
 tags:
   - Spell
+  - 5th Level
+  - Necromancy
 available_for:
   - Bard
   - Cleric

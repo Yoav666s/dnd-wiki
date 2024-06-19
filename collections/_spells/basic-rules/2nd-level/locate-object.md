@@ -3,6 +3,8 @@ title: "Locate Object"
 permalink: /spells/locate-object/
 tags:
   - Spell
+  - 2nd Level
+  - Divination
 available_for:
   - Bard
   - Cleric
@@ -17,7 +19,7 @@ comp:
   - S
   - M
 material: "a forked twig."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 description: |
   Describe or name an object that is familiar to you. You sense the direction to the object's location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.

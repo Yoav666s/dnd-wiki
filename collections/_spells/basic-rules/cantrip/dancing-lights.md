@@ -3,6 +3,8 @@ title: "Dancing Lights"
 permalink: /spells/dancing-lights/
 tags:
   - Spell
+  - Cantrip
+  - Evocation
 available_for:
   - Bard
   - Sorcerer
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a bit of phosphorus or wychwood, or a glowworm."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 description: |
   You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.

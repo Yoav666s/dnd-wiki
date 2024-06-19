@@ -3,6 +3,8 @@ title: "Mirror Image"
 permalink: /spells/mirror-image/
 tags:
   - Spell
+  - 2nd Level
+  - Illusion
 available_for:
   - Sorcerer
   - Warlock
@@ -12,7 +14,7 @@ school: "Illusion"
 comp:
   - V
   - S
-duration: "1 minute"
+duration: "1 Minute"
 description: |
   Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates.
 

@@ -3,6 +3,10 @@ title: "Lightning Bolt"
 permalink: /spells/lightning-bolt/
 tags:
   - Spell
+  - 3rd Level
+  - Evocation
+  - Damage
+  - Lightning
 available_for:
   - Sorcerer
   - Wizard

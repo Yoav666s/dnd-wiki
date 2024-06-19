@@ -3,6 +3,10 @@ title: "Feeblemind"
 permalink: /spells/feeblemind/
 tags:
   - Spell
+  - 8th Level
+  - Enchantment
+  - Damage
+  - Psychic
 available_for:
   - Bard
   - Druid

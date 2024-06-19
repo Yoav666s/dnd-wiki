@@ -3,6 +3,8 @@ title: "Web"
 permalink: /spells/web/
 tags:
   - Spell
+  - 2nd Level
+  - Conjuration
 available_for:
   - Sorcerer
   - Wizard
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "a bit of spiderweb."
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.

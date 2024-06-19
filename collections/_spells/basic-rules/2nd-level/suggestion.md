@@ -3,6 +3,8 @@ title: "Suggestion"
 permalink: /spells/suggestion/
 tags:
   - Spell
+  - 2nd Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer
@@ -15,7 +17,7 @@ comp:
   - V
   - M
 material: "a snake's tongue and either a bit of honeycomb or a drop of sweet oil."
-duration: "Up to 8 hours"
+duration: "8 Hours"
 concentration: true
 attack: "WIS Save"
 description: |

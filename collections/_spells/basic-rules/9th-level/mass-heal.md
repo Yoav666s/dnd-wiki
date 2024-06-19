@@ -3,6 +3,8 @@ title: "Mass Heal"
 permalink: /spells/mass-heal/
 tags:
   - Spell
+  - 9th Level
+  - Conjuration
 available_for:
   - Cleric
 level: "9th Level"

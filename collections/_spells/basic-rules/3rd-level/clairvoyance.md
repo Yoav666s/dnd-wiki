@@ -3,6 +3,8 @@ title: "Clairvoyance"
 permalink: /spells/clairvoyance/
 tags:
   - Spell
+  - 3rd Level
+  - Divination
 available_for:
   - Bard
   - Cleric
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "a focus worth at least 100gp, either a jeweled horn for hearing or a glass eye for seeing."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 cast_time: "10 Minutes"
 description: |

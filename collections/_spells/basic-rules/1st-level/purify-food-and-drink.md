@@ -3,6 +3,8 @@ title: "Purify Food and Drink"
 permalink: /spells/purify-food-and-drink/
 tags:
   - Spell
+  - 1st Level
+  - Transmutation
 available_for:
   - Cleric
   - Druid

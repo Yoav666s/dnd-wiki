@@ -3,6 +3,8 @@ title: "Programmed Illusion"
 permalink: /spells/programmed-illusion/
 tags:
   - Spell
+  - 6th Level
+  - Illusion
 available_for:
   - Bard
   - Wizard
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "a bit of fleece and jade dust worth at least 25 gp."
-duration: "Until dispelled"
+duration: "Until Dispelled"
 description: |
   You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
 

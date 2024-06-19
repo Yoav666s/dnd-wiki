@@ -3,6 +3,8 @@ title: "Arcane Hand"
 permalink: /spells/arcane-hand/
 tags:
   - Spell
+  - 5th Level
+  - Evocation
 available_for:
   - Wizard
 level: "5th Level"
@@ -13,7 +15,7 @@ comp:
   - S
   - M
 material: "an eggshell and a snakeskin glove."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 description: |
   You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. The hand lasts for the spell's duration, and it moves at your command, mimicking the movements of your own hand.

@@ -3,6 +3,8 @@ title: "Command"
 permalink: /spells/command/
 tags:
   - Spell
+  - 1st Level
+  - Enchantment
 available_for:
   - Cleric
   - Paladin
@@ -11,12 +13,12 @@ school: "Enchantment"
 range: "60 ft"
 comp:
   - V
-duration: "1 round"
+duration: "1 Round"
 attack: "WIS Save"
 description: |
   You speak a one-word command to a creature you can see within range. The target must succeed on a wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it.
 
-  Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can't follow your command, the spell ends.
+  Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the target behaves. If the target can't follow your command, the spell ends.
 
   ***Approach.*** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
 

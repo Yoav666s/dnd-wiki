@@ -3,6 +3,10 @@ title: "Call Lightning"
 permalink: /spells/call-lightning/
 tags:
   - Spell
+  - 3rd Level
+  - Conjuration
+  - Damage
+  - Lightning
 available_for:
   - Druid
 level: "3rd Level"
@@ -13,7 +17,7 @@ shape: "Sphere"
 comp:
   - V
   - S
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 effect: "Lightning"
 description: |

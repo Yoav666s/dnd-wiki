@@ -3,6 +3,10 @@ title: "Hellish Rebuke"
 permalink: /spells/hellish-rebuke/
 tags:
   - Spell
+  - 1st Level
+  - Evocation
+  - Damage
+  - Fire
 available_for:
   - Warlock
 level: "1st Level"

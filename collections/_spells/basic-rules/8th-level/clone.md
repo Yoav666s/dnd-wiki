@@ -3,6 +3,8 @@ title: "Clone"
 permalink: /spells/clone/
 tags:
   - Spell
+  - 8th Level
+  - Necromancy
 available_for:
   - Wizard
 level: "8th Level"

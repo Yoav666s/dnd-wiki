@@ -3,6 +3,8 @@ title: "Gust of Wind"
 permalink: /spells/gust-of-wind/
 tags:
   - Spell
+  - 2nd Level
+  - Evocation
 available_for:
   - Druid
   - Sorcerer
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "a legume seed."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "STR Save"
 description: |

@@ -3,6 +3,8 @@ title: "Sleet Storm"
 permalink: /spells/sleet-storm/
 tags:
   - Spell
+  - 3rd Level
+  - Conjuration
 available_for:
   - Druid
   - Sorcerer
@@ -17,7 +19,7 @@ comp:
   - S
   - M
 material: "a pinch of dust and a few drops of water."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 description: |
   Until the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.

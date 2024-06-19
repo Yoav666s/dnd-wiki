@@ -3,6 +3,8 @@ title: "Antimagic Field"
 permalink: /spells/antimagic-field/
 tags:
   - Spell
+  - 8th Level
+  - Abjuration
 available_for:
   - Cleric
   - Wizard
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a pinch of powdered iron or iron filings."
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can't be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.

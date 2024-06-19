@@ -3,6 +3,10 @@ title: "Inflict Wounds"
 permalink: /spells/inflict-wounds/
 tags:
   - Spell
+  - 1st Level
+  - Necromancy
+  - Damage
+  - Necrotic
 available_for:
   - Cleric
 level: "1st Level"

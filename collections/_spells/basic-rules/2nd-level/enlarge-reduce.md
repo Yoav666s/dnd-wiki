@@ -3,6 +3,8 @@ title: "Enlarge/Reduce"
 permalink: /spells/enlarge-reduce/
 tags:
   - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "a pinch iron powder."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "CON Save"
 description: |

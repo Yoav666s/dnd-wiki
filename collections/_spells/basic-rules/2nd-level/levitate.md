@@ -3,6 +3,8 @@ title: "Levitate"
 permalink: /spells/levitate/
 tags:
   - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 description: |
   One creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a constitution saving throw is unaffected.

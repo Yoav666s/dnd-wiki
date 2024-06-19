@@ -3,6 +3,8 @@ title: "Antilife Shell"
 permalink: /spells/antilife-shell/
 tags:
   - Spell
+  - 5th Level
+  - Abjuration
 available_for:
   - Druid
 level: "5th Level"
@@ -12,7 +14,7 @@ shape: "Sphere"
 comp:
   - V
   - S
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.

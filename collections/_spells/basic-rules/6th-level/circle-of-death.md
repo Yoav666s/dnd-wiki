@@ -3,6 +3,10 @@ title: "Circle of Death"
 permalink: /spells/circle-of-death/
 tags:
   - Spell
+  - 6th Level
+  - Necromancy
+  - Damage
+  - Necrotic
 available_for:
   - Sorcerer
   - Warlock

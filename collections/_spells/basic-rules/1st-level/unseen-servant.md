@@ -3,6 +3,8 @@ title: "Unseen Servant"
 permalink: /spells/unseen-servant/
 tags:
   - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Bard
   - Warlock
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a piece of string and a bit of wood."
-duration: "1 hour"
+duration: "1 Hour"
 ritual: true
 description: |
   This spell creates an invisible, mindless, shapeless force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 hit point, and a Strength of 2, and it can't attack. If it drops to 0 hit points, the spell ends.

@@ -3,6 +3,10 @@ title: "Fireball"
 permalink: /spells/fireball/
 tags:
   - Spell
+  - 3rd Level
+  - Evocation
+  - Damage
+  - Fire
 available_for:
   - Sorcerer
   - Wizard

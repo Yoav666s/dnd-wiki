@@ -3,6 +3,8 @@ title: "Greater Restoration"
 permalink: /spells/greater-restoration/
 tags:
   - Spell
+  - 5th Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

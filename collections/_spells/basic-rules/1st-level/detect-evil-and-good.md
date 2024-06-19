@@ -3,6 +3,8 @@ title: "Detect Evil and Good"
 permalink: /spells/detect-evil-and-good/
 tags:
   - Spell
+  - 1st Level
+  - Divination
 available_for:
   - Cleric
   - Paladin
@@ -13,7 +15,7 @@ shape: "Sphere"
 comp:
   - V
   - S
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 description: |
   For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.

@@ -3,6 +3,8 @@ title: "Flesh to Stone"
 permalink: /spells/flesh-to-stone/
 tags:
   - Spell
+  - 6th Level
+  - Transmutation
 available_for:
   - Warlock
   - Wizard
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "a pinch of lime, water, and earth."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "CON Save"
 description: |

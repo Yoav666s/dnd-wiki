@@ -3,6 +3,8 @@ title: "Expeditious Retreat"
 permalink: /spells/expeditious-retreat/
 tags:
   - Spell
+  - 1st Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Warlock
@@ -12,7 +14,7 @@ school: "Transmutation"
 comp:
   - V
   - S
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 cast_time: "1 Bonus Action"
 description: |

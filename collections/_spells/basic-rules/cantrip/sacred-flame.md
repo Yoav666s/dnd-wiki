@@ -3,6 +3,10 @@ title: "Sacred Flame"
 permalink: /spells/sacred-flame/
 tags:
   - Spell
+  - Cantrip
+  - Evocation
+  - Damage
+  - Radiant
 available_for:
   - Cleric
 level: "Cantrip"

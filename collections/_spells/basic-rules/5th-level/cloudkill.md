@@ -3,6 +3,10 @@ title: "Cloudkill"
 permalink: /spells/cloudkill/
 tags:
   - Spell
+  - 5th Level
+  - Conjuration
+  - Damage
+  - Poison
 available_for:
   - Sorcerer
   - Wizard
@@ -14,7 +18,7 @@ shape: "Sphere"
 comp:
   - V
   - S
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 attack: "CON Save"
 effect: "Poison"

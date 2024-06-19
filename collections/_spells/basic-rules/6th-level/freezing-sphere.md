@@ -3,6 +3,10 @@ title: "Freezing Sphere"
 permalink: /spells/freezing-sphere/
 tags:
   - Spell
+  - 6th Level
+  - Evocation
+  - Damage
+  - Cold
 available_for:
   - Wizard
 level: "6th Level"

@@ -3,6 +3,10 @@ title: "Insect Plague"
 permalink: /spells/insect-plague/
 tags:
   - Spell
+  - 5th Level
+  - Conjuration
+  - Damage
+  - Piercing
 available_for:
   - Cleric
   - Druid
@@ -17,7 +21,7 @@ comp:
   - S
   - M
 material: "a few grains of sugar, some kernels of grain, and a smear of fat."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 attack: "CON Save"
 effect: "Piercing"

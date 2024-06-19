@@ -3,6 +3,8 @@ title: "Protection from Evil and Good"
 permalink: /spells/protection-from-evil-and-good/
 tags:
   - Spell
+  - 1st Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "holy water or powdered silver and iron, which the spell consumes."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 description: |
   Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.

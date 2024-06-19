@@ -3,6 +3,8 @@ title: "Daylight"
 permalink: /spells/daylight/
 tags:
   - Spell
+  - 3rd Level
+  - Evocation
 available_for:
   - Cleric
   - Druid
@@ -17,7 +19,7 @@ shape: "Sphere"
 comp:
   - V
   - S
-duration: "1 hour"
+duration: "1 Hour"
 description: |
   A 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.
 

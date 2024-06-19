@@ -3,6 +3,8 @@ title: "Revivify"
 permalink: /spells/revivify/
 tags:
   - Spell
+  - 3rd Level
+  - Conjuration
 available_for:
   - Cleric
   - Paladin

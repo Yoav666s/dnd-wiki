@@ -3,6 +3,8 @@ title: "Detect Poison and Disease"
 permalink: /spells/detect-poison-and-disease/
 tags:
   - Spell
+  - 1st Level
+  - Divination
 available_for:
   - Cleric
   - Druid
@@ -17,7 +19,7 @@ comp:
   - S
   - M
 material: "a yew leaf."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 ritual: true
 description: |

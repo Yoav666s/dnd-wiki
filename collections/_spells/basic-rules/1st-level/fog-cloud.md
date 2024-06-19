@@ -3,6 +3,8 @@ title: "Fog Cloud"
 permalink: /spells/fog-cloud/
 tags:
   - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Druid
   - Ranger
@@ -16,7 +18,7 @@ shape: "Sphere"
 comp:
   - V
   - S
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.

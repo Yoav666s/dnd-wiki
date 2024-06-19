@@ -3,6 +3,10 @@ title: "Chill Touch"
 permalink: /spells/chill-touch/
 tags:
   - Spell
+  - Cantrip
+  - Necromancy
+  - Damage
+  - Necrotic
 available_for:
   - Sorcerer
   - Warlock
@@ -13,7 +17,7 @@ range: "120 ft"
 comp:
   - V
   - S
-duration: "1 round"
+duration: "1 Round"
 attack: "Ranged"
 effect: "Necrotic"
 description: |

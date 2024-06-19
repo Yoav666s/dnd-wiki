@@ -3,6 +3,8 @@ title: "Hunter's Mark"
 permalink: /spells/hunters-mark/
 tags:
   - Spell
+  - 1st Level
+  - Divination
 available_for:
   - Ranger
 level: "1st Level"
@@ -10,7 +12,7 @@ school: "Divination"
 range: "90 ft"
 comp:
   - V
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 cast_time: "1 Bonus Action"
 description: |

@@ -3,6 +3,10 @@ title: "Scorching Ray"
 permalink: /spells/scorching-ray/
 tags:
   - Spell
+  - 2nd Level
+  - Evocation
+  - Damage
+  - Fire
 available_for:
   - Sorcerer
   - Wizard

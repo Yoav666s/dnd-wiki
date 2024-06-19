@@ -3,6 +3,10 @@ title: "Shatter"
 permalink: /spells/shatter/
 tags:
   - Spell
+  - 2nd Level
+  - Evocation
+  - Damage
+  - Thunder
 available_for:
   - Bard
   - Sorcerer

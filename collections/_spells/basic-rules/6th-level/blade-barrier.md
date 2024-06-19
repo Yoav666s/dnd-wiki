@@ -3,6 +3,10 @@ title: "Blade Barrier"
 permalink: /spells/blade-barrier/
 tags:
   - Spell
+  - 6th Level
+  - Evocation
+  - Damage
+  - Slashing
 available_for:
   - Cleric
 level: "6th Level"
@@ -13,7 +17,7 @@ shape: "Line"
 comp:
   - V
   - S
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 attack: "DEX Save"
 effect: "Slashing"

@@ -3,6 +3,8 @@ title: "Disguise Self"
 permalink: /spells/disguise-self/
 tags:
   - Spell
+  - 1st Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer
@@ -12,7 +14,7 @@ school: "Illusion"
 comp:
   - V
   - S
-duration: "1 hour"
+duration: "1 Hour"
 description: |
   You make yourself--including your clothing, armor, weapons, and other belongings on your person--look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
 

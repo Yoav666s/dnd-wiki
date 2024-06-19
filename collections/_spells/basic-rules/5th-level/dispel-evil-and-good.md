@@ -3,6 +3,8 @@ title: "Dispel Evil and Good"
 permalink: /spells/dispel-evil-and-good/
 tags:
   - Spell
+  - 5th Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin
@@ -13,7 +15,7 @@ comp:
   - S
   - M
 material: "holy water or powdered silver and iron."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "CHA Save"
 description: |

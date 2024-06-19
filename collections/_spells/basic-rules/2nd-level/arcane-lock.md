@@ -3,6 +3,8 @@ title: "Arcane Lock"
 permalink: /spells/arcane-lock/
 tags:
   - Spell
+  - 2nd Level
+  - Abjuration
 available_for:
   - Wizard
 level: "2nd Level"
@@ -13,7 +15,7 @@ comp:
   - S
   - M
 material: "gold dust worth at least 25gp, which the spell consumes."
-duration: "Until dispelled"
+duration: "Until Dispelled"
 description: |
   You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting knock on the object suppresses arcane lock for 10 minutes.
 

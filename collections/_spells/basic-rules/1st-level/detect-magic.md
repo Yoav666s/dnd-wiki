@@ -3,6 +3,8 @@ title: "Detect Magic"
 permalink: /spells/detect-magic/
 tags:
   - Spell
+  - 1st Level
+  - Divination
 available_for:
   - Bard
   - Cleric
@@ -18,7 +20,7 @@ shape: "Sphere"
 comp:
   - V
   - S
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 ritual: true
 description: |

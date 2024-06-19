@@ -3,6 +3,8 @@ title: "Haste"
 permalink: /spells/haste/
 tags:
   - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "a shaving of licorice root."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 description: |
   Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.

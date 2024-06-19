@@ -3,6 +3,8 @@ title: "Locate Creature"
 permalink: /spells/locate-creature/
 tags:
   - Spell
+  - 4th Level
+  - Divination
 available_for:
   - Bard
   - Cleric
@@ -17,7 +19,7 @@ comp:
   - S
   - M
 material: "a bit of fur from a bloodhound."
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   Describe or name a creature that is familiar to you. You sense the direction to the creature's location, as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.

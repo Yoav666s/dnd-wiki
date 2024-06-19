@@ -3,6 +3,8 @@ title: "Prestidigitation"
 permalink: /spells/prestidigitation/
 tags:
   - Spell
+  - Cantrip
+  - Transmutation
 available_for:
   - Bard
   - Sorcerer
@@ -14,7 +16,7 @@ range: "10 ft"
 comp:
   - V
   - S
-duration: "1 hour"
+duration: "1 Hour"
 description: |
   This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within 'range':
 

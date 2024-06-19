@@ -3,6 +3,8 @@ title: "Conjure Elemental"
 permalink: /spells/conjure-elemental/
 tags:
   - Spell
+  - 5th Level
+  - Conjuration
 available_for:
   - Druid
   - Wizard
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water."
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 cast_time: "1 Minute"
 description: |
@@ -26,7 +28,7 @@ description: |
 
   If your concentration is broken, the elemental doesn't disappear. Instead, you lose control of the elemental, it becomes hostile toward you and your companions, and it might attack. An uncontrolled elemental can't be dismissed by you, and it disappears 1 hour after you summoned it.
 
-  The DM has the elemental's statistics.
+  The GM has the elemental's statistics.
 
   **At higher levels.** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 excerpt: "You call forth an elemental servant."

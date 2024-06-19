@@ -3,6 +3,10 @@ title: "Wind Wall"
 permalink: /spells/wind-wall/
 tags:
   - Spell
+  - 3rd Level
+  - Evocation
+  - Damage
+  - Bludgeoning
 available_for:
   - Druid
   - Ranger
@@ -16,7 +20,7 @@ comp:
   - S
   - M
 material: "a tiny fan and a feather of exotic origin."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "STR Save"
 effect: "Bludgeoning"

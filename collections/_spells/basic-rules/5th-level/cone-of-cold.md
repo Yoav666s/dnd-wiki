@@ -3,6 +3,10 @@ title: "Cone of Cold"
 permalink: /spells/cone-of-cold/
 tags:
   - Spell
+  - 5th Level
+  - Evocation
+  - Damage
+  - Cold
 available_for:
   - Sorcerer
   - Wizard

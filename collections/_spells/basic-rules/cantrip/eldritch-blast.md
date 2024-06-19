@@ -3,6 +3,10 @@ title: "Eldritch Blast"
 permalink: /spells/eldritch-blast/
 tags:
   - Spell
+  - Cantrip
+  - Evocation
+  - Damage
+  - Force
 available_for:
   - Warlock
 level: "Cantrip"

@@ -3,6 +3,10 @@ title: "Sunbeam"
 permalink: /spells/sunbeam/
 tags:
   - Spell
+  - 6th Level
+  - Evocation
+  - Damage
+  - Radiant
 available_for:
   - Druid
   - Sorcerer
@@ -16,7 +20,7 @@ comp:
   - S
   - M
 material: "a magnifying glass."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "CON Save"
 effect: "Radiant"

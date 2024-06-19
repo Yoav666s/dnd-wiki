@@ -3,6 +3,8 @@ title: "Healing Word"
 permalink: /spells/healing-word/
 tags:
   - Spell
+  - 1st Level
+  - Evocation
 available_for:
   - Bard
   - Cleric

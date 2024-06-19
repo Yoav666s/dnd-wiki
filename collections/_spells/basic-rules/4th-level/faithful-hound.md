@@ -3,6 +3,10 @@ title: "Faithful Hound"
 permalink: /spells/faithful-hound/
 tags:
   - Spell
+  - 4th Level
+  - Conjuration
+  - Damage
+  - Piercing
 available_for:
   - Wizard
 level: "4th Level"
@@ -13,7 +17,7 @@ comp:
   - S
   - M
 material: "a tiny silver whistle, a piece of bone, and a thread"
-duration: "8 hours"
+duration: "8 Hours"
 attack: "Melee"
 effect: "Piercing"
 description: |

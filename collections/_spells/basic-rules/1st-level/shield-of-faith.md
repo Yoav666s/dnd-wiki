@@ -3,6 +3,8 @@ title: "Shield of Faith"
 permalink: /spells/shield-of-faith/
 tags:
   - Spell
+  - 1st Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "a small parchment with a bit of holy text written on it."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 cast_time: "1 Bonus Action"
 description: |

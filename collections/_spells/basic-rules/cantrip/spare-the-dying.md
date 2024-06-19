@@ -3,6 +3,8 @@ title: "Spare the Dying"
 permalink: /spells/spare-the-dying/
 tags:
   - Spell
+  - Cantrip
+  - Necromancy
 available_for:
   - Cleric
 level: "Cantrip"

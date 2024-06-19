@@ -3,6 +3,8 @@ title: "Entangle"
 permalink: /spells/entangle/
 tags:
   - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Druid
 level: "1st Level"
@@ -13,7 +15,7 @@ shape: "Cube"
 comp:
   - V
   - S
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "STR Save"
 description: |

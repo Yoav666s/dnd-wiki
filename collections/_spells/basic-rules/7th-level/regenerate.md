@@ -3,6 +3,8 @@ title: "Regenerate"
 permalink: /spells/regenerate/
 tags:
   - Spell
+  - 7th Level
+  - Transmutation
 available_for:
   - Bard
   - Cleric
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a prayer wheel and holy water."
-duration: "1 hour"
+duration: "1 Hour"
 cast_time: "1 Minute"
 description: |
   You touch a creature and stimulate its natural healing ability. The target regains 4d8 + 15 hit points. For the duration of the spell, the target regains 1 hit point at the start of each of its turns (10 hit points each minute).

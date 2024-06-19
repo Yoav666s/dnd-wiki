@@ -3,6 +3,8 @@ title: "Minor Illusion"
 permalink: /spells/minor-illusion/
 tags:
   - Spell
+  - Cantrip
+  - Illusion
 available_for:
   - Bard
   - Sorcerer
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a bit of fleece."
-duration: "1 minute"
+duration: "1 Minute"
 description: |
   You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
 

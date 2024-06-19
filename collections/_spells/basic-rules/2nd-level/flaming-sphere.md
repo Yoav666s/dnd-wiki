@@ -3,6 +3,10 @@ title: "Flaming Sphere"
 permalink: /spells/flaming-sphere/
 tags:
   - Spell
+  - 2nd Level
+  - Conjuration
+  - Damage
+  - Fire
 available_for:
   - Druid
   - Wizard
@@ -14,7 +18,7 @@ comp:
   - S
   - M
 material: "a bit of tallow, a pinch of brimstone, and a dusting of powdered iron."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 effect: "Fire"
 description: |

@@ -3,6 +3,8 @@ title: "Hold Person"
 permalink: /spells/hold-person/
 tags:
   - Spell
+  - 2nd Level
+  - Enchantment
 available_for:
   - Bard
   - Cleric
@@ -18,7 +20,7 @@ comp:
   - S
   - M
 material: "a small, straight piece of iron."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "WIS Save"
 description: |

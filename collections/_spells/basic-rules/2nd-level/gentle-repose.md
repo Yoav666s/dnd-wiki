@@ -3,6 +3,8 @@ title: "Gentle Repose"
 permalink: /spells/gentle-repose/
 tags:
   - Spell
+  - 2nd Level
+  - Necromancy
 available_for:
   - Cleric
   - Wizard
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration."
-duration: "10 days"
+duration: "10 Days"
 ritual: true
 description: |
   You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead.

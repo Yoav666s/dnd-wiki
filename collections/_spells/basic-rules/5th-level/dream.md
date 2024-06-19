@@ -3,6 +3,10 @@ title: "Dream"
 permalink: /spells/dream/
 tags:
   - Spell
+  - 5th Level
+  - Illusion
+  - Damage
+  - Psychic
 available_for:
   - Bard
   - Warlock
@@ -15,7 +19,7 @@ comp:
   - S
   - M
 material: "a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird."
-duration: "8 hours"
+duration: "8 Hours"
 cast_time: "1 Minute"
 attack: "WIS Save"
 effect: "Psychic"

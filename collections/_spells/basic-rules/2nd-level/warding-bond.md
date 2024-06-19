@@ -3,6 +3,8 @@ title: "Warding Bond"
 permalink: /spells/warding-bond/
 tags:
   - Spell
+  - 2nd Level
+  - Abjuration
 available_for:
   - Cleric
 level: "2nd Level"
@@ -13,7 +15,7 @@ comp:
   - S
   - M
 material: "a pair of platinum rings worth at least 50gp each, which you and the target must wear for the duration."
-duration: "1 hour"
+duration: "1 Hour"
 description: |
   This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
 

@@ -3,6 +3,8 @@ title: "Compulsion"
 permalink: /spells/compulsion/
 tags:
   - Spell
+  - 4th Level
+  - Enchantment
 available_for:
   - Bard
 level: "4th Level"
@@ -11,7 +13,7 @@ range: "30 ft"
 comp:
   - V
   - S
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "WIS Save"
 description: |

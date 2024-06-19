@@ -3,6 +3,8 @@ title: "Bane"
 permalink: /spells/bane/
 tags:
   - Spell
+  - 1st Level
+  - Enchantment
 available_for:
   - Bard
   - Cleric
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "a drop of blood."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "CHA Save"
 description: |

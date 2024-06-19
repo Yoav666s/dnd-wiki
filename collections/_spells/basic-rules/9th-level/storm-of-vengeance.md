@@ -3,6 +3,10 @@ title: "Storm of Vengeance"
 permalink: /spells/storm-of-vengeance/
 tags:
   - Spell
+  - 9th Level
+  - Conjuration
+  - Damage
+  - Thunder
 available_for:
   - Druid
 level: "9th Level"
@@ -13,7 +17,7 @@ shape: "Sphere"
 comp:
   - V
   - S
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "CON Save"
 effect: "Thunder"

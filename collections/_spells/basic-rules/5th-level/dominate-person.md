@@ -3,6 +3,8 @@ title: "Dominate Person"
 permalink: /spells/dominate-person/
 tags:
   - Spell
+  - 5th Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer
@@ -13,7 +15,7 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "WIS Save"
 description: |

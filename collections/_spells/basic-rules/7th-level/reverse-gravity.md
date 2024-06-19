@@ -3,6 +3,8 @@ title: "Reverse Gravity"
 permalink: /spells/reverse-gravity/
 tags:
   - Spell
+  - 7th Level
+  - Transmutation
 available_for:
   - Druid
   - Sorcerer
@@ -17,7 +19,7 @@ comp:
   - S
   - M
 material: "a lodestone and iron filings."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "DEX Save"
 description: |

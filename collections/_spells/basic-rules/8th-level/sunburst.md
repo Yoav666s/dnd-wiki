@@ -3,6 +3,10 @@ title: "Sunburst"
 permalink: /spells/sunburst/
 tags:
   - Spell
+  - 8th Level
+  - Evocation
+  - Damage
+  - Radiant
 available_for:
   - Druid
   - Sorcerer

@@ -3,6 +3,10 @@ title: "Control Water"
 permalink: /spells/control-water/
 tags:
   - Spell
+  - 4th Level
+  - Transmutation
+  - Damage
+  - Bludgeoning
 available_for:
   - Cleric
   - Druid
@@ -17,7 +21,7 @@ comp:
   - S
   - M
 material: "a drop of water and a pinch of dust."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 attack: "STR Save"
 effect: "Bludgeoning"

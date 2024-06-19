@@ -3,6 +3,10 @@ title: "Ice Storm"
 permalink: /spells/ice-storm/
 tags:
   - Spell
+  - 4th Level
+  - Evocation
+  - Damage
+  - Bludgeoning
 available_for:
   - Druid
   - Sorcerer

@@ -3,6 +3,10 @@ title: "Fire Storm"
 permalink: /spells/fire-storm/
 tags:
   - Spell
+  - 7th Level
+  - Evocation
+  - Damage
+  - Fire
 available_for:
   - Cleric
   - Druid

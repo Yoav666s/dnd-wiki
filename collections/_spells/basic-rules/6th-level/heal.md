@@ -3,6 +3,8 @@ title: "Heal"
 permalink: /spells/heal/
 tags:
   - Spell
+  - 6th Level
+  - Evocation
 available_for:
   - Cleric
   - Druid

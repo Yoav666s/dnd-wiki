@@ -3,6 +3,8 @@ title: "Detect Thoughts"
 permalink: /spells/detect-thoughts/
 tags:
   - Spell
+  - 2nd Level
+  - Divination
 available_for:
   - Bard
   - Sorcerer
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "a copper coin."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 description: |
   For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, the creature is unaffected.

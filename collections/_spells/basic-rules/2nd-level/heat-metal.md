@@ -3,6 +3,10 @@ title: "Heat Metal"
 permalink: /spells/heat-metal/
 tags:
   - Spell
+  - 2nd Level
+  - Transmutation
+  - Damage
+  - Fire
 available_for:
   - Bard
   - Druid
@@ -14,7 +18,7 @@ comp:
   - S
   - M
 material: "a piece of iron and a flame."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "CON Save"
 effect: "Fire"

@@ -3,6 +3,10 @@ title: "Burning Hands"
 permalink: /spells/burning-hands/
 tags:
   - Spell
+  - 1st Level
+  - Evocation
+  - Damage
+  - Fire
 available_for:
   - Sorcerer
   - Wizard

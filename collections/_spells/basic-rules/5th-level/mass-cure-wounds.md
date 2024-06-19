@@ -3,6 +3,8 @@ title: "Mass Cure Wounds"
 permalink: /spells/mass-cure-wounds/
 tags:
   - Spell
+  - 5th Level
+  - Conjuration
 available_for:
   - Bard
   - Cleric

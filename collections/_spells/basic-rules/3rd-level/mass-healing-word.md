@@ -3,6 +3,8 @@ title: "Mass Healing Word"
 permalink: /spells/mass-healing-word/
 tags:
   - Spell
+  - 3rd Level
+  - Evocation
 available_for:
   - Cleric
 level: "3rd Level"

@@ -3,6 +3,8 @@ title: "Hideous Laughter"
 permalink: /spells/hideous-laughter/
 tags:
   - Spell
+  - 1st Level
+  - Enchantment
 available_for:
   - Bard
   - Wizard
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "tiny tarts and a feather that is waved in the air."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "WIS Save"
 description: |

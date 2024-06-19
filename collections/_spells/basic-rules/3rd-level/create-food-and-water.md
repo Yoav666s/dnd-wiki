@@ -3,6 +3,8 @@ title: "Create Food and Water"
 permalink: /spells/create-food-and-water/
 tags:
   - Spell
+  - 3rd Level
+  - Conjuration
 available_for:
   - Cleric
   - Druid

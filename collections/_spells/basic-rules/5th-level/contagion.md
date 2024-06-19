@@ -3,6 +3,8 @@ title: "Contagion"
 permalink: /spells/contagion/
 tags:
   - Spell
+  - 5th Level
+  - Necromancy
 available_for:
   - Cleric
   - Druid
@@ -12,7 +14,7 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "7 days"
+duration: "7 Days"
 attack: "Melee"
 description: |
   Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice from any of the ones described below.

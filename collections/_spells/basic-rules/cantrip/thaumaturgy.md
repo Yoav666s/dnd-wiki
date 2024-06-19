@@ -3,6 +3,8 @@ title: "Thaumaturgy"
 permalink: /spells/thaumaturgy/
 tags:
   - Spell
+  - Cantrip
+  - Transmutation
 available_for:
   - Cleric
 level: "Cantrip"
@@ -10,7 +12,7 @@ school: "Transmutation"
 range: "30 ft"
 comp:
   - V
-duration: "1 minute"
+duration: "1 Minute"
 description: |
   You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range.
 

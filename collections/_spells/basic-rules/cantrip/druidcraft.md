@@ -3,6 +3,8 @@ title: "Druidcraft"
 permalink: /spells/druidcraft/
 tags:
   - Spell
+  - Cantrip
+  - Transmutation
 available_for:
   - Druid
 level: "Cantrip"

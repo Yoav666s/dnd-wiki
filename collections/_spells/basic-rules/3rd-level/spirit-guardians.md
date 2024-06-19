@@ -3,6 +3,8 @@ title: "Spirit Guardians"
 permalink: /spells/spirit-guardians/
 tags:
   - Spell
+  - 3rd Level
+  - Conjuration
 available_for:
   - Cleric
 level: "3rd Level"
@@ -12,7 +14,7 @@ comp:
   - S
   - M
 material: "a holy symbol."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 description: |
   You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.

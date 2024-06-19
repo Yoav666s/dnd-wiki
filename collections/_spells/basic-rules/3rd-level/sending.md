@@ -3,6 +3,8 @@ title: "Sending"
 permalink: /spells/sending/
 tags:
   - Spell
+  - 3rd Level
+  - Evocation
 available_for:
   - Bard
   - Cleric
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a short piece of fine copper wire."
-duration: "1 round"
+duration: "1 Round"
 description: |
   You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message.
 

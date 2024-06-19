@@ -3,6 +3,8 @@ title: "Spider Climb"
 permalink: /spells/spider-climb/
 tags:
   - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Warlock
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a drop of bitumen and a spider."
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.

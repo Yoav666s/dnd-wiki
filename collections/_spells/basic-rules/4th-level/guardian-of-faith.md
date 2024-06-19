@@ -3,6 +3,10 @@ title: "Guardian of Faith"
 permalink: /spells/guardian-of-faith/
 tags:
   - Spell
+  - 4th Level
+  - Conjuration
+  - Damage
+  - Radiant
 available_for:
   - Cleric
 level: "4th Level"
@@ -12,7 +16,7 @@ area: "10 ft"
 shape: "Cylinder"
 comp:
   - V
-duration: "8 hours"
+duration: "8 Hours"
 attack: "DEX Save"
 effect: "Radiant"
 description: |

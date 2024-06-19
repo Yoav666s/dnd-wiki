@@ -3,6 +3,10 @@ title: "Black Tentacles"
 permalink: /spells/black-tentacles/
 tags:
   - Spell
+  - 4th Level
+  - Conjuration
+  - Damage
+  - Bludgeoning
 available_for:
   - Wizard
 level: "4th Level"
@@ -15,7 +19,7 @@ comp:
   - S
   - M
 material: "a piece of tentacle from a giant octopus or a giant squid"
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "DEX Save"
 effect: "Bludgeoning"

@@ -3,6 +3,8 @@ title: "Cure Wounds"
 permalink: /spells/cure-wounds/
 tags:
   - Spell
+  - 1st Level
+  - Evocation
 available_for:
   - Bard
   - Cleric

@@ -3,6 +3,8 @@ title: "Secret Chest"
 permalink: /spells/secret-chest/
 tags:
   - Spell
+  - 4th Level
+  - Conjuration
 available_for:
   - Wizard
 level: "4th Level"

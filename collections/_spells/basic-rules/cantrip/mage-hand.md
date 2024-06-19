@@ -3,6 +3,8 @@ title: "Mage Hand"
 permalink: /spells/mage-hand/
 tags:
   - Spell
+  - Cantrip
+  - Conjuration
 available_for:
   - Bard
   - Sorcerer
@@ -14,7 +16,7 @@ range: "30 ft"
 comp:
   - V
   - S
-duration: "1 minute"
+duration: "1 Minute"
 description: |
   A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
 

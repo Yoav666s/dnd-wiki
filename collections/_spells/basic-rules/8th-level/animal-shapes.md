@@ -3,6 +3,8 @@ title: "Animal Shapes"
 permalink: /spells/animal-shapes/
 tags:
   - Spell
+  - 8th Level
+  - Transmutation
 available_for:
   - Druid
 level: "8th Level"
@@ -11,7 +13,7 @@ range: "30 ft"
 comp:
   - V
   - S
-duration: "Up to 24 hours"
+duration: "24 Hours"
 concentration: true
 description: |
   Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller beast with a challenge rating of 4 or lower. On subsequent turns, you can use your action to transform affected creatures into new forms.

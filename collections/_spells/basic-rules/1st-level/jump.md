@@ -3,6 +3,8 @@ title: "Jump"
 permalink: /spells/jump/
 tags:
   - Spell
+  - 1st Level
+  - Transmutation
 available_for:
   - Druid
   - Ranger
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "a grasshopper's hind leg."
-duration: "1 minute"
+duration: "1 Minute"
 description: |
   You touch a creature. The creature's jump distance is tripled until the spell ends.
 excerpt: "You touch a creature."

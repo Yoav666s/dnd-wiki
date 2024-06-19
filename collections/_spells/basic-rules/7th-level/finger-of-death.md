@@ -3,6 +3,10 @@ title: "Finger of Death"
 permalink: /spells/finger-of-death/
 tags:
   - Spell
+  - 7th Level
+  - Necromancy
+  - Damage
+  - Necrotic
 available_for:
   - Sorcerer
   - Warlock

@@ -3,6 +3,8 @@ title: "Faerie Fire"
 permalink: /spells/faerie-fire/
 tags:
   - Spell
+  - 1st Level
+  - Evocation
 available_for:
   - Druid
 level: "1st Level"
@@ -12,7 +14,7 @@ area: "20 ft"
 shape: "Cube"
 comp:
   - V
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "DEX Save"
 description: |

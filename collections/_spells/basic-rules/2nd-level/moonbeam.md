@@ -3,6 +3,10 @@ title: "Moonbeam"
 permalink: /spells/moonbeam/
 tags:
   - Spell
+  - 2nd Level
+  - Evocation
+  - Damage
+  - Radiant
 available_for:
   - Druid
 level: "2nd Level"
@@ -15,7 +19,7 @@ comp:
   - S
   - M
 material: "several seeds of any moonseed plant and a piece of opalescent feldspar."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "CON Save"
 effect: "Radiant"

@@ -3,6 +3,8 @@ title: "Banishment"
 permalink: /spells/banishment/
 tags:
   - Spell
+  - 4th Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin
@@ -17,7 +19,7 @@ comp:
   - S
   - M
 material: "an item distasteful to the target."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "CHA Save"
 description: |

@@ -3,6 +3,10 @@ title: "Flame Blade"
 permalink: /spells/flame-blade/
 tags:
   - Spell
+  - 2nd Level
+  - Evocation
+  - Damage
+  - Fire
 available_for:
   - Druid
 level: "2nd Level"
@@ -12,7 +16,7 @@ comp:
   - S
   - M
 material: "leaf of sumac."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 cast_time: "1 Bonus Action"
 effect: "Fire"

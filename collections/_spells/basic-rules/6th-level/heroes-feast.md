@@ -3,6 +3,8 @@ title: "Heroes' Feast"
 permalink: /spells/heroes-feast/
 tags:
   - Spell
+  - 6th Level
+  - Conjuration
 available_for:
   - Cleric
   - Druid

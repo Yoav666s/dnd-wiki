@@ -3,6 +3,8 @@ title: "Silence"
 permalink: /spells/silence/
 tags:
   - Spell
+  - 2nd Level
+  - Illusion
 available_for:
   - Bard
   - Cleric
@@ -15,7 +17,7 @@ shape: "Sphere"
 comp:
   - V
   - S
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 ritual: true
 description: |

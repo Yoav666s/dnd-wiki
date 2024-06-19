@@ -3,6 +3,8 @@ title: "True Resurrection"
 permalink: /spells/true-resurrection/
 tags:
   - Spell
+  - 9th Level
+  - Necromancy
 available_for:
   - Cleric
   - Druid

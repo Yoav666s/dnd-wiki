@@ -3,6 +3,8 @@ title: "Ray of Enfeeblement"
 permalink: /spells/ray-of-enfeeblement/
 tags:
   - Spell
+  - 2nd Level
+  - Necromancy
 available_for:
   - Warlock
   - Wizard
@@ -12,7 +14,7 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "Ranged"
 description: |

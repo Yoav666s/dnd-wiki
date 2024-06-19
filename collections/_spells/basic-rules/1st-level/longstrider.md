@@ -3,6 +3,8 @@ title: "Longstrider"
 permalink: /spells/longstrider/
 tags:
   - Spell
+  - 1st Level
+  - Transmutation
 available_for:
   - Bard
   - Druid
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "a pinch of dirt."
-duration: "1 hour"
+duration: "1 Hour"
 description: |
   You touch a creature. The target's speed increases by 10 feet until the spell ends.
 

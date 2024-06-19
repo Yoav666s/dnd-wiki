@@ -3,6 +3,8 @@ title: "Arcane Eye"
 permalink: /spells/arcane-eye/
 tags:
   - Spell
+  - 4th Level
+  - Divination
 available_for:
   - Cleric
   - Wizard
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "a bit of bat fur."
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   You create an invisible, magical eye within range that hovers in the air for the duration.

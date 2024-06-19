@@ -3,6 +3,8 @@ title: "Geas"
 permalink: /spells/geas/
 tags:
   - Spell
+  - 5th Level
+  - Enchantment
 available_for:
   - Bard
   - Cleric
@@ -14,7 +16,7 @@ school: "Enchantment"
 range: "60 ft"
 comp:
   - V
-duration: "30 days"
+duration: "30 Days"
 cast_time: "1 Minute"
 attack: "WIS Save"
 description: |

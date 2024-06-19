@@ -3,6 +3,8 @@ title: "Plant Growth"
 permalink: /spells/plant-growth/
 tags:
   - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Bard
   - Druid

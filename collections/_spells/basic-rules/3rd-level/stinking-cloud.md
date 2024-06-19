@@ -3,6 +3,8 @@ title: "Stinking Cloud"
 permalink: /spells/stinking-cloud/
 tags:
   - Spell
+  - 3rd Level
+  - Conjuration
 available_for:
   - Bard
   - Sorcerer
@@ -17,7 +19,7 @@ comp:
   - S
   - M
 material: "a rotten egg or several skunk cabbage leaves."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "CON Save"
 description: |

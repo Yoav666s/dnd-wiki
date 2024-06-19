@@ -3,6 +3,10 @@ title: "Spiritual Weapon"
 permalink: /spells/spiritual-weapon/
 tags:
   - Spell
+  - 2nd Level
+  - Evocation
+  - Damage
+  - Force
 available_for:
   - Cleric
 level: "2nd Level"
@@ -11,7 +15,7 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "1 minute"
+duration: "1 Minute"
 cast_time: "1 Bonus Action"
 attack: "Melee"
 effect: "Force"

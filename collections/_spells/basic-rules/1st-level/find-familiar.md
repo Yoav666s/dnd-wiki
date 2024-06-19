@@ -3,6 +3,8 @@ title: "Find Familiar"
 permalink: /spells/find-familiar/
 tags:
   - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Wizard
 level: "1st Level"

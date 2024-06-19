@@ -3,6 +3,10 @@ title: "Divine Favor"
 permalink: /spells/divine-favor/
 tags:
   - Spell
+  - 1st Level
+  - Evocation
+  - Damage
+  - Radiant
 available_for:
   - Paladin
 level: "1st Level"
@@ -10,7 +14,7 @@ school: "Evocation"
 comp:
   - V
   - S
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 cast_time: "1 Bonus Action"
 effect: "Radiant"

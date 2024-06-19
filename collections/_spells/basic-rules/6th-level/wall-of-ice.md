@@ -3,6 +3,10 @@ title: "Wall of Ice"
 permalink: /spells/wall-of-ice/
 tags:
   - Spell
+  - 6th Level
+  - Evocation
+  - Damage
+  - Cold
 available_for:
   - Wizard
 level: "6th Level"
@@ -15,7 +19,7 @@ comp:
   - S
   - M
 material: "a small piece of quartz."
-duration: "Up to 10 minutes"
+duration: "10 Minutes"
 concentration: true
 attack: "DEX Save"
 effect: "Cold"

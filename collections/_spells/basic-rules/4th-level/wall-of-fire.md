@@ -3,6 +3,10 @@ title: "Wall of Fire"
 permalink: /spells/wall-of-fire/
 tags:
   - Spell
+  - 4th Level
+  - Evocation
+  - Damage
+  - Fire
 available_for:
   - Druid
   - Sorcerer
@@ -17,7 +21,7 @@ comp:
   - S
   - M
 material: "a small piece of phosphorus."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "DEX Save"
 effect: "Fire"

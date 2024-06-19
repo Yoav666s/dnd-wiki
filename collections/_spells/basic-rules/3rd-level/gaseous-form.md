@@ -3,6 +3,8 @@ title: "Gaseous Form"
 permalink: /spells/gaseous-form/
 tags:
   - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Warlock
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a bit of gauze and a wisp of smoke."
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn't affected.

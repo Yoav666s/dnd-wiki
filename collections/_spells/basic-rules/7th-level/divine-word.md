@@ -3,6 +3,8 @@ title: "Divine Word"
 permalink: /spells/divine-word/
 tags:
   - Spell
+  - 7th Level
+  - Evocation
 available_for:
   - Cleric
 level: "7th Level"

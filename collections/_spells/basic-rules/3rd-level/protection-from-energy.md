@@ -3,6 +3,8 @@ title: "Protection From Energy"
 permalink: /spells/protection-from-energy/
 tags:
   - Spell
+  - 3rd Level
+  - Abjuration
 available_for:
   - Cleric
   - Druid
@@ -15,7 +17,7 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "Up to 1 hour"
+duration: "1 Hour"
 concentration: true
 description: |
   For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.

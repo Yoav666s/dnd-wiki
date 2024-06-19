@@ -3,6 +3,8 @@ title: "Project Image"
 permalink: /spells/project-image/
 tags:
   - Spell
+  - 7th Level
+  - Illusion
 available_for:
   - Bard
   - Wizard
@@ -14,7 +16,7 @@ comp:
   - S
   - M
 material: "a small replica of you made from materials worth at least 5 gp."
-duration: "Up to 24 hours"
+duration: "24 Hours"
 concentration: true
 description: |
   You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but is intangible. If the illusion takes any damage, it disappears, and the spell ends.

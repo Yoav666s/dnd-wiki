@@ -3,6 +3,10 @@ title: "Chain Lightning"
 permalink: /spells/chain-lightning/
 tags:
   - Spell
+  - 6th Level
+  - Evocation
+  - Damage
+  - Lightning
 available_for:
   - Sorcerer
   - Wizard

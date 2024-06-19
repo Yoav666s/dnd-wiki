@@ -3,6 +3,8 @@ title: "Slow"
 permalink: /spells/slow/
 tags:
   - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard
@@ -16,7 +18,7 @@ comp:
   - S
   - M
 material: "a drop of molasses."
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "WIS Save"
 description: |

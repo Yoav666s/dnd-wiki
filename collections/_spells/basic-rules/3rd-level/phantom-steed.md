@@ -3,6 +3,8 @@ title: "Phantom Steed"
 permalink: /spells/phantom-steed/
 tags:
   - Spell
+  - 3rd Level
+  - Illusion
 available_for:
   - Wizard
 level: "3rd Level"
@@ -11,7 +13,7 @@ range: "30 ft"
 comp:
   - V
   - S
-duration: "1 hour"
+duration: "1 Hour"
 cast_time: "1 Minute"
 ritual: true
 description: |

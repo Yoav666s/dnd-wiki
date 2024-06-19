@@ -3,6 +3,8 @@ title: "Legend Lore"
 permalink: /spells/legend-lore/
 tags:
   - Spell
+  - 5th Level
+  - Divination
 available_for:
   - Bard
   - Cleric

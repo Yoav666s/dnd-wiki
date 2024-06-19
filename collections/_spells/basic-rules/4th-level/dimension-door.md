@@ -3,6 +3,10 @@ title: "Dimension Door"
 permalink: /spells/dimension-door/
 tags:
   - Spell
+  - 4th Level
+  - Conjuration
+  - Damage
+  - Force
 available_for:
   - Bard
   - Sorcerer

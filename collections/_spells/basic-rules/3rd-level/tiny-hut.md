@@ -3,6 +3,8 @@ title: "Tiny Hut"
 permalink: /spells/tiny-hut/
 tags:
   - Spell
+  - 3rd Level
+  - Evocation
 available_for:
   - Bard
   - Wizard
@@ -15,7 +17,7 @@ comp:
   - S
   - M
 material: "a small crystal bead."
-duration: "8 hours"
+duration: "8 Hours"
 cast_time: "1 Minute"
 ritual: true
 description: |

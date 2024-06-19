@@ -3,6 +3,8 @@ title: "Dominate Beast"
 permalink: /spells/dominate-beast/
 tags:
   - Spell
+  - 4th Level
+  - Enchantment
 available_for:
   - Druid
   - Sorcerer
@@ -12,7 +14,7 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "Up to 1 minute"
+duration: "1 Minute"
 concentration: true
 attack: "WIS Save"
 description: |

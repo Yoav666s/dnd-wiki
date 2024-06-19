@@ -3,6 +3,10 @@ title: "Vicious Mockery"
 permalink: /spells/vicious-mockery/
 tags:
   - Spell
+  - Cantrip
+  - Enchantment
+  - Damage
+  - Psychic
 available_for:
   - Bard
 level: "Cantrip"
