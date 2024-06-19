@@ -6,12 +6,41 @@ layout: spelllist
 class: "Rogue"
 subclass: "Mischievous Apprentice"
 toc: false
+additional_spells:
+  - Light
+  - Message
+  - Minor Illusion
+  - Charm Person
+  - Disguise Self
+  - Fog Cloud
+  - Hideous Laughter
+  - Illusory Script
+  - Shield
+  - Silent Image
+  - Sleep
+  - Blur
+  - Hold Person
+  - Invisibility
+  - Knock
+  - Mirror Image
+  - Silence
+  - Suggestion
+  - Counterspell
+  - Dispel-magic
+  - Fear
+  - Hypnotic Pattern
+  - Major Image
+  - Confusion
+  - Greater Invisibility
+  - Hallucinatory Terrain
+  - Phantasmal Killer
 ---
 
 <!-- # Cantrips (0 Level)
 - [Deceitful Maneuver](/spells/deceitful-maneuver/)
 - [Fling](/spells/fling/)
 - [Folly Spectacle](/spells/folly-spectacle/)
+- Light
 - [Message](/spells/message/)
 - [Minor Illusion](/spells/minor-illusion/)
 - [Minor Phantasm](/spells/minor-phantasm/)

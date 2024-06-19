@@ -10,7 +10,7 @@ layout: single
     {% assign spell_found = false %}
 
     {% for spell in level_spells %}
-      {% if spell.available_for contains page.class or spell.available_for contains page.subclass %}
+      {% if spell.available_for contains page.class or spell.available_for contains page.subclass or page.additional_spells contains spell.title %}
         {% assign spell_found = true %}
         {% break %}
       {% endif %}
@@ -20,7 +20,7 @@ layout: single
       <h1>{{ level.title }}</h1>
       <ul>
       {% for spell in level_spells %}
-        {% if spell.available_for contains page.class or spell.available_for contains page.subclass %}
+        {% if spell.available_for contains page.class or spell.available_for contains page.subclass or page.additional_spells contains spell.title %}
           <li>
             <a href="{{ spell.url | relative_url }}">{{ spell.title }}</a>
           </li>
