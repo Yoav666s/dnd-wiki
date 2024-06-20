@@ -81,3 +81,44 @@ You can extend your arms half your height above yourself during the jump. Thus, 
 
 ## Activity While Traveling
 As adventurers travel through a dungeon or the wilderness, they need to remain alert for danger, and some characters might perform other tasks to help the group’s journey.
+
+### Marching Order
+The adventurers should establish a marching order. A marching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies when a fight breaks out.
+
+A character might occupy the front rank, one or more middle ranks, or the back rank. Characters in the front and back ranks need enough room to travel side by side with others in their rank. When space is too tight, the marching order must change, usually by moving characters to a middle rank.
+
+**Fewer Than Three Ranks.** If an adventuring party arranges its marching order with only two ranks, they are a front rank and a back rank. If there’s only one rank, it’s considered a front rank.
+
+### Stealth
+While traveling at a slow pace, the characters can move stealthily. As long as they’re not in the open, they can try to surprise or sneak by other creatures they encounter. See the rules for hiding in the [Ability Scores](/rules/ability-scores/#hiding) section.
+
+#### Splitting up the Party
+Sometimes, it makes sense to split an adventuring party, especially if you want one or more characters to scout ahead. You can form multiple parties, each moving at a different speed. Each group has its own front, middle, and back ranks.
+
+The drawback to this approach is that the party will be split into several smaller groups in the event of an attack. The advantage is that a small group of stealthy characters moving slowly might be able to sneak past enemies that clumsier characters would alert. A pair of rogues moving at a slow pace are much harder to detect when they leave their dwarf fighter friend behind.
+
+### Noticing Threats
+Use the passive Wisdom ([Perception](/rules/ability-scores/#preception)) scores of the characters to determine whether anyone in the group notices a hidden threat. The DM might decide that a threat can be noticed only by characters in a particular rank. For example, as the characters are exploring a maze of tunnels, the DM might decide that only those characters in the back rank have a chance to hear or spot a stealthy creature following the group, while characters in the front and middle ranks cannot.
+
+While traveling at a fast pace, characters take a –5 penalty to their passive Wisdom ([Perception](/rules/ability-scores/#preception)) scores to notice hidden threats.
+
+**Encountering Creatures.** If the DM determines that the adventurers encounter other creatures while they’re traveling, it’s up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, run away, or wait to see what the other group does.
+
+**Surprising Foes.** If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be surprised when combat erupts. See the [Combat](/rules/combat/#surprise) section for more about surprise.
+
+### Other Activities
+Characters who turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don’t contribute their passive Wisdom ([Perception](/rules/ability-scores/#preception)) scores to the group’s chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM’s permission.
+
+**Navigate.** The character can try to prevent the group from becoming lost, making a Wisdom ([Survival](/rules/ability-scores/survival/)) check when the DM calls for it.
+
+**Draw a Map.** The character can draw a map that records the group’s progress and helps the characters get back on course if they get lost. No ability check is required.
+
+**Track.** A character can follow the tracks of another creature, making a Wisdom ([Survival](/rules/ability-scores/survival/)) check when the DM calls for it.
+
+**Forage.** The character can keep an eye out for ready sources of food and water, making a Wisdom ([Survival](/rules/ability-scores/survival/)) check when the DM calls for it.
+
+# The Environment
+By its nature, adventuring involves delving into places that are dark, dangerous, and full of mysteries to be explored. The rules in this section cover some of the most important ways in which adventurers interact with the environment in such places.
+
+## Falling
+A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands [prone](/rules/conditions/prone/), unless it avoids taking damage from the fall.
