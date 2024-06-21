@@ -2,10 +2,8 @@
 <a href="{{ tooltip.link }}" class="tooltip-link">
   {{ include.title }}
   <span class="tooltip-content">
-    <div class="tooltip-card">
-      <h3>{{ tooltip.title }}</h3>
-      {{ tooltip.content | markdownify }}
-    </div>
+    <h3>{{ tooltip.title }}</h3>
+    {{ tooltip.content | markdownify }}
   </span>
 </a>
 
