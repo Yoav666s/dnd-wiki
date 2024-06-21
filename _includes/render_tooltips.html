@@ -2,8 +2,10 @@
 {% assign words = include.content | split: " " %}
 {% for word in words %}
   {% if word contains "[[" %}
-    {% assign title = word | remove: "[[" | remove: "]]" %}
-    {% include tooltip.html title=title %}
+    {% assign before_bracket = word | split: '[[' | first %}
+    {% assign after_bracket = word | split: ']]' | last %}
+    {% assign title = word | remove: before_bracket | remove: '[[' | remove: ']]' | remove: after_bracket %}
+    {{ before_bracket | strip }}{% include tooltip.html title=title %}{{ after_bracket | strip }}
   {% else %}
     {{ word | strip }}
   {% endif %}
