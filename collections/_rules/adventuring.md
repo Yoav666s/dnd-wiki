@@ -299,4 +299,4 @@ When you begin your research, the DM determines whether the information is avail
 
 For each day of research, you must spend 1 gp to cover your expenses. This cost is in addition to your normal lifestyle expenses.
 
-Here is an {% capture example %}{% include tooltip.html title="Example" %}{% endcapture %}{{ example | strip_html }}.
+Here is an {% capture example %}{% include tooltip.html title="Example" %}{% endcapture %}{{ example | strip_newlines }}.
