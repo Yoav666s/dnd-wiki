@@ -1,5 +1,5 @@
 {% capture modified_content %}
-{% assign words = my_text | split: " " %}
+{% assign words = include.content | split: " " %}
 {% for word in words %}
   {% if word contains "[[" %}
     {% assign title = word | remove: "[[" | remove: "]]" %}
