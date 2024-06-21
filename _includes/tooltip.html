@@ -1,6 +1,39 @@
 {% assign tooltip = site.tooltips | where: "title", include.title | first %}
-{% if tooltip %}
-  <span class="tooltip" data-tooltip="{{ tooltip.content | markdownify | strip_html }}">
-    {{ include.title }}
-  </span>
-{% endif %}
+<a href="{{ tooltip.link }}" class="tooltip-link">
+  {{ include.title }}
+  <div class="tooltip-content">
+    <div class="tooltip-card">
+      <h3>{{ tooltip.title }}</h3>
+      <div>
+        {{ tooltip.content | markdownify }}
+      </div>
+    </div>
+  </div>
+</a>
+
+
+<style>
+.tooltip-link {
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+}
+
+.tooltip-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  z-index: 10;
+  width: 200px;
+}
+
+.tooltip-link:hover .tooltip-content {
+  display: block;
+}
+
+.tooltip-card {
+  padding: 10px;
+}
+</style>
