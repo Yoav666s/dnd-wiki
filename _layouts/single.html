@@ -57,7 +57,7 @@ layout: default
           {% assign page[tooltip_name] = tooltip_content | strip_newlines %}
           <p>1. {{ tooltip_name }}</p>
           <p>2. {{ tooltip_content }}</p>
-          <p>3. {{ page.tooltips[tooltip_name] }}<p>
+          <p>3. {{ page[tooltip_name] }}<p>
         {% endfor %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
