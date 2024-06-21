@@ -1,6 +1,17 @@
 {% capture tooltip_content %}
 {% assign tooltip = site.tooltips | where: "title", include.title | first %}
-{% if tooltip %}
+{% assign spell = site.spells | where: "title", include.title | first %}
+{% if spell %}
+<span class="tooltip">
+  <a href="{{ spell.permalink }}" class="tooltip-link">
+    {{ include.title }}
+  </a>
+  <span class="tooltip-content">
+    {{ spell.excerpt }}
+    {% include spell_table.html page=spell %}
+  </span>
+</span>
+{% elsif tooltip %}
 <span class="tooltip">
   <a {% if tooltip.link %}href="{{ tooltip.link }}" {% endif %}class="tooltip-link">
     {{ include.title }}
@@ -12,7 +23,6 @@
 {% else %}
   <a>{{ include.title }}</a>
 {% endif %}
-
 <style>
 .tooltip {
   position: relative;
@@ -32,7 +42,7 @@
   border: 1px solid #333; /* Darker border color */
   padding: 10px;
   z-index: 10;
-  width: 300px;
+  width: 500px;
   top: 100%;
   left: 0;
 }
