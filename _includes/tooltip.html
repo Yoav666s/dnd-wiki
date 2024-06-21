@@ -1,16 +1,15 @@
 {% assign tooltip = site.tooltips | where: "title", include.title | first %}
 <a href="{{ tooltip.link }}" class="tooltip-link">
   {{ include.title }}
-  <div class="tooltip-content">
+  <span class="tooltip-content">
     <div class="tooltip-card">
       <h3>{{ tooltip.title }}</h3>
       <div>
         {{ tooltip.content | markdownify }}
       </div>
     </div>
-  </div>
+  </span>
 </a>
-
 
 <style>
 .tooltip-link {
