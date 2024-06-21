@@ -1,2 +1,9 @@
-{% assign modified_content = include.content | replace: '[[', '{% include tooltip.html title="' | replace: ']]', '" %$}' | replace: '$}', '}' %}
-{{ modified_content | markdownify}}
+{% assign words = my_text | split: " " %}
+{% for word in words %}
+  {% if word contains "[[" %}
+    {% assign title = word | remove: "[[" | remove: "]]" %}
+    {% include tooltip.html title=title %}
+  {% else %}
+    {{ word }}
+  {% endif %}
+{% endfor %}
