@@ -21,7 +21,7 @@
   {% assign range = "Self" %}
 {% endif %}
 
-<table><tbody>
+<table{% if include.title %} class="tooltip-content"{% endif %}><tbody>
     <tr>
       <th>Level</th>
       <th>School</th>
