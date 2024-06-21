@@ -168,3 +168,135 @@ A character can go without food for a number of days equal to 3 + his or her Con
 A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
 
 If the character already has one or more levels of exhaustion, the character takes two levels in either case.
+
+## Interacting with Objects
+A character's interaction with objects in an environment is often simple to resolve in the game. The player tells the DM that his or her character is doing something, such as moving a lever, and the DM describes what, if anything, happens.
+
+For example, a character might decide to pull a lever, which might, in turn, raise a portcullis, cause a room to flood with water, or open a secret door in a nearby wall. If the lever is rusted in position, though, a character might need to force it. In such a situation, the DM might call for a Strength check to see whether the character can wrench the lever into place. The DM sets the DC for any such check based on the difficulty of the task.
+
+Characters can also damage objects with their weapons and spells. Objects are immune to poison and psychic damage, but otherwise they can be affected by physical and magical attacks much like creatures can.
+
+The DM determines an object's Armor Class and hit points, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It's hard to cut a rope with a club, for example.) Objects always fail Strength and Dexterity saving throws, and they are immune to effects that require other saves. When an object drops to 0 hit points, it breaks.
+
+A character can also attempt a Strength check to break an object. The DM sets the DC for any such check.
+
+# Social Interaction
+Exploring dungeons, overcoming obstacles, and slaying monsters are key parts of D&D adventures. No less important, though, are the social interactions that adventurers have with other inhabitants of the world.
+
+Interaction takes on many forms. You might need to convince an unscrupulous thief to confess to some malfeasance, or you might try to flatter a dragon so that it will spare your life. The DM assumes the roles of any characters who are participating in the interaction that don’t belong to another player at the table. Any such character is called a nonplayer character (NPC).
+
+In general terms, an NPC’s attitude toward you is described as friendly, indifferent, or hostile. Friendly NPCs are predisposed to help you, and hostile ones are inclined to get in your way. It’s easier to get what you want from a friendly NPC, of course.
+
+Social interactions have two primary aspects: roleplaying and ability checks.
+
+## Roleplaying
+Roleplaying is, literally, the act of playing out a role. In this case, it’s you as a player determining how your character thinks, acts, and talks.
+
+Roleplaying is a part of every aspect of the game, and it comes to the fore during social interactions. Your character’s quirks, mannerisms, and personality influence how interactions resolve.
+
+There are two styles you can use when roleplaying your character: the descriptive approach and the active approach. Most players use a combination of the two styles. Use whichever mix of the two works best for you.
+
+### Descriptive Approach to Roleplaying
+With this approach, you describe your character’s words and actions to the DM and the other players. Drawing on your mental image of your character, you tell everyone what your character does and how he or she does it.
+
+For instance, Chris plays Tordek the dwarf. Tordek has a quick temper and blames the elves of the Cloakwood for his family’s misfortune. At a tavern, an obnoxious elf minstrel sits at Tordek’s table and tries to strike up a conversation with the dwarf.
+
+Chris says, “Tordek spits on the floor, growls an insult at the bard, and stomps over to the bar. He sits on a stool and glares at the minstrel before ordering another drink.”
+
+In this example, Chris has conveyed Tordek’s mood and given the DM a clear idea of his character’s attitude and actions.
+
+When using descriptive roleplaying, keep the following things in mind:
+
+- Describe your character’s emotions and attitude.
+- Focus on your character’s intent and how others might perceive it.
+- Provide as much embellishment as you feel comfortable with.
+
+Don’t worry about getting things exactly right. Just focus on thinking about what your character would do and describing what you see in your mind.
+
+### Active Approach to Roleplaying
+If descriptive roleplaying tells your DM and your fellow players what your character thinks and does, active roleplaying shows them.
+
+When you use active roleplaying, you speak with your character’s voice, like an actor taking on a role. You might even echo your character’s movements and body language. This approach is more immersive than descriptive roleplaying, though you still need to describe things that can’t be reasonably acted out.
+
+Going back to the example of Chris roleplaying Tordek above, here’s how the scene might play out if Chris used active roleplaying:
+
+Speaking as Tordek, Chris says in a gruff, deep voice, “I was wondering why it suddenly smelled awful in here. If I wanted to hear anything out of you, I’d snap your arm and enjoy your screams.” In his normal voice, Chris then adds, “I get up, glare at the elf, and head to the bar.”
+
+### Results of Roleplaying
+The DM uses your character’s actions and attitudes to determine how an NPC reacts. A cowardly NPC buckles under threats of violence. A stubborn dwarf refuses to let anyone badger her. A vain dragon laps up flattery.
+
+When interacting with an NPC, pay close attention to the DM’s portrayal of the NPC’s mood, dialogue, and personality. You might be able to determine an NPC’s personality traits, ideals, flaws, and bonds, then play on them to influence the NPC’s attitude.
+
+Interactions in D&D are much like interactions in real life. If you can offer NPCs something they want, threaten them with something they fear, or play on their sympathies and goals, you can use words to get almost anything you want. On the other hand, if you insult a proud warrior or speak ill of a noble’s allies, your efforts to convince or deceive will fall short.
+
+## Ability Checks
+In addition to roleplaying, ability checks are key in determining the outcome of an interaction.
+
+Your roleplaying efforts can alter an NPC’s attitude, but there might still be an element of chance in the situation. For example, your DM can call for a Charisma check at any point during an interaction if he or she wants the dice to play a role in determining an NPC’s reactions. Other checks might be appropriate in certain situations, at your DM’s discretion.
+
+Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in [Deception](/rules/ability-scores/#deception) is the best bet to lead the discussion. When negotiating for a hostage’s release, the cleric with [Persuasion](/rules/ability-scores/#persuasion) should do most of the talking.
+
+# Resting
+Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest--time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
+
+Adventurers, as well as other creatures, can take short rests in the midst of a day and a long rest to end it.
+
+## Short Rest
+A short rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
+
+A character can spend one or more Hit Dice at the end of a short rest, up to the character's maximum number of Hit Dice, which is equal to the character's level. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier to it. The character regains hit points equal to the total (minimum of 0). The player can decide to spend an additional Hit Die after each roll. A character regains some spent Hit Dice upon finishing a long rest, as explained below.
+
+## Long Rest
+A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps for at least 6 hours and performs no more than 2 hours of light activity, such as reading, talking, eating, or standing watch. If the rest is interrupted by a period of strenuous activity - at least 1 hour of walking, fighting, casting spells, or similar adventuring activity - the characters must begin the rest again to gain any benefit from it.
+
+At the end of a long rest, a character regains all lost hit points. The character also regains spent Hit Dice, up to a number of dice equal to half of the character's total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
+
+A character can't benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
+
+# Between Adventures
+Between trips to dungeons and battles against ancient evils, adventurers need time to rest, recuperate, and prepare for their next adventure. Many adventurers also use this time to perform other tasks, such as crafting arms and armor, performing research, or spending their hard-earned gold.
+
+In some cases, the passage of time is something that occurs with little fanfare or description. When starting a new adventure, the DM might simply declare that a certain amount of time has passed and allow you to describe in general terms what your character has been doing. At other times, the DM might want to keep track of just how much time is passing as events beyond your perception stay in motion.
+
+## Lifestyle Expenses
+Between adventures, you choose a particular quality of life and pay the cost of maintaining that lifestyle.
+
+Living a particular lifestyle doesn't have a huge effect on your character, but your lifestyle can affect the way other individuals and groups react to you. For example, when you lead an aristocratic lifestyle, it might be easier for you to influence the nobles of the city than if you live in poverty.
+
+## Downtime Activities
+Between adventures, the DM might ask you what your character is doing during his or her downtime. Periods of downtime can vary in duration, but each downtime activity requires a certain number of days to complete before you gain any benefit, and at least 8 hours of each day must be spent on the downtime activity for the day to count. The days do not need to be consecutive. If you have more than the minimum amount of days to spend, you can keep doing the same thing for a longer period of time, or switch to a new downtime activity.
+
+Downtime activities other than the ones presented below are possible. If you want your character to spend his or her downtime performing an activity not covered here, discuss it with your DM.
+
+### Crafting
+You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with smith's tools needs a forge in order to craft a sword or suit of armor.
+
+For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 5 gp, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 5 gp, you make progress every day in 5-gp increments until you reach the market value of the item. For example, a suit of plate armor (market value 1,500 gp) takes 300 days to craft by yourself.
+
+Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have proficiency with the requisite tools and are working together in the same place. Each character contributes 5 gp worth of effort for every day spent helping to craft the item. For example, three characters with the requisite tool proficiency and the proper facilities can craft a suit of plate armor in 100 days, at a total cost of 750 gp.
+
+While crafting, you can maintain a modest lifestyle without having to pay 1 gp per day, or a comfortable lifestyle at half the normal cost.
+
+### Practicing a Profession
+You can work between adventures, allowing you to maintain a modest lifestyle without having to pay 1 gp per day. This benefit lasts as long you continue to practice your profession.
+
+If you are a member of an organization that can provide gainful employment, such as a temple or a thieves' guild, you earn enough to support a comfortable lifestyle instead.
+
+If you have proficiency in the [Performance](/rules/ability-scores/#performance) skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
+
+### Recuperating
+You can use downtime between adventures to recover from a debilitating injury, disease, or poison.
+
+After three days of downtime spent recuperating, you can make a DC 15 Constitution saving throw. On a successful save, you can choose one of the following results:
+
+- End one effect on you that prevents you from regaining hit points.
+- For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
+
+### Researching
+The time between adventures is a great chance to perform research, gaining insight into mysteries that have unfurled over the course of the campaign. Research can include poring over dusty tomes and crumbling scrolls in a library or buying drinks for the locals to pry rumors and gossip from their lips.
+
+When you begin your research, the DM determines whether the information is available, how many days of downtime it will take to find it, and whether there are any restrictions on your research (such as needing to seek out a specific individual, tome, or location). The DM might also require you to make one or more ability checks, such as an Intelligence ([Investigation](/rules/ability-scores/#investigation)) check to find clues pointing toward the information you seek, or a Charisma ([Persuasion](/rules/ability-scores/#persuasion)) check to secure someone's aid. Once those conditions are met, you learn the information if it is available.
+
+For each day of research, you must spend 1 gp to cover your expenses. This cost is in addition to your normal lifestyle expenses.
+
+Here is an {% include tooltip.html title="Example" %}.
