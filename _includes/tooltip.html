@@ -2,7 +2,7 @@
 {% assign tooltip = site.tooltips | where: "title", include.title | first %}
 {% if tooltip %}
 <span class="tooltip">
-  <a href="{{ tooltip.link }}" class="tooltip-link">
+  <a {% if tooltip.link %}href="{{ tooltip.link }}" {% endif %}class="tooltip-link">
     {{ include.title }}
   </a>
   <span class="tooltip-content">
