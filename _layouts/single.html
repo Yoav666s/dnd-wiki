@@ -54,10 +54,7 @@ layout: default
             {% include tooltip.html title=tooltip.title %}
           {% endcapture %}
           {% assign tooltip_name = tooltip.title | replace: ' ', '_' %}
-          {% capture assign_tooltip %}
-            {% assign {{ tooltip_name }} = tooltip_content | strip_newlines %}
-          {% endcapture %}
-          {{ assign_tooltip }}
+          {% assign page[tooltip_name] = tooltip_content | strip_newlines %}
           <p>1. {{ tooltip_name }}</p>
           <p>2. {{ tooltip_content }}</p>
           <p>3. {{ page.tooltips[tooltip_name] }}<p>
