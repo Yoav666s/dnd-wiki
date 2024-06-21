@@ -49,9 +49,7 @@ layout: default
           </aside>
         {% endif %}
         {% include page__source.html %}
-        {% capture content_with_tooltips %}
-          {{ content | replace: '[[', '{% include tooltip.html title="' | replace: ']]', '" %}' }}
-        {% endcapture %}
+        {% assign content_with_tooltips = content | replace: '[[', '{% include tooltip.html title="' | replace: ']]', '" %}' %}
         {{ content_with_tooltips }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
