@@ -351,6 +351,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  tooltips:
+    output: false
+
 # Defaults
 defaults:
   # _posts

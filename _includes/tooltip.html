@@ -1,0 +1,6 @@
+{% assign tooltip = site.tooltips | where: "title", include.title | first %}
+{% if tooltip %}
+  <span class="tooltip" data-tooltip="{{ tooltip.content | markdownify | strip_html }}">
+    {{ include.title }}
+  </span>
+{% endif %}
