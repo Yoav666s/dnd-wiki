@@ -53,11 +53,11 @@ layout: default
           {% capture tooltip_content %}
             {% include tooltip.html title=tooltip.title %}
           {% endcapture %}
-          {% assign tooltip_name = tooltip.title | remove: ' ' %}
-          {% assign page[tooltip_name] = tooltip_content | strip_newlines %}
+          {% assign tooltip_name = tooltip.title | replace: ' ', '-' | downcase %}
+          {% assign page.tooltips[tooltip_name] = tooltip_content | strip_newlines %}
           <p>1. {{ tooltip_name }}</p>
           <p>2. {{ tooltip_content }}</p>
-          <p>3. {{ page[tooltip_name] }}<p>
+          <p>3. {{ page.tooltips[tooltip_name] }}<p>
         {% endfor %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
