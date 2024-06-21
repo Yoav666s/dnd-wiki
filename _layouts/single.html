@@ -18,6 +18,16 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% assign tooltips = site._tooltips %}
+{% for tooltip in tooltips %}
+  {% capture tooltip_content %}
+    {% include tooltip.html title=tooltip.title %}
+  {% endcapture %}
+  {% assign tooltip_name = tooltip.title | remove: ' ' %}
+  {% assign page[tooltip_name] = tooltip_content | strip_newlines %}
+  <p>{{ tooltip.title }} 1</p>
+{% endfor %}
+
 {% assign tooltips = site.tooltips %}
 {% for tooltip in tooltips %}
   {% capture tooltip_content %}
@@ -25,6 +35,7 @@ layout: default
   {% endcapture %}
   {% assign tooltip_name = tooltip.title | remove: ' ' %}
   {% assign page[tooltip_name] = tooltip_content | strip_newlines %}
+  <p>{{ tooltip.title }} 2</p>
 {% endfor %}
 
 <div id="main" role="main">
