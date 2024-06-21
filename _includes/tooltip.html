@@ -1,14 +1,20 @@
 {% assign tooltip = site.tooltips | where: "title", include.title | first %}
-<a href="{{ tooltip.link }}" class="tooltip-link">
-  {{ include.title }}
+<span class="tooltip">
+  <a href="{{ tooltip.link }}" class="tooltip-link">
+    {{ include.title }}
+  </a>
   <span class="tooltip-content">
-    {{ tooltip.content }}
+    {{ tooltip.content | markdownify }}
   </span>
-</a>
+</span>
 
 <style>
-.tooltip-link {
+.tooltip {
   position: relative;
+  display: inline-block; /* Ensure the tooltip displays inline with content */
+}
+
+.tooltip-link {
   text-decoration: none;
   color: inherit;
 }
@@ -20,10 +26,12 @@
   border: 1px solid #ccc;
   padding: 10px;
   z-index: 10;
-  width: 500px;
+  width: 300px; /* Adjust width as needed */
+  top: 100%; /* Position the tooltip below the link */
+  left: 0; /* Align the tooltip with the link */
 }
 
-.tooltip-link:hover .tooltip-content {
+.tooltip-link:hover + .tooltip-content {
   display: block;
 }
 </style>
