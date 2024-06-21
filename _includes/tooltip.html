@@ -7,7 +7,7 @@
     {{ include.title }}
   </a>
   <span class="tooltip-content">
-    {% include spell_table.html title=spell.title %}
+    {{ spell.excerpt }}
   </span>
 </span>
 {% elsif tooltip %}
