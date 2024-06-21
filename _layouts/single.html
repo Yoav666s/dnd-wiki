@@ -49,13 +49,14 @@ layout: default
           </aside>
         {% endif %}
         {% include page__source.html %}
-        {% assign tooltips = {} %}
+        {% assign tooltips = "" %}
         {% for tooltip in site.tooltips %}
           {% capture tooltip_content %}
             {% include tooltip.html title=tooltip.title %}
           {% endcapture %}
+          {% assign tooltip_content = tooltip_content | strip_newlines %}
           {% assign tooltip_name = tooltip.title | replace: ' ', '_' | downcase %}
-          {% assign tooltips[tooltip_name] = tooltip_content | strip_newlines %}
+          {% assign tooltips = tooltips | append: "|" | append: tooltip_name | append: " |:| " | append: tooltip_content | append: " |" %}
           <p>1. {{ tooltip_name }}</p>
           <p>2. {{ tooltip_content }}</p>
           <p>3. {{ tooltips[tooltip_name] }}<p>
