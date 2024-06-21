@@ -18,7 +18,7 @@ layout: default
   {% endunless %}
 {% endif %}
 
-{% assign tooltips = site._tooltips %}
+{% assign tooltips = site.tooltips %}
 {% for tooltip in tooltips %}
   {% capture tooltip_content %}
     {% include tooltip.html title=tooltip.title %}
