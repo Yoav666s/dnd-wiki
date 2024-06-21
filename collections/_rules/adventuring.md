@@ -298,6 +298,6 @@ When you begin your research, the DM determines whether the information is avail
 
 For each day of research, you must spend 1 gp to cover your expenses. This cost is in addition to your normal lifestyle expenses.
 
-[[Fire Bolt]]
+[[Fireball]]
 
 Here is an [[Example]]. Here is [[another]].
