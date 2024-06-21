@@ -26,7 +26,7 @@ description: |
 
   **Flee.** The target spends its turn moving away from you by the fastest available means.
 
-  **Grovel.** The target falls [prone](/rules/conditions/#prone/) and then ends its turn.
+  **Grovel.** The target falls [[Prone]] and then ends its turn.
 
   **Halt.** The target doesn't move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
 

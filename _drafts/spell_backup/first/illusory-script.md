@@ -25,7 +25,7 @@ description: |
 
   Should the spell be dispelled, the original script and the illusion both disappear.
 
-  A creature with [truesight](/rules/monsters/#truesight) can read the hidden message.
+  A creature with [[Truesight]] can read the hidden message.
 excerpt: "You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration."
 source: "Basic Rules"
 # header:

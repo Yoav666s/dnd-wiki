@@ -4,7 +4,6 @@ permalink: /rules/adventuring/
 excerpt: "Delving into the ancient Tomb of Horrors, slipping through the back alleys of Waterdeep, hacking a fresh trail through the thick jungles on the Isle of Dread—these are the things that Dungeons & Dragons adventures are made of. "
 source: "Basic Rules"
 ---
-{% include tooltips.html %}
 Delving into the ancient Tomb of Horrors, slipping through the back alleys of Waterdeep, hacking a fresh trail through the thick jungles on the Isle of Dread—these are the things that Dungeons & Dragons adventures are made of. Your character in the game might explore forgotten ruins and uncharted lands, uncover dark secrets and sinister plots, and slay foul monsters. And if all goes well, your character will survive to claim rich rewards before embarking on a new adventure.
 
 This section covers the basics of the adventuring life, from the mechanics of movement to the complexities of social interaction. The rules for resting are also in this section, along with a discussion of the activities your character might pursue between adventures.
@@ -51,7 +50,7 @@ Certain special mounts, such as a pegasus or griffon, or special vehicles, such 
 
 | Pace   | Distance per Minute | Distance per Hour | Distance per Day | Effect                                    |
 | :----: | :-----------------: | :---------------: | :--------------: | :---------------------------------------  |
-| Fast   | 400 feet            | 4 miles           | 30 miles	        | -5 penalty to passive Wisdom ([Perception](/rules/ability-scores/#preception)) |
+| Fast   | 400 feet            | 4 miles           | 30 miles	        | -5 penalty to passive Wisdom ([[Perception]]) |
 | Normal | 300 feet            | 3 miles	         | 24 miles         | -                                         |
 | Slow   | 200 feet	           | 2 miles           | 18 miles	        | Able to use stealth                       |
 
@@ -98,30 +97,30 @@ Sometimes, it makes sense to split an adventuring party, especially if you want 
 The drawback to this approach is that the party will be split into several smaller groups in the event of an attack. The advantage is that a small group of stealthy characters moving slowly might be able to sneak past enemies that clumsier characters would alert. A pair of rogues moving at a slow pace are much harder to detect when they leave their dwarf fighter friend behind.
 
 ### Noticing Threats
-Use the passive Wisdom ([Perception](/rules/ability-scores/#preception)) scores of the characters to determine whether anyone in the group notices a hidden threat. The DM might decide that a threat can be noticed only by characters in a particular rank. For example, as the characters are exploring a maze of tunnels, the DM might decide that only those characters in the back rank have a chance to hear or spot a stealthy creature following the group, while characters in the front and middle ranks cannot.
+Use the passive Wisdom ([[Perception]]) scores of the characters to determine whether anyone in the group notices a hidden threat. The DM might decide that a threat can be noticed only by characters in a particular rank. For example, as the characters are exploring a maze of tunnels, the DM might decide that only those characters in the back rank have a chance to hear or spot a stealthy creature following the group, while characters in the front and middle ranks cannot.
 
-While traveling at a fast pace, characters take a –5 penalty to their passive Wisdom ([Perception](/rules/ability-scores/#preception)) scores to notice hidden threats.
+While traveling at a fast pace, characters take a –5 penalty to their passive Wisdom ([[Perception]]) scores to notice hidden threats.
 
 **Encountering Creatures.** If the DM determines that the adventurers encounter other creatures while they’re traveling, it’s up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, run away, or wait to see what the other group does.
 
 **Surprising Foes.** If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be surprised when combat erupts. See the [Combat](/rules/combat/#surprise) section for more about surprise.
 
 ### Other Activities
-Characters who turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don’t contribute their passive Wisdom ([Perception](/rules/ability-scores/#preception)) scores to the group’s chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM’s permission.
+Characters who turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don’t contribute their passive Wisdom ([[Perception]]) scores to the group’s chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM’s permission.
 
-**Navigate.** The character can try to prevent the group from becoming lost, making a Wisdom ([Survival](/rules/ability-scores/survival/)) check when the DM calls for it.
+**Navigate.** The character can try to prevent the group from becoming lost, making a Wisdom ([[Survival]]) check when the DM calls for it.
 
 **Draw a Map.** The character can draw a map that records the group’s progress and helps the characters get back on course if they get lost. No ability check is required.
 
-**Track.** A character can follow the tracks of another creature, making a Wisdom ([Survival](/rules/ability-scores/survival/)) check when the DM calls for it.
+**Track.** A character can follow the tracks of another creature, making a Wisdom ([[Survival]]) check when the DM calls for it.
 
-**Forage.** The character can keep an eye out for ready sources of food and water, making a Wisdom ([Survival](/rules/ability-scores/survival/)) check when the DM calls for it.
+**Forage.** The character can keep an eye out for ready sources of food and water, making a Wisdom ([[Survival]]) check when the DM calls for it.
 
 # The Environment
 By its nature, adventuring involves delving into places that are dark, dangerous, and full of mysteries to be explored. The rules in this section cover some of the most important ways in which adventurers interact with the environment in such places.
 
 ## Falling
-A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands [prone](/rules/conditions/#prone/), unless it avoids taking damage from the fall.
+A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands [[Prone]], unless it avoids taking damage from the fall.
 
 ## Suffocating
 A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
@@ -133,9 +132,9 @@ For example, a creature with a Constitution of 14 can hold its breath for 3 minu
 ## Vision and Light
 The most fundamental tasks of adventuring--noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few--rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
 
-A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom ([Perception](/rules/ability-scores/#preception)) checks that rely on sight.
+A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom ([[Perception]]) checks that rely on sight.
 
-A **heavily obscured** area--such as darkness, opaque fog, or dense foliage--blocks vision entirely. A creature effectively suffers from the [blinded](/rules/conditions/#blinded/) condition when trying to see something in that area.
+A **heavily obscured** area--such as darkness, opaque fog, or dense foliage--blocks vision entirely. A creature effectively suffers from the [[Blinded]] condition when trying to see something in that area.
 
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
 
@@ -146,18 +145,18 @@ The presence or absence of light in an environment creates three categories of i
 **Darkness** creates a heavily obscured area. Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness.
 
 ### Blindsight
-A creature with [blindsight](/rules/monsters/#blindsight) can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
+A creature with [[Blindsight]] can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
 
 ### Darkvision
-Many creatures in fantasy gaming worlds, especially those that dwell underground, have [darkvision](/rules/monsters/#darkvision). Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned. However, the creature can't discern color in darkness, only shades of gray.
+Many creatures in fantasy gaming worlds, especially those that dwell underground, have [[Darkvision]]. Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned. However, the creature can't discern color in darkness, only shades of gray.
 
 ### Truesight
-A creature with [truesight](/rules/monsters/#truesight) can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic.
+A creature with [[Truesight]] can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic.
 
 Furthermore, the creature can see into the Ethereal Plane.
 
 ## Food and Water
-Characters who don't eat or drink suffer the effects of [exhaustion](/rules/conditions/#exhaustion). Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
+Characters who don't eat or drink suffer the effects of [[Exhaustion]]. Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
 
 ### Food
 A character needs one pound of food per day and can make food last longer by subsisting on half rations. Eating half a pound of food in a day counts as half a day without food.
@@ -234,7 +233,7 @@ In addition to roleplaying, ability checks are key in determining the outcome of
 
 Your roleplaying efforts can alter an NPC’s attitude, but there might still be an element of chance in the situation. For example, your DM can call for a Charisma check at any point during an interaction if he or she wants the dice to play a role in determining an NPC’s reactions. Other checks might be appropriate in certain situations, at your DM’s discretion.
 
-Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in [Deception](/rules/ability-scores/#deception) is the best bet to lead the discussion. When negotiating for a hostage’s release, the cleric with [Persuasion](/rules/ability-scores/#persuasion) should do most of the talking.
+Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in [[Deception]] is the best bet to lead the discussion. When negotiating for a hostage’s release, the cleric with [[Persuasion]] should do most of the talking.
 
 # Resting
 Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest--time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
@@ -282,7 +281,7 @@ You can work between adventures, allowing you to maintain a modest lifestyle wit
 
 If you are a member of an organization that can provide gainful employment, such as a temple or a thieves' guild, you earn enough to support a comfortable lifestyle instead.
 
-If you have proficiency in the [Performance](/rules/ability-scores/#performance) skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
+If you have proficiency in the [[Performance]] skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
 
 ### Recuperating
 You can use downtime between adventures to recover from a debilitating injury, disease, or poison.
@@ -295,7 +294,7 @@ After three days of downtime spent recuperating, you can make a DC 15 Constituti
 ### Researching
 The time between adventures is a great chance to perform research, gaining insight into mysteries that have unfurled over the course of the campaign. Research can include poring over dusty tomes and crumbling scrolls in a library or buying drinks for the locals to pry rumors and gossip from their lips.
 
-When you begin your research, the DM determines whether the information is available, how many days of downtime it will take to find it, and whether there are any restrictions on your research (such as needing to seek out a specific individual, tome, or location). The DM might also require you to make one or more ability checks, such as an Intelligence ([Investigation](/rules/ability-scores/#investigation)) check to find clues pointing toward the information you seek, or a Charisma ({{ Persuasion }}) check to secure someone's aid. Once those conditions are met, you learn the information if it is available.
+When you begin your research, the DM determines whether the information is available, how many days of downtime it will take to find it, and whether there are any restrictions on your research (such as needing to seek out a specific individual, tome, or location). The DM might also require you to make one or more ability checks, such as an Intelligence ([[Investigation]]) check to find clues pointing toward the information you seek, or a Charisma ([[Persuasion]]) check to secure someone's aid. Once those conditions are met, you learn the information if it is available.
 
 For each day of research, you must spend 1 gp to cover your expenses. This cost is in addition to your normal lifestyle expenses.
 
