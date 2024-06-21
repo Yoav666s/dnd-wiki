@@ -49,7 +49,7 @@ layout: default
           </aside>
         {% endif %}
         {% include page__source.html %}
-        {% assign tooltips {} %}
+        {% assign tooltips = {} %}
         {% for tooltip in site.tooltips %}
           {% capture tooltip_content %}
             {% include tooltip.html title=tooltip.title %}
