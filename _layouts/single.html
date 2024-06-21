@@ -18,6 +18,15 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% assign tooltips = site._tooltips %}
+{% for tooltip in tooltips %}
+  {% capture tooltip_content %}
+    {% include tooltip.html title=tooltip.title %}
+  {% endcapture %}
+  {% assign tooltip_name = tooltip.title | remove: ' ' %}
+  {% assign page[tooltip_name] = tooltip_content | strip_newlines %}
+{% endfor %}
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
