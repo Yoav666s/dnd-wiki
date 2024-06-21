@@ -18,26 +18,6 @@ layout: default
   {% endunless %}
 {% endif %}
 
-{% assign tooltips = site._tooltips %}
-{% for tooltip in tooltips %}
-  {% capture tooltip_content %}
-    {% include tooltip.html title=tooltip.title %}
-  {% endcapture %}
-  {% assign tooltip_name = tooltip.title | remove: ' ' %}
-  {% assign page[tooltip_name] = tooltip_content | strip_newlines %}
-  <p>{{ tooltip.title }} 1</p>
-{% endfor %}
-
-{% assign tooltips = site.tooltips %}
-{% for tooltip in tooltips %}
-  {% capture tooltip_content %}
-    {% include tooltip.html title=tooltip.title %}
-  {% endcapture %}
-  {% assign tooltip_name = tooltip.title | remove: ' ' %}
-  {% assign page[tooltip_name] = tooltip_content | strip_newlines %}
-  <p>{{ tooltip.title }} 2</p>
-{% endfor %}
-
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -69,6 +49,14 @@ layout: default
           </aside>
         {% endif %}
         {% include page__source.html %}
+        {% assign tooltips = site.tooltips %}
+        {% for tooltip in tooltips %}
+          {% capture tooltip_content %}
+            {% include tooltip.html title=tooltip.title %}
+          {% endcapture %}
+          {% assign tooltip_name = tooltip.title | remove: ' ' %}
+          {% assign page[tooltip_name] = tooltip_content | strip_newlines %}
+        {% endfor %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
