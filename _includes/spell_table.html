@@ -1,8 +1,13 @@
-{% if page.effect %}
-  {% assign effect = page.effect %}
+{% if include.title %}
+  {% assign spell = site.spells | where: "title", include.title | first %}
+{% else %}
+  {% assign spell = site.spells | where: "title", page.title | first %}
+{% endif %}
+{% if spell.effect %}
+  {% assign effect = spell.effect %}
 {% else %}
   {% assign effect = "None" %}
-  {% assign tags_sorted = page.tags | sort_natural %}
+  {% assign tags_sorted = spell.tags | sort_natural %}
   {% for tag in tags_sorted %}
     {% if tag != "Spell" %}
       {% assign effect = tag %}
@@ -10,8 +15,8 @@
     {% endif %}
   {% endfor %}
 {% endif %}
-{% if page.range %}
-  {% assign range = page.range %}
+{% if spell.range %}
+  {% assign range = spell.range %}
 {% else %}
   {% assign range = "Self" %}
 {% endif %}
@@ -24,10 +29,10 @@
       <th>Components</th>
     </tr>
     <tr>
-      <td>{{ page.level }}</td>
-      <td>{{ page.school }}</td>
-      <td>{% include range.html type=range %} {{ range }}{% if page.area %} / {% include range.html type=page.shape %} {{ page.area }}{% endif %}</td>
-      <td>{{ page.comp | join: ', ' }}{% if page.material %} *{% endif %}</td>
+      <td>{{ spell.level }}</td>
+      <td>{{ spell.school }}</td>
+      <td>{% include range.html type=range %} {{ range }}{% if spell.area %} / {% include range.html type=spell.shape %} {{ spell.area }}{% endif %}</td>
+      <td>{{ spell.comp | join: ', ' }}{% if spell.material %} *{% endif %}</td>
     </tr>
     <tr>
       <th>Duration</th>
@@ -36,9 +41,9 @@
       <th>Damage</th>
     </tr>
     <tr>
-      <td>{% if page.concentration %}{% include effect.html type="Concentration" %} {% endif %}{% if page.duration %}{{ page.duration }}{% else %}Instantaneous{% endif %}</td>
-      <td>{% if page.ritual %}{% include effect.html type="Ritual" %} {% endif %}{% if page.cast_time %}{{ page.cast_time }}{% else %}1 Action{% endif %}</td>
-      <td>{% if page.attack %}{% include range.html type=page.attack %} {{ page.attack }}{% else %}None{% endif %}</td>
+      <td>{% if spell.concentration %}{% include effect.html type="Concentration" %} {% endif %}{% if spell.duration %}{{ spell.duration }}{% else %}Instantaneous{% endif %}</td>
+      <td>{% if spell.ritual %}{% include effect.html type="Ritual" %} {% endif %}{% if spell.cast_time %}{{ spell.cast_time }}{% else %}1 Action{% endif %}</td>
+      <td>{% if spell.attack %}{% include range.html type=spell.attack %} {{ spell.attack }}{% else %}None{% endif %}</td>
       <td>{% include effect.html type=effect %} {{ effect }}</td>
     </tr>
   </tbody>
