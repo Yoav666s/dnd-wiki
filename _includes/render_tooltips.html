@@ -1,5 +1,2 @@
 {% assign modified_content = include.content | replace: '[[', '{% include tooltip.html title="' | replace: ']]', '" %$}' | replace: '$}', '}' %}
-{% capture render %}
-  {{ modified_content | markdownify}}
-{% endcapture %}
-{{ render }}
+{{ modified_content }}
