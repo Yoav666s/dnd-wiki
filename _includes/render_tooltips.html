@@ -21,7 +21,7 @@
     {% assign ready = true %}
   {% endif %}
   {% if is_tooltip and ready %}
-    {{ before | strip }}{% include tooltip.html title=title %}{% if after != inside %}{{ after | strip }}{% endif %}
+    {{ before }}{% include tooltip.html title=title %}{% if after != inside %}{{ after }}{% endif %}
     {% assign is_tooltip = false %}
     {% assign title = "" %}
   {% elsif is_tooltip %}
@@ -32,4 +32,4 @@
     {{ word | strip }}
   {% endif %}
 {% endfor %}
-{% endcapture %}{{ modified_content }}
+{% endcapture %}{{ modified_content | strip }}
