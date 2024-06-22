@@ -1,5 +1,5 @@
 {% capture tooltip_content %}
-{% assign tooltip = site.tooltips | where: "title", include.title | first %}
+{% assign tooltip = site.tooltips | where_exp: "item", "item.title.downcase == include.title.downcase" | first %}
 {% assign spell = site.spells | where: "title", include.title | first %}
 {% if spell %}
 <span class="tooltip">
