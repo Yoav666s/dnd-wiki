@@ -35,7 +35,6 @@
 }
 
 .tooltip-content {
-  overflow: auto;
   display: none;
   position: absolute;
   background-color: #1e1e1e; /* Dark background color */
@@ -55,4 +54,4 @@
   display: block;
 }
 </style>
-{% endcapture %}{{ tooltip_content | strip_newlines | strip }}
+{% endcapture %}{{ tooltip_content }}
