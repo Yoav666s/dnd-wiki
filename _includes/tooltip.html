@@ -55,4 +55,4 @@
   display: block;
 }
 </style>
-{% endcapture %}{{ tooltip_content }}
+{% endcapture %}{{ tooltip_content | strip_newlines | strip }}
