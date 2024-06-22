@@ -7,7 +7,7 @@
     {{ include.title }}
   </a>
   <span class="tooltip-content">
-    {{ spell.school }} {{ spell.level | downcase }}{% if spell.level != 'Cantrip' %} spell{% endif %}. {{ spell.excerpt }}
+    ({{ spell.level }} | {{ spell.school }}) {{ spell.excerpt }}
   </span>
 </span>
 {% elsif tooltip %}
