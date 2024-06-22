@@ -32,4 +32,4 @@
     {{ word | strip }}
   {% endif %}
 {% endfor %}
-{% endcapture %}{{ modified_content }}
+{% endcapture %}{{ modified_content | strip_newlines | strip }}

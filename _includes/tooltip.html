@@ -7,8 +7,8 @@
     {{ include.title }}
   </a>
   <span class="tooltip-content">
-    <strong>{{ spell.level }}</strong> ({{ spell.school }})
-    <i>{{ spell.excerpt | markdownify }}</i>
+    <strong>{{ spell.level }}</strong> ({{ spell.school }})<br>
+    <i>{{ spell.excerpt }}</i>
   </span>
 </span>
 {% elsif tooltip %}
@@ -54,4 +54,4 @@
   display: block;
 }
 </style>
-{% endcapture %}{{ tooltip_content }}
+{% endcapture %}{{ tooltip_content | strip_newlines | strip }}
