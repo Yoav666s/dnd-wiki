@@ -9,7 +9,7 @@
       {% assign is_tooltip = true %}
       {% assign ready = false %}
     {% endunless %}
-    {{ before }}
+    {{ before | strip }}
   {% endif %}
   {% if word contains "]]" %}
     {% unless word contains "[[" %}
