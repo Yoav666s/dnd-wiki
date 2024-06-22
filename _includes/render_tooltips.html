@@ -1,13 +1,33 @@
 {% capture modified_content %}
 {% assign words = include.content | split: " " %}
+{% assign  %}
 {% for word in words %}
-  {% if word contains "[[" and word contains "]]" %}
-    {% assign before_bracket = word | split: '[[' | first %}
-    {% assign inside_and_after_bracket = word | split: '[[' | last %}
-    {% assign inside = inside_and_after_bracket | split: ']]' | first %}
-    {% assign after_bracket = inside_and_after_bracket | split: ']]' | last %}
-    {% assign title = inside | replace: '-', ' ' | replace: '_', ' ' %}
-    {{ before_bracket }}{% include tooltip.html title=title %}{% if after_bracket != inside %}{{ after_bracket }}{% endif %}
+  {% if word contains "[[" %}
+    {% assign before = word | split: '[[' | first %}
+    {% assign inside_after = word | split: '[[' | last %}
+    {% unless word contains "]]" %}
+      {% assign title = inside_after %}
+      {% assign is_tooltip = true %}
+      {% assign ready = false %}
+    {% endunless %}
+    {{ before }}
+  {% endif %}
+  {% if word contains "]]" %}
+    {% unless word contains "[[" %}
+      {% assign inside_after = word %}
+    {% endunless %}
+    {% assign inside = inside_after | split: ']]' | first %}
+    {% assign after = inside_after | split: ']]' | last %}
+    {% assign title = title | append: inside | replace: '-', ' ' | replace: '_', ' ' %}
+    {% assign is_tooltip = true %}
+    {% assign ready = true %}
+  {% endif %}
+  {% if is_tooltip and ready %}
+    {% include tooltip.html title=title %}{% if after != inside %}{{ after }}{% endif %}
+    {% assign is_tooltip = false %}
+    {% assign title = "" %}
+  {% elsif is_tooltip %}
+    {% assign title = title | append: ' ' | append: word %}
   {% else %}
     {{ word | strip }}
   {% endif %}
