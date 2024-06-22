@@ -22,7 +22,7 @@ layout: single
       {% for spell in level_spells %}
         {% if spell.available_for contains page.class or spell.available_for contains page.subclass or page.additional_spells contains spell.title %}
           <li>
-            <a href="{{ spell.url | relative_url }}">{{ spell.title }}</a>
+            {% include tooltip.html title=spell.title %}
           </li>
         {% endif %}
       {% endfor %}
