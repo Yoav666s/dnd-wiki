@@ -8,12 +8,6 @@
   </a>
   <span class="tooltip-content">
     <strong>{{ spell.level }}</strong> ({{ spell.school }})
-    {% capture table %}
-
-      | Range / Area      | Duration       | Casting Time    |
-      | :---------------- | :------------- | :-------------- |
-      | {{ spell.range }} | spell.duration | spell.cast_time |
-    {% endcapture %}{{ table | markdownify }}
     <i>{{ spell.excerpt | markdownify }}</i>
   </span>
 </span>
