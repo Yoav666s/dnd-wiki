@@ -8,7 +8,7 @@
   </a>
   <span class="tooltip-content">
     <strong>{{ spell.level }}</strong> ({{ spell.school }})<br>
-    <i>{{ spell.excerpt }}</i>
+    <i>{{ spell.excerpt | markdownify }}</i>
   </span>
 </span>
 {% elsif tooltip %}
