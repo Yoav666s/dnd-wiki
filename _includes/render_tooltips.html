@@ -1,6 +1,5 @@
 {% capture modified_content %}
 {% assign words = include.content | split: " " %}
-{% assign  %}
 {% for word in words %}
   {% if word contains "[[" %}
     {% assign before = word | split: '[[' | first %}
