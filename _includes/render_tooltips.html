@@ -16,7 +16,7 @@
     {% endunless %}
     {% assign inside = inside_after | split: ']]' | first %}
     {% assign after = inside_after | split: ']]' | last %}
-    {% assign title = title | append: ' ' | append: inside | replace: '-', ' ' | replace: '_', ' ' %}
+    {% assign title = title | append: ' ' | append: inside | replace: '-', ' ' | replace: '_', ' ' | strip %}
     {% assign is_tooltip = true %}
     {% assign ready = true %}
   {% endif %}
