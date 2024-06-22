@@ -3,7 +3,12 @@
 {% else %}
   {% assign spell = site.spells | where: "title", page.title | first %}
 {% endif %}
-{% if spell.effect %}
+{% if spell.range %}
+  {% assign range = spell.range %}
+{% else %}
+  {% assign range = "Self" %}
+{% endif %}
+<!-- {% if spell.effect %}
   {% assign effect = spell.effect %}
 {% else %}
   {% assign effect = "None" %}
@@ -14,12 +19,7 @@
       {% break %}
     {% endif %}
   {% endfor %}
-{% endif %}
-{% if spell.range %}
-  {% assign range = spell.range %}
-{% else %}
-  {% assign range = "Self" %}
-{% endif %}
+{% endif %} -->
 
 <table><tbody>
     <tr>
