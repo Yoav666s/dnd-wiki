@@ -298,4 +298,11 @@ When you begin your research, the DM determines whether the information is avail
 
 For each day of research, you must spend 1 gp to cover your expenses. This cost is in addition to your normal lifestyle expenses.
 
+### Training
+You can spend time between adventures learning a new language or training with a set of tools. Your DM might allow additional training options.
+
+First, you must find an instructor willing to teach you. The DM determines how long it takes, and whether one or more ability checks are required.
+
+The training lasts for 250 days and costs 1 gp per day. After you spend the requisite amount of time and money, you learn the new language or gain proficiency with the new tool.
+
 [[Fire-Bolt]]
