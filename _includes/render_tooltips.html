@@ -12,7 +12,7 @@
   {% endif %}
   {% if word contains "]]" %}
     {% unless word contains "[[" %}
-      {% assign inside_after = word %}
+      {% assign inside_after = word | split: '[[' | last %}
     {% endunless %}
     {% assign inside = inside_after | split: ']]' | first %}
     {% assign after = inside_after | split: ']]' | last %}
