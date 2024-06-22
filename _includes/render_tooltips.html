@@ -1,11 +1,12 @@
 {% capture modified_content %}
 {% assign words = include.content | split: " " %}
 {% for word in words %}
-  {% if word contains "[[" %}
+  {% if word contains "[[" and word contains "]]" %}
     {% assign before_bracket = word | split: '[[' | first %}
-    {% assign after_bracket = word | split: ']]' | last %}
-    {% assign title = word | remove: before_bracket | remove: '[[' | remove: ']]' | remove: after_bracket | replace: '-', ' ' %}
-    {{ before_bracket | strip }}{% include tooltip.html title=title %}{{ after_bracket | strip }}
+    {% assign inside_and_after_bracket = word | split: '[[' | last %}
+    {% assign title = inside_and_after_bracket | split: ']]' | first | replace: '-', ' ' %}
+    {% assign after_bracket = inside_and_after_bracket | split: ']]' | last %}
+    {{ before_bracket }}{% include tooltip.html title=title %}{{ after_bracket }}
   {% else %}
     {{ word | strip }}
   {% endif %}
