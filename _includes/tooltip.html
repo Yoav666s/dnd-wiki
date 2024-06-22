@@ -1,7 +1,7 @@
 {% capture tooltip_content %}
-{% assign dc_title = include.title %}
-{% assign tooltip = site.tooltips | where_exp: "item", "item.title == include.title" | first %}
-{% assign spell = site.spells | where: "title", include.title | first %}
+{% assign index = include.title | slugify %}
+{% assign tooltip = site.tooltips | where: "index", index | first %}
+{% assign spell = site.spells | where: "index", index | first %}
 {% if spell %}
 <span class="tooltip">
   <a href="{{ spell.permalink }}" class="tooltip-link">
