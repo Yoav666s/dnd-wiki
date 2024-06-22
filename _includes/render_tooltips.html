@@ -1,5 +1,7 @@
 {% capture modified_content %}
 {% assign words = include.content | split: " " %}
+{% assign is_tooltip = false %}
+{% assign ready = false %}
 {% for word in words %}
   {% if word contains "[[" %}
     {% assign before = word | split: '[[' | first %}
