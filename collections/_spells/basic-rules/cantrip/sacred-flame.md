@@ -1,5 +1,6 @@
 ---
 title: "Sacred Flame"
+index: "sacred-flame"
 permalink: /spells/sacred-flame/
 tags:
   - Spell

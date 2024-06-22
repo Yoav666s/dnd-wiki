@@ -1,5 +1,6 @@
 ---
 title: "Wind Walk"
+index: "wind-walk"
 permalink: /spells/wind-walk/
 tags:
   - Spell

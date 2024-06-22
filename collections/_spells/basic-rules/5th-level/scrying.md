@@ -1,5 +1,6 @@
 ---
 title: "Scrying"
+index: "scrying"
 permalink: /spells/scrying/
 tags:
   - Spell

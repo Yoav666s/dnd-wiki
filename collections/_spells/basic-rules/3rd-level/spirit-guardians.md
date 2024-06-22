@@ -1,5 +1,6 @@
 ---
 title: "Spirit Guardians"
+index: "spirit-guardians"
 permalink: /spells/spirit-guardians/
 tags:
   - Spell

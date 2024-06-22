@@ -1,5 +1,6 @@
 ---
 title: "Greater Invisibility"
+index: "greater-invisibility"
 permalink: /spells/greater-invisibility/
 tags:
   - Spell

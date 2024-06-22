@@ -1,5 +1,6 @@
 ---
 title: "Hallow"
+index: "hallow"
 permalink: /spells/hallow/
 tags:
   - Spell

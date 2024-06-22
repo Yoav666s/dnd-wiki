@@ -1,5 +1,6 @@
 ---
 title: "Freezing Sphere"
+index: "freezing-sphere"
 permalink: /spells/freezing-sphere/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Locate Object"
+index: "locate-object"
 permalink: /spells/locate-object/
 tags:
   - Spell

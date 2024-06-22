@@ -1,5 +1,6 @@
 ---
 title: "Astral Projection"
+index: "astral-projection"
 permalink: /spells/astral-projection/
 tags:
   - Spell

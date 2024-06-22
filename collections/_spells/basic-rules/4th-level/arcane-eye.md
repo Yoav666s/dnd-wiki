@@ -1,5 +1,6 @@
 ---
 title: "Arcane Eye"
+index: "arcane-eye"
 permalink: /spells/arcane-eye/
 tags:
   - Spell

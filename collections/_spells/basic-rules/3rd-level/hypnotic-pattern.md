@@ -1,5 +1,6 @@
 ---
 title: "Hypnotic Pattern"
+index: "hypnotic-pattern"
 permalink: /spells/hypnotic-pattern/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Protection from Evil and Good"
+index: "protection-from-evil-and-good"
 permalink: /spells/protection-from-evil-and-good/
 tags:
   - Spell

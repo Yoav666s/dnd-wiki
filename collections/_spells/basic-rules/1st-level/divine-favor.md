@@ -1,5 +1,6 @@
 ---
 title: "Divine Favor"
+index: "divine-favor"
 permalink: /spells/divine-favor/
 tags:
   - Spell

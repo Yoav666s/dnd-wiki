@@ -1,5 +1,6 @@
 ---
 title: "Sunbeam"
+index: "sunbeam"
 permalink: /spells/sunbeam/
 tags:
   - Spell

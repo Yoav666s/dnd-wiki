@@ -1,5 +1,6 @@
 ---
 title: "Geas"
+index: "geas"
 permalink: /spells/geas/
 tags:
   - Spell

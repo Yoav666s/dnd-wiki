@@ -1,5 +1,6 @@
 ---
 title: "Animate Dead"
+index: "animate-dead"
 permalink: /spells/animate-dead/
 tags:
   - Spell

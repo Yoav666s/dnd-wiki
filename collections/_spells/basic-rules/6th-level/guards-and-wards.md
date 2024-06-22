@@ -1,5 +1,6 @@
 ---
 title: "Guards and Wards"
+index: "guards-and-wards"
 permalink: /spells/guards-and-wards/
 tags:
   - Spell

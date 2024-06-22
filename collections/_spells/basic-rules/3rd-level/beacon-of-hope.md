@@ -1,5 +1,6 @@
 ---
 title: "Beacon of Hope"
+index: "beacon-of-hope"
 permalink: /spells/beacon-of-hope/
 tags:
   - Spell

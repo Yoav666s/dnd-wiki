@@ -1,5 +1,6 @@
 ---
 title: "Project Image"
+index: "project-image"
 permalink: /spells/project-image/
 tags:
   - Spell

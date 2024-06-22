@@ -1,5 +1,6 @@
 ---
 title: "Fog Cloud"
+index: "fog-cloud"
 permalink: /spells/fog-cloud/
 tags:
   - Spell

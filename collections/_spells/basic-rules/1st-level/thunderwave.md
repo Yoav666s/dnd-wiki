@@ -1,5 +1,6 @@
 ---
 title: "Thunderwave"
+index: "thunderwave"
 permalink: /spells/thunderwave/
 tags:
   - Spell

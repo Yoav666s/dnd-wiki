@@ -1,5 +1,6 @@
 ---
 title: "Planar Binding"
+index: "planar-binding"
 permalink: /spells/planar-binding/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Detect Poison and Disease"
+index: "detect-poison-and-disease"
 permalink: /spells/detect-poison-and-disease/
 tags:
   - Spell

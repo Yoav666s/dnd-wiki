@@ -1,5 +1,6 @@
 ---
 title: "Symbol"
+index: "symbol"
 permalink: /spells/symbol/
 tags:
   - Spell

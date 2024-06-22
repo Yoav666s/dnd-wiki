@@ -1,5 +1,6 @@
 ---
 title: "Teleport"
+index: "teleport"
 permalink: /spells/teleport/
 tags:
   - Spell

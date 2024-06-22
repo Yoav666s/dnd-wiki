@@ -1,5 +1,6 @@
 ---
 title: "Regenerate"
+index: "regenerate"
 permalink: /spells/regenerate/
 tags:
   - Spell

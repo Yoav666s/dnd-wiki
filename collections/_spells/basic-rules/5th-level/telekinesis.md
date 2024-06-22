@@ -1,5 +1,6 @@
 ---
 title: "Telekinesis"
+index: "telekinesis"
 permalink: /spells/telekinesis/
 tags:
   - Spell

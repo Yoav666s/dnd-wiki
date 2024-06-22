@@ -1,5 +1,6 @@
 ---
 title: "Shield"
+index: "shield"
 permalink: /spells/shield/
 tags:
   - Spell

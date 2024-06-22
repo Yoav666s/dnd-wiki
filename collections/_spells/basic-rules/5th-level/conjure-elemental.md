@@ -1,5 +1,6 @@
 ---
 title: "Conjure Elemental"
+index: "conjure-elemental"
 permalink: /spells/conjure-elemental/
 tags:
   - Spell

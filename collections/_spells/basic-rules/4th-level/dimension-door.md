@@ -1,5 +1,6 @@
 ---
 title: "Dimension Door"
+index: "dimension-door"
 permalink: /spells/dimension-door/
 tags:
   - Spell

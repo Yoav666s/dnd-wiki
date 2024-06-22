@@ -1,5 +1,6 @@
 ---
 title: "Aid"
+index: "aid"
 permalink: /spells/aid/
 tags:
   - Spell

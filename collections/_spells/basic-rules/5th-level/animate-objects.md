@@ -1,5 +1,6 @@
 ---
 title: "Animate Objects"
+index: "animate-objects"
 permalink: /spells/animate-objects/
 tags:
   - Spell

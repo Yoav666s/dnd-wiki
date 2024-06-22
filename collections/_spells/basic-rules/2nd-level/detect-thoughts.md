@@ -1,5 +1,6 @@
 ---
 title: "Detect Thoughts"
+index: "detect-thoughts"
 permalink: /spells/detect-thoughts/
 tags:
   - Spell

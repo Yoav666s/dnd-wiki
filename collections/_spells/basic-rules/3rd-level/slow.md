@@ -1,5 +1,6 @@
 ---
 title: "Slow"
+index: "slow"
 permalink: /spells/slow/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Wall of Thorns"
+index: "wall-of-thorns"
 permalink: /spells/wall-of-thorns/
 tags:
   - Spell

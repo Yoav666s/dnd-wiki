@@ -1,5 +1,6 @@
 ---
 title: "Mage Armor"
+index: "mage-armor"
 permalink: /spells/mage-armor/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Command"
+index: "command"
 permalink: /spells/command/
 tags:
   - Spell

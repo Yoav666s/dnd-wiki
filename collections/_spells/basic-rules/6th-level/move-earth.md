@@ -1,5 +1,6 @@
 ---
 title: "Move Earth"
+index: "move-earth"
 permalink: /spells/move-earth/
 tags:
   - Spell

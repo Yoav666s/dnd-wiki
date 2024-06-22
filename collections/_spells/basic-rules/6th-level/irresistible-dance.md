@@ -1,5 +1,6 @@
 ---
 title: "Irresistible Dance"
+index: "irresistible-dance"
 permalink: /spells/irresistible-dance/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Hideous Laughter"
+index: "hideous-laughter"
 permalink: /spells/hideous-laughter/
 tags:
   - Spell

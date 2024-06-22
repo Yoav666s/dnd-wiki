@@ -1,5 +1,6 @@
 ---
 title: "Vicious Mockery"
+index: "vicious-mockery"
 permalink: /spells/vicious-mockery/
 tags:
   - Spell

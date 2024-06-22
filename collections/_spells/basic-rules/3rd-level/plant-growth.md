@@ -1,5 +1,6 @@
 ---
 title: "Plant Growth"
+index: "plant-growth"
 permalink: /spells/plant-growth/
 tags:
   - Spell

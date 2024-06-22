@@ -1,5 +1,6 @@
 ---
 title: "Wall of Ice"
+index: "wall-of-ice"
 permalink: /spells/wall-of-ice/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Lesser Restoration"
+index: "lesser-restoration"
 permalink: /spells/lesser-restoration/
 tags:
   - Spell

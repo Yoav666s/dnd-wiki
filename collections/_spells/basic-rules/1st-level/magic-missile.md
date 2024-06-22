@@ -1,5 +1,6 @@
 ---
 title: "Magic Missile"
+index: "magic-missile"
 permalink: /spells/magic-missile/
 tags:
   - Spell

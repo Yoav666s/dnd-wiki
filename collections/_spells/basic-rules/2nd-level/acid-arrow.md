@@ -1,5 +1,6 @@
 ---
 title: "Acid Arrow"
+index: "acid-arrow"
 permalink: /spells/acid-arrow/
 tags:
   - Spell

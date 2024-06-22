@@ -1,5 +1,6 @@
 ---
 title: "Seeming"
+index: "seeming"
 permalink: /spells/seeming/
 tags:
   - Spell

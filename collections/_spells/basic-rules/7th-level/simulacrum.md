@@ -1,5 +1,6 @@
 ---
 title: "Simulacrum"
+index: "simulacrum"
 permalink: /spells/simulacrum/
 tags:
   - Spell

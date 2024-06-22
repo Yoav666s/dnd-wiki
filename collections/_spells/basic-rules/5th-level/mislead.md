@@ -1,5 +1,6 @@
 ---
 title: "Mislead"
+index: "mislead"
 permalink: /spells/mislead/
 tags:
   - Spell

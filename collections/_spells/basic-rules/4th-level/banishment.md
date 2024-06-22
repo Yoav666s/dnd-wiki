@@ -1,5 +1,6 @@
 ---
 title: "Banishment"
+index: "banishment"
 permalink: /spells/banishment/
 tags:
   - Spell

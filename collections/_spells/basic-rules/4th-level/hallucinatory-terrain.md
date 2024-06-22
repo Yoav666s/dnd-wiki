@@ -1,5 +1,6 @@
 ---
 title: "Hallucinatory Terrain"
+index: "hallucinatory-terrain"
 permalink: /spells/hallucinatory-terrain/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "True Strike"
+index: "true-strike"
 permalink: /spells/true-strike/
 tags:
   - Spell

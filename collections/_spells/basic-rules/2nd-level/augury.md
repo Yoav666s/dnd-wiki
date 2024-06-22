@@ -1,5 +1,6 @@
 ---
 title: "Augury"
+index: "augury"
 permalink: /spells/augury/
 tags:
   - Spell

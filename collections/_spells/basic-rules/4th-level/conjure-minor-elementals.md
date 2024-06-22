@@ -1,5 +1,6 @@
 ---
 title: "Conjure Minor Elementals"
+index: "conjure-minor-elementals"
 permalink: /spells/conjure-minor-elementals/
 tags:
   - Spell

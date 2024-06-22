@@ -1,5 +1,6 @@
 ---
 title: "Darkvision"
+index: "darkvision"
 permalink: /spells/darkvision/
 tags:
   - Spell

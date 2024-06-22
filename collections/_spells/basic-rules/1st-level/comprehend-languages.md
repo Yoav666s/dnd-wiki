@@ -1,5 +1,6 @@
 ---
 title: "Comprehend Languages"
+index: "comprehend-languages"
 permalink: /spells/comprehend-languages/
 tags:
   - Spell

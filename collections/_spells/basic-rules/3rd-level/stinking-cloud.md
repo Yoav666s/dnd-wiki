@@ -1,5 +1,6 @@
 ---
 title: "Stinking Cloud"
+index: "stinking-cloud"
 permalink: /spells/stinking-cloud/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Blink"
+index: "blink"
 permalink: /spells/blink/
 tags:
   - Spell

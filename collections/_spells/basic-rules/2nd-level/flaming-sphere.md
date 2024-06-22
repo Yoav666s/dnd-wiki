@@ -1,5 +1,6 @@
 ---
 title: "Flaming Sphere"
+index: "flaming-sphere"
 permalink: /spells/flaming-sphere/
 tags:
   - Spell

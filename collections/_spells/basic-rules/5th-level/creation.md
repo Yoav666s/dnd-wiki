@@ -1,5 +1,6 @@
 ---
 title: "Creation"
+index: "creation"
 permalink: /spells/creation/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Holy Aura"
+index: "holy-aura"
 permalink: /spells/holy-aura/
 tags:
   - Spell

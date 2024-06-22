@@ -1,5 +1,6 @@
 ---
 title: "Mind Blank"
+index: "mind-blank"
 permalink: /spells/mind-blank/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Sanctuary"
+index: "sanctuary"
 permalink: /spells/sanctuary/
 tags:
   - Spell

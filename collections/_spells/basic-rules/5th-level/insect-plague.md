@@ -1,5 +1,6 @@
 ---
 title: "Insect Plague"
+index: "insect-plague"
 permalink: /spells/insect-plague/
 tags:
   - Spell

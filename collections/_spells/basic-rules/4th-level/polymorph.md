@@ -1,5 +1,6 @@
 ---
 title: "Polymorph"
+index: "polymorph"
 permalink: /spells/polymorph/
 tags:
   - Spell

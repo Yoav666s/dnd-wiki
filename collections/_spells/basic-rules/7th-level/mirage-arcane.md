@@ -1,5 +1,6 @@
 ---
 title: "Mirage Arcane"
+index: "mirage-arcane"
 permalink: /spells/mirage-arcane/
 tags:
   - Spell

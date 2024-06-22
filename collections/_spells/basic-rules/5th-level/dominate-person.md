@@ -1,5 +1,6 @@
 ---
 title: "Dominate Person"
+index: "dominate-person"
 permalink: /spells/dominate-person/
 tags:
   - Spell

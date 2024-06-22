@@ -1,5 +1,6 @@
 ---
 title: "Mass Healing Word"
+index: "mass-healing-word"
 permalink: /spells/mass-healing-word/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Arcane Sword"
+index: "arcane-sword"
 permalink: /spells/arcane-sword/
 tags:
   - Spell

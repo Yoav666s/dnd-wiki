@@ -1,5 +1,6 @@
 ---
 title: "Call Lightning"
+index: "call-lightning"
 permalink: /spells/call-lightning/
 tags:
   - Spell

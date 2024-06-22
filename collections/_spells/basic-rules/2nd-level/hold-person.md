@@ -1,5 +1,6 @@
 ---
 title: "Hold Person"
+index: "hold-person"
 permalink: /spells/hold-person/
 tags:
   - Spell

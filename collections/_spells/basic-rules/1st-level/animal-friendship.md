@@ -1,5 +1,6 @@
 ---
 title: "Animal Friendship"
+index: "animal-friendship"
 permalink: /spells/animal-friendship/
 tags:
   - Spell

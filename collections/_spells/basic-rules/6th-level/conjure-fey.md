@@ -1,5 +1,6 @@
 ---
 title: "Conjure Fey"
+index: "conjure-fey"
 permalink: /spells/conjure-fey/
 tags:
   - Spell

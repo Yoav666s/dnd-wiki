@@ -1,5 +1,6 @@
 ---
 title: "Suggestion"
+index: "suggestion"
 permalink: /spells/suggestion/
 tags:
   - Spell

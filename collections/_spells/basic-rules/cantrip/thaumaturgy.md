@@ -1,5 +1,6 @@
 ---
 title: "Thaumaturgy"
+index: "thaumaturgy"
 permalink: /spells/thaumaturgy/
 tags:
   - Spell

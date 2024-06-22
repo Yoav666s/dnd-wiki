@@ -1,5 +1,6 @@
 ---
 title: "Shatter"
+index: "shatter"
 permalink: /spells/shatter/
 tags:
   - Spell

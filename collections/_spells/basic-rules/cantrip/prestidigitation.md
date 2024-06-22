@@ -1,5 +1,6 @@
 ---
 title: "Prestidigitation"
+index: "prestidigitation"
 permalink: /spells/prestidigitation/
 tags:
   - Spell

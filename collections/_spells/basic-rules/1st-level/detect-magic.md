@@ -1,5 +1,6 @@
 ---
 title: "Detect Magic"
+index: "detect-magic"
 permalink: /spells/detect-magic/
 tags:
   - Spell

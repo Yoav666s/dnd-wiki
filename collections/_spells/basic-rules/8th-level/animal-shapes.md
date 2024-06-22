@@ -1,5 +1,6 @@
 ---
 title: "Animal Shapes"
+index: "animal-shapes"
 permalink: /spells/animal-shapes/
 tags:
   - Spell

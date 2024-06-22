@@ -1,5 +1,6 @@
 ---
 title: "Water Walk"
+index: "water-walk"
 permalink: /spells/water-walk/
 tags:
   - Spell

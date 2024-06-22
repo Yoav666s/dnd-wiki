@@ -1,5 +1,6 @@
 ---
 title: "Heroism"
+index: "heroism"
 permalink: /spells/heroism/
 tags:
   - Spell

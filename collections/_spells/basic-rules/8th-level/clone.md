@@ -1,5 +1,6 @@
 ---
 title: "Clone"
+index: "clone"
 permalink: /spells/clone/
 tags:
   - Spell

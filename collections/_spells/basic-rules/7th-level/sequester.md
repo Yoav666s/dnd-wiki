@@ -1,5 +1,6 @@
 ---
 title: "Sequester"
+index: "sequester"
 permalink: /spells/sequester/
 tags:
   - Spell

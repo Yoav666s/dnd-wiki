@@ -1,5 +1,6 @@
 ---
 title: "Longstrider"
+index: "longstrider"
 permalink: /spells/longstrider/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Dream"
+index: "dream"
 permalink: /spells/dream/
 tags:
   - Spell

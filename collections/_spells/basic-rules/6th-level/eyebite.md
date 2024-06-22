@@ -1,5 +1,6 @@
 ---
 title: "Eyebite"
+index: "eyebite"
 permalink: /spells/eyebite/
 tags:
   - Spell

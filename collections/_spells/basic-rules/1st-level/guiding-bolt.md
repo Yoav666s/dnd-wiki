@@ -1,5 +1,6 @@
 ---
 title: "Guiding Bolt"
+index: "guiding-bolt"
 permalink: /spells/guiding-bolt/
 tags:
   - Spell

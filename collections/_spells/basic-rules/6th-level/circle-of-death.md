@@ -1,5 +1,6 @@
 ---
 title: "Circle of Death"
+index: "circle-of-death"
 permalink: /spells/circle-of-death/
 tags:
   - Spell

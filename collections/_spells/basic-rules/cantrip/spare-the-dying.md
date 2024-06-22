@@ -1,5 +1,6 @@
 ---
 title: "Spare the Dying"
+index: "spare-the-dying"
 permalink: /spells/spare-the-dying/
 tags:
   - Spell

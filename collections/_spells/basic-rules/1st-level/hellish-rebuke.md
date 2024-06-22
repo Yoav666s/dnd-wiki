@@ -1,5 +1,6 @@
 ---
 title: "Hellish Rebuke"
+index: "hellish-rebuke"
 permalink: /spells/hellish-rebuke/
 tags:
   - Spell

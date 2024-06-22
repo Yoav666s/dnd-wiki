@@ -1,5 +1,6 @@
 ---
 title: "Arcane Hand"
+index: "arcane-hand"
 permalink: /spells/arcane-hand/
 tags:
   - Spell

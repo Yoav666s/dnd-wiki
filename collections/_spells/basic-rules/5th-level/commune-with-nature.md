@@ -1,5 +1,6 @@
 ---
 title: "Commune With Nature"
+index: "commune-with-nature"
 permalink: /spells/commune-with-nature/
 tags:
   - Spell

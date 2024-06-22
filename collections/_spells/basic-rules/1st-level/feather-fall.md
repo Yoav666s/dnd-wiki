@@ -1,5 +1,6 @@
 ---
 title: "Feather Fall"
+index: "feather-fall"
 permalink: /spells/feather-fall/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Magnificent Mansion"
+index: "magnificent-mansion"
 permalink: /spells/magnificent-mansion/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Minor Illusion"
+index: "minor-illusion"
 permalink: /spells/minor-illusion/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Healing Word"
+index: "healing-word"
 permalink: /spells/healing-word/
 tags:
   - Spell

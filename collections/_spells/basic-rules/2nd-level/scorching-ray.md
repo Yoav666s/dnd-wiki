@@ -1,5 +1,6 @@
 ---
 title: "Scorching Ray"
+index: "scorching-ray"
 permalink: /spells/scorching-ray/
 tags:
   - Spell

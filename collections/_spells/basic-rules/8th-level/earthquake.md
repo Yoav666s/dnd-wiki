@@ -1,5 +1,6 @@
 ---
 title: "Earthquake"
+index: "earthquake"
 permalink: /spells/earthquake/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Fire Storm"
+index: "fire-storm"
 permalink: /spells/fire-storm/
 tags:
   - Spell

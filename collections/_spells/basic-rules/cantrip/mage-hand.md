@@ -1,5 +1,6 @@
 ---
 title: "Mage Hand"
+index: "mage-hand"
 permalink: /spells/mage-hand/
 tags:
   - Spell

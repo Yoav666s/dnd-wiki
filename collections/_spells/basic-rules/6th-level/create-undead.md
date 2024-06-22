@@ -1,5 +1,6 @@
 ---
 title: "Create Undead"
+index: "create-undead"
 permalink: /spells/create-undead/
 tags:
   - Spell

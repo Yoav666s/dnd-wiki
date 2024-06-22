@@ -1,5 +1,6 @@
 ---
 title: "Divine Word"
+index: "divine-word"
 permalink: /spells/divine-word/
 tags:
   - Spell

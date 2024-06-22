@@ -1,5 +1,6 @@
 ---
 title: "Revivify"
+index: "revivify"
 permalink: /spells/revivify/
 tags:
   - Spell

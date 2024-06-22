@@ -1,5 +1,6 @@
 ---
 title: "Knock"
+index: "knock"
 permalink: /spells/knock/
 tags:
   - Spell

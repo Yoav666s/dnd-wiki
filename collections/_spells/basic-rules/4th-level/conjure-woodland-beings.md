@@ -1,5 +1,6 @@
 ---
 title: "Conjure Woodland Beings"
+index: "conjure-woodland-beings"
 permalink: /spells/conjure-woodland-beings/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Foresight"
+index: "foresight"
 permalink: /spells/foresight/
 tags:
   - Spell

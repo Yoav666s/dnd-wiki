@@ -1,5 +1,6 @@
 ---
 title: "Finger of Death"
+index: "finger-of-death"
 permalink: /spells/finger-of-death/
 tags:
   - Spell

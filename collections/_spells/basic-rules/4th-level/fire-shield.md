@@ -1,5 +1,6 @@
 ---
 title: "Fire Shield"
+index: "fire-shield"
 permalink: /spells/fire-shield/
 tags:
   - Spell

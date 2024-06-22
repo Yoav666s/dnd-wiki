@@ -1,5 +1,6 @@
 ---
 title: "Web"
+index: "web"
 permalink: /spells/web/
 tags:
   - Spell

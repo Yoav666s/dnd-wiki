@@ -1,5 +1,6 @@
 ---
 title: "Enlarge/Reduce"
+index: "enlarge-reduce"
 permalink: /spells/enlarge-reduce/
 tags:
   - Spell

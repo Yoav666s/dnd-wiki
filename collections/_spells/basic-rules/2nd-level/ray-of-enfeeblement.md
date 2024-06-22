@@ -1,5 +1,6 @@
 ---
 title: "Ray of Enfeeblement"
+index: "ray-of-enfeeblement"
 permalink: /spells/ray-of-enfeeblement/
 tags:
   - Spell

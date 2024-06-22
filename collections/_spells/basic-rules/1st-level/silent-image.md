@@ -1,5 +1,6 @@
 ---
 title: "Silent Image"
+index: "silent-image"
 permalink: /spells/silent-image/
 tags:
   - Spell

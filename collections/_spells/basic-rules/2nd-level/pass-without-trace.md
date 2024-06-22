@@ -1,5 +1,6 @@
 ---
 title: "Pass Without Trace"
+index: "pass-without-trace"
 permalink: /spells/pass-without-trace/
 tags:
   - Spell

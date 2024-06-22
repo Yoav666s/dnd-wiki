@@ -1,5 +1,6 @@
 ---
 title: "Legend Lore"
+index: "legend-lore"
 permalink: /spells/legend-lore/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Bestow Curse"
+index: "bestow-curse"
 permalink: /spells/bestow-curse/
 tags:
   - Spell

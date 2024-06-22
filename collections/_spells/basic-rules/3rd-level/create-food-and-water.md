@@ -1,5 +1,6 @@
 ---
 title: "Create Food and Water"
+index: "create-food-and-water"
 permalink: /spells/create-food-and-water/
 tags:
   - Spell

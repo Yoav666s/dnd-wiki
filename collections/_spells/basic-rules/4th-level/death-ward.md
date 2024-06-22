@@ -1,5 +1,6 @@
 ---
 title: "Death Ward"
+index: "death-ward"
 permalink: /spells/death-ward/
 tags:
   - Spell

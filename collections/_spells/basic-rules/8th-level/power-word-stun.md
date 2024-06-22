@@ -1,5 +1,6 @@
 ---
 title: "Power Word Stun"
+index: "power-word-stun"
 permalink: /spells/power-word-stun/
 tags:
   - Spell

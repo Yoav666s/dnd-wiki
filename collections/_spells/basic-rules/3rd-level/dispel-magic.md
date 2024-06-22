@@ -1,5 +1,6 @@
 ---
 title: "Dispel Magic"
+index: "dispel-magic"
 permalink: /spells/dispel-magic/
 tags:
   - Spell

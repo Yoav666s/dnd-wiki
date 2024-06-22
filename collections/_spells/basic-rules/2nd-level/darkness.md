@@ -1,5 +1,6 @@
 ---
 title: "Darkness"
+index: "darkness"
 permalink: /spells/darkness/
 tags:
   - Spell

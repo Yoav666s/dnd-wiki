@@ -1,5 +1,6 @@
 ---
 title: "Entangle"
+index: "entangle"
 permalink: /spells/entangle/
 tags:
   - Spell

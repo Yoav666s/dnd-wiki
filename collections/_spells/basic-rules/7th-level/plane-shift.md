@@ -1,5 +1,6 @@
 ---
 title: "Plane Shift"
+index: "plane-shift"
 permalink: /spells/plane-shift/
 tags:
   - Spell

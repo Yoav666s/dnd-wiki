@@ -1,5 +1,6 @@
 ---
 title: "Spike Growth"
+index: "spike-growth"
 permalink: /spells/spike-growth/
 tags:
   - Spell

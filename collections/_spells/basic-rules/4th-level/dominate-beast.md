@@ -1,5 +1,6 @@
 ---
 title: "Dominate Beast"
+index: "dominate-beast"
 permalink: /spells/dominate-beast/
 tags:
   - Spell

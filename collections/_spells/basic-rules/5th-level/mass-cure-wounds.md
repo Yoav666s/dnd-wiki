@@ -1,5 +1,6 @@
 ---
 title: "Mass Cure Wounds"
+index: "mass-cure-wounds"
 permalink: /spells/mass-cure-wounds/
 tags:
   - Spell

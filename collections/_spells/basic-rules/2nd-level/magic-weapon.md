@@ -1,5 +1,6 @@
 ---
 title: "Magic Weapon"
+index: "magic-weapon"
 permalink: /spells/magic-weapon/
 tags:
   - Spell

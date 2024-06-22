@@ -1,5 +1,6 @@
 ---
 title: "Planar Ally"
+index: "planar-ally"
 permalink: /spells/planar-ally/
 tags:
   - Spell

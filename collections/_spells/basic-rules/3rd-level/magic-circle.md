@@ -1,5 +1,6 @@
 ---
 title: "Magic Circle"
+index: "magic-circle"
 permalink: /spells/magic-circle/
 tags:
   - Spell

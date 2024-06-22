@@ -1,5 +1,6 @@
 ---
 title: "Divination"
+index: "divination"
 permalink: /spells/divination/
 tags:
   - Spell

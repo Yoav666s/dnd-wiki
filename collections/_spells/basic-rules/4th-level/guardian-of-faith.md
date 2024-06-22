@@ -1,5 +1,6 @@
 ---
 title: "Guardian of Faith"
+index: "guardian-of-faith"
 permalink: /spells/guardian-of-faith/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Imprisonment"
+index: "imprisonment"
 permalink: /spells/imprisonment/
 tags:
   - Spell

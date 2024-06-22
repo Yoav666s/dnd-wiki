@@ -1,5 +1,6 @@
 ---
 title: "Mass Suggestion"
+index: "mass-suggestion"
 permalink: /spells/mass-suggestion/
 tags:
   - Spell

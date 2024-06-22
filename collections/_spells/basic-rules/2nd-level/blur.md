@@ -1,5 +1,6 @@
 ---
 title: "Blur"
+index: "blur"
 permalink: /spells/blur/
 tags:
   - Spell

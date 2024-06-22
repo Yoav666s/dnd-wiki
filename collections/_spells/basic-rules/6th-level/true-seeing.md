@@ -1,5 +1,6 @@
 ---
 title: "True Seeing"
+index: "true-seeing"
 permalink: /spells/true-seeing/
 tags:
   - Spell

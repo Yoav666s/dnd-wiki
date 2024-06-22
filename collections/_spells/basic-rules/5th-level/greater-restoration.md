@@ -1,5 +1,6 @@
 ---
 title: "Greater Restoration"
+index: "greater-restoration"
 permalink: /spells/greater-restoration/
 tags:
   - Spell

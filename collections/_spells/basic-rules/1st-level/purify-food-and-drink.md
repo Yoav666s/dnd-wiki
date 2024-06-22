@@ -1,5 +1,6 @@
 ---
 title: "Purify Food and Drink"
+index: "purify-food-and-drink"
 permalink: /spells/purify-food-and-drink/
 tags:
   - Spell

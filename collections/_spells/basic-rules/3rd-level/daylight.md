@@ -1,5 +1,6 @@
 ---
 title: "Daylight"
+index: "daylight"
 permalink: /spells/daylight/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Vampiric Touch"
+index: "vampiric-touch"
 permalink: /spells/vampiric-touch/
 tags:
   - Spell

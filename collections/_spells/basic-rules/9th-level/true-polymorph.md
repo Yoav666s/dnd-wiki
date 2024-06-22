@@ -1,5 +1,6 @@
 ---
 title: "True Polymorph"
+index: "true-polymorph"
 permalink: /spells/true-polymorph/
 tags:
   - Spell

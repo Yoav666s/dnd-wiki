@@ -1,5 +1,6 @@
 ---
 title: "Inflict Wounds"
+index: "inflict-wounds"
 permalink: /spells/inflict-wounds/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Telepathic Bond"
+index: "telepathic-bond"
 permalink: /spells/telepathic-bond/
 tags:
   - Spell

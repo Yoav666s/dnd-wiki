@@ -1,5 +1,6 @@
 ---
 title: "Freedom of Movement"
+index: "freedom-of-movement"
 permalink: /spells/freedom-of-movement/
 tags:
   - Spell

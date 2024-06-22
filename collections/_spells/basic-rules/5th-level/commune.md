@@ -1,5 +1,6 @@
 ---
 title: "Commune"
+index: "commune"
 permalink: /spells/commune/
 tags:
   - Spell

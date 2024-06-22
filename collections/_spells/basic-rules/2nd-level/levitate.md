@@ -1,5 +1,6 @@
 ---
 title: "Levitate"
+index: "levitate"
 permalink: /spells/levitate/
 tags:
   - Spell

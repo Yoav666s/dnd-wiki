@@ -1,5 +1,6 @@
 ---
 title: "Blade Barrier"
+index: "blade-barrier"
 permalink: /spells/blade-barrier/
 tags:
   - Spell

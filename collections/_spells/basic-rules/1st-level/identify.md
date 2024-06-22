@@ -1,5 +1,6 @@
 ---
 title: "Identify"
+index: "identify"
 permalink: /spells/identify/
 tags:
   - Spell

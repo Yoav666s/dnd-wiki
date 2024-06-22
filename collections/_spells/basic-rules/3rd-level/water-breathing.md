@@ -1,5 +1,6 @@
 ---
 title: "Water Breathing"
+index: "water-breathing"
 permalink: /spells/water-breathing/
 tags:
   - Spell

@@ -1,5 +1,6 @@
 ---
 title: "Rope Trick"
+index: "rope-trick"
 permalink: /spells/rope-trick/
 tags:
   - Spell

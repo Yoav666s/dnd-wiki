@@ -1,5 +1,6 @@
 ---
 title: "Locate Animals or Plants"
+index: "locate-animals-or-plants"
 permalink: /spells/locate-animals-or-plants/
 tags:
   - Spell

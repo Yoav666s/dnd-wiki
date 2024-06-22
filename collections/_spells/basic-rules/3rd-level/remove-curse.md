@@ -1,5 +1,6 @@
 ---
 title: "Remove Curse"
+index: "remove-curse"
 permalink: /spells/remove-curse/
 tags:
   - Spell

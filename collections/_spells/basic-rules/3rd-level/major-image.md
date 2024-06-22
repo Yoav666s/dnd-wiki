@@ -1,5 +1,6 @@
 ---
 title: "Major Image"
+index: "major-image"
 permalink: /spells/major-image/
 tags:
   - Spell

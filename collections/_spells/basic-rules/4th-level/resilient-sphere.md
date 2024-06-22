@@ -1,5 +1,6 @@
 ---
 title: "Resilient Sphere"
+index: "resilient-sphere"
 permalink: /spells/resilient-sphere/
 tags:
   - Spell

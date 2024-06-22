@@ -1,5 +1,6 @@
 ---
 title: "Wall of Fire"
+index: "wall-of-fire"
 permalink: /spells/wall-of-fire/
 tags:
   - Spell

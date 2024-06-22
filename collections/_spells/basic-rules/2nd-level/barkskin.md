@@ -1,5 +1,6 @@
 ---
 title: "Barkskin"
+index: "barkskin"
 permalink: /spells/barkskin/
 tags:
   - Spell

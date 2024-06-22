@@ -1,5 +1,6 @@
 ---
 title: "Moonbeam"
+index: "moonbeam"
 permalink: /spells/moonbeam/
 tags:
   - Spell

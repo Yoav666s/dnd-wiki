@@ -1,5 +1,6 @@
 ---
 title: "Prismatic Wall"
+index: "prismatic-wall"
 permalink: /spells/prismatic-wall/
 tags:
   - Spell

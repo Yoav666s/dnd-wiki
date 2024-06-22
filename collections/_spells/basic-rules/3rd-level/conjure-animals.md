@@ -1,5 +1,6 @@
 ---
 title: "Conjure Animals"
+index: "conjure-animals"
 permalink: /spells/conjure-animals/
 tags:
   - Spell

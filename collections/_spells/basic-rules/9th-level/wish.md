@@ -1,5 +1,6 @@
 ---
 title: "Wish"
+index: "wish"
 permalink: /spells/wish/
 tags:
   - Spell

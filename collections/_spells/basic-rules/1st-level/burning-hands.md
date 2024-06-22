@@ -1,5 +1,6 @@
 ---
 title: "Burning Hands"
+index: "burning-hands"
 permalink: /spells/burning-hands/
 tags:
   - Spell
