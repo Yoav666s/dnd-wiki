@@ -29,7 +29,7 @@
       {% assign title = title | append: ' ' | append: word %}
     {% endunless %}
   {% else %}
-    {{ word | strip }}
+    {{ word }}
   {% endif %}
 {% endfor %}
-{% endcapture %}{{ modified_content | strip }}
+{% endcapture %}{{ modified_content | strip_newlines }}
