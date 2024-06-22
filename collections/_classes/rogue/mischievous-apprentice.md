@@ -66,25 +66,25 @@ Spell attack modifier = your proficiency bonus + your Dexterity modifier
 # Mischievous Incantations
 At 3rd level, choose two cantrips to specialize in. You can use your bonus action to cast them, and gain the following benefits:
 
-## [Deceitful Maneuver](/spells/deceitful-maneuver/)
+## [[Deceitful-Maneuver]]
 If you're specialized in this cantrip, you can cast it freely as part of any interaction, such as drawing a dagger, pulling a lever, or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
 
-## [Fling](/spells/fling/)
+## [[Fling]]
 If you're specialized in this cantrip, ranged attacks you make with it are eligible to deal sneak attack damage.
 
-## [Folly Spectacle](/spells/folly-spectacle/)
+## [[Folly-Spectacle]]
 If you're specialized in this cantrip, you don't provoke opportunity attacks from the creature you target with it for the rest of the turn.
 
-## [Message](/spells/message/)
+## [[Message]]
 If you're specialized in this cantrip, you can mask your voice when casting it. You may force a creature to make an Intelligence saving throw the first time you target it with this spell. On failure, it believes that the voice is emanating from its own thoughts, but you don't know whether it succeeds or fails.
 
-## [Minor Illusion](/spells/minor-illusion)
+## [[Minor-Illusion]]
 If you're specialized in this cantrip, you can animate an image you create. When you cast this spell and as a bonus action on each of your following turns, you can move the illusion up to 30 feet. You must be within 60 feet of it to do so.
 
-## [Minor Phantasm](/spells/minor-phantasm)
+## [[Minor-Phantasm]]
 If you're specialized in this cantrip, taking damage doesn't automatically end it for the target. Instead, it must succeed an Intelligence saving throw to realize that it's an illusion.
 
-## [Subterfuge](/spells/subterfuge/)
+## [[Subterfuge]]
 If you're specialized in this cantrip, distractions you affect with it can be more deliberate, for example:
 - A whisper can be in a specific voice that you've heard and can consist of up to five words.
 - You may interact with more delicate mechanisms, such as belt buckles, straps, and tied knots.
@@ -98,62 +98,62 @@ A good magician never reveals his secrets. Starting at 3rd level, you gain advan
 # Whetted Sleights
 At 9th level, your [mischievous incantations](#mischievous-incantations) gain additional bonuses.
 
-## [Deceitful Maneuver](/spells/deceitful-maneuver/)
+## [[Deceitful-Maneuver]]
 If you're specialized in this cantrip, you are able to move at normal speed without breaking the effects of this spell.
 
-## [Fling](/spells/fling/)
+## [[Fling]]
 If you're specialized in this cantrip, its damage dice are replaced for you with 1d10 instead of 1d8, and 1d6 instead of 1d4.
 
-## [Folly Spectacle](/spells/folly-spectacle/)
+## [[Folly-Spectacle]]
 If you're specialized in this cantrip, creatures have disadvantage on saving throws made against this spell while engaged in combat with another creature.
 
-## [Message](/spells/message/)
+## [[Message]]
 If you're specialized in this cantrip, you have +5 on Charisma (Persuasion, Deception) checks when sending messages to a target that has failed its saving throw.
 
-## [Minor Illusion](/spells/minor-illusion)
+## [[Minor-Illusion]]
 If you're specialized in this cantrip, you can cause sound to emanate from an image you create with this spell.  
 
-## [Minor Phantasm](/spells/minor-phantasm)
+## [[Minor-Phantasm]]
 If you're specialized in this cantrip, as long as a creature is actively distracted by the effects of this spell, it has disadvantage on saving throws.
 
-## [Subterfuge](/spells/subterfuge/)
+## [[Subterfuge]]
 If you're specialized in this cantrip, you may cast this spell in order to distract a creature. The next attack against it has advantage until your next turn.
 
 ---
 
 # Precarious Riposte
-Starting at 13th level, your mischievous incantations become instinctual, allowing you to cast them in a repertoire of unique reactions.
+Starting at 13th level, your [mischievous incantations](#mischievous-incantations) become instinctual, allowing you to cast them in a repertoire of unique reactions.
 
 ## Deceitful Dodge
-If you're [specialized](#mischievous-incantations) in the [Deceitful Maneuver](/spells/deceitful-maneuver/) cantrip, you learn the **Deceitful Dodge**. When you're targeted by an attack that relies on sight, you may use your reaction to cast Deceitful Maneuver to give it disadvantage.
+If you're specialized in the [[Deceitful-Maneuver]] cantrip, you learn the **Deceitful Dodge**. When you're targeted by an attack that relies on sight, you may use your reaction to cast Deceitful Maneuver to give it disadvantage.
 
 You may also move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. If you move out of the attack's path, you may evade it completely by succeeding a Dexterity saving throw against the attack roll.
 
 ## Divert
-If you're [specialized](#mischievous-incantations) in the [Fling](/spells/fling/) cantrip, you learn **Divert**. When you notice a ranged weapon attack, you may use your reaction to try and divert its projectile when it reaches a distance of 30 feet or less from you.
+If you're specialized in the [[Fling]] cantrip, you learn **Divert**. When you notice a ranged weapon attack, you may use your reaction to try and divert its projectile when it reaches a distance of 30 feet or less from you.
 
 Subtract 1d10 + your DEX modifier from the attack roll. If the projectile would then miss the target, you may divert it in a direction you choose within a 30-foot cone of the original direction. If you direct the projectile to hit a different target, it can evade it by succeeding a Dexterity saving throw against the modified attack roll. On a hit, the original attacker rolls for damage.
 
 ## Daunting Spectacle
-If you're [specialized](#mischievous-incantations) in the [Folly Spectacle](/spells/folly-spectacle/) cantrip, you learn the **Daunting Spectacle**. When a creature attempts to move within 30 feet of you, you may use your reaction to cast Folly Spectacle in an attempt to startle it.
+If you're specialized in the [[Folly-Spectacle]] cantrip, you learn the **Daunting Spectacle**. When a creature attempts to move within 30 feet of you, you may use your reaction to cast Folly Spectacle in an attempt to startle it.
 
 The creature must make an Intelligence saving throw in order to tell that it's only an illusion. On failure, it uses its reaction to stop in its tracks and its speed is reduced to 0 until the end of the round.
 
 ## Intrusive Thoughts
-If you're [specialized](#mischievous-incantations) in the [Message](/spells/message/) cantrip, you learn **Intrusive Thoughts**. When you notice a creature taking any action within 120 feet, you may use your reaction to cast message in an attempt to intervene.
+If you're specialized in the [[Message]] cantrip, you learn **Intrusive Thoughts**. When you notice a creature taking any action within 120 feet, you may use your reaction to cast message in an attempt to intervene.
 
 ## Minor Inconvenience
-If you're [specialized](#mischievous-incantations) in the [Minor Illusion](/spells/minor-illusion/) cantrip, you learn **Minor Inconvenience**. When an enemy starts its turn within 30 feet of an illusion you created, you may use your reaction to make the illusion taunt it.
+If you're specialized in the [[Minor-Illusion]] cantrip, you learn **Minor Inconvenience**. When an enemy starts its turn within 30 feet of an illusion you created, you may use your reaction to make the illusion taunt it.
 
 The enemy must succeed a Wisdom saving throw against your spell save DC or focus its attention on the illusion. The enemy automatically succeeds the saving throw if it knows it's an illusion.
 
 ## Momentary Phantasm
-If you're [specialized](#mischievous-incantations) in the [Minor Phantasm](/spells/minor-phantasm/) cantrip, you learn the **Momentary Phantasm**. When a creature makes a melee attack within 30 feet of you, you may use your reaction to cast Minor Phantasm in an attempt to interrupt it.
+If you're specialized in the [[Minor-Phantasm]] cantrip, you learn the **Momentary Phantasm**. When a creature makes a melee attack within 30 feet of you, you may use your reaction to cast Minor Phantasm in an attempt to interrupt it.
 
 The attacker must make an Intelligence saving throw. On failure, the phantasm takes effect and the attack is prevented. The phantasm you create must directly affect the attack, such making the attacker's weapon appear as a snake. This requires your concentration.
 
 ## Sudden Ruse
-If you're [specialized](#mischievous-incantations) in the [Subterfuge](/spells/subterfuge/) cantrip, you learn the **Sudden Ruse**. When an enemy within 30 feet of you makes an attack, you may use your reaction to cast Subterfuge in an attempt to startle, confuse, or distract that creature, giving it disadvantage on the attack roll.
+If you're specialized in the [[Subterfuge]] cantrip, you learn the **Sudden Ruse**. When an enemy within 30 feet of you makes an attack, you may use your reaction to cast Subterfuge in an attempt to startle, confuse, or distract that creature, giving it disadvantage on the attack roll.
 
 ---
 
