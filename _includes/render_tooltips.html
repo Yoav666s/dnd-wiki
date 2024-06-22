@@ -4,9 +4,10 @@
   {% if word contains "[[" and word contains "]]" %}
     {% assign before_bracket = word | split: '[[' | first %}
     {% assign inside_and_after_bracket = word | split: '[[' | last %}
-    {% assign title = inside_and_after_bracket | split: ']]' | first | replace: '-', ' ' %}
+    {% assign inside = inside_and_after_bracket | split: ']]' | first %}
     {% assign after_bracket = inside_and_after_bracket | split: ']]' | last %}
-    {{ before_bracket }}{% include tooltip.html title=title %}{{ after_bracket }}
+    {% assign title = inside | replace: '-', ' ' | replace: '_', ' ' %}
+    {{ before_bracket }}{% include tooltip.html title=title %}{% if after_bracket != inside %}{{ after_bracket }}{% endif %}
   {% else %}
     {{ word | strip }}
   {% endif %}
