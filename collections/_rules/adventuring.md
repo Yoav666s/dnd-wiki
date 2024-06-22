@@ -305,4 +305,4 @@ First, you must find an instructor willing to teach you. The DM determines how l
 
 The training lasts for 250 days and costs 1 gp per day. After you spend the requisite amount of time and money, you learn the new language or gain proficiency with the new tool.
 
-With my [[Sleight of Hand]] I deftly cast [[Fire Bolt]]!
+With my [[Sleight of Hand]] I deftly cast [[Fire Bolt]]! You notice it with your [[perception]] and dodge with [[misty step]].
