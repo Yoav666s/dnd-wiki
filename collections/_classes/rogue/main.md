@@ -50,7 +50,7 @@ As a rogue, you gain the following class features.
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords \
 **Tools:** Thieves' tools \
 **Saving Throws:** Dexterity, Intelligence \
-**Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
+**Skills:** Choose four from [[Acrobatics]], [[Athletics]], [[Deception]], [[Insight]], [[Intimidation]], [[Investigation]], [[Perception]], [[Performance]], [[Persuasion]], [[Sleight of Hand]], and [[Stealth]]
 
 ## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -84,16 +84,8 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 
 | Archetype                                        | Source                         |
 | :----------------------------------------------- | :----------------------------- |
-| Arcane Trickster                                 | Player's Handbook              |
-| Assassin                                         | Player's Handbook              |
-| Inquisitive                                      | Xanathar's Guide to Everything |
-| Mastermind                                       | Xanathar's Guide to Everything |
 | [Mischievous Apprentice](mischievous-apprentice) | Untold Legends of Nornfeld     |
-| Phantom                                          | Tasha's Cauldron of Everything |
-| Scout                                            | Xanathar's Guide to Everything |
-| Soulknife                                        | Tasha's Cauldron of Everything |
-| Swashbuckler                                     | Xanathar's Guide to Everything |
-| [Thief](thief)                                   | Player's Handbook              |
+| [Thief](thief)                                   | Basic Rules                    |
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -108,7 +100,7 @@ Beginning at 7th level, you can nimbly dodge out of the way of certain area effe
 By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
 ## Blindsense
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [[invisible]] creature within 10 feet of you.
 
 ## Slippery Mind
 By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
