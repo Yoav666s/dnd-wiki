@@ -1,5 +1,6 @@
 ---
 title: "Rogue"
+index: "rogue"
 permalink: /classes/rogue/
 excerpt: "Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation."
 header:
@@ -85,6 +86,7 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 | Archetype                                        | Source                         |
 | :----------------------------------------------- | :----------------------------- |
 | [Mischievous Apprentice](mischievous-apprentice) | Untold Legends of Nornfeld     |
+| [Rascal](rascal)                                 | Untold Legends of Nornfeld     |
 | [Thief](thief)                                   | Basic Rules                    |
 
 ## Ability Score Improvement
