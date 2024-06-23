@@ -7,12 +7,12 @@ source: "Basic Rules"
 
 Six abilities provide a quick description of every creature’s physical and mental characteristics:
 
-- [**Strength**](#strength), measuring physical power
-- [**Dexterity**](#dexterity), measuring agility
-- [**Constitution**](#constitution), measuring endurance
-- [**Intelligence**](#intelligence), measuring reasoning and memory
-- [**Wisdom**](#wisdom), measuring perception and insight
-- [**Charisma**](#charisma), measuring force of personality
+- **[[Strength]]**, measuring physical power
+- **[[Dexterity]]**, measuring agility
+- **[[Constitution]]**, measuring endurance
+- **[[Intelligence]]**, measuring reasoning and memory
+- **[[Wisdom]]**, measuring perception and insight
+- **[[Charisma]]**, measuring force of personality
 
 Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities--a creature’s assets as well as weaknesses. The three main rolls of the game—the ability check, the saving throw, and the attack roll--rely on the six ability scores. The book’s introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
 
@@ -100,33 +100,33 @@ For example, a Dexterity check might reflect a character’s attempt to pull off
 
 The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability’s description in the later sections of this section for examples of how to use a skill associated with an ability.
 
-**Strength**
-- Athletics
+**[[Strength]]**
+- [[Athletics]]
 
-**Dexterity**
-- Acrobatics
-- Sleight of Hand
-- Stealth
+**[[Dexterity]]**
+- [[Acrobatics]]
+- [[Sleight of Hand]]
+- [[Stealth]]
 
-**Intelligence**
-- Arcana
-- History
-- Investigation
-- Nature
-- Religion
+**[[Intelligence]]**
+- [[Arcana]]
+- [[History]]
+- [[Investigation]]
+- [[Nature]]
+- [[Religion]]
 
-**Wisdom**
-- Animal Handling
-- Insight
-- Medicine
-- Perception
-- Survival
+**[[Wisdom]]**
+- [[Animal Handling]]
+- [[Insight]]
+- [[Medicine]]
+- [[Perception]]
+- [[Survival]]
 
-**Charisma**
-- Deception
-- Intimidation
-- Performance
-- Persuasion
+**[[Charisma]]**
+- [[Deception]]
+- [[Intimidation]]
+- [[Performance]]
+- [[Persuasion]]
 
 Sometimes, the DM might ask for an ability check using a specific skill--for example, “Make a Wisdom (Perception) check.” At other times, a player might ask the DM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
 
@@ -144,8 +144,8 @@ Here's how to determine a character's total for a passive check:
 
 If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a **score**.
 
-For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14. \
-The rules on hiding in the “Dexterity” section below rely on passive checks, as do the exploration rules
+For example, if a 1st-level character has a Wisdom of 15 and proficiency in [[perception]], he or she has a passive Wisdom ([[Perception]]) score of 14. \
+The rules on [[hiding]] rely on passive checks, as do the exploration rules.
 
 # Working Together
 Sometimes two or more characters team up to attempt a task. The character who's leading the effort--or the one with the highest ability modifier--can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.
