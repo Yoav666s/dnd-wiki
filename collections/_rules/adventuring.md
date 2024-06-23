@@ -120,7 +120,7 @@ Characters who turn their attention to other tasks as the group travels are not 
 By its nature, adventuring involves delving into places that are dark, dangerous, and full of mysteries to be explored. The rules in this section cover some of the most important ways in which adventurers interact with the environment in such places.
 
 ## Falling
-A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands [[Prone]], unless it avoids taking damage from the fall.
+A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands [[prone]], unless it avoids taking damage from the fall.
 
 ## Suffocating
 A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
@@ -134,7 +134,7 @@ The most fundamental tasks of adventuring--noticing danger, finding hidden objec
 
 A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom ([[Perception]]) checks that rely on sight.
 
-A **heavily obscured** area--such as darkness, opaque fog, or dense foliage--blocks vision entirely. A creature effectively suffers from the [[Blinded]] condition when trying to see something in that area.
+A **heavily obscured** area--such as darkness, opaque fog, or dense foliage--blocks vision entirely. A creature effectively suffers from the [[blinded]] condition when trying to see something in that area.
 
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
 
@@ -145,18 +145,18 @@ The presence or absence of light in an environment creates three categories of i
 **Darkness** creates a heavily obscured area. Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness.
 
 ### Blindsight
-A creature with [[Blindsight]] can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
+A creature with [[blindsight]] can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
 
 ### Darkvision
-Many creatures in fantasy gaming worlds, especially those that dwell underground, have [[Darkvision]]. Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned. However, the creature can't discern color in darkness, only shades of gray.
+Many creatures in fantasy gaming worlds, especially those that dwell underground, have [[darkvision]]. Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned. However, the creature can't discern color in darkness, only shades of gray.
 
 ### Truesight
-A creature with [[Truesight]] can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic.
+A creature with [[truesight]] can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic.
 
 Furthermore, the creature can see into the Ethereal Plane.
 
 ## Food and Water
-Characters who don't eat or drink suffer the effects of [[Exhaustion]]. Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
+Characters who don't eat or drink suffer the effects of [[exhaustion]]. Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
 
 ### Food
 A character needs one pound of food per day and can make food last longer by subsisting on half rations. Eating half a pound of food in a day counts as half a day without food.
@@ -233,7 +233,7 @@ In addition to roleplaying, ability checks are key in determining the outcome of
 
 Your roleplaying efforts can alter an NPC’s attitude, but there might still be an element of chance in the situation. For example, your DM can call for a Charisma check at any point during an interaction if he or she wants the dice to play a role in determining an NPC’s reactions. Other checks might be appropriate in certain situations, at your DM’s discretion.
 
-Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in [[Deception]] is the best bet to lead the discussion. When negotiating for a hostage’s release, the cleric with [[Persuasion]] should do most of the talking.
+Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in [[deception]] is the best bet to lead the discussion. When negotiating for a hostage’s release, the cleric with [[persuasion]] should do most of the talking.
 
 # Resting
 Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest--time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
@@ -281,7 +281,7 @@ You can work between adventures, allowing you to maintain a modest lifestyle wit
 
 If you are a member of an organization that can provide gainful employment, such as a temple or a thieves' guild, you earn enough to support a comfortable lifestyle instead.
 
-If you have proficiency in the [[Performance]] skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
+If you have proficiency in the [[performance]] skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
 
 ### Recuperating
 You can use downtime between adventures to recover from a debilitating injury, disease, or poison.
