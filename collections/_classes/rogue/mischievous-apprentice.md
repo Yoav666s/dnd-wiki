@@ -132,7 +132,7 @@ You may also move up to 5 feet, given there's an unoccupied area for you to step
 ## Divert
 If you're specialized in the [[fling]] cantrip, you learn the **divert** riposte. When you notice a ranged weapon attack, you may use your reaction to try and divert its projectile when it reaches a distance of 30 feet or less from you.
 
-Subtract 1d10 + your DEX modifier from the attack roll. If the projectile would then miss the target, you may divert it in a direction you choose within a 30-foot cone of the original direction. If you direct the projectile to hit a different target, it can evade it by succeeding a Dexterity saving throw against the modified attack roll. On a hit, the original attacker rolls for damage.
+Subtract 1d10 + your DEX modifier from the attack roll. If the projectile would then miss, you may divert it in a direction you choose within a 30-foot cone of the original direction. If you direct the projectile to hit a different target, it can must make a Dexterity saving throw against the modified attack roll. On failure, the original attacker rolls for damage.
 
 ## Daunting Spectacle
 If you're specialized in the [[folly spectacle]] cantrip, you learn the **daunting spectacle** riposte. When a creature attempts to move within 30 feet of you, you may use your reaction to cast [[folly spectacle]] in an attempt to startle it.
