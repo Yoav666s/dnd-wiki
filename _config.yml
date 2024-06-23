@@ -383,6 +383,7 @@ defaults:
         overlay_filter: 0.375
       toc: true
       toc_label: "Contents"
+      toc_sticky: true
 
   # _feats
   - scope:
@@ -413,6 +414,7 @@ defaults:
         overlay_filter: 0.375
       toc: true
       toc_label: "Contents"
+      toc_sticky: true
 
   # _races
   - scope:
@@ -428,6 +430,7 @@ defaults:
         overlay_filter: 0.375
       toc: true
       toc_label: "Contents"
+      toc_sticky: true
 
   # _rules
   - scope:
@@ -444,7 +447,7 @@ defaults:
         overlay_filter: 0.375
       toc: true
       toc_label: "Contents"
-
+      toc_sticky: true
 
   # _spells
   - scope:
