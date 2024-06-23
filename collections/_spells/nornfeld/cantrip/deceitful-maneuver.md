@@ -1,5 +1,6 @@
 ---
 title: "Deceitful Maneuver"
+index: "deceitful-maneuver"
 permalink: /spells/deceitful-maneuver/
 tags:
   - Spell

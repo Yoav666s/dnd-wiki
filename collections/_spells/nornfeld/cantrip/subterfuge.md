@@ -1,5 +1,6 @@
 ---
 title: "Subterfuge"
+index: "subterfuge"
 permalink: /spells/subterfuge/
 tags:
   - Spell

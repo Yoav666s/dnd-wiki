@@ -1,5 +1,6 @@
 ---
 title: "Folly Spectacle"
+index: "folly-spectacle"
 permalink: /spells/folly-spectacle/
 tags:
   - Spell
