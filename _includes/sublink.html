@@ -1,0 +1,4 @@
+{% capture sublink %}
+{% assign index = include.title | slugify %}
+<a href="{{ page.permalink | append: index | relative_url }}">{{ include.title }}</a>
+{% endcapture %}{{ sublink | strip_newlines | strip }}

@@ -1,31 +1,42 @@
 {% capture modified_content %}
 {% assign words = include.content | split: " " %}
+{% assign type = nil %}
 {% for word in words %}
   {% if word contains "[[" %}
-    {% assign before = word | split: '[[' | first %}
-    {% assign inside_after = word | split: '[[' | last %}
-    {% unless word contains "]]" %}
+    {% assign start = "[[" %}
+    {% assign end = "]]" %}
+    {% type = "tooltip" %}
+  {% elsif word contains "[>" %}
+    {% assign start = "[>" %}
+    {% assign end = "<]" %}
+    {% type = "sublink" %}
+  {% endif %}
+  {% if word contains start %}
+    {% assign before = word | split: start | first %}
+    {% assign inside_after = word | split: start | last %}
+    {% unless word contains end %}
       {% assign title = inside_after %}
-      {% assign is_tooltip = true %}
       {% assign ready = false %}
     {% endunless %}
   {% endif %}
-  {% if word contains "]]" %}
-    {% unless word contains "[[" %}
-      {% assign inside_after = word | split: '[[' | last %}
+  {% if word contains end %}
+    {% unless word contains start %}
+      {% assign inside_after = word %}
     {% endunless %}
-    {% assign inside = inside_after | split: ']]' | first %}
-    {% assign after = inside_after | split: ']]' | last %}
+    {% assign inside = inside_after | split: end | first %}
+    {% assign after = inside_after | split: end | last %}
     {% assign title = title | append: ' ' | append: inside | replace: '-', ' ' | replace: '_', ' ' | strip %}
-    {% assign is_tooltip = true %}
     {% assign ready = true %}
   {% endif %}
-  {% if is_tooltip and ready %}
-    {{ before }}{% include tooltip.html title=title %}{% if after != inside %}{{ after }}{% endif %}
-    {% assign is_tooltip = false %}
+  {% if ready %}
+    {{ before }}{% case type %}
+      {% when "tooltip" %}{% include tooltip.html title=title %}
+      {% when "sublink" %}{% include sublink.html title=title %}
+    {% endcase %}{% if after != inside %}{{ after }}{% endif %}
+    {% assign type = nil %}
     {% assign title = "" %}
-  {% elsif is_tooltip %}
-    {% unless word contains "[[" %}
+  {% elsif type %}
+    {% unless word contains start %}
       {% assign title = title | append: ' ' | append: word %}
     {% endunless %}
   {% else %}
