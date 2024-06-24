@@ -43,4 +43,4 @@
     {{ word }}
   {% endif %}
 {% endfor %}
-{% endcapture %}{{ modified_content | strip_newlines }}
+{% endcapture %}{{ modified_content | strip_newlines | strip }}
