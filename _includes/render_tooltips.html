@@ -1,6 +1,6 @@
 {% capture modified_content %}
 {% assign words = include.content | split: " " %}
-{% assign type = nil %}
+{% assign type = "" %}
 {% for word in words %}
   {% if word contains "[[" %}
     {% assign start = "[[" %}
@@ -33,9 +33,9 @@
       {% when "tooltip" %}{% include tooltip.html title=title %}
       {% when "sublink" %}{% include sublink.html title=title %}
     {% endcase %}{% if after != inside %}{{ after }}{% endif %}
-    {% assign type = nil %}
+    {% assign type = "" %}
     {% assign title = "" %}
-  {% elsif type %}
+  {% elsif type != "" %}
     {% unless word contains start %}
       {% assign title = title | append: ' ' | append: word %}
     {% endunless %}
