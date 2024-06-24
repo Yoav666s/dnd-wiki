@@ -17,9 +17,11 @@
   <a {% if tooltip.link %}href="{{ tooltip.link }}" {% endif %}class="tooltip-link">
     {{ include.title }}
   </a>
-  <span class="tooltip-content">
-    {{ tooltip.content }}
-  </span>
+  {% if tooltip.content %}
+    <span class="tooltip-content">
+      {{ tooltip.content }}
+    </span>
+  {% endif %}
 </span>
 {% else %}
   <a href="#{{ index }}" >{{ include.title }}</a>
