@@ -5,9 +5,9 @@
     {% assign start = "[[" %}
     {% assign end = "]]" %}
     {% assign type = "tooltip" %}
-  {% elsif word contains "[>" %}
-    {% assign start = "[>" %}
-    {% assign end = "<]" %}
+  {% elsif word contains "[:" %}
+    {% assign start = "[:" %}
+    {% assign end = ":]" %}
     {% assign type = "sublink" %}
   {% endif %}
   {% if word contains start %}
