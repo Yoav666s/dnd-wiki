@@ -5,7 +5,7 @@
   {% if word contains "[[" %}
     {% assign start = "[[" %}
     {% assign end = "]]" %}
-    {% type = "tooltip" %}
+    {% assign type = "tooltip" %}
   {% elsif word contains "[>" %}
     {% assign start = "[>" %}
     {% assign end = "<]" %}
