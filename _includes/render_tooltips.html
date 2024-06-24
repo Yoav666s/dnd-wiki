@@ -28,13 +28,16 @@
     {% assign ready = true %}
   {% endif %}
   {% if ready %}
-    {{ before }}{% case type %}
-      {% when "tooltip" %}{% include tooltip.html title=title %}
-      {% when "sublink" %}{% include sublink.html title=title %}
-    {% endcase %}{% if after != inside %}{{ after }}{% endif %}
+    {% capture component %}
+      {% case type %}
+        {% when "tooltip" %}{% include tooltip.html title=title %}
+        {% when "sublink" %}{% include sublink.html title=title %}
+      {% endcase %}
+    {% endcapture %}
     {% assign type = nil %}
     {% assign title = "" %}
     {% assign ready = false %}
+    {{ before }}{{ component | strip_newlines | strip }}{% if after != inside %}{{ after }}{% endif %}
   {% elsif type %}
     {% unless word contains start %}
       {% assign title = title | append: ' ' | append: word %}
@@ -43,4 +46,4 @@
     {{ word }}
   {% endif %}
 {% endfor %}
-{% endcapture %}{{ modified_content | strip_newlines | strip }}
+{% endcapture %}{{ modified_content | strip_newlines }}
