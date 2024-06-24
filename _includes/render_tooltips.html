@@ -9,7 +9,7 @@
   {% elsif word contains "[>" %}
     {% assign start = "[>" %}
     {% assign end = "<]" %}
-    {% type = "sublink" %}
+    {% assign type = "sublink" %}
   {% endif %}
   {% if word contains start %}
     {% assign before = word | split: start | first %}
