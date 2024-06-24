@@ -35,6 +35,7 @@
     {% endcase %}{% if after != inside %}{{ after }}{% endif %}
     {% assign type = "" %}
     {% assign title = "" %}
+    {% assign ready = false %}
   {% elsif type != "" %}
     {% unless word contains start %}
       {% assign title = title | append: ' ' | append: word %}
