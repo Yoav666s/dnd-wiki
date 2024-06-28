@@ -1,4 +1,5 @@
 {% capture modified_content %}
+{% include tooltip_style.html %}
 {% assign words = include.content | split: " " %}
 {% for word in words %}
   {% if word contains "[[" %}
