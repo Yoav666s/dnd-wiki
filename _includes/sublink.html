@@ -1,6 +1,6 @@
 {% capture sublink %}
 {% assign index = include.title | slugify %}
-{% assign permalink_parts = target_permalink | split: "/" %}
+{% assign permalink_parts = page.permalink | split: "/" %}
 {% assign collection = permalink_parts[1] %}
 {% assign subpage = site[collection] | where: "index", index | first %}
 <span class="tooltip">
