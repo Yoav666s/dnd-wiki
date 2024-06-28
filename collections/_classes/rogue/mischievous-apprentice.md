@@ -2,7 +2,7 @@
 title: "Mischievous Apprentice"
 index: "mischievous-apprentice"
 permalink: /classes/rogue/mischievous-apprentice/
-excerpt: "You have learned to use magic not for power, primarily, but for your own entertainment. You are specialized in mischievous magic tricks not eminently known to the masses."
+excerpt: "You have learned to use magic in unexpected and creative ways. You are specialized in mischievous magic tricks not eminently known to the masses."
 tags:
   - Rogue
 available_for:
@@ -12,7 +12,7 @@ header:
   teaser: /assets/images/classes/rogue/mischievous-apprentice/header.jpg
 ---
 
-You have learned to use magic not for power, primarily, but for your own entertainment. You are specialized in mischievous magic tricks not eminently known to the masses, which you use to deceive, prank, and irritate anyone unlucky enough to cross your path.
+You have learned to use magic in unexpected and creative ways. You are specialized in mischievous magic tricks not eminently known to the masses, which you use to deceive, outwit, and irritate anyone unlucky enough to cross your path.
 
 # Spellcasting
 When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
