@@ -10,6 +10,10 @@
     <span class="tooltip-content">
       {{ subpage.excerpt }}
     </span>
+  {% else %}
+    <span class="tooltip-content">
+      {{ collection }}
+    </span>
   {% endif %}
 </span>
 {% endcapture %}{{ sublink | strip_newlines | strip }}
