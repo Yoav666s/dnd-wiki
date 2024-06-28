@@ -1,4 +1,16 @@
 {% capture sublink %}
 {% assign index = include.title | slugify %}
-<a href="{{ page.permalink | append: index | relative_url }}">{{ include.title }}</a>
+{% assign collection_name = page.permalink | split: "/" | first %}
+{% assign collection = site.collections[collection_name] %}
+{% assign subpage = collection | where: "index", index %}
+<span class="tooltip">
+  <a href="{{ page.permalink | append: index | relative_url }}" class="tooltip-link">
+    {{ include.title }}
+  </a>
+  {% if subpage %}
+    <span class="tooltip-content">
+      {{ subpage.excerpt }}
+    </span>
+  {% endif %}
+</span>
 {% endcapture %}{{ sublink | strip_newlines | strip }}
