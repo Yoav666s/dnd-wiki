@@ -1,6 +1,8 @@
 ---
 title: "Combat"
+index: "combat"
 permalink: /rules/combat/
+chapter: 9
 excerpt: "The clatter of a sword striking against a shield. The terrible rending sound as monstrous claws tear through armor. A brilliant flash of light as a ball of flame blossoms from a wizard’s spell. The sharp tang of blood in the air, cutting through the stench of vile monsters. Roars of fury, shouts of triumph, cries of pain. Combat in D&D can be chaotic, deadly, and thrilling."
 source: "Basic Rules"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Adventuring"
+index: "adventuring"
 permalink: /rules/adventuring/
+chapter: 8
 excerpt: "Delving into the ancient Tomb of Horrors, slipping through the back alleys of Waterdeep, hacking a fresh trail through the thick jungles on the Isle of Dread—these are the things that Dungeons & Dragons adventures are made of. "
 source: "Basic Rules"
 ---
