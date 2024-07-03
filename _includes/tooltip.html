@@ -1,6 +1,6 @@
 {% capture tooltip_content %}
 {% if include.title contains ':' %}
-  {% assign collection = include.title | split: ":" | first %}
+  {% assign collection = include.title | split: ":" | first %}{{ collection }}
   {% assign title = include.title | split: ":" | last %}
 {% else %}
   {% assign collection = page.permalink | split: "/" | slice: 1 | first %}
