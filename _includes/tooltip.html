@@ -53,7 +53,7 @@
     <a href="{{ subpage.permalink | relative_url | append: tag }}" class="tooltip-link">
       {{ title }}
     </a>
-    <span class="tooltip-content">
+    <span class="tooltip-content"{% if tag %} style="width: 150px;"{% endif %}>
       {% if tag %}
         <strong>{{ header | capitalize }}</strong> ({{ subpage.title }})<br>
       {% else %}
