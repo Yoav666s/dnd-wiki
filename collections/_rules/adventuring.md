@@ -92,7 +92,7 @@ A character might occupy the front rank, one or more middle ranks, or the back r
 **Fewer Than Three Ranks.** If an adventuring party arranges its marching order with only two ranks, they are a front rank and a back rank. If there’s only one rank, it’s considered a front rank.
 
 ### Stealth
-While traveling at a slow pace, the characters can move stealthily. As long as they’re not in the open, they can try to surprise or sneak by other creatures they encounter. See the rules for hiding in the [Ability Scores](/rules/ability-scores/#hiding) section.
+While traveling at a slow pace, the characters can move stealthily. As long as they’re not in the open, they can try to surprise or sneak by other creatures they encounter. See the rules for hiding in the [[Ability Scores#hiding]] section.
 
 #### Splitting up the Party
 Sometimes, it makes sense to split an adventuring party, especially if you want one or more characters to scout ahead. You can form multiple parties, each moving at a different speed. Each group has its own front, middle, and back ranks.
