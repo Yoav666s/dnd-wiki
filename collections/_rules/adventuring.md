@@ -3,10 +3,10 @@ title: "Adventuring"
 index: "adventuring"
 permalink: /rules/adventuring/
 chapter: 8
-excerpt: "Delving into the ancient Tomb of Horrors, slipping through the back alleys of Waterdeep, hacking a fresh trail through the thick jungles on the Isle of Dread—these are the things that Dungeons & Dragons adventures are made of. "
+excerpt: "Delving into the ancient Tomb of Horrors, slipping through the back alleys of Waterdeep, hacking a fresh trail through the thick jungles on the Isle of Dread--these are the things that Dungeons & Dragons adventures are made of. "
 source: "Basic Rules"
 ---
-Delving into the ancient Tomb of Horrors, slipping through the back alleys of Waterdeep, hacking a fresh trail through the thick jungles on the Isle of Dread—these are the things that Dungeons & Dragons adventures are made of. Your character in the game might explore forgotten ruins and uncharted lands, uncover dark secrets and sinister plots, and slay foul monsters. And if all goes well, your character will survive to claim rich rewards before embarking on a new adventure.
+Delving into the ancient Tomb of Horrors, slipping through the back alleys of Waterdeep, hacking a fresh trail through the thick jungles on the Isle of Dread--these are the things that Dungeons & Dragons adventures are made of. Your character in the game might explore forgotten ruins and uncharted lands, uncover dark secrets and sinister plots, and slay foul monsters. And if all goes well, your character will survive to claim rich rewards before embarking on a new adventure.
 
 This section covers the basics of the adventuring life, from the mechanics of movement to the complexities of social interaction. The rules for resting are also in this section, along with a discussion of the activities your character might pursue between adventures.
 

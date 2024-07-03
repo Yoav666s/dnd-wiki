@@ -170,7 +170,7 @@ If a square costs extra movement, as a square of difficult terrain does, you mus
 
 *Corners.* Diagonal movement can’t cross the corner of a wall, large tree, or other terrain feature that fills its space.
 
-*Ranges.* To determine the range on a grid between two things—whether creatures or objects—start counting squares from a square adjacent to one of them and stop counting in the space of the other one. Count by the shortest route.
+*Ranges.* To determine the range on a grid between two things--whether creatures or objects--start counting squares from a square adjacent to one of them and stop counting in the space of the other one. Count by the shortest route.
 
 # Actions in Combat
 When you take your action on your turn, you can take one of the actions presented here, an action you gained from your class or a special feature, or an action that you improvise. Many monsters have action options of their own in their stat blocks.
