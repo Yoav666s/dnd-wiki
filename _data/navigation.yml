@@ -32,8 +32,8 @@ rules:
   #   children:
   - title: "Playing The Game"
     part: 2
-  - title: "Spell Lists"
-    part: spell-list
+  - title: "The Rules of Magic"
+    part: 3
 
 spells:
   - title: "Cantrip"

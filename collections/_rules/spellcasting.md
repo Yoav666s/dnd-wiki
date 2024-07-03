@@ -4,7 +4,7 @@ index: "spellcasting"
 permalink: /rules/spellcasting/
 excerpt: "Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways."
 source: "Basic Rules"
-part: 2
+part: 3
 chapter: 10
 ---
 Magic permeates the worlds of D&D and most often appears in the form of a spell.

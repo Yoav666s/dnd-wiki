@@ -1,13 +1,14 @@
 ---
-title: "Mischievous Apprentice Spell List"
-index: "mischievous-apprentice-spell-list"
+title: "Mischievous Apprentice Spells"
+index: "mischievous-apprentice-spells"
 permalink: /rules/spell-list/mischievous-apprentice/
 excerpt: "[Read More](/classes/rogue/mischievous-apprentice/){: .btn .btn--light-outline .btn--small}"
 layout: spellist
 class: "Rogue"
 subclass: "Mischievous Apprentice"
 toc: false
-part: spell-list
+part: 3
+chapter: 11.9
 additional_spells:
   - Light
   - Message
