@@ -22,7 +22,7 @@
 {% if tag %}
   {% assign tag = tag | slugify | prepend: "#" %}
   {% assign header = tag | replace: "-", " " | remove: "#" %}
-  {% assign header_key = header | append: "\n" %}
+  {% assign header_key = header | append: ">" | append: "<" %}
 {% endif %}
 {% assign spell = site.spells | where: "index", index | first %}
 {% assign tooltip = site.tooltips | where: "index", index | first %}
@@ -55,10 +55,10 @@
     </a>
     <span class="tooltip-content">
       {% if tag %}
-        <strong>{{ header | capitalize }}</strong>({{ subpage.title }})<br>
-        <i>{{ subpage.content | strip_html | downcase | split: header_key | slice: 1 | first | remove: "[[" | remove: "]]" | slice: 0, 60 | capitalize }}...</i>
+        <strong>{{ header | capitalize }}</strong> ({{ subpage.title }})<br>
+        <i>{{ subpage.content | downcase | split: header_key | slice: 1 | first | strip_html | remove: "[[" | remove: "]]" | slice: 0, 100 | capitalize }}...</i>
       {% else %}
-        {{ subpage.excerpt | slice: 0, 60 }}{% if subpage.excerpt.size > 60 %}...{% endif %}
+        {{ subpage.excerpt | slice: 0, 100 }}{% if subpage.excerpt.size > 100 %}...{% endif %}
       {% endif %}
     </span>
   </span>
