@@ -22,7 +22,7 @@
 {% if tag %}
   {% assign tag = tag | slugify | prepend: "#" %}
   {% assign header = tag | replace: "-", " " | remove: "#" %}
-  {% assign header_key = header | append: '\n' %}
+  {% assign header_key = header | prepend: "# " %}
 {% endif %}
 {% assign spell = site.spells | where: "index", index | first %}
 {% assign tooltip = site.tooltips | where: "index", index | first %}
