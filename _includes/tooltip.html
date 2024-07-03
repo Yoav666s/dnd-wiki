@@ -6,11 +6,20 @@
   {% assign collection = page.permalink | split: "/" | slice: 1 | first %}
   {% assign title = include.title %}
 {% endif %}
-{% if title contains "#" %}
-  {% assign tag = title | split: "#" | last | slugify | prepend: "#" %}
+{% if title contains "@" %}
+  {% assign index = title | split: "@" | last | slugify %}
+  {% assign title = title | split: "@" | first %}
+  {% assign tag = title %}
+{% elsif title contains "#" %}
+  {% assign tag = title | split: "#" | last %}
   {% assign title = title | split: "#" | first %}
 {% endif %}
-{% assign index = title | slugify %}
+{% if tag %}
+  {% assign tag = tag | slugify | prepend: "#" %}
+{% endif %}
+{% unless index %}
+  {% assign index = title | slugify %}
+{% endunless %}
 {% assign spell = site.spells | where: "index", index | first %}
 {% assign tooltip = site.tooltips | where: "index", index | first %}
 {% assign subpage = site[collection] | where: "index", index | first %}
