@@ -21,8 +21,6 @@
 {% endif %}
 {% if tag %}
   {% assign tag = tag | slugify | prepend: "#" %}
-  {% assign header = tag | replace: "-", " " | remove: "#" %}
-  {% assign header_key = header | prepend: "# " %}
 {% endif %}
 {% assign spell = site.spells | where: "index", index | first %}
 {% assign tooltip = site.tooltips | where: "index", index | first %}
@@ -53,9 +51,9 @@
     <a href="{{ subpage.permalink | relative_url | append: tag }}" class="tooltip-link">
       {{ title }}
     </a>
-    <span class="tooltip-content"{% if tag %} style="width: 150px;"{% endif %}>
+    <span class="tooltip-content"{% if tag %} style="width: {{ tag | size | times: 16 }}px;"{% endif %}>
       {% if tag %}
-        <strong>{{ header | capitalize }}</strong> ({{ subpage.title }})<br>
+        <strong>{{ tag | replace: "-", " " | remove: "#" | capitalize }}</strong> ({{ subpage.title }})<br>
       {% else %}
         {{ subpage.excerpt | slice: 0, 100 }}{% if subpage.excerpt.size > 100 %}...{% endif %}
       {% endif %}
