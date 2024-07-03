@@ -7,7 +7,7 @@ layout: spellist
 class: "Rogue"
 subclass: "Mischievous Apprentice"
 toc: false
-part: 3
+part: 3.5
 chapter: 11.9
 additional_spells:
   - Light

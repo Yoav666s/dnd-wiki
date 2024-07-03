@@ -34,6 +34,9 @@ rules:
     part: 2
   - title: "The Rules of Magic"
     part: 3
+  - title: "Spells"
+    url: /spells/
+    part: 3.5
 
 spells:
   - title: "Cantrip"
