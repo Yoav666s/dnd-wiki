@@ -1,10 +1,14 @@
 {% capture tooltip_content %}
 {% if include.title contains ':' %}
-  {% assign collection = include.title | split: ":" | first %}{{ collection }}
+  {% assign collection = include.title | split: ":" | first %}
   {% assign title = include.title | split: ":" | last %}
 {% else %}
   {% assign collection = page.permalink | split: "/" | slice: 1 | first %}
   {% assign title = include.title %}
+{% endif %}
+{% if title contains "#" %}
+  {% assign tag = title | split: "#" | last | slugify | prepend: "#" %}
+  {% assign title = title | split: "#" | first %}
 {% endif %}
 {% assign index = title | slugify %}
 {% assign spell = site.spells | where: "index", index | first %}
@@ -12,7 +16,7 @@
 {% assign subpage = site[collection] | where: "index", index | first %}
 {% if spell %}
 <span class="tooltip">
-  <a href="{{ spell.permalink }}" class="tooltip-link">
+  <a href="{{ spell.permalink | append: tag }}" class="tooltip-link">
     {{ title }}
   </a>
   <span class="tooltip-content">
@@ -22,7 +26,7 @@
 </span>
 {% elsif tooltip %}
 <span class="tooltip">
-  <a {% if tooltip.link %}href="{{ tooltip.link }}" {% endif %}class="tooltip-link">
+  <a {% if tooltip.link %}href="{{ tooltip.link | append: tag }}" {% endif %}class="tooltip-link">
     {{ title }}
   </a>
   {% if tooltip.content %}
@@ -33,7 +37,7 @@
 </span>
 {% elsif subpage %}
   <span class="tooltip">
-    <a href="{{ page.permalink | append: index | relative_url }}" class="tooltip-link">
+    <a href="{{ page.permalink | append: index | relative_url | append: tag }}" class="tooltip-link">
       {{ title }}
     </a>
     {% if subpage %}

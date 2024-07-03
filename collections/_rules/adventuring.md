@@ -106,7 +106,7 @@ While traveling at a fast pace, characters take a –5 penalty to their passive 
 
 **Encountering Creatures.** If the DM determines that the adventurers encounter other creatures while they’re traveling, it’s up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, run away, or wait to see what the other group does.
 
-**Surprising Foes.** If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be surprised when combat erupts. See the [Combat](/rules/combat/#surprise) section for more about surprise.
+**Surprising Foes.** If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be surprised when combat erupts. See the [[Combat#surprise]] section for more about surprise.
 
 ### Other Activities
 Characters who turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don’t contribute their passive Wisdom ([[Perception]]) scores to the group’s chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM’s permission.
@@ -236,7 +236,7 @@ In addition to roleplaying, ability checks are key in determining the outcome of
 
 Your roleplaying efforts can alter an NPC’s attitude, but there might still be an element of chance in the situation. For example, your DM can call for a Charisma check at any point during an interaction if he or she wants the dice to play a role in determining an NPC’s reactions. Other checks might be appropriate in certain situations, at your DM’s discretion.
 
-Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in [[deception]] is the best bet to lead the discussion. When negotiating for a hostage’s release, the [[classes:cleric]] with [[persuasion]] should do most of the talking.
+Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in [[deception]] is the best bet to lead the discussion. When negotiating for a hostage’s release, the cleric with [[persuasion]] should do most of the talking.
 
 # Resting
 Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest--time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
