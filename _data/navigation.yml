@@ -23,12 +23,8 @@ cats:
 
 classes:
   - title: "Rogue"
+    class: rogue
     url: /classes/rogue/
-    children:
-      - title: "Mischievous Apprentice"
-        url: /classes/rogue/mischievous-apprentice/
-      - title: "Thief"
-        url: /classes/rogue/thief/
 
 rules:
   # - title: "Creating A Character"
@@ -36,7 +32,6 @@ rules:
   #   children:
   - title: "Playing The Game"
     part: 2
-
   - title: "Spell Lists"
     part: spell-list
 

@@ -377,7 +377,6 @@ defaults:
       sidebar:
         nav:
           - classes
-          - cats
       header:
         overlay_image: /assets/images/classes/header.png
         overlay_filter: 0.375
@@ -393,7 +392,7 @@ defaults:
       layout: single
       sidebar:
         nav:
-          - cats
+          - feats
       header:
         overlay_image: /assets/images/classes/header.png
         overlay_filter: 0.375
@@ -408,7 +407,7 @@ defaults:
       layout: single
       sidebar:
         nav:
-          - cats
+          - lore
       header:
         overlay_image: /assets/images/lore/header.png
         overlay_filter: 0.375
@@ -424,7 +423,7 @@ defaults:
       layout: single
       sidebar:
         nav:
-          - cats
+          - races
       header:
         overlay_image: /assets/images/races/header.png
         overlay_filter: 0.375
@@ -441,7 +440,6 @@ defaults:
       sidebar:
         nav:
           - rules
-          - cats
       header:
         overlay_image: /assets/images/rules/header.png
         overlay_filter: 0.375
@@ -458,7 +456,6 @@ defaults:
       sidebar:
         nav:
           - spells
-          - cats
       header:
         overlay_image: /assets/images/spells/header.png
         overlay_filter: 0.375
@@ -472,7 +469,7 @@ defaults:
       layout: single
       sidebar:
         nav:
-          - cats
+          - items
       header:
         overlay_image: /assets/images/items/header.png
         overlay_filter: 0.375
