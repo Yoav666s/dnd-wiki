@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/trifling/header.jpg
 ---
 
-> “We're not the exception, but the rule.
+> "We're not the exception, but the rule.
 >
 > The rivers upon which bridges are built, the ale you pour down your gullet,
 >
@@ -22,7 +22,7 @@ header:
 >
 > Whatever you do, wherever you go, whomever you meet,
 >
-> we are all there is.”
+> we are all there is."
 >
 > — Unknown, unimportant
 

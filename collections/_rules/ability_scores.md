@@ -130,7 +130,7 @@ The skills related to each ability score are shown in the following list. (No sk
 - [[Performance]]
 - [[Persuasion]]
 
-Sometimes, the DM might ask for an ability check using a specific skill--for example, “Make a Wisdom (Perception) check.” At other times, a player might ask the DM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
+Sometimes, the DM might ask for an ability check using a specific skill--for example, "Make a Wisdom (Perception) check." At other times, a player might ask the DM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
 
 For example, if a character attempts to climb up a dangerous cliff, the DM might ask for a Strength (Athletics) check. If the character is proficient in Athletics, the character's proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.
 

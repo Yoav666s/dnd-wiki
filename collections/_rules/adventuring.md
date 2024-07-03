@@ -202,7 +202,7 @@ With this approach, you describe your character’s words and actions to the DM 
 
 For instance, Chris plays Tordek the dwarf. Tordek has a quick temper and blames the elves of the Cloakwood for his family’s misfortune. At a tavern, an obnoxious elf minstrel sits at Tordek’s table and tries to strike up a conversation with the dwarf.
 
-Chris says, “Tordek spits on the floor, growls an insult at the bard, and stomps over to the bar. He sits on a stool and glares at the minstrel before ordering another drink.”
+Chris says, "Tordek spits on the floor, growls an insult at the bard, and stomps over to the bar. He sits on a stool and glares at the minstrel before ordering another drink."
 
 In this example, Chris has conveyed Tordek’s mood and given the DM a clear idea of his character’s attitude and actions.
 
@@ -221,7 +221,7 @@ When you use active roleplaying, you speak with your character’s voice, like a
 
 Going back to the example of Chris roleplaying Tordek above, here’s how the scene might play out if Chris used active roleplaying:
 
-Speaking as Tordek, Chris says in a gruff, deep voice, “I was wondering why it suddenly smelled awful in here. If I wanted to hear anything out of you, I’d snap your arm and enjoy your screams.” In his normal voice, Chris then adds, “I get up, glare at the elf, and head to the bar.”
+Speaking as Tordek, Chris says in a gruff, deep voice, "I was wondering why it suddenly smelled awful in here. If I wanted to hear anything out of you, I’d snap your arm and enjoy your screams." In his normal voice, Chris then adds, "I get up, glare at the elf, and head to the bar."
 
 ### Results of Roleplaying
 The DM uses your character’s actions and attitudes to determine how an NPC reacts. A cowardly NPC buckles under threats of violence. A stubborn dwarf refuses to let anyone badger her. A vain dragon laps up flattery.
