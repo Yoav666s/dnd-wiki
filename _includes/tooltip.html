@@ -1,5 +1,8 @@
 {% capture tooltip_content %}
 {% assign index = include.title | slugify %}
+{% assign permalink_parts = page.permalink | split: "/" %}
+{% assign collection = permalink_parts[1] %}
+{% assign subpage = site[collection] | where: "index", index | first %}
 {% assign tooltip = site.tooltips | where: "index", index | first %}
 {% assign spell = site.spells | where: "index", index | first %}
 {% if spell %}
@@ -23,6 +26,17 @@
     </span>
   {% endif %}
 </span>
+{% elsif subpage %}
+  <span class="tooltip">
+    <a href="{{ page.permalink | append: index | relative_url }}" class="tooltip-link">
+      {{ include.title }}
+    </a>
+    {% if subpage %}
+      <span class="tooltip-content">
+        {{ subpage.excerpt }}
+      </span>
+    {% endif %}
+  </span>
 {% else %}
   <a href="#{{ index }}" >{{ include.title }}</a>
 {% endif %}

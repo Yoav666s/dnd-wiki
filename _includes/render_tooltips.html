@@ -9,7 +9,7 @@
   {% elsif word contains "[:" %}
     {% assign start = "[:" %}
     {% assign end = ":]" %}
-    {% assign type = "sublink" %}
+    {% assign type = "not_implemented" %}
   {% endif %}
   {% if word contains start %}
     {% assign before = word | split: start | first %}
@@ -32,7 +32,7 @@
     {% capture component %}
       {% case type %}
         {% when "tooltip" %}{% include tooltip.html title=title %}
-        {% when "sublink" %}{% include sublink.html title=title %}
+        {% when "not_implemented" %}{{ title }}
       {% endcase %}
     {% endcapture %}
     {% assign type = nil %}
