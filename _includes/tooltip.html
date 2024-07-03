@@ -37,7 +37,7 @@
 </span>
 {% elsif subpage %}
   <span class="tooltip">
-    <a href="{{ page.permalink | append: index | relative_url | append: tag }}" class="tooltip-link">
+    <a href="{{ subpage.permalink | relative_url | append: tag }}" class="tooltip-link">
       {{ title }}
     </a>
     {% if subpage %}
