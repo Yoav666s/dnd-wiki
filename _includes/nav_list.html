@@ -8,6 +8,7 @@
       {% for nav in navigation %}
         <li>
           {% assign level_spells = site.spells | where: "level", nav.title | sort: "title" %}
+          {% assign rule_chapters = site.rules | where: "part", nav.part | sort: "chapter" %}
           {% if nav.url %}
             <a href="{{ nav.url | relative_url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
           {% else %}
@@ -26,6 +27,13 @@
           <ul>
             {% for spell in level_spells %}
               <li><a href="{{ spell.url | relative_url }}"{% if spell.url == page.url %} class="active"{% endif %}>{{ spell.title }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+          {% if rule_chapters %}
+          <ul>
+            {% for chapter in rule_chapters %}
+              <li><a href="{{ chapter.url | relative_url }}"{% if chapter.url == page.url %} class="active"{% endif %}>{{ chapter.title }}</a></li>
             {% endfor %}
           </ul>
           {% endif %}

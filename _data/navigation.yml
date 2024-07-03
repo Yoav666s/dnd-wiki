@@ -32,18 +32,13 @@ classes:
 
 rules:
   # - title: "Creating A Character"
+  #   part: 1
   #   children:
   - title: "Playing The Game"
-    children:
-      - title: "Ability Scores"
-        url: /rules/ability-scores/
-      - title: "Adventuring"
-        url: /rules/adventuring/
+    part: 2
 
   - title: "Spell Lists"
-    children:
-      - title: "Mischievous Apprentice"
-        url: /rules/spell-list/mischievous-apprentice/
+    part: spell-list
 
 spells:
   - title: "Cantrip"
