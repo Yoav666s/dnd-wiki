@@ -13,7 +13,7 @@
 {% if spell %}
 <span class="tooltip">
   <a href="{{ spell.permalink }}" class="tooltip-link">
-    {{ include.title }}
+    {{ title }}
   </a>
   <span class="tooltip-content">
     <strong>{{ spell.level }}</strong> ({{ spell.school }})<br>
@@ -23,7 +23,7 @@
 {% elsif tooltip %}
 <span class="tooltip">
   <a {% if tooltip.link %}href="{{ tooltip.link }}" {% endif %}class="tooltip-link">
-    {{ include.title }}
+    {{ title }}
   </a>
   {% if tooltip.content %}
     <span class="tooltip-content">
@@ -34,7 +34,7 @@
 {% elsif subpage %}
   <span class="tooltip">
     <a href="{{ page.permalink | append: index | relative_url }}" class="tooltip-link">
-      {{ include.title }}
+      {{ title }}
     </a>
     {% if subpage %}
       <span class="tooltip-content">
@@ -43,6 +43,6 @@
     {% endif %}
   </span>
 {% else %}
-  <a href="#{{ index }}" >{{ include.title }}</a>
+  <a href="#{{ index }}" >{{ title }}</a>
 {% endif %}
 {% endcapture %}{{ tooltip_content | strip_newlines | strip }}
