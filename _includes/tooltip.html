@@ -4,7 +4,7 @@
   {% assign title = include.title | split: ":" | last %}
 {% else %}
   {% assign collection = page.permalink | split: "/" | slice: 1 %}
-  {% asign title = include.title %}
+  {% assign title = include.title %}
 {% endif %}
 {% assign index = title | slugify %}
 {% assign spell = site.spells | where: "index", index | first %}
