@@ -176,7 +176,7 @@ Some spells require the caster to make an attack roll to determine whether the s
 
 Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't incapacitated.
 
-> **The Schools of Magic**
+> ## The Schools of Magic
 >
 > Academies of magic group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
 >
