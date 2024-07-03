@@ -3,7 +3,7 @@
   {% assign collection = include.title | split: ":" | first %}
   {% assign title = include.title | split: ":" | last %}
 {% else %}
-  {% assign collection = page.permalink | split: "/" | slice: 1 %}
+  {% assign collection = page.permalink | split: "/" | slice: 1 | first %}
   {% assign title = include.title %}
 {% endif %}
 {% assign index = title | slugify %}
