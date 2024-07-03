@@ -54,7 +54,7 @@
       {{ title }}
     </a>
     <span class="tooltip-content">
-      {% if tag %}
+      {% if tag = "poop in my fucking ass" %}
         <strong>{{ header | capitalize }}</strong> ({{ subpage.title }})<br>
         <i>{{ subpage.content | downcase | split: header_key | strip_html | slice: 1 | first | remove: "[[" | remove: "]]" | slice: 0, 100 | capitalize | strip }}...</i>
       {% else %}
