@@ -18,7 +18,7 @@ Spells can be versatile tools, weapons, or protective wards. They can deal damag
 Uncounted thousands of spells have been created over the course of the multiverse's history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and wisdom to do so.
 
 ## Spell Level
-Every spell has a level from 0 to 9. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) [[magic missile]] at 1st level and the earth-shaking [[wish]] at 9th. Cantrips--simple but powerful spells that characters can cast almost by rote -- are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.
+Every spell has a level from 0 to 9. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) [[magic missile]] at 1st level and the earth-shaking [[wish]] at 9th. Cantrips--simple but powerful spells that characters can cast almost by rote--are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.
 
 Spell level and character level don't correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th-level spell.
 
@@ -92,4 +92,4 @@ Spellcasting gestures might include a forceful gesticulation or an intricate set
 ### Material (M)
 Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a component pouch or a spellcasting focus (found in [[Equipment]]) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.
 
-If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell. A spellcaster must have a hand free to access a spell's material components -- or to hold a spellcasting focus -- but it can be the same hand that he or she uses to perform somatic components.
+If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell. A spellcaster must have a hand free to access a spell's material components--or to hold a spellcasting focus--but it can be the same hand that he or she uses to perform somatic components.
