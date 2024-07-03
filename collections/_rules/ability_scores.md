@@ -2,7 +2,7 @@
 title: "Ability Scores"
 index: "ability-scores"
 permalink: /rules/ability-scores/
-excerpt: "Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities--a creature’s assets as well as weaknesses."
+excerpt: "Each of a creature’s abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature’s training and competence in activities related to that ability."
 source: "Basic Rules"
 part: 2
 chapter: 7

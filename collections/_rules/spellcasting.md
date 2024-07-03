@@ -2,7 +2,7 @@
 title: "Spellcasting"
 index: "spellcasting"
 permalink: /rules/spellcasting/
-excerpt: "Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways."
+excerpt: "This section provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here."
 source: "Basic Rules"
 part: 3
 chapter: 10
