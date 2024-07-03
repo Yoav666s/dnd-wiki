@@ -13,7 +13,9 @@
 {% if title contains "@" %}
   {% assign index = title | split: "@" | last | slugify %}
   {% assign title = title | split: "@" | first %}
-  {% assign tag = title %}
+  {% unless tag %}
+    {% assign tag = title %}
+  {% endunless %}
 {% else %}
   {% assign index = title | slugify %}
 {% endif %}

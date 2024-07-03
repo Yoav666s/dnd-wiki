@@ -148,7 +148,7 @@ Here's how to determine a character's total for a passive check:
 If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a **score**.
 
 For example, if a 1st-level character has a Wisdom of 15 and proficiency in [[perception]], he or she has a passive Wisdom ([[Perception]]) score of 14. \
-The rules on [[hiding]] rely on passive checks, as do the [exploration](/rules/adventuring/#noticing-threats) rules.
+The rules on [[hiding]] rely on passive checks, as do the [exploration@adventuring#noticing-threats] rules.
 
 # Working Together
 Sometimes two or more characters team up to attempt a task. The character who's leading the effort--or the one with the highest ability modifier--can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.
