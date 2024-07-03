@@ -21,6 +21,7 @@
 {% endif %}
 {% if tag %}
   {% assign tag = tag | slugify | prepend: "#" %}
+  {% header = tag | replace: "-", " " | remove: "#" %}
 {% endif %}
 {% assign spell = site.spells | where: "index", index | first %}
 {% assign tooltip = site.tooltips | where: "index", index | first %}
@@ -51,12 +52,14 @@
     <a href="{{ subpage.permalink | relative_url | append: tag }}" class="tooltip-link">
       {{ title }}
     </a>
-    {% if subpage %}
-      <span class="tooltip-content">
-        <strong>{{ subpage.title }}</strong><br>
-        <i>{{ subpage.excerpt }}</i>
-      </span>
-    {% endif %}
+    <span class="tooltip-content">
+      {% if tag %}
+        <strong>{{ header | capitalize }}</strong> ({{ subpage.title }})<br>
+        <i>{{ subpage.content | strip_html | downcase | split: header | slice: 1 | first | slice: 0, 60 }}...</i>
+      {% else %}
+        {{ subpage.excerpt | slice: 0, 60 }}{% if subpage.excerpt.size > 60 %}...{% endif %}
+      {% endif %}
+    </span>
   </span>
 {% else %}
   <a href="#{{ index }}" >{{ title }}</a>
