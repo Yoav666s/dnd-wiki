@@ -1,9 +1,9 @@
 {% capture tooltip_content %}
-{% if ':' in include.title %}
+{% if include.title contains ':' %}
   {% assign collection = include.title | split: ":" | first %}
   {% assign title = include.title | split: ":" | last %}
 {% else %}
-  {% assign collection = page.permalink | split: "/" | slice: 1 %}
+  {% assign permalink_split = page.permalink | split: "/" | slice: 1 %}
   {% assign title = include.title %}
 {% endif %}
 {% assign index = title | slugify %}
