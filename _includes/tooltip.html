@@ -1,9 +1,14 @@
 {% capture tooltip_content %}
-{% assign index = include.title | slugify %}
+{% if ':' in include.title %}
+  {% assign collection = include.title | split: ":" | first %}
+  {% assign title = include.title | split: ":" | last %}
+{% else %}
+  {% assign collection = page.permalink | split: "/" | slice: 1 %}
+  {% asign title = include.title %}
+{% endif %}
+{% assign index = title | slugify %}
 {% assign spell = site.spells | where: "index", index | first %}
 {% assign tooltip = site.tooltips | where: "index", index | first %}
-{% assign permalink_parts = page.permalink | split: "/" %}
-{% assign collection = permalink_parts[1] %}
 {% assign subpage = site[collection] | where: "index", index | first %}
 {% if spell %}
 <span class="tooltip">
