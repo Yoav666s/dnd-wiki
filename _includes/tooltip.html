@@ -21,7 +21,7 @@
 {% endif %}
 {% if tag %}
   {% assign tag = tag | slugify | prepend: "#" %}
-  {% header = tag | replace: "-", " " | remove: "#" %}
+  {% assign header = tag | replace: "-", " " | remove: "#" %}
 {% endif %}
 {% assign spell = site.spells | where: "index", index | first %}
 {% assign tooltip = site.tooltips | where: "index", index | first %}
