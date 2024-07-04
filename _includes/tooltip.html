@@ -53,8 +53,8 @@
     </a>
     {% if tag %}
       {% if title.size > tag.size %}{% assign max = title.size %}
-      {% elsif tag.size > 7 %}{% assign max = tag.size %}
-      {% else %}{% assign max = 8 %}{% endif %}
+      {% else%}{% assign max = tag.size %}{% endif %}
+      {% unless max > 7 %}{% assign max = 8 %}{% endunless %}
     {% endif %}
     <span class="tooltip-content"{% if tag %} style="width: {{ max | times: 10.1 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
       {% if tag %}
