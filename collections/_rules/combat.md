@@ -24,7 +24,7 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 ## Surprise
 A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A [[gelatinous cube]] glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
 
-The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ([[Stealth]]) checks of anyone hiding with the passive Wisdom ([[Perception]]) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.
+The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ([[Stealth]]) checks of anyone [[hiding]] with the passive Wisdom ([[Perception]]) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.
 
 If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't.
 
@@ -205,7 +205,7 @@ You can lend your aid to another creature in the completion of a task. When you 
 Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
 
 ## Hide
-When you take the Hide action, you make a Dexterity ([[Stealth]]) check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the "[[Unseen Attackers and Targets]]" section later in this section.
+When you take the Hide action, you make a Dexterity ([[Stealth]]) check in an attempt to hide, following the rules for [[hiding]]. If you succeed, you gain certain benefits, as described in the "[[Unseen Attackers and Targets]]" section later in this section.
 
 ## Ready
 Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
@@ -259,7 +259,7 @@ If the d20 roll for an attack is a 20, the attack hits regardless of any modifie
 If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target's AC.
 
 ## Unseen Attackers and Targets
-Combatants often try to escape their foes' notice by hiding, casting the [[invisibility]] spell, or lurking in darkness.
+Combatants often try to escape their foes' notice by [[hiding]], casting the [[invisibility]] spell, or lurking in darkness.
 
 When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the DM typically just says that the attack missed, not whether you guessed the target's location correctly.
 
