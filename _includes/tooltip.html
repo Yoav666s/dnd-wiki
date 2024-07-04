@@ -51,7 +51,11 @@
     <a href="{{ subpage.permalink | relative_url | append: tag }}" class="tooltip-link">
       {{ title }}
     </a>
-    <span class="tooltip-content"{% if tag %} style="width: {{ tag | size | times: 10.1 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
+    {% if tag %}
+      {% if title.size > tag.size %}{% assign bigger = title.size %}
+      {% else %}{% assign bigger = tag.size %}
+    {% endif %}
+    <span class="tooltip-content"{% if tag %} style="width: {{ bigger | times: 10.1 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
       {% if tag %}
         <strong>{{ tag | replace: "-", " " | remove: "#" | capitalize }}</strong> ({{ subpage.title }})<br>
       {% else %}
