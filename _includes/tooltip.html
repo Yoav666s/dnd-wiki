@@ -42,7 +42,8 @@
   </a>
   {% if tooltip.content %}
     <span class="tooltip-content">
-      {{ tooltip.content }}
+      <strong>{{ tooltip.title }}</strong><br>
+      <i>{{ tooltip.content }}</i>
     </span>
   {% endif %}
 </span>
@@ -60,11 +61,11 @@
       {% if tag %}
         <strong>{{ tag | replace: "-", " " | remove: "#" | capitalize }}</strong><br>{{ subpage.title }}<br>
       {% else %}
-        {{ subpage.excerpt | slice: 0, 100 }}{% if subpage.excerpt.size > 100 %}...{% endif %}
+        {{ subpage.excerpt | slice: 0, 150 }}{% if subpage.excerpt.size > 150 %}...{% endif %}
       {% endif %}
     </span>
   </span>
 {% else %}
-  <a href="#{{ index }}" >{{ title }}</a>
+  <a href="#{{ index }}">{{ title }}</a>
 {% endif %}
 {% endcapture %}{{ tooltip_content | strip_newlines | strip }}
