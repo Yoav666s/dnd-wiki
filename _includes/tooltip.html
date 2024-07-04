@@ -55,7 +55,7 @@
       {% if title.size > tag.size %}{% assign bigger = title.size %}
       {% else %}{% assign bigger = tag.size %}{% endif %}
     {% endif %}
-    <span class="tooltip-content"{% if tag %} style="width: {{ bigger | times: 10.1 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
+    <span class="tooltip-content"{% if tag %} style="width: {{ bigger | times: 11 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
       {% if tag %}
         <strong>{{ tag | replace: "-", " " | remove: "#" | capitalize }}</strong><br>{{ subpage.title }}<br>
       {% else %}
