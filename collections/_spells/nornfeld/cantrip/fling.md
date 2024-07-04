@@ -18,7 +18,7 @@ comp:
 attack: "Ranged"
 effect: "Bludgeoning"
 description: |
-  Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 60 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. You may send it towards one of your free hands and catch it.
+  Choose one object weighing 1 to 5 pounds within range that isn't being worn or carried. The object flies in a straight line up to 60 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. You may send it towards one of your free hands and catch it.
 
   If the object would strike a creature after traveling at least 10 feet, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 1d8 bludgeoning damage.
 

@@ -7,7 +7,7 @@ excerpt: "Powerful creatures that inhabit various areas in Nornfeld"
 #   teaser: /assets/images/elmersodus-large.jpg
 ---
 
-The continent of [Durn](/lore/durn/) is full of mythical creatures that reside in certain areas. Their eternal souls are their source of life, but they can be defeated. When a mythical creature is defeated, it leaves behind an [emblem](#mythical-emblems) that encapsulates its soul until it is risen again. While in that state, it’s possible to use this emblem as a source of magic (relating to the creature’s powers and abilities). This keeps the creature at bay, preventing it from returning to its true form. That also means that if the emblem is not in steady use, the creature might rise again, and the keeper of the emblem won’t be able to use its magic until the creature is defeated once more.
+The continent of [Durn](/lore/durn/) is full of mythical creatures that reside in certain areas. Their eternal souls are their source of life, but they can be defeated. When a mythical creature is defeated, it leaves behind an [emblem](#mythical-emblems) that encapsulates its soul until it is risen again. While in that state, it's possible to use this emblem as a source of magic (relating to the creature's powers and abilities). This keeps the creature at bay, preventing it from returning to its true form. That also means that if the emblem is not in steady use, the creature might rise again, and the keeper of the emblem won't be able to use its magic until the creature is defeated once more.
 Some (but not all) mythical creatures may be intelligent and capable of speech.
 
 ---
@@ -16,14 +16,14 @@ Some (but not all) mythical creatures may be intelligent and capable of speech.
 
 [![elmersodus](../../assets/images/elmersodus/normal.jpg)](../../assets/images/elmersodus/full.png)
 
-Elmersodus is a powerful dragon that commands the winds, the weather, and the . His powers affect the night sky, painting them as he sees fit. At night, he can also control the weather, the behavior of clouds and the intensity of starlight. He can see anything that’s touched by moonlight, and hear any sound the wind carries to him.
+Elmersodus is a powerful dragon that commands the winds, the weather, and the . His powers affect the night sky, painting them as he sees fit. At night, he can also control the weather, the behavior of clouds and the intensity of starlight. He can see anything that's touched by moonlight, and hear any sound the wind carries to him.
 - [Amulet of the Sentinel](#amulet-of-the-sentinel)
 
 #### [Thing of the Hollow](/lore/the-thing#thing-of-the-hollow)
 
 [![thing of the  hollow](../../assets/images/the-thing/normal.jpg)](../../assets/images/the-thing/full.png)
 
-Patron of the underground, the Thing is believed to be itself [Rock Hollow](rock-hollow#rock-hollow). It doesn’t have a consistent form, it shifts and changes its shape. It's made out of flesh, covered and infused with dirt, stone, minerals, and other things found in the Hollow.
+Patron of the underground, the Thing is believed to be itself [Rock Hollow](rock-hollow#rock-hollow). It doesn't have a consistent form, it shifts and changes its shape. It's made out of flesh, covered and infused with dirt, stone, minerals, and other things found in the Hollow.
 - [The Locket](#the-locket)
 
 ---

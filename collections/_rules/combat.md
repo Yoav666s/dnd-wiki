@@ -7,7 +7,7 @@ source: "Basic Rules"
 part: 2
 chapter: 9
 ---
-The clatter of a sword striking against a shield. The terrible rending sound as monstrous claws tear through armor. A brilliant flash of light as a ball of flame blossoms from a wizard’s spell. The sharp tang of blood in the air, cutting through the stench of vile monsters. Roars of fury, shouts of triumph, cries of pain. Combat in D&D can be chaotic, deadly, and thrilling.
+The clatter of a sword striking against a shield. The terrible rending sound as monstrous claws tear through armor. A brilliant flash of light as a ball of flame blossoms from a wizard's spell. The sharp tang of blood in the air, cutting through the stench of vile monsters. Roars of fury, shouts of triumph, cries of pain. Combat in D&D can be chaotic, deadly, and thrilling.
 
 This section provides the rules you need for your characters and monsters to engage in combat, whether it is a brief skirmish or an extended conflict in a dungeon or on a field of battle. Throughout this section, the rules address you, the player or Dungeon Master. The Dungeon Master controls all the monsters and nonplayer characters involved in combat, and each other player controls an adventurer. "You" can also mean the character or monster that you control.
 
@@ -165,11 +165,11 @@ If you play out a combat using a square grid and miniatures or other tokens, fol
 
 If you use a grid often, consider writing your speed in squares on your character sheet.
 
-*Entering a Square.* To enter a square, you must have at least 1 square of movement left, even if the square is diagonally adjacent to the square you’re in. (The rule for diagonal movement sacrifices realism for the sake of smooth play. The Dungeon Master’s Guide provides guidance on using a more realistic approach.)
+*Entering a Square.* To enter a square, you must have at least 1 square of movement left, even if the square is diagonally adjacent to the square you're in. (The rule for diagonal movement sacrifices realism for the sake of smooth play. The Dungeon Master's Guide provides guidance on using a more realistic approach.)
 
 If a square costs extra movement, as a square of difficult terrain does, you must have enough movement left to pay for entering it. For example, you must have at least 2 squares of movement left to enter a square of difficult terrain.
 
-*Corners.* Diagonal movement can’t cross the corner of a wall, large tree, or other terrain feature that fills its space.
+*Corners.* Diagonal movement can't cross the corner of a wall, large tree, or other terrain feature that fills its space.
 
 *Ranges.* To determine the range on a grid between two things--whether creatures or objects--start counting squares from a square adjacent to one of them and stop counting in the space of the other one. Count by the shortest route.
 
@@ -224,7 +224,7 @@ You normally interact with an object while doing something else, such as when yo
 
 ## Improvising an Action
 
-Your character can do things not covered by the actions in this section, such as breaking down doors, intimidating enemies, sensing weaknesses in magical defenses, or calling for a parley with a foe. The only limits to the actions you can attempt are your imagination and your character’s ability scores. See the descriptions of the ability scores in the [Ability Scores](/rules/ability-scores/) section for inspiration as you improvise.
+Your character can do things not covered by the actions in this section, such as breaking down doors, intimidating enemies, sensing weaknesses in magical defenses, or calling for a parley with a foe. The only limits to the actions you can attempt are your imagination and your character's ability scores. See the descriptions of the ability scores in the [Ability Scores](/rules/ability-scores/) section for inspiration as you improvise.
 
 When you describe an action not detailed elsewhere in the rules, the DM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 
@@ -452,20 +452,20 @@ A knight charging into battle on a warhorse, a wizard casting spells from the ba
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
 
 ## Mounting and Dismounting
-Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can’t mount it if you don’t have 15 feet of movement left or if your speed is 0.
+Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
 
-If an effect moves your mount against its will while you’re on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you’re knocked prone while mounted, you must make the same saving throw.
+If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you're knocked prone while mounted, you must make the same saving throw.
 
 If your mount is knocked [[prone]], you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet of it.
 
 ## Controlling a Mount
-While you’re mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
+While you're mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
 
 You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training. The initiative of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
 
 An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
 
-In either case, if the mount provokes an opportunity attack while you’re on it, the attacker can target you or the mount.
+In either case, if the mount provokes an opportunity attack while you're on it, the attacker can target you or the mount.
 
 # Underwater Combat
 When adventurers pursue [[sahuagin]] back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.

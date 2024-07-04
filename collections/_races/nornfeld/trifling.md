@@ -55,7 +55,7 @@ Triflings are about the same size and build as goblins. Your size is Small.
 Your base walking speed is 25 feet.
 
 ### Darkvision
-Thanks to your infernal bloodline, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Thanks to your infernal bloodline, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
 ### Infernal Invocations
 You know the produce flame cantrip. When you reach 3rd level, you can cast the disguise self spell with this trait a number of times equal to your proficiency bonus. When you reach 5th level, you can cast the invisibility spell with this trait a number of times equal to your proficiency bonus. Charisma is your spellcasting ability for these spells, and you regain all expended uses when you finish a long rest.

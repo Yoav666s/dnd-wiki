@@ -11,13 +11,13 @@ Delving into the ancient Tomb of Horrors, slipping through the back alleys of Wa
 
 This section covers the basics of the adventuring life, from the mechanics of movement to the complexities of social interaction. The rules for resting are also in this section, along with a discussion of the activities your character might pursue between adventures.
 
-Whether adventurers are exploring a dusty dungeon or the complex relationships of a royal court, the game follows a natural rhythm, as outlined in the book’s introduction:
+Whether adventurers are exploring a dusty dungeon or the complex relationships of a royal court, the game follows a natural rhythm, as outlined in the book's introduction:
 
 1. The DM describes the environment.
 1. The players describe what they want to do.
 1. The DM narrates the results of their actions.
 
-Typically, the DM uses a map as an outline of the adventure, tracking the characters’ progress as they explore dungeon corridors or wilderness regions. The DM’s notes, including a key to the map, describe what the adventurers find as they enter each new area. Sometimes, the passage of time and the adventurers’ actions determine what happens, so the DM might use a timeline or a flowchart to track their progress instead of a map.
+Typically, the DM uses a map as an outline of the adventure, tracking the characters' progress as they explore dungeon corridors or wilderness regions. The DM's notes, including a key to the map, describe what the adventurers find as they enter each new area. Sometimes, the passage of time and the adventurers' actions determine what happens, so the DM might use a timeline or a flowchart to track their progress instead of a map.
 
 # Time
 In situations where keeping track of the passage of time is important, the DM determines the time a task requires. The DM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers' movement happens on a scale of minutes. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.
@@ -66,7 +66,7 @@ You move at half speed in difficult terrain--moving 1 foot in difficult terrain 
 Movement through dangerous dungeons or wilderness areas often involves more than simply walking. Adventurers might have to climb, crawl, swim, or jump to get where they need to go.
 
 ### Climbing, Swimming, and Crawling
-Each foot of movement costs 1 extra foot (2 extra feet in difficult terrain) when you’re climbing, swimming, or crawling. You ignore this extra cost if you have a climbing speed and use it to climb or a swimming speed and use it to swim. At the DM’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength ([[Athletics]]) check. Similarly, gaining any distance in rough water might require a successful Strength ([[Athletics]]) check.
+Each foot of movement costs 1 extra foot (2 extra feet in difficult terrain) when you're climbing, swimming, or crawling. You ignore this extra cost if you have a climbing speed and use it to climb or a swimming speed and use it to swim. At the DM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength ([[Athletics]]) check. Similarly, gaining any distance in rough water might require a successful Strength ([[Athletics]]) check.
 
 ### Jumping
 Your Strength determines how far you can jump.
@@ -82,17 +82,17 @@ When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrob
 You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 1 1/2 times your height.
 
 ## Activity While Traveling
-As adventurers travel through a dungeon or the wilderness, they need to remain alert for danger, and some characters might perform other tasks to help the group’s journey.
+As adventurers travel through a dungeon or the wilderness, they need to remain alert for danger, and some characters might perform other tasks to help the group's journey.
 
 ### Marching Order
 The adventurers should establish a marching order. A marching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies when a fight breaks out.
 
 A character might occupy the front rank, one or more middle ranks, or the back rank. Characters in the front and back ranks need enough room to travel side by side with others in their rank. When space is too tight, the marching order must change, usually by moving characters to a middle rank.
 
-**Fewer Than Three Ranks.** If an adventuring party arranges its marching order with only two ranks, they are a front rank and a back rank. If there’s only one rank, it’s considered a front rank.
+**Fewer Than Three Ranks.** If an adventuring party arranges its marching order with only two ranks, they are a front rank and a back rank. If there's only one rank, it's considered a front rank.
 
 ### Stealth
-While traveling at a slow pace, the characters can move stealthily. As long as they’re not in the open, they can try to surprise or sneak by other creatures they encounter. See the rules for hiding in the [[Ability Scores#hiding]] section.
+While traveling at a slow pace, the characters can move stealthily. As long as they're not in the open, they can try to surprise or sneak by other creatures they encounter. See the rules for hiding in the [[Ability Scores#hiding]] section.
 
 #### Splitting up the Party
 Sometimes, it makes sense to split an adventuring party, especially if you want one or more characters to scout ahead. You can form multiple parties, each moving at a different speed. Each group has its own front, middle, and back ranks.
@@ -104,16 +104,16 @@ Use the passive Wisdom ([[Perception]]) scores of the characters to determine wh
 
 While traveling at a fast pace, characters take a –5 penalty to their passive Wisdom ([[Perception]]) scores to notice hidden threats.
 
-**Encountering Creatures.** If the DM determines that the adventurers encounter other creatures while they’re traveling, it’s up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, run away, or wait to see what the other group does.
+**Encountering Creatures.** If the DM determines that the adventurers encounter other creatures while they're traveling, it's up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, run away, or wait to see what the other group does.
 
 **Surprising Foes.** If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be surprised when combat erupts. See the [[Combat#surprise]] section for more about surprise.
 
 ### Other Activities
-Characters who turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don’t contribute their passive Wisdom ([[Perception]]) scores to the group’s chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM’s permission.
+Characters who turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don't contribute their passive Wisdom ([[Perception]]) scores to the group's chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM's permission.
 
 **Navigate.** The character can try to prevent the group from becoming lost, making a Wisdom ([[Survival]]) check when the DM calls for it.
 
-**Draw a Map.** The character can draw a map that records the group’s progress and helps the characters get back on course if they get lost. No ability check is required.
+**Draw a Map.** The character can draw a map that records the group's progress and helps the characters get back on course if they get lost. No ability check is required.
 
 **Track.** A character can follow the tracks of another creature, making a Wisdom ([[Survival]]) check when the DM calls for it.
 
@@ -185,58 +185,58 @@ A character can also attempt a Strength check to break an object. The DM sets th
 # Social Interaction
 Exploring dungeons, overcoming obstacles, and slaying monsters are key parts of D&D adventures. No less important, though, are the social interactions that adventurers have with other inhabitants of the world.
 
-Interaction takes on many forms. You might need to convince an unscrupulous thief to confess to some malfeasance, or you might try to flatter a dragon so that it will spare your life. The DM assumes the roles of any characters who are participating in the interaction that don’t belong to another player at the table. Any such character is called a nonplayer character (NPC).
+Interaction takes on many forms. You might need to convince an unscrupulous thief to confess to some malfeasance, or you might try to flatter a dragon so that it will spare your life. The DM assumes the roles of any characters who are participating in the interaction that don't belong to another player at the table. Any such character is called a nonplayer character (NPC).
 
-In general terms, an NPC’s attitude toward you is described as friendly, indifferent, or hostile. Friendly NPCs are predisposed to help you, and hostile ones are inclined to get in your way. It’s easier to get what you want from a friendly NPC, of course.
+In general terms, an NPC's attitude toward you is described as friendly, indifferent, or hostile. Friendly NPCs are predisposed to help you, and hostile ones are inclined to get in your way. It's easier to get what you want from a friendly NPC, of course.
 
 Social interactions have two primary aspects: roleplaying and ability checks.
 
 ## Roleplaying
-Roleplaying is, literally, the act of playing out a role. In this case, it’s you as a player determining how your character thinks, acts, and talks.
+Roleplaying is, literally, the act of playing out a role. In this case, it's you as a player determining how your character thinks, acts, and talks.
 
-Roleplaying is a part of every aspect of the game, and it comes to the fore during social interactions. Your character’s quirks, mannerisms, and personality influence how interactions resolve.
+Roleplaying is a part of every aspect of the game, and it comes to the fore during social interactions. Your character's quirks, mannerisms, and personality influence how interactions resolve.
 
 There are two styles you can use when roleplaying your character: the descriptive approach and the active approach. Most players use a combination of the two styles. Use whichever mix of the two works best for you.
 
 ### Descriptive Approach to Roleplaying
-With this approach, you describe your character’s words and actions to the DM and the other players. Drawing on your mental image of your character, you tell everyone what your character does and how he or she does it.
+With this approach, you describe your character's words and actions to the DM and the other players. Drawing on your mental image of your character, you tell everyone what your character does and how he or she does it.
 
-For instance, Chris plays Tordek the dwarf. Tordek has a quick temper and blames the elves of the Cloakwood for his family’s misfortune. At a tavern, an obnoxious elf minstrel sits at Tordek’s table and tries to strike up a conversation with the dwarf.
+For instance, Chris plays Tordek the dwarf. Tordek has a quick temper and blames the elves of the Cloakwood for his family's misfortune. At a tavern, an obnoxious elf minstrel sits at Tordek's table and tries to strike up a conversation with the dwarf.
 
 Chris says, "Tordek spits on the floor, growls an insult at the bard, and stomps over to the bar. He sits on a stool and glares at the minstrel before ordering another drink."
 
-In this example, Chris has conveyed Tordek’s mood and given the DM a clear idea of his character’s attitude and actions.
+In this example, Chris has conveyed Tordek's mood and given the DM a clear idea of his character's attitude and actions.
 
 When using descriptive roleplaying, keep the following things in mind:
 
-- Describe your character’s emotions and attitude.
-- Focus on your character’s intent and how others might perceive it.
+- Describe your character's emotions and attitude.
+- Focus on your character's intent and how others might perceive it.
 - Provide as much embellishment as you feel comfortable with.
 
-Don’t worry about getting things exactly right. Just focus on thinking about what your character would do and describing what you see in your mind.
+Don't worry about getting things exactly right. Just focus on thinking about what your character would do and describing what you see in your mind.
 
 ### Active Approach to Roleplaying
 If descriptive roleplaying tells your DM and your fellow players what your character thinks and does, active roleplaying shows them.
 
-When you use active roleplaying, you speak with your character’s voice, like an actor taking on a role. You might even echo your character’s movements and body language. This approach is more immersive than descriptive roleplaying, though you still need to describe things that can’t be reasonably acted out.
+When you use active roleplaying, you speak with your character's voice, like an actor taking on a role. You might even echo your character's movements and body language. This approach is more immersive than descriptive roleplaying, though you still need to describe things that can't be reasonably acted out.
 
-Going back to the example of Chris roleplaying Tordek above, here’s how the scene might play out if Chris used active roleplaying:
+Going back to the example of Chris roleplaying Tordek above, here's how the scene might play out if Chris used active roleplaying:
 
-Speaking as Tordek, Chris says in a gruff, deep voice, "I was wondering why it suddenly smelled awful in here. If I wanted to hear anything out of you, I’d snap your arm and enjoy your screams." In his normal voice, Chris then adds, "I get up, glare at the elf, and head to the bar."
+Speaking as Tordek, Chris says in a gruff, deep voice, "I was wondering why it suddenly smelled awful in here. If I wanted to hear anything out of you, I'd snap your arm and enjoy your screams." In his normal voice, Chris then adds, "I get up, glare at the elf, and head to the bar."
 
 ### Results of Roleplaying
-The DM uses your character’s actions and attitudes to determine how an NPC reacts. A cowardly NPC buckles under threats of violence. A stubborn dwarf refuses to let anyone badger her. A vain dragon laps up flattery.
+The DM uses your character's actions and attitudes to determine how an NPC reacts. A cowardly NPC buckles under threats of violence. A stubborn dwarf refuses to let anyone badger her. A vain dragon laps up flattery.
 
-When interacting with an NPC, pay close attention to the DM’s portrayal of the NPC’s mood, dialogue, and personality. You might be able to determine an NPC’s personality traits, ideals, flaws, and bonds, then play on them to influence the NPC’s attitude.
+When interacting with an NPC, pay close attention to the DM's portrayal of the NPC's mood, dialogue, and personality. You might be able to determine an NPC's personality traits, ideals, flaws, and bonds, then play on them to influence the NPC's attitude.
 
-Interactions in D&D are much like interactions in real life. If you can offer NPCs something they want, threaten them with something they fear, or play on their sympathies and goals, you can use words to get almost anything you want. On the other hand, if you insult a proud warrior or speak ill of a noble’s allies, your efforts to convince or deceive will fall short.
+Interactions in D&D are much like interactions in real life. If you can offer NPCs something they want, threaten them with something they fear, or play on their sympathies and goals, you can use words to get almost anything you want. On the other hand, if you insult a proud warrior or speak ill of a noble's allies, your efforts to convince or deceive will fall short.
 
 ## Ability Checks
 In addition to roleplaying, ability checks are key in determining the outcome of an interaction.
 
-Your roleplaying efforts can alter an NPC’s attitude, but there might still be an element of chance in the situation. For example, your DM can call for a Charisma check at any point during an interaction if he or she wants the dice to play a role in determining an NPC’s reactions. Other checks might be appropriate in certain situations, at your DM’s discretion.
+Your roleplaying efforts can alter an NPC's attitude, but there might still be an element of chance in the situation. For example, your DM can call for a Charisma check at any point during an interaction if he or she wants the dice to play a role in determining an NPC's reactions. Other checks might be appropriate in certain situations, at your DM's discretion.
 
-Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in [[deception]] is the best bet to lead the discussion. When negotiating for a hostage’s release, the cleric with [[persuasion]] should do most of the talking.
+Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in [[deception]] is the best bet to lead the discussion. When negotiating for a hostage's release, the cleric with [[persuasion]] should do most of the talking.
 
 # Resting
 Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest--time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
