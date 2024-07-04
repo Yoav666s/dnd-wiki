@@ -23,4 +23,7 @@ When you choose this archetype at 3rd level, another creature's space does not c
 Starting at 3rd level, when you take the [[ready]] action, you don't need to use your reaction in order to act when the trigger occurs. You may also ready a bonus action instead of taking it immediately.
 
 # Ready for a Row
-Starting at 3rd level, you can add your [[proficiency bonus]] to your [[initiative]] rolls. On the first round of combat, if you're the first to act, you have advantage on the first attack roll you make this round.
+Starting at 3rd level, you can add your [[proficiency bonus]] to your [[initiative]] rolls. On the first round of combat, if you're the first to act, you have advantage on the first attack roll you make that round.
+
+# Anticipatory Dodge
+Starting at 9th level, when you end your turn in combat without making an attack, the next attack against you before the start of your next turn has disadvantage.
