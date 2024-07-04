@@ -71,6 +71,32 @@ By the same token, if a feature or effect allows you to multiply your proficienc
 
 In general, you don't multiply your proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
 
+Your proficiency bonus can be calculated as such: `1 + 1/4 Character Level (round up)`
+
+| Character Level | Proficiency Bonus |
+| :-------------: | :---------------: |
+| 1st             | +2                |
+| 2nd             | +2                |
+| 3rd             | +2                |
+| 4th             | +2                |
+| 5th             | +3                |
+| 6th             | +3                |
+| 7th             | +3                |
+| 8th             | +3                |
+| 9th             | +4                |
+| 10th            | +4                |
+| 11th            | +4                |
+| 12th            | +4                |
+| 13th            | +5                |
+| 14th            | +5                |
+| 15th            | +5                |
+| 16th            | +5                |
+| 17th            | +6                |
+| 18th            | +6                |
+| 19th            | +6                |
+| 20th            | +6                |
+
+
 # Ability Checks
 An ability check tests a character's or monster's innate talent and training in an effort to overcome a challenge. The DM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results.
 
