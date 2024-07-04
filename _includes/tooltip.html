@@ -52,10 +52,11 @@
       {{ title }}
     </a>
     {% if tag %}
-      {% if title.size > tag.size %}{% assign bigger = title.size %}
-      {% else %}{% assign bigger = tag.size %}{% endif %}
+      {% if title.size > tag.size %}{% assign max = title.size %}
+      {% elsif tag.size > 7 %}{% assign max = tag.size %}
+      {% else %}{% assign max = 8 %}{% endif %}
     {% endif %}
-    <span class="tooltip-content"{% if tag %} style="width: {{ bigger | times: 11 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
+    <span class="tooltip-content"{% if tag %} style="width: {{ max | times: 10.1 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
       {% if tag %}
         <strong>{{ tag | replace: "-", " " | remove: "#" | capitalize }}</strong><br>{{ subpage.title }}<br>
       {% else %}
