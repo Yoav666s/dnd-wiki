@@ -1,6 +1,8 @@
 ---
 title: "Ranger Spells"
-index: "ranger-spells"
+index:
+  - ranger-spells
+  - ranger-spell-list
 permalink: /rules/ranger-spells/
 excerpt: "[Read More](/classes/ranger/){: .btn .btn--light-outline .btn--small}"
 layout: spellist

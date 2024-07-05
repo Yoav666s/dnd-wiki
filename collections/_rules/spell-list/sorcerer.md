@@ -1,6 +1,8 @@
 ---
 title: "Sorcerer Spells"
-index: "sorcerer-spells"
+index:
+  - sorcerer-spells
+  - sorcerer-spell-list
 permalink: /rules/sorcerer-spells/
 excerpt: "[Read More](/classes/sorcerer/){: .btn .btn--light-outline .btn--small}"
 layout: spellist

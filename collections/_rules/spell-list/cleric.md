@@ -1,6 +1,8 @@
 ---
 title: "Cleric Spells"
-index: "cleric-spells"
+index:
+  - cleric-spells
+  - cleric-spell-list
 permalink: /rules/cleric-spells/
 excerpt: "[Read More](/classes/cleric/){: .btn .btn--light-outline .btn--small}"
 layout: spellist

@@ -1,6 +1,8 @@
 ---
 title: "Druid Spells"
-index: "druid-spells"
+index:
+  - druid-spells
+  - druid-spell-list
 permalink: /rules/druid-spells/
 excerpt: "[Read More](/classes/druid/){: .btn .btn--light-outline .btn--small}"
 layout: spellist

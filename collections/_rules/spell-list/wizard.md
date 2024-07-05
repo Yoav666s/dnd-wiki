@@ -1,6 +1,8 @@
 ---
 title: "Wizard Spells"
-index: "wizard-spells"
+index:
+  - wizard-spells
+  - wizard-spell-list
 permalink: /rules/wizard-spells/
 excerpt: "[Read More](/classes/wizard/){: .btn .btn--light-outline .btn--small}"
 layout: spellist
