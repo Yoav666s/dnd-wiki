@@ -31,4 +31,4 @@ Starting at 9th level, when you end your turn in combat without making an attack
 Starting at 13th level, you learn to charge forward in a headlong dive. As part of the movement you gain from the [[dash]] action, you can make a [[shove]] attack against one creature you pass by. When you shove a creature, you can use either [[acrobatics]] or [[athletics]] for the ability check.
 
 # Golden Opportunity
-Beginning on 17th level, when a creature first enters your reach, you can use your reaction to make a melee attack against that creature. This attack can benefit from your [[Sneak Attack@rogue]] even if you have already used it this round.
+Beginning on 17th level, when a creature first enters your reach, you can use your reaction to make a melee attack against that creature. This attack can benefit from your [[Sneak Attack@rogue#sneak-attack]] even if you have already used it this round.
