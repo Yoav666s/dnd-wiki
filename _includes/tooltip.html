@@ -7,6 +7,11 @@
   {% assign collection = page.permalink | split: "/" | slice: 1 | first %}
   {% assign title = include.title %}
 {% endif %}
+{% if title contains "!" %}
+  {% assign title = title | remove: "!" %}
+  {% assign show_tooltip = false %}
+{% else %}{% assign show_tooltip = true %}
+{% endif %}
 {% if title contains "#" %}
   {% assign tag = title | split: "#" | last %}
   {% assign title = title | split: "#" | first %}
@@ -31,17 +36,19 @@
   <a href="{{ spell.permalink | append: tag }}" class="tooltip-link">
     {{ title }}
   </a>
+  {% if show_tooltip %}
   <span class="tooltip-content">
     <strong>{{ spell.level }}</strong> ({{ spell.school }})<br>
     <i>{{ spell.excerpt | markdownify | strip_html }}</i>
   </span>
+  {% endif %}
 </span>
 {% elsif tooltip %}
 <span class="tooltip">
   <a {% if tooltip.link %}href="{{ tooltip.link | append: tag }}" {% endif %}class="tooltip-link">
     {{ title }}
   </a>
-  {% if tooltip.content %}
+  {% if tooltip.content and show_tooltip %}
     <span class="tooltip-content">
       <strong>{{ tooltip.title }}</strong><br>
       <i>{{ tooltip.content }}</i>
@@ -53,18 +60,20 @@
     <a href="{{ subpage.permalink | relative_url | append: tag }}" class="tooltip-link">
       {{ title }}
     </a>
-    {% if tag %}
-      {% if title.size > tag.size %}{% assign max = title.size %}
-      {% else%}{% assign max = tag.size %}{% endif %}
-      {% unless max > 7 %}{% assign max = 8 %}{% endunless %}
-    {% endif %}
-    <span class="tooltip-content"{% if tag %} style="width: {{ max | times: 10.1 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
+    {% if show_tooltip %}
       {% if tag %}
-        <strong>{{ tag | replace: "-", " " | remove: "#" | capitalize }}</strong><br>{{ subpage.title }}<br>
-      {% else %}
-        {{ subpage.excerpt | slice: 0, 100 | strip }}{% if subpage.excerpt.size > 150 %}...{% endif %}
+        {% if title.size > tag.size %}{% assign max = title.size %}
+        {% else%}{% assign max = tag.size %}{% endif %}
+        {% unless max > 7 %}{% assign max = 8 %}{% endunless %}
       {% endif %}
-    </span>
+      <span class="tooltip-content"{% if tag %} style="width: {{ max | times: 10.1 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
+        {% if tag %}
+          <strong>{{ tag | replace: "-", " " | remove: "#" | capitalize }}</strong><br>{{ subpage.title }}<br>
+        {% else %}
+          {{ subpage.excerpt | slice: 0, 100 | strip }}{% if subpage.excerpt.size > 150 %}...{% endif %}
+        {% endif %}
+      </span>
+    {% endif %}
   </span>
 {% else %}
   <a href="#{{ index }}" class="tooltip-link">{{ title }}</a>
