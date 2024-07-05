@@ -28,9 +28,9 @@
 {% if tag %}
   {% assign tag = tag | slugify | prepend: "#" %}
 {% endif %}
-{% assign spell = site.spells | where: "index", index | first %}
-{% assign tooltip = site.tooltips | where: "index", index | first %}
-{% assign subpage = site[collection] | where: "index", index | first %}
+{% assign spell = site.spells | where_exp: "item", "item.index contains index" | first %}
+{% assign tooltip = site.tooltips | where_exp: "item", "item.index contains index" | first %}
+{% assign subpage = site[collection] | where_exp: "item", "item.index contains index" | first %}
 {% if spell %}
 <span class="tooltip">
   <a href="{{ spell.permalink | append: tag }}" class="tooltip-link">
