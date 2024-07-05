@@ -67,6 +67,6 @@
     </span>
   </span>
 {% else %}
-  <a href="#{{ index }}">{{ title }}</a>
+  <a href="#{{ index }}" class="tooltip-link">{{ title }}</a>
 {% endif %}
 {% endcapture %}{{ tooltip_content | strip_newlines | strip }}
