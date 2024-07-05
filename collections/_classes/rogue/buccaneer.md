@@ -14,7 +14,7 @@ header:
 source: "Basic Rules"
 ---
 
-You're skilled in close-quarter fighting, especially in densely packed areas. You take advantage of the crowd, of the rush, and of opportune moments, your plans unforeseen and your ploys unexpected. Utilizing these unsavory tactics and dirty tricks always gives you an edge, whether you're plundering another ship for riches, fighting an army of potentially undead cultists, or brawling in your local tavern down main street.
+You're skilled in close-quarter fighting, especially in densely packed areas. You take advantage of the crowd, of the rush, and of opportune moments, your plans unforeseen and your ploys unexpected. Utilizing these unsavory tactics and dirty tricks always gives you an edge, whether you're plundering another ship for riches, fighting an army of potentially undead cultists, or brawling in your local tavern.
 
 # Deckhand Jostler
 When you choose this archetype at 3rd level, another creature's space does not count as [[difficult terrain]] for you. Additionally, when you take the [[dash]] action, you can move through a hostile creature's space regardless of its size, although you still provoke an [[opportunity attack]] as normal if you leave its reach.
