@@ -35,4 +35,4 @@ Starting at 13th level, when a creature first enters your reach in a round, you 
 Additionally, whenever a [[prone]] creature within 5 feet of you uses its movement to stand up, you can use your reaction to make an [[opportunity attack]] against it.
 
 # Golden Opportunity
-Beginning on 17th level, when you use your reaction to make an [[opportunity attack]], it can benefit from your [[Sneak Attack@rogue]] even if you have already dealt a sneak damage this round.
+Beginning on 17th level, when you use your reaction to make an [[opportunity attack]], it can benefit from your [[Sneak Attack@rogue]] even if you have already dealt sneak damage this round.
