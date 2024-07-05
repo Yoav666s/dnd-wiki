@@ -11,7 +11,6 @@ available_for:
 header:
   overlay_image: /assets/images/classes/rogue/header.png
   teaser: /assets/images/classes/rogue/header.jpg
-source: "Basic Rules"
 ---
 
 You're skilled in close-quarter fighting, especially in densely packed areas. You take advantage of the crowd, of the rush, and of opportune moments, your plans unforeseen and your ploys unexpected. Utilizing these unsavory tactics and dirty tricks always gives you an edge, whether you're plundering another ship for riches, fighting an army of potentially undead cultists, or brawling in your local tavern.
