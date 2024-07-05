@@ -1,4 +1,5 @@
 {% capture tooltip_content %}
+{% assign tag = nil %}
 {% if include.title contains ':' %}
   {% assign collection = include.title | split: ":" | first %}
   {% assign title = include.title | split: ":" | last %}
