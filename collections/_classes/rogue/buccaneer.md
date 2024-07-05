@@ -33,4 +33,4 @@ Starting at 9th level, when you end your turn in combat without making an attack
 Starting at 13th level, you learn to impose disadvantage when fighting in close quarters. You may end your turn in another creature's space on a successful Dexterity ([[Acrobatics]]) check contested by that creature's Dexterity ([[Acrobatics]]) or Strength ([[Athletics]]). While you occupy another creature's space, it has disadvantage on attacks and ability checks. If that creature then moves to an adjacent space,  you can use your reaction to make an [[opportunity attack]] against it.
 
 # Golden Opportunity
-Beginning on 17th level, when a creature first enters your reach in a round, you can use your reaction to make a melee attack against that creature. This attack can benefit from your [[Sneak Attack@rogue]] even if you have already used it this round.
+Beginning on 17th level, when you use your reaction to make an [[opportunity attack]], it can benefit from your [[Sneak Attack@rogue]] even if you have already dealt a sneak damage this round.
