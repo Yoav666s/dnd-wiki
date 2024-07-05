@@ -16,10 +16,10 @@ header:
 You're skilled in close-quarter fighting, especially in densely packed areas. You take advantage of the crowd, of the rush, and of opportune moments, your plans unforeseen and your ploys unexpected. Utilizing these unsavory tactics and dirty tricks always gives you an edge, whether you're plundering another ship for riches, fighting an army of potentially undead cultists, or brawling in your local tavern.
 
 # Deckhand Jostler
-When you choose this archetype at 3rd level, another creature's space does not count as [[difficult terrain]] for you. Additionally, when you take the [[dash]] action, you can move through a hostile creature's space regardless of its size, although you still provoke an [[opportunity attack]] as normal if you leave its reach.
+When you choose this archetype at 3rd level, another creature's space does not count as [[difficult terrain]] for you. Additionally, when you take the [[Dash]] action, you can move through a hostile creature's space regardless of its size, although you still provoke an [[opportunity attack]] as normal if you leave its reach.
 
 # Impressionable Tactics
-Starting at 3rd level, you like to wait for the right moment to act. When you take the [[ready]] action, you don't need to use your reaction in order to act when the trigger occurs.
+Starting at 3rd level, you like to wait for the right moment to act. When you take the [[Ready]] action, you don't need to use your reaction in order to act when the trigger occurs.
 
 You may also ready a bonus action instead of taking it immediately. If you ready a bonus action granted to you by [[Cunning Action@rogue]], you may move up to your remaining movement speed before or after you do so.
 
@@ -30,9 +30,7 @@ Starting at 3rd level, you can add your [[proficiency bonus]] to your [[initiati
 Starting at 9th level, when you end your turn in combat without making an attack, the next attack against you before the start of your next turn has disadvantage.
 
 # Dirty Exploits
-Starting at 13th level, you learn to charge forward in a headlong dive. As part of the movement you gain from the [[dash]] action, you can make a [[shove]] attack against one creature you pass by.
-
-When you shove a creature, you can use either [[acrobatics]] or [[athletics]] for the ability check.
+Starting at 13th level, you learn to impose disadvantage when fighting in close quarters. You may end your turn in another creature's space on a successful Dexterity ([[Acrobatics]]) check contested by that creature's Dexterity ([[Acrobatics]]) or Strength ([[Athletics]]). While you occupy another creature's space, it has disadvantage on attacks, ability checks, and saving throws. If that creature then moves to an adjacent space, you get an [[opportunity attack]] on it.
 
 # Golden Opportunity
-Beginning on 17th level, when a creature first enters your reach, you can use your reaction to make a melee attack against that creature. This attack can benefit from your [[Sneak Attack@rogue]] even if you have already used it this round.
+Beginning on 17th level, when a creature first enters your reach in a round, you can use your reaction to make a melee attack against that creature. This attack can benefit from your [[Sneak Attack@rogue]] even if you have already used it this round.
