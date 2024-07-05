@@ -4,10 +4,6 @@ index: "mischievous-apprentice"
 permalink: /classes/rogue/mischievous-apprentice/
 excerpt: "You have learned to use magic in unexpected and creative ways. You are specialized in mischievous magic tricks not eminently known to the masses."
 subclass: rogue
-tags:
-  - Rogue
-available_for:
-  - Rogue
 header:
   overlay_image: /assets/images/classes/rogue/mischievous-apprentice/header.png
   teaser: /assets/images/classes/rogue/mischievous-apprentice/header.jpg

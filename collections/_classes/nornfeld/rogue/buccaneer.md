@@ -4,10 +4,6 @@ index: "buccaneer"
 permalink: /classes/rogue/buccaneer/
 excerpt: "You're skilled in close-quarter fighting, especially in densely packed areas. You take advantage of the crowd, the environment, and of opportune moments, your plans unforeseen and your ploys unexpected."
 subclass: rogue
-tags:
-  - Rogue
-available_for:
-  - Rogue
 header:
   overlay_image: /assets/images/classes/rogue/header.png
   teaser: /assets/images/classes/rogue/header.jpg
