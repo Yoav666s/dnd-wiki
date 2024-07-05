@@ -30,7 +30,9 @@ Starting at 3rd level, you can add your [[proficiency bonus]] to your [[initiati
 Starting at 9th level, when you end your turn in combat without making an attack, the next attack against you before the start of your next turn has disadvantage.
 
 # Dirty Exploits
-Starting at 13th level, you learn to impose disadvantage when fighting in close quarters. You may end your turn in another creature's space on a successful Dexterity ([[Acrobatics]]) check contested by that creature's Dexterity ([[Acrobatics]]) or Strength ([[Athletics]]). While you occupy another creature's space, it has disadvantage on attacks and ability checks. If that creature then moves to an adjacent space,  you can use your reaction to make an [[opportunity attack]] against it.
+Starting at 13th level, when a creature first enters your reach in a round, you can use your reaction to [[Shove]] it. When you [[Shove]] a creature, you can use either [[Acrobatics]] or [[Athletics]] for the ability check.
+
+Additionally, whenever a [[prone]] creature within 5 feet of you uses its movement to stand up, you can use your reaction to make an [[opportunity attack]] against it.
 
 # Golden Opportunity
 Beginning on 17th level, when you use your reaction to make an [[opportunity attack]], it can benefit from your [[Sneak Attack@rogue]] even if you have already dealt a sneak damage this round.
