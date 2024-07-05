@@ -61,7 +61,7 @@
       {% if tag %}
         <strong>{{ tag | replace: "-", " " | remove: "#" | capitalize }}</strong><br>{{ subpage.title }}<br>
       {% else %}
-        {{ subpage.excerpt | slice: 0, 150 | strip }}{% if subpage.excerpt.size > 150 %}...{% endif %}
+        {{ subpage.excerpt | slice: 0, 100 | strip }}{% if subpage.excerpt.size > 150 %}...{% endif %}
       {% endif %}
     </span>
   </span>
