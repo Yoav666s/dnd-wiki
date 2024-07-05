@@ -61,16 +61,20 @@
       {{ title }}
     </a>
     {% if show_tooltip %}
+      {% assign max = nil %}
       {% if tag %}
         {% if title.size > tag.size %}{% assign max = title.size %}
         {% else%}{% assign max = tag.size %}{% endif %}
-        {% unless max > 7 %}{% assign max = 8 %}{% endunless %}
+      {% else %}
+        {% assign excerpt = subpage.excerpt | slice: 0, 150 | markdownify | strip_html | strip %}
+        {% if 50 > excerpt.size %}{% assign max = excerpt.size %}{% endif %}
       {% endif %}
-      <span class="tooltip-content"{% if tag %} style="width: {{ max | times: 10.1 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
+      {% if max and 8 > max %}{% assign max = 8 %}{% endif %}
+      <span class="tooltip-content"{% if max %} style="width: {{ max | times: 10.1 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
         {% if tag %}
           <strong>{{ tag | replace: "-", " " | remove: "#" | capitalize }}</strong><br>{{ subpage.title }}<br>
         {% else %}
-          {{ subpage.excerpt | slice: 0, 100 | markdownify | strip_html | strip }}{% if subpage.excerpt.size > 150 %}...{% endif %}
+          {{ excerpt }}{% if excerpt.size > 150 %}...{% endif %}
         {% endif %}
       </span>
     {% endif %}
