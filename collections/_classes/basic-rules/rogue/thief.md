@@ -13,7 +13,7 @@ source: "Basic Rules"
 You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ.
 
 # Fast Hands
-Starting at 3rd level, you can use the bonus action granted by your [Cunning Action](/classes/rogue/#cunning-action) to make a Dexterity ([[Sleight of Hand]]) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.
+Starting at 3rd level, you can use the bonus action granted by your [[Cunning Action@rogue]] to make a Dexterity ([[Sleight of Hand]]) check, use your thieves' tools to disarm a trap or open a lock, or take the [[Use an Object]] action.
 
 # Second-Story Work
 When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.
