@@ -14,7 +14,7 @@ You're skilled in close-quarter fighting, especially in densely packed areas. Yo
 # Deckhand Jostler
 When you choose this archetype at 3rd level, another creature's space does not count as [[difficult terrain]] for you, and you can move through a hostile creature's space regardless of its size.
 
-Whenever you move through a hostile creature's space, the next [[opportunity attack]] it makes against you has disadvantage until your next turn.
+Whenever you move through a hostile creature's space you provoke an [[opportunity attack]], but the next [[opportunity attack]] it makes against you has disadvantage until your next turn.
 
 # Impressionable Tactics
 Starting at 3rd level, you always wait for the right moment to act. When you take the [[Ready]] action, you don't need to use your reaction in order to act when the trigger occurs.
