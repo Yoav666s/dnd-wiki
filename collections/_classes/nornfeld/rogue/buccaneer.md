@@ -2,14 +2,14 @@
 title: "Buccaneer"
 index: "buccaneer"
 permalink: /classes/rogue/buccaneer/
-excerpt: "You're skilled in close-quarter fighting, especially in densely packed areas. You take advantage of the crowd, the environment, and of opportune moments, your plans unforeseen and your ploys unexpected."
+excerpt: "You're skilled in close-quarter fighting, especially in densely packed areas. You take advantage of the crowd, of others' mistakes, and of opportune moments."
 subclass: rogue
 header:
   overlay_image: /assets/images/classes/rogue/buccaneer/header.png
   teaser: /assets/images/classes/rogue/buccaneer/header.jpg
 ---
 
-You're skilled in close-quarter fighting, especially in densely packed areas. You take advantage of the crowd, the environment, and of opportune moments, your plans unforeseen and your ploys unexpected. Utilizing these dirty tactics and devious tricks always gives you an edge, whether you're plundering another ship for riches, fighting an army of potentially undead cultists, or brawling in your local tavern.
+You're skilled in close-quarter fighting, especially in densely packed areas. You take advantage of the crowd, of others' mistakes, and of opportune moments. Your dirty tactics and dangerous stunts tricks always gives you an edge, whether you're plundering a ship, fighting off trespassers, or brawling in your local tavern.
 
 # Deckhand Jostler
 When you choose this archetype at 3rd level, another creature's space does not count as [[difficult terrain]] for you. You can move through a hostile creature's space regardless of its size, but you provoke an [[opportunity attack]] by doing so.
