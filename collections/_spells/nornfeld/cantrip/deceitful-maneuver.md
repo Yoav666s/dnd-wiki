@@ -14,7 +14,7 @@ comp:
 duration: "1 Round"
 concentration: true
 description: |
-  You become [[invisible]] at the same time that an illusory double appears instead of you. For the duration, you can sneak around at half your movement speed, and perform actions as normal. You gain an advantage on Dexterity ([[Sleight of Hand]]) checks.
+  You become [[invisible]] at the same time that an illusory double appears instead of you. For the duration, you can sneak around at half your movement speed, perform actions as normal, and you gain an advantage on Dexterity ([[Sleight of Hand]]) checks.
 
   The spell ends early if you move faster than half of your normal movement speed, touch another creature, perform an attack, make an audible sound, or if someone tries to interact with your illusion. You automatically fail Constitution saving throws to maintain concentration when this spell is interrupted.
 
