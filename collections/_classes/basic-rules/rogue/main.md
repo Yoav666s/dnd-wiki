@@ -14,28 +14,28 @@ Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper 
 
 # The Rogue
 
-| Level | Proficiency Bonus | Sneak Attack | Features                                   |
-| :---: | :---------------: | :----------: | :----------------------------------------- |
-| 1st   | +2                | 1d6          | Expertise, Sneak Attack, Thieves' Cant     |
-| 2nd   | +2                | 1d6          | Cunning Action                             |
-| 3rd   | +2                | 2d6          | Roguish Archetype                          |
-| 4th   | +2                | 2d6          | Ability Score Improvement                  |
-| 5th   | +3                | 3d6          | Uncanny Dodge                              |
-| 6th   | +3                | 3d6          | Expertise                                  |
-| 7th   | +3                | 4d6          | Evasion                                    |
-| 8th   | +3                | 4d6          | Ability Score Improvement                  |
-| 9th   | +4                | 5d6          | Roguish Archetype feature                  |
-| 10th  | +4                | 5d6          | Ability Score Improvement                  |
-| 11th  | +4                | 6d6          | Reliable Talent                            |
-| 12th  | +4                | 6d6          | Ability Score Improvement                  |
-| 13th  | +5                | 7d6          | Roguish Archetype feature                  |
-| 14th  | +5                | 7d6          | Blindsense                                 |
-| 15th  | +5                | 8d6          | Slippery Mind                              |
-| 16th  | +5                | 8d6          | Ability Score Improvement                  |
-| 17th  | +6                | 9d6          | Roguish Archetype feature                  |
-| 18th  | +6                | 9d6          | Elusive                                    |
-| 19th  | +6                | 10d6         | Ability Score Improvement                  |
-| 20th  | +6                | 10d6         | Stroke of Luck                             |
+| Level | Proficiency Bonus | Sneak Attack | Features                                               |
+| :---: | :---------------: | :----------: | :----------------------------------------------------- |
+| 1st   | +2                | 1d6          | [[Expertise]], [[Sneak Attack]], [[Thieves' Cant]]     |
+| 2nd   | +2                | 1d6          | [[Cunning Action]]                                     |
+| 3rd   | +2                | 2d6          | [[Roguish Archetype]]                                  |
+| 4th   | +2                | 2d6          | [[Ability Score Improvement]]                          |
+| 5th   | +3                | 3d6          | [[Uncanny Dodge]]                                      |
+| 6th   | +3                | 3d6          | [[Expertise]]                                          |
+| 7th   | +3                | 4d6          | [[Evasion]]                                            |
+| 8th   | +3                | 4d6          | [[Ability Score Improvement]]                          |
+| 9th   | +4                | 5d6          | [[Roguish Archetype feature]]                          |
+| 10th  | +4                | 5d6          | [[Ability Score Improvement]]                          |
+| 11th  | +4                | 6d6          | [[Reliable Talent]]                                    |
+| 12th  | +4                | 6d6          | [[Ability Score Improvement]]                          |
+| 13th  | +5                | 7d6          | [[Roguish Archetype feature]]                          |
+| 14th  | +5                | 7d6          | [[Blindsense]]                                         |
+| 15th  | +5                | 8d6          | [[Slippery Mind]]                                      |
+| 16th  | +5                | 8d6          | [[Ability Score Improvement]]                          |
+| 17th  | +6                | 9d6          | [[Roguish Archetype feature]]                          |
+| 18th  | +6                | 9d6          | [[Elusive]]                                            |
+| 19th  | +6                | 10d6         | [[Ability Score Improvement]]                          |
+| 20th  | +6                | 10d6         | [[Stroke of Luck]]                                     |
 
 # Class Features
 As a rogue, you gain the following class features.
@@ -77,7 +77,7 @@ During your rogue training you learned thieves' cant, a secret mix of dialect, j
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
 ## Cunning Action
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [[Dash]], [[Disengage]], or [[Hide]] action.
 
 ## Roguish Archetype
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
@@ -107,7 +107,7 @@ Starting at 14th level, if you are able to hear, you are aware of the location o
 By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
 
 ## Elusive
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
+Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [[incapacitated]].
 
 ## Stroke of Luck
 At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
