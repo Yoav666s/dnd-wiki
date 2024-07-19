@@ -26,9 +26,7 @@ Starting at 3rd level, you can add your [[proficiency bonus]] to your [[initiati
 Starting at 9th level, when you end your turn in combat without making an attack, the next attack against you before the start of your next turn has disadvantage.
 
 # Unsavory Exploits
-Starting at 13th level, you can take your bonus action to [[shove]] a creature. When you shove a creature, you can use either [[Acrobatics]] or [[Athletics]] for the ability check.
-
-Additionally, whenever a [[prone]] creature within 5 feet of you attempts to use its movement to stand up, you can use your reaction to make an [[opportunity attack]] against it.
+Starting at 13th level, whenever a creature makes an [[opportunity attack]] against you, you can use your reaction to make an [[opportunity attack]] against that creature. You have advantage on the attack roll.
 
 # Golden Opportunity
 Beginning on 17th level, when you use your reaction to make an [[opportunity attack]], it can benefit from your [[Sneak Attack@rogue]] even if you have already dealt sneak damage this round.
