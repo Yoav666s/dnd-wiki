@@ -11,8 +11,6 @@ level: "Cantrip"
 school: "Illusion"
 comp:
   - S
-  - M
-material: "a bit of fleece, an eyelash encased in gum arabic"
 duration: "1 Round"
 concentration: true
 description: |
