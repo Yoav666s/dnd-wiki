@@ -12,10 +12,12 @@ header:
 You're skilled in close-quarter fighting, especially in densely packed areas. You take advantage of the crowd, the environment, and of opportune moments, your plans unforeseen and your ploys unexpected. Utilizing these dirty tactics and devious tricks always gives you an edge, whether you're plundering another ship for riches, fighting an army of potentially undead cultists, or brawling in your local tavern.
 
 # Deckhand Jostler
-When you choose this archetype at 3rd level, another creature's space does not count as [[difficult terrain]] for you, and you can move through a hostile creature's space regardless of its size. Additionally, when you take the [[Dash]] action, the next [[opportunity attack]] made against you has disadvantage against you until your next turn.
+When you choose this archetype at 3rd level, another creature's space does not count as [[difficult terrain]] for you, and you can move through a hostile creature's space regardless of its size.
+
+Whenever you move through a hostile creature's space, the next [[opportunity attack]] it makes against you has disadvantage until your next turn.
 
 # Impressionable Tactics
-Starting at 3rd level, you like to wait for the right moment to act. When you take the [[Ready]] action, you don't need to use your reaction in order to act when the trigger occurs.
+Starting at 3rd level, you always wait for the right moment to act. When you take the [[Ready]] action, you don't need to use your reaction in order to act when the trigger occurs.
 
 You may also ready a bonus action instead of taking it immediately. If you ready a bonus action granted to you by [[Cunning Action@rogue]], you may move up to your remaining movement speed before or after you do so.
 
