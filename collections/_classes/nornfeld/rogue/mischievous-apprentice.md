@@ -106,7 +106,7 @@ If you're specialized in the [[message]] cantrip, you have advantage on Charisma
 If you're specialized in the [[minor illusion]] cantrip, you can cause sound to emanate from an image you create with this spell instead of animating it.  
 
 ## Impeccable Phantasm
-If you're specialized in the [[minor phantasm]] cantrip, if you manage to concentrate on the illusion for the full hour, the spell lasts until dispelled, or until the target succeeds an Intelligence saving throw or Intelligence ([[Investigation]]) check against it.
+If you're specialized in the [[minor phantasm]] cantrip, if you manage to concentrate on the illusion for the full hour, the spell lasts until dispelled, or until the target succeeds an Intelligence ([[Investigation]]) check against it.
 
 ## Sly Confusion
 If you're specialized in the [[subterfuge]] cantrip, you may cast this spell in order to distract a creature. The next attack against it has advantage until your next turn.
