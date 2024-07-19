@@ -5,8 +5,8 @@ layout: single
 
 <div class="page__content">
   {% include spell_table.html %}
-  {{ page.description | markdownify }}
+  {% include render_tooltips.html content=page.description %}
   {% if page.material %}<p style="{{ note_style }}"><i>* - ({{ page.material }})</i></p>{% endif %}
   <p style="{{ note_style }}"><i>{{ page.notes }}</i></p>
-  {{ content }}
+  {% include render_tooltips.html content=content %}
 </div>
