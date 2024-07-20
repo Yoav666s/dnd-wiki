@@ -17,7 +17,7 @@ When you choose this archetype at 3rd level, another creature's space does not c
 Whenever you move through a hostile creature's space, the next attack it makes against you has disadvantage until your next turn.
 
 # Impeccable Timing
-Starting at 3rd level, you always wait for the right moment to act. When you take the [[Ready]] action, you don't need to use your reaction in order to act when the trigger occurs. You may also ready a bonus action instead of taking it immediately.
+Starting at 3rd level, you always wait for the right moment to act. When you take the [[Ready]] action, you don't need to use your reaction in order to act when the trigger occurs. You may also ready a [[bonus action]] instead of taking it immediately.
 
 # Ready for a Row
 Starting at 3rd level, you can add your [[proficiency bonus]] to your [[initiative]] rolls. On the first round of combat, if you're the first to act, you have advantage on the first attack roll you make that round.
