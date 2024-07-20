@@ -34,7 +34,7 @@ Heavily resembling imps in their appearance, triflings subsist in small minoriti
 
 Lacking in physical strength, triflings must rely on their cunning guile and quick reflexes to survive. They are commonly mistaken for imps, greeted with suspicion and even hostility. They find it difficult to gain the trust of others, and so they begin to embrace others' prejudice against them, using their devilish appearance for their advantage.
 
-[:/assets/images/trifling/:]
+[:../../assets/images/trifling/:]
 
 > **Met With Hate** \
 Many people tend to be hostile towards triflings, naturally regarding them as monsters. Therefore, their presence is not always welcome in most cities, and they often must be discreet about their appearance and identity. It's also recommended for them to stay away from main roads and trade routes in order to avoid undesirable encounters.
