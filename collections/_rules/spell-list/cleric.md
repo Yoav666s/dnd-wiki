@@ -4,7 +4,6 @@ index:
   - cleric-spells
   - cleric-spell-list
 permalink: /rules/cleric-spells/
-excerpt: "[Read More](/classes/cleric/){: .btn .btn--light-outline .btn--small}"
 layout: spellist
 class: "Cleric"
 toc: false

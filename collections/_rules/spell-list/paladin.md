@@ -4,7 +4,6 @@ index:
   - paladin-spells
   - paladin-spell-list
 permalink: /rules/paladin-spells/
-excerpt: "[Read More](/classes/paladin/){: .btn .btn--light-outline .btn--small}"
 layout: spellist
 class: "Paladin"
 toc: false

@@ -4,7 +4,6 @@ index:
   - mischievous-apprentice-spells
   - mischievous-apprentice-spell-list
 permalink: /rules/mischievous-apprentice-spells/
-excerpt: "[Read More](/classes/rogue/mischievous-apprentice/){: .btn .btn--light-outline .btn--small}"
 layout: spellist
 class: "Rogue"
 subclass: "Mischievous Apprentice"
