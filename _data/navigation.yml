@@ -1,27 +1,24 @@
 # main links
 main:
-  # - title: "Home"
-  #   url: https://www.nornfeld-wiki.infinityfreeapp.com/
-
-cats:
-  - title: "Other Categories"
-    children:
-      - title: "Classes"
-        url: /classes/
-      - title: "Feats"
-        url: /feats/
-      - title: "Items"
-        url: /items/
-      - title: "Lore"
-        url: /lore/
-      - title: "Races"
-        url: /races/
-      - title: "Rules"
-        url: /rules/
-      - title: "Spells"
-        url: /spells/
+  - title: "Classes"
+    url: /classes/
+  - title: "Feats"
+    url: /feats/
+  - title: "Items"
+    url: /items/
+  - title: "Lore"
+    url: /lore/
+  - title: "Races"
+    url: /races/
+  - title: "Rules"
+    url: /rules/
+  - title: "Spells"
+    url: /spells/
 
 classes:
+  - title: "Barbarian"
+    class: barbarian
+    url: /classes/barbarian/
   - title: "Rogue"
     class: rogue
     url: /classes/rogue/
