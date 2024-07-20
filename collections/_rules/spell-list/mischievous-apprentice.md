@@ -11,6 +11,9 @@ subclass: "Mischievous Apprentice"
 toc: false
 part: 3.5
 chapter: 11
+header:
+  overlay_image: /assets/images/classes/rogue/mischievous-apprentice/header.png
+  teaser: /assets/images/classes/rogue/mischievous-apprentice/header.jpg
 additional_spells:
   - Light
   - Message
