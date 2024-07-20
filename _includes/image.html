@@ -1,2 +1,2 @@
-{% capture image %}{% assign path = include.path | slugify %}[![{{ path | split: "/" | last }}]({{ path | append: "normal.jpg" }})]({{ path | append: "full.png" }})
+{% capture image %}{% assign path = include.path | replace: " ", "-" %}[![{{ path | split: "/" | last }}]({{ path | append: "normal.jpg" }})]({{ path | append: "full.png" }})
 {% endcapture %}{{ image | markdownify }}
