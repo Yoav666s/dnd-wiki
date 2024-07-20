@@ -39,7 +39,7 @@ Lacking in physical strength, triflings must rely on their cunning guile and qui
 > **Met With Hate** \
 Many people tend to be hostile towards triflings, naturally regarding them as monsters. Therefore, their presence is not always welcome in most cities, and they often must be discreet about their appearance and identity. It's also recommended for them to stay away from main roads and trade routes in order to avoid undesirable encounters.
 
-## Lesser Tiefling Traits
+## Trifling Traits
 Triflings share certain racial traits as a result of their infernal bloodline.
 
 ### Ability Score Increase
