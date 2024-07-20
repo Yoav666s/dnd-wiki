@@ -10,4 +10,5 @@ class: "Bard"
 toc: false
 part: 3.5
 chapter: 11
+source: "Basic Rules"
 ---
