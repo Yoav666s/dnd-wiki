@@ -1,0 +1,2 @@
+{% capture image %}[![{{ include.path | split: "/" | last }}]({{ include.path | append: "normal.jpg" }})]({{ include.path | append: "full.png" }})
+{% endcapture %}{% image | markdownify %}
