@@ -16,10 +16,8 @@ When you choose this archetype at 3rd level, another creature's space does not c
 
 Whenever you move through a hostile creature's space, the next attack it makes against you has disadvantage until your next turn.
 
-# Impressionable Tactics
-Starting at 3rd level, you always wait for the right moment to act. When you take the [[Ready]] action, you don't need to use your reaction in order to act when the trigger occurs.
-
-You may also ready a bonus action instead of taking it immediately. If you ready a bonus action granted to you by [[Cunning Action@rogue]], you may move up to your remaining movement speed before or after you do so.
+# Impeccable Timing
+Starting at 3rd level, you always wait for the right moment to act. When you take the [[Ready]] action, you don't need to use your reaction in order to act when the trigger occurs. You may also ready a bonus action instead of taking it immediately.
 
 # Ready for a Row
 Starting at 3rd level, you can add your [[proficiency bonus]] to your [[initiative]] rolls. On the first round of combat, if you're the first to act, you have advantage on the first attack roll you make that round.
@@ -28,7 +26,7 @@ Starting at 3rd level, you can add your [[proficiency bonus]] to your [[initiati
 Starting at 9th level, when you end your turn in combat without making an attack, the next attack against you before the start of your next turn has disadvantage.
 
 # Unsavory Exploits
-Starting at 13th level, whenever a creature makes an attack with disadvantage against you, you can use your reaction to make an [[opportunity attack]] against that creature. You have advantage on the attack roll.
+Starting at 13th level, whenever a creature makes a melee attack against you and misses, you can use your reaction to make an [[opportunity attack]] against that creature. You have advantage on the attack roll.
 
 # Golden Opportunity
 Beginning on 17th level, when you use your reaction to make an [[opportunity attack]], it can benefit from your [[Sneak Attack@rogue]] even if you have already dealt sneak damage this round.
