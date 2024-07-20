@@ -5,6 +5,7 @@ layout: single
 
 <div class="page__content">
   {{ content }}
+  {% capture button %}"[Main Page](/classes/{{page.class}}/{% if page.subclass %}{{ page.subclass }}/{% endif %}){: .btn .btn--light-outline .btn--small}"{% endcapture %}{{ button | markdownify }}
   {% for level in levels %}
     {% assign level_spells = site.spells | where: "level", level.title | sort: "title" %}
     {% assign spell_found = false %}
