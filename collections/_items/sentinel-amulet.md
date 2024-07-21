@@ -25,4 +25,4 @@ The emblem of [[lore:the weathered sentinel]]. When he is defeated, his soul bec
 
 The amulet has 10 charges, and regains 1d6 + 4 expended charges daily at dawn. If it overcharges, roll a d20. On 4-7 the charges deplete completely for the rest of the day. On 3 or less, the amulet disappears and Elmersodus is resurrected.
 
-[:items/emblems/elmersodus:]
+[:items/emblems/elmersodus;normal:]

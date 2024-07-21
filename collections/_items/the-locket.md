@@ -28,4 +28,4 @@ The locket has 6 charges, and regains 1d6 expended charges daily at dawn. If the
 
 If you use the locket with [[magic jar]], it doesn't get destroyed when the spell ends; instead, roll a d20 and follow the same instructions as described above. While your soul inhabits the locket, it does not regain charges and you can cast the other spells listed above *at will*.
 
-[:items/emblems/the-thing:]
+[:items/emblems/the-thing;normal:]

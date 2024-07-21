@@ -16,4 +16,4 @@ header:
 
 A very ordinary strand of yarn that was found in a very unordinary place, typically left there as a [[lore:message from the weaver@the-weaver#weavers-yarn]]. Keep it for good luck. Or bad luck.
 
-[:items/the-weaver/yarn:]
+[:items/the-weaver/yarn;normal:]
