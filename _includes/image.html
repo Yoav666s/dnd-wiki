@@ -12,5 +12,5 @@
     {% assign ext = ".jpg" %}
   {% endif %}
   {% assign path = path | strip | replace: " ", "-" | prepend: "/assets/images/" | append: "/" | replace: "//", "/" | replace: "/assets/images/assets/images/", "/assets/images/" %}
-  [![{{ path | split: "/" | last }}]({{ path | append: size | append: ".jpg" }})]({{ path | append: "full.png" }})
+  [![{{ path | split: "/" | last }}]({{ path | append: size | append: ".jpg" }}){:.centered}]({{ path | append: "full.png" }})
 {% endcapture %}{{ image | markdownify | strip_newlines }}
