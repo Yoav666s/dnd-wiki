@@ -30,7 +30,7 @@ Starting at 9th level, when you end your turn in combat without making an attack
 # Unsavory Exploits
 Starting at 13th level, whenever a creature makes a melee attack against you and misses, you can use your reaction to make an [[opportunity attack]] against that creature. You have advantage on the attack roll.
 
-[:classes/rogue/buccaneer/alt;header:]
-
 # Golden Opportunity
 Beginning on 17th level, when you use your reaction to make an [[opportunity attack]], it can benefit from your [[Sneak Attack@rogue]] even if you have already dealt sneak damage this round.
+
+[:classes/rogue/buccaneer/alt;header:]

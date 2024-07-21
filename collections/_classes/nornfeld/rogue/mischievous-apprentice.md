@@ -11,13 +11,13 @@ header:
 
 You have learned to use magic in unexpected and creative ways. You are specialized in mischievous magic tricks not eminently known to the masses, which you use to deceive, outwit, and irritate anyone unlucky enough to cross your path.
 
+[:classes/rogue/mischievous-apprentice;header:]
+
 # Spellcasting
 When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
 
 ## Cantrips
 You learn three cantrips of your choice from the [[rules:mischievous apprentice spell list]]. You learn another cantrip at 10th level.
-
-[:classes/rogue/mischievous-apprentice;header:]
 
 ## Spell Slots
 The [[mischievous apprentice spellcasting]] table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
@@ -61,7 +61,7 @@ Spell attack modifier = your proficiency bonus + your Dexterity modifier
 | 19th        | 4              | 12           | 4               | 3               | 3               | 1               |
 | 20th        | 4              | 13           | 4               | 3               | 3               | 1               |
 
----
+[:classes/rogue/mischievous-apprentice/alt2;header:]
 
 # Mischievous Incantations
 At 3rd level, choose two cantrips to specialize in. You can use your bonus action to cast them, and gain the following benefits:
@@ -86,8 +86,6 @@ If you're specialized in the [[subterfuge]] cantrip, distractions you affect wit
 - A whisper can be in a specific voice that you've heard and can consist of up to five words.
 - You may interact with more delicate mechanisms, such as belt buckles, straps, and tied knots.
 - Physical sensory effects may cause more of a ruse, such as pulling a guard's helmet down to cover his eyes.
-
-[:classes/rogue/mischievous-apprentice/alt2;header:]
 
 # Misdirection
 Starting at 3rd level, you gain advantage on Dexterity ([[Sleight of Hand]]) checks when trying to cast a spell without being noticed.
