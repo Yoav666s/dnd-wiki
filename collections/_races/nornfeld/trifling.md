@@ -12,7 +12,7 @@ header:
   teaser: /assets/images/races/trifling/header.jpg
 ---
 
-> "We're not the exception, but the rule.
+> We're not the exception, but the rule.
 >
 > The rivers upon which bridges are built, the ale you pour down your gullet,
 >
@@ -22,7 +22,7 @@ header:
 >
 > the monster hiding in your closet, the voice that always says:
 >
-> Whatever you do, wherever you go, whomever you meet,
+> "Whatever you do, wherever you go, whomever you meet,
 >
 > we are all there ever was."
 
