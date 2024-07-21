@@ -71,8 +71,8 @@
       {% endif %}
       {% if max and 8 > max %}{% assign max = 8 %}{% endif %}
       <span class="tooltip-content"{% if max %} style="width: {{ max | times: 10.1 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
-        {% if tag %}
-          <strong>{{ tag | replace: "-", " " | remove: "#" | capitalize }}</strong><br>{{ subpage.title }}<br>
+        {% if tag %}{% assign tag = tag | replace: "-", " " | remove: "#" | capitalize %}{% assign comp = subpage.title | capitalize %}
+          <strong>{{ tag }}</strong>{% unless tag == comp %}<br>{{ subpage.title }}{% endunless %}
         {% else %}
           {{ excerpt }}{% if excerpt.size > 150 %}...{% endif %}
         {% endif %}
