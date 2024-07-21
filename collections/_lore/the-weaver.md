@@ -33,9 +33,9 @@ He attempts to direct and guide his pawns on a certain path, which sometimes lea
 # Temple of Fates
 His followers are called The Faithless, because it is strongly inadvisable to have faith in the weaver. As a matter of fact, it is unclear why he has any followers at all. They do not provide an explanation for their allegiance, but they seem to fit them well. Many of them are not pawns of the weaver, and neither do they wish to be. Those of them who are chosen are not regarded as superior nor inferior to those who aren't, and don't take pride nor shame in being chosen. The faithless generally have a stoic aura about them, a radical acceptance of the strange ways of their deity and of the world as a whole. They dress as the weaver is depicted, in hooded brown rags, and lead a solitary lifestyle as hermits. They reside in abandoned temples of other deities, which have been reclaimed by the weaver as Temples of Fate. There are generally no more than one or two followers per temple.
 
-When the faithless find an abandoned temple they wish to reclaim, they bring a bit of yarn into it, allowing it to take hold. The yarn magically extends far beyond its initial length, wrapping itself around poles, chairs, chandeliers, and the like. The yarn in a temple of fates is not imbued with magic, but the weaver can move and tangle it in any way he sees fit. The more yarn there is, the more potent his magic becomes, heightening his presence.
-
 [:lore/the-weaver/temple;header:]
+
+When the faithless find an abandoned temple they wish to reclaim, they bring a bit of yarn into it, allowing it to take hold. The yarn magically extends far beyond its initial length, wrapping itself around poles, chairs, chandeliers, and the like. The yarn in a temple of fates is not imbued with magic, but the weaver can move and tangle it in any way he sees fit. The more yarn there is, the more potent his magic becomes, heightening his presence.
 
 # Whim of the Weaver
 
