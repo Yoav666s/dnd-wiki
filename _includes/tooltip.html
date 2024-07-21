@@ -26,7 +26,11 @@
   {% assign index = title | slugify %}
 {% endif %}
 {% if tag %}
-  {% assign tag = tag | slugify | prepend: "#" %}
+  {% assign tag = tag | slugify %}
+  {% case tag %}
+    {% when index %}{% assign tag = nil %}
+    {% else %}{% assign tag = tag | prepend: "#" %}
+  {% endcase %}
 {% endif %}
 {% assign spell = site.spells | where_exp: "item", "item.index contains index" | first %}
 {% assign tooltip = site.tooltips | where_exp: "item", "item.index contains index" | first %}
