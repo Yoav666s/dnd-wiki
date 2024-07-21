@@ -17,16 +17,16 @@
   {% assign title = title | split: "#" | first %}
 {% endif %}
 {% if title contains "@" %}
-  {% assign index = title | split: "@" | last | remove: "'" | slugify %}
+  {% assign index = title | split: "@" | last | remove: "’" | slugify %}
   {% assign title = title | split: "@" | first %}
   {% unless tag %}
     {% assign tag = title %}
   {% endunless %}
 {% else %}
-  {% assign index = title | remove: "'" | slugify %}
+  {% assign index = title | remove: "’" | slugify %}
 {% endif %}
 {% if tag %}
-  {% assign tag = tag | remove: "'" | slugify %}
+  {% assign tag = tag | remove: "’" | slugify %}
   {% case tag %}
     {% when index %}{% assign tag = nil %}
     {% else %}{% assign tag = tag | prepend: "#" %}
