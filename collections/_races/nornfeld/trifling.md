@@ -25,8 +25,6 @@ header:
 > Whatever you do, wherever you go, whomever you meet,
 >
 > we are all there ever was."
->
-> --Unknown, unimportant
 
 ## Hellish Creatures
 Triflings are derived from bloodlines of tieflings mixed with halflings, dwarves, and gnomes. They have large horns that take any of a variety of shapes: some have curling horns like a ram, others have straight and tall horns like a gazelle's, and some spiral upward like an antelopes' horns. They have slim tails, two to three feet long, which lash or coil around their legs when they get upset or nervous. Their ears are pointed, their canine teeth are sharp, and their eyes are solid colors--black, red, white, silver, or gold--with no visible sclera or pupil. Their skin tones cover the full range of human coloration, but also include various shades of red. Their hair, cascading down from behind their horns, is usually dark, from black or brown to dark red, blue, or purple.
