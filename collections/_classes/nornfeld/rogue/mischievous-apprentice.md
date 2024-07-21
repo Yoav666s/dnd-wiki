@@ -67,7 +67,7 @@ Spell attack modifier = your proficiency bonus + your Dexterity modifier
 Starting at 3rd level, you gain advantage on Dexterity ([[Sleight of Hand]]) checks when trying to cast a spell without being noticed.
 
 # Mischievous Incantations
-At 3rd level, choose two cantrips to specialize in. You can use your bonus action to cast them, and gain the following benefits:
+At 3rd level, choose one cantrip to specialize in. You can use your bonus action to cast it, and gain the following benefits:
 
 ## Deceitful Gesture
 At 3rd level, if you're specialized in the [[deceitful maneuver]] cantrip, you can cast it freely as part of any interaction, such as drawing a dagger, pulling a lever, or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
@@ -93,7 +93,7 @@ At 3rd level, if you're specialized in the [[subterfuge]] cantrip, distractions 
 [:spells/subterfuge;header:]
 
 # Whetted Sleights
-At 9th level, your [[mischievous incantations]] gain additional benefits:
+At 9th level, choose a second cantrip to specialize in. Your [[mischievous incantations]] gain additional benefits:
 
 ## Deceitful Dash
 At 9th level, if you're specialized in the [[deceitful maneuver]] cantrip, you are able to move at normal speed without breaking the effects of this spell.
@@ -116,7 +116,7 @@ At 9th level, if you're specialized in the [[subterfuge]] cantrip, you may cast 
 [:spells/fling;header:]
 
 # Precarious Riposte
-Starting at 13th level, your [[mischievous incantations]] become instinctual, allowing you to cast them in a repertoire of unique reactions.
+Starting at 13th level, the [[mischievous incantations]] you've specialized in become instinctual, allowing you to cast them in a repertoire of unique reactions.
 
 ## Deceitful Dodge
 At 13th level, if you're specialized in the [[deceitful maneuver]] cantrip, you learn the **deceitful dodge** riposte. When you're targeted by an attack that relies on sight, you may use your reaction to cast [[deceitful maneuver]] and give it disadvantage.
