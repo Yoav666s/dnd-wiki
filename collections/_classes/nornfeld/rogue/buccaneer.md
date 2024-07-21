@@ -11,12 +11,12 @@ header:
 
 You're skilled in close-quarter fighting, especially in densely packed areas. You take advantage of the crowd, of others' mistakes, and of opportune moments. Your dirty tactics and dangerous stunts always give you an edge, whether you're plundering a ship, fighting off trespassers, or brawling in your local tavern.
 
+[:classes/rogue/buccaneer;header:]
+
 # Deckhand Jostler
 When you choose this archetype at 3rd level, another creature's space does not count as [[difficult terrain]] for you. You can also move through a hostile creature's space regardless of its size, but you provoke an [[opportunity attack]] by doing so.
 
 Whenever you move through a hostile creature's space, the next attack it makes against you has disadvantage until your next turn.
-
-[:classes/rogue/buccaneer;header:]
 
 # Impeccable Timing
 Starting at 3rd level, you always wait for the right moment to act. When you take the [[Ready]] action, you don't need to use your reaction in order to act when the trigger occurs. You may also ready a [[bonus action]] instead of taking it immediately.
