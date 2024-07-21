@@ -1,7 +1,11 @@
 ---
 title: "Yarn"
+index:
+  - yarn
+  - weavers-yarn
+  - the-weavers-yarn
 permalink: /items/weavers-yarn/
-excerpt: "A very ordinary strand of yarn that was found in a very unordinary place, typically left there as a [message from the weaver](/lore/the-weaver#weavers-yarn)."
+excerpt: "A very ordinary strand of yarn that was found in a very unordinary place, typically left there as a message from the weaver."
 tags:
   - Item
   - The Weaver
