@@ -61,7 +61,10 @@ Spell attack modifier = your proficiency bonus + your Dexterity modifier
 
 ---
 
+[:classes/rogue/mischievous-apprentice:]
+
 # Mischievous Incantations
+
 At 3rd level, choose two cantrips to specialize in. You can use your bonus action to cast them, and gain the following benefits:
 
 ## Deceitful Gesture
@@ -146,3 +149,5 @@ If you're specialized in the [[subterfuge]] cantrip, you learn the **sudden ruse
 
 # Elegant Improvisation
 Starting at 17th level, you can take an additional reaction once per round, and only in order to cast a spell that has the casting time of 1 reaction, or to perform a [[precarious riposte]]. You can use this feature a number of times equal to your Dexterity modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
+
+[:classes/rogue/mischievous-apprentice/alt;large:]
