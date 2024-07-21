@@ -71,7 +71,7 @@
         {% else%}{% assign max = tag.size %}{% endif %}
       {% else %}
         {% assign excerpt = subpage.excerpt | slice: 0, 150 | markdownify | strip_html | strip %}
-        {% if 50 > excerpt.size %}{% assign max = excerpt.size %}{% endif %}
+        {% if 30 > excerpt.size %}{% assign max = excerpt.size %}{% endif %}
       {% endif %}
       {% if max and 8 > max %}{% assign max = 8 %}{% endif %}
       <span class="tooltip-content"{% if max %} style="width: {{ max | times: 11 }}px; text-align: center; left: 50%; transform: translateX(-50%);"{% endif %}>
