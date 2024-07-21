@@ -30,3 +30,5 @@ Starting at 13th level, whenever a creature makes a melee attack against you and
 
 # Golden Opportunity
 Beginning on 17th level, when you use your reaction to make an [[opportunity attack]], it can benefit from your [[Sneak Attack@rogue]] even if you have already dealt sneak damage this round.
+
+[:/classes/rogue/buccaneer:]

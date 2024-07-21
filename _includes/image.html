@@ -1,2 +1,11 @@
-{% capture image %}{% assign path = include.path | replace: " ", "-" %}[![{{ path | split: "/" | last }}]({{ path | append: "normal.jpg" }})]({{ path | append: "full.png" }})
-{% endcapture %}{{ image | markdownify }}
+{% capture image %}
+  {% if include.path contains ":" %}
+    {% assign path = include.path | split: ":" | first %}
+    {% assign setting = include.path | split: ":" | last | split: "." | first | strip %}
+  {% else %}
+    {% assign path = include.path %}
+    {% assign setting = "normal" %}
+  {% endif %}
+  {% assign path = path | strip | replace: " ", "-" | prepend: "/assets/images/" | append: "/" | replace: "//", "/" | replace: "/assets/images/assets/images/", "/assets/images/" %}
+  [![{{ path | split: "/" | last }}]({{ path | append: setting | append: ".jpg" }})]({{ path | append: "full.png" }})
+{% endcapture %}{{ image | markdownify | strip_newlines }}
