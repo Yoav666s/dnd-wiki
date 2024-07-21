@@ -113,8 +113,6 @@ At 9th level, if you're specialized in the [[minor phantasm]] cantrip, if you ma
 ## Sly Confusion
 At 9th level, if you're specialized in the [[subterfuge]] cantrip, you may cast this spell in order to distract a creature. The next attack against it has advantage until your next turn.
 
-[:spells/fling;header:]
-
 # Precarious Riposte
 Starting at 13th level, the [[mischievous incantations]] you've specialized in become instinctual, allowing you to cast them in a repertoire of unique reactions.
 
