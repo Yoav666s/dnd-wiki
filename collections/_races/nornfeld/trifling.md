@@ -20,7 +20,7 @@ header:
 >
 > the reflection in the mirror, the shiver down your spine,
 >
-> the monster hiding in your closet, the voice that always says:
+> the monster hiding in your closet, that voice that always says:
 >
 > "Whatever you do, wherever you go, whomever you meet,
 >
