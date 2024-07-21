@@ -4,7 +4,7 @@
     {% assign size = include.path | split: ";" | last | split: "." | first | strip %}
   {% else %}
     {% assign path = include.path %}
-    {% assign size = "normal" %}
+    {% assign size = "large" %}
   {% endif %}
   {% if size == "full" %}
     {% assign ext = ".png" %}

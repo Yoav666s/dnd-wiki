@@ -150,4 +150,4 @@ If you're specialized in the [[subterfuge]] cantrip, you learn the **sudden ruse
 # Elegant Improvisation
 Starting at 17th level, you can take an additional reaction once per round, and only in order to cast a spell that has the casting time of 1 reaction, or to perform a [[precarious riposte]]. You can use this feature a number of times equal to your Dexterity modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
-[:classes/rogue/mischievous-apprentice/alt;large:]
+[:classes/rogue/mischievous-apprentice/alt:]
