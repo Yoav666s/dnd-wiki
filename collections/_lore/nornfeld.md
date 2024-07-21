@@ -1,5 +1,7 @@
 ---
 title: "Nornfeld"
+index:
+  - nornfeld
 permalink: /lore/nornfeld/
 excerpt: "The many realms of Nornfeld, or the *known lands*."
 # header:

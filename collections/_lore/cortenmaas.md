@@ -1,5 +1,7 @@
 ---
 title: "Cortenmaas"
+index:
+  - cortenmaas
 permalink: /lore/cortenmaas/
 excerpt: "Not Implemented"
 # header:

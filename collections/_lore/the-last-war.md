@@ -1,5 +1,8 @@
 ---
 title: "The Last War"
+index:
+  - the-last-war
+  - last-war
 permalink: /lore/the-eternal-sleeper/
 excerpt: "The war that led to the conquering of the entire continent of Durn"
 # header:

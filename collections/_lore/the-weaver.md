@@ -1,5 +1,15 @@
 ---
 title: "The Weaver"
+index:
+  - the-weaver
+  - weaver
+  - weaver-s
+  - the-story-teller
+  - story-teller
+  - story-teller-s
+  - master-of-myths
+  - weaver-of-fates
+  - he-who-cannot-be-trusted
 permalink: /lore/the-weaver/
 excerpt: "The weaver is a deity, believed to be in charge of fate, destiny, and possibility."
 header:
@@ -7,7 +17,7 @@ header:
   teaser: /assets/images/the-weaver/header.jpg
 ---
 
-The weaver is a deity, believed to be in charge of fate, destiny, and possibility. He goes by many names; The Storyteller, Master of Myths, Weaver of Fates, He who cannot be Trusted.  He is commonly depicted as a hooded figure holding a ball of yarn. The extent of his powers is yet to be understood, as his intentions are ever unclear. It is said that the weaver's will is never predictable. He plays with the fate of those he chooses, showering them with gifts, bestowing curses upon them, and sending very confusing message. Some believe that there is a lesson he is trying to teach them, while others believe that this is his way to keep himself amused.
+The weaver is a deity, believed to be in charge of fate, destiny, and possibility. He goes by many names; The Storyteller, Master of Myths, Weaver of Fates, He who cannot be Trusted. He is commonly depicted as a hooded figure holding a ball of yarn. The extent of his powers is yet to be understood, as his intentions are ever unclear. It is said that the weaver's will is never predictable. He plays with the fate of those he chooses, showering them with gifts, bestowing curses upon them, and sending very confusing message. Some believe that there is a lesson he is trying to teach them, while others believe that this is his way to keep himself amused.
 
 [![the weaver](../../assets/images/the-weaver/normal.jpg)](../../assets/images/the-weaver/full.png)
 

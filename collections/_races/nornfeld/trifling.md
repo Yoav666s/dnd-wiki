@@ -1,5 +1,7 @@
 ---
 title: "Trifling"
+index:
+  - trifling
 permalink: /races/trifling/
 excerpt: "Triflings heavily resemble imps in their appearance, and are commonly greeted with suspicion and hostility."
 tags:

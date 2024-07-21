@@ -1,5 +1,9 @@
 ---
 title: "Mythical Creatures"
+index:
+  - mythical-creatures
+  - mythical-creature
+  - mythical
 permalink: /lore/mythical-creatures/
 excerpt: "Powerful creatures that inhabit various areas in Nornfeld"
 # header:

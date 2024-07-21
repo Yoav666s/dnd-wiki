@@ -1,7 +1,10 @@
 ---
 title: "Thing of the Hollow"
+index:
+  - the-thing
+  - thing-of-the-hollow
 permalink: /lore/the-thing/
-excerpt: "The thing is a [mythical](/lore/mythical-creatures#mythical-creatures) aberration that doesn't speak any language, and it is believed to be itself [Rock Hollow](/lore/rock-hollow#rock-hollow)."
+excerpt: "The thing is a mythical aberration that doesn't speak any language, and it is believed to be itself Rock Hollow."
 header:
   overlay_image: /assets/images/the-thing/header.png
   teaser: /assets/images/the-thing/header.jpg

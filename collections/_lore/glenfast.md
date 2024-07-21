@@ -1,7 +1,9 @@
 ---
 title: "Glenfast"
+index:
+  - glenfast
 permalink: /lore/glenfast/
-excerpt: "A large half-island located in the south of [Durn](/lore/durn), mostly inhabited by dwarves."
+excerpt: "A large half-island located in the south of Durn, mostly inhabited by dwarves."
 # header:
 #   overlay_image: /assets/images/elmersodus-large.jpg
 #   teaser: /assets/images/elmersodus-large.jpg

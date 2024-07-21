@@ -1,7 +1,11 @@
 ---
 title: "Sad'aal Moran"
-permalink: /lore/sadaal-moran/
-excerpt: "A relatively small but prosperous elven country located near the west coast of [Durn](/lore/durn/)."
+index:
+  - sad-aal-moran
+  - moran
+  - sad-aal
+permalink: /lore/sad-aal-moran/
+excerpt: "A relatively small but prosperous elven country located near the west coast of Durn."
 # header:
 #   overlay_image: /assets/images/rock-hollow-large.jpg
 #   teaser: /assets/images/rock-hollow-large.jpg
