@@ -39,6 +39,8 @@ When the faithless find an abandoned temple they wish to reclaim, they bring a b
 
 # Whim of the Weaver
 
+In the weaver's temples, he is able to send those he choices on what is referred to as a Whim. The yarn in will wrap itself around a pawn, gently at first, until he or she is engulfed completely. Should the pawn resist, the yarn becomes aggressive, swiftly restraining him.
+
 [:lore/the-weaver/whim;header:]
 
-In the weaver's temples, he is able to send those he choices on what is referred to as a Whim. The yarn in will wrap itself around a pawn, gently at first, until he or she is engulfed completely. Should the pawn resist, the yarn becomes aggressive, swiftly restraining him. The pawn then disappears and is sent to a pocket dimension, perhaps never to return, and his fate now lies solely in the hands of the weaver. Those who manage to come back report of differing experiences, some pleasant, some unspeakably gruesome. The whim always relates to the pawn's own unique weaknesses, fears, hidden desires, and falsities. Some view it as the weaver's way of ensuring justice, while others view it as a cruel, sadistic game.
+The pawn then disappears and is sent to a pocket dimension, perhaps never to return, and his fate now lies solely in the hands of the weaver. Those who manage to come back report of differing experiences, some pleasant, some unspeakably gruesome. The whim always relates to the pawn's own unique weaknesses, fears, hidden desires, and falsities. Some view it as the weaver's way of ensuring justice, while others view it as a cruel, sadistic game.
