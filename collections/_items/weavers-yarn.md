@@ -6,10 +6,10 @@ tags:
   - Item
   - The Weaver
 header:
-  overlay_image: /assets/images/the-weaver/yarn/header.png
-  teaser: /assets/images/the-weaver/yarn/header.jpg
+  overlay_image: /assets/images/items/the-weaver/yarn/header.png
+  teaser: /assets/images/items/the-weaver/yarn/header.jpg
 ---
 
-A very ordinary strand of yarn that was found in a very unordinary place, typically left there as a [message from the weaver](/lore/the-weaver#weavers-yarn). Keep it for good luck. Or bad luck.
+A very ordinary strand of yarn that was found in a very unordinary place, typically left there as a [[lore:message from the weaver@the-weaver#weavers-yarn]]. Keep it for good luck. Or bad luck.
 
-[![the weaver's yarn](../../assets/images/the-weaver/yarn/normal.jpg)](../../assets/images/the-weaver/yarn/full.png)
+[:items/the-weaver/yarn:]
