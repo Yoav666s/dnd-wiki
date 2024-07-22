@@ -43,4 +43,4 @@ In the weaver's temples, he is able to send those he choices on what is referred
 
 [:lore/the-weaver/whim;header:]
 
-The pawn then disappears and is sent to a pocket dimension, perhaps never to return, and his fate now lies solely in the hands of the weaver. Those who manage to come back report of differing experiences, some pleasant, some unspeakably gruesome. The whim always relates to the pawn's own unique weaknesses, fears, hidden desires, and falsities. Some view it as the weaver's way of ensuring justice, while others view it as a cruel, sadistic game.
+The pawn then disappears and is sent to a pocket dimension, perhaps never to return, and his fate now lies solely in the hands of the weaver. Those who manage to come back report of differing experiences, some pleasant, some unspeakably gruesome. The whim always relates to the pawn's own unique weaknesses, fears, hidden desires, and falsities. Some view it as the weaver's way of bringing justice to the world, while others view it as a cruel, sadistic game.
