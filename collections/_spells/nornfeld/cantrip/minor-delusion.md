@@ -13,14 +13,18 @@ school: "Enchantment"
 range: "30 ft"
 comp:
   - V
-duration: "1 Hour"
+duration: "1 Minute"
+concentration: true
 attack: "WIS Save"
 description: |
-  You suggest a realistically plausible notion to a creature that can hear and understand you within range. The target makes a Wisdom saving throw. On failure, it's fiercely convinced of that notion for the duration, and will refuse to even consider the possibility that it's false. The spell ends early if you cast it again.
+  You attempt to delude another creature. Once creature you can see must make a Wisdom saving throw. If you are fighting the creature, it has advantage on the saving throw. On a failed save, the target will entertain the possibility of one notion you suggest. If it takes damage or is targeted by another spell, this spell ends and the target dismisses what you say.
 
-  The delusion has to be personally related to the target--someone is attempting to poison it, someone is secretly jealous and planning to sabotage it, its partner is unfaithful, etc. Depending on the target's personality and the nature of the delusion, it may go to great extents to escalate the situation. The target rationalizes any inconsistencies between the delusion and reality, favoring the delusion.
+  For the duration, you can describe a simple notion that is personally related to the target. It has to be realistically plausible. You must speak to the target and it must be able to understand your language for the notion to take root. Its mind fills in any gaps in the details of your description. If the spell ends before you have finished describing this notion, the target is not deluded. Otherwise, the delusion takes hold when the spell ends.
 
-  Another creature may attempt to convince the target that it's being delusional, making a Charisma ([[Persuasion]]) check against your spell save DC. On a success, the target realizes that it's a delusion and the spell ends.
+  The delusion has to be personally related to the target--someone is attempting to poison it, its friend is secretly planning to sabotage it, its partner is being unfaithful, etc. The delusion doesn't necessarily affect how the target behaves, but it's fiercely convinced of that it's true. 
+
+  When presented with contrary evidence, the target repeats its saving throw. On success, the delusion ends. A remove curse or greater restoration spell cast on the target also ends the delusion. Although, the target may not necessarily remember the source of it.
+
 excerpt: "You suggest a plausible notion to a creature that can hear and understand you within range."
 # header:
 #   overlay_image: /assets/images/minor-phantasm/header.png
