@@ -1,7 +1,7 @@
 ---
 title: "Minor Delusion"
 index:
-- minor-delusion
+  - minor-delusion
 permalink: /spells/minor-delusion/
 tags:
   - Spell
