@@ -15,13 +15,13 @@ Your patron is a lord or lady of the fey, a creature of legend who holds secrets
 # Expanded Spell List
 The Archfey lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-| Spell Level | Spells                                       |
-| :---------- | :------------------------------------------- |
-| 1st         | [[Faerie Fire]], [[Sleep]]                   |
-| 2nd         | [[Calm Emotions]], Phantasmal Force          |
-| 3rd         | [[Blink]], [[Plant Growth]]                  |
-| 4th         | [[Dominate Beast]], [[Greater Invisibility]] |
-| 5th         | [[Dominate Person]], [[Seeming]]             |
+| Spell Level | Spells                                         |
+| :---------- | :--------------------------------------------- |
+| 1st         | [[!Faerie Fire]], [[!Sleep]]                   |
+| 2nd         | [[!Calm Emotions]], Phantasmal Force           |
+| 3rd         | [[!Blink]], [[!Plant Growth]]                  |
+| 4th         | [[!Dominate Beast]], [[!Greater Invisibility]] |
+| 5th         | [[!Dominate Person]], [[!Seeming]]             |
 
 # Fey Presence
 Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.
