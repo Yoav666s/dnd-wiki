@@ -1,7 +1,7 @@
 ---
 title: "Warlock"
 permalink: /classes/warlock/
-excerpt: ""
+excerpt: "Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. Through pacts made with mysterious beings of supernatural power, warlocks unlock magical effects both subtle and spectacular."
 # header:
 #   overlay_image: /assets/images/classes/warlock/header.png
 #   teaser: /assets/images/classes/warlock/header.jpg
@@ -74,7 +74,7 @@ You know two cantrips of your choice from the [[rules:warlock spell list]]. You 
 ## Spell Slots
 The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
-For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [[witch bolt]], you must spend one of those slots, and you cast it as a 3rd-level spell.
+For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell witch bolt, you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 ## Spells Known of 1st Level and Higher
 At 1st level, you know two 1st-level spells of your choice from the [[rules:warlock spell list]].
