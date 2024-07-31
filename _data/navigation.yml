@@ -22,6 +22,9 @@ classes:
   - title: "Rogue"
     class: rogue
     url: /classes/rogue/
+  - title: "Warlock"
+    class: warlock
+    url: /classes/warlock/
 
 rules:
   # - title: "Creating A Character"
