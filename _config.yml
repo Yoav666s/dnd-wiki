@@ -354,6 +354,9 @@ collections:
   tooltips:
     output: false
 
+  drafts:
+    output: false
+
 # Defaults
 defaults:
   # _posts
