@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yoav"
 description              : "An original homebrew D&D wiki"
-url                      : "https://yoav666s.github.io/dnd-wiki/"
+url                      : "https://yoav666s.github.io/dnd-wiki"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yoav666s/dnd-wiki"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
