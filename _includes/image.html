@@ -11,6 +11,6 @@
   {% else %}
     {% assign ext = ".jpg" %}
   {% endif %}
-  {% assign path = path | strip | replace: " ", "-" | prepend: "/assets/images/" | append: "/" | replace: "//", "/" | replace: "/assets/images/assets/images/", "/assets/images/" %}
+  {% assign path = path | strip | replace: " ", "-" | prepend: "/assets/images/" | append: "/" | replace: "//", "/" | replace: "/assets/images/assets/images/", "/assets/images/" | prepend: site.baseurl %}
   [![{{ path | split: "/" | last }}]({{ path | append: size | append: ".jpg" }}){:.centered}]({{ path | append: "full.png" }})
 {% endcapture %}{{ image | markdownify | strip_newlines }}
