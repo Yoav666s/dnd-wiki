@@ -17,4 +17,4 @@ Since their comprehension is so hopelessly banal, they're very difficult to nego
 # Mark of the Damned
 The Hounds are known for removing their own noses, which results in their resemblance of fiends. This is also the source of numerous nicknames, such as Pigs, Imps, and so on.
 
-In thr ritual, the so-called shaman of the tribe cuts of the nose of the initiate with a relatively dull blade and burns the wound (some use a acid, instead). This results in an ugly scar and overall shape, much like that of a fiendish creature. This ritual results in absolutely no connection to the fiendish planes or to any otherworldly patrons. It's completely meaningless in any sense that matters.
+In the ritual, the so-called shaman of the tribe cuts of the nose of the initiate with a relatively dull blade and burns the wound with a small, ceremonial torch (some use a acid, instead). This results in an ugly scar and overall shape, much like that of a fiendish creature. This ritual results in absolutely no connection to the fiendish planes or to any otherworldly patrons. It's completely meaningless in any sense that even barely matters.
