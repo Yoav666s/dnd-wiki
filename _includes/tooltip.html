@@ -37,7 +37,7 @@
 {% assign subpage = site[collection] | where_exp: "item", "item.index contains index" | first %}
 {% if spell %}
 <span class="tooltip">
-  <a href="{{ spell.permalink | append: tag }}" class="tooltip-link">
+  <a href="{{ spell.permalink | relative_url | append: tag }}" class="tooltip-link">
     {{ title }}
   </a>
   {% if show_tooltip %}
@@ -49,7 +49,7 @@
 </span>
 {% elsif tooltip %}
 <span class="tooltip">
-  <a {% if tooltip.link %}href="{{ tooltip.link | append: tag }}" {% endif %}class="tooltip-link">
+  <a {% if tooltip.link %}href="{{ tooltip.link | relative_url | append: tag }}" {% endif %}class="tooltip-link">
     {{ title }}
   </a>
   {% if tooltip.content and show_tooltip %}
