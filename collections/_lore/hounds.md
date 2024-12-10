@@ -9,10 +9,12 @@ excerpt: "Barbarian tribes that reside outside of city limits and harass farmers
 #   overlay_image: /assets/images/lore/hounds/header.png
 #   teaser: /assets/images/lore/hounds/header.jpg
 ---
-> [poem]
 
-There is a peculiar type of barbarian tribes that reside outside of city limits. Known as "The Hounds," they harass farmers, extorting them for goods. They're also commonly referred to as Pigs by city officials, as a derogatory term. Although they're mostly humans and humanoids, they speak a crude, rudimentary mix of Abyssal and common, and most of them can't read and write. 
+There is a peculiar type of barbarian tribes that reside outside of city limits. Known as "The Hounds," they harass farmers, extorting them for goods. They're also commonly referred to as Pigs by city officials, as a derogatory term. Although they're mostly humans and humanoids, they speak a crude, rudimentary mix of Abyssal and Common, and most of them can't read and write. 
 
-# placeholder title ritual 
+Since their comprehension is so hopelessly banal, they're very difficult to negotiate with. And with their unabating tendency towards violence, it would be very much unadvisable.
 
-The Hounds are known for removing their own noses, which results in their resemblance of demons. This is also the source of numerous nicknames, such as Pigs, Imps, and so on.
+# Mark of the Damned
+The Hounds are known for removing their own noses, which results in their resemblance of fiends. This is also the source of numerous nicknames, such as Pigs, Imps, and so on.
+
+In thr ritual, the so-called shaman of the tribe cuts of the nose of the initiate with a relatively dull blade and burns the wound (some use a acid, instead). This results in an ugly scar and overall shape, much like that of a fiendish creature. This ritual results in absolutely no connection to the fiendish planes or to any otherworldly patrons. It's completely meaningless in any sense that matters.
