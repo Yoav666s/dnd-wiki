@@ -18,7 +18,7 @@ The Thing doesn't have a consistent form, it shifts and changes its shape. It's 
 
 [:lore/the-thing:]
 
-Its heart doesn't move, and is located somewhere within the caverns. Only there it can be killed, leaving behind [items:the locket].
+Its heart doesn't move, and is located somewhere within the caverns. Only there it can be killed, leaving behind [[items:the locket]].
 
 # The Hollow Heart
 There is believed to be a beating heart somewhere within the caverns, which keeps the Hollow alive. It is stationary, but the caverns continually shift around it, diverting away anyone who might come near it. It is said that the closer you get to the heart of the caverns, the more convoluted and confusing the tunnels become, leading you around in circles and playing tricks on you.
