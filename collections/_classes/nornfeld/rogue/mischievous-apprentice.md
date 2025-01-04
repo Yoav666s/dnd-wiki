@@ -11,8 +11,6 @@ header:
 
 You have learned to use magic in unexpected and creative ways. You are specialized in mischievous magic tricks not eminently known to the masses, which you use to deceive, outwit, and irritate anyone unlucky enough to cross your path.
 
-[:classes/rogue/mischievous-apprentice;header:]
-
 # Spellcasting
 When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
 
@@ -23,6 +21,9 @@ You learn three cantrips of your choice from the [[rules:mischievous apprentice 
 The [[mischievous apprentice spellcasting]] table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 For example, if you know the 1st-level spell charm person and have a 1st-level and a 2nd-level spell slot available, you can cast charm person using either slot.
+
+[:classes/rogue/mischievous-apprentice;header:]
+
 
 ## Spells Known of 1st-Level and Higher
 You know three 1st-level spells of your choice.
@@ -117,14 +118,12 @@ At 9th level, if you're specialized in the [[subterfuge]] cantrip, you may cast 
 Starting at 13th level, the [[mischievous incantations]] you've specialized in become instinctual, allowing you to cast them in a repertoire of unique reactions.
 
 ## Deceitful Dodge
-At 13th level, if you're specialized in the [[deceitful maneuver]] cantrip, you learn the **deceitful dodge** riposte. When you're targeted by an attack that relies on sight, you may use your reaction to cast [[deceitful maneuver]] and give it disadvantage.
-
-You may also move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. If you move out of the attack's path, you may evade it completely by succeeding a Dexterity saving throw against the attack roll.
+At 13th level, if you're specialized in the [[deceitful maneuver]] cantrip, you learn the **deceitful dodge** riposte. When you're targeted by an attack that relies on sight, you may use your reaction to cast [[deceitful maneuver]] and attempt to move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. Make a Dexterity saving throw against the attack roll. On success, you evade it completely. On failure, you take half damage. Your movement doesn't provoke an opportunity attack from that creature.
 
 ## Divert
-At 13th level, if you're specialized in the [[fling]] cantrip, you learn the **divert** riposte. When you notice a ranged weapon attack, you may use your reaction to try and divert its projectile when it reaches a distance of 30 feet or less from you.
+At 13th level, if you're specialized in the [[fling]] cantrip, you learn the **divert** riposte. When you notice a ranged weapon attack, you may use your reaction to try and divert its projectile when it reaches a distance of 60 feet or less from you.
 
-Subtract 1d10 + your DEX modifier from the attack roll. If the projectile would then miss, you may divert it in a direction you choose within a 30-foot cone of the original direction. If you direct the projectile to hit a different target, it can must make a Dexterity saving throw against the modified attack roll. On failure, the original attacker rolls for damage.
+Subtract 1d10 + your DEX modifier from the attack roll. If the projectile would then miss, you may divert it in a direction you choose within a 30-foot cone of the original direction. If you direct the projectile to hit a different target, it then must make a Dexterity saving throw against the modified attack roll. On failure, the original attacker rolls for damage.
 
 ## Intrusive Thoughts
 At 13th level, if you're specialized in the [[message]] cantrip, you learn the **intrusive thoughts** riposte. When you notice a creature taking any action within range, you may use your reaction to cast [[message]] in an attempt to intervene.
