@@ -129,14 +129,14 @@ Subtract 1d10 + your DEX modifier from the attack roll. If the projectile would 
 At 13th level, if you're specialized in the [[message]] cantrip, you learn the **intrusive thoughts** riposte. When you notice a creature taking any action within range, you may use your reaction to cast [[message]] in an attempt to intervene.
 
 ## Minor Inconvenience
-At 13th level, if you're specialized in the [[minor illusion]] cantrip, you learn the **minor inconvenience** riposte. When an enemy starts its turn within 30 feet of an illusion you created, you may use your reaction to make the illusion taunt it.
+At 13th level, if you're specialized in the [[minor illusion]] cantrip, you learn the **minor inconvenience** riposte. When an enemy moves within 30 feet of you, you may use your reaction to cast [[minor illusion]] in order to startle it.
 
-The enemy must succeed an Intelligence saving throw against your spell save DC or focus its attention on the illusion. The enemy automatically succeeds the saving throw if it already knows it's an illusion.
+The enemy must succeed an Intelligence saving throw against your spell save DC. On failure, its speed is reduced to 0 until its next turn. On success, it is halved. This has no effect if the enemy already knows it's an illusion.
 
 ## Momentary Phantasm
 At 13th level, if you're specialized in the [[minor phantasm]] cantrip, you learn the **momentary phantasm** riposte. When a creature makes a melee attack within 30 feet of you, you may use your reaction to cast [[minor phantasm]] in an attempt to interrupt it.
 
-The attacker must make an Intelligence saving throw. On failure, the phantasm takes effect and the attack is prevented. The phantasm you create must directly affect the attack, such making the attacker's weapon appear as a snake. This requires your concentration.
+The attacker must make an Intelligence saving throw. On failure, the phantasm takes effect and the attack is prevented. The phantasm you create must directly affect the attack, such making the attacker's weapon appear as a snake. This still requires your concentration.
 
 ## Sudden Ruse
 At 13th level, if you're specialized in the [[subterfuge]] cantrip, you learn the **sudden ruse** riposte. When a creature within 30 feet of you makes an attack, you may use your reaction to cast [[subterfuge]] in an attempt to startle, confuse, or distract that creature, giving it disadvantage on the attack roll.
