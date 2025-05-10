@@ -29,7 +29,7 @@ Starting at 1st level, your patron infuses with your body. As a bonus action, yo
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
-# Forgotten Guidance
+# Sickly Aid
 Starting at 1st level, your patron enhances your magic when you are weak. When you have at least one level of exhaustion, you have advantage on magic attack rolls.
 
 # Misty Escape
