@@ -1,16 +1,17 @@
 ---
-title: "The Placeholder"
+title: "The Forgotten"
 index:
-  - placeholder
-  - the-placeholder
-permalink: /classes/warlock/the-placeholder/
+  - the-forgotten 
+  - forgotten-god
+  - the-forgotten-god
+permalink: /classes/warlock/the-forgotten/
 excerpt: ""
 subclass: warlock
 # header:
-#   overlay_image: /assets/images/classes/warlock/the-placeholder/header.png
-#   teaser: /assets/images/classes/warlock/the-placeholder/header.jpg
+#   overlay_image: /assets/images/classes/warlock/the-forgotten/header.png
+#   teaser: /assets/images/classes/warlock/the-forgotten/header.jpg
 ---
-Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being's motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.
+Your patron is a forgotten, nameless god, a creature of legend who holds secrets that were forgotten before the mortal races were born. He is powerful though formless, and can only communicate through dreams. However, mortals might make a pact with him, allowing him to possesses them, taking over their body and using it as his vessel. This is very demanding on the body and can only be sustained for short periods of time, resulting in exhaustion.
 
 # Expanded Spell List
 The Archfey lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
@@ -24,9 +25,7 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 | 5th         | [[!Dominate Person]], [[!Seeming]]             |
 
 # Fey Presence
-Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.
-
-Once you use this feature, you can't use it again until you finish a short or long rest.
+Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you. 
 
 # Misty Escape
 Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell.
