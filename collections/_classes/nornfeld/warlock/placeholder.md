@@ -19,13 +19,15 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 | Spell Level | Spells                                         |
 | :---------- | :--------------------------------------------- |
 | 1st         | [[!Command]], [[!Hideous Laughter]]            |
-| 2nd         | [[!Calm Emotions]], Phantasmal Force           |
+| 2nd         | [[!Scorching Ray]], Phantasmal Force           |
 | 3rd         | [[!Blink]], [[!Plant Growth]]                  |
 | 4th         | [[!Dominate Beast]], [[!Greater Invisibility]] |
 | 5th         | [[!Dominate Person]], [[!Seeming]]             |
 
-# Fey Presence
-Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you. 
+# Possession
+Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you. For one minute, you gain a flying speed of 60 feet and can cast [[Scorching Ray]] at will for the duration. After this ends, you gain one point of exhaustion.
+
+Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 # Misty Escape
 Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell.
