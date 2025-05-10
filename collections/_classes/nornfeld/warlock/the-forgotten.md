@@ -19,7 +19,7 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 | Spell Level | Spells                                         |
 | :---------- | :--------------------------------------------- |
 | 1st         | [[!Fog Cloud]], [[!Shield]]            |
-| 2nd         | [[!Scorching Ray]], [[Blindness/Deafness]]           |
+| 2nd         | [[!Scorching Ray]], [[!Blindness/Deafness]]           |
 | 3rd         | [[!Blink]], [[!Plant Growth]]                  |
 | 4th         | [[!Dominate Beast]], [[!Greater Invisibility]] |
 | 5th         | [[!Dominate Person]], [[!Seeming]]             |
