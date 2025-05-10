@@ -18,14 +18,14 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 
 | Spell Level | Spells                                         |
 | :---------- | :--------------------------------------------- |
-| 1st         | [[!Command]], [[!Hideous Laughter]]            |
+| 1st         | [[!Fog Cloud]], [[!Hideous Laughter]]            |
 | 2nd         | [[!Scorching Ray]], Phantasmal Force           |
 | 3rd         | [[!Blink]], [[!Plant Growth]]                  |
 | 4th         | [[!Dominate Beast]], [[!Greater Invisibility]] |
 | 5th         | [[!Dominate Person]], [[!Seeming]]             |
 
 # Possession
-Starting at 1st level, your patron infuses with your body. As a bonus action, you can allow him to possess you. For one minute, you gain a flying speed of 60 feet and can cast [[Scorching Ray]] as an action for the duration, without spending spell slots. After this ends, you gain one level of exhaustion.
+Starting at 1st level, your patron infuses with your body. As a bonus action, you can allow him to possess you. For one minute, you gain a flying speed of 60 feet and can cast [[Fog Cloud]] and [[Scorching Ray]] as an action for the duration, without spending spell slots. After this ends, you gain one level of exhaustion.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
