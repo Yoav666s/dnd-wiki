@@ -5,7 +5,7 @@ layout: single
 
 <div class="page__content">
   {{ content }}
-  {% capture button %}[Main Page](/{{ site.baseurl }}/classes/{{ page.class | slugify}}/{% if page.subclass %}{{ page.subclass | slugify }}/{% endif %}){: .btn .btn--light-outline .btn--small}{% endcapture %}{{ button | markdownify }}
+  {% capture button %}[Main Page]({{ site.baseurl }}/classes/{{ page.class | slugify}}/{% if page.subclass %}{{ page.subclass | slugify }}/{% endif %}){: .btn .btn--light-outline .btn--small}{% endcapture %}{{ button | markdownify }}
   {% for level in levels %}
     {% assign level_spells = site.spells | where: "level", level.title | sort: "title" %}
     {% assign spell_found = false %}
