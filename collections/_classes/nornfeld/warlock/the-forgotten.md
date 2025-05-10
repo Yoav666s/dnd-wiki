@@ -30,7 +30,7 @@ Starting at 1st level, your patron infuses with your body. As a bonus action, yo
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 # Forgotten Guidance
-Starting at 1st level, your patron enhances your magic when you are weak. When you have at least one level of exhaustion, you have advantage on all magic attack rolls.
+Starting at 1st level, your patron enhances your magic when you are weak. When you have at least one level of exhaustion, you have advantage on magic attack rolls.
 
 # Misty Escape
 Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell.
@@ -45,6 +45,9 @@ Once you use this feature, you can’t use it again until you finish a short or 
 
 # Beguiling Defenses
 Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being charmed, and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be charmed by you for 1 minute or until the creature takes any damage.
+
+# Might of the Frail
+Begining at 10th level, if you have at least three levels of exhaustion, whenever you fail an attack roll you can use your bonus action to dodge, and whenever you fail a saving throw you regain one expended spell slot.
 
 # Dark Delirium
 Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is charmed or frightened by you (your choice) for 1 minute or until your concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.
