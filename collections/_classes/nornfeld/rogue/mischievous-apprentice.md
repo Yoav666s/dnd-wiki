@@ -68,7 +68,7 @@ Spell attack modifier = your proficiency bonus + your Dexterity modifier
 Starting at 3rd level, you gain advantage on Dexterity ([[Sleight of Hand]]) checks when trying to cast a spell without being noticed.
 
 # Mischievous Incantations
-At 3rd level, choose one cantrip to specialize in. You can use your bonus action to cast it, and gain the following benefits:
+At 3rd level, choose one cantrip to specialize in. You can use your bonus action to cast it, and gain additional benefits. You can choose a second cantrip to specialize in at 9th level.
 
 ## Deceitful Gesture
 At 3rd level, if you're specialized in the [[deceitful maneuver]] cantrip, you can cast it freely as part of any interaction, such as drawing a dagger, pulling a lever, or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
@@ -144,6 +144,6 @@ At 13th level, if you're specialized in the [[subterfuge]] cantrip, you learn th
 ---
 
 # Elegant Improvisation
-Starting at 17th level, you can take an additional reaction once per round, and only in order to cast a spell that has the casting time of 1 reaction, or to perform a [[precarious riposte]]. You can use this feature a number of times equal to half you proficiency bonus, and you regain all expended uses of it when you finish a long rest.
+Starting at 17th level, you can take an additional reaction once per round, and only in order to cast a spell that has the casting time of 1 reaction, or to perform a [[precarious riposte]]. After you use this feature, you can't use it again until you finish a short or long rest.
 
 [:classes/rogue/mischievous-apprentice/alt:]
