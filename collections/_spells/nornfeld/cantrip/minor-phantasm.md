@@ -7,7 +7,10 @@ tags:
   - Control
   - Deception
 available_for:
+  - Bard
   - Mischievous Apprentice
+  - Sorcerer
+  - Warlock
 level: "Cantrip"
 school: "Illusion"
 range: "30 ft"

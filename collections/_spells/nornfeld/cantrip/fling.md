@@ -8,6 +8,8 @@ tags:
   - Control
 available_for:
   - Mischievous Apprentice
+  - Sorcerer 
+  - Wizard
 level: "Cantrip"
 school: "Transmutation"
 range: "60 ft"
