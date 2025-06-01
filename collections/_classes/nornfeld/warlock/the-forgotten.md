@@ -59,7 +59,7 @@ Begining at 10th level, when you have at least three levels of exhaustion, you g
 - You can cast the [[Greater Invisibility]] spell on yourself without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
 
 # On the Brink of Death
-Starting at 14th level, when you fall unconscious, you can let your patron possess your body for one minute, gaining all the aforementioned benefits. After this ends, you gain one level of exhaustion and stabilize.
+Starting at 14th level, when you fall unconscious, you can let your patron possess your body for one minute, gaining all the aforementioned benefits. After this ends, you gain one level of exhaustion and fall unconscious. If you still have any temporary hit points left, you lose them and stabilize.
 
 Once you use this feature, you can't do it again until you finish a short or long rest.
 
