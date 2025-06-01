@@ -51,7 +51,7 @@ Starting at 6th level, when you have at least two levels of exhaustion, you gain
 Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being charmed, and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be charmed by you for 1 minute or until the creature takes any damage.
 
 # Frail Elusion
-Begining at 10th level, if you have at least three levels of exhaustion, you gain the following benefits:
+Begining at 10th level, when you have at least three levels of exhaustion, you gain the following benefits:
 
 - Whenever you fail a saving throw you regain one expended spell slot.
 - You can cast the [[Greater Invisibility]] spell without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
