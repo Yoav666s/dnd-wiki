@@ -56,12 +56,10 @@ Begining at 10th level, when you have at least three levels of exhaustion, you g
 - Whenever you fail a saving throw you regain one expended spell slot.
 - You can cast the [[Greater Invisibility]] spell on yourself without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
 
-# Dark Delirium
-Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is charmed or frightened by you (your choice) for 1 minute or until your concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.
+# On the Brink of Death
+Starting at 14th level, when you fall unconscious, you can let your patron possess your body for one minute, gaining all the aforementioned benefits. After this ends, you gain one level of exhaustion and stabilize.
 
-Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.
-
-You must finish a short or long rest before you can use this feature again.
+Once you use this feature, you can't do it again until you finish a short or long rest.
 
 # Might of the Frail
 Begining at 14th level, when you have at least four levels of exhaustion, you gain the following benefits:
