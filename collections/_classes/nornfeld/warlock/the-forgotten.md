@@ -64,4 +64,5 @@ Once you use this feature, you can't do it again until you finish a short or lon
 # Might of the Frail
 Begining at 14th level, when you have at least four levels of exhaustion, you gain the following benefits:
 
+- While you are possessed by your patron, your body doesn't suffer from the negative effects of exhaustion.
 - You can cast the [[Arcane Hand]] spell without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
