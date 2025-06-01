@@ -19,7 +19,7 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 | Spell Level | Spells                                         |
 | :---------- | :--------------------------------------------- |
 | 1st         | [[!Fog Cloud]], [[!Shield]]            |
-| 2nd         | [[!Scorching Ray]], [[!Blindness/Deafness]]           |
+| 2nd         | [[!Scorching Ray]], [[!Detect Thoughts]]           |
 | 3rd         | [[!Blink]], [[!Plant Growth]]                  |
 | 4th         | [[!Dominate Beast]], [[!Greater Invisibility]] |
 | 5th         | [[!Arcane Hand]], [[!Seeming]]             |
@@ -35,10 +35,8 @@ Starting at 1st level, your patron enhances your magic when you are weak. When y
 - You have advantage on magic attack rolls.
 - You can cast the [[Longstrider]] spell on yourself without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
 
-# Misty Escape
-Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell.
-
-Once you use this feature, you can't use it again until you finish a short or long rest.
+# Unwavering Defences
+Starting at 6th level, while you are possessed by your patron, you can cast the [[Shield]] spell as a reaction without expending spell slots.
 
 # Weakly Step
 Starting at 6th level, when you have at least two levels of exhaustion, you gain the following benefits:
