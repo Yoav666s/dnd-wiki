@@ -68,5 +68,5 @@ Once you use this feature, you can't do it again until you finish a short or lon
 # Might of the Frail
 Beginning at 14th level, when you have at least three levels of exhaustion, you gain the following benefits:
 
-- You can cast the [[Haste]] spell on yourself without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
+- You gain advantage on saving throws against magic.
 - You can cast the [[Arcane Hand]] spell without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
