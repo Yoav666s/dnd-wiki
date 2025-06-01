@@ -29,7 +29,7 @@ Starting at 1st level, your patron infuses with your body. As an action, you can
 
 Once you use this feature, you can’t use it again until you finish a short or long rest. You cannot use this feature if you have three or more levels of exhaustion.
 
-Additionally, when taking a short rest, you may remove one level of exhaustion instead of recovering your expended spell slots. 
+Additionally, when taking a short rest, you may recover one level of exhaustion instead of recovering your expended spell slots. 
 
 # Sickly Aid
 Starting at 1st level, your patron enhances your magic when you are weak. When you have at least one level of exhaustion, you gain the following benefits:
