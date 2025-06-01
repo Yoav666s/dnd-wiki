@@ -33,7 +33,6 @@ Once you use this feature, you can’t use it again until you finish a short or 
 Starting at 1st level, your patron enhances your magic when you are weak. When you have at least one level of exhaustion, you gain the following benefits:
 
 - You have advantage on magic attack rolls.
-
 - You can cast the [[Longstrider]] spell on yourself without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
 
 # Misty Escape
