@@ -21,7 +21,7 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 | 1st         | [[!Fog Cloud]], [[!Shield]]            |
 | 2nd         | [[!Scorching Ray]], [[!Detect Thoughts]]           |
 | 3rd         | [[!Fireball]], [[!Haste]]                  |
-| 4th         | [[!Dominate Beast]], [[!Greater Invisibility]] |
+| 4th         | [[!Wall of Fire]], [[!Greater Invisibility]] |
 | 5th         | [[!Arcane Hand]], [[!Seeming]]             |
 
 # Possession
