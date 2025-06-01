@@ -55,7 +55,7 @@ Once you use this feature, you can't do it again until you finish a short or lon
 # Feeble Excellence
 Begining at 10th level, when you have at least three levels of exhaustion, you gain the following benefits:
 
-- Whenever you fail a saving throw you regain one expended spell slot.
+- You gain advantage on magic attack rolls.
 - You can cast the [[Greater Invisibility]] spell on yourself without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
 
 # On the Brink of Death
