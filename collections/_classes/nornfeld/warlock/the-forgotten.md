@@ -54,7 +54,7 @@ Once you use this feature, you can't do it again until you finish a short or lon
 Begining at 10th level, when you have at least three levels of exhaustion, you gain the following benefits:
 
 - Whenever you fail a saving throw you regain one expended spell slot.
-- You can cast the [[Greater Invisibility]] spell without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
+- You can cast the [[Greater Invisibility]] spell on yourself without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
 
 # Dark Delirium
 Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is charmed or frightened by you (your choice) for 1 minute or until your concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.
