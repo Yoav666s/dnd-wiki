@@ -22,7 +22,7 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 | 2nd         | [[!Scorching Ray]], [[!Blindness/Deafness]]           |
 | 3rd         | [[!Blink]], [[!Plant Growth]]                  |
 | 4th         | [[!Dominate Beast]], [[!Greater Invisibility]] |
-| 5th         | [[!Dominate Person]], [[!Seeming]]             |
+| 5th         | [[!Arcane Hand]], [[!Seeming]]             |
 
 # Possession
 Starting at 1st level, your patron infuses with your body. As a bonus action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself (even if you don't know this spell and without expending a spell slot). For one minute, you gain a flying speed of 60 feet and can cast [[Scorching Ray]] at second level as an action for the duration, without expending spell slots. After this ends, you gain one level of exhaustion.
@@ -50,7 +50,7 @@ Starting at 6th level, when you have at least two levels of exhaustion, you gain
 # Beguiling Defenses
 Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being charmed, and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be charmed by you for 1 minute or until the creature takes any damage.
 
-# Frail Elusion
+# Feeble Elusion
 Begining at 10th level, when you have at least three levels of exhaustion, you gain the following benefits:
 
 - Whenever you fail a saving throw you regain one expended spell slot.
@@ -62,3 +62,8 @@ Starting at 14th level, you can plunge a creature into an illusory realm. As an 
 Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.
 
 You must finish a short or long rest before you can use this feature again.
+
+# Might of the Frail
+Begining at 14th level, when you have at least four levels of exhaustion, you gain the following benefits:
+
+- You can cast the [[Arcane Hand]] spell without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
