@@ -38,7 +38,7 @@ Starting at 1st level, your patron enhances your magic when you are weak. When y
 - You can cast the [[Shield]] spell without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
 
 # Unwavering Defences
-Starting at 6th level, your patron is becoming stronger. While you are possessed by your patron, you can cast the [[Shield]] spell as a reaction without expending spell slots. Additionally, while you are possessed, you gain temporary hit points equal to your warlock level + Charisma modifier and a flying speed of 60 feet.
+Starting at 6th level, your patron is becoming stronger. While you are possessed by your patron, you can cast the [[Shield]] spell as a reaction without expending spell slots. Additionally, while you are possessed, you gain a flying speed of 60 feet and temporary hit points equal to your warlock level + Charisma modifier.
 
 # Weakly Step
 Starting at 6th level, when you have at least two levels of exhaustion, you gain the following benefits:
