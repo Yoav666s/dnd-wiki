@@ -43,7 +43,7 @@ Starting at 6th level, your patron is becoming stronger. While you are possessed
 # Weakly Step
 Starting at 6th level, when you have at least two levels of exhaustion, you gain the following benefits:
 
-- After you cast a spell, you can use your bonus action to [[dash]].
+- After you use your action to cast a spell, you can use your bonus action to [[dash]].
 - You can cast [[Misty Step]] as a bonus action without expending a spell slot. Once you do, you can’t do so again until you finish a short or long rest.
 
 
