@@ -61,12 +61,12 @@ Beginning at 10th level, when you have at least three levels of exhaustion, you 
 - You can cast the [[Greater Invisibility]] spell on yourself without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
 
 # On the Brink of Death
-Starting at 14th level, when you drop to 0 hit points, you can let your patron possess your body for one minute, gaining all the aforementioned benefits. After this ends, you gain one level of exhaustion (but no more than 5) and fall unconscious. If you still have any temporary hit points left, you lose them and stabilize.
+Starting at 14th level, while you are possessed by your patron, your body doesn't suffer from the negative effects of exhaustion. When you drop to 0 hit points, you can let your patron possess your body for one minute, gaining all the aforementioned benefits. After this ends, you gain one level of exhaustion (but no more than 5) and fall unconscious. If you still have any temporary hit points left, you lose them and stabilize.
 
 Once you use this feature, you can't do it again until you finish a short or long rest.
 
 # Might of the Frail
-Beginning at 14th level, while you are possessed by your patron, your body doesn't suffer from the negative effects of exhaustion. When you have at least four levels of exhaustion, you gain the following benefits:
+Beginning at 14th level, when you have at least four levels of exhaustion, you gain the following benefits:
 
 - 
 - You can cast the [[Arcane Hand]] spell without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
