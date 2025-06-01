@@ -50,12 +50,12 @@ Starting at 6th level, when you have at least two levels of exhaustion, you gain
 # Worthy Vessel
 Beginning at 10th level, your patron is starting to feel comfortable in your body. While possessed, you can cast [[Telekinesis]] as an action, without expending a spell slot.
 
-As a bonus action, you can let your patron to possess your body until your next turn, granting you all the aforementioned benefits. This does not exhaust your body.
+As a bonus action, you can let your patron possess your body until your next turn, granting you all the aforementioned benefits. This does not exhaust your body.
 
 Once you use this feature, you can't do it again until you finish a short or long rest.
 
 # Feeble Excellence
-Begining at 10th level, when you have at least three levels of exhaustion, you gain the following benefits:
+Beginning at 10th level, when you have at least three levels of exhaustion, you gain the following benefits:
 
 - You gain advantage on magic attack rolls.
 - You can cast the [[Greater Invisibility]] spell on yourself without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
@@ -66,7 +66,7 @@ Starting at 14th level, when you fall unconscious, you can let your patron posse
 Once you use this feature, you can't do it again until you finish a short or long rest.
 
 # Might of the Frail
-Begining at 14th level, when you have at least four levels of exhaustion, you gain the following benefits:
+Beginning at 14th level, when you have at least four levels of exhaustion, you gain the following benefits:
 
 - While you are possessed by your patron, your body doesn't suffer from the negative effects of exhaustion.
 - You can cast the [[Arcane Hand]] spell without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
