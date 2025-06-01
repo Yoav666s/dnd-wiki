@@ -48,7 +48,7 @@ Starting at 6th level, when you have at least two levels of exhaustion, you gain
 # Worthy Vessel
 Beginning at 10th level, your patron is starting to feel comfortable in your body. While possessed, you can cast [[Telekinesis]] as an action, without expending a spell slot.
 
-As a bonus action, you can let your patron to possess you until your next turn, granting you all the aforementioned benefits. This does not exhaust your body.
+As a bonus action, you can let your patron to possess your body until your next turn, granting you all the aforementioned benefits. This does not exhaust your body.
 
 Once you use this feature, you can't do it again until you finish a short or long rest.
 
