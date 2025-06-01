@@ -11,7 +11,7 @@ subclass: warlock
 #   overlay_image: /assets/images/classes/warlock/the-forgotten/header.png
 #   teaser: /assets/images/classes/warlock/the-forgotten/header.jpg
 ---
-Your patron is a forgotten, nameless god, a creature of legend who holds secrets that were forgotten before the mortal races were born. He is powerful though formless, and can only communicate through dreams. However, mortals might make a pact with him, allowing him to possesses them, taking over their body and using it as his vessel. This is very demanding on the body and can only be sustained for short periods of time, resulting in exhaustion.
+Your patron is a forgotten, nameless god, a creature of legend who holds secrets that were forgotten before the mortal races were born. He is powerful though formless, and can only communicate through dreams. However, mortals might make a pact with him, allowing him to possess them, taking over their body and using it as his vessel. This is very demanding on the body and can only be sustained for short periods of time, resulting in exhaustion.
 
 # Expanded Spell List
 The Forgotten lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
