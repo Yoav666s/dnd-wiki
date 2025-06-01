@@ -63,7 +63,7 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 
 | Patron                  | Source                     |
 | :---------------------- | :------------------------- |
-| [[!Archfey]]            | Basic Rules                |
+| [[!The Archfey]]            | Basic Rules                |
 | [[!The Forgotten]]      | Untold Legends of Nornfeld |
 
 # Pact Magic
