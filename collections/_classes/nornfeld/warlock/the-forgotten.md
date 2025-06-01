@@ -22,7 +22,7 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 | 2nd         | [[!Scorching Ray]], [[!Detect Thoughts]]           |
 | 3rd         | [[!Fireball]], [[!Haste]]                  |
 | 4th         | [[!Wall of Fire]], [[!Greater Invisibility]] |
-| 5th         | [[!Arcane Hand]], [[! Telekinesis]]             |
+| 5th         | [[!Arcane Hand]], [[!Telekinesis]]             |
 
 # Possession
 Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself without expending a spell slot (even if you don't know this spell). For one minute, you gain a flying speed of 60 feet and can cast [[Scorching Ray]] at second level as an action for the duration, without expending spell slots. After this ends, you gain one level of exhaustion.
