@@ -32,6 +32,8 @@ Once you use this feature, you can’t use it again until you finish a short or 
 # Sickly Aid
 Starting at 1st level, your patron enhances your magic when you are weak. When you have at least one level of exhaustion, you have advantage on magic attack rolls.
 
+Additionally, you can cast the [[Longstrider]] spell on yourself without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
+
 # Misty Escape
 Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell.
 
