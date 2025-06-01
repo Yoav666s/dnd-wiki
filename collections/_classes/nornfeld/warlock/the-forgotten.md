@@ -25,7 +25,7 @@ The Forgotten lets you choose from an expanded list of spells when you learn a w
 | 5th         | [[!Arcane Hand]], [[!Telekinesis]]             |
 
 # Possession
-Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself. For one minute, you gain a flying speed of 60 feet and can cast [[Scorching Ray]] at second level once per turn as an action for the duration, a number of times equal to your charisma modifier, without expending spell slots. After this ends, you gain one level of exhaustion.
+Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself. For one minute, you gain a flying speed of 30 feet and can cast [[Scorching Ray]] at second level once per turn as an action for the duration, a number of times equal to your charisma modifier, without expending spell slots. After this ends, you gain one level of exhaustion.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
@@ -38,7 +38,7 @@ Starting at 1st level, your patron enhances your magic when you are weak. When y
 - You can cast the [[Shield]] spell without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
 
 # Unwavering Defences
-Starting at 6th level, your patron is becoming stronger. While you are possessed by your patron, you can cast the [[Shield]] spell as a reaction without expending spell slots. Additionally, while you are possessed, you gain temporary hit points equal to your warlock level + Charisma modifier.
+Starting at 6th level, your patron is becoming stronger. While you are possessed by your patron, you can cast the [[Shield]] spell as a reaction without expending spell slots, and your flying speed is increased to 60 feet. Additionally, while you are possessed, you gain temporary hit points equal to your warlock level + Charisma modifier.
 
 # Weakly Step
 Starting at 6th level, when you have at least two levels of exhaustion, you gain the following benefits:
