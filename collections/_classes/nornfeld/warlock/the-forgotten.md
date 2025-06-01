@@ -25,7 +25,7 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 | 5th         | [[!Arcane Hand]], [[!Seeming]]             |
 
 # Possession
-Starting at 1st level, your patron infuses with your body. As a bonus action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself without expending a spell slot (even if you don't know this spell). For one minute, you gain a flying speed of 60 feet and can cast [[Scorching Ray]] at second level as an action for the duration, without expending spell slots. After this ends, you gain one level of exhaustion.
+Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself without expending a spell slot (even if you don't know this spell). For one minute, you gain a flying speed of 60 feet and can cast [[Scorching Ray]] at second level as an action for the duration, without expending spell slots. After this ends, you gain one level of exhaustion.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
@@ -45,10 +45,12 @@ Starting at 6th level, when you have at least two levels of exhaustion, you gain
 - You can cast [[Misty Step]] as a bonus action without expending a spell slot. Once you do, you can’t do it again until you finish a short or long rest.
 
 
-# Beguiling Defenses
-Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being charmed, and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be charmed by you for 1 minute or until the creature takes any damage.
+# Worthy Vessel
+Beginning at 10th level, your patron is starting to feel comfortable in your body. As a bonus action, you can let your patron to possess you until your next turn, granting you a flying speed of 60 feet and allowing you to cast [[Scorching Ray]] and [[Shield]] without expending spell slots. This does not exhaust your body.
 
-# Feeble Elusion
+Once you use this feature, you can't do it again until you finish a short or long rest.
+
+# Feeble Excellence
 Begining at 10th level, when you have at least three levels of exhaustion, you gain the following benefits:
 
 - Whenever you fail a saving throw you regain one expended spell slot.
