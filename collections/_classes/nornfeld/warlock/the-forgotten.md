@@ -25,7 +25,7 @@ The Forgotten lets you choose from an expanded list of spells when you learn a w
 | 5th         | [[!Arcane Hand]], [[!Telekinesis]]             |
 
 # Possession
-Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself that disperses at the start of your next turn. For one minute, you can cast [[Scorching Ray]] at second level once per turn as an action a number of times equal to your charisma modifier, without expending spell slots. At the end of the duration, you gain one level of exhaustion (but no more than 3).
+Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself that disperses at the start of your next turn. For one minute, you can cast [[Scorching Ray]] at second level once per turn as an action a number of times equal to your warlock level, without expending spell slots. At the end of the duration, you gain one level of exhaustion (but no more than 3).
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
