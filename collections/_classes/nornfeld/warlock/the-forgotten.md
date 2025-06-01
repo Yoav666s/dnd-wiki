@@ -25,7 +25,7 @@ The Forgotten lets you choose from an expanded list of spells when you learn a w
 | 5th         | [[!Arcane Hand]], [[!Telekinesis]]             |
 
 # Possession
-Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself. For one minute, you gain a flying speed of 30 feet and can cast [[Scorching Ray]] at second level once per turn as an action for the duration, a number of times equal to your charisma modifier, without expending spell slots. After this ends, you gain one level of exhaustion (but no more than 5).
+Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself. For one minute, you gain a flying speed of 30 feet and can cast [[Scorching Ray]] at second level once per turn as an action for the duration, a number of times equal to your charisma modifier, without expending spell slots. After this ends, you gain one level of exhaustion (but no more than 3).
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
@@ -61,12 +61,12 @@ Beginning at 10th level, when you have at least three levels of exhaustion, you 
 - You can cast the [[Greater Invisibility]] spell on yourself without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
 
 # On the Brink of Death
-Starting at 14th level, while you are possessed by your patron, your body doesn't suffer from the negative effects of exhaustion. When you drop to 0 hit points, you can let your patron possess your body for one minute, gaining all the aforementioned benefits. After this ends, you gain one level of exhaustion (but no more than 5) and fall unconscious. If you still have any temporary hit points left, you lose them and stabilize.
+Starting at 14th level, while you are possessed by your patron, your body doesn't suffer from the negative effects of exhaustion. When you drop to 0 hit points, you can let your patron possess your body for one minute, gaining all the aforementioned benefits. After this ends, you gain one level of exhaustion (but no more than 3) and fall unconscious. If you still have any temporary hit points left, you lose them and stabilize.
 
 Once you use this feature, you can't do it again until you finish a short or long rest.
 
 # Might of the Frail
-Beginning at 14th level, when you have at least four levels of exhaustion, you gain the following benefits:
+Beginning at 14th level, when you have at least three levels of exhaustion, you gain the following benefits:
 
-- 
+- You can cast the [[Haste]] spell on yourself without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
 - You can cast the [[Arcane Hand]] spell without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
