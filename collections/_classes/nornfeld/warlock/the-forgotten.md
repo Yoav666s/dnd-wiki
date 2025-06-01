@@ -27,9 +27,9 @@ The Forgotten lets you choose from an expanded list of spells when you learn a w
 # Possession
 Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself. For one minute, you gain a flying speed of 60 feet and can cast [[Scorching Ray]] at second level once per turn as an action for the duration, a number of times equal to your charisma modifier, without expending spell slots. After this ends, you gain one level of exhaustion.
 
-When taking a short rest, you may remove one level of exhaustion instead of recovering expended spell slots.
-
 Once you use this feature, you can’t use it again until you finish a short or long rest.
+
+Additionally, when taking a short rest, you may remove one level of exhaustion instead of recovering expended spell slots.
 
 # Sickly Aid
 Starting at 1st level, your patron enhances your magic when you are weak. When you have at least one level of exhaustion, you gain the following benefits:
