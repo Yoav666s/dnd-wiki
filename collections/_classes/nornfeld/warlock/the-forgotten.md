@@ -19,7 +19,7 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 | Spell Level | Spells                                         |
 | :---------- | :--------------------------------------------- |
 | 1st         | [[!Fog Cloud]], [[!Shield]]            |
-| 2nd         | [[!Scorching Ray]], [[!Detect Thoughts]]           |
+| 2nd         | [[!Scorching Ray]], [[!Blur]]           |
 | 3rd         | [[!Fireball]], [[!Haste]]                  |
 | 4th         | [[!Wall of Fire]], [[!Greater Invisibility]] |
 | 5th         | [[!Arcane Hand]], [[!Telekinesis]]             |
