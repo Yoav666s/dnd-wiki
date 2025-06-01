@@ -66,7 +66,7 @@ Starting at 14th level, when you drop to 0 hit points, you can let your patron p
 Once you use this feature, you can't do it again until you finish a short or long rest.
 
 # Might of the Frail
-Beginning at 14th level, when you have at least four levels of exhaustion, you gain the following benefits:
+Beginning at 14th level, while you are possessed by your patron, your body doesn't suffer from the negative effects of exhaustion. When you have at least four levels of exhaustion, you gain the following benefits:
 
-- While you are possessed by your patron, your body doesn't suffer from the negative effects of exhaustion.
+- 
 - You can cast the [[Arcane Hand]] spell without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
