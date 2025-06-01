@@ -25,11 +25,11 @@ The Forgotten lets you choose from an expanded list of spells when you learn a w
 | 5th         | [[!Arcane Hand]], [[!Telekinesis]]             |
 
 # Possession
-Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself that disperses at the start of your next turn. For one minute, you can cast [[Scorching Ray]] at second level once per turn as an action a number of times equal to your warlock level, without expending spell slots. At the end of the duration, you gain one level of exhaustion (but no more than 3).
+Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself that disperses at the start of your next turn. For one minute, you can cast [[Scorching Ray]] at second level once per turn as an action a number of times equal to your warlock level, without expending spell slots. At the end of the duration, you gain one level of exhaustion.
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you can’t use it again until you finish a short or long rest. You cannot use this feature if you have three or more levels of exhaustion.
 
-Additionally, when taking a short rest, you may remove one level of exhaustion instead of recovering your expended spell slots.
+Additionally, when taking a short rest, you may remove one level of exhaustion instead of recovering your expended spell slots. 
 
 # Sickly Aid
 Starting at 1st level, your patron enhances your magic when you are weak. When you have at least one level of exhaustion, you gain the following benefits:
@@ -61,9 +61,9 @@ Beginning at 10th level, when you have at least three levels of exhaustion, you 
 - You can cast the [[Greater Invisibility]] spell on yourself without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
 
 # On the Brink of Death
-Starting at 14th level, while you are possessed by your patron, your body doesn't suffer from the negative effects of exhaustion. When you drop to 0 hit points, you can let your patron possess your body for one minute, gaining all the aforementioned benefits. After this ends, you gain one level of exhaustion (but no more than 3) and fall unconscious. If you still have any temporary hit points left, you lose them and stabilize.
+Starting at 14th level, while you are possessed by your patron, your body doesn't suffer from the negative effects of exhaustion. When you drop to 0 hit points, you can let your patron possess your body for one minute, gaining all the aforementioned benefits. After this ends, you fall unconscious and gain one level of exhaustion. If you still have any temporary hit points left, you lose them and stabilize.
 
-Once you use this feature, you can't do it again until you finish a short or long rest.
+Once you use this feature, you can't do it again until you finish a short or long rest. You may use this feature even if you have five levels of exhaustion, but it will result in your death, afterwards.
 
 # Might of the Frail
 Beginning at 14th level, when you have at least three levels of exhaustion, you gain the following benefits:
