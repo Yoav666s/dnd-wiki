@@ -35,7 +35,7 @@ Additionally, when taking a short rest, you may remove one level of exhaustion i
 Starting at 1st level, your patron enhances your magic when you are weak. When you have at least one level of exhaustion, you gain the following benefits:
 
 - You deal additional damage equal to your proficiency bonus with magic attack rolls.
-- You can cast the [[Shield]] spell without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
+- You can cast the [[Shield]] spell without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
 
 # Unwavering Defences
 Starting at 6th level, your patron is becoming stronger. While you are possessed by your patron, you can cast the [[Shield]] spell as a reaction without expending spell slots, and your flying speed is increased to 60 feet. Additionally, while you are possessed, you gain temporary hit points equal to your warlock level + Charisma modifier.
@@ -44,7 +44,7 @@ Starting at 6th level, your patron is becoming stronger. While you are possessed
 Starting at 6th level, when you have at least two levels of exhaustion, you gain the following benefits:
 
 - Whenever you fail an attack roll you can use your bonus action to dodge.
-- You can cast [[Misty Step]] as a bonus action without expending a spell slot. Once you do, you can’t do it again until you finish a short or long rest.
+- You can cast [[Misty Step]] as a bonus action without expending a spell slot. Once you do, you can’t do so again until you finish a short or long rest.
 
 
 # Worthy Vessel
@@ -58,7 +58,7 @@ Once you use this feature, you can't do it again until you finish a short or lon
 Beginning at 10th level, when you have at least three levels of exhaustion, you gain the following benefits:
 
 - You gain advantage on magic attack rolls.
-- You can cast the [[Greater Invisibility]] spell on yourself without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
+- You can cast the [[Greater Invisibility]] spell on yourself without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
 
 # On the Brink of Death
 Starting at 14th level, when you drop to 0 hit points, you can let your patron possess your body for one minute, gaining all the aforementioned benefits. After this ends, you gain one level of exhaustion (but no more than 5) and fall unconscious. If you still have any temporary hit points left, you lose them and stabilize.
@@ -69,4 +69,4 @@ Once you use this feature, you can't do it again until you finish a short or lon
 Beginning at 14th level, when you have at least four levels of exhaustion, you gain the following benefits:
 
 - While you are possessed by your patron, your body doesn't suffer from the negative effects of exhaustion.
-- You can cast the [[Arcane Hand]] spell without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
+- You can cast the [[Arcane Hand]] spell without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
