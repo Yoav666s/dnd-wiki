@@ -33,7 +33,7 @@ Once you use this feature, you can’t use it again until you finish a short or 
 Starting at 1st level, your patron enhances your magic when you are weak. When you have at least one level of exhaustion, you gain the following benefits:
 
 - You have advantage on magic attack rolls.
-- You can cast the [[Longstrider]] spell on yourself without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
+- You can cast the [[Shield]] spell without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
 
 # Unwavering Defences
 Starting at 6th level, your patron is becoming stronger. While you are possessed by your patron, you can cast the [[Shield]] spell as a reaction without expending spell slots. Additionally, while you are possessed, you gain temporary hit points equal to half of your base health.
