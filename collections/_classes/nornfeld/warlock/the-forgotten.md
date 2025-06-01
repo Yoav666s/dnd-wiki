@@ -32,7 +32,7 @@ Once you use this feature, you can’t use it again until you finish a short or 
 # Sickly Aid
 Starting at 1st level, your patron enhances your magic when you are weak. When you have at least one level of exhaustion, you gain the following benefits:
 
-- You have advantage on magic attack rolls.
+- You can add your proficiency bonus to magic attack damage rolls.
 - You can cast the [[Shield]] spell without expending a spell slot. Once you do, you can't do it again until you finish a short or long rest.
 
 # Unwavering Defences
