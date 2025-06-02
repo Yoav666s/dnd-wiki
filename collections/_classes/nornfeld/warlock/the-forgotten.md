@@ -29,13 +29,14 @@ Starting at 1st level, your patron infuses with your body. As an action, you can
 
 Once you use this feature, you can’t use it again until you finish a short or long rest. You cannot use this feature if you have three or more levels of exhaustion.
 
-Additionally, when taking a short rest, you may recover one level of exhaustion instead of recovering your expended spell slots. 
-
 # Sickly Aid
 Starting at 1st level, your patron enhances your magic when you are weak. When you have at least one level of exhaustion, you gain the following benefits:
 
 - You deal additional damage equal to your proficiency bonus with spell attacks.
 - You can cast the [[Shield]] spell without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
+
+# Recovery
+Starting at 1st level, when taking a short rest, you may recover one level of exhaustion instead of recovering your expended spell slots. 
 
 # Unwavering Defences
 Starting at 6th level, your patron is becoming stronger. While you are possessed by your patron, you can cast the [[Shield]] spell as a reaction without expending spell slots. Additionally, while you are possessed, you gain a flying speed of 60 feet and temporary hit points equal to your warlock level + Charisma modifier (minimum of 1).
