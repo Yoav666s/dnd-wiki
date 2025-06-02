@@ -61,7 +61,7 @@ Beginning at 10th level, when you have at least three levels of exhaustion, you 
 - You gain advantage on magic attack rolls.
 - You can cast the [[Greater Invisibility]] spell on yourself without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
 
-# On the Brink of Death
+# Last Resort
 Starting at 14th level, while you are possessed by your patron, your body doesn't suffer from the negative effects of exhaustion.
 
 When you drop to 0 hit points, you can let your patron possess your body for one minute, gaining all the aforementioned benefits. After this ends, you fall unconscious and gain one level of exhaustion. If you still have any temporary hit points left, you lose them and stabilize.
