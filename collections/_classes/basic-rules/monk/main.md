@@ -31,6 +31,7 @@ Monks are united in their ability to magically harness the energy that flows in 
 | 14th | +5 | 1d8 | 14 | +25 ft. | [[Diamond Soul]] |
 | 15th | +5 | 1d8 | 15 | +25 ft. | [[Timeless Body]] |
 | 16th | +5 | 1d8 | 16 | +25 ft. | [[Ability Score Improvement]] |
+| 17th | +6 | 1d10 | 17 | +25 ft. | [[Monastic Tradition]] feature |
 
 # Class Features
 As a monk, you gain the following class features.
