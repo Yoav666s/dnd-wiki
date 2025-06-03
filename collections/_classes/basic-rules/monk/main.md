@@ -23,12 +23,12 @@ As a monk, you gain the following class features.
 
 ## Proficiencies
 **Armor:** None
-Weapons: Simple weapons, shortswords
-Tools: Choose one type of artisan's tools or one musical instrument
-Saving Throws: Strength, Dexterity
-Skills: Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+**Weapons:** Simple weapons, shortswords
+**Tools:** Choose one type of artisan's tools or one musical instrument
+**Saving Throws:** Strength, Dexterity
+**Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
-Equipment
+## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
 (a) a shortsword or (b) any simple weapon
