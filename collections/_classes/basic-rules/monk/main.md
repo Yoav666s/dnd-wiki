@@ -90,3 +90,34 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 ## Stunning Strike
 Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+
+## Ki-Empowered Strikes
+Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+## Evasion
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+## Stillness of Mind
+Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
+
+## Purity of Body
+At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.
+
+## Tongue of the Sun and Moon
+Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
+
+## Diamond Soul
+Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws.
+
+Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.
+
+## Timeless Body
+At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
+
+## Empty Body
+Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.
+
+Additionally, you can spend 8 ki points to cast the [[astral projection]] spell, without needing material components. When you do so, you can't take any other creatures with you.
+
+## Perfect Self
+At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.
