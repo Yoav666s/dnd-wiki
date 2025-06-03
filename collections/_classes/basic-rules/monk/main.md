@@ -84,3 +84,9 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 ## Slow Fall
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
+
+## Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+## Stunning Strike
+Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
