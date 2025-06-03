@@ -20,7 +20,7 @@ Monks are united in their ability to magically harness the energy that flows in 
 | 3rd | +2 | 1d4 | 3 | +10 ft. | [[Monastic Tradition]], [[Deflect Missiles]] |
 | 4th | +2 | 1d4 | 4 | +10 ft. | [[Ability Score Improvement]], [[Slow Fall]] |
 | 5th | +3 | 1d6 | 5 | +10 ft. | [[Extra Attack]], [[Stunning Strike]] |
-
+| 6th | +3 | 1d6 | 6 | +15 ft. | [[Ki-Empowered Strikes]], [[Monastic Tradition]] feature |
 
 # Class Features
 As a monk, you gain the following class features.
