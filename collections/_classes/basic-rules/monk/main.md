@@ -14,6 +14,7 @@ Monks are united in their ability to magically harness the energy that flows in 
 # The Monk
 
 | Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features |
+|:---:|:---:|
 
 
 # Class Features
