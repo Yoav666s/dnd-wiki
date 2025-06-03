@@ -95,7 +95,10 @@ At 9th level, you gain the ability to move along vertical surfaces and across li
 ## Monastic Tradition
 When you reach 3rd level, you commit yourself to a monastic tradition. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
 
-[TRADITION CHART]
+| Tradition     | Source      |
+| :------------ | :---------- |
+| [[Open Hand]] | Basic Rules |
+
 
 ## Deflect Missiles
 Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
