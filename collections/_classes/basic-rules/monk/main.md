@@ -30,6 +30,7 @@ Monks are united in their ability to magically harness the energy that flows in 
 | 13th | +5 | 1d8 | 13 | +20 ft. | [[Tongue of the Sun and Moon]] |
 | 14th | +5 | 1d8 | 14 | +25 ft. | [[Diamond Soul]] |
 | 15th | +5 | 1d8 | 15 | +25 ft. | [[Timeless Body]] |
+| 16th | +5 | 1d8 | 16 | +25 ft. | [[Ability Score Improvement]] |
 
 # Class Features
 As a monk, you gain the following class features.
