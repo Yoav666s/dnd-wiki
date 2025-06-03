@@ -23,6 +23,7 @@ Monks are united in their ability to magically harness the energy that flows in 
 | 6th | +3 | 1d6 | 6 | +15 ft. | [[Ki-Empowered Strikes]], [[Monastic Tradition]] feature |
 | 7th | +3 | 1d6 | 7 | +15 ft. | [[Evasion]], [[Stillness of Mind]] |
 | 8th | +3 | 1d6 | 8 | +15 ft. | [[Ability Score Improvement]] |
+| 9th | +4 | 1d6 | 9 | +15 ft. | [[Unarmored Movement]] improvement |
 
 # Class Features
 As a monk, you gain the following class features.
