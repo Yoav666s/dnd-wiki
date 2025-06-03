@@ -33,6 +33,7 @@ Monks are united in their ability to magically harness the energy that flows in 
 | 16th | +5 | 1d8 | 16 | +25 ft. | [[Ability Score Improvement]] |
 | 17th | +6 | 1d10 | 17 | +25 ft. | [[Monastic Tradition]] feature |
 | 18th | +6 | 1d10 | 18 | +30 ft. | [[Empty Body]] |
+| 19th | +6 | 1d10 | 19 | +30 ft. | [[Ability Score Improvement]] |
 
 # Class Features
 As a monk, you gain the following class features.
