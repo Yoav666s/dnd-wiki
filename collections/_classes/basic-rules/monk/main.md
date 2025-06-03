@@ -11,7 +11,10 @@ Monks are united in their ability to magically harness the energy that flows in 
 
 *You must have a Dexterity score and a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
 
-[MONK CHART]
+# The Monk
+
+| Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features |
+
 
 # Class Features
 As a monk, you gain the following class features.
