@@ -16,8 +16,8 @@ Monks are united in their ability to magically harness the energy that flows in 
 | Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features |
 | :---: | :---: | :---: | :---: | :---: | :---- |
 | 1st | +2 | 1d4 | - | - | [[Unarmored Defense]], [[Martial Arts]] |
-| 2nd | +2 | 1d4 | 2 | +10ft. | [[Ki]], [[Unarmored Movement]] |
-
+| 2nd | +2 | 1d4 | 2 | +10 ft. | [[Ki]], [[Unarmored Movement]] |
+| 3rd | +2 | 1d4 | 3 | +10 ft. | [[Monastic Tradition]], [[Deflect Missiles]] |
 
 # Class Features
 As a monk, you gain the following class features.
