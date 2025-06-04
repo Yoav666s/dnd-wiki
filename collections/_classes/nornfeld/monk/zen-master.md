@@ -12,7 +12,7 @@ subclass: monk
 ---
 Monks of the Way of the Zen Master are calm, patient, and quite clever. They learn techniques to outsmart their opponents, conserve ki, and gracefully saunter through the battlefield.
 
-# He Who Laughs Last
+# Last One Laughing
 When you choose this tradition at 3rd level, you like to go last. After you roll for initiative, you may replace the result with 1. If you do, your first ki ability each turn costs 1 less ki point until the end of combat.
 
 # Moving Target
