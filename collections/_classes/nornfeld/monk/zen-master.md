@@ -18,7 +18,7 @@ When you choose this tradition at 3rd level, you like to go last. After you roll
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 # Evasive Maneuvers
-Starting at 6th level, when you're hit by a melee attack, you may spend one ki point and use your reaction to evade it completely. You may move up to half your movement speed afterwards without provoking opportunity attacks.
+Starting at 6th level, you learn that the best defense is to not be there when it happens. When you're hit by a melee attack, you may spend one ki point and use your reaction to evade it completely. You may move up to half your movement speed afterwards without provoking opportunity attacks.
 
 #
 Starting at 11th level,
