@@ -20,3 +20,6 @@ Starting at 6th level, you learn that the best defense is to not be there when i
 
 # Playful Push
 Starting at 11th level, whenever an enemy misses a melee attack against you, you may use your reaction to trip them. They must succeed a Dexterity saving throw (DC = 8 + your proficiency bonus + your Wisdom modifier). On failure they fall [[prone]] and take damage equal to double your martial arts die.
+
+# 
+Starting at 17th level, when you choose to replace your initiative roll with 1, the first attack against you each round has disadvantage until the end of combat.
