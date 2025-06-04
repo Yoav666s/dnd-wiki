@@ -22,4 +22,8 @@ Starting at 6th level, you learn that the best defense is to not be there when i
 Starting at 11th level, whenever an enemy misses a melee attack against you, you may use your reaction to trip them. They must succeed a Dexterity saving throw (DC = 8 + your proficiency bonus + your Wisdom modifier). On failure they fall [[prone]] and take damage equal to double your martial arts die.
 
 # Presence of Mind
-Starting at 17th level, you're mindful of your surroundings. When you choose to replace your initiative roll with 1, the first attack against you each round has disadvantage until the end of combat.
+Starting at 17th level, you're mindful of your surroundings. When you choose to replace your initiative roll with 1, until the end of combat:
+
+- the first attack against you each round has disadvantage.
+- your first melee attack each turn has advantage.
+- you regain 1 ki point whenever you end your turn without spending key points.
