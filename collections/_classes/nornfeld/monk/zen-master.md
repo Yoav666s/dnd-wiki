@@ -13,7 +13,7 @@ subclass: monk
 Monks of the Way of the Zen Master are calm, patient, and quite clever. They learn techniques to outsmart their opponents, conserve ki, and become one with everything.
 
 # Calculated Patience
-When you choose this tradition at 3rd level, you learn to wait before you act. After you roll for initiative, you may replace the result with 1. If you do, your ki abilities cost 1 less ki point for 1 minute.
+When you choose this tradition at 3rd level, you learn to wait before you act. After you roll for initiative, you may replace the result with 1. If you do, your first ki ability each turn costs 1 less ki point for 1 minute.
 
-#
+# 
 Starting at 6th level, 
