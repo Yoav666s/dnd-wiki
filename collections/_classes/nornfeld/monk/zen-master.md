@@ -4,13 +4,13 @@ index:
   - zen-master
   - way-of-the-zen-master
 permalink: /classes/monk/open-hand/
-excerpt: "Monks of the Way of the Zen Master are calm, patient, and quite clever. They learn techniques to outsmart their opponents, conserve ki, and become one with everything."
+excerpt: "Monks of the Way of the Zen Master are calm, patient, and quite clever. They learn techniques to outsmart their opponents, conserve ki, and gracefully saunter through the battlefield."
 subclass: monk
 # header:
 #   overlay_image: /assets/images/classes/monk/header.png
 #   teaser: /assets/images/classes/monk/header.jpg
 ---
-Monks of the Way of the Zen Master are calm, patient, and quite clever. They learn techniques to outsmart their opponents, conserve ki, and become one with everything.
+Monks of the Way of the Zen Master are calm, patient, and quite clever. They learn techniques to outsmart their opponents, conserve ki, and gracefully saunter through the battlefield.
 
 # He Who Laughs Last
 When you choose this tradition at 3rd level, you like to go last. After you roll for initiative, you may replace the result with 1. If you do, your first ki ability each turn costs 1 less ki point until the end of combat.
