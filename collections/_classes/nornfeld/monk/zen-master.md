@@ -19,4 +19,4 @@ When you choose this tradition at 3rd level, you like to go last. After you roll
 Starting at 6th level, you learn that the best defense is to not be there when it happens. When you're hit by a melee attack, you may spend one ki point and use your reaction to evade it completely. You may move up to half your movement speed afterwards without provoking opportunity attacks.
 
 # Playful Push
-Starting at 11th level, whenever an enemy makes a melee attack against you and misses, you may use your reaction to break their balai and knock them [[prone]].
+Starting at 11th level, whenever an enemy misses a melee attack against you, you may use your reaction to trip them. They must succeed a Dexterity saving throw (DC = 8 + your proficiency bonus + your Wisdom modifier). On failure they fall [[prone]] and take damage equal to double your martial arts die.
