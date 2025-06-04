@@ -24,6 +24,6 @@ Starting at 11th level, whenever an enemy misses a melee attack against you, you
 # Presence of Mind
 Starting at 17th level, you're mindful of your surroundings. When you choose to replace your initiative roll with 1, until the end of combat:
 
-- the first attack against you each round has disadvantage.
-- your first melee attack each turn has advantage.
-- you regain 1 ki point whenever you end your turn without spending key points.
+- The first attack against you each round has disadvantage.
+- Your first melee attack each turn has advantage.
+- You regain 1 ki point whenever you end your turn without spending key points.
