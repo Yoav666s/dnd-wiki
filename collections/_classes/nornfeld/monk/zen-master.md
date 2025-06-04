@@ -15,5 +15,7 @@ Monks of the Way of the Zen Master are calm, patient, and quite clever. They lea
 # Calculated Patience
 When you choose this tradition at 3rd level, you learn to wait before you act. After you roll for initiative, you may replace the result with 1. If you do, your first ki ability each turn costs 1 less ki point for 1 minute.
 
-# 
-Starting at 6th level, 
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+# Evasive Maneuvers
+Starting at 6th level, when you're targeted by a melee or ranged weapon attack, you may use your reaction to try to evade it. Roll a Dexterity saving throw. On success, you take only half the damage. You may move up to half your movement speed afterwards.
