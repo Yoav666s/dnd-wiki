@@ -34,18 +34,15 @@ You can take your bonus action to cast [[Expeditious Retreat]] without expending
 # Channel Divinity: Havoc
 Starting at 2nd level, you can use your Channel Divinity to cause havoc throughout the battlefield.
 
-When you take the [[dash]] action, your movement doesn't provoke opportunity attacks. Each hostile creature you move within 5 feet of must make a Dexterity saving throw once per turn, if it's on the ground. On failure, it falls prone and takes bludgeoning damage equal to 1d8 plus twice your cleric level. 
+When you take the [[dash]] action, your movement doesn't provoke opportunity attacks. Each hostile creature you move within 5 feet of must make a Dexterity saving throw once per turn, if it's on the ground. On failure, it falls prone and takes bludgeoning damage equal to 2d4 plus twice your cleric level. 
 
 # Momentary Soar
 Beginning at 6th level, you can command the wind to sweep you off the ground. When you take the [[dash]] action on your turn, you can grant yourself a flying speed equal to your walking speed until the end of that turn. If you are still airborne when this effect ends, you fall unless you have another means of staying aloft.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 
-# Divine Strike
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+# Potent Spellcasting
+At 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 # Supreme Healing
 Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
-
-# Potent Spellcasting
-At 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
