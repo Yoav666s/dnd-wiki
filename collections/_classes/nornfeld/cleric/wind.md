@@ -36,8 +36,8 @@ Starting at 2nd level, you can use your Channel Divinity to cause havoc througho
 
 When you take the [[dash]] action, your movement doesn't provoke opportunity attacks. Each hostile creature you move within 5 feet of must make a Dexterity saving throw once per turn. On failure, it falls prone and takes bludgeoning damage equal to 1d8 plus twice your cleric level. 
 
-# Blessed Healer
-Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
+# Wherever the Wind Blows
+Beginning at 6th level, you can command the wind to sweep you off the ground. When you take the [[dash]] action, you can give yourself a flying speed equal to your walking speed until the end of your turn. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 # Divine Strike
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
