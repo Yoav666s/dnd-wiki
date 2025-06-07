@@ -16,8 +16,8 @@ Beginning when you choose this archetype at 3rd level, you can cast the [[Misty 
 
 You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
 
-# Dazzling Dance
-Starting at 7th level, after you make an attack, you can teleport to a free space within 5 feet of a hostile creature you're engaged with.
+# Side Step
+Starting at 7th level, before you make an attack, you may teleport to a free space within 5 feet of a hostile creature you're engaged with.
 
 # Additional Fighting Style
 At 10th level, you can choose a second option from the Fighting Style class feature.
