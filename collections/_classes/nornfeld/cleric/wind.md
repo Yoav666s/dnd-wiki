@@ -11,7 +11,7 @@ subclass: cleric
 #   teaser: /assets/images/classes/cleric/header.jpg
 source: "Basic Rules"
 ---
-The Wind domain focuses on the ever-changing nature of wind, drawing power from the mythical dragon Elmersodus. It encourages mobility, using movement for advantage, and never staying in one place.
+The Wind domain focuses on the ever-changing nature of wind, drawing power from the mythical dragon Elmersodus. It encourages mobility, using movement for advantage, and never staying in one place. Clerics of the Wind Domain revere the ever-changing currents, drawing power from the mythical dragon Elmersodus. They embody motion, change, and freedom—never static, always advancing. These clerics use wind’s swiftness to outmaneuver foes and guide allies to safety.
 
 # Wind Domain Spells
 
