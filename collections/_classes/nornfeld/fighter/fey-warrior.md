@@ -23,7 +23,7 @@ You can use this feature a number of times equal to your proficiency bonus. You 
 Starting at 7th level, before you make a melee attack, you may teleport to an unoccupied space within 5 feet of a hostile creature that you can see in melee range. You can use this feature once per turn.
 
 # Disappearing Act
-At 10th level, when you're targeted with a melee attack, you may use your reaction to teleport to an unoccupied space within 5 feet of the attacker. If you do, the attack automatically misses.
+At 10th level, when you're hit with a melee attack, you may use your reaction to teleport to an unoccupied space within 5 feet of the attacker. If you do, the attack is negated.
 
 You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
 
