@@ -20,7 +20,7 @@ The Life domain focuses on the vibrant positive energy – one of the fundamenta
 | 1st | [[Longstrider]], [[Expeditious Retreat]]             |
 | 3rd | [[Gust of Wind]], [[Levitate]] |
 | 5th |	[[Fly]], [[Wind Wall]]             |
-| 7th | [[Death Ward]], [[Guardian of Faith]]        |
+| 7th | [[Divination]], [[Freedom of Movement]]        |
 | 9th | [[Mass Cure Wounds]], [[Raise Dead]]         |
 
 # Quick Feet
