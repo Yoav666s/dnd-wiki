@@ -18,8 +18,8 @@ You can use this feature a number of times equal to your proficiency bonus. You 
 # Side Step
 Starting at 7th level, before you make an attack, you may teleport to a free space within 5 feet of a hostile creature you're engaged with.
 
-# 
-At 10th level, when you take the [[dash]] action, instead of walking you may teleport to a free space up to a distance equal to your movement speed. You may take one willing creature with you.
+# Disappearing Act
+At 10th level, when you take the [[dash]] action, instead of walking you may teleport to a free space up to a distance equal to your remaining movement speed. You may take one willing creature with you.
 
 # Superior Critical
 Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20.
