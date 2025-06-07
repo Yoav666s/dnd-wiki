@@ -18,7 +18,7 @@ The Life domain focuses on the vibrant positive energy – one of the fundamenta
 | Cleric Level | Spells                              |
 | :----------: | :---------------------------------- |
 | 1st | [[Longstrider]], [[Cure Wounds]]             |
-| 3rd | [[Lesser Restoration]], [[Spiritual Weapon]] |
+| 3rd | [[Gust of Wind]], [[Spiritual Weapon]] |
 | 5th |	[[Beacon of Hope]], [[Revivify]]             |
 | 7th | [[Death Ward]], [[Guardian of Faith]]        |
 | 9th | [[Mass Cure Wounds]], [[Raise Dead]]         |
