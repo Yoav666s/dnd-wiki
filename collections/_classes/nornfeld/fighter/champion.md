@@ -1,13 +1,12 @@
 ---
-title: "Champion"
-index: "champion"
-permalink: /classes/fighter/champion/
+title: "Fey Warrior"
+index: "fey-warrior"
+permalink: /classes/fighter/fey-warrior/
 excerpt: "The archetypal Champion focuses on the development of raw physical power honed to deadly perfection."
 subclass: fighter
 # header:
 #   overlay_image: /assets/images/classes/fighter/header.png
 #   teaser: /assets/images/classes/fighter/header.jpg
-source: "Basic Rules"
 ---
 The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
 
