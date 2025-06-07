@@ -17,19 +17,19 @@ The Life domain focuses on the vibrant positive energy – one of the fundamenta
 
 | Cleric Level | Spells                              |
 | :----------: | :---------------------------------- |
-| 1st | [[Longstrider]], [[Cure Wounds]]             |
+| 1st | [[Longstrider]], [[Expeditious Retreat]]             |
 | 3rd | [[Gust of Wind]], [[Spiritual Weapon]] |
 | 5th |	[[Beacon of Hope]], [[Revivify]]             |
 | 7th | [[Death Ward]], [[Guardian of Faith]]        |
 | 9th | [[Mass Cure Wounds]], [[Raise Dead]]         |
 
-# Bonus Proficiency
-When you choose this domain at 1st level, you gain proficiency with martial weapons.
+# Quick Feet
+When you choose this domain at 1st level, your walking speed is increased by 10 ft.
 
 # Flow of the Wind
-Also starting at 1st level, your walking speed is increased by 10 ft. and you can take your bonus action to [[dash]].
+Also starting at 1st level, when you take the [[dash]] action, you can drag one medium creature with you, as long as it's not incapacitated. If the creature is unwilling, it must succeed a Dexterity saving throw (DC = 8 + your STR Modifier + your proficiency bonus) or be dragged with you.
 
-When you take the [[dash]] action, you can drag one medium creature with you, as long as it's not incapacitated. If the creature is unwilling, it must succeed a Dexterity saving throw (DC = 8 + your STR Modifier + your proficiency bonus) or be dragged with you.
+You can take your bonus action to cast [[Expeditious Retreat]] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 # Channel Divinity: Preserve Life
 Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
