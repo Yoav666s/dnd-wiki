@@ -12,6 +12,7 @@ Clerics are intermediaries between the mortal world and the distant planes of th
 *You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
 
 # The Cleric
+
 | Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | :---: | :---------------: | :------- | :------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1st	  | +2 | [[Spellcasting]], [[Divine Domain]] | 3 | 2 | - | - | - | - | - | - | - | - |
