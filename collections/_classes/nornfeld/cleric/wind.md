@@ -29,7 +29,7 @@ When you choose this domain at 1st level, you gain proficiency with martial weap
 # Flow of the Wind
 Also starting at 1st level, your walking speed is increased by 10 ft. and you can take your bonus action to [[dash]].
 
-When you take the [[dash]] action, you can drag one creature with you. If the creature is unwilling, it must succeed a Dexterity saving throw (DC = 8 + your STR Modifier + your proficiency bonus).
+When you take the [[dash]] action, you can drag one creature with you. If the creature is unwilling, it must succeed a Dexterity saving throw (DC = 8 + your STR Modifier + your proficiency bonus) or be dragged with you.
 
 # Channel Divinity: Preserve Life
 Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
