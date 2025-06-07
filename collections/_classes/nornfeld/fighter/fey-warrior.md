@@ -20,7 +20,7 @@ Starting at 3rd level, you can cast the [[Misty Step]] spell as a bonus action.
 You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
 
 # Side Step
-Starting at 7th level, before you make a melee attack, you may teleport to an unoccupied space you can see within 5 feet of a hostile creature that you can see in melee range. You can use this feature once per turn.
+Starting at 7th level, before you make a melee attack, you may teleport to an unoccupied space you can see within 5 feet of a hostile creature that you can see and is in your melee range. You can use this feature once per turn.
 
 # Disappearing Act
 At 10th level, when a creature you can see hits you with a melee attack, you may use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. If you do, the attack misses instead.
