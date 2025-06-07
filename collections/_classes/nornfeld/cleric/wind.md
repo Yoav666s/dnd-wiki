@@ -4,14 +4,14 @@ index:
   - wind
   - wind-domain
 permalink: /classes/cleric/wind/
-excerpt: "The Life domain focuses on the vibrant positive energy – one of the fundamental forces of the universe – that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath."
+excerpt: "The Wind domain focuses on the ever-changing nature of wind, drawing power from the mythical dragon Elmersodus."
 subclass: cleric
 # header:
 #   overlay_image: /assets/images/classes/cleric/header.png
 #   teaser: /assets/images/classes/cleric/header.jpg
 source: "Basic Rules"
 ---
-The Life domain focuses on the vibrant positive energy – one of the fundamental forces of the universe – that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrci).
+The Wind domain focuses on the ever-changing nature of wind, drawing power from the mythical dragon Elmersodus. It encourages mobility, using movement for advantage, and never staying in one place.
 
 # Wind Domain Spells
 
@@ -45,4 +45,4 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 At 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 # Improved Havoc
-Starting at 17th level, when you use Havoc, the damage increases to 2d8 plus three times your cleric level.
+Starting at 17th level, when you use Havoc, the damage increases to 2d8 plus four times your cleric level.
