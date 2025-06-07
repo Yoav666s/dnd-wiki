@@ -33,4 +33,4 @@ Starting at 15th level, when you take the [[dash]] action, instead of walking yo
 # Residual Image
 At 18th level, you leave behind an illusory double whenever you teleport. It lasts until your next turn and looks exactly like you.
 
-When you are within 5 feet of such an illusion, an attacking creature must make a Wisdom saving throw with a DC equal to 8 + your Charisma modifier + your proficiency bonus. On failure, it attacks the illusion instead of you.
+When you are within 5 feet of such an illusion, an attacking creature must make a Wisdom saving throw (DC = 8 + your Charisma modifier + your proficiency bonus). On failure, it attacks the illusion instead of you.
