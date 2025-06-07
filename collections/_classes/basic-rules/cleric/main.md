@@ -92,7 +92,7 @@ At 1st level, you choose a domain shaped by your choice of Deity and the gifts t
 
 | Domain     | Source      |
 | :--------- | :---------- |
-| [[Life]]   | Basic Rules |
+| [[!classes:Life]]   | Basic Rules |
 
 ### Domain Spells
 Each domain has a list of spells-its domain spells that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
