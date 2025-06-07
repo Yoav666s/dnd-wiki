@@ -27,7 +27,7 @@ At 10th level, when you're hit with a melee attack, you may use your reaction to
 
 You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
 
-# 
+# Feystride
 Starting at 15th level, when you take the [[dash]] action, instead of walking you may teleport to a free space up to a distance equal to your remaining movement speed. You may take one willing creature with you.
 
 # Survivor
