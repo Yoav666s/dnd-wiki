@@ -13,7 +13,7 @@ Clerics are intermediaries between the mortal world and the distant planes of th
 
 # The Cleric
 | Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| :---: | :---------------: | :------- | :------------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :---: | :---------------: | :------- | :------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1st	  | +2 | [[Spellcasting]], [[Divine Domain]] | 3 | 2 | - | - | - | - | - | - | - | - |
 | 2nd	  | +2 | [[Channel Divinity]] (x1), [[Divine Domain]] feature | 3 | 3 | - | - | - | - | - | - | - | - |
 | 3rd	  | +2 |  | 3 | 4 | 2 | - | - | - | - | - | - | - |
