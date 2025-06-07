@@ -34,7 +34,7 @@ You can take your bonus action to cast [[Expeditious Retreat]] without expending
 # Channel Divinity: Havoc
 Starting at 2nd level, you can use your Channel Divinity to cause havoc throughout the battlefield.
 
-When you take the [[dash]] action, your movement doesn't provoke opportunity attacks. Every hostile creature you pass by must make a Dexterity saving throw. On failure, it falls prone and takes damage equal to 1d8 plus twice your cleric level.
+When you take the [[dash]] action, your movement doesn't provoke opportunity attacks. Every hostile creature you pass by must make a Dexterity saving throw. On failure, it falls prone and takes bludgeoning damage equal to 1d8 plus twice your cleric level.
 
 # Blessed Healer
 Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
