@@ -28,7 +28,7 @@ At 10th level, when a creature you can see hits you with a melee attack, you may
 You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
 
 # Feystride
-Starting at 15th level, when you take the [[dash]] action, instead of walking you may teleport to a free space up to a distance equal to your remaining movement speed. You may take one willing creature with you.
+Starting at 15th level, when you take the [[dash]] action, instead of walking you may teleport to a free space up to a distance equal to your remaining movement speed. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you.
 
 # Survivor
 At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
