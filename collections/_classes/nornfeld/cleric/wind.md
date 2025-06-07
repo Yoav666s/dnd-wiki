@@ -44,5 +44,5 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 # Potent Spellcasting
 At 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
-# Supreme Healing
-Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
+# Improved Havoc
+Starting at 17th level, when you use Havoc, the damage increases to 2d8 plus three times your cleric level.
