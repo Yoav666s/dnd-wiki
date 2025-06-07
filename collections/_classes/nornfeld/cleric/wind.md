@@ -27,14 +27,14 @@ The Life domain focuses on the vibrant positive energy – one of the fundamenta
 When you choose this domain at 1st level, your walking speed is increased by 10 ft.
 
 # Flow of the Wind
-Also starting at 1st level, when you take the [[dash]] action, you can drag one medium creature with you, as long as it's not incapacitated. If the creature is unwilling, it must succeed a Dexterity saving throw (DC = 8 + your STR Modifier + your proficiency bonus) or be dragged with you.
+Also starting at 1st level, when you take the [[dash]] action, you can drag one medium creature with you, as long as it's not incapacitated. If the creature is unwilling, it must succeed a Dexterity saving throw (DC = 8 + your Wisdom Modifier + your proficiency bonus) or be dragged with you.
 
 You can take your bonus action to cast [[Expeditious Retreat]] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-# Channel Divinity: Preserve Life
-Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
+# Channel Divinity: Havoc
+Starting at 2nd level, you can use your Channel Divinity to cause havoc throughout the battlefield.
 
-As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
+When you take the [[dash]] action, your movement doesn't provoke opportunity attacks. Every hostile creature you pass by must make a Dexterity saving throw. On failure, it falls prone and takes damage equal to 1d8 plus twice your cleric level.
 
 # Blessed Healer
 Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
