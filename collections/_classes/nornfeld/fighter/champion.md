@@ -11,13 +11,13 @@ source: "Basic Rules"
 ---
 The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
 
-# Improved Critical
-Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.
+# Fey Teleportation
+Beginning when you choose this archetype at 3rd level, you can cast the [[Misty Step]] spell as a bonus action.
 
-# Remarkable Athlete
-Starting at 7th level, you can add half your proficiency bonus (rounded up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
+You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
 
-In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
+# Dazzling Dance
+Starting at 7th level, after you make an attack, you can teleport to a free space within 5 feet of a hostile creature you're engaged with.
 
 # Additional Fighting Style
 At 10th level, you can choose a second option from the Fighting Style class feature.
