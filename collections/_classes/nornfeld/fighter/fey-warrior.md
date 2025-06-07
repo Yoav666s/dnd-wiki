@@ -20,7 +20,7 @@ Starting at 3rd level, you can cast the [[Misty Step]] spell as a bonus action.
 You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
 
 # Side Step
-Starting at 7th level, before you make a melee attack, you may teleport to an unoccupied space you can see within 5 feet of a hostile creature that you can see and is in your melee range.
+Starting at 7th level, before you perform a melee attack, you may teleport to an unoccupied space you can see within 5 feet of the creature that you are attacking.
 
 # Disappearing Act
 At 10th level, when a creature you can see hits you with a melee attack, you may use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. If you do, the attack misses instead.
@@ -33,4 +33,4 @@ Starting at 15th level, when you take the [[dash]] action, instead of walking yo
 # Residual Image
 At 18th level, you leave behind an illusory double whenever you teleport. It lasts until your next turn and looks exactly like you.
 
-To discern that this is only an illusion, a creature must succeed an Intelligence ([[Investigation]]) check with a DC equal to 8 + your Charisma modifier + your proficiency bonus.
+When you are within 5 feet of such an illusion, an attacking creature must make a Wisdom saving throw with a DC equal to 8 + your Charisma modifier + your proficiency bonus. On failure, it attacks the illusion instead of you.
