@@ -14,13 +14,13 @@ source: "Basic Rules"
 The Life domain focuses on the vibrant positive energy – one of the fundamental forces of the universe – that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrci).
 
 # Life Domain Spells
-| Cleric Level | Spells |
-| :---: | :---- |
-| 1st | [[Bless]], [[Cure Wounds]] |
+| Cleric Level | Spells                              |
+| :----------: | :---------------------------------- |
+| 1st | [[Bless]], [[Cure Wounds]]                   |
 | 3rd | [[Lesser Restoration]], [[Spiritual Weapon]] |
-| 5th |	[[Beacon of Hope]], [[Revivify]] |
-| 7th | [[Death Ward]], [[Guardian of Faith]] |
-| 9th | [[Mass Cure Wounds]], [[Raise Dead]] |
+| 5th |	[[Beacon of Hope]], [[Revivify]]             |
+| 7th | [[Death Ward]], [[Guardian of Faith]]        |
+| 9th | [[Mass Cure Wounds]], [[Raise Dead]]         |
 
 # Bonus Proficiency
 When you choose this domain at 1st level, you gain proficiency with heavy armor.
