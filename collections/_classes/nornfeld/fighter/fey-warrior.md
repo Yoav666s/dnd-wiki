@@ -2,13 +2,13 @@
 title: "Fey Warrior"
 index: "fey-warrior"
 permalink: /classes/fighter/fey-warrior/
-excerpt: "The archetypal Champion focuses on the development of raw physical power honed to deadly perfection."
+excerpt: "The Fey Warrior moves with an otherworldly grace, their presence flickering like moonlight through leaves."
 subclass: fighter
 # header:
 #   overlay_image: /assets/images/classes/fighter/header.png
 #   teaser: /assets/images/classes/fighter/header.jpg
 ---
-The Fey Warrior is frustratingly difficult to catch. 
+The Fey Warrior moves with an otherworldly grace, their presence flickering like moonlight through leaves. Infused with the magic of the Feywild, they are elusive and radiant, vanishing between heartbeats and reappearing where least expected. This archetype blends martial prowess with arcane flair, confusing enemies with dazzling illusions and swift, unpredictable movement. To face a Fey Warrior is to fight a reflection in water—never quite where you strike, and always a step beyond reach.
 
 
 # Dazzling Demonstration 
