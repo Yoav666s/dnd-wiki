@@ -15,7 +15,7 @@ The Fey Warrior moves with an otherworldly grace, their presence flickering like
 Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Thaumaturgy]] cantrips, and gain proficiency in [[Performance]] if you don't already have it.
 
 # Fey Teleportation
-Starting at 3rd level, you can cast the [[Misty Step]] spell as a bonus action.
+Starting at 3rd level, you can cast the [[Misty Step]] spell as a bonus action without expending a slot.
 
 You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
 
