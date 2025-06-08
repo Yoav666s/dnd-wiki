@@ -82,9 +82,10 @@ Once you use this feature, you must finish a short or long rest before you can u
 # Martial Archetype
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
-| Archetype     | Source      |
-| :------------ | :---------- |
-| [[!Champion]] | Basic Rules |
+| Archetype        | Source                     |
+| :--------------- | :------------------------- |
+| [[!Champion]]    | Basic Rules                |
+| [[!Fey Warrior]] | Untold Legends of Nornfeld |
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
