@@ -29,10 +29,10 @@ When you choose this domain at 1st level, you gain proficiency in [[Stealth]] if
 # Shadowling
 Starting at 1st level, you learn the [[Invisibility]] spell, and it doesn't count against your spells known. You can cast it without expending a spell slot and without requiring its material components. 
 
-You can use this feature a number of times equal to your wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+After you use this feature, you can't use it again until you finish a long rest.
 
 # Channel Divinity: Unseen Strike 
-Starting at 2nd level, when you perform a melee attack while invisible, you can use your Channel Divinity to get a critical hit, instead of rolling.
+Starting at 2nd level, when you perform a melee attack while invisible, you can use your Channel Divinity to get a critical hit, instead of making an attack roll.
 
 # Blessed Healer
 Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
