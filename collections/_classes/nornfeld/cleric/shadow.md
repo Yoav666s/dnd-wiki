@@ -17,7 +17,7 @@ The Life domain focuses on the vibrant positive energy – one of the fundamenta
 
 | Cleric Level | Spells                              |
 | :----------: | :---------------------------------- |
-| 1st | [[Bane]], [[Fog Cloud]]                   |
+| 1st | [[Hide in Shadows]], [[Fog Cloud]]                   |
 | 3rd | [[Invisibility]], [[Pass Without Trace]] |
 | 5th |	[[Nondetection]], [[Slow]]             |
 | 7th | [[Greater Invisibility]], [[Dimension Door]]        |
@@ -31,10 +31,8 @@ Starting at 1st level, you learn the [[Invisibility]] spell, and it doesn't coun
 
 You can use this feature a number of times equal to your wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
-# Channel Divinity: Preserve Life
-Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
-
-As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
+# Channel Divinity: Unseen Strike 
+Starting at 2nd level, when you perform a melee attack while invisible, you can use your Channel Divinity to get a critical hit, instead of rolling.
 
 # Blessed Healer
 Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
