@@ -26,8 +26,10 @@ The Life domain focuses on the vibrant positive energy – one of the fundamenta
 # Bonus Proficiency
 When you choose this domain at 1st level, you gain proficiency with heavy armor.
 
-# Disciple of Life
-Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
+# Shadowling
+Also starting at 1st level, your healing spells are more effective. You learn the [[Invisibility]] spell, and it doesn't count against your spells known. You can cast it without expending a spell slot and without requiring its material components. 
+
+You can use this feature a number of times equal to your wisdom modifier (minimum of once), and you regain all expended uses after a short or long rest.
 
 # Channel Divinity: Preserve Life
 Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
