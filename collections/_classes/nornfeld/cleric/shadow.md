@@ -37,10 +37,10 @@ Starting at 2nd level, you can use your Channel Divinity to strike with supernat
 When you make a melee weapon attack while invisible, you can use your Channel Divinity to automatically hit and treat the attack as a critical hit. You must declare the use of this feature before making the attack roll.
 
 # Blend in Darkness 
-Starting at 6th level, you can attempt to hide even when you are only lightly obscured by darkness or dim light.
+Starting at 6th level, you become engulfed in shadows. You can attempt to hide even when you are only lightly obscured by darkness or dim light.
 
 # Divine Strike
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 # Shadowling
-Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
+Starting at 17th level, while you are hidden or invisible, 
