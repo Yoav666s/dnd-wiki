@@ -32,7 +32,7 @@ Starting at 1st level, when you take the [[hide]] action and successfully hide, 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short rest.
 
 # Channel Divinity: Unseen Strike 
-Starting at 2nd level, when you perform a melee attack while invisible, you can use your Channel Divinity to get a critical hit, instead of making an attack roll.
+Starting at 2nd level, when you make a melee weapon attack while invisible, you can use your Channel Divinity to automatically hit and treat the attack as a critical hit. You must declare the use of this feature before making the attack roll.
 
 # Trick of the Shadow
 Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
