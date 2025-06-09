@@ -18,8 +18,8 @@ The Life domain focuses on the vibrant positive energy – one of the fundamenta
 | Cleric Level | Spells                              |
 | :----------: | :---------------------------------- |
 | 1st | [[Bane]], [[Fog Cloud]]                   |
-| 3rd | [[Darkness]], [[Invisibility]] |
-| 5th |	[[Beacon of Hope]], [[Revivify]]             |
+| 3rd | [[Invisibility]], [[Pass Without Trace]] |
+| 5th |	[[Nondetection]], [[Revivify]]             |
 | 7th | [[Death Ward]], [[Guardian of Faith]]        |
 | 9th | [[Mass Cure Wounds]], [[Raise Dead]]         |
 
