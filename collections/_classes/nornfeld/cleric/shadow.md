@@ -21,7 +21,7 @@ The Shadow Domain draws upon the divine aspects of concealment, illusion, and th
 | 3rd | [[Invisibility]], [[Pass Without Trace]] |
 | 5th |	[[Nondetection]], [[Fear]]             |
 | 7th | [[Greater Invisibility]], [[Dimension Door]]        |
-| 9th | [[Mass Cure Wounds]], [[Mislead]]         |
+| 9th | [[Seeming]], [[Mislead]]         |
 
 # Bonus Proficiency
 When you choose this domain at 1st level, you gain proficiency in [[Stealth]] if you don't already have it.
