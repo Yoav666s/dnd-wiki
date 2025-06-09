@@ -29,7 +29,7 @@ When you choose this domain at 1st level, you gain proficiency with heavy armor.
 # Shadowling
 Starting at 1st level, you learn the [[Invisibility]] spell, and it doesn't count against your spells known. You can cast it without expending a spell slot and without requiring its material components. 
 
-You can use this feature a number of times equal to your wisdom modifier (minimum of once), and you regain all expended uses after a long rest.
+You can use this feature a number of times equal to your wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 # Channel Divinity: Preserve Life
 Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
