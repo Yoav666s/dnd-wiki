@@ -19,7 +19,7 @@ The Shadow Domain draws upon the divine aspects of concealment, illusion, and th
 | :----------: | :---------------------------------- |
 | 1st | [[Hide in Shadows]], [[Fog Cloud]]                   |
 | 3rd | [[Invisibility]], [[Pass Without Trace]] |
-| 5th |	[[Nondetection]], [[Slow]]             |
+| 5th |	[[Nondetection]], [[Fear]]             |
 | 7th | [[Greater Invisibility]], [[Dimension Door]]        |
 | 9th | [[Mass Cure Wounds]], [[Mislead]]         |
 
