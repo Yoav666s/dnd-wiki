@@ -24,7 +24,7 @@ The Life domain focuses on the vibrant positive energy – one of the fundamenta
 | 9th | [[Mass Cure Wounds]], [[Mislead]]         |
 
 # Bonus Proficiency
-When you choose this domain at 1st level, you gain proficiency in [[Stealth]].
+When you choose this domain at 1st level, you gain proficiency in [[Stealth]] if you don't already have it.
 
 # Shadowling
 Starting at 1st level, you learn the [[Invisibility]] spell, and it doesn't count against your spells known. You can cast it without expending a spell slot and without requiring its material components. 
