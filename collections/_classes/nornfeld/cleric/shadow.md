@@ -29,7 +29,7 @@ When you choose this domain at 1st level, you gain proficiency in [[Stealth]] if
 # Shadowling
 Starting at 1st level, when you take the [[hide]] action and successfully hide, you can turn invisible until the start of your next turn, or until you attack or cast a spell.
 
-You use this feature a number of times equal to your proficiency modifier, and you regain all expended uses when you finish a short rest.
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short rest.
 
 # Channel Divinity: Unseen Strike 
 Starting at 2nd level, when you perform a melee attack while invisible, you can use your Channel Divinity to get a critical hit, instead of making an attack roll.
