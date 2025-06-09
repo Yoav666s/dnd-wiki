@@ -20,7 +20,7 @@ The Life domain focuses on the vibrant positive energy – one of the fundamenta
 | 1st | [[Bane]], [[Fog Cloud]]                   |
 | 3rd | [[Invisibility]], [[Pass Without Trace]] |
 | 5th |	[[Nondetection]], [[Slow]]             |
-| 7th | [[Greater Invisibility]], [[Guardian of Faith]]        |
+| 7th | [[Greater Invisibility]], [[Dimension Door]]        |
 | 9th | [[Mass Cure Wounds]], [[Raise Dead]]         |
 
 # Bonus Proficiency
