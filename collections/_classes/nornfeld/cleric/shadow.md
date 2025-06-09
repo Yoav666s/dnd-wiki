@@ -27,14 +27,14 @@ The Life domain focuses on the vibrant positive energy – one of the fundamenta
 When you choose this domain at 1st level, you gain proficiency in [[Stealth]] if you don't already have it.
 
 # Shadowling
-Starting at 1st level, you learn the [[Invisibility]] spell, and it doesn't count against your spells known. You can cast it without expending a spell slot and without requiring its material components. 
+Starting at 1st level, when you successfully take the [[hide]] action, you can turn invisible until the start of your next turn.
 
-After you use this feature, you can't use it again until you finish a long rest.
+You use this feature a number of times equal to your proficiency modifier, and you regain all expended uses when you finish a short rest.
 
 # Channel Divinity: Unseen Strike 
 Starting at 2nd level, when you perform a melee attack while invisible, you can use your Channel Divinity to get a critical hit, instead of making an attack roll.
 
-# Blessed Healer
+# Trick of the Shadow
 Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
 
 # Divine Strike
