@@ -21,7 +21,7 @@ The Life domain focuses on the vibrant positive energy – one of the fundamenta
 | 3rd | [[Invisibility]], [[Pass Without Trace]] |
 | 5th |	[[Nondetection]], [[Slow]]             |
 | 7th | [[Greater Invisibility]], [[Dimension Door]]        |
-| 9th | [[Mass Cure Wounds]], [[Raise Dead]]         |
+| 9th | [[Mass Cure Wounds]], [[Mislead]]         |
 
 # Bonus Proficiency
 When you choose this domain at 1st level, you gain proficiency with heavy armor.
