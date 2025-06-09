@@ -27,7 +27,7 @@ The Life domain focuses on the vibrant positive energy – one of the fundamenta
 When you choose this domain at 1st level, you gain proficiency in [[Stealth]] if you don't already have it.
 
 # Shadowling
-Starting at 1st level, when you successfully take the [[hide]] action, you can turn invisible until the start of your next turn.
+Starting at 1st level, when you take the [[hide]] action and successfully hide, you can turn invisible until the start of your next turn, or until you attack or cast a spell.
 
 You use this feature a number of times equal to your proficiency modifier, and you regain all expended uses when you finish a short rest.
 
