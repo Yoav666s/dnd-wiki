@@ -39,8 +39,8 @@ When you make a melee weapon attack while invisible, you can use your Channel Di
 # Blend in Darkness 
 Starting at 6th level, you become engulfed in shadows. You can attempt to hide even when you are only lightly obscured by darkness or dim light.
 
-# Divine Strike
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+# Umbral Strike
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 # Shadowling
 Starting at 17th level, when you take the [[hide]] action, you automatically succeed.
