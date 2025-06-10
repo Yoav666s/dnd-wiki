@@ -19,6 +19,15 @@ classes:
   - title: "Barbarian"
     class: barbarian
     url: /classes/barbarian/
+  - title: "Cleric"
+    class: cleric
+    url: /classes/cleric/
+  - title: "Fighter"
+    class: fighter
+    url: /classes/fighter/
+  - title: "Monk"
+    class: monk
+    url: /classes/monk/
   - title: "Rogue"
     class: rogue
     url: /classes/rogue/
