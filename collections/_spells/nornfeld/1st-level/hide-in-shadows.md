@@ -1,5 +1,7 @@
 ---
 title: "Hide in Shadows"
+index:
+  - hide-in-shadows
 permalink: /spells/hide-in-shadows/
 tags:
   - Spell
