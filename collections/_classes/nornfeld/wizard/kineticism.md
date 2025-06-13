@@ -25,7 +25,7 @@ You can use this feature a number of times equal to your Intelligence modifier (
 # Divert
 Starting at 6th level, the [[Fling]] cantrip becomes instinctive for you. When you notice a ranged weapon attack, you may use your reaction to try and divert its projectile when it reaches a distance of 60 feet or less from you.
 
-Subtract 1d10 + your Intelligence modifier from the attack roll. If the projectile would then miss, you may divert it in a direction you choose within a 30-foot cone of the original direction. If you direct the projectile to hit a different target, it then must make a Dexterity saving throw against the modified attack roll. On failure, the original attacker rolls for damage.
+Subtract 1d10 + your Intelligence modifier from the attack roll. If the projectile would then miss, you may divert it in a direction you choose within a 30-foot cone of the original direction. If you direct the projectile to hit a different target, it then must make a Dexterity saving throw against your spell save DC. On failure, the original attacker rolls for damage.
 
 # Empowered Cantrip
 Beginning at 10th level, you can add your Intelligence modifier (minimum of +1) to damage rolls of any wizard cantrip that you cast.
