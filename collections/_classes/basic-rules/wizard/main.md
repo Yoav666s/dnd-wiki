@@ -96,9 +96,10 @@ For example, if you're a 4th-level wizard, you can recover up to two levels wort
 ## Arcane Tradition
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of the following schools. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
-| School         | Source      |
-| :------------- | :---------- |
-| [[!Evocation]] | Basic Rules |
+| School           | Source                    |
+| :--------------- | :------------------------ |
+| [[!Evocation]]   | Basic Rules               |
+| [[!Kineticism]] | Untold Legends of Nornfeld |
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
