@@ -1,6 +1,7 @@
 ---
 title: "Buccaneer"
-index: "buccaneer"
+index: 
+  - buccaneer
 permalink: /classes/rogue/buccaneer/
 excerpt: "You're skilled in close-quarter fighting, especially in densely packed areas. You take advantage of the crowd, of others' mistakes, and of opportune moments."
 subclass: rogue
