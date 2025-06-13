@@ -34,6 +34,9 @@ classes:
   - title: "Warlock"
     class: warlock
     url: /classes/warlock/
+  - title: "Wizard"
+    class: wizard
+    url: /classes/wizard/
 
 rules:
   # - title: "Creating A Character"
