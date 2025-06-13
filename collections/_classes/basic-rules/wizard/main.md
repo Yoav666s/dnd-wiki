@@ -15,4 +15,4 @@ Wizards are supreme magic-users, defined and united as a class by the spells the
 
 | Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | :---: | :---: | :---- | :---: |:---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1st | +2 | [[Spellcasting]], [[Arcane Recovery]] | 2 | - | - | - | - | - | - | - | - | - |
+| 1st | +2 | [[Spellcasting]], [[Arcane Recovery]] | 3 | 2 | - | - | - | - | - | - | - | - |
