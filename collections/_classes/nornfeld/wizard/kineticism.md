@@ -4,12 +4,14 @@ index:
   - kineticism 
   - kineticism-magic
 permalink: /classes/wizard/kineticism/
-excerpt: "You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid."
+excerpt: "Through intense focus and mathematical precision, Kineticists wield invisible forces to propel objects, redirect projectiles, and strike foes with surgical accuracy."
 subclass: wizard
 # header:
 #   overlay_image: /assets/images/classes/wizard/header.png
 #   teaser: /assets/images/classes/wizard/header.jpg
 ---
+Through intense focus and mathematical precision, Kineticists wield invisible forces to propel objects, redirect projectiles, and strike foes with surgical accuracy. To them, magic is not chaos—it is controlled energy, harnessed and released with perfect timing. Their battlefield is not defined by fire or frost, but by space, speed, and direction.
+
 # Light Fling
 When you choose this school at 2nd level, you learn the [[Fling]] cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
