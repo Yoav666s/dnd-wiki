@@ -10,7 +10,7 @@ available_for:
   - Cleric
   - Sorcerer
   - Wizard
-  - Mischievous Apprentice
+
 level: "Cantrip"
 school: "Evocation"
 range: "Touch"

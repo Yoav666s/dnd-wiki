@@ -6,7 +6,7 @@ tags:
   - Damage
   - Control
 available_for:
-  - Mischievous Apprentice
+
 level: "Cantrip"
 school: "Transmutation"
 range: "60 ft"

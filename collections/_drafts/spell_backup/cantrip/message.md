@@ -6,7 +6,7 @@ tags:
   - Communication
   - Social
 available_for:
-  - Mischievous Apprentice
+
   - Bard
   - Sorcerer
   - Wizard

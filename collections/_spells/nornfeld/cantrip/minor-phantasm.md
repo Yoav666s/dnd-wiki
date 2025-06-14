@@ -8,7 +8,7 @@ tags:
   - Deception
 available_for:
   - Bard
-  - Mischievous Apprentice
+
   - Sorcerer
   - Warlock
 level: "Cantrip"

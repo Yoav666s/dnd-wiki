@@ -5,7 +5,7 @@ tags:
   - Spell
   - Control
 available_for:
-  - Mischievous Apprentice
+
   - Bard
   - Sorcerer
   - Warlock

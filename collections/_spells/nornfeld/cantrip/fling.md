@@ -7,7 +7,7 @@ tags:
   - Damage
   - Control
 available_for:
-  - Mischievous Apprentice
+
   - Sorcerer 
   - Wizard
 level: "Cantrip"

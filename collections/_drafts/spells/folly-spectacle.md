@@ -7,7 +7,7 @@ tags:
   - Combat
   - Deception
 available_for:
-  - Mischievous Apprentice
+
 level: "Cantrip"
 school: "Illusion"
 range: "60 ft"

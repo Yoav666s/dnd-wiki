@@ -5,7 +5,7 @@ tags:
   - Spell
   - Deception
 available_for:
-  - Mischievous Apprentice
+
 level: "Cantrip"
 school: "Illusion"
 comp:

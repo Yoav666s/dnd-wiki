@@ -5,7 +5,7 @@ tags:
   - Spell
   - Buff
 available_for:
-  - Mischievous Apprentice
+
 level: "1st Level"
 school: "Illusion"
 comp:

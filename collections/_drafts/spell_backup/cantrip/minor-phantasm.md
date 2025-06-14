@@ -7,7 +7,7 @@ tags:
   - Control
   - Deception
 available_for:
-  - Mischievous Apprentice
+
 level: "Cantrip"
 school: "Illusion"
 range: "30 ft"

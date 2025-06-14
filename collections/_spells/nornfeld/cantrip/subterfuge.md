@@ -7,7 +7,7 @@ tags:
   - Deception
   - Utility
 available_for:
-  - Mischievous Apprentice
+
 level: "Cantrip"
 school: "Transmutation"
 range: "30 ft"

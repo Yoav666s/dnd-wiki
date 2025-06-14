@@ -7,7 +7,7 @@ tags:
   - Spell
   - Buff
 available_for:
-  - Mischievous Apprentice
+
   - Shadow Domain
 level: "1st Level"
 school: "Illusion"
