@@ -85,7 +85,7 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 | Archetype                      | Source                     |
 | :----------------------------- | :------------------------- |
 | [[!Buccaneer]]                 | Untold Legends of Nornfeld |
-| [[!Mischievous Apprentice]]    | Untold Legends of Nornfeld |
+| [[!Mirage Dancer]]    | Untold Legends of Nornfeld |
 | [[!Thief]]                     | Basic Rules                |
 
 ## Ability Score Improvement
