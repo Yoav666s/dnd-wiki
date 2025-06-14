@@ -11,7 +11,7 @@ header:
 ---
 Trained in both subtle magic and sleight of hand, a Mirage Dancer slips unseen between moments, vanishes in plain sight, and reappears where least expected. Whether vanishing behind a ripple of heat, escaping pursuit through illusory doubles, or seeming to teleport across the battlefield, they master the art of being where danger is not.
 
-# Wondrous Trickery
+# Deceitful Gesture
 When you choose this archetype at 3rd level, you learn the [[Deceitful Maneuver]] cantrip, and you can cast it as a bonus action.
 
 Additionally, you can cast [[Deceitful Maneuver]] freely as part of any interaction, such as drawing a dagger, pulling a lever, or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
