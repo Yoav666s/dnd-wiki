@@ -12,10 +12,10 @@ subclass: wizard
 ---
 Through intense focus and mathematical precision, Kineticists wield invisible forces to propel objects, redirect projectiles, and strike foes with surgical accuracy. To them, magic is not chaos—it is controlled energy, harnessed and released with perfect timing. Their battlefield is not defined by fire or frost, but by space, speed, and direction.
 
-# Light Fling
+# Flinger
 When you choose this school at 2nd level, you learn the [[Fling]] cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
-You can cast Fling as part of the same action you use to interact with an object, but only to send an object to your free hand and catch it. 
+You can cast Fling as part of an interaction with an object, but only to send an object to your free hand and catch it.
 
 # Extra Fling
 Beginning at 2nd level, when you take your action to cast [[Fling]], you can cast it again as a bonus action. 
