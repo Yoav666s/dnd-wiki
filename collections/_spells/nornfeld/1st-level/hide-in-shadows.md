@@ -7,8 +7,8 @@ tags:
   - Spell
   - Buff
 available_for:
-
-  - Shadow Domain
+  - Druid
+  - Ranger
 level: "1st Level"
 school: "Illusion"
 comp:
