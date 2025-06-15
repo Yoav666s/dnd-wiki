@@ -15,7 +15,7 @@ Monks who follow the Way of the Zen Master embody an unshakable calm in the mids
 # Last One Laughing
 When you choose this tradition at 3rd level, you like to go last. After you roll for initiative, you may replace the result with 1. If you do, your first ki ability each turn costs 1 less ki point until the end of combat.
 
-# Moving Target
+# Move Aside
 Starting at 6th level, you learn that the best defense is to not be there when it happens. When you're hit by a melee attack, you may spend one ki point and use your reaction to evade it completely. You may move up to half your movement speed afterwards without provoking opportunity attacks.
 
 # Playful Push
