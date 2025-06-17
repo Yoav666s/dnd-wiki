@@ -71,7 +71,7 @@ Starting at 3rd level, you gain advantage on Dexterity ([[Sleight of Hand]]) che
 At 3rd level, choose one cantrip to specialize in. You can use your bonus action to cast it, and gain additional benefits. You can choose a second cantrip to specialize in at 9th level.
 
 ## Deceitful Gesture
-At 3rd level, if you're specialized in the [[deceitful maneuver]] cantrip, you can cast it freely as part of any interaction, such as drawing a dagger, pulling a lever, or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
+At 3rd level, if you're specialized in the [[mirage]] cantrip, you can cast it freely as part of any interaction, such as drawing a dagger, pulling a lever, or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
 
 ## Sling
 At 3rd level, if you're specialized in the [[fling]] cantrip, it is eligible to deal sneak attack damage when an enemy has disadvantage on the saving throw, or when other sneak attack conditions are met.
@@ -97,7 +97,7 @@ At 3rd level, if you're specialized in the [[subterfuge]] cantrip, distractions 
 At 9th level, choose a second cantrip to specialize in. Your [[mischievous incantations]] gain additional benefits:
 
 ## Deceitful Dash
-At 9th level, if you're specialized in the [[deceitful maneuver]] cantrip, you are able to move at normal speed without breaking the effects of this spell.
+At 9th level, if you're specialized in the [[mirage]] cantrip, you are able to move at normal speed without breaking the effects of this spell.
 
 ## Pitch
 At 9th level, if you're specialized in the [[fling]] cantrip, its damage die is replaced for you with 1d12 instead of 1d8.
@@ -118,7 +118,7 @@ At 9th level, if you're specialized in the [[subterfuge]] cantrip, you may cast 
 Starting at 13th level, the [[mischievous incantations]] you've specialized in become instinctual, allowing you to cast them in a repertoire of unique reactions.
 
 ## Deceitful Dodge
-At 13th level, if you're specialized in the [[deceitful maneuver]] cantrip, you learn the **deceitful dodge** riposte. When you're targeted by an attack that relies on sight, you may use your reaction to cast [[deceitful maneuver]] and attempt to move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. Make a Dexterity saving throw against the attack roll. On success, you evade it completely. On failure, you take half damage. Your movement doesn't provoke an opportunity attack from that creature.
+At 13th level, if you're specialized in the [[mirage]] cantrip, you learn the **deceitful dodge** riposte. When you're targeted by an attack that relies on sight, you may use your reaction to cast [[mirage]] and attempt to move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. Make a Dexterity saving throw against the attack roll. On success, you evade it completely. On failure, you take half damage. Your movement doesn't provoke an opportunity attack from that creature.
 
 ## Divert
 At 13th level, if you're specialized in the [[fling]] cantrip, you learn the **divert** riposte. When you notice a ranged weapon attack, you may use your reaction to try and divert its projectile when it reaches a distance of 60 feet or less from you.
