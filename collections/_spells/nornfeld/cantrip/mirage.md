@@ -1,13 +1,13 @@
 ---
 title: "Mirage"
-index: "mirage"
+index: 
+  - mirage
 permalink: /spells/mirage/
 tags:
   - Spell
   - Deception
 available_for:
   - Bard 
-
   - Sorcerer
   - Warlock
 level: "Cantrip"
