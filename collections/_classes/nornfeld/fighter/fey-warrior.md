@@ -12,7 +12,7 @@ The Fey Warrior moves with an otherworldly grace, their presence flickering like
 
 
 # Dazzling Demonstration 
-Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Thaumaturgy]] cantrips, and gain proficiency in [[Performance]] if you don't already have it.
+Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Phase Strike]] cantrips, and gain proficiency in [[Performance]] if you don't already have it.
 
 # Fey Teleportation
 Starting at 3rd level, you can cast the [[Misty Step]] spell as a bonus action without expending a slot.
