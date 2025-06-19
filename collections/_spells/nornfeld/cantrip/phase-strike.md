@@ -26,6 +26,6 @@ description: |
 excerpt: "You teleport to an unoccupied space within 5 feet of the target. Immediately after you arrive, you make a melee attack with the weapon used in the spell's casting."
 source: "Basic Rules"
 # header:
-#   overlay_image: /assets/images/spells/name/header.png
-#   teaser: /assets/images/spells/name/header.jpg
+#   overlay_image: /assets/images/spells/phase-strike/header.png
+#   teaser: /assets/images/spells/phase-strike/header.jpg
 ---
