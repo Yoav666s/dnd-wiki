@@ -14,10 +14,8 @@ The Fey Warrior moves with an otherworldly grace, their presence flickering like
 # Dazzling Demonstration 
 Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Thaumaturgy]] cantrips, and gain proficiency in [[Performance]] if you don't already have it.
 
-# Feystride 
-Starting at 3rd level, you learn the [[Phase Strike]] cantrip and you can cast the [[Misty Step]] spell as a bonus action without expending a slot.
-
-You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
+# Fey Teleportation
+Starting at 3rd level, you learn the [[Phase Strike]] cantrip and you can cast the [[Misty Step]] spell as a bonus action without expending a slot. You can do so a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
 
 # Residual Image
 At 7th level, whenever you teleport, you may leave behind an illusory uplicate of yourself. It lasts until your next turn or until you teleport again.
@@ -34,5 +32,5 @@ You can use this feature a number of times equal to your proficiency bonus. You 
 # Fey Invisibility
 Starting at 15th level, you learn the [[Greater Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a long rest.
 
-# 
-Starting at 18th level, 
+# Feystride
+Starting at 18th level, whenever you take the [[disengage]] action, you become invisible until the start of your next turn.
