@@ -10,7 +10,7 @@ available_for:
   - Sorcerer
   - Warlock
 level: "Cantrip"
-school: "Transmutation"
+school: "Conjuration"
 range: "10 ft"
 comp:
   - M
