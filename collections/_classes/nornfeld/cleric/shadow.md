@@ -29,7 +29,7 @@ When you choose this domain at 1st level, you gain proficiency in [[Stealth]] if
 # Veil of Shadows
 Starting at 1st level, you can use your bonus action to take the [[hide]] action.
 
-When you successfully hide, you can turn invisible until the start of your next turn or until you attack or cast a spell. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short rest.
+When you successfully hide, you can turn invisible until the start of your next turn or until you attack or cast a spell. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 
 # Channel Divinity: Unseen Strike 
 Starting at 2nd level, you can use your Channel Divinity to strike with supernatural precision.
