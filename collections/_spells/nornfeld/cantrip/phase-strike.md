@@ -11,7 +11,7 @@ available_for:
   - Warlock
 level: "Cantrip"
 school: "Conjuration"
-range: "10 ft"
+range: "15 ft"
 comp:
   - M
 material: "a melee weapon worth at least 1 cp"
