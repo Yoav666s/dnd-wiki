@@ -8,22 +8,17 @@ tags:
 available_for:
   - Wizard
   - Sorcerer
+  - Warlock
 level: "Cantrip"
 school: "Transmutation"
-range: "30 ft"
-area: "5 ft"
-shape: "Cube"
+range: "10 ft"
 comp:
-  - V
-  - S
   - M
-material: "a small nugget of rabbit poop"
+material: "a melee weapon worth at least 1 cp"
 duration: "Instantaneous"
 concentration: false
 cast_time: "1 Action"
 ritual: false
-attack: "WIS Save"
-effect: "Fire"
 description: |
   description
 excerpt: "description"
