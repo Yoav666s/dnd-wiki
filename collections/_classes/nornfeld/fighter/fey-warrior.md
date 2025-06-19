@@ -19,8 +19,12 @@ Starting at 3rd level, you can cast the [[Misty Step]] spell as a bonus action w
 
 You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
 
-# Side Step
-Starting at 7th level, before you make a melee attack, you may teleport to an unoccupied space you can see within 5 feet of the creature that you are attacking.
+# Residual Image
+At 7th level, whenever you teleport, you leave behind an illusory uplicate of yourself. It lasts until your next turn or until you teleport again.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
+
+When both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
 
 # Disappearing Act
 At 10th level, when a creature you can see hits you with a melee attack, you may use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. If you do, the attack misses instead.
@@ -30,9 +34,5 @@ You can use this feature a number of times equal to your proficiency bonus. You 
 # Feystride
 Starting at 15th level, when you take the [[dash]] action, instead of walking you may teleport to an unoccupied space up to a distance equal to your remaining movement speed. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you.
 
-# Residual Image
-At 18th level, whenever you teleport, you leave behind an illusory uplicate of yourself. It lasts until your next turn or until you teleport again.
-
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
-
-When both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
+#
+Starting at 18th level,
