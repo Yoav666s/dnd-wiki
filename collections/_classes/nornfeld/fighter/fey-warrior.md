@@ -31,7 +31,7 @@ You can use this feature a number of times equal to your proficiency bonus. You 
 
 
 # Flicker
-Starting at 15th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn.
+Starting at 15th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
 
 # Fey Invisibility
 Starting at 18th level, you learn the [[Greater Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a long rest.
