@@ -24,14 +24,14 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 When both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
 
-# Disappearing Act
-At 10th level, when a creature you can see hits you with a melee attack and before damage is rolled, you may use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. If you do, the attack misses instead.
-
-You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
-
 
 # Flicker
-Starting at 15th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
+Starting at 10th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
+
+# Disappearing Act
+At 15th level, when a creature you can see hits you with a melee attack and before damage is rolled, you may use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. If you do, the attack misses instead.
+
+You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after a short or long rest.
 
 # Fey Invisibility
 Starting at 18th level, you learn the [[Greater Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a long rest.
