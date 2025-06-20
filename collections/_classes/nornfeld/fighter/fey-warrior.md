@@ -32,5 +32,5 @@ You can use this feature a number of times equal to your proficiency bonus. You 
 # Fey Invisibility
 Starting at 15th level, you learn the [[Greater Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a long rest.
 
-# Ghostwalk
+# Flicker
 Starting at 18th level, you can take your bonus action to [[disengage]]. Whenever you take the [[disengage]] action, you become invisible until the start of your next turn or until you attack or cast a spell.
