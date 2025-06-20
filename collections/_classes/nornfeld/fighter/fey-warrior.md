@@ -18,7 +18,7 @@ Beginning when you choose this archetype at 3rd level, you learn the [[Dancing L
 Starting at 3rd level, you learn the [[Phase Strike]] cantrip and you can cast the [[Misty Step]] spell as a bonus action without expending a slot. You can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
 
 # Residual Image
-At 7th level, whenever you teleport, you may leave behind an illusory uplicate of yourself. It lasts until your next turn or until you teleport again.
+At 7th level, whenever you teleport, you may leave behind an illusory duplicate of yourself. It lasts until your next turn or until you teleport again.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 
