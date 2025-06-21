@@ -1,6 +1,7 @@
 ---
 title: "Path of the Breserker"
-index: "breserker"
+index: 
+  - breserker
 permalink: /classes/barbarian/breserker/
 excerpt: "For some barbarians, rage is a means to an end – that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood."
 subclass: barbarian
