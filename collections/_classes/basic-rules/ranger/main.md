@@ -35,3 +35,26 @@ Far from the bustle of cities and towns, past the hedges that shelter the most d
 | 18th  | +6 | [[Feral Senses]] | 8 | 4 | 3 | 3 | 3 | 1 |
 | 19th  | +6 | [[Ability Score Improvement]] | 9 | 4 | 3 | 3 | 3 | 2 |
 | 20th  | +6 | [[Foe Slayer]] | 9 | 4 | 3 | 3 | 3 | 2 |
+
+# Class Features
+As a ranger, you gain the following class features.
+
+## Hit Points
+**Hit Dice:** 1d10 per ranger level \
+**Hit Points at 1st Level:** 10 + your Constitution modifier \
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ranger level after 1st
+
+## Proficiencies
+**Armor:** Light armor, medium armor, shields \
+**Weapons:** Simple weapons, martial weapons \
+**Tools:** None \
+**Saving Throws:** Strength, Dexterity \
+**Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+
+## Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+
+(a) scale mail or (b) leather armor \
+(a) two shortswords or (b) two simple melee weapons \
+(a) a dungeoneer's pack or (b) an explorer's pack
+A longbow and a quiver of 20 arrows
