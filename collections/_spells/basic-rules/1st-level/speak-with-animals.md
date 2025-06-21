@@ -1,6 +1,7 @@
 ---
 title: "Speak with Animals"
-index: "speak-with-animals"
+index:
+  - speak-with-animals
 permalink: /spells/speak-with-animals/
 tags:
   - Spell

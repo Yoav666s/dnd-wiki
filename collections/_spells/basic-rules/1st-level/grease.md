@@ -1,6 +1,7 @@
 ---
 title: "Grease"
-index: "grease"
+index:
+  - grease
 permalink: /spells/grease/
 tags:
   - Spell

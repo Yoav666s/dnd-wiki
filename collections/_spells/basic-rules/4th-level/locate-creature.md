@@ -1,6 +1,7 @@
 ---
 title: "Locate Creature"
-index: "locate-creature"
+index:
+  - locate-creature
 permalink: /spells/locate-creature/
 tags:
   - Spell

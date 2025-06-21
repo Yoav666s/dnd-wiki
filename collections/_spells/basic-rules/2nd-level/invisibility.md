@@ -1,6 +1,7 @@
 ---
 title: "Invisibility"
-index: "invisibility"
+index:
+  - invisibility
 permalink: /spells/invisibility/
 tags:
   - Spell

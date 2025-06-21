@@ -1,6 +1,7 @@
 ---
 title: "Stone Shape"
-index: "stone-shape"
+index:
+  - stone-shape
 permalink: /spells/stone-shape/
 tags:
   - Spell

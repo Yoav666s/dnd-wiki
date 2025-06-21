@@ -1,6 +1,7 @@
 ---
 title: "Delayed Blast Fireball"
-index: "delayed-blast-fireball"
+index:
+  - delayed-blast-fireball
 permalink: /spells/delayed-blast-fireball/
 tags:
   - Spell

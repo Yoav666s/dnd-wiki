@@ -1,6 +1,7 @@
 ---
 title: "Chill Touch"
-index: "chill-touch"
+index:
+  - chill-touch
 permalink: /spells/chill-touch/
 tags:
   - Spell

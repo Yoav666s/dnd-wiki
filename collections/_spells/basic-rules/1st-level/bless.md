@@ -1,6 +1,7 @@
 ---
 title: "Bless"
-index: "bless"
+index:
+  - bless
 permalink: /spells/bless/
 tags:
   - Spell

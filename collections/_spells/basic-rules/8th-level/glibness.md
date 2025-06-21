@@ -1,6 +1,7 @@
 ---
 title: "Glibness"
-index: "glibness"
+index:
+  - glibness
 permalink: /spells/glibness/
 tags:
   - Spell

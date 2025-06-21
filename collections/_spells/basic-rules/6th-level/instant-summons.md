@@ -1,6 +1,7 @@
 ---
 title: "Instant Summons"
-index: "instant-summons"
+index:
+  - instant-summons
 permalink: /spells/instant-summons/
 tags:
   - Spell

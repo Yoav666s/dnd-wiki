@@ -1,6 +1,7 @@
 ---
 title: "Control Weather"
-index: "control-weather"
+index:
+  - control-weather
 permalink: /spells/control-weather/
 tags:
   - Spell

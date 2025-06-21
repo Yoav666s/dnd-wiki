@@ -1,6 +1,7 @@
 ---
 title: "Find the Path"
-index: "find-the-path"
+index:
+  - find-the-path
 permalink: /spells/find-the-path/
 tags:
   - Spell

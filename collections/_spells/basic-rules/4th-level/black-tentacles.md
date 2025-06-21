@@ -1,6 +1,7 @@
 ---
 title: "Black Tentacles"
-index: "black-tentacles"
+index:
+  - black-tentacles
 permalink: /spells/black-tentacles/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Fireball"
-index: "fireball"
+index:
+  - fireball
 permalink: /spells/fireball/
 tags:
   - Spell

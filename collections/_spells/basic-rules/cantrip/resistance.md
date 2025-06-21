@@ -1,6 +1,7 @@
 ---
 title: "Resistance"
-index: "resistance"
+index:
+  - resistance
 permalink: /spells/resistance/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Detect Evil and Good"
-index: "detect-evil-and-good"
+index:
+  - detect-evil-and-good
 permalink: /spells/detect-evil-and-good/
 tags:
   - Spell

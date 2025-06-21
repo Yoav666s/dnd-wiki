@@ -1,6 +1,7 @@
 ---
 title: "Programmed Illusion"
-index: "programmed-illusion"
+index:
+  - programmed-illusion
 permalink: /spells/programmed-illusion/
 tags:
   - Spell

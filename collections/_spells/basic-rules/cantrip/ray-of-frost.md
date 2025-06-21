@@ -1,6 +1,7 @@
 ---
 title: "Ray of Frost"
-index: "ray-of-frost"
+index:
+  - ray-of-frost
 permalink: /spells/ray-of-frost/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Private Sanctum"
-index: "private-sanctum"
+index:
+  - private-sanctum
 permalink: /spells/private-sanctum/
 tags:
   - Spell

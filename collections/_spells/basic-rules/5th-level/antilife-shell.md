@@ -1,6 +1,7 @@
 ---
 title: "Antilife Shell"
-index: "antilife-shell"
+index:
+  - antilife-shell
 permalink: /spells/antilife-shell/
 tags:
   - Spell

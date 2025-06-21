@@ -1,6 +1,7 @@
 ---
 title: "Gentle Repose"
-index: "gentle-repose"
+index:
+  - gentle-repose
 permalink: /spells/gentle-repose/
 tags:
   - Spell

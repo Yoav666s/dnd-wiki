@@ -1,6 +1,7 @@
 ---
 title: "Awaken"
-index: "awaken"
+index:
+  - awaken
 permalink: /spells/awaken/
 tags:
   - Spell

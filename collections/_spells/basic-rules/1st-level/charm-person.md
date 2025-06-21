@@ -1,6 +1,7 @@
 ---
 title: "Charm Person"
-index: "charm-person"
+index:
+  - charm-person
 permalink: /spells/charm-person/
 tags:
   - Spell

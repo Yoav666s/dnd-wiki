@@ -1,6 +1,7 @@
 ---
 title: "Zone of Truth"
-index: "zone-of-truth"
+index:
+  - zone-of-truth
 permalink: /spells/zone-of-truth/
 tags:
   - Spell

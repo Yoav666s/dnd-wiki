@@ -1,6 +1,7 @@
 ---
 title: "Phantasmal Killer"
-index: "phantasmal-killer"
+index:
+  - phantasmal-killer
 permalink: /spells/phantasmal-killer/
 tags:
   - Spell

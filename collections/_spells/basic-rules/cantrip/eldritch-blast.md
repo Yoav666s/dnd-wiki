@@ -1,6 +1,7 @@
 ---
 title: "Eldritch Blast"
-index: "eldritch-blast"
+index:
+  - eldritch-blast
 permalink: /spells/eldritch-blast/
 tags:
   - Spell

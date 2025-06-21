@@ -1,6 +1,7 @@
 ---
 title: "Dispel Evil and Good"
-index: "dispel-evil-and-good"
+index:
+  - dispel-evil-and-good
 permalink: /spells/dispel-evil-and-good/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Feeblemind"
-index: "feeblemind"
+index:
+  - feeblemind
 permalink: /spells/feeblemind/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Create or Destroy Water"
-index: "create-or-destroy-water"
+index:
+  - create-or-destroy-water
 permalink: /spells/create-or-destroy-water/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Shocking Grasp"
-index: "shocking-grasp"
+index:
+  - shocking-grasp
 permalink: /spells/shocking-grasp/
 tags:
   - Spell

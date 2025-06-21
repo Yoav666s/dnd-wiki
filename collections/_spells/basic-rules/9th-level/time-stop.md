@@ -1,6 +1,7 @@
 ---
 title: "Time Stop"
-index: "time-stop"
+index:
+  - time-stop
 permalink: /spells/time-stop/
 tags:
   - Spell

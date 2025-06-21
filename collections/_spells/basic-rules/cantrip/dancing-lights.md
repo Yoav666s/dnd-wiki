@@ -1,6 +1,7 @@
 ---
 title: "Dancing Lights"
-index: "dancing-lights"
+index:
+  - dancing-lights
 permalink: /spells/dancing-lights/
 tags:
   - Spell

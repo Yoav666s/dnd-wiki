@@ -1,6 +1,7 @@
 ---
 title: "Prayer of Healing"
-index: "prayer-of-healing"
+index:
+  - prayer-of-healing
 permalink: /spells/prayer-of-healing/
 tags:
   - Spell

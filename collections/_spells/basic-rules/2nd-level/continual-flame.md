@@ -1,6 +1,7 @@
 ---
 title: "Continual Flame"
-index: "continual-flame"
+index:
+  - continual-flame
 permalink: /spells/continual-flame/
 tags:
   - Spell

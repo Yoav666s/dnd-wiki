@@ -1,6 +1,7 @@
 ---
 title: "Sending"
-index: "sending"
+index:
+  - sending
 permalink: /spells/sending/
 tags:
   - Spell

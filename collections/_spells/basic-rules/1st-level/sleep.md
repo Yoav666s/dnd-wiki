@@ -1,6 +1,7 @@
 ---
 title: "Sleep"
-index: "sleep"
+index:
+  - sleep
 permalink: /spells/sleep/
 tags:
   - Spell

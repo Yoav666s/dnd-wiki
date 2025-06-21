@@ -1,6 +1,7 @@
 ---
 title: "Control Water"
-index: "control-water"
+index:
+  - control-water
 permalink: /spells/control-water/
 tags:
   - Spell

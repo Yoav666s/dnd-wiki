@@ -1,6 +1,7 @@
 ---
 title: "Giant Insect"
-index: "giant-insect"
+index:
+  - giant-insect
 permalink: /spells/giant-insect/
 tags:
   - Spell

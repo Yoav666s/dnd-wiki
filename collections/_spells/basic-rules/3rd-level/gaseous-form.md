@@ -1,6 +1,7 @@
 ---
 title: "Gaseous Form"
-index: "gaseous-form"
+index:
+  - gaseous-form
 permalink: /spells/gaseous-form/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Cloudkill"
-index: "cloudkill"
+index:
+  - cloudkill
 permalink: /spells/cloudkill/
 tags:
   - Spell

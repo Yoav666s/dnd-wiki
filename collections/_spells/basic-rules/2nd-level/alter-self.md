@@ -1,6 +1,7 @@
 ---
 title: "Alter Self"
-index: "alter-self"
+index:
+  - alter-self
 permalink: /spells/alter-self/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Disguise Self"
-index: "disguise-self"
+index:
+  - disguise-self
 permalink: /spells/disguise-self/
 tags:
   - Spell

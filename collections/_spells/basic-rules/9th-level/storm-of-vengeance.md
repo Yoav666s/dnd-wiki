@@ -1,6 +1,7 @@
 ---
 title: "Storm of Vengeance"
-index: "storm-of-vengeance"
+index:
+  - storm-of-vengeance
 permalink: /spells/storm-of-vengeance/
 tags:
   - Spell

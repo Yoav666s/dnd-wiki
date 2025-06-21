@@ -1,6 +1,7 @@
 ---
 title: "Resurrection"
-index: "resurrection"
+index:
+  - resurrection
 permalink: /spells/resurrection/
 tags:
   - Spell

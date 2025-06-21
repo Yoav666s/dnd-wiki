@@ -1,6 +1,7 @@
 ---
 title: "Incendiary Cloud"
-index: "incendiary-cloud"
+index:
+  - incendiary-cloud
 permalink: /spells/incendiary-cloud/
 tags:
   - Spell

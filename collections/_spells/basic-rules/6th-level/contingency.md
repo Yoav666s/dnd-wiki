@@ -1,6 +1,7 @@
 ---
 title: "Contingency"
-index: "contingency"
+index:
+  - contingency
 permalink: /spells/contingency/
 tags:
   - Spell

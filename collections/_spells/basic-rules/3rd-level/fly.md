@@ -1,6 +1,7 @@
 ---
 title: "Fly"
-index: "fly"
+index:
+  - fly
 permalink: /spells/fly/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Contact Other Plane"
-index: "contact-other-plane"
+index:
+  - contact-other-plane
 permalink: /spells/contact-other-plane/
 tags:
   - Spell

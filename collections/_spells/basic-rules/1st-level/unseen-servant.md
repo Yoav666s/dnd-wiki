@@ -1,6 +1,7 @@
 ---
 title: "Unseen Servant"
-index: "unseen-servant"
+index:
+  - unseen-servant
 permalink: /spells/unseen-servant/
 tags:
   - Spell

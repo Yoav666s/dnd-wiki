@@ -1,6 +1,7 @@
 ---
 title: "Protection From Energy"
-index: "protection-from-energy"
+index:
+  - protection-from-energy
 permalink: /spells/protection-from-energy/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "True Resurrection"
-index: "true-resurrection"
+index:
+  - true-resurrection
 permalink: /spells/true-resurrection/
 tags:
   - Spell

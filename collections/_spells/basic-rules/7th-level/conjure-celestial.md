@@ -1,6 +1,7 @@
 ---
 title: "Conjure Celestial"
-index: "conjure-celestial"
+index:
+  - conjure-celestial
 permalink: /spells/conjure-celestial/
 tags:
   - Spell

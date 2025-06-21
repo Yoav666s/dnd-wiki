@@ -1,6 +1,7 @@
 ---
 title: "Blindness/Deafness"
-index: "blindness-deafness"
+index:
+  - blindness-deafness
 permalink: /spells/blindness-deafness/
 tags:
   - Spell

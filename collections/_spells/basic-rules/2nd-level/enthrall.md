@@ -1,6 +1,7 @@
 ---
 title: "Enthrall"
-index: "enthrall"
+index:
+  - enthrall
 permalink: /spells/enthrall/
 tags:
   - Spell

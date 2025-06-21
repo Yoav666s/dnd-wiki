@@ -1,6 +1,7 @@
 ---
 title: "Sunburst"
-index: "sunburst"
+index:
+  - sunburst
 permalink: /spells/sunburst/
 tags:
   - Spell

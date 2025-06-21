@@ -1,6 +1,7 @@
 ---
 title: "Wall of Force"
-index: "wall-of-force"
+index:
+  - wall-of-force
 permalink: /spells/wall-of-force/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Shapechange"
-index: "shapechange"
+index:
+  - shapechange
 permalink: /spells/shapechange/
 tags:
   - Spell

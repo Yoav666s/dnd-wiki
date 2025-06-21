@@ -1,6 +1,7 @@
 ---
 title: "Power Word Kill"
-index: "power-word-kill"
+index:
+  - power-word-kill
 permalink: /spells/power-word-kill/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Faerie Fire"
-index: "faerie-fire"
+index:
+  - faerie-fire
 permalink: /spells/faerie-fire/
 tags:
   - Spell

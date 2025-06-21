@@ -1,6 +1,7 @@
 ---
 title: "Arcane Lock"
-index: "arcane-lock"
+index:
+  - arcane-lock
 permalink: /spells/arcane-lock/
 tags:
   - Spell

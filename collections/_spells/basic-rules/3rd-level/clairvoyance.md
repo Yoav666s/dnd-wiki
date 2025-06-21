@@ -1,6 +1,7 @@
 ---
 title: "Clairvoyance"
-index: "clairvoyance"
+index:
+  - clairvoyance
 permalink: /spells/clairvoyance/
 tags:
   - Spell

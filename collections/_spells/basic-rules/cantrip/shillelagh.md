@@ -1,6 +1,7 @@
 ---
 title: "Shillelagh"
-index: "shillelagh"
+index:
+  - shillelagh
 permalink: /spells/shillelagh/
 tags:
   - Spell

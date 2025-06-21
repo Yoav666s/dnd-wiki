@@ -1,6 +1,7 @@
 ---
 title: "Sleet Storm"
-index: "sleet-storm"
+index:
+  - sleet-storm
 permalink: /spells/sleet-storm/
 tags:
   - Spell

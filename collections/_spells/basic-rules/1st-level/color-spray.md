@@ -1,6 +1,7 @@
 ---
 title: "Color Spray"
-index: "color-spray"
+index:
+  - color-spray
 permalink: /spells/color-spray/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Gust of Wind"
-index: "gust-of-wind"
+index:
+  - gust-of-wind
 permalink: /spells/gust-of-wind/
 tags:
   - Spell

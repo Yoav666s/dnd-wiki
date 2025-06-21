@@ -1,6 +1,7 @@
 ---
 title: "Find Familiar"
-index: "find-familiar"
+index:
+  - find-familiar
 permalink: /spells/find-familiar/
 tags:
   - Spell

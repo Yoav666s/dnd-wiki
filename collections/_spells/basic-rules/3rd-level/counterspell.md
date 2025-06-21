@@ -1,6 +1,7 @@
 ---
 title: "Counterspell"
-index: "counterspell"
+index:
+  - counterspell
 permalink: /spells/counterspell/
 tags:
   - Spell

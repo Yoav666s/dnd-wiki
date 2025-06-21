@@ -1,6 +1,7 @@
 ---
 title: "Find Steed"
-index: "find-steed"
+index:
+  - find-steed
 permalink: /spells/find-steed/
 tags:
   - Spell

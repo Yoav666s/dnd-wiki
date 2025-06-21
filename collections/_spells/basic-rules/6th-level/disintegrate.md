@@ -1,6 +1,7 @@
 ---
 title: "Disintegrate"
-index: "disintegrate"
+index:
+  - disintegrate
 permalink: /spells/disintegrate/
 tags:
   - Spell

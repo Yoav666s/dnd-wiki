@@ -1,6 +1,7 @@
 ---
 title: "Protection from Poison"
-index: "protection-from-poison"
+index:
+  - protection-from-poison
 permalink: /spells/protection-from-poison/
 tags:
   - Spell

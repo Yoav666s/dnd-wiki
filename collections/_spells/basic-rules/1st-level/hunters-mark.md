@@ -1,6 +1,7 @@
 ---
 title: "Hunter's Mark"
-index: "hunters-mark"
+index:
+  - hunters-mark
 permalink: /spells/hunters-mark/
 tags:
   - Spell

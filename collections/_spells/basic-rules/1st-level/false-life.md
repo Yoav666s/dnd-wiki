@@ -1,6 +1,7 @@
 ---
 title: "False Life"
-index: "false-life"
+index:
+  - false-life
 permalink: /spells/false-life/
 tags:
   - Spell

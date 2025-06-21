@@ -1,6 +1,7 @@
 ---
 title: "Guidance"
-index: "guidance"
+index:
+  - guidance
 permalink: /spells/guidance/
 tags:
   - Spell

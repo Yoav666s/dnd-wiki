@@ -1,6 +1,7 @@
 ---
 title: "Animal Messenger"
-index: "animal-messenger"
+index:
+  - animal-messenger
 permalink: /spells/animal-messenger/
 tags:
   - Spell

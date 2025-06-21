@@ -1,6 +1,7 @@
 ---
 title: "Speak with Plants"
-index: "speak-with-plants"
+index:
+  - speak-with-plants
 permalink: /spells/speak-with-plants/
 tags:
   - Spell

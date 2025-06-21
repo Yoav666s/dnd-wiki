@@ -1,6 +1,7 @@
 ---
 title: "Blight"
-index: "blight"
+index:
+  - blight
 permalink: /spells/blight/
 tags:
   - Spell

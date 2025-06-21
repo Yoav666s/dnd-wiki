@@ -1,6 +1,7 @@
 ---
 title: "Contagion"
-index: "contagion"
+index:
+  - contagion
 permalink: /spells/contagion/
 tags:
   - Spell

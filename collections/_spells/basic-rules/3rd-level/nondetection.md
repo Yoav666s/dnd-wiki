@@ -1,6 +1,7 @@
 ---
 title: "Nondetection"
-index: "nondetection"
+index:
+  - nondetection
 permalink: /spells/nondetection/
 tags:
   - Spell

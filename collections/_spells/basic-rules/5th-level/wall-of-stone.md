@@ -1,6 +1,7 @@
 ---
 title: "Wall of Stone"
-index: "wall-of-stone"
+index:
+  - wall-of-stone
 permalink: /spells/wall-of-stone/
 tags:
   - Spell

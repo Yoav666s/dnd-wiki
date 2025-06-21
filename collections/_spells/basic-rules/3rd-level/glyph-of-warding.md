@@ -1,6 +1,7 @@
 ---
 title: "Glyph of Warding"
-index: "glyph-of-warding"
+index:
+  - glyph-of-warding
 permalink: /spells/glyph-of-warding/
 tags:
   - Spell

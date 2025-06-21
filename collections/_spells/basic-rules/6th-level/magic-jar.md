@@ -1,6 +1,7 @@
 ---
 title: "Magic Jar"
-index: "magic-jar"
+index:
+  - magic-jar
 permalink: /spells/magic-jar/
 tags:
   - Spell

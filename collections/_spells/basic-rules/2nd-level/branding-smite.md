@@ -1,6 +1,7 @@
 ---
 title: "Branding Smite"
-index: "branding-smite"
+index:
+  - branding-smite
 permalink: /spells/branding-smite/
 tags:
   - Spell

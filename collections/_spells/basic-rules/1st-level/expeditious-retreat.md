@@ -1,6 +1,7 @@
 ---
 title: "Expeditious Retreat"
-index: "expeditious-retreat"
+index:
+  - expeditious-retreat
 permalink: /spells/expeditious-retreat/
 tags:
   - Spell

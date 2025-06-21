@@ -1,6 +1,7 @@
 ---
 title: "Fear"
-index: "fear"
+index:
+  - fear
 permalink: /spells/fear/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Magic Mouth"
-index: "magic-mouth"
+index:
+  - magic-mouth
 permalink: /spells/magic-mouth/
 tags:
   - Spell

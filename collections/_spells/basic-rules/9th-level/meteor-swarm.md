@@ -1,6 +1,7 @@
 ---
 title: "Meteor Swarm"
-index: "meteor-swarm"
+index:
+  - meteor-swarm
 permalink: /spells/meteor-swarm/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Phantom Steed"
-index: "phantom-steed"
+index:
+  - phantom-steed
 permalink: /spells/phantom-steed/
 tags:
   - Spell

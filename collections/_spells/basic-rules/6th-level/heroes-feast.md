@@ -1,6 +1,7 @@
 ---
 title: "Heroes' Feast"
-index: "heroes-feast"
+index:
+  - heroes-feast
 permalink: /spells/heroes-feast/
 tags:
   - Spell

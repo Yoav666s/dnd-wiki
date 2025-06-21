@@ -1,6 +1,7 @@
 ---
 title: "Cure Wounds"
-index: "cure-wounds"
+index:
+  - cure-wounds
 permalink: /spells/cure-wounds/
 tags:
   - Spell

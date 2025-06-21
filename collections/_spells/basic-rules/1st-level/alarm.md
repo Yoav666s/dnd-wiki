@@ -1,6 +1,7 @@
 ---
 title: "Alarm"
-index: "alarm"
+index:
+  - alarm
 permalink: /spells/alarm/
 tags:
   - Spell

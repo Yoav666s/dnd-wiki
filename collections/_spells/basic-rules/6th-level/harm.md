@@ -1,6 +1,7 @@
 ---
 title: "Harm"
-index: "harm"
+index:
+  - harm
 permalink: /spells/harm/
 tags:
   - Spell

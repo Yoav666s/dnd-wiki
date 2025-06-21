@@ -1,6 +1,7 @@
 ---
 title: "Goodberry"
-index: "goodberry"
+index:
+  - goodberry
 permalink: /spells/goodberry/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Tongues"
-index: "tongues"
+index:
+  - tongues
 permalink: /spells/tongues/
 tags:
   - Spell

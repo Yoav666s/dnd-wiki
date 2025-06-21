@@ -1,6 +1,7 @@
 ---
 title: "Druidcraft"
-index: "druidcraft"
+index:
+  - druidcraft
 permalink: /spells/druidcraft/
 tags:
   - Spell

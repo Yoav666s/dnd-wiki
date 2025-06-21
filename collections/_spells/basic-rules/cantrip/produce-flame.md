@@ -1,6 +1,7 @@
 ---
 title: "Produce Flame"
-index: "produce-flame"
+index:
+  - produce-flame
 permalink: /spells/produce-flame/
 tags:
   - Spell

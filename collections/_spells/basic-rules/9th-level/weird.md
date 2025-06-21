@@ -1,6 +1,7 @@
 ---
 title: "Weird"
-index: "weird"
+index:
+  - weird
 permalink: /spells/weird/
 tags:
   - Spell

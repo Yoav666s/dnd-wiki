@@ -1,6 +1,7 @@
 ---
 title: "Light"
-index: "light"
+index:
+  - light
 permalink: /spells/light/
 tags:
   - Spell

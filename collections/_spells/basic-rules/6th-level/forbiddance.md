@@ -1,6 +1,7 @@
 ---
 title: "Forbiddance"
-index: "forbiddance"
+index:
+  - forbiddance
 permalink: /spells/forbiddance/
 tags:
   - Spell

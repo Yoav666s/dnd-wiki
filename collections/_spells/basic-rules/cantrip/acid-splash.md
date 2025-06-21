@@ -1,6 +1,7 @@
 ---
 title: "Acid Splash"
-index: "acid-splash"
+index:
+  - acid-splash
 permalink: /spells/acid-splash/
 tags:
   - Spell

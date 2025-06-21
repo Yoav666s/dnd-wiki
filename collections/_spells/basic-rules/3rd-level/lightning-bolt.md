@@ -1,6 +1,7 @@
 ---
 title: "Lightning Bolt"
-index: "lightning-bolt"
+index:
+  - lightning-bolt
 permalink: /spells/lightning-bolt/
 tags:
   - Spell

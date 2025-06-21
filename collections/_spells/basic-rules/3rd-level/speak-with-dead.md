@@ -1,6 +1,7 @@
 ---
 title: "Speak with Dead"
-index: "speak-with-dead"
+index:
+  - speak-with-dead
 permalink: /spells/speak-with-dead/
 tags:
   - Spell

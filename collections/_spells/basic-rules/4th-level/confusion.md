@@ -1,6 +1,7 @@
 ---
 title: "Confusion"
-index: "confusion"
+index:
+  - confusion
 permalink: /spells/confusion/
 tags:
   - Spell

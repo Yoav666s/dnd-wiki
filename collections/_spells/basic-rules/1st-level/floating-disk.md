@@ -1,6 +1,7 @@
 ---
 title: "Floating Disk"
-index: "floating-disk"
+index:
+  - floating-disk
 permalink: /spells/floating-disk/
 tags:
   - Spell

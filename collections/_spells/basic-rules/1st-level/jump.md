@@ -1,6 +1,7 @@
 ---
 title: "Jump"
-index: "jump"
+index:
+  - jump
 permalink: /spells/jump/
 tags:
   - Spell

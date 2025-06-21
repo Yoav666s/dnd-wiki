@@ -1,6 +1,7 @@
 ---
 title: "Warding Bond"
-index: "warding-bond"
+index:
+  - warding-bond
 permalink: /spells/warding-bond/
 tags:
   - Spell

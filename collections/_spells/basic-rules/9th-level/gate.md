@@ -1,6 +1,7 @@
 ---
 title: "Gate"
-index: "gate"
+index:
+  - gate
 permalink: /spells/gate/
 tags:
   - Spell

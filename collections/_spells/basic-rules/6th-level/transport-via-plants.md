@@ -1,6 +1,7 @@
 ---
 title: "Transport via Plants"
-index: "transport-via-plants"
+index:
+  - transport-via-plants
 permalink: /spells/transport-via-plants/
 tags:
   - Spell

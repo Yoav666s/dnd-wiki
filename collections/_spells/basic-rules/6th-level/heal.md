@@ -1,6 +1,7 @@
 ---
 title: "Heal"
-index: "heal"
+index:
+  - heal
 permalink: /spells/heal/
 tags:
   - Spell

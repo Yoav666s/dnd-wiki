@@ -1,6 +1,7 @@
 ---
 title: "Reincarnate"
-index: "reincarnate"
+index:
+  - reincarnate
 permalink: /spells/reincarnate/
 tags:
   - Spell

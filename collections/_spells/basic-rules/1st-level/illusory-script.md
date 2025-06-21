@@ -1,6 +1,7 @@
 ---
 title: "Illusory Script"
-index: "illusory-script"
+index:
+  - illusory-script
 permalink: /spells/illusory-script/
 tags:
   - Spell

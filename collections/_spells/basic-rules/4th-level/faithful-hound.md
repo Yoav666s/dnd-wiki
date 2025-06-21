@@ -1,6 +1,7 @@
 ---
 title: "Faithful Hound"
-index: "faithful-hound"
+index:
+  - faithful-hound
 permalink: /spells/faithful-hound/
 tags:
   - Spell

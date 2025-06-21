@@ -1,6 +1,7 @@
 ---
 title: "Word of Recall"
-index: "word-of-recall"
+index:
+  - word-of-recall
 permalink: /spells/word-of-recall/
 tags:
   - Spell

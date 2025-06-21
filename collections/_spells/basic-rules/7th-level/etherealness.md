@@ -1,6 +1,7 @@
 ---
 title: "Etherealness"
-index: "etherealness"
+index:
+  - etherealness
 permalink: /spells/etherealness/
 tags:
   - Spell

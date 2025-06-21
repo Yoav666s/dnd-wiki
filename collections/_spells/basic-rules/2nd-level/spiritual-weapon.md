@@ -1,6 +1,7 @@
 ---
 title: "Spiritual Weapon"
-index: "spiritual-weapon"
+index:
+  - spiritual-weapon
 permalink: /spells/spiritual-weapon/
 tags:
   - Spell

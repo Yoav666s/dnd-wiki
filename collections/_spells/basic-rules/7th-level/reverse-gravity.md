@@ -1,6 +1,7 @@
 ---
 title: "Reverse Gravity"
-index: "reverse-gravity"
+index:
+  - reverse-gravity
 permalink: /spells/reverse-gravity/
 tags:
   - Spell

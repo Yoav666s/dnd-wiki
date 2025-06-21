@@ -1,6 +1,7 @@
 ---
 title: "Tiny Hut"
-index: "tiny-hut"
+index:
+  - tiny-hut
 permalink: /spells/tiny-hut/
 tags:
   - Spell

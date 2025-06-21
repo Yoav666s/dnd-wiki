@@ -1,6 +1,7 @@
 ---
 title: "Haste"
-index: "haste"
+index:
+  - haste
 permalink: /spells/haste/
 tags:
   - Spell

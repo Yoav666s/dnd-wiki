@@ -1,6 +1,7 @@
 ---
 title: "Maze"
-index: "maze"
+index:
+  - maze
 permalink: /spells/maze/
 tags:
   - Spell

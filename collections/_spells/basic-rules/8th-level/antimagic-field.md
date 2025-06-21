@@ -1,6 +1,7 @@
 ---
 title: "Antimagic Field"
-index: "antimagic-field"
+index:
+  - antimagic-field
 permalink: /spells/antimagic-field/
 tags:
   - Spell

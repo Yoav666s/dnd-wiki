@@ -1,6 +1,7 @@
 ---
 title: "Teleportation Circle"
-index: "teleportation-circle"
+index:
+  - teleportation-circle
 permalink: /spells/teleportation-circle/
 tags:
   - Spell

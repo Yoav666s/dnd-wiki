@@ -1,6 +1,7 @@
 ---
 title: "Fire Bolt"
-index: "fire-bolt"
+index:
+  - fire-bolt
 permalink: /spells/fire-bolt/
 tags:
   - Spell

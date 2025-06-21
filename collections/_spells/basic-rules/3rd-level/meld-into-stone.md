@@ -1,6 +1,7 @@
 ---
 title: "Meld Into Stone"
-index: "meld-into-stone"
+index:
+  - meld-into-stone
 permalink: /spells/meld-into-stone/
 tags:
   - Spell

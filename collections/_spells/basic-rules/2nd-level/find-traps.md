@@ -1,6 +1,7 @@
 ---
 title: "Find Traps"
-index: "find-traps"
+index:
+  - find-traps
 permalink: /spells/find-traps/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Arcanist's Magic Aura"
-index: "arcanists-magic-aura"
+index:
+  - arcanists-magic-aura
 permalink: /spells/arcanists-magic-aura/
 tags:
   - Spell

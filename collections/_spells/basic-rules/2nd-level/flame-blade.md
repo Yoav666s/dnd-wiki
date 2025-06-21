@@ -1,6 +1,7 @@
 ---
 title: "Flame Blade"
-index: "flame-blade"
+index:
+  - flame-blade
 permalink: /spells/flame-blade/
 tags:
   - Spell

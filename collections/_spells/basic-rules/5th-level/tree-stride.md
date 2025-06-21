@@ -1,6 +1,7 @@
 ---
 title: "Tree Stride"
-index: "tree-stride"
+index:
+  - tree-stride
 permalink: /spells/tree-stride/
 tags:
   - Spell

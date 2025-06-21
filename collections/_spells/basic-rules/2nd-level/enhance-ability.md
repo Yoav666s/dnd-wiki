@@ -1,6 +1,7 @@
 ---
 title: "Enhance Ability"
-index: "enhance-ability"
+index:
+  - enhance-ability
 permalink: /spells/enhance-ability/
 tags:
   - Spell

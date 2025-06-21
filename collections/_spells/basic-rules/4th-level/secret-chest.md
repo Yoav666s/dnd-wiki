@@ -1,6 +1,7 @@
 ---
 title: "Secret Chest"
-index: "secret-chest"
+index:
+  - secret-chest
 permalink: /spells/secret-chest/
 tags:
   - Spell

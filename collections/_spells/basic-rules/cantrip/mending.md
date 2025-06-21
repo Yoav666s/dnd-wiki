@@ -1,6 +1,7 @@
 ---
 title: "Mending"
-index: "mending"
+index:
+  - mending
 permalink: /spells/mending/
 tags:
   - Spell

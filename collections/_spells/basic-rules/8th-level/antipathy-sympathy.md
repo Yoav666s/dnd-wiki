@@ -1,6 +1,7 @@
 ---
 title: "Antipathy/Sympathy"
-index: "antipathy-sympathy"
+index:
+  - antipathy-sympathy
 permalink: /spells/antipathy-sympathy/
 tags:
   - Spell

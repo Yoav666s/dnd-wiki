@@ -1,6 +1,7 @@
 ---
 title: "Ice Storm"
-index: "ice-storm"
+index:
+  - ice-storm
 permalink: /spells/ice-storm/
 tags:
   - Spell

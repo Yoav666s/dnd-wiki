@@ -1,6 +1,7 @@
 ---
 title: "Prismatic Spray"
-index: "prismatic-spray"
+index:
+  - prismatic-spray
 permalink: /spells/prismatic-spray/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Mass Heal"
-index: "mass-heal"
+index:
+  - mass-heal
 permalink: /spells/mass-heal/
 tags:
   - Spell

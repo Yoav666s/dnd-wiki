@@ -1,6 +1,7 @@
 ---
 title: "Stoneskin"
-index: "stoneskin"
+index:
+  - stoneskin
 permalink: /spells/stoneskin/
 tags:
   - Spell

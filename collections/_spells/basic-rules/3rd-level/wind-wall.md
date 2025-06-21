@@ -1,6 +1,7 @@
 ---
 title: "Wind Wall"
-index: "wind-wall"
+index:
+  - wind-wall
 permalink: /spells/wind-wall/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Compulsion"
-index: "compulsion"
+index:
+  - compulsion
 permalink: /spells/compulsion/
 tags:
   - Spell

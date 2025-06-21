@@ -1,6 +1,7 @@
 ---
 title: "Cone of Cold"
-index: "cone-of-cold"
+index:
+  - cone-of-cold
 permalink: /spells/cone-of-cold/
 tags:
   - Spell

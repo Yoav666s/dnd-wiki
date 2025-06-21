@@ -1,6 +1,7 @@
 ---
 title: "Message"
-index: "message"
+index:
+  - message
 permalink: /spells/message/
 tags:
   - Spell

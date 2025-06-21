@@ -1,6 +1,7 @@
 ---
 title: "Misty Step"
-index: "misty-step"
+index:
+  - misty-step
 permalink: /spells/misty-step/
 tags:
   - Spell

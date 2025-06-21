@@ -1,6 +1,7 @@
 ---
 title: "Modify Memory"
-index: "modify-memory"
+index:
+  - modify-memory
 permalink: /spells/modify-memory/
 tags:
   - Spell

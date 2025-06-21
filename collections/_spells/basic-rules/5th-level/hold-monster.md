@@ -1,6 +1,7 @@
 ---
 title: "Hold Monster"
-index: "hold-monster"
+index:
+  - hold-monster
 permalink: /spells/hold-monster/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Flame Strike"
-index: "flame-strike"
+index:
+  - flame-strike
 permalink: /spells/flame-strike/
 tags:
   - Spell

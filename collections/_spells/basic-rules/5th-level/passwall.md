@@ -1,6 +1,7 @@
 ---
 title: "Passwall"
-index: "passwall"
+index:
+  - passwall
 permalink: /spells/passwall/
 tags:
   - Spell

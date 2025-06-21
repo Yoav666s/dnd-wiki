@@ -1,6 +1,7 @@
 ---
 title: "Chain Lightning"
-index: "chain-lightning"
+index:
+  - chain-lightning
 permalink: /spells/chain-lightning/
 tags:
   - Spell

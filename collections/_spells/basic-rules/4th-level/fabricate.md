@@ -1,6 +1,7 @@
 ---
 title: "Fabricate"
-index: "fabricate"
+index:
+  - fabricate
 permalink: /spells/fabricate/
 tags:
   - Spell

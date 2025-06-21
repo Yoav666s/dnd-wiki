@@ -1,6 +1,7 @@
 ---
 title: "Calm Emotions"
-index: "calm-emotions"
+index:
+  - calm-emotions
 permalink: /spells/calm-emotions/
 tags:
   - Spell

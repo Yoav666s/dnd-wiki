@@ -1,6 +1,7 @@
 ---
 title: "Flesh to Stone"
-index: "flesh-to-stone"
+index:
+  - flesh-to-stone
 permalink: /spells/flesh-to-stone/
 tags:
   - Spell

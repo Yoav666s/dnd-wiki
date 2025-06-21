@@ -1,6 +1,7 @@
 ---
 title: "Spider Climb"
-index: "spider-climb"
+index:
+  - spider-climb
 permalink: /spells/spider-climb/
 tags:
   - Spell

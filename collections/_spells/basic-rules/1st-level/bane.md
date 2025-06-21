@@ -1,6 +1,7 @@
 ---
 title: "Bane"
-index: "bane"
+index:
+  - bane
 permalink: /spells/bane/
 tags:
   - Spell

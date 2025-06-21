@@ -1,6 +1,7 @@
 ---
 title: "Silence"
-index: "silence"
+index:
+  - silence
 permalink: /spells/silence/
 tags:
   - Spell

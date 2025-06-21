@@ -1,6 +1,7 @@
 ---
 title: "Shield of Faith"
-index: "shield-of-faith"
+index:
+  - shield-of-faith
 permalink: /spells/shield-of-faith/
 tags:
   - Spell

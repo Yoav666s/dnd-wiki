@@ -1,6 +1,7 @@
 ---
 title: "Poison Spray"
-index: "poison-spray"
+index:
+  - poison-spray
 permalink: /spells/poison-spray/
 tags:
   - Spell

@@ -1,6 +1,7 @@
 ---
 title: "Raise Dead"
-index: "raise-dead"
+index:
+  - raise-dead
 permalink: /spells/raise-dead/
 tags:
   - Spell

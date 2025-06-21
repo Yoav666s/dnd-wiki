@@ -1,6 +1,7 @@
 ---
 title: "Mirror Image"
-index: "mirror-image"
+index:
+  - mirror-image
 permalink: /spells/mirror-image/
 tags:
   - Spell

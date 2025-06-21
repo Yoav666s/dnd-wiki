@@ -1,6 +1,7 @@
 ---
 title: "Forcecage"
-index: "forcecage"
+index:
+  - forcecage
 permalink: /spells/forcecage/
 tags:
   - Spell

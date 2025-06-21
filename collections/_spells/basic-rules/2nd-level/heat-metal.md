@@ -1,6 +1,7 @@
 ---
 title: "Heat Metal"
-index: "heat-metal"
+index:
+  - heat-metal
 permalink: /spells/heat-metal/
 tags:
   - Spell

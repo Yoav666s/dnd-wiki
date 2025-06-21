@@ -1,6 +1,7 @@
 ---
 title: "Demiplane"
-index: "demiplane"
+index:
+  - demiplane
 permalink: /spells/demiplane/
 tags:
   - Spell
