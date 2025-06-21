@@ -6,7 +6,6 @@ permalink: /spells/phase-strike/
 tags:
   - Spell
 available_for:
-  - Ranger
   - Wizard
   - Sorcerer
   - Warlock
