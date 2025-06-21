@@ -123,6 +123,6 @@ Beginning at 3rd level, you can use your action and expend one ranger spell slot
 ## Ranger Conclave
 At 3rd level, you choose to emulate the ideals and training of a ranger conclave. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
-| Conclave | Source |
-| :--- | :--- |
-|||
+| Conclave    | Source      |
+| :---------- | :---------- |
+| [[!Hunter]] | Basic Rules |
