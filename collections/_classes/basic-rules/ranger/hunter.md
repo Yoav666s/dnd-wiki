@@ -23,19 +23,19 @@ At 3rd level, you gain one of the following features of your choice.
 # Defensive Tactics
 At 7th level, you gain one of the following features of your choice.
 
-Escape the Horde. Opportunity attacks against you are made with disadvantage.
-Multiattack Defense. When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
-Steel Will. You have advantage on saving throws against being frightened.
+- **Escape the Horde.** Opportunity attacks against you are made with disadvantage.
+- **Multiattack Defense.** When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
+- **Steel Will.** You have advantage on saving throws against being frightened.
 
 # Multiattack
 At 11th level, you gain one of the following features of your choice.
 
-Volley. You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target
-Whirlwind Attack. You can use your action to make melee attacks against any number of creatures within 5 feet of you, with a separate attack roll for each target.
+- **Volley.** You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target
+- **Whirlwind Attack.** You can use your action to make melee attacks against any number of creatures within 5 feet of you, with a separate attack roll for each target.
 
 # Superior Hunter's Defense
 At 15th level, you gain one of the following features of your choice.
 
-Evasion. When you are subjected to an effect, such as a red dragon’s fiery breath or a lightning bolt spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail
-Stand Against the Tide. When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
-Uncanny Dodge. When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
+- **Evasion.** When you are subjected to an effect, such as a red dragon’s fiery breath or a lightning bolt spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail
+- **Stand Against the Tide.** When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
+- **Uncanny Dodge.** When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
