@@ -28,6 +28,9 @@ classes:
   - title: "Monk"
     class: monk
     url: /classes/monk/
+  - title: "Ranger"
+    class: ranger
+    url: /classes/ranger/
   - title: "Rogue"
     class: rogue
     url: /classes/rogue/
