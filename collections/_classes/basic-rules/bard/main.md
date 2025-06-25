@@ -87,7 +87,9 @@ The extra Hit Points increase when you reach certain levels in this class: to 1d
 ## Bard College
 At 3rd level, you delve into the advanced techniques of a bard college of your choice. Your choice grants you features at 3rd level and again at 6th and 14th level.
 
-[College Chart]
+| College   | Source      |
+| :-------- | :---------- |
+| [[!Lore]] | Basic Rules |
 
 ## Expertise
 At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
