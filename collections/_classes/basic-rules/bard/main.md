@@ -96,3 +96,19 @@ At 10th level, you can choose another two skill proficiencies to gain this benef
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+## Font of Inspiration
+Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
+
+## Countercharm
+At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
+
+## Magical Secrets
+By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
+
+The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
+
+You learn two additional spells from any classes at 14th level and again at 18th level.
+
+## Superior Inspiration
+At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
