@@ -19,6 +19,9 @@ classes:
   - title: "Barbarian"
     class: barbarian
     url: /classes/barbarian/
+  - title: "Bard"
+    class: bard
+    url: /classes/bard/
   - title: "Cleric"
     class: cleric
     url: /classes/cleric/
