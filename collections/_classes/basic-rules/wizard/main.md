@@ -31,8 +31,8 @@ Wizards are supreme magic-users, defined and united as a class by the spells the
 | 14th  | +5                | [[Arcane Tradition]] feature                     | 5              | 4  | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 15th  | +5                | —                                            | 5              | 4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
 | 16th  | +5                | [[Ability Score Improvement]]                    | 5              | 4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17th  | +6                | [[Spell Mastery]]                                | 5              | 4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6                | [[Arcane Tradition]] feature                     | 5              | 4  | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 17th  | +6                | -                                | 5              | 4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6                | [[Spell Mastery]]                     | 5              | 4  | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19th  | +6                | [[Ability Score Improvement]]                    | 5              | 4  | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | +6                | [[Signature Spells]]                             | 5              | 4  | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
