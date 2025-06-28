@@ -31,6 +31,4 @@ Subtract 1d10 + your Intelligence modifier from the attack roll. If the projecti
 Beginning at 10th level, you add your Intelligence modifier (minimum of +1) to damage rolls of any wizard cantrip that you cast.
 
 # Disarm 
-Starting at 14th level, you can disarm an enemy as a bonus action. Choose a creature you can see within 60 feet. You may fling one object that it's holding up to 60 feet away. You may send it to one of your free hands and catch it.
-
-You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a short or long rest.
+Starting at 14th level, you can disarm an enemy as an action. Choose a creature you can see within 60 feet, it must make a Strength saving throw against your spell save DC. On failure, an object that it's holding is flung 60 feet at your direction. You may catch it with one of your free hands.
