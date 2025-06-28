@@ -30,5 +30,7 @@ Subtract 1d10 + your Intelligence modifier from the attack roll. If the projecti
 # Empowered Cantrip
 Beginning at 10th level, you add your Intelligence modifier (minimum of +1) to damage rolls of any wizard cantrip that you cast.
 
-# Cantrip Overcharge 
-Starting at 14th level, you can channel more energy into your cantrips. When you take your action to cast a cantrip, you may expend a spell slot to increase its damage. When you cast a cantrip with a spell slot of 1st level or higher, its damage increases by 1d8 for each slot level.
+# Disarm 
+Starting at 14th level, you can disarm an enemy as a bonus action. Choose a creature you can see within 60 feet. You may fling one object that it's holding up to 60 feet away. You may send it to one of your free hands and catch it.
+
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a short or long rest.
