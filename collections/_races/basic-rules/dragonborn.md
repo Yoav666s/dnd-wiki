@@ -30,3 +30,7 @@ Your base walking speed is 30 feet.
 
 ## Draconic Ancestry
 You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
+
+| Dragon | Damage Type | Breath Weapon |
+| :---: | :---: | :---: |
+||||
