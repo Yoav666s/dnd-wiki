@@ -3,7 +3,7 @@ title: "Human"
 index:
   - human
 permalink: /races/human/
-excerpt: It’s hard to make generalizations about humans, but your human character has these traits."
+excerpt: "It’s hard to make generalizations about humans, but your human character has these traits."
 tags:
   - Race
   - Human
