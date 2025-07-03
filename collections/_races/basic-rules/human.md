@@ -3,13 +3,13 @@ title: "Human"
 index:
   - human
 permalink: /races/human/
-excerpt: "Triflings heavily resemble imps in their appearance, and are commonly greeted with suspicion and hostility."
+excerpt: It’s hard to make generalizations about humans, but your human character has these traits."
 tags:
   - Race
   - Human
 # header:
-#   overlay_image: /assets/images/races/trifling/header.png
-#   teaser: /assets/images/races/trifling/header.jpg
+#   overlay_image: /assets/images/races/human/header.png
+#   teaser: /assets/images/races/human/header.jpg
 source: "Basic Rules"
 ---
 
