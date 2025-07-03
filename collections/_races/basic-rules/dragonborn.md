@@ -39,3 +39,5 @@ You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry
 | Bronze | Lightning | 5 by 30 ft. line (Dex. save) |
 | Copper | Acid | 5 by 30 ft. line (Dex. save) |
 | Gold | Fire | 15 ft. cone (Dex. save) |
+| Green | Poison | 15 ft. cone (Dex. save) |
+| Red | Fire | 15 ft. cone (Dex. save) |
