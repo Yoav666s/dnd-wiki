@@ -41,3 +41,5 @@ You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry
 | Gold | Fire | 15 ft. cone (Dex. save) |
 | Green | Poison | 15 ft. cone (Dex. save) |
 | Red | Fire | 15 ft. cone (Dex. save) |
+| Silver | Cold | 15 ft. cone (Dex. save) |
+| White | Cold | 15 ft. cone (Dex. save) |
