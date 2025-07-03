@@ -46,7 +46,7 @@ Whenever you make an Intelligence (History) check related to the origin of stone
 You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
 # Hill Dwarf
-As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerûn in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting.
+As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
 
 ## Ability Score Increase
 Your Wisdom score increases by 1.
