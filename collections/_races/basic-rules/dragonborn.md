@@ -34,3 +34,4 @@ You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry
 | Dragon | Damage Type | Breath Weapon |
 | :---: | :---: | :---: |
 | Black | Acid | 5 by 30 ft. line (Dex. save) |
+| Blue | Lightning | 5 by 30 ft. line (Dex. save) |
