@@ -6,7 +6,7 @@ permalink: /races/dragonborn/
 excerpt: "Your draconic heritage manifests in a variety of traits you share with other dragonborn."
 tags:
   - Race
-  - Human
+  - Dragonborn
 # header:
 #   overlay_image: /assets/images/races/dragonborn/header.png
 #   teaser: /assets/images/races/dragonborn/header.jpg
