@@ -3,7 +3,7 @@ title: "Dwarf"
 index:
   - dwarf
 permalink: /races/dwarf/
-excerpt: "It’s hard to make generalizations about humans, but your human character has these traits."
+excerpt: "Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature."
 tags:
   - Race
   - Dwarf
