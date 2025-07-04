@@ -60,7 +60,7 @@ Your base walking speed is 25 feet.
 Thanks to your infernal bloodline, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
 ### Infernal Invocations
-You know the [[produce flame]] cantrip. At 5th level, you can cast the [[Alter Self]] spell once without expending a spell slot. Charisma is your spellcasting ability for these spells, and you regain all expended uses when you finish a long rest. 
+You know the [[Produce Flame]] cantrip. At 3rd level you can cast the [[Burning Hands]] once without expending a spell slot. At 5th level, you can cast the [[Alter Self]] spell once without expending a spell slot. Charisma is your spellcasting ability for these spells, and you regain all expended uses when you finish a long rest. 
 
 ### Impish Invisibility
 As a bonus action, you can magically turn invisible until the start of your next turn or until you attack or cast a spell. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
