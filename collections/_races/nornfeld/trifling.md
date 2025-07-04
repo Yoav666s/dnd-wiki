@@ -54,7 +54,7 @@ Triflings can live for hundreds of years, and don't have much of a grasp on matu
 Triflings are about the same size and build as goblins. Your size is Small.
 
 ### Speed
-Your base walking speed is 30 feet.
+Your base walking speed is 25 feet.
 
 ### Darkvision
 Thanks to your infernal bloodline, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
