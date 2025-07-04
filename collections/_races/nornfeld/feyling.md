@@ -19,7 +19,7 @@ It’s hard to make generalizations about humans, but your human character has t
 Humans reach adulthood in their late teens and live less than a century.
 
 ## Size
-Feylings vary widely in height and build, from barely 5 feet to well over 6 feet tall. Your size is Medium or Small.
+Feylings vary widely in height and build, from barely 3 feet to well over 5 feet tall. Your size is Medium or Small.
 
 ## Speed
 Your base walking speed is 30 feet.
