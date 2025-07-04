@@ -48,7 +48,7 @@ Triflings share certain racial traits as a result of their infernal bloodline.
 Your Dexterity score increases by 2 and your Charisma score increases by 1.
 
 ### Age
-Triflings can live for hundreds of years, and don't have much of a grasp on maturity or elders. Some live for a mere century, some for eons.
+Triflings can live for hundreds of years, and don't have much of a grasp on maturity or elders.
 
 ### Size
 Triflings are about the same size and build as goblins. Your size is Small.
