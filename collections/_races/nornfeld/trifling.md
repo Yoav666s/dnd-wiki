@@ -45,7 +45,7 @@ Lacking in physical strength, triflings must rely on their cunning guile and qui
 Triflings share certain racial traits as a result of their infernal bloodline.
 
 ### Ability Score Increase
-Your Dexterity score increases by 2 and your Charisma score increases by 1.
+Your Dexterity score increases by 2.
 
 ### Age
 Triflings can live for hundreds of years, and don't have much of a grasp on maturity or elders.
