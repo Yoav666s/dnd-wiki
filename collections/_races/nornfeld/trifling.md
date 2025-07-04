@@ -45,7 +45,7 @@ Lacking in physical strength, triflings must rely on their cunning guile and qui
 Triflings share certain racial traits as a result of their infernal bloodline.
 
 ### Ability Score Increase
-Your Dexterity score increases by 2.
+Your Dexterity score increases by 2 and your Constitution score is increased by 1.
 
 ### Age
 Triflings can live for hundreds of years, and don't have much of a grasp on maturity or elders.
@@ -62,8 +62,8 @@ Thanks to your infernal bloodline, you have superior vision in dark and dim cond
 ### Infernal Invocations
 You know the [[produce flame]] cantrip. Charisma is your spellcasting ability for it.
 
-### The Meek Shall Inherit
-Living a life of constant danger and faced with hostility from all sides, you've adapted to accommodate for your weakness. Your Strength score is reduced by 1 point, but you can choose a feat.
+### Impish Invisibility
+As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Languages
 You can speak, read, and write Common and Infernal.
