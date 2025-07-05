@@ -3,7 +3,7 @@ title: "Half Orc"
 index:
   - half-orc
 permalink: /races/half-orc/
-excerpt: "It’s hard to make generalizations about humans, but your human character has these traits."
+excerpt: "Your half-orc character has certain traits deriving from your orc ancestry."
 tags:
   - Race
   - Half Orc
