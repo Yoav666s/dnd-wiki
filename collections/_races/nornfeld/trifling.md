@@ -70,3 +70,11 @@ As a bonus action, you can magically turn invisible until the start of your next
 
 ## Languages
 You can speak, read, and write Common and Infernal.
+
+# Variant Trifling
+If your campaign uses the 2024 ruleset, your Dungeon Master might allow this variant trait which replaces the Ability Score Increase trait.
+
+## Variant Trifling Traits
+
+### Magic Resistance
+You have advantage on saving throws against spells and other magical effects.
