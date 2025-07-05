@@ -3,7 +3,7 @@ title: "Half Elf"
 index:
   - half-elf
 permalink: /races/half-elf/
-excerpt: "It’s hard to make generalizations about humans, but your human character has these traits."
+excerpt: "Your half-elf character has some qualities in common with elves and some that are unique to half-elves."
 tags:
   - Race
   - Half Elf
