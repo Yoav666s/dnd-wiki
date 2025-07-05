@@ -3,7 +3,7 @@ title: "Gnome"
 index:
   - gnome
 permalink: /races/gnome/
-excerpt: "It’s hard to make generalizations about humans, but your human character has these traits."
+excerpt: "Your gnome character has certain characteristics in common with all other gnomes."
 tags:
   - Race
   - Gnome
