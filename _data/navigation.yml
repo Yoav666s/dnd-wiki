@@ -67,3 +67,23 @@ spells:
   - title: "7th Level"
   - title: "8th Level"
   - title: "9th Level"
+
+races:
+  - title: "Dragonborn"
+    url: /races/dragonborn/
+  - title: "Dwarf"
+    url: /races/dwarf/
+  - title: "elf"
+    url: /races/elf/
+  - title: "Gnome"
+    url: /races/gnome/
+  - title: "Half Elf"
+    url: /races/half-elf/
+  - title: "Half Orc"
+    url: /races/half-orc/
+  - title: "Halfling"
+    url: /races/halfling/
+  - title: "Human"
+    url: /races/human/
+  - title: "Tiefling"
+    url: /races/tiefling/
