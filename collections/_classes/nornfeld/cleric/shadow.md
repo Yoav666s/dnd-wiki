@@ -45,4 +45,4 @@ Additionally, you gain expertise in [[Stealth]].
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 # Lethal Strike
-Starting at 17th level, when you hit a creature with an attack from being invisible or hidden, you can deal maximum damage instead of rolling. You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a long rest.
+Starting at 17th level, when you hit a creature with a weapon attack from being invisible or hidden, you can deal maximum damage instead of rolling. You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a long rest.
