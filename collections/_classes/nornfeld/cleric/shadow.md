@@ -4,7 +4,7 @@ index:
   - shadow 
   - shadow-domain
 permalink: /classes/cleric/shadow/
-excerpt: "The Life domain focuses on the vibrant positive energy – one of the fundamental forces of the universe – that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath."
+excerpt: "The Shadow Domain draws upon the divine aspects of concealment, illusion, and the unseen."
 subclass: cleric
 # header:
 #   overlay_image: /assets/images/classes/cleric/header.png
