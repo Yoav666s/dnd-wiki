@@ -47,4 +47,4 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 # Lethal Strike
 Starting at 17th level, when you hit a creature with a weapon attack from being invisible or hidden, you can deal maximum damage instead of rolling.
 
-You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.
