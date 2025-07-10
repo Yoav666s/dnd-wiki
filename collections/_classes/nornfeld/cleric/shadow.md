@@ -34,7 +34,7 @@ When you successfully hide, you can turn invisible for 1 minute or until you att
 # Channel Divinity: Unseen Strike 
 Starting at 2nd level, you can use your Channel Divinity to strike with supernatural precision.
 
-When you make a melee weapon attack while invisible, you can use your Channel Divinity to automatically hit and treat the attack as a critical hit. You must declare the use of this feature before making the attack roll.
+When you make a weapon attack while invisible, you can use your Channel Divinity to automatically hit and treat the attack as a critical hit. You must declare the use of this feature before making the attack roll.
 
 # Blend in Darkness 
 Starting at 6th level, you become engulfed in shadows. You can attempt to hide even when you are only lightly obscured by natural or magical darkness.
