@@ -15,9 +15,7 @@ Trained in both subtle magic and sleight of hand, a Mirage Dancer slips unseen b
 When you choose this archetype at 3rd level, you learn the [[Mirage]] cantrip, and you can cast it freely as part of any object interaction, such as drawing a dagger or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
 
 # Trick of the Light
-Starting at 3rd level, you learn the [[Hide in Shadows]] spell, and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest.
-
-Additionally, while you are invisible, your movement doesn't provoke opportunity attacks.
+Starting at 3rd level, while you are invisible, your movement doesn't provoke opportunity attacks.
 
 # Deceitful Dodge
 Starting at 9th level, you can cast [[Mirage]] instinctively. When you're targeted by an attack that relies on sight, you may use your reaction to cast [[Mirage]] and attempt to move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. Make a Dexterity saving throw against the attack roll. On success, you evade it completely. On failure, you take half damage.
