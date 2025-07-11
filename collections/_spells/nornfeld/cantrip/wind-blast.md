@@ -13,7 +13,7 @@ level: "Cantrip"
 school: "Transmutation"
 range: "30 ft"
 area: "5 ft"
-shape: "line"
+shape: "Line"
 comp:
   - S
   - M
