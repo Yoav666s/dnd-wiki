@@ -15,7 +15,6 @@ range: "30 ft"
 area: "5 ft"
 shape: "line"
 comp:
-  - V
   - S
   - M
 material: "a handful of dried beans"
