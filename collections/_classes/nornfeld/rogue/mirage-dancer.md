@@ -19,15 +19,13 @@ Starting at 3rd level, you learn the [[Hide in Shadows]] spell, and you can cast
 
 Additionally, while you are invisible, your movement doesn't provoke opportunity attacks.
 
-# Delusory Dash
-Starting at 9th level, you can ignore movement restrictions when casting [[Mirage]].
-
-Additionally, you can cast it as part of the [[dash]] action. You can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a short or long rest.
-
 # Deceitful Dodge
-Starting at 13th level, you can cast [[Mirage]] instinctively. When you're targeted by an attack that relies on sight, you may use your reaction to cast [[Mirage]] and attempt to move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. Make a Dexterity saving throw against the attack roll. On success, you evade it completely. On failure, you take half damage.
+Starting at 9th level, you can cast [[Mirage]] instinctively. When you're targeted by an attack that relies on sight, you may use your reaction to cast [[Mirage]] and attempt to move up to 5 feet, given there's an unoccupied area for you to step into and you have enough remaining movement to do so. Make a Dexterity saving throw against the attack roll. On success, you evade it completely. On failure, you take half damage.
 
 # Elegant Improvisation
+Starting at 13th level, you can cast the [[Mirage]] cantrip as a bonus action.
+
+# Moving Target
 Starting at 17th level, you can take an additional reaction, but only in order to perform a [[Deceitful Dodge]]. After you use this feature, you can't use it again until you finish a short or long rest.
 
 [:classes/rogue/mirage-dancer:]
