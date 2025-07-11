@@ -1,5 +1,5 @@
 ---
-title: "Wind Bladt"
+title: "Wind Blast"
 index:
   - wind-blast
 permalink: /spells/wind-blast/
