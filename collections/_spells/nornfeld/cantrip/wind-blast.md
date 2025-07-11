@@ -1,29 +1,28 @@
 ---
-title: "Name"
+title: "Wind Bladt"
 index:
-  - name
-permalink: /spells/name/
+  - wind-blast
+permalink: /spells/wind-blast/
 tags:
   - Spell
 available_for:
+  - Druid
   - Wizard
   - Sorcerer
 level: "Cantrip"
 school: "Transmutation"
 range: "30 ft"
 area: "5 ft"
-shape: "Cube"
+shape: "line"
 comp:
   - V
   - S
-  - M
-material: "a small nugget of rabbit poop"
 duration: "Instantaneous"
 concentration: false
 cast_time: "1 Action"
 ritual: false
-attack: "WIS Save"
-effect: "Fire"
+attack: "StTR Save"
+effect: "Bludgeoning"
 description: |
   description
 excerpt: "description"
