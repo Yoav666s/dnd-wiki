@@ -18,7 +18,7 @@ comp:
   - V
   - S
   - M
-material: "a handful of dried beans."
+material: "a handful of dried beans"
 duration: "Instantaneous"
 concentration: false
 cast_time: "1 Action"
