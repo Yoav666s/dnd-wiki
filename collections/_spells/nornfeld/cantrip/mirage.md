@@ -7,9 +7,8 @@ tags:
   - Spell
   - Deception
 available_for:
-  - Bard 
-  - Sorcerer
-  - Warlock
+  - Bard
+  - Wizard
 level: "Cantrip"
 school: "Illusion"
 comp:
