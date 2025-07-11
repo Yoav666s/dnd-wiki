@@ -1,5 +1,7 @@
 ---
 title: "Name"
+index:
+  - name
 permalink: /spells/name/
 tags:
   - Spell
