@@ -22,7 +22,7 @@ duration: "Instantaneous"
 concentration: false
 cast_time: "1 Action"
 ritual: false
-attack: "StTR Save"
+attack: "STR Save"
 effect: "Bludgeoning"
 description: |
   You unleash a focused burst of wind in a direction you choose. The wind travels in a line 5 feet wide and 30 feet long. The first creature in the line must make a Strength saving throw. On failure, it takes 1d8 bludgeoning damage and is pushed 5 feet away from you.
