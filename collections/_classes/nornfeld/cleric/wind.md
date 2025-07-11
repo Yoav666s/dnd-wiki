@@ -27,7 +27,7 @@ The Wind domain focuses on the ever-changing nature of wind, drawing power from 
 When you choose this domain at 1st level, your walking speed is increased by 10 ft.
 
 # Flow of the Wind
-Also starting at 1st level, when you take the [[dash]] action, you can drag with you one creature of your size or smaller, as long as it's not incapacitated. If the creature is unwilling, it must succeed a Dexterity saving throw (DC = 8 + your Wisdom Modifier + your proficiency bonus) or be dragged with you.
+Also starting at 1st level, you learn the [[Wind Blast]] cantrip.
 
 You can take your bonus action to cast [[Expeditious Retreat]] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
