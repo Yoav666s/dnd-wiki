@@ -12,9 +12,7 @@ header:
 Trained in both subtle magic and sleight of hand, a Mirage Dancer slips unseen between moments, vanishes in plain sight, and reappears where least expected. Whether vanishing behind a ripple of heat, escaping pursuit through illusory doubles, or seeming to teleport across the battlefield, they master the art of being where danger is not.
 
 # Beguiling Gesture
-When you choose this archetype at 3rd level, you learn the [[Mirage]] cantrip, and you can cast it as a bonus action.
-
-Additionally, you can cast [[Mirage]] freely as part of any interaction, such as drawing a dagger, pulling a lever, or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
+When you choose this archetype at 3rd level, you learn the [[Mirage]] cantrip, and you can cast it freely as part of any interaction, such as drawing a dagger, pulling a lever, or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
 
 # Trick of the Light
 Starting at 3rd level, you learn the [[Hide in Shadows]] spell, and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest.
