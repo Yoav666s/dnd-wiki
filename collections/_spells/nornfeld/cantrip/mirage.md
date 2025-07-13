@@ -16,7 +16,7 @@ comp:
 duration: "1 Round"
 concentration: true
 description: |
-  You become [[invisible]] at the same time that an illusory double appears instead of you.
+  Until the start of your next turn, you become [[invisible]] at the same time that an illusory double appears instead of you.
 
   The spell ends early if you touch another creature, perform an attack, make an audible sound, or if someone tries to interact with your illusion. You automatically fail Constitution saving throws to maintain concentration when this spell is interrupted.
 
