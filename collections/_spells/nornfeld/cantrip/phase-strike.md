@@ -20,7 +20,7 @@ concentration: false
 cast_time: "1 Action"
 ritual: false
 description: |
-  You teleport up to 10 feet to an unoccupied space within range. If you teleport within 5 feet of a creature, you may take the attack action using the weapon used in the spell's casting.
+  You teleport up to 10 feet to an unoccupied space that you can see. If you teleport within 5 feet of a creature, you may take the attack action using the weapon used in the spell's casting.
 excerpt: You teleport to an unoccupied space within range. If you teleport within 5 feet of a creature, you may take the attack action using the weapon used in the spell's casting."
 source: "Basic Rules"
 # header:
