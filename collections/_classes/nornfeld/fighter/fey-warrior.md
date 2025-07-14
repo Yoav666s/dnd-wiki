@@ -22,7 +22,7 @@ At 7th level, whenever you teleport, you may leave behind an illusory duplicate 
 
 When both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target. A creature can use its action to examine the image, and determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, you no longer gain advantage on attacks against it.
 
-You can use this feature a number of times equal to your Constitution modifier, and you regain all expended uses when you finish a short or long rest.
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 
 
 # Flicker
@@ -31,7 +31,7 @@ Starting at 10th level, when an attack misses you, you may use your reaction to 
 # Disappearing Act
 At 15th level, when a creature you can see hits you with a melee attack and before damage is rolled, you may use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. If you do, the attack misses instead.
 
-You can use this feature a number of times equal to your Constitution modifier. You regain all expended uses after you finish a short or long rest.
+You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after you finish a short or long rest.
 
 # Fey Invisibility
 Starting at 18th level, you learn the [[Greater Invisibility]] spell and you can cast it on yourself without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
