@@ -34,6 +34,4 @@ At 15th level, when a creature you can see hits you with a melee attack and befo
 You can use this feature a number of times equal to your Constitution modifier. You regain all expended uses after you finish a short or long rest.
 
 # Fey Invisibility
-Starting at 18th level, you learn the [[Invisibility]] spell and you can cast it on yourself without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
-
-Additionally, you learn the [[Greater Invisibility]] spell and you can cast it on yourself without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a long rest.
+Starting at 18th level, you learn the [[Greater Invisibility]] spell and you can cast it on yourself without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
