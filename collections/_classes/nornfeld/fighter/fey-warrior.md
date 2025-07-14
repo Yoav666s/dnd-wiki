@@ -15,7 +15,7 @@ The Fey Warrior moves with an otherworldly grace, their presence flickering like
 Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Thaumaturgy]] cantrips, and gain proficiency in [[Performance]] if you don't already have it.
 
 # Fey Teleportation
-Starting at 3rd level, you learn the [[Phase Strike]] cantrip and you can cast the [[Misty Step]] spell as a bonus action without expending a slot. Once you do so, you can't do it again until you finish a short or long rest.
+Starting at 3rd level, you learn the [[Phase Strike]] cantrip and you can cast the [[Misty Step]] spell as a bonus action without expending a slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 
 # Residual Image
 At 7th level, whenever you teleport, you may leave behind an illusory duplicate of yourself. It lasts for 1 minute. For the duration, you can use your bonus action to teleport the duplicate to an unoccupied space within 30 feet of you.
