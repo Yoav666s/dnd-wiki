@@ -11,7 +11,7 @@ available_for:
   - Warlock
 level: "Cantrip"
 school: "Conjuration"
-range: "15 ft"
+range: "10 ft"
 comp:
   - M
 material: "a melee weapon worth at least 1 cp"
@@ -20,9 +20,9 @@ concentration: false
 cast_time: "1 Action"
 ritual: false
 description: |
-  Choose a creature you can see within range. You teleport to an unoccupied space within 5 feet of the target. Immediately after you arrive, you make a melee attack with the weapon used in the spell's casting. If there is no unoccupied space within 5 feet of the target, the spell fails.
+  You teleport to an unoccupied space within range. If you teleport within 5 feet of a creature, you may make a melee attack with the weapon used in the spell's casting.
 
-  This spell allows you to teleport and attack once more when you reach certain levels: twice at 5th level, three times at 11th level, and four times at 17th level. You cannot target the same creature more than once. The spell ends if there are no valid targets.
+  This spell allows you to teleport and attack once more when you reach certain levels: twice at 5th level, three times at 11th level, and four times at 17th level. You cannot target the same creature more than once.
 excerpt: "You teleport to an unoccupied space within 5 feet of the target. Immediately after you arrive, you make a melee attack with the weapon used in the spell's casting."
 source: "Basic Rules"
 # header:
