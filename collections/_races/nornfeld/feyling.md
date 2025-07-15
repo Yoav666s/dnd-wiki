@@ -25,4 +25,4 @@ Feylings vary widely in height and build, from barely 3 feet to well over 5 feet
 Your base walking speed is 30 feet.
 
 ## Languages
-You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+You can speak, read, and write Common and Sylvan.
