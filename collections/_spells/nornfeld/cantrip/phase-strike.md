@@ -13,6 +13,7 @@ level: "Cantrip"
 school: "Transmutation"
 range: "Self"
 comp:
+  - V
   - M
 material: "a melee weapon worth at least 1 cp"
 duration: "Instantaneous"
