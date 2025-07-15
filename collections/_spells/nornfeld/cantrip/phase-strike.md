@@ -19,6 +19,7 @@ material: "a melee weapon worth at least 1 cp"
 duration: "Instantaneous"
 concentration: false
 cast_time: "1 Bonus Action"
+duration: "1 Round"
 ritual: false
 description: |
   You infuse your weapon with fey magic. Until the start of your next turn, immediately before you make an attack with that weapon, you can teleport up to 10 feet to an unoccupied space you can see. You can teleport this way once before each attack you make with the weapon this turn.
