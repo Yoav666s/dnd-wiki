@@ -4,13 +4,13 @@ index: "fey-warrior"
 permalink: /classes/fighter/fey-warrior/
 excerpt: "The Fey Warrior moves with an otherworldly grace, their presence flickering like moonlight through leaves."
 subclass: fighter
-# header:
-#   overlay_image: /assets/images/classes/fighter/header.png
-#   teaser: /assets/images/classes/fighter/header.jpg
+header:
+  overlay_image: /assets/images/classes/fighter/fey-warrior/header.png
+  teaser: /assets/images/classes/fighter/fey-warrior/header.jpg
 ---
 The Fey Warrior moves with an otherworldly grace, their presence flickering like moonlight through leaves. Infused with the magic of the Feywild, they are elusive and radiant, vanishing between heartbeats and reappearing where least expected. This archetype blends martial prowess with arcane flair, confusing enemies with dazzling illusions and swift, unpredictable movement. To face a Fey Warrior is to fight a reflection in water—never quite where you strike, and always a step beyond reach.
 
-# Dazzling Demonstration 
+# Dazzling Demonstration
 Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Thaumaturgy]] cantrips, and gain proficiency in [[Performance]] if you don't already have it.
 
 # Fey Teleportation
@@ -33,3 +33,5 @@ You can use this feature a number of times equal to your proficiency bonus. You 
 
 # Fey Invisibility
 Starting at 18th level, you learn the [[Greater Invisibility]] spell and you can cast it on yourself without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
+
+[:classes/fighter/fey-warrior:]
