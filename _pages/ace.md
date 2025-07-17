@@ -83,8 +83,6 @@ Determine your traits by using one of the following methods.
 
 **Standard Array.** Choose one standard array from the following:
 
-||||||
-| :--: | :--: | :--: | :--: | :--: |
 |  +2  |  +1  |  +1  |  0   |  -1  |
 |  +1  |  0   |  -1  |  -1  |  -2  |
 |  +3  |  +1  |  0   |  -1  |  -1  |
