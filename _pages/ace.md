@@ -8,7 +8,7 @@ The alignment chart is fairly limited. Why can't a character be Chaotic but stil
 This is where the Alignment Chart Expansion comes into play. Designed to represent the full spectrum of personality traits, it covers every basic roleplaying aspect you need to know about a character. Each trait value ranges from -3 to 3. You can determine the value of a trait by rolling 2d4 and subtracting between them, resulting in a number between -3 and 3.
 
 # The Five Traits
-Each trait represents an independent roleplaying aspect of the game.
+Each trait represents an independent roleplaying aspect of the game. The following charts contain guideline descriptions for each unique value.
 
 ## Altruism
 How much your character is willing to go out of their way to help someone.
@@ -74,3 +74,5 @@ How orderly or chaotic your character tends to be.
 | -1 | **Intuitive.** Follows their intuition and knows what they want. |
 | -2 | **Wild.** Follows their instincts rather than rely on sound logic. Unpredictable. |
 | -3 | **Chaotic.** Unpredictable, whimsical and volatile. Possibly psychotic. |
+
+# Creating a Character
