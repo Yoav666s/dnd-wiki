@@ -68,4 +68,5 @@ How orderly or chaotic your character tends to be.
 | Value | Description |
 | :---: | :---------- |
 | 3 | **Tyrannical.** Won't tolerate mistakes and hates uncertainty. |
-| 2 | **Methodical.** A true professional. Always ready for the unexpected. |
+| 2 | **Disciplined.** A true professional. Always ready for the unexpected. |
+| 1 | **Organized.** Fairly logical and can follow or even create intricate plans. |
