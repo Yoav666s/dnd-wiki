@@ -17,6 +17,7 @@ How much your character is willing to go out of their way to help someone.
 | :---: | :---------- |
 | 3 | **Tenderhearted.** Loves to help, to the point of being slightly naive and easy to take advantage of. |
 | 2 | **Kind.** Would go to great lengths in order to help someone in need. |
+| 1 | **Neighborly.** Happy to help as long as it doesn't come at their own expense. |
 
 ## Courage
 Your character's ability to stand up to opposing forces and take risks.
