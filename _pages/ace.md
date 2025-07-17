@@ -78,6 +78,11 @@ How orderly or chaotic your character tends to be.
 # Designing Your Character
 Determine your traits by using one of the following methods. 
 
-**Standard Array.** [generate a standard array] 
+**Standard Array.** Choose a standard array from the following:
+
+- +2, +1, +1, 0, -1
+- +1, 0, -1, -1, -2
+- +3, +1, 0, 0, -1
+- +1, 0, 0, -1, -3
 
 **Random Generation.** Roll two d4s and subtract the second value from the first. Do this four more times, so you have five numbers.
