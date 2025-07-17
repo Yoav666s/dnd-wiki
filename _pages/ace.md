@@ -90,3 +90,5 @@ Determine your traits by using one of the following methods.
 
 **Random Generation.** Roll two d4s and subtract the second value from the first. Do this four more times, so you have five numbers.
 
+## Assign Trait Values
+Once you've generated five traits, assign them to Altruism, Courage, Sociability, Morality, and Entropy. Keep in mind your class and ability scores
