@@ -46,6 +46,7 @@ Your character's receptiveness to other people's feelings and perceptiveness to 
 | 1 | **Friendly.** Has good social skills and likes to make friends. |
 | 0 | **Approachable.** Can hold a conversation and negotiate effectively. |
 | -1 | **Reserved.** Doesn't open up very often. |
+| -2 | **Unsocial.** Closed off and doesn't share their feelings with anyone. |
 
 ## Morality
 How much your character adheres to the law or other moral codes.
