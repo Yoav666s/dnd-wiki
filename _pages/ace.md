@@ -72,3 +72,4 @@ How orderly or chaotic your character tends to be.
 | 1 | **Organized.** Fairly logical and can follow or even create intricate plans. |
 | 0 | **Poised.** Practical and makes informed decisions without being too hasty. |
 | -1 | **Intuitive.** Follows their intuition and knows what they want. |
+| -2 | **Wild.** Follows their instincts rather than rely on sound logic. Unpredictable. |
