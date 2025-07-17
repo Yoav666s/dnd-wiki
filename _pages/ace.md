@@ -19,6 +19,7 @@ How much your character is willing to go out of their way to help someone.
 | 2 | **Kind.** Would go to great lengths in order to help someone in need. |
 | 1 | **Neighborly.** Happy to help as long as it doesn't come at their own expense. |
 | 0 | **Collaborative.** Willing help, but won't go out of their way to do so. |
+| -1 | **Selfish.** Won't do anything for anyone without asking for payment. |
 
 ## Courage
 Your character's ability to stand up to opposing forces and take risks.
