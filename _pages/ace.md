@@ -23,3 +23,10 @@ Your character's ability to stand up to opposing forces and take risks.
 | Value | Description |
 | :---: | :---------- |
 |||
+
+## Sociability
+Your character's receptiveness to other people's feelings and perceptiveness to social queues.
+
+| Value | Description |
+| :---: | :---------- |
+|||
