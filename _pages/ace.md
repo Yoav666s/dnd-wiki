@@ -76,9 +76,12 @@ How orderly or chaotic your character tends to be.
 | -3 | **Chaotic.** Unpredictable, whimsical and volatile. Possibly psychotic. |
 
 # Designing Your Character
+To determine your character's personality traits, you first generate five numbers and then assign them to your five traits.
+
+## Generate Your Values
 Determine your traits by using one of the following methods. 
 
-**Standard Array.** Choose a standard array from the following:
+**Standard Array.** Choose one standard array from the following:
 
 - +2, +1, +1, 0, -1
 - +1, 0, -1, -1, -2
@@ -86,3 +89,4 @@ Determine your traits by using one of the following methods.
 - +1, +1, 0, -1, -3
 
 **Random Generation.** Roll two d4s and subtract the second value from the first. Do this four more times, so you have five numbers.
+
