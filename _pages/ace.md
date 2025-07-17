@@ -42,6 +42,7 @@ Your character's receptiveness to other people's feelings and perceptiveness to 
 | Value | Description |
 | :---: | :---------- |
 | 3 | **Compassionate.** Susceptible to manipulation and averse to conflict. |
+| 2 | **Caring.** Cares about other people's problems even if there's no way to help. |
 
 ## Morality
 How much your character adheres to the law or other moral codes.
