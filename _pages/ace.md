@@ -34,6 +34,7 @@ Your character's ability to stand up to opposing forces and take risks.
 | 0 | **Sensible.** Doesn't overestimate themselves but doesn't cower in the face of danger. |
 | -1 | **Timid.** If the odds are against them, not likely to risk it. |
 | -2 | **Cowardly.** Would do anything to avoid dangerous situations. |
+| -3 | **Anxious.** Cannot go adventuring without protection. |
 
 ## Sociability
 Your character's receptiveness to other people's feelings and perceptiveness to social queues.
