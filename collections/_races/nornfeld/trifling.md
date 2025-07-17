@@ -63,7 +63,7 @@ Thanks to your infernal bloodline, you have superior vision in dark and dim cond
 You have resistance to fire damage.
 
 ## Infernal Invocations
-You know the [[Produce Flame]] cantrip. At 3rd level you can cast the [[Disguise Self]] once without expending a spell slot. At 5th level, you can cast the [[Invisibility]] spell once without expending a spell slot. Charisma is your spellcasting ability for these spells, and you regain all expended uses when you finish a long rest. 
+You know the [[Produce Flame]] cantrip. At 3rd level you can cast the [[Disguise Self]] once without expending a spell slot. At 5th level, you can cast the [[Invisibility]] spell once without expending a spell slot or requiring material components. Charisma is your spellcasting ability for these spells, and you regain all expended uses when you finish a long rest. 
 
 ## Impish Invisibility
 As a bonus action, you can magically turn invisible until the start of your next turn or until you attack or until your concentration ends (as if you were concentrating on a spell). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
