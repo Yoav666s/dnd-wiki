@@ -57,7 +57,9 @@ How much your character adheres to the law or other moral codes.
 | 3 | **Radical.** Would rather die than betray their idealistic morals. |
 | 2 | **Honorable.** Adheres to a high moral code. |
 | 1 | **Fair.** Generally honest and doesn't break the law. Doesn't deceive, lie, or steal. |
-| 0 | **Adequate.** Abides by the law when it's convenient, but may break it. |
+| 0 | **Adequate.** Abides by the law when it's convenient, but may break it under justifiable circumstances. |
+| -1 | **Negligent.** Easily tempted by bribes and may commit minor crimes. |
+| -2 | **Miscreant.** Shady, unreliable, cheats, steals, lies, and deceives. |
 
 ## Entropy
 How orderly or chaotic your character tends to be.
