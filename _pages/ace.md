@@ -11,3 +11,8 @@ This is where the Alignment Chart Expansion comes into play. Designed to represe
 Each trait represents an independent roleplaying aspect of the game.
 
 ## Altruism
+How much your character is willing to go out of their way to help someone.
+
+| Value | Description |
+| :---: | :---------- |
+|||
