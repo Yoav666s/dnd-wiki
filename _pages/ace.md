@@ -55,6 +55,7 @@ How much your character adheres to the law or other moral codes.
 | Value | Description |
 | :---: | :---------- |
 | 3 | **Radical.** Would rather die than betray their idealistic morals. |
+| 2 | **Honorable.** Adheres to a high moral code. |
 
 ## Entropy
 How orderly or chaotic your character tends to be.
