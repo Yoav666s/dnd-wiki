@@ -14,6 +14,8 @@ main:
     url: /rules/
   - title: "Spells"
     url: /spells/
+  - title: "ACE"
+    url: /ace/
 
 classes:
   - title: "Barbarian"
