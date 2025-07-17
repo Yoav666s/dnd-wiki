@@ -67,4 +67,4 @@ How orderly or chaotic your character tends to be.
 
 | Value | Description |
 | :---: | :---------- |
-|||
+| 3 | **Tyrannical.** Won't tolerate mistakes and hates uncertainty. |
