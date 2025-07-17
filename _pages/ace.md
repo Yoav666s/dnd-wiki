@@ -28,7 +28,7 @@ Your character's ability to stand up to opposing forces and take risks.
 
 | Value | Description |
 | :---: | :---------- |
-|||
+| 3 | **Lunatic.** Reckless and unable to tell when their own life is in danger. |
 
 ## Sociability
 Your character's receptiveness to other people's feelings and perceptiveness to social queues.
