@@ -37,3 +37,10 @@ How much your character adheres to the law or other moral codes.
 | Value | Description |
 | :---: | :---------- |
 |||
+
+## Entropy
+How orderly or chaotic your character tends to be.
+
+| Value | Description |
+| :---: | :---------- |
+|||
