@@ -21,6 +21,7 @@ How much your character is willing to go out of their way to help someone.
 | 0 | **Collaborative.** Willing help, but won't go out of their way to do so. |
 | -1 | **Selfish.** Won't do anything for anyone without asking for payment. |
 | -2 | **Uncaring.** Holds no regard for other people's needs. |
+| -3 | **Narcissistic.** Regularly takes advantage of others. |
 
 ## Courage
 Your character's ability to stand up to opposing forces and take risks.
