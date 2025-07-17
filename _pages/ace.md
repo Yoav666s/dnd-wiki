@@ -30,3 +30,10 @@ Your character's receptiveness to other people's feelings and perceptiveness to 
 | Value | Description |
 | :---: | :---------- |
 |||
+
+## Morality
+How much your character adheres to the law or other moral codes.
+
+| Value | Description |
+| :---: | :---------- |
+|||
