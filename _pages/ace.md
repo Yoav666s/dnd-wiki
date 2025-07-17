@@ -60,6 +60,7 @@ How much your character adheres to the law or other moral codes.
 | 0 | **Adequate.** Abides by the law when it's convenient, but may break it under justifiable circumstances. |
 | -1 | **Negligent.** Easily tempted by bribes and may commit minor crimes. |
 | -2 | **Miscreant.** Shady, unreliable, cheats, steals, lies, and deceives. |
+| -3 | **Sociopathic.** Has no conscience and no sense of right and wrong. |
 
 ## Entropy
 How orderly or chaotic your character tends to be.
