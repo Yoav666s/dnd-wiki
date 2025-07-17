@@ -30,6 +30,7 @@ Your character's ability to stand up to opposing forces and take risks.
 | :---: | :---------- |
 | 3 | **Lunatic.** Reckless and unable to tell when their own life is in danger. |
 | 2 | **Brave.** Would take on dangerous challenges to achieve their goals. |
+| 1 | **Bold.** Isn't afraid to stand up and hold their ground or take calculated risks. |
 
 ## Sociability
 Your character's receptiveness to other people's feelings and perceptiveness to social queues.
