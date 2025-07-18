@@ -25,7 +25,7 @@ The Forgotten lets you choose from an expanded list of spells when you learn a w
 | 5th         | [[!Arcane Hand]], [[!Telekinesis]]             |
 
 # Possession
-Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself that disperses at the start of your next turn. For 1 minute, your eyes flare with white light, your voice booms three times as loud as normal, and. At the end of the duration, you gain one level of exhaustion.
+Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself that disperses at the start of your next turn. For 1 minute, your eyes flare with white light, your voice booms three times as loud as normal, and [main feature here]. At the end of the duration, you gain one level of exhaustion.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest. You cannot use this feature if you have three or more levels of exhaustion.
 
