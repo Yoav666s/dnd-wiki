@@ -2,6 +2,7 @@
 layout: single
 title: "ACE: Alignment Chart Expansion"
 permalink: /ace/
+classes: wide
 ---
 The alignment chart is fairly limited. Why can't a character be Chaotic but still abide by law? Why limit roleplaying to Good, Neutral, and Evil? How do you cover moral grey areas?
 
