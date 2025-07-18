@@ -19,7 +19,7 @@ The Forgotten lets you choose from an expanded list of spells when you learn a w
 | Spell Level | Spells                                         |
 | :---------- | :--------------------------------------------- |
 | 1st         | [[!Fog Cloud]], [[!Shield]]            |
-| 2nd         | [[!Scorching Ray]], [[!Blur]]           |
+| 2nd         | [[!Detect Thoughts]], [[!Blur]]           |
 | 3rd         | [[!Fireball]], [[!Haste]]                  |
 | 4th         | [[!Wall of Fire]], [[!Greater Invisibility]] |
 | 5th         | [[!Arcane Hand]], [[!Telekinesis]]             |
