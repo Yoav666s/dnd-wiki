@@ -10,21 +10,17 @@ available_for:
   - Warlock
   - Wizard
 level: "2nd Level"
-school: "Transmutation"
-range: "30 ft"
-area: "5 ft"
-shape: "Cube"
+school: "Evocation"
+range: "Self"
 comp:
   - V
   - S
-  - M
-material: "a small nugget of rabbit poop"
-duration: "Instantaneous"
+duration: "10 Minutes"
 concentration: false
-cast_time: "1 Action"
+cast_time: "1 Bonus Action"
 ritual: false
-attack: "WIS Save"
-effect: "Fire"
+attack: "Melee"
+effect: "Force"
 description: |
   description
 excerpt: "description"
