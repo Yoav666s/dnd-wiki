@@ -48,9 +48,3 @@ Starting at 14th level, while you are possessed by your patron, your body doesn'
 When you drop to 0 hit points, you can let your patron possess your body for one minute, gaining all the aforementioned benefits. After this ends, you fall unconscious and gain one level of exhaustion. If you still have any temporary hit points left, you lose them and stabilize.
 
 Once you use this feature, you can't do it again until you finish a short or long rest. You may use this feature even if you have five levels of exhaustion, but it will result in your death, afterwards.
-
-# Might of the Frail
-Beginning at 14th level, when you have at least three levels of exhaustion, you gain the following benefits:
-
-- You gain advantage on saving throws against magic.
-- You can cast the [[Arcane Hand]] spell without expending a spell slot. Once you do, you can't do so again until you finish a short or long rest.
