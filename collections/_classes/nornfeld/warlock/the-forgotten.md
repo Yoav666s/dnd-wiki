@@ -21,7 +21,7 @@ The Forgotten lets you choose from an expanded list of spells when you learn a w
 | 1st         | [[!Fog Cloud]], [[!Shield]]            |
 | 2nd         | [[!Detect Thoughts]], [[!Blur]]           |
 | 3rd         | [[!Lightning Bolt]], [[!Sending]]                  |
-| 4th         | [[!Confusion]], [[!Phantasmal Killer]] |
+| 4th         | [[!Compulsion]], [[!Phantasmal Killer]] |
 | 5th         | [[!Arcane Hand]], [[!Telekinesis]]             |
 
 # Possession
