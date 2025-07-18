@@ -1,14 +1,15 @@
 ---
-title: "Name"
+title: "Spectral Hands"
 index:
-  - name
-permalink: /spells/name/
+  - spectral-hands
+permalink: /spells/spectral-hands/
 tags:
   - Spell
 available_for:
-  - Wizard
   - Sorcerer
-level: "Cantrip"
+  - Warlock
+  - Wizard
+level: "2nd Level"
 school: "Transmutation"
 range: "30 ft"
 area: "5 ft"
