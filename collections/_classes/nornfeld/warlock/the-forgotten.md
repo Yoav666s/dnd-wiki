@@ -22,7 +22,7 @@ The Forgotten lets you choose from an expanded list of spells when you learn a w
 | 2nd         | [[!Detect Thoughts]], [[!Blur]]           |
 | 3rd         | [[!Lightning Bolt]], [[!Sending]]                  |
 | 4th         | [[!Compulsion]], [[!Phantasmal Killer]] |
-| 5th         | [[!Arcane Hand]], [[!Telekinesis]]             |
+| 5th         | [[!Dominate Person]], [[!Telekinesis]]             |
 
 # Possession
 Starting at 1st level, your patron infuses with your body. As an action, you can allow him to possess you, creating a [[fog cloud]] centered on yourself that disperses at the start of your next turn. For 1 minute, your eyes flare with white light, your voice booms three times as loud as normal, and whenever you deal damage, you deal and additional 1d8 psychic damage. At the end of the duration, you gain one level of exhaustion.
