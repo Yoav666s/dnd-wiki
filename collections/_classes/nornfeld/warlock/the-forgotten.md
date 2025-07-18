@@ -36,7 +36,7 @@ Starting at 1st level, when you take a short rest, you can expend one spell slot
 Starting at 6th level, your patron is becoming stronger. While you are possessed by your patron, you can cast the [[Shield]] spell as a reaction without expending spell slots. Additionally, while you are possessed, you gain temporary hit points equal to your warlock level + Charisma modifier (minimum of 1).
 
 # Worthy Vessel
-Beginning at 10th level, your patron is starting to feel comfortable in your body. While possessed, you can cast [[Telekinesis]] once per possession as an action, without expending a spell slot. When the possession ends, so does the spell.
+Beginning at 10th level, your patron is starting to feel comfortable in your body. While possessed, you gain a flying speed of 60 feet and you can cast [[Telekinesis]] once per possession as an action, without expending a spell slot. When the possession ends, so does the spell.
 
 As a bonus action, you can let your patron possess your body until your next turn, granting you all the aforementioned benefits. This does not exhaust your body.
 
