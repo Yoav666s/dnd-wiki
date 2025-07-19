@@ -85,4 +85,8 @@ At 2nd level, you tap into a deep wellspring of magic within yourself. This well
 
 | Spell Slot Level | Sorcery Points |
 | :--------------: | :------------: |
-|  ||
+| 1st | 2 |
+| 2nd | 3 |
+| 3rd | 5 |
+| 4th | 6 |
+| 5th | 7 |
