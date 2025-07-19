@@ -14,3 +14,26 @@ Sorcerers carry a magical birthright conferred upon them by an exotic bloodline,
 # The Sorcerer
 
 [Sorcerer Table]
+
+# Class Features
+As a sorcerer, you gain the following class features.
+
+## Hit Points
+**Hit Dice:** 1d6 per sorcerer level \
+**Hit Points at 1st Level:** 6 + your Constitution modifier \
+**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
+
+## Proficiencies
+Armor: None
+Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
+Tools: None
+Saving Throws: Constitution, Charisma
+Skills: Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+
+## Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+
+(a) a light crossbow and 20 bolts or (b) any simple weapon
+(a) a component pouch or (b) an arcane focus
+(a) a dungeoneer's pack or (b) an explorer's pack
+Two daggers
