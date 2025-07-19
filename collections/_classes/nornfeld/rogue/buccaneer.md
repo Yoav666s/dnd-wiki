@@ -26,9 +26,9 @@ When you choose this archetype at 3rd level, you can add your [[proficiency bonu
 Starting at 9th level, when you end your turn in combat without making an attack, the next attack against you before the start of your next turn has disadvantage.
 
 # Unsavory Exploits
-Starting at 13th level, whenever a creature makes a melee attack against you and misses, you can use your reaction to make an attack against that creature.
+Starting at 13th level, while you're standing within 5 feet of a creature that has the [[prone]] condition, you can prevent it from using its movement to get up.
 
 # Golden Opportunity
-Beginning on 17th level, 
+Beginning on 17th level, whenever a creature makes a melee attack against you and misses, you can use your reaction to make an attack against that creature.
 
 [:classes/rogue/buccaneer/alt;header:]
