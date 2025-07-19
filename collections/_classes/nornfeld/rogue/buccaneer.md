@@ -28,7 +28,7 @@ Starting at 9th level, while you're standing within 5 feet of a creature that ha
 # Golden Opportunity
 Starting at 13th level, whenever a creature makes a melee attack against you and misses, you can use your reaction to make an attack against that creature.
 
-#
-Beginning on 17th level,
+# 
+Beginning on 17th level, whenever a creature misses you with a melee attack, you have advantage on the next attack you make against it until the end of your next turn.
 
 [:classes/rogue/buccaneer/alt;header:]
