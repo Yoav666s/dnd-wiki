@@ -23,7 +23,7 @@ When you choose this archetype at 3rd level, you can add your [[proficiency bonu
 Starting at 9th level, when you end your turn in combat without making an attack, the next attack against you before the start of your next turn has disadvantage.
 
 # Unsavory Exploits
-Starting at 13th level, whenever a creature makes a melee attack against you and misses, you can use your reaction to make an attack against that creature. You have advantage on the attack roll.
+Starting at 13th level, whenever a creature makes a melee attack against you and misses, you can use your reaction to make an attack against that creature.
 
 # Golden Opportunity
 Beginning on 17th level, 
