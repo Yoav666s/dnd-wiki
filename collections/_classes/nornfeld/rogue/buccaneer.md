@@ -29,9 +29,9 @@ Starting at 3rd level, you can add your [[proficiency bonus]] to your [[initiati
 Starting at 9th level, when you end your turn in combat without making an attack, the next attack against you before the start of your next turn has disadvantage.
 
 # Unsavory Exploits
-Starting at 13th level, whenever a creature makes a melee attack against you and misses, you can use your reaction to make an [[opportunity attack]] against that creature. You have advantage on the attack roll.
+Starting at 13th level, whenever a creature makes a melee attack against you and misses, you can use your reaction to make an attack against that creature. You have advantage on the attack roll.
 
 # Golden Opportunity
-Beginning on 17th level, when you use your reaction to make an [[opportunity attack]], it can benefit from your [[Sneak Attack@rogue]] even if you have already dealt sneak damage this round.
+Beginning on 17th level, you have advantage on opportunity attacks.
 
 [:classes/rogue/buccaneer/alt;header:]
