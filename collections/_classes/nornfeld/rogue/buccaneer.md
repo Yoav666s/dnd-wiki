@@ -16,9 +16,6 @@ You're skilled in close-quarter fighting, especially in densely packed areas. Yo
 # Deckhand Jostler
 Starting at 3rd level, you can use your bonus action to attempt to [[shove]] a creature. The DC for the saving throw equals 8 plus you Dexterity modifier and your proficiency bonus.
 
-# Impeccable Timing
-Starting at 3rd level, you always wait for the right moment to act. When you take the [[Ready]] action, you don't need to use your reaction in order to act when the trigger occurs.
-
 # Ready for a Row
 When you choose this archetype at 3rd level, you can add your [[proficiency bonus]] to your [[initiative]] rolls.
 
