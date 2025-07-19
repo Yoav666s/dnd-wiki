@@ -17,7 +17,7 @@ You're skilled in close-quarter fighting, especially in densely packed areas. Yo
 Starting at 3rd level, you always wait for the right moment to act. When you take the [[Ready]] action, you don't need to use your reaction in order to act when the trigger occurs. You may also ready a [[bonus action]] instead of taking it immediately.
 
 # Ready for a Row
-When you choose this archetype at 3rd level, you can add your [[proficiency bonus]] to your [[initiative]] rolls.
+When you choose this archetype at 3rd level, you can add your [[proficiency bonus]] to your [[initiative]] rolls. Additionally, you can take the [[Shove]] action as a bonus action, and the DC for the saving throw equals 8 plus you Dexterity modifier and your proficiency bonus.
 
 # Anticipatory Dodge
 Starting at 9th level, when you end your turn in combat without making an attack, the next attack against you before the start of your next turn has disadvantage.
