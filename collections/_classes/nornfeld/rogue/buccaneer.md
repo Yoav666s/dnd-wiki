@@ -14,7 +14,7 @@ You're skilled in close-quarter fighting, especially in densely packed areas. Yo
 [:classes/rogue/buccaneer;header:]
 
 # Deckhand Jostler
-Starting at 3rd level, you can take the [[Shove]] action as a bonus action, and the DC for the saving throw equals 8 plus you Dexterity modifier and your proficiency bonus.
+Starting at 3rd level, you can use your bonus action to attempt to [[shove]] a creature. The DC for the saving throw equals 8 plus you Dexterity modifier and your proficiency bonus.
 
 # Impeccable Timing
 Starting at 3rd level, you always wait for the right moment to act. When you take the [[Ready]] action, you don't need to use your reaction in order to act when the trigger occurs.
