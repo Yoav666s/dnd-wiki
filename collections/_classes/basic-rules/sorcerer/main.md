@@ -83,8 +83,8 @@ At 2nd level, you tap into a deep wellspring of magic within yourself. This well
 
 ### Creating Spell Slots
 
-| Spell Slot Level | Sorcery Points |
-| :--------------: | :------------: |
+| Spell Slot Level | Sorcery Point Cost |
+| :--------------: | :----------------: |
 | 1st | 2 |
 | 2nd | 3 |
 | 3rd | 5 |
