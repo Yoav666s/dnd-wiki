@@ -25,5 +25,5 @@ Consult the Fey Sorcerer Oddities table and choose or randomly determine a way y
 | 5 | Glowing writings in sylvan float around you in circles. |
 | 6 | Ominous whispers can be heard by you and those affected by your magic. |
 
-#
-Starting at 1st level, 
+# Fey Tongue 
+Starting at 1st level, you can speak, read, and write Sylvan. Additionally, you gain proficiency in [[Deception]].
