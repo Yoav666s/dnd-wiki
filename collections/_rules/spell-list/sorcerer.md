@@ -5,7 +5,7 @@ index:
   - sorcerer-spell-list
 permalink: /rules/sorcerer-spells/
 layout: spellist
-class: "sorcerer"
+class: "Sorcerer"
 toc: false
 part: 3.5
 chapter: 11
