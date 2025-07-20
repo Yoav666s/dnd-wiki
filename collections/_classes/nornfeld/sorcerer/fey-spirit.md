@@ -21,4 +21,5 @@ Consult the Fey Sorcerer Oddities table and choose or randomly determine a way y
 | 1 | Various shadows appear around you and silently cheer. |
 | 2 | Seasonal flowers sprout on the ground at your feet. |
 | 3 | Illusory butterflies circle around you in a spiral. |
-| 4 |  |
+| 4 | Ominous whispers can be heard by you and those affected by your magic |
+| 5 |  |
