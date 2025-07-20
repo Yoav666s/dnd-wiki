@@ -1,7 +1,7 @@
 ---
 title: "Wizard"
 permalink: /classes/wizard/
-excerpt: ""
+excerpt: "Wizards are supreme magic-users, defined and united as a class by the spells they cast."
 # header:
 #   overlay_image: /assets/images/classes/wizard/header.png
 #   teaser: /assets/images/classes/wizard/header.jpg
