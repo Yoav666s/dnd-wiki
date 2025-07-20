@@ -18,4 +18,5 @@ Consult the Fey Sorcerer Oddities table and choose or randomly determine a way y
 
 | d6    | Oddity |
 | :---: | :----: |
-| 1 ||
+| 1 | Whenever you cast a sorcerer spell, illusory shadows appear around you and silently cheer. |
+| 2 ||
