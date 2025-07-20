@@ -16,4 +16,6 @@ The power of the Feywild has a noticable effect over your physical presence. The
 # Fey Sorcerer Oddity 
 Consult the Fey Sorcerer Oddities table and choose or randomly determine a way your connection to the Feywild manifests itself. 
 
-| d6 | Oddity |
+| d6    | Oddity |
+| :---: | :----: |
+| 1 ||
