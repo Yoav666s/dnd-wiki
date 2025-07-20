@@ -14,14 +14,14 @@ Your innate magic comes from the distant realms of the Feywild. You might trace 
 The power of the Feywild has a noticable effect over your physical presence. The playful aura of magic and trickery is all too present, frustrating and infuriating both friend and foe.
 
 # Fey Magic
-You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. These spells can’t be replaced when you gain a level in this class.
+You learn additional spells when you reach certain levels in this class, as shown on the Feywild Spells table. Each spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. These spells can’t be replaced when you gain a level in this class.
 
 ## Feywild Spells
 
 | Sorcerer Level | Spells |
 | :------------: | :----: |
 | 1st | [[Disguise Self]], [[Faerie Fire]] |
-| 3rd ||
+| 3rd |  |
 | 5th ||
 | 7th ||
 | 9th ||
