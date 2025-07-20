@@ -39,6 +39,9 @@ classes:
   - title: "Rogue"
     class: rogue
     url: /classes/rogue/
+  - title: "Sorcerer"
+    class: sorcerer
+    url: /classes/sorcerer/
   - title: "Warlock"
     class: warlock
     url: /classes/warlock/
