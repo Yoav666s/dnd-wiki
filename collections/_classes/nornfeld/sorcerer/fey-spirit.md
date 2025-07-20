@@ -19,7 +19,7 @@ You learn additional spells when you reach certain levels in this class, as show
 ## Feywild Spells
 
 | Sorcerer Level | Spells |
-| :------------: | :----: |
+| :------------: | :----- |
 | 1st | [[!Disguise Self]], [[!Faerie Fire]] |
 | 3rd | [[!Invisibility]], [[!Misty Step]] |
 | 5th | [[!Blink]], [[!Major Image]] |
