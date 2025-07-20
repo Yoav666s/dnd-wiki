@@ -51,4 +51,4 @@ Starting at 1st level, you can use your bonus action on your turn to teleport up
 Beginning at 6th level, you can expend one sorcery point to become invisible immediately after you cast a spell of 1st level or higher. You stay invisible for 1 minute, or until you attack or cast a spell.
 
 #
-Starting at 14th level, whenever you cast an Enchantment 
+Starting at 14th level, whenever you cast an Enchantment spell that requires one or more targets to make a saving throw, you can expend 1 sorcery point per target to impose disadvantage on the saving throw.
