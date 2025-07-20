@@ -20,6 +20,11 @@ You learn additional spells when you reach certain levels in this class, as show
 
 | Sorcerer Level | Spells |
 | :------------: | :----: |
+| 1st ||
+| 3rd ||
+| 5th ||
+| 7th ||
+| 9th ||
 
 Consult the Fey Magic Oddities table and choose or randomly determine a way your connection to the Feywild manifests itself whenever you cast any of your sorcerer spells. 
 
