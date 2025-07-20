@@ -22,7 +22,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | :------------: | :----: |
 | 1st | [[Disguise Self]], [[Faerie Fire]] |
 | 3rd | [[Invisibility]], [[Misty Step]] |
-| 5th ||
+| 5th | [[Blink]], [[Major Image]] |
 | 7th ||
 | 9th ||
 
