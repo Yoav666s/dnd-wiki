@@ -42,7 +42,7 @@ Consult the Fey Magic Oddities table and choose or randomly determine a way your
 # Fey Mind
 Being a creature of the Feywild, you are sly and conniving. You can speak, read, and write Sylvan. You have advantage on Charisma ([[Deception]]) and ([[Persuasion]]) checks when interacting with Fey creatures.
 
-Additionally, you have advantage on saving throws you make to avoid or end the Charmed condition.
+Additionally, you have advantage on saving throws you make to avoid or end the Charmed condition, and magic can't put you to sleep.
 
 # Artful Magic
 Starting at 1st level, you can use your bonus action on your turn to teleport up to 10 feet to an unoccupied space you can see, immediately before or after you cast a spell of 1st level or higher.
