@@ -52,3 +52,6 @@ Beginning at 6th level, you can expend one sorcery point to become invisible imm
 
 # Mesmerizing Presence
 Starting at 14th level, whenever you cast an Enchantment spell that requires one or more targets to make a saving throw, you can expend 1 sorcery point per target to impose disadvantage on its saving throw.
+
+#
+Starting at 18th level,
