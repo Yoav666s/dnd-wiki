@@ -17,6 +17,6 @@ The power of the Feywild has a noticable effect over your physical presence. The
 Consult the Fey Sorcerer Oddities table and choose or randomly determine a way your connection to the Feywild manifests itself. 
 
 | d6    | Oddity |
-| :---: | :----: |
+| :---: | :----- |
 | 1 | Whenever you cast a sorcerer spell, illusory shadows appear around you and silently cheer. |
-| 2 ||
+| 2 |  |
