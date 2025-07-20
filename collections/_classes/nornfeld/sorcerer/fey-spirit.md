@@ -20,7 +20,7 @@ You learn additional spells when you reach certain levels in this class, as show
 
 | Sorcerer Level | Spells |
 | :------------: | :----- |
-| 1st | [[!Disguise Self]], [[!Faerie Fire]] |
+| 1st | [[!Charm Person]], [[!Disguise Self]] |
 | 3rd | [[!Invisibility]], [[!Misty Step]] |
 | 5th | [[!Blink]], [[!Major Image]] |
 | 7th | [[!Confusion]], [[!Greater Invisibility]] |
@@ -51,4 +51,4 @@ Starting at 1st level, you can use your bonus action on your turn to teleport up
 Beginning at 6th level, you can expend one sorcery point to become invisible immediately after you cast a spell of 1st level or higher. You stay invisible for 1 minute, or until you attack or cast a spell.
 
 #
-Starting at 14th level,
+Starting at 14th level, whenever you cast an Enchantment 
