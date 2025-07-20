@@ -40,7 +40,7 @@ Consult the Fey Magic Oddities table and choose or randomly determine a way your
 | 6 | Ominous whispers can be heard by you and those affected by your magic. |
 
 # Fey Mind
-Being a creature of the Feywild, you are sly and conniving. You can speak, read, and write Sylvan. You have advantage on Charisma ([[Deception]]) or ([[Persuasion]]) checks when interacting with Fey creatures.
+Being a creature of the Feywild, you are sly and conniving. You can speak, read, and write Sylvan. You have advantage on Charisma ([[Deception]]) and ([[Persuasion]]) checks when interacting with Fey creatures.
 
 Additionally, you have advantage on saving throws you make to avoid or end the Charmed condition
 
