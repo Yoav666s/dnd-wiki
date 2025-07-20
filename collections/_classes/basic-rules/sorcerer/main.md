@@ -1,7 +1,7 @@
 ---
 title: "Sorcerer"
 permalink: /classes/sorcerer/
-excerpt: ""
+excerpt: "Sorcerers carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces."
 # header:
 #   overlay_image: /assets/images/classes/sorcerer/header.png
 #   teaser: /assets/images/classes/sorcerer/header.jpg
