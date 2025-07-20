@@ -1,7 +1,7 @@
 ---
 title: "Fighter"
 permalink: /classes/fighter/
-excerpt: ""
+excerpt: "Fighters share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat."
 # header:
 #   overlay_image: /assets/images/classes/fighter/header.png
 #   teaser: /assets/images/classes/fighter/header.jpg
