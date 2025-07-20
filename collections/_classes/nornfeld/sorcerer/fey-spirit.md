@@ -25,8 +25,12 @@ Consult the Fey Sorcerer Oddities table and choose or randomly determine a way y
 | 5 | Glowing writings in sylvan float around you in circles. |
 | 6 | Ominous whispers can be heard by you and those affected by your magic. |
 
-# Fey Tongue 
-Being a creature of the Feywild, you are sly and conniving. You can speak, read, and write Sylvan, and you gain expertise in [[Deception]].
+# Fey Mind
+Being a creature of the Feywild, you are sly and conniving. You can speak, read, and write Sylvan. Additionally, you have advantage on saving throws you make to avoid or end the Charmed condition.
 
 # Artful Magic
 Starting at 1st level, you can use your bonus action on your turn to teleport up to 10 feet to an unoccupied space you can see, immediately before or after you cast a spell of 1st level or higher.
+
+# 
+At 6th level, 
+
