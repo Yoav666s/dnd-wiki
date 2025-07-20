@@ -54,4 +54,4 @@ Beginning at 6th level, you can expend one sorcery point to become invisible imm
 Starting at 14th level, whenever you cast an Enchantment spell that requires one or more targets to make a saving throw, you can expend 1 sorcery point per target to impose disadvantage on its saving throw.
 
 # Long Shot
-Starting at 18th level, whenever you teleport, you may expend 1 sorcery point to double the range.
+Starting at 18th level, whenever you teleport, you can bring one willing creature with you, and you can expend 1 sorcery point to double the range.
