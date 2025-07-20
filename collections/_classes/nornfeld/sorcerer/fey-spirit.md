@@ -45,7 +45,7 @@ Being a creature of the Feywild, you are sly and conniving. You can speak, read,
 Additionally, you have advantage on saving throws you make to avoid or end the Charmed condition, and magic can't put you to sleep.
 
 # Artful Magic
-Starting at 1st level, you can use your bonus action on your turn to teleport up to 10 feet to an unoccupied space you can see, immediately before or after you cast a spell of 1st level or higher.
+Starting at 1st level, you can use your bonus action on your turn to teleport up to 15 feet to an unoccupied space you can see, immediately before or after you cast a spell of 1st level or higher.
 
 # Hide and Seek
 Beginning at 6th level, you can expend one sorcery point to become invisible immediately after you cast a spell of 1st level or higher. You stay invisible for 1 minute, or until you attack or cast a spell.
@@ -53,5 +53,5 @@ Beginning at 6th level, you can expend one sorcery point to become invisible imm
 # Mesmerizing Presence
 Starting at 14th level, whenever you cast an Enchantment spell that requires one or more targets to make a saving throw, you can expend 1 sorcery point per target to impose disadvantage on its saving throw.
 
-#
-Starting at 18th level,
+# Long Shot
+Starting at 18th level, whenever you teleport, you may expend 1 sorcery point to double the range.
