@@ -90,3 +90,9 @@ At 2nd level, you tap into a deep wellspring of magic within yourself. This well
 | 3rd | 5 |
 | 4th | 6 |
 | 5th | 7 |
+
+## Metamagic
+At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
+
+You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+
