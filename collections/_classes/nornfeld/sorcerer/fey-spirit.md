@@ -29,4 +29,4 @@ Consult the Fey Sorcerer Oddities table and choose or randomly determine a way y
 Being a creature of the Feywild, you are sly and conniving. You can speak, read, and write Sylvan, and you gain expertise in [[Deception]].
 
 # Artful Magic
-Starting at 1st level, you can use your bonus action on your turn to teleport up to 15 feet to an unoccupied space you can see, immediately before or after you cast a spell of 1st level or higher.
+Starting at 1st level, you can use your bonus action on your turn to teleport up to 10 feet to an unoccupied space you can see, immediately before or after you cast a spell of 1st level or higher.
