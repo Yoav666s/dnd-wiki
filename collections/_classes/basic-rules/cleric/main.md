@@ -1,7 +1,7 @@
 ---
 title: "Cleric"
 permalink: /classes/cleric/
-excerpt: ""
+excerpt: "Clerics are intermediaries between the mortal world and the distant planes of the gods."
 # header:
 #   overlay_image: /assets/images/classes/cleric/header.png
 #   teaser: /assets/images/classes/cleric/header.jpg
