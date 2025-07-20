@@ -26,4 +26,6 @@ Consult the Fey Sorcerer Oddities table and choose or randomly determine a way y
 | 6 | Ominous whispers can be heard by you and those affected by your magic. |
 
 # Fey Tongue 
-Starting at 1st level, you can speak, read, and write Sylvan. Additionally, you gain expertise in [[Deception]].
+Being a creature of the Feywild, you are sly and conniving. You can speak, read, and write Sylvan, and you gain expertise in [[Deception]].
+
+# 
