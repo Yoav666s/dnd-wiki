@@ -13,8 +13,17 @@ Your innate magic comes from the distant realms of the Feywild. You might trace 
 
 The power of the Feywild has a noticable effect over your physical presence. The playful aura of magic and trickery is all too present, frustrating and infuriating both friend and foe.
 
-# Fey Sorcerer Oddity 
-Consult the Fey Sorcerer Oddities table and choose or randomly determine a way your connection to the Feywild manifests itself whenever you cast any of your sorcerer spells. 
+# Fey Magic
+You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. These spells can’t be replaced when you gain a level in this class.
+
+## Feywild Spells
+
+| Sorcerer Level | Spells |
+| :------------: | :----: |
+
+Consult the Fey Magic Oddities table and choose or randomly determine a way your connection to the Feywild manifests itself whenever you cast any of your sorcerer spells. 
+
+## Fey Magic Oddities 
 
 | d6    | Oddity |
 | :---: | :----- |
