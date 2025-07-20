@@ -49,3 +49,6 @@ Starting at 1st level, you can use your bonus action on your turn to teleport up
 
 # Hide and Seek
 Beginning at 6th level, you can expend one sorcery point to become invisible immediately after you cast a spell of 1st level or higher. You stay invisible for 1 minute, or until you attack or cast a spell.
+
+#
+Starting at 14th level,
