@@ -69,9 +69,9 @@ You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 ## Sorcerous Origin
 Choose a sorcerous origin, which describes the source of your innate magical power. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
-| Origin | Source |
-| :----: | :----: |
-|||
+| Origin                   | Source      |
+| :----------------------: | :---------: |
+| [[! Draconic Bloodline]] | Basic Rules |
 
 ## Font of Magic
 At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
