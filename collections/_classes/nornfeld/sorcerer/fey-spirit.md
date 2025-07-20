@@ -18,7 +18,7 @@ Consult the Fey Sorcerer Oddities table and choose or randomly determine a way y
 
 | d6    | Oddity |
 | :---: | :----- |
-| 1 | Illusory shadows appear around you and silently cheer. |
+| 1 | Various shadows appear around you and silently cheer. |
 | 2 | Seasonal flowers sprout on the ground at your feet. |
 | 3 | Illusory butterflies circle around you in a spiral. |
-| 4 ||
+| 4 |  |
