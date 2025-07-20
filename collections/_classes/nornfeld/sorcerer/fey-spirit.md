@@ -23,7 +23,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | 1st | [[Disguise Self]], [[Faerie Fire]] |
 | 3rd | [[Invisibility]], [[Misty Step]] |
 | 5th | [[Blink]], [[Major Image]] |
-| 7th ||
+| 7th | [[Confusion]], [[Hallucinatory Terrain]] |
 | 9th ||
 
 Consult the Fey Magic Oddities table and choose or randomly determine a way your connection to the Feywild manifests itself whenever you cast any of your sorcerer spells. 
