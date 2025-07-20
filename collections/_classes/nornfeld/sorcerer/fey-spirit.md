@@ -3,7 +3,7 @@ title: "Fey Spirit"
 index: 
   - fey-spirit
 permalink: /classes/sorcerer/fey-spirit/
-excerpt: "Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors."
+excerpt: "You are a fey creature, your innate magic coming from the distant realms of the Feywild."
 subclass: sorcerer
 # header:
 #   overlay_image: /assets/images/classes/sorcerer/header.png
