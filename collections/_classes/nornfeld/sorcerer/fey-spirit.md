@@ -21,7 +21,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | Sorcerer Level | Spells |
 | :------------: | :----: |
 | 1st | [[Disguise Self]], [[Faerie Fire]] |
-| 3rd |  |
+| 3rd | [[Invisibility]], [[Misty Step]] |
 | 5th ||
 | 7th ||
 | 9th ||
