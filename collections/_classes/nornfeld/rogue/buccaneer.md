@@ -17,7 +17,7 @@ You're skilled in close-quarter fighting, especially in densely packed areas. Yo
 Starting at 3rd level, you can use your bonus action to attempt to [[shove]] a creature. Instead of making a Strength ([[Athletics]]) check, you can make a Dexterity ([[Acrobatics]]) check.
 
 > **2024 Ruleset** \
-> *The DC for the saving throw equals 8 plus you Dexterity modifier and your proficiency bonus.*
+> *The DC for the saving throw equals 8 plus your Dexterity modifier and your proficiency bonus.*
 
 # Ready for a Row
 When you choose this archetype at 3rd level, you can add your [[proficiency bonus]] to your [[initiative]] rolls.
