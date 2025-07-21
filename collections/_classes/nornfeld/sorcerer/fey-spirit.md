@@ -28,7 +28,7 @@ You learn additional spells when you reach certain levels in this class, as show
 
 Consult the Fey Magic Oddities table and choose or randomly determine a way your connection to the Feywild manifests itself whenever you cast any of your sorcerer spells. 
 
-## Fey Magic Oddities 
+## Fey Magic Oddities
 
 | d6    | Oddity |
 | :---: | :----- |
