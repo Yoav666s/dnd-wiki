@@ -20,7 +20,7 @@ Starting at 3rd level, you can use your bonus action to attempt to [[shove]] a c
 When you choose this archetype at 3rd level, you can add your [[proficiency bonus]] to your [[initiative]] rolls.
 
 # Unsavory Exploits
-Starting at 9th level, while you're standing within 5 feet of a creature that has the [[prone]] condition, you can prevent it from using its movement to get up. In order to do so, it must succeed on a Strength ([[Athletics]]) check or Dexterity ([[Acrobatics]]) check against a DC of 8 plus your Dexterity modifier and proficiency bonus.
+Starting at 9th level, while you're standing within 5 feet of a creature that has the [[prone]] condition, you can prevent it from using its movement to get up. In order to do so, it must succeed on a Strength saving throw against a DC of 8 plus your Dexterity modifier and proficiency bonus.
 
 # Golden Opportunity
 Starting at 13th level, whenever a creature makes a melee attack against you and misses, you can use your reaction to make an attack against that creature.
