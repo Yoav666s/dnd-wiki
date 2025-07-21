@@ -50,8 +50,10 @@ Starting at 1st level, you can use your bonus action on your turn to teleport up
 # Hide and Seek
 Beginning at 6th level, you can expend 1 sorcery point to become invisible immediately after you cast a spell of 1st level or higher. You stay invisible for 1 minute, or until you attack or cast a spell.
 
+Additionally, whenever you teleport, you can expend 1 sorcery point to swap places with another creature within range instead.
+
 # Mesmerizing Presence
 Starting at 14th level, whenever you cast an Enchantment spell that requires one or more targets to make a saving throw, you can expend 1 sorcery point per target to impose disadvantage on its saving throw.
 
-# Long Shot
-Starting at 18th level, whenever you teleport, you can bring one willing creature with you, and you can expend 1 sorcery point to double the range.
+# Element of Surprise
+Starting at 18th level, whenever you end the invisibile condition early by casting a spell that deals damage, you can reroll one damage die and add the result to the total damage dealt.
