@@ -26,6 +26,6 @@ Starting at 9th level, when a creature that has the [[prone]] condition tries to
 Starting at 13th level, whenever you attempt to [[shove]] a creature, succeed or fail, your movement doesn't provoke opportunity attacks from that creature until the end of your turn.
 
 # Dirty Tactics
-Beginning on 17th level, 
+Beginning on 17th level, when you attack a creature with the [[prone]] condition, a roll of 18-20 counts as a critical hit.
 
 [:classes/rogue/buccaneer/alt;header:]
