@@ -48,7 +48,7 @@ Additionally, you have advantage on saving throws you make to avoid or end the C
 Starting at 1st level, you can use your bonus action on your turn to teleport up to 15 feet to an unoccupied space you can see, immediately before or after you cast a spell of 1st level or higher.
 
 # Hide and Seek
-Beginning at 6th level, you can expend one sorcery point to become invisible immediately after you cast a spell of 1st level or higher. You stay invisible for 1 minute, or until you attack or cast a spell.
+Beginning at 6th level, you can expend 1 sorcery point to become invisible immediately after you cast a spell of 1st level or higher. You stay invisible for 1 minute, or until you attack or cast a spell.
 
 # Mesmerizing Presence
 Starting at 14th level, whenever you cast an Enchantment spell that requires one or more targets to make a saving throw, you can expend 1 sorcery point per target to impose disadvantage on its saving throw.
