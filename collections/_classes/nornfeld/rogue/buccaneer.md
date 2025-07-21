@@ -22,8 +22,8 @@ When you choose this archetype at 3rd level, you can add your [[proficiency bonu
 # Unsavory Exploits
 Starting at 9th level, when a creature that has the [[prone]] condition tries to use its movement to get up within 5 feet of you, you can use your reaction to make a melee attack against that creature. 
 
-# Golden Opportunity
-Starting at 13th level, whenever a creature makes a melee attack against you and misses, you can use your reaction to make an attack against that creature.
+# Dirty Tactics
+Starting at 13th level, whenever a creature succeeds on the saving throw against your [[shove]], your movement doesn't provoke opportunity attacks from that creature until the end of your turn.
 
 # Upper Hand
 Beginning on 17th level, whenever a creature misses you with a melee attack, you have advantage on the next attack you make against it until the end of your next turn.
