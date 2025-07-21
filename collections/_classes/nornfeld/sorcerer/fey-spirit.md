@@ -56,4 +56,4 @@ Additionally, whenever you teleport, you can expend 1 sorcery point to swap plac
 Starting at 14th level, whenever you cast an Enchantment spell that requires one or more targets to make a saving throw, you can expend 1 sorcery point per target to impose disadvantage on its saving throw.
 
 # Element of Surprise
-Starting at 18th level, whenever you end the invisibile condition early by casting a spell that deals damage, you can reroll one damage die and add the result to the total damage dealt.
+Starting at 18th level, whenever you end the invisibile condition early by casting a spell that deals damage, you can reroll up to three damage dice and add the result to the total damage dealt.
