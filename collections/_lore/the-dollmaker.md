@@ -8,7 +8,7 @@ index:
   - puppeteer 
   - puppeteers
 permalink: /lore/the-dollmaker/
-excerpt: "The weaver is a deity, believed to be in charge of fate, destiny, and possibility."
+excerpt: "The Dollmaker, also known as the Puppeteer, is a scarcely known deity, responsible for everything that is abandoned and forgotten."
 # header:
 #  overlay_image: /assets/images/lore/the-dollmaker/header.png
 #  teaser: /assets/images/lore/the-dollmaker/header.jpg
