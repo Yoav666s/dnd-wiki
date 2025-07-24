@@ -11,8 +11,10 @@ header:
 ---
 Trained in both subtle magic and sleight of hand, a Mirage Dancer slips unseen between moments, vanishes in plain sight, and reappears where least expected. Whether vanishing behind a ripple of heat, escaping pursuit through illusory doubles, or seeming to teleport across the battlefield, they master the art of being where danger is not.
 
-# Beguiling Gesture
+# Beguiling Gestures
 When you choose this archetype at 3rd level, you learn the [[Mirage]] cantrip, and you can cast it freely as part of any object interaction, such as drawing a dagger or pocketing a piece of jewelry. It doesn't require your concentration, but it dispels after you finish the interaction.
+
+Additionally, you learn the [[Subterfuge]] cantrip, and
 
 # Trick of the Light
 Starting at 3rd level, while you are invisible, your movement doesn't provoke opportunity attacks.
