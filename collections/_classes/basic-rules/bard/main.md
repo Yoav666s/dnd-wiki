@@ -30,7 +30,7 @@ Whether scholar, skald, or scoundrel, a bard weaves magic through words and musi
 | 13th | +5 | [[Song of Rest]] (d10) | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 14th | +5 | [[Magical Secrets]], [[Bard College]] feature | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 15th | +5 | [[Bardic Inspiration]] (d12) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
-| 16th | +5 |||||||||||||
+| 16th | +5 | [[Ability Score Improvement]] | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
 
 # Class Features
 As a bard, you gain the following class features.
