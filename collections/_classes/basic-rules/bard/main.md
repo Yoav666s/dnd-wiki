@@ -13,7 +13,7 @@ Whether scholar, skald, or scoundrel, a bard weaves magic through words and musi
 
 # The Bard
 
-[Bard Chart]
+| Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 
 # Class Features
 As a bard, you gain the following class features.
