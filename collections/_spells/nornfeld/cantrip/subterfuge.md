@@ -7,7 +7,7 @@ tags:
   - Deception
   - Utility
 available_for:
-
+  - Bard
 level: "Cantrip"
 school: "Transmutation"
 range: "30 ft"
