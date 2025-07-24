@@ -1,8 +1,8 @@
 ---
 title: "Delusion"
 index:
-  - minor-delusion
-permalink: /spells/minor-delusion/
+  - delusion
+permalink: /spells/delusion/
 tags:
   - Spell
   - Deception
@@ -27,6 +27,6 @@ description: |
   When presented with contrary evidence, the target repeats the saving throw. On success, the delusion ends. A remove curse or greater restoration spell cast on the target also ends the delusion. Although, the target may not necessarily remember the source of it.
 excerpt: "You attempt to delude another creature."
 # header:
-#   overlay_image: /assets/images/minor-phantasm/header.png
-#   teaser: /assets/images/minor-phantasm/header.jpg
+#   overlay_image: /assets/images/delusion/header.png
+#   teaser: /assets/images/delusion/header.jpg
 ---
