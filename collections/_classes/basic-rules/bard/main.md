@@ -16,7 +16,7 @@ Whether scholar, skald, or scoundrel, a bard weaves magic through words and musi
 | Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | :--: | :--: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1st | +2 | [[Spellcasting]], [[Bardic Inspiration]] (d6) | 2 | 4 | 2 | - | - | - | - | - | - | - | - |
-| 2nd | +2 | [[Jack of All Trades]], [[Song of Rest]] (d6) | 2 | 5 ||||||||||
+| 2nd | +2 | [[Jack of All Trades]], [[Song of Rest]] (d6) | 2 | 5 | 3 | - | - | - | - | - | - | - | - |
 
 # Class Features
 As a bard, you gain the following class features.
