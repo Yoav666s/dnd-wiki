@@ -18,7 +18,8 @@ Whether scholar, skald, or scoundrel, a bard weaves magic through words and musi
 | 1st | +2 | [[Spellcasting]], [[Bardic Inspiration]] (d6) | 2 | 4 | 2 | - | - | - | - | - | - | - | - |
 | 2nd | +2 | [[Jack of All Trades]], [[Song of Rest]] (d6) | 2 | 5 | 3 | - | - | - | - | - | - | - | - |
 | 3rd | +2 | [[Brad College]], [[Expertise]] | 2 | 6 | 4 | 2 | - | - | - | - | - | - | - |
-| 4th | +2 | [[Ability Score Improvement]] | 3 | 7 |  |||||||||
+| 4th | +2 | [[Ability Score Improvement]] | 3 | 7 | 4 | 3 | - | - | - | - | - | - | - |
+| 5th | +3 |||||||||||||
 
 # Class Features
 As a bard, you gain the following class features.
