@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td>{% if spell.concentration %}{% include effect.html type="Concentration" %} {% endif %}{% if spell.duration %}{{ spell.duration }}{% else %}Instantaneous{% endif %}</td>
-      <td>{% if spell.ritual %}{% include effect.html type="Ritual" %} {% endif %}{% if spell.cast_time %}{{ spell.cast_time }}{% else %}1 Action{% endif %}</td>
+      <td>{% if spell.ritual %}{% include effect.html type="Ritual" %} {% endif %}{% if spell.cast_time %}{{ spell.cast_time }}{% if spell.reaction %}**{% endif %}{% else %}1 Action{% endif %}</td>
       <td>{% if spell.attack %}{% include range.html type=spell.attack %} {{ spell.attack }}{% else %}None{% endif %}</td>
       <td>{% if spell.effect %}{% include effect.html type=spell.effect %} {{ spell.effect }}{% else %}None{% endif %}</td>
     </tr>
