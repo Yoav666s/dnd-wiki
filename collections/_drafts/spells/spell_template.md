@@ -20,7 +20,8 @@ comp:
 material: "a small nugget of rabbit poop"
 duration: "Instantaneous"
 concentration: false
-cast_time: "1 Action"
+cast_time: "1 Reaction"
+reaction: "which you take when someone interrupts you when you're taking a dump"
 ritual: false
 attack: "WIS Save"
 effect: "Fire"
