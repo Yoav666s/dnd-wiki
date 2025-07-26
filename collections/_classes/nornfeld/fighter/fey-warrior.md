@@ -11,7 +11,7 @@ header:
 The Fey Warrior moves with an otherworldly grace, their presence flickering like moonlight through leaves. Infused with the magic of the Feywild, they are elusive and radiant, vanishing between heartbeats and reappearing where least expected. This archetype blends martial prowess with arcane flair, confusing enemies with dazzling illusions and swift, unpredictable movement. To face a Fey Warrior is to fight a reflection in water—never quite where you strike, and always a step beyond reach.
 
 # Dazzling Demonstration
-Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Thaumaturgy]] cantrips, and gain proficiency in [[Performance]] if you don't already have it.
+Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Subterfuge]] cantrips, and gain proficiency in [[Deception]] if you don't already have it.
 
 # Fey Teleportation
 Starting at 3rd level, you learn the [[Phase Strike]] cantrip and you can cast the [[Misty Step]] spell as a bonus action without expending a slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
