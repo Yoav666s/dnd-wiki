@@ -13,11 +13,11 @@ The Fey Warrior moves with an otherworldly grace, their presence flickering like
 # Dazzling Demonstration
 Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Subterfuge]] cantrips, and gain proficiency in [[Deception]] if you don't already have it.
 
-# Fey Teleportation
-Starting at 3rd level, you can cast the [[Misty Step]] spell as a bonus action without expending a slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
-
 # Frisk
-At 7th level, once per turn, you can use up to 10 feet of your movement to teleport up to 10 feet to an unoccupied space you can see. You cannot use this feature while standing within 5 feet of a hostile creature unless you take the [[disengage]] action.
+Starting at 3rd level, once per turn, you can use up to 10 feet of your movement to teleport up to 10 feet to an unoccupied space you can see. You cannot use this feature while standing within 5 feet of a hostile creature unless you take the [[disengage]] action.
+
+# Fey Teleportation
+Starting at 7th level, you can cast the [[Misty Step]] spell as a bonus action without expending a slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 
 # Disappearing Act
 Starting at 10th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
