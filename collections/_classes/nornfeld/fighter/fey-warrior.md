@@ -17,7 +17,7 @@ Beginning when you choose this archetype at 3rd level, you learn the [[Dancing L
 Starting at 3rd level, once per turn, you can use up to 10 feet of your movement to teleport up to 10 feet to an unoccupied space you can see. You cannot use this feature while standing within 5 feet of a hostile creature unless you take the [[disengage]] action.
 
 # Fey Teleportation
-Starting at 7th level, you can cast the [[Misty Step]] spell as a bonus action without expending a slot. You can do so three times, and you regain all expended uses when you finish a short or long rest.
+Starting at 7th level, you can cast the [[Misty Step]] spell as a bonus action without expending a slot. You can do so twice, and you regain all expended uses when you finish a short or long rest.
 
 # Disappearing Act
 Starting at 10th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
