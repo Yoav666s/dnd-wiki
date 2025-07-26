@@ -16,12 +16,8 @@ Beginning when you choose this archetype at 3rd level, you learn the [[Dancing L
 # Fey Teleportation
 Starting at 3rd level, you can cast the [[Misty Step]] spell as a bonus action without expending a slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 
-# Residual Image
-At 7th level, whenever you teleport, you may leave behind an illusory duplicate of yourself. It lasts for 1 minute. For the duration, you can use your bonus action to teleport the duplicate to an unoccupied space within 30 feet of you.
-
-When both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target. A creature can use its action to examine the image, and determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, you no longer gain advantage on attacks against it.
-
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
+# Frisk
+At 7th level, once per turn, you can use up to 10 feet of your movement to teleport up to 10 feet to an unoccupied space you can see. You cannot use this feature while standing within 5 feet of a hostile creature unless you take the [[disengage]] action.
 
 # Disappearing Act
 Starting at 10th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
