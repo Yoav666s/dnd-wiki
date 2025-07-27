@@ -23,7 +23,7 @@ How much your character is willing to go out of their way to help someone.
 | 2 | **Kind.** Would go to great lengths in order to help someone in need. |
 | 1 | **Neighborly.** Happy to help as long as it doesn't come at their own expense. |
 | 0 | **Collaborative.** Willing help, but won't go out of their way to do so. |
-| -1 | **Selfish.** Won't do anything for anyone without asking for payment. |
+| -1 | **Selfish.** Won't do anything for anyone without asking for something in return. |
 | -2 | **Uncaring.** Holds no regard for other people's needs. |
 | -3 | **Manipulative.** Regularly takes advantage of others. |
 
@@ -38,7 +38,7 @@ Your character's ability to stand up to opposing forces and take risks.
 | 0 | **Sensible.** Doesn't overestimate themselves but doesn't cower in the face of danger. |
 | -1 | **Timid.** If the odds are against them, not likely to risk it. |
 | -2 | **Cowardly.** Would do anything to avoid dangerous situations. |
-| -3 | **Fearful.** Cannot go adventuring without protection. |
+| -3 | **Fearful.** Too scared to go adventuring without protection. |
 
 ## Sociability
 Your character's receptiveness to other people's feelings and perceptiveness to social queues.
@@ -46,7 +46,7 @@ Your character's receptiveness to other people's feelings and perceptiveness to 
 | Value | Description |
 | :---: | :---------- |
 | 3 | **Gullible.** Susceptible to manipulation and averse to conflict. |
-| 2 | **Empathetic.** Cares about other people. |
+| 2 | **Empathetic.** Understands and cares about other people. |
 | 1 | **Friendly.** Has good social skills and likes to make friends. |
 | 0 | **Approachable.** Can hold a conversation and negotiate effectively. |
 | -1 | **Reserved.** Doesn't open up very often. |
