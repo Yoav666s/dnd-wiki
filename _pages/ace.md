@@ -88,7 +88,7 @@ Determine your traits by using one of the following methods.
 **Standard Array.** Choose one standard array from the following:
 
 | Standard Array ||||||
-| :--: | :--: | :--: | :--: | :--: | :--: |
+| :--- | :--: | :--: | :--: | :--: | :--: |
 | Default |  2  |  1  |  1  |  0   |  -1  |
 | Tainted |  1  |  0   |  -1  |  -1  |  -2  |
 | Fervid | 3 | 1 | 0 | 0 | -1 |
