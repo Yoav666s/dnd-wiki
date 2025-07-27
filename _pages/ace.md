@@ -51,7 +51,7 @@ Your character's receptiveness to other people's feelings and perceptiveness to 
 | 0 | **Approachable.** Can hold a conversation and negotiate effectively. |
 | -1 | **Reserved.** Doesn't open up very often. |
 | -2 | **Unsocial.** Closed off and doesn't mind offending others. |
-| -3 | **Psychopathic.** Has no regard for the pain and suffering they cause. |
+| -3 | **Cold.** Has no regard for the pain and suffering they cause. |
 
 ## Morality
 How much your character adheres to the law or other moral codes.
@@ -64,7 +64,7 @@ How much your character adheres to the law or other moral codes.
 | 0 | **Adequate.** Abides by the law when it's convenient, but may break it under justifiable circumstances. |
 | -1 | **Negligent.** Easily tempted by bribes and may commit minor crimes. |
 | -2 | **Miscreant.** Shady, unreliable, cheats, steals, lies, and deceives. |
-| -3 | **Sociopathic.** Has no conscience and no sense of right and wrong. |
+| -3 | **Remorseless.** Has no conscience and no sense of right and wrong. |
 
 ## Entropy
 How orderly or chaotic your character tends to be.
