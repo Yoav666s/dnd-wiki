@@ -129,3 +129,4 @@ If you're using the standard array option, you may consult the Background Archet
 | Merchant | -1 | 0 | 2 | 1 | 1 |
 | Noble | -3 | 0 | 1 | -1 | 0 |
 | Sage | -1 | 1 | 0 | 0 | 3 |
+| Sailor | 1 | 2 | 1 | 0 | -1 |
