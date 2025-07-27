@@ -98,3 +98,5 @@ Determine your traits by using one of the following methods.
 
 ## Assign Trait Values
 Once you've generated five traits, assign them to Altruism, Courage, Sociability, Morality, and Entropy. Keep in mind your class and ability scores.
+
+If you're using the standard array option, you may consult the Standard Array by Classic Alignment table for suggestions on where to assign values for each trait.
