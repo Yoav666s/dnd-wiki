@@ -45,7 +45,7 @@ Your character's receptiveness to other people's feelings and perceptiveness to 
 
 | Value | Description |
 | :---: | :---------- |
-| 3 | **Compassionate.** Susceptible to manipulation and averse to conflict. |
+| 3 | **Gullible.** Susceptible to manipulation and averse to conflict. |
 | 2 | **Empathetic.** Cares about other people. |
 | 1 | **Friendly.** Has good social skills and likes to make friends. |
 | 0 | **Approachable.** Can hold a conversation and negotiate effectively. |
