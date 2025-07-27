@@ -117,11 +117,11 @@ If you're using the standard array option, you may consult the Background Archet
 
 | Background | Altruism | Courage | Sociability | Morality | Entropy |
 | :--- | :--: | :--: | :--: | :--: | :--: |
-| Acolyte | 2 | 1 | 0 | 1 | -1 |
+| Acolyte | 2 | 1 | -1 | 1 | 0 |
 | Artisan | 1 | 0 | -1 | 1 | 2 |
 | Charlatan | -1 | 0 | 1 | -2 | -1 |
 | Criminal | -1 | 1 | -1 | -2 | 0 |
 | Entertainer | 1 | 1 | 2 | 0 | -1 |
 | Farmer | 1 | -1 | 2 | 1 | 0 |
 | Guard | 0 | 1 | -1 | 1 | 2 |
-|  ||||||
+| Guide | 2 | 1 | 0 | 1 | -1 |
