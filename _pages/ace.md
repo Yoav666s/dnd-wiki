@@ -131,3 +131,5 @@ If you're using the standard array option, you may consult the Background Archet
 | Sage | -1 | 1 | 0 | 1 | 2 |
 | Sailor | 1 | 2 | 1 | 0 | -1 |
 | Scribe | -1 | 0 | 0 | 1 | 3 |
+| Soldier | 0 | 1 | -1 | 1 | 2 |
+| Wayfarer | 1 | -1 | 0 | -2 | -1 |
