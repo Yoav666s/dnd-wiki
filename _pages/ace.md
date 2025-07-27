@@ -115,9 +115,10 @@ Once you've generated five traits, assign them to Altruism, Courage, Sociability
 
 If you're using the standard array option, you may consult the Background Archetype Table (or BAT).
 
-| Alignment | Altruism | Courage | Sociability | Morality | Entropy |
+| Background | Altruism | Courage | Sociability | Morality | Entropy |
 | :--- | :--: | :--: | :--: | :--: | :--: |
 | Acolyte | 2 | 1 | 0 | 1 | -1 |
+| Artisan | 1 | 0 | -1 | 1 | 2 |
 | Charlatan | -1 | 0 | 1 | -2 | -1 |
 | Criminal | -1 | 1 | -1 | -2 | 0 |
 | Farmer | 1 | -1 | 2 | 1 | 0 |
