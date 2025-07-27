@@ -128,5 +128,6 @@ If you're using the standard array option, you may consult the Background Archet
 | Hermit | -1 | 1 | -2 | 0 | -1 |
 | Merchant | -1 | 0 | 2 | 1 | 1 |
 | Noble | -3 | 0 | 1 | -1 | 0 |
-| Sage | -1 | 1 | 0 | 0 | 3 |
+| Sage | -1 | 1 | 0 | 1 | 2 |
 | Sailor | 1 | 2 | 1 | 0 | -1 |
+| Scribe | -1 | 0 | 0 | 1 | 3 |
