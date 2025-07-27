@@ -51,7 +51,7 @@ Your character's receptiveness to other people's feelings and perceptiveness to 
 | 0 | **Approachable.** Can hold a conversation and negotiate effectively. |
 | -1 | **Reserved.** Doesn't open up very often. |
 | -2 | **Unsocial.** Closed off and doesn't mind offending others. |
-| -3 | **Cold.** Has no regard for the pain and suffering they cause. |
+| -3 | **Cold-hearted.** Has no regard for the pain and suffering they cause. |
 
 ## Morality
 How much your character adheres to the law or other moral codes.
