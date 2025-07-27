@@ -125,3 +125,4 @@ If you're using the standard array option, you may consult the Background Archet
 | Farmer | 1 | -1 | 2 | 1 | 0 |
 | Guard | 0 | 1 | -1 | 1 | 2 |
 | Guide | 2 | 1 | 0 | 1 | -1 |
+| Hermit | -1 | 1 | -2 | 0 | -1 |
