@@ -98,7 +98,7 @@ Determine your traits by using one of the following methods.
 
 **Classic Alignment Chart Conversion.** Consult the conversion table:
 
-| Alignment | Altruism | Courage | Sociability | Morality | Entropy |
+| Alignment | ALT | COU | SOC | MOR | ENT |
 | :--- | :--: | :--: | :--: | :--: | :--: |
 | Lawful Good | 2 | 0 | -1 | 1 | 1 |
 | Neutral Good | 2 | 0 | 1 | 1 | 0 |
@@ -115,7 +115,7 @@ Once you've generated five traits, assign them to Altruism, Courage, Sociability
 
 If you're using the standard array option, you may consult the Background Archetype Table (or BAT).
 
-| Background | Altruism | Courage | Sociability | Morality | Entropy |
+| Background | ALT | COU | SOC | MOR | ENT |
 | :--- | :--: | :--: | :--: | :--: | :--: |
 | Acolyte | 2 | 1 | -1 | 1 | 0 |
 | Artisan | 1 | 0 | -1 | 1 | 2 |
