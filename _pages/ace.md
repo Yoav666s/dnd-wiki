@@ -105,7 +105,7 @@ Determine your traits by using one of the following methods.
 | Chaotic Good | 2 | 1 | 0 | 1 | -2 |
 | Lawful Neutral | 0 | 1 | -1 | 1 | 2 |
 | True Neutral | 0 | 2 | 1 | 0 | 0 |
-|||||||
+| Chaotic Neutral | 0 | 1 | 0 | -1 | -2 |
 
 ## Assign Trait Values
 Once you've generated five traits, assign them to Altruism, Courage, Sociability, Morality, and Entropy. Keep in mind your class and ability scores.
