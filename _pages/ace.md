@@ -103,4 +103,6 @@ If you're using the standard array option, you may consult the Standard Array by
 
 | Alignment | Altruism | Courage | Sociability | Morality | Entropy |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Lawful Good | 2 | 0 | -1 | 1 | 1 |
+| Neutral Good | 2 | 0 | 1 | 1 | -1 |
 |||||||
