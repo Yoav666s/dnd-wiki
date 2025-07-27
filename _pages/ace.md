@@ -117,7 +117,8 @@ If you're using the standard array option, you may consult the Background Archet
 
 | Alignment | Altruism | Courage | Sociability | Morality | Entropy |
 | :--- | :--: | :--: | :--: | :--: | :--: |
+| Acolyte | 2 | 1 | 0 | 1 | -1 |
+| Criminal | -1 | 1 | -1 | -2 | 0 |
 | Farmer | 1 | -1 | 2 | 1 | 0 |
 | Soldier | 0 | 1 | -1 | 1 | 2 |
-| Criminal | -1 | 1 | -1 | -2 | 0 |
 |  ||||||
