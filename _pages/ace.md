@@ -25,7 +25,7 @@ How much your character is willing to go out of their way to help someone.
 | 0 | **Collaborative.** Willing help, but won't go out of their way to do so. |
 | -1 | **Selfish.** Won't do anything for anyone without asking for payment. |
 | -2 | **Uncaring.** Holds no regard for other people's needs. |
-| -3 | **Narcissistic.** Regularly takes advantage of others. |
+| -3 | **Manipulative.** Regularly takes advantage of others. |
 
 ## Courage
 Your character's ability to stand up to opposing forces and take risks.
@@ -38,7 +38,7 @@ Your character's ability to stand up to opposing forces and take risks.
 | 0 | **Sensible.** Doesn't overestimate themselves but doesn't cower in the face of danger. |
 | -1 | **Timid.** If the odds are against them, not likely to risk it. |
 | -2 | **Cowardly.** Would do anything to avoid dangerous situations. |
-| -3 | **Anxious.** Cannot go adventuring without protection. |
+| -3 | **Fearful.** Cannot go adventuring without protection. |
 
 ## Sociability
 Your character's receptiveness to other people's feelings and perceptiveness to social queues.
