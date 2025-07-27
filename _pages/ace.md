@@ -121,6 +121,7 @@ If you're using the standard array option, you may consult the Background Archet
 | Artisan | 1 | 0 | -1 | 1 | 2 |
 | Charlatan | -1 | 0 | 1 | -2 | -1 |
 | Criminal | -1 | 1 | -1 | -2 | 0 |
+| Entertainer | 1 | 1 | 2 | 0 | -1 |
 | Farmer | 1 | -1 | 2 | 1 | 0 |
 | Soldier | 0 | 1 | -1 | 1 | 2 |
 |  ||||||
