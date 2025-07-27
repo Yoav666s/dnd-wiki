@@ -12,7 +12,7 @@ The alignment chart is fairly limited. Why can't a character be Chaotic but stil
 This is where the Alignment Chart Expansion comes into play. Designed to represent the full spectrum of personality traits, it covers every basic roleplaying aspect you need to know about a character. Each trait value ranges from -3 to 3.
 
 # The Five Traits
-Each trait represents an independent roleplaying aspect of the game. The following charts contain guideline descriptions for each unique value.
+Altruism, Courage, Sociability, Morality, and Entropy. Each trait represents an independent roleplaying aspect of the game. The following charts contain guideline descriptions for each unique value. The traits follow a bell curve: -3/3 are edge cases, -2/2 resemble uncommon personality traits, and -1/1 are within normal deviation, while 0 is the average.
 
 ## Altruism
 How much your character is willing to go out of their way to help someone.
