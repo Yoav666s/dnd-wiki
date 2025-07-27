@@ -99,7 +99,7 @@ Determine your traits by using one of the following methods.
 **Classic Alignment Chart Conversion.** Consult the conversion table:
 
 | Alignment | Altruism | Courage | Sociability | Morality | Entropy |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--: | :--: | :--: | :--: | :--: |
 | Lawful Good | 2 | 0 | -1 | 1 | 1 |
 | Neutral Good | 2 | 0 | 1 | 1 | 0 |
 | Chaotic Good | 2 | 1 | 0 | 1 | -2 |
