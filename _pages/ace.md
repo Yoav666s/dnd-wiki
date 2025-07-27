@@ -119,3 +119,4 @@ If you're using the standard array option, you may consult the Basic Archetype T
 | :--- | :--: | :--: | :--: | :--: | :--: |
 | Citizen | 1 | -1 | 2 | 1 | 0 |
 | Guard | 0 | 1 | -1 | 1 | 2 |
+| Outlaw | -1 | 1 | -1 | -2 | 0 |
