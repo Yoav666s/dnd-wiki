@@ -96,13 +96,13 @@ Determine your traits by using one of the following methods.
 
 **Random Generation.** Roll two d4s and subtract the second value from the first. Do this four more times, so you have five numbers.
 
-## Assign Trait Values
-Once you've generated five traits, assign them to Altruism, Courage, Sociability, Morality, and Entropy. Keep in mind your class and ability scores.
-
-If you're using the standard array option, you may consult the Standard Array by Classic Alignment table for suggestions on where to assign values for each trait.
+**Classic Alignment Chart Conversion.** Consult the conversion table:
 
 | Alignment | Altruism | Courage | Sociability | Morality | Entropy |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Lawful Good | 2 | 0 | -1 | 1 | 1 |
 | Neutral Good | 2 | 0 | 1 | 1 | -1 |
-|||||||
+| Chaotic Good | 1 | -1 ||||
+
+## Assign Trait Values
+Once you've generated five traits, assign them to Altruism, Courage, Sociability, Morality, and Entropy. Keep in mind your class and ability scores.
