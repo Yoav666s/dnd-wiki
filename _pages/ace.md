@@ -89,8 +89,10 @@ Determine your traits by using one of the following methods.
 
 | Standard Array ||||||
 | :--: | :--: | :--: | :--: | :--: | :--: |
-||  2  |  1  |  1  |  0   |  -1  |
-||  1  |  0   |  -1  |  -1  |  -2  |
+| Default |  2  |  1  |  1  |  0   |  -1  |
+| Tainted |  1  |  0   |  -1  |  -1  |  -2  |
+| Fervid | 3 | 1 | 0 | 0 | -1 |
+| Precarious | 1 | 0 | 0 | -1 | -3 |
 
 **Random Generation.** Roll two d4s and subtract the second value from the first. Do this four more times, so you have five numbers.
 
