@@ -113,10 +113,9 @@ Determine your traits by using one of the following methods.
 ## Assign Trait Values
 Once you've generated five traits, assign them to Altruism, Courage, Sociability, Morality, and Entropy. Keep in mind your class and ability scores.
 
-If you're using the standard array option, you may consult the Archetype table.
+If you're using the standard array option, you may consult the Basic Archetype Table (or BAT).
 
 | Alignment | Altruism | Courage | Sociability | Morality | Entropy |
 | :--- | :--: | :--: | :--: | :--: | :--: |
 | Citizen | 1 | -1 | 2 | 1 | 0 |
 | Guard | 0 | 1 | -1 | 1 | 2 |
-|||||||
