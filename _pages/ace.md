@@ -9,7 +9,7 @@ toc_sticky: true
 ---
 The alignment chart is fairly limited. Why can't a character be Chaotic but still abide by law? Why limit roleplaying to Good, Neutral, and Evil? How do you cover moral grey areas?
 
-This is where the Alignment Chart Expansion comes into play. Designed to represent the full spectrum of personality traits, it covers every basic roleplaying aspect you need to know about a character. This isn't just a guide for roleplaying, but a tool for creating lively and convincing NPCs, as well.
+This is where the Alignment Chart Expansion comes into play. Designed to represent the full spectrum of personality traits, it covers every basic roleplaying aspect you need to know about a character. This isn't just a guide to enhance roleplaying, but a tool for creating lively and convincing NPCs, as well.
 
 # The Five Traits
 Altruism, Courage, Sociability, Morality, and Entropy. Each trait represents an independent roleplaying aspect of the game with a value that ranges from -3 to 3. The following charts contain guideline descriptions for each unique value. The traits follow a bell curve: -3/3 are edge cases, -2/2 resemble uncommon personality traits, and -1/1 are within normal deviation, while 0 is the average.
