@@ -8,13 +8,13 @@ header:
   overlay_image: /assets/images/classes/fighter/fey-warrior/header.png
   teaser: /assets/images/classes/fighter/fey-warrior/header.jpg
 ---
-The Fey Warrior moves with an otherworldly grace, their presence flickering like moonlight through leaves. Infused with the magic of the Feywild, they are elusive and radiant, vanishing between heartbeats and reappearing where least expected. This archetype blends martial prowess with arcane flair, confusing enemies with dazzling illusions and swift, unpredictable movement. To face a Fey Warrior is to fight a reflection in water—never quite where you strike, and always a step beyond reach.
+Where others rely on brute force or rigid discipline, the Fey Warrior confounds and dazzles. With a flash of light or a flourish of motion, they become elusive targets and masters of deception. Their presence on the battlefield is as unsettling as it is graceful, never where the enemy expects, never still, and never within reach.
 
 # Dazzling Demonstration
 Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Subterfuge]] cantrips, and gain proficiency in [[Deception]] if you don't already have it.
 
 # Skittery Skip 
-Starting at 3rd level, once per turn, you can use up to 10 feet of your movement to teleport up to 10 feet to an unoccupied space you can see. You cannot use this feature while standing within 5 feet of a hostile creature unless you take the [[disengage]] action.
+Starting at 3rd level, once per turn, you can use up to 10 feet of your movement to teleport up to 10 feet to an unoccupied space you can see. You cannot use this feature while standing within 5 feet of a hostile creature unless you have taken the [[disengage]] action.
 
 # Fey Step
 Starting at 7th level, you can cast the [[Misty Step]] spell as a bonus action without expending a slot. You can do so twice, and you regain all expended uses when you finish a short or long rest.
