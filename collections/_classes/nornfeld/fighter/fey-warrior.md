@@ -23,9 +23,7 @@ Starting at 7th level, you can cast the [[Misty Step]] spell as a bonus action w
 Starting at 10th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
 
 # Flicker
-At 15th level, when a creature you can see hits you with a melee attack and before damage is rolled, you may use your reaction to teleport to an unoccupied space you can see within 5 feet of the attacker. If you do, the attack misses instead.
-
-You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses after you finish a long rest.
+At 15th level, immediately after you make an attack, you can use up to 10 feet of your movement to teleport up to 10 feet to an unoccupied space you can see.
 
 # Fey Invisibility
 Starting at 18th level, you learn the [[Greater Invisibility]] spell and you can cast it on yourself without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
