@@ -23,7 +23,7 @@ Starting at 7th level, you can cast the [[Misty Step]] spell as a bonus action w
 Starting at 10th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
 
 # 
-At 15th level, you learn the [[Magic Weapon]] spell and you can cast it without expending a spell slot. You can do so twice, and you regain all expended uses when you finish a short or long rest.
+At 15th level,
 
 # Fey Invisibility
 Starting at 18th level, you learn the [[Greater Invisibility]] spell and you can cast it on yourself without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
