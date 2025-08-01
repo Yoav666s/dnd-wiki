@@ -24,5 +24,8 @@ Feylings vary widely in height and build, from barely 3 feet to well over 5 feet
 ## Speed
 Your base walking speed is 30 feet.
 
+## Darkvision
+You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
 ## Languages
 You can speak, read, and write Common and Sylvan.
