@@ -20,10 +20,10 @@ material: "a small nugget of rabbit poop"
 duration: "Instantaneous"
 concentration: false
 cast_time: "1 Reaction"
-reaction: "which you take when someone interrupts you when you're taking a dump"
+reaction: "which you take when you're targeted by a melee attack"
 ritual: false
-attack: "WIS Save"
-effect: "Fire"
+attack: "STR Save"
+effect: "Bludgeoning"
 description: |
   You unleash a burst of forceful wind against a creature that targets you with a melee attack. The creature must make a Strength saving throw. It takes 2d6 bludgeoning damage on a failed save and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed away.
 
