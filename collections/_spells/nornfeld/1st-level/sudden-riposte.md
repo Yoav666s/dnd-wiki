@@ -16,7 +16,7 @@ comp:
   - V
   - S
   - M
-material: "a small nugget of rabbit poop"
+material: "a legume seed"
 duration: "Instantaneous"
 concentration: false
 cast_time: "1 Reaction"
