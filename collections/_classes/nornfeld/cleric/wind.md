@@ -17,7 +17,7 @@ The Wind domain focuses on the ever-changing nature of wind, drawing power from 
 
 | Cleric Level | Spells                              |
 | :----------: | :---------------------------------- |
-| 1st | [[Longstrider]], [[Expeditious Retreat]]             |
+| 1st | [[Expeditious Retreat]], [[Sudden Riposte]]             |
 | 3rd | [[Gust of Wind]], [[Levitate]] |
 | 5th |	[[Fly]], [[Wind Wall]]             |
 | 7th | [[Divination]], [[Freedom of Movement]]        |
