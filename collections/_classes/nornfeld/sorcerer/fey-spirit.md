@@ -54,4 +54,4 @@ Beginning at 6th level, you can expend 2 sorcery points to become invisible imme
 Starting at 14th level, whenever you cast an Enchantment spell that requires one or more targets to make a saving throw, you can expend 1 sorcery point per target to impose disadvantage on its saving throw.
 
 # Element of Surprise
-Starting at 18th level, whenever you end the invisibile condition early by casting a spell that deals damage, you can spend up to 3 sorcery points to reroll up to 3 damage dice and add the result to the total damage dealt.
+Starting at 18th level, whenever you end the invisibile condition early by casting a spell, you can expend 1 sorcery point to resume invisibility for the rest of the duration.
