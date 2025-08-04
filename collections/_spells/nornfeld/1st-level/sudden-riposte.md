@@ -29,7 +29,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 excerpt: "You unleash a burst of forceful wind against a creature that targets you with a melee attack."
-source: "Basic Rules"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
