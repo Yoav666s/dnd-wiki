@@ -9,11 +9,9 @@ available_for:
   - Druid
   - Sorcerer
   - Wizard
-level: "Cantrip"
+level: "1st Level"
 school: "Transmutation"
-range: "30 ft"
-area: "5 ft"
-shape: "Cube"
+range: "10 ft"
 comp:
   - V
   - S
