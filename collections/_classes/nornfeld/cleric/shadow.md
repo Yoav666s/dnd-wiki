@@ -17,7 +17,7 @@ The Shadow Domain draws upon the divine aspects of concealment, illusion, and th
 
 | Cleric Level | Spells                              |
 | :----------: | :---------------------------------- |
-| 1st | [[Hide in Shadows]], [[Fog Cloud]]                   |
+| 1st | [[Bane]], [[Fog Cloud]]                   |
 | 3rd | [[Invisibility]], [[Pass Without Trace]] |
 | 5th |	[[Nondetection]], [[Fear]]             |
 | 7th | [[Greater Invisibility]], [[Dimension Door]]        |
