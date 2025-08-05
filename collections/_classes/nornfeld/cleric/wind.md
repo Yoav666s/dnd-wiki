@@ -17,11 +17,11 @@ The Wind domain focuses on the ever-changing nature of wind, drawing power from 
 
 | Cleric Level | Spells                              |
 | :----------: | :---------------------------------- |
-| 1st | [[Expeditious Retreat]], [[Sudden Riposte]]             |
-| 3rd | [[Gust of Wind]], [[Levitate]] |
-| 5th |	[[Fly]], [[Wind Wall]]             |
-| 7th | [[Divination]], [[Freedom of Movement]]        |
-| 9th | [[Mass Cure Wounds]], [[Telekinesis]]         |
+| 1st | [[!Expeditious Retreat]], [[!Sudden Riposte]]             |
+| 3rd | [[!Gust of Wind]], [[!Levitate]] |
+| 5th |	[[!Fly]], [[!Wind Wall]]             |
+| 7th | [[!Divination]], [[!Freedom of Movement]]        |
+| 9th | [[!Mass Cure Wounds]], [[!Telekinesis]]         |
 
 # Quick Feet
 When you choose this domain at 1st level, your walking speed is increased by 10 ft.
