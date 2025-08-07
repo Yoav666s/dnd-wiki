@@ -32,9 +32,9 @@ traits: |
   **Keen Hearing and Smell.** The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 actions: |
   **Multiattack.** In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
-
+  
   **Scimitar.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
-
+  
   **Longbow.** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.  
 legendary_actions: |
   

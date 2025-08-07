@@ -32,9 +32,9 @@ traits: |
   **Pack Tactics.** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 actions: |
   **Multiattack.** The vulture makes two attacks: one with its beak and one with its talons.
-
+  
   **Beak.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.
-
+  
   **Talons.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.  
 legendary_actions: |
   

@@ -32,9 +32,9 @@ traits: |
   **Stench.** Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
 actions: |
   **Multiattack.** The hezrou makes three attacks: one with its bite and two with its claws.
-
+  
   **Bite.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
-
+  
   **Claws.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.  
 legendary_actions: |
   

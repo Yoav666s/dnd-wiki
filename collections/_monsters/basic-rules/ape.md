@@ -30,9 +30,9 @@ traits: |
   
 actions: |
   **Multiattack.** The ape makes two fist attacks.
-
+  
   **Fist.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
-
+  
   **Rock.** Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.  
 legendary_actions: |
   

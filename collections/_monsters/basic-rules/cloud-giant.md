@@ -36,9 +36,9 @@ At will: detect magic, fog cloud, light
 1/day each: control weather, gaseous form
 actions: |
   **Multiattack.** The giant makes two morningstar attacks.
-
+  
   **Morningstar.** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) piercing damage.
-
+  
   **Rock.** Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage.  
 legendary_actions: |
   

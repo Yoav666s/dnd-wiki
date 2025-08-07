@@ -36,7 +36,7 @@ Cantrips (at will): light, sacred flame, thaumaturgy
 - 2nd level (3 slots): hold person, spiritual weapon
 actions: |
   **Multiattack.** The fanatic makes two melee attacks.
-
+  
   **Dagger.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.  
 legendary_actions: |
   

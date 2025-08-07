@@ -30,7 +30,7 @@ traits: |
   **Aggressive.** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 actions: |
   **Greataxe.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.
-
+  
   **Javelin.** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.  
 legendary_actions: |
   

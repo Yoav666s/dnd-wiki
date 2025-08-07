@@ -39,9 +39,9 @@ At will: detect evil and good, invisibility (self only)
   **Magic Resistance.** The planetar has advantage on saving throws against spells and other magical effects.
 actions: |
   **Multiattack.** The planetar makes two melee attacks.
-
+  
   **Greatsword.** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
-
+  
   **Healing Touch.** The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.  
 legendary_actions: |
   

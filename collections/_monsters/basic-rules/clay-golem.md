@@ -38,9 +38,9 @@ traits: |
   **Magic Weapons.** The golem's weapon attacks are magical.
 actions: |
   **Multiattack.** The golem makes two slam attacks.
-
+  
   **Slam.** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the greater restoration spell or other magic.
-
+  
   **Haste (Recharge 5-6).** Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.  
 legendary_actions: |
   

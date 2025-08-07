@@ -49,9 +49,9 @@ actions: |
     
 legendary_actions: |
   **Move.** The vampire moves up to its speed without provoking opportunity attacks.
-
+  
   **Unarmed Strike.** The vampire makes one unarmed strike.
-
+  
   **Bite (Costs 2 Actions).** The vampire makes one bite attack.
 description: ""
 excerpt: "Medium Undead, Lawful Evil"

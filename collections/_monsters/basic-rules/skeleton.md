@@ -30,7 +30,7 @@ traits: |
   
 actions: |
   **Shortsword.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-
+  
   **Shortbow.** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  
 legendary_actions: |
   

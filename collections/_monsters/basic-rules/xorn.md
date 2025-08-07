@@ -34,9 +34,9 @@ traits: |
   **Treasure Sense.** The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 ft. of it.
 actions: |
   **Multiattack.** The xorn makes three claw attacks and one bite attack.
-
+  
   **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) piercing damage.
-
+  
   **Claw.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.  
 legendary_actions: |
   

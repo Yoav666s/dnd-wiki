@@ -36,7 +36,7 @@ traits: |
   **Grappler.** The mimic has advantage on attack rolls against any creature grappled by it.
 actions: |
   **Pseudopod.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.
-
+  
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.  
 legendary_actions: |
   

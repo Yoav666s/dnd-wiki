@@ -32,9 +32,9 @@ traits: |
   **Magic Resistance.** The devil has advantage on saving throws against spells and other magical effects.
 actions: |
   **Multiattack.** The devil makes three attacks: two with its claws and one with its sting.
-
+  
   **Claw.** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
-
+  
   **Sting.** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 legendary_actions: |
   

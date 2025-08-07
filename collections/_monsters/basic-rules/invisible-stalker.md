@@ -32,7 +32,7 @@ traits: |
   **Faultless Tracker.** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
 actions: |
   **Multiattack.** The stalker makes two slam attacks.
-
+  
   **Slam.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.  
 legendary_actions: |
   

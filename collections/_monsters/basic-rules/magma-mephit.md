@@ -34,7 +34,7 @@ traits: |
   **Innate Spellcasting.** The mephit can innately cast heat metal (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
 actions: |
   **Claws.** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
-
+  
   **Fire Breath (Recharge 6-6).** The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.  
 legendary_actions: |
   

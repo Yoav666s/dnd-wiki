@@ -32,9 +32,9 @@ traits: |
   **Keen Smell.** The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 actions: |
   **Multiattack.** The wererat makes two attacks, only one of which can be a bite.
-
+  
   **Shortsword.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-
+  
   **Hand Crossbow.** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  
 legendary_actions: |
   

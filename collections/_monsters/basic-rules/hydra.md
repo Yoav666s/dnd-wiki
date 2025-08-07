@@ -38,7 +38,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
   **Wakeful.** While the hydra sleeps, at least one of its heads is awake.
 actions: |
   **Multiattack.** The hydra makes as many bite attacks as it has heads.
-
+  
   **Bite.** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.  
 legendary_actions: |
   

@@ -34,7 +34,7 @@ traits: |
   **Snow Camouflage.** The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 actions: |
   **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
-
+  
   **Cold Breath (Recharge 5-6).** The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.  
 legendary_actions: |
   

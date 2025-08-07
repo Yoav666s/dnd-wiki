@@ -40,11 +40,11 @@ At will: dancing lights
   **Web Walker.** The drider ignores movement restrictions caused by webbing.
 actions: |
   **Multiattack.** The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
-
+  
   **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage.
-
+  
   **Longsword.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
-
+  
   **Longbow.** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.  
 legendary_actions: |
   

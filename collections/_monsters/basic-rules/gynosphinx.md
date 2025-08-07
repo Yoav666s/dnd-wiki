@@ -41,13 +41,13 @@ traits: |
 - 5th level (1 slot): legend lore
 actions: |
   **Multiattack.** The sphinx makes two claw attacks.
-
+  
   **Claw.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.  
 legendary_actions: |
   **Claw Attack.** The sphinx makes one claw attack.
-
+  
   **Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
-
+  
   **Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 description: ""
 excerpt: "Large Monstrosity, Lawful Neutral"

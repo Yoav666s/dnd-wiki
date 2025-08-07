@@ -30,7 +30,7 @@ traits: |
   **False Appearance.** While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
 actions: |
   **Multiattack.** The fungus makes 1d4 Rotting Touch attacks.
-
+  
   **Rotting Touch.** Melee Weapon Attack: +2 to hit, reach 10 ft., one creature. Hit: 4 (1d8) necrotic damage.  
 legendary_actions: |
   
