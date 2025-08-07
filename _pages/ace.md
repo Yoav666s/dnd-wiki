@@ -2,7 +2,6 @@
 layout: single
 title: "ACE: Alignment Chart Expansion"
 permalink: /ace/
-classes: wide
 toc: true
 toc_label: "Contents"
 toc_sticky: true
