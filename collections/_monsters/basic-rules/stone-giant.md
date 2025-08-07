@@ -9,12 +9,12 @@ alignment: "Neutral"
 armor_class: "17 (Natural)"
 hit_points: "126 (11d12+55)"
 speed: "walk 40 ft."
-str_mod: 23
-dex_mod: 15
-con_mod: 20
-int_mod: 10
-wis_mod: 12
-cha_mod: 9
+str_score: 23
+dex_score: 15
+con_score: 20
+int_score: 10
+wis_score: 12
+cha_score: 9
 saving_throws: "DEX +5, CON +8, WIS +4"
 skills: "Athletics +12, Perception +4"
 damage_vulnerabilities: ""
@@ -30,12 +30,11 @@ traits: |
   **Stone Camouflage.** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 actions: |
   **Multiattack.** The giant makes two greatclub attacks.
-  
-  **Greatclub.** Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
-  
-  **Rock.** Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.  
+    
+    **Greatclub.** Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
+    
+    **Rock.** Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.  
 legendary_actions: ""
-description: ""
 excerpt: "Huge Giant, Neutral"
 source: "Basic Rules"
 ---

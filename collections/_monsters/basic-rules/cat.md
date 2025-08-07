@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "12 (Dex)"
 hit_points: "2 (1d4)"
 speed: "walk 40 ft., climb 30 ft."
-str_mod: 3
-dex_mod: 15
-con_mod: 10
-int_mod: 3
-wis_mod: 12
-cha_mod: 7
+str_score: 3
+dex_score: 15
+con_score: 10
+int_score: 3
+wis_score: 12
+cha_score: 7
 saving_throws: ""
 skills: "Perception +3, Stealth +4"
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Claws.** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

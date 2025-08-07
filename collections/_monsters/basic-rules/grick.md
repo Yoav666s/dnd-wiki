@@ -9,12 +9,12 @@ alignment: "Neutral"
 armor_class: "14 (Natural)"
 hit_points: "27 (6d8)"
 speed: "walk 30 ft., climb 30 ft."
-str_mod: 14
-dex_mod: 14
-con_mod: 11
-int_mod: 3
-wis_mod: 14
-cha_mod: 5
+str_score: 14
+dex_score: 14
+con_score: 11
+int_score: 3
+wis_score: 14
+cha_score: 5
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -30,12 +30,11 @@ traits: |
   **Stone Camouflage.** The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 actions: |
   **Multiattack.** The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.
-  
-  **Tentacles.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
-  
-  **Beak.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  
+    
+    **Tentacles.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
+    
+    **Beak.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Monstrosity, Neutral"
 source: "Basic Rules"
 ---

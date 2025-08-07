@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "13 (Natural)"
 hit_points: "126 (11d12+55)"
 speed: "swim 50 ft."
-str_mod: 23
-dex_mod: 11
-con_mod: 21
-int_mod: 1
-wis_mod: 10
-cha_mod: 5
+str_score: 23
+dex_score: 11
+con_score: 21
+int_score: 1
+wis_score: 10
+cha_score: 5
 saving_throws: ""
 skills: "Perception +3"
 damage_vulnerabilities: ""
@@ -28,12 +28,11 @@ xp: 1800
 proficiency_bonus: "+3"
 traits: |
   **Blood Frenzy.** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
-
-  **Water Breathing.** The shark can breathe only underwater.
+    
+    **Water Breathing.** The shark can breathe only underwater.
 actions: |
   **Bite.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage.  
 legendary_actions: ""
-description: "A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships."
 excerpt: "Huge Beast, Unaligned"
 source: "Basic Rules"
 ---

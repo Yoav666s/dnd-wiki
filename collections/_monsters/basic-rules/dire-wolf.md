@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "14 (Natural)"
 hit_points: "37 (5d10+10)"
 speed: "walk 50 ft."
-str_mod: 17
-dex_mod: 15
-con_mod: 15
-int_mod: 3
-wis_mod: 12
-cha_mod: 7
+str_score: 17
+dex_score: 15
+con_score: 15
+int_score: 3
+wis_score: 12
+cha_score: 7
 saving_throws: ""
 skills: "Perception +3, Stealth +4"
 damage_vulnerabilities: ""
@@ -28,12 +28,11 @@ xp: 200
 proficiency_bonus: "+2"
 traits: |
   **Keen Hearing and Smell.** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
-
-  **Pack Tactics.** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+    
+    **Pack Tactics.** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.  
 legendary_actions: ""
-description: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

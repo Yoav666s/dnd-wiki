@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "5 (Dex)"
 hit_points: "18 (4d8)"
 speed: "walk 5 ft."
-str_mod: 3
-dex_mod: 1
-con_mod: 10
-int_mod: 1
-wis_mod: 3
-cha_mod: 1
+str_score: 3
+dex_score: 1
+con_score: 10
+int_score: 1
+wis_score: 3
+cha_score: 1
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -30,10 +30,9 @@ traits: |
   **False Appearance.** While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
 actions: |
   **Multiattack.** The fungus makes 1d4 Rotting Touch attacks.
-  
-  **Rotting Touch.** Melee Weapon Attack: +2 to hit, reach 10 ft., one creature. Hit: 4 (1d8) necrotic damage.  
+    
+    **Rotting Touch.** Melee Weapon Attack: +2 to hit, reach 10 ft., one creature. Hit: 4 (1d8) necrotic damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Plant, Unaligned"
 source: "Basic Rules"
 ---

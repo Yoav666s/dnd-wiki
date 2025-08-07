@@ -9,12 +9,12 @@ alignment: "Any Alignment"
 armor_class: "10 (Dex)"
 hit_points: "4 (1d8)"
 speed: "walk 30 ft."
-str_mod: 10
-dex_mod: 10
-con_mod: 10
-int_mod: 10
-wis_mod: 10
-cha_mod: 10
+str_score: 10
+dex_score: 10
+con_score: 10
+int_score: 10
+wis_score: 10
+cha_score: 10
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -30,7 +30,6 @@ traits: ""
 actions: |
   **Club.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.  
 legendary_actions: ""
-description: "Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits."
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
 ---

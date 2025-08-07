@@ -9,12 +9,12 @@ alignment: "Neutral"
 armor_class: "13 (Natural)"
 hit_points: "5 (2d4)"
 speed: "walk 20 ft., fly 40 ft."
-str_mod: 4
-dex_mod: 15
-con_mod: 11
-int_mod: 10
-wis_mod: 10
-cha_mod: 7
+str_score: 4
+dex_score: 15
+con_score: 11
+int_score: 10
+wis_score: 10
+cha_score: 7
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.  
 legendary_actions: ""
-description: ""
 excerpt: "Tiny Construct, Neutral"
 source: "Basic Rules"
 ---

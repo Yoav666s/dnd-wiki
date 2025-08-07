@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "12 (Dex)"
 hit_points: "45 (6d10+12)"
 speed: "swim 40 ft."
-str_mod: 18
-dex_mod: 13
-con_mod: 15
-int_mod: 1
-wis_mod: 10
-cha_mod: 4
+str_score: 18
+dex_score: 13
+con_score: 15
+int_score: 1
+wis_score: 10
+cha_score: 4
 saving_throws: ""
 skills: "Perception +2"
 damage_vulnerabilities: ""
@@ -28,12 +28,11 @@ xp: 450
 proficiency_bonus: "+2"
 traits: |
   **Blood Frenzy.** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
-
-  **Water Breathing.** The shark can breathe only underwater.
+    
+    **Water Breathing.** The shark can breathe only underwater.
 actions: |
   **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.  
 legendary_actions: ""
-description: "Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long."
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

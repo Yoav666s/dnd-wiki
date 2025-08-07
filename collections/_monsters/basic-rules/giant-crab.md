@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "15 (Natural)"
 hit_points: "13 (3d8)"
 speed: "walk 30 ft., swim 30 ft."
-str_mod: 13
-dex_mod: 15
-con_mod: 11
-int_mod: 1
-wis_mod: 9
-cha_mod: 3
+str_score: 13
+dex_score: 15
+con_score: 11
+int_score: 1
+wis_score: 9
+cha_score: 3
 saving_throws: ""
 skills: "Stealth +4"
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Claw.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

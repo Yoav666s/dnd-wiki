@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "12 (Natural)"
 hit_points: "42 (5d10+15)"
 speed: "walk 40 ft."
-str_mod: 17
-dex_mod: 10
-con_mod: 16
-int_mod: 2
-wis_mod: 7
-cha_mod: 5
+str_score: 17
+dex_score: 10
+con_score: 16
+int_score: 2
+wis_score: 7
+cha_score: 5
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -28,12 +28,11 @@ xp: 450
 proficiency_bonus: "+2"
 traits: |
   **Charge.** If the boar moves at least 20 ft. straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
-
-  **Relentless (1/short rest).** If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
+    
+    **Relentless (1/short rest).** If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 actions: |
   **Tusk.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

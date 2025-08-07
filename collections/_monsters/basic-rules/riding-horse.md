@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "10 (Dex)"
 hit_points: "13 (2d10+2)"
 speed: "walk 60 ft."
-str_mod: 16
-dex_mod: 10
-con_mod: 12
-int_mod: 2
-wis_mod: 11
-cha_mod: 7
+str_score: 16
+dex_score: 10
+con_score: 12
+int_score: 2
+wis_score: 11
+cha_score: 7
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -30,7 +30,6 @@ traits: ""
 actions: |
   **Hooves.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

@@ -9,12 +9,12 @@ alignment: "Any Non-Good Alignment"
 armor_class: "11 (Armor)"
 hit_points: "32 (5d8+10)"
 speed: "walk 30 ft."
-str_mod: 15
-dex_mod: 11
-con_mod: 14
-int_mod: 10
-wis_mod: 10
-cha_mod: 11
+str_score: 15
+dex_score: 11
+con_score: 14
+int_score: 10
+wis_score: 10
+cha_score: 11
 saving_throws: ""
 skills: "Intimidation +2"
 damage_vulnerabilities: ""
@@ -30,12 +30,11 @@ traits: |
   **Pack Tactics.** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 actions: |
   **Multiattack.** The thug makes two melee attacks.
-  
-  **Mace.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage.
-  
-  **Heavy Crossbow.** Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.  
+    
+    **Mace.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage.
+    
+    **Heavy Crossbow.** Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.  
 legendary_actions: ""
-description: "Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples."
 excerpt: "Medium Humanoid, Any Non-Good Alignment"
 source: "Basic Rules"
 ---

@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "11 (Natural)"
 hit_points: "1 (1d4-1)"
 speed: "walk 10 ft."
-str_mod: 2
-dex_mod: 11
-con_mod: 8
-int_mod: 1
-wis_mod: 8
-cha_mod: 2
+str_score: 2
+dex_score: 11
+con_score: 8
+int_score: 1
+wis_score: 8
+cha_score: 2
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -30,7 +30,6 @@ traits: ""
 actions: |
   **Sting.** Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.  
 legendary_actions: ""
-description: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

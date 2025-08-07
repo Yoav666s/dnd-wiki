@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "5 (Dex)"
 hit_points: "13 (3d8)"
 speed: "walk 0 ft."
-str_mod: 1
-dex_mod: 1
-con_mod: 10
-int_mod: 1
-wis_mod: 3
-cha_mod: 1
+str_score: 1
+dex_score: 1
+con_score: 10
+int_score: 1
+wis_score: 3
+cha_score: 1
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
     
 legendary_actions: ""
-description: ""
 excerpt: "Medium Plant, Unaligned"
 source: "Basic Rules"
 ---

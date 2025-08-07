@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "12 (Dex)"
 hit_points: "3 (1d6)"
 speed: "walk 30 ft., climb 30 ft."
-str_mod: 8
-dex_mod: 14
-con_mod: 11
-int_mod: 4
-wis_mod: 12
-cha_mod: 6
+str_score: 8
+dex_score: 14
+con_score: 11
+int_score: 4
+wis_score: 12
+cha_score: 6
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Bite.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) piercing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Small Beast, Unaligned"
 source: "Basic Rules"
 ---

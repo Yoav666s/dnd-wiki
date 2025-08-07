@@ -9,12 +9,12 @@ alignment: "Chaotic Evil"
 armor_class: "11 (Armor)"
 hit_points: "59 (7d10+21)"
 speed: "walk 40 ft."
-str_mod: 19
-dex_mod: 8
-con_mod: 16
-int_mod: 5
-wis_mod: 7
-cha_mod: 7
+str_score: 19
+dex_score: 8
+con_score: 16
+int_score: 5
+wis_score: 7
+cha_score: 7
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -29,10 +29,9 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Greatclub.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
-  
-  **Javelin.** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.  
+    
+    **Javelin.** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Large Giant, Chaotic Evil"
 source: "Basic Rules"
 ---

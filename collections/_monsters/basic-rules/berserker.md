@@ -9,12 +9,12 @@ alignment: "Any Chaotic Alignment"
 armor_class: "13 (Armor)"
 hit_points: "67 (9d8+27)"
 speed: "walk 30 ft."
-str_mod: 16
-dex_mod: 12
-con_mod: 17
-int_mod: 9
-wis_mod: 11
-cha_mod: 9
+str_score: 16
+dex_score: 12
+con_score: 17
+int_score: 9
+wis_score: 11
+cha_score: 9
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Greataxe.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Humanoid, Any Chaotic Alignment"
 source: "Basic Rules"
 ---

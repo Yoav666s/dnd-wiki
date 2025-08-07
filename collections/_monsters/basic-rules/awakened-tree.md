@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "13 (Natural)"
 hit_points: "59 (7d12+14)"
 speed: "walk 20 ft."
-str_mod: 19
-dex_mod: 6
-con_mod: 15
-int_mod: 10
-wis_mod: 10
-cha_mod: 7
+str_score: 19
+dex_score: 6
+con_score: 15
+int_score: 10
+wis_score: 10
+cha_score: 7
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: "Fire"
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Slam.** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage.  
 legendary_actions: ""
-description: "An awakened tree is an ordinary tree given sentience and mobility by the awaken spell or similar magic."
 excerpt: "Huge Plant, Unaligned"
 source: "Basic Rules"
 ---

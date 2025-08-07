@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "14 (Dex)"
 hit_points: "36 (8d8)"
 speed: "walk 30 ft., swim 30 ft."
-str_mod: 8
-dex_mod: 18
-con_mod: 11
-int_mod: 1
-wis_mod: 10
-cha_mod: 3
+str_score: 8
+dex_score: 18
+con_score: 11
+int_score: 1
+wis_score: 10
+cha_score: 3
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Bites.** Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Swarm Of Tiny Beasts, Unaligned"
 source: "Basic Rules"
 ---

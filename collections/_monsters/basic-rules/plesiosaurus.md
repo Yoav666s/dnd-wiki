@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "13 (Natural)"
 hit_points: "68 (8d10+24)"
 speed: "walk 20 ft., swim 40 ft."
-str_mod: 18
-dex_mod: 15
-con_mod: 16
-int_mod: 2
-wis_mod: 12
-cha_mod: 5
+str_score: 18
+dex_score: 15
+con_score: 16
+int_score: 2
+wis_score: 12
+cha_score: 5
 saving_throws: ""
 skills: "Perception +3, Stealth +4"
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Bite.** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) piercing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

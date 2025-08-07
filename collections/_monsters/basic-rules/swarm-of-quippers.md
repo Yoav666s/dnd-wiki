@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "13 (Dex)"
 hit_points: "28 (8d8-8)"
 speed: "walk 0 ft., swim 40 ft."
-str_mod: 13
-dex_mod: 16
-con_mod: 9
-int_mod: 1
-wis_mod: 7
-cha_mod: 2
+str_score: 13
+dex_score: 16
+con_score: 9
+int_score: 1
+wis_score: 7
+cha_score: 2
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -28,14 +28,13 @@ xp: 200
 proficiency_bonus: "+2"
 traits: |
   **Blood Frenzy.** The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.
-
-  **Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.
-
-  **Water Breathing.** The swarm can breathe only underwater.
+    
+    **Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.
+    
+    **Water Breathing.** The swarm can breathe only underwater.
 actions: |
   **Bites.** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Swarm Of Tiny Beasts, Unaligned"
 source: "Basic Rules"
 ---

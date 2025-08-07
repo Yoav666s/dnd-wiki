@@ -9,12 +9,12 @@ alignment: "Lawful Neutral"
 armor_class: "15 (Natural), 17 (Armor)"
 hit_points: "39 (6d8+12)"
 speed: "walk 30 ft."
-str_mod: 17
-dex_mod: 12
-con_mod: 15
-int_mod: 12
-wis_mod: 13
-cha_mod: 10
+str_score: 17
+dex_score: 12
+con_score: 15
+int_score: 12
+wis_score: 13
+cha_score: 10
 saving_throws: "CON +4"
 skills: ""
 damage_vulnerabilities: ""
@@ -28,14 +28,13 @@ xp: 450
 proficiency_bonus: "+2"
 traits: |
   **Heated Body.** A creature that touches the azer or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage.
-
-  **Heated Weapons.** When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).
-
-  **Illumination.** The azer sheds bright light in a 10-foot radius and dim light for an additional 10 ft..
+    
+    **Heated Weapons.** When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).
+    
+    **Illumination.** The azer sheds bright light in a 10-foot radius and dim light for an additional 10 ft..
 actions: |
   **Warhammer.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Elemental, Lawful Neutral"
 source: "Basic Rules"
 ---

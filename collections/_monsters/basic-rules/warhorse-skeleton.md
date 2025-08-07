@@ -9,12 +9,12 @@ alignment: "Lawful Evil"
 armor_class: "13 (Armor)"
 hit_points: "22 (3d10+6)"
 speed: "walk 60 ft."
-str_mod: 18
-dex_mod: 12
-con_mod: 15
-int_mod: 2
-wis_mod: 8
-cha_mod: 5
+str_score: 18
+dex_score: 12
+con_score: 15
+int_score: 2
+wis_score: 8
+cha_score: 5
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: "Bludgeoning"
@@ -30,7 +30,6 @@ traits: ""
 actions: |
   **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Large Undead, Lawful Evil"
 source: "Basic Rules"
 ---

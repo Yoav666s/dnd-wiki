@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "13 (Dex)"
 hit_points: "9 (2d8)"
 speed: "walk 40 ft."
-str_mod: 11
-dex_mod: 16
-con_mod: 10
-int_mod: 4
-wis_mod: 12
-cha_mod: 5
+str_score: 11
+dex_score: 16
+con_score: 10
+int_score: 4
+wis_score: 12
+cha_score: 5
 saving_throws: ""
 skills: "Perception +3, Stealth +5"
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "12 (Natural)"
 hit_points: "90 (12d12+12)"
 speed: "swim 60 ft."
-str_mod: 19
-dex_mod: 10
-con_mod: 13
-int_mod: 3
-wis_mod: 12
-cha_mod: 7
+str_score: 19
+dex_score: 10
+con_score: 13
+int_score: 3
+wis_score: 12
+cha_score: 7
 saving_throws: ""
 skills: "Perception +3"
 damage_vulnerabilities: ""
@@ -28,14 +28,13 @@ xp: 700
 proficiency_bonus: "+2"
 traits: |
   **Echolocation.** The whale can't use its blindsight while deafened.
-
-  **Hold Breath.** The whale can hold its breath for 30 minutes
-
-  **Keen Hearing.** The whale has advantage on Wisdom (Perception) checks that rely on hearing.
+    
+    **Hold Breath.** The whale can hold its breath for 30 minutes
+    
+    **Keen Hearing.** The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 actions: |
   **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 21 (5d6 + 4) piercing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Huge Beast, Unaligned"
 source: "Basic Rules"
 ---

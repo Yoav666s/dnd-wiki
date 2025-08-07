@@ -9,12 +9,12 @@ alignment: "Neutral Evil"
 armor_class: "8 (Dex)"
 hit_points: "22 (3d8+9)"
 speed: "walk 20 ft."
-str_mod: 13
-dex_mod: 6
-con_mod: 16
-int_mod: 3
-wis_mod: 6
-cha_mod: 5
+str_score: 13
+dex_score: 6
+con_score: 16
+int_score: 3
+wis_score: 6
+cha_score: 5
 saving_throws: "WIS +0"
 skills: ""
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Slam.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Undead, Neutral Evil"
 source: "Basic Rules"
 ---

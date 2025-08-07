@@ -9,12 +9,12 @@ alignment: "Neutral"
 armor_class: "13 (Natural), 15 (Armor)"
 hit_points: "22 (4d8+4)"
 speed: "walk 30 ft., swim 30 ft."
-str_mod: 15
-dex_mod: 10
-con_mod: 13
-int_mod: 7
-wis_mod: 12
-cha_mod: 7
+str_score: 15
+dex_score: 10
+con_score: 13
+int_score: 7
+wis_score: 12
+cha_score: 7
 saving_throws: ""
 skills: "Perception +3, Stealth +4, Survival +5"
 damage_vulnerabilities: ""
@@ -30,16 +30,15 @@ traits: |
   **Hold Breath.** The lizardfolk can hold its breath for 15 minutes.
 actions: |
   **Multiattack.** The lizardfolk makes two melee attacks, each one with a different weapon.
-  
-  **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-  
-  **Heavy Club.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
-  
-  **Javelin.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-  
-  **Spiked Shield.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  
+    
+    **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+    
+    **Heavy Club.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+    
+    **Javelin.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+    
+    **Spiked Shield.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Humanoid, Neutral"
 source: "Basic Rules"
 ---

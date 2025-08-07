@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "10 (Dex)"
 hit_points: "13 (2d8+4)"
 speed: "walk 30 ft., burrow 10 ft."
-str_mod: 13
-dex_mod: 10
-con_mod: 15
-int_mod: 2
-wis_mod: 12
-cha_mod: 5
+str_score: 13
+dex_score: 10
+con_score: 15
+int_score: 2
+wis_score: 12
+cha_score: 5
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -30,12 +30,11 @@ traits: |
   **Keen Smell.** The badger has advantage on Wisdom (Perception) checks that rely on smell.
 actions: |
   **Multiattack.** The badger makes two attacks: one with its bite and one with its claws.
-  
-  **Bite.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
-  
-  **Claws.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage.  
+    
+    **Bite.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
+    
+    **Claws.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

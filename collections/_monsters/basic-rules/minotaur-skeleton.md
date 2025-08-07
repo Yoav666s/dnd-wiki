@@ -9,12 +9,12 @@ alignment: "Lawful Evil"
 armor_class: "12 (Natural)"
 hit_points: "67 (9d10+18)"
 speed: "walk 40 ft."
-str_mod: 18
-dex_mod: 11
-con_mod: 15
-int_mod: 6
-wis_mod: 8
-cha_mod: 5
+str_score: 18
+dex_score: 11
+con_score: 15
+int_score: 6
+wis_score: 8
+cha_score: 5
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: "Bludgeoning"
@@ -30,10 +30,9 @@ traits: |
   **Charge.** If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 actions: |
   **Greataxe.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.
-  
-  **Gore.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.  
+    
+    **Gore.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Large Undead, Lawful Evil"
 source: "Basic Rules"
 ---

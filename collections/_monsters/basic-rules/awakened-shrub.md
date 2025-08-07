@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "9 (Dex)"
 hit_points: "10 (3d6)"
 speed: "walk 20 ft."
-str_mod: 3
-dex_mod: 8
-con_mod: 11
-int_mod: 10
-wis_mod: 10
-cha_mod: 6
+str_score: 3
+dex_score: 8
+con_score: 11
+int_score: 10
+wis_score: 10
+cha_score: 6
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: "Fire"
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Rake.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) slashing damage.  
 legendary_actions: ""
-description: "An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic."
 excerpt: "Small Plant, Unaligned"
 source: "Basic Rules"
 ---

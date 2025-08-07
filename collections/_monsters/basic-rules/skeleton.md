@@ -9,12 +9,12 @@ alignment: "Lawful Evil"
 armor_class: "13 (Armor)"
 hit_points: "13 (2d8+4)"
 speed: "walk 30 ft."
-str_mod: 10
-dex_mod: 14
-con_mod: 15
-int_mod: 6
-wis_mod: 8
-cha_mod: 5
+str_score: 10
+dex_score: 14
+con_score: 15
+int_score: 6
+wis_score: 8
+cha_score: 5
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: "Bludgeoning"
@@ -29,10 +29,9 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Shortsword.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-  
-  **Shortbow.** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  
+    
+    **Shortbow.** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Undead, Lawful Evil"
 source: "Basic Rules"
 ---

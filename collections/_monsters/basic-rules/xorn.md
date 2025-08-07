@@ -9,12 +9,12 @@ alignment: "Neutral"
 armor_class: "19 (Natural)"
 hit_points: "73 (7d8+42)"
 speed: "walk 20 ft., burrow 20 ft."
-str_mod: 17
-dex_mod: 10
-con_mod: 22
-int_mod: 11
-wis_mod: 10
-cha_mod: 11
+str_score: 17
+dex_score: 10
+con_score: 22
+int_score: 11
+wis_score: 10
+cha_score: 11
 saving_throws: ""
 skills: "Perception +6, Stealth +3"
 damage_vulnerabilities: ""
@@ -28,18 +28,17 @@ xp: 1800
 proficiency_bonus: "+3"
 traits: |
   **Earth Glide.** The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.
-
-  **Stone Camouflage.** The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
-
-  **Treasure Sense.** The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 ft. of it.
+    
+    **Stone Camouflage.** The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+    
+    **Treasure Sense.** The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 ft. of it.
 actions: |
   **Multiattack.** The xorn makes three claw attacks and one bite attack.
-  
-  **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) piercing damage.
-  
-  **Claw.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.  
+    
+    **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) piercing damage.
+    
+    **Claw.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Elemental, Neutral"
 source: "Basic Rules"
 ---

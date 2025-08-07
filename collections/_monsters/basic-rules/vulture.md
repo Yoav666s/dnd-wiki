@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "10 (Dex)"
 hit_points: "5 (1d8+1)"
 speed: "walk 10 ft., fly 50 ft."
-str_mod: 7
-dex_mod: 10
-con_mod: 13
-int_mod: 2
-wis_mod: 12
-cha_mod: 4
+str_score: 7
+dex_score: 10
+con_score: 13
+int_score: 2
+wis_score: 12
+cha_score: 4
 saving_throws: ""
 skills: "Perception +3"
 damage_vulnerabilities: ""
@@ -28,12 +28,11 @@ xp: 10
 proficiency_bonus: "+2"
 traits: |
   **Keen Sight and Smell.** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
-
-  **Pack Tactics.** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+    
+    **Pack Tactics.** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 actions: |
   **Beak.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

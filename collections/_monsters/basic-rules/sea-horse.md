@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "11 (Dex)"
 hit_points: "1 (1d4-1)"
 speed: "swim 20 ft."
-str_mod: 1
-dex_mod: 12
-con_mod: 8
-int_mod: 1
-wis_mod: 10
-cha_mod: 2
+str_score: 1
+dex_score: 12
+con_score: 8
+int_score: 1
+wis_score: 10
+cha_score: 2
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
     
 legendary_actions: ""
-description: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

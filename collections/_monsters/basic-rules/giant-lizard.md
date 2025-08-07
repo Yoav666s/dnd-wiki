@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "12 (Natural)"
 hit_points: "19 (3d10+3)"
 speed: "walk 30 ft., climb 30 ft."
-str_mod: 15
-dex_mod: 12
-con_mod: 13
-int_mod: 2
-wis_mod: 10
-cha_mod: 5
+str_score: 15
+dex_score: 12
+con_score: 13
+int_score: 2
+wis_score: 10
+cha_score: 5
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""
@@ -30,7 +30,6 @@ traits: ""
 actions: |
   **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.  
 legendary_actions: ""
-description: "A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and others."
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

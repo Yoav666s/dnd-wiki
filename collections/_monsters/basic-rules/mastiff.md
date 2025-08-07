@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "12 (Dex)"
 hit_points: "5 (1d8+1)"
 speed: "walk 40 ft."
-str_mod: 13
-dex_mod: 14
-con_mod: 12
-int_mod: 3
-wis_mod: 12
-cha_mod: 7
+str_score: 13
+dex_score: 14
+con_score: 12
+int_score: 3
+wis_score: 12
+cha_score: 7
 saving_throws: ""
 skills: "Perception +3"
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Bite.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.  
 legendary_actions: ""
-description: "Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts."
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

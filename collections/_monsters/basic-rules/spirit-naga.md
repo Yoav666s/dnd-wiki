@@ -9,12 +9,12 @@ alignment: "Chaotic Evil"
 armor_class: "15 (Natural)"
 hit_points: "75 (10d10+20)"
 speed: "walk 40 ft."
-str_mod: 18
-dex_mod: 17
-con_mod: 14
-int_mod: 16
-wis_mod: 15
-cha_mod: 16
+str_score: 18
+dex_score: 17
+con_score: 14
+int_score: 16
+wis_score: 15
+cha_score: 16
 saving_throws: "DEX +6, CON +5, WIS +5, CHA +6"
 skills: ""
 damage_vulnerabilities: ""
@@ -28,19 +28,18 @@ xp: 3900
 proficiency_bonus: "+3"
 traits: |
   **Rejuvenation.** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.
-
-  **Spellcasting.** The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
-
-- Cantrips (at will): mage hand, minor illusion, ray of frost
-- 1st level (4 slots): charm person, detect magic, sleep
-- 2nd level (3 slots): detect thoughts, hold person
-- 3rd level (3 slots): lightning bolt, water breathing
-- 4th level (3 slots): blight, dimension door
-- 5th level (2 slots): dominate person
+    
+    **Spellcasting.** The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
+  
+  - Cantrips (at will): mage hand, minor illusion, ray of frost
+  - 1st level (4 slots): charm person, detect magic, sleep
+  - 2nd level (3 slots): detect thoughts, hold person
+  - 3rd level (3 slots): lightning bolt, water breathing
+  - 4th level (3 slots): blight, dimension door
+  - 5th level (2 slots): dominate person
 actions: |
   **Bite.** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.  
 legendary_actions: ""
-description: ""
 excerpt: "Large Monstrosity, Chaotic Evil"
 source: "Basic Rules"
 ---

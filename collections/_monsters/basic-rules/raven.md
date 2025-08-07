@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "12 (Dex)"
 hit_points: "1 (1d4-1)"
 speed: "walk 10 ft., fly 50 ft."
-str_mod: 2
-dex_mod: 14
-con_mod: 8
-int_mod: 2
-wis_mod: 12
-cha_mod: 6
+str_score: 2
+dex_score: 14
+con_score: 8
+int_score: 2
+wis_score: 12
+cha_score: 6
 saving_throws: ""
 skills: "Perception +3"
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Beak.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

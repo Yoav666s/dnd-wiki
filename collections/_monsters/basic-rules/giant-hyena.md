@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "12 (Dex)"
 hit_points: "45 (6d10+12)"
 speed: "walk 50 ft."
-str_mod: 16
-dex_mod: 14
-con_mod: 14
-int_mod: 2
-wis_mod: 12
-cha_mod: 7
+str_score: 16
+dex_score: 14
+con_score: 14
+int_score: 2
+wis_score: 12
+cha_score: 7
 saving_throws: ""
 skills: "Perception +3"
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

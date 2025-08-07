@@ -9,12 +9,12 @@ alignment: "Neutral Evil"
 armor_class: "8 (Dex)"
 hit_points: "85 (9d10+36)"
 speed: "walk 30 ft."
-str_mod: 19
-dex_mod: 6
-con_mod: 18
-int_mod: 3
-wis_mod: 6
-cha_mod: 5
+str_score: 19
+dex_score: 6
+con_score: 18
+int_score: 3
+wis_score: 6
+cha_score: 5
 saving_throws: "WIS +0"
 skills: ""
 damage_vulnerabilities: ""
@@ -31,7 +31,6 @@ traits: |
 actions: |
   **Morningstar.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.  
 legendary_actions: ""
-description: ""
 excerpt: "Large Undead, Neutral Evil"
 source: "Basic Rules"
 ---
