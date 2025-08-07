@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Yoav"
 description              : "An original homebrew D&D wiki"
 url                      : "https://yoav666s.github.io"
-baseurl                  : "/dnd-wiki" 
+baseurl                  : "/dnd-wiki"
 repository               : "yoav666s/dnd-wiki"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -447,7 +447,7 @@ defaults:
       path: ""
       type: monsters
     values:
-      layout: monster
+      layout: single
       sidebar:
         nav:
           - monsters
