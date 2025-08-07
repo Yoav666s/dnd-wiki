@@ -454,9 +454,7 @@ defaults:
       header:
         overlay_image: /assets/images/monsters/header.png
         overlay_filter: 0.375
-      toc: true
-      toc_label: "Contents"
-      toc_sticky: true
+      toc: false
 
   # _races
   - scope:
