@@ -22,8 +22,8 @@ The emblem of [[lore:the weathered sentinel]]. When he is defeated, his soul bec
 - You can expend 1 charge to cast the [[fog cloud]] spell.
 - You can expend 2 charges to cast the [[gust of wind]] spell.
 - You can expend 3 charges to cast the [[wind wall]] spell.
-- You can expend 4 charges to cast the [[storm of vengeance]] spell.
+- You can expend 6 charges to cast the [[storm of vengeance]] spell.
 
-The amulet has 4 charges, and regains 1d4 expended charges daily at dawn. If it overcharges, roll a d20. On 4-7 the charges deplete completely for the rest of the day. On 3 or less, the amulet disappears and Elmersodus is resurrected.
+The amulet has 6 charges, and regains 1d6 expended charges daily at dawn. If it overcharges, roll a d20. On 4-7 the charges deplete completely for the rest of the day. On 3 or less, the amulet disappears and Elmersodus is resurrected.
 
 [:items/emblems/elmersodus;normal:]
