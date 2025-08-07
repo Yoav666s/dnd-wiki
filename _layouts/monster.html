@@ -15,9 +15,9 @@ layout: single
   <p><strong>Speed</strong> {{ page.speed }}</p>
   <table>
     <tr>
-      <th><strong>STR</strong></th>
-      <th><strong>DEX</strong></th>
-      <th><strong>CON</strong></th>
+      <td><strong>STR</strong></td>
+      <td><strong>DEX</strong></td>
+      <td><strong>CON</strong></td>
     </tr>
     <tr>
       <td>{{ page.str }} ({% if str > 0 %}+{% endif %}{{ str }})</td>
@@ -25,9 +25,9 @@ layout: single
       <td>{{ page.con }} ({% if con > 0 %}+{% endif %}{{ con }})</td>
     </tr>
     <tr>
-      <th><strong>INT</strong></th>
-      <th><strong>WIS</strong></th>
-      <th><strong>CHA</strong></th>
+      <td><strong>INT</strong></td>
+      <td><strong>WIS</strong></td>
+      <td><strong>CHA</strong></td>
     </tr>
     <tr>
       <td>{{ page.int }} ({% if int > 0 %}+{% endif %}{{ int }})</td>
@@ -35,4 +35,8 @@ layout: single
       <td>{{ page.cha }} ({% if cha > 0 %}+{% endif %}{{ cha }})</td>
     </tr>
   </table>
+  <p><strong>Saving Throws</strong> {{ page.saving_throws }}</p>
+  <p><strong>Skills</strong> {{ page.skills }}</p>
+  {% if page.damage_vulnerabilities %}<p><strong>Damage Vulnerabilities</strong> {{ page.damage_vulnerabilities }}</p>{% endif %}
+  {% if page.damage_resistances %}<p><strong>Damage Resistances</strong> {{ page.damage_resistances }}</p>{% endif %}
 </div>
