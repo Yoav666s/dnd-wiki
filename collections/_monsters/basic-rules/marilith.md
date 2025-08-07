@@ -40,8 +40,7 @@ actions: |
   **Tail.** Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.
   
   **Teleport.** The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Fiend, Chaotic Evil"
 source: "Basic Rules"

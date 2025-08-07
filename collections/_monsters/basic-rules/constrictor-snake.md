@@ -26,14 +26,12 @@ languages: ""
 challenge_rating: 0.25
 xp: 50
 proficiency_bonus: "+2"
-traits: |
-  
+traits: ""
 actions: |
   **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.
   
   **Constrict.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"

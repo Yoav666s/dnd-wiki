@@ -30,8 +30,7 @@ traits: |
   **Flyby.** The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 actions: |
   **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 7 (3d4) poison damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils."
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"

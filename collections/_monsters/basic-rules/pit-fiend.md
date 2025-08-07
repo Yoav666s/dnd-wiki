@@ -46,8 +46,7 @@ actions: |
   **Mace.** Melee Weapon Attack: +14 to hit, reach 10ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.
   
   **Tail.** Melee Weapon Attack: +14 to hit, reach 10ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Fiend, Lawful Evil"
 source: "Basic Rules"

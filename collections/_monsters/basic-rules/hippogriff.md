@@ -34,8 +34,7 @@ actions: |
   **Beak.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.
   
   **Claws.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Monstrosity, Unaligned"
 source: "Basic Rules"

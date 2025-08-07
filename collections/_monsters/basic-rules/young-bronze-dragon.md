@@ -36,8 +36,7 @@ actions: |
   **Claw.** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
   
   **Breath Weapons (Recharge 5-6).** The dragon uses one of the following breath weapons. Lightning Breath. The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one. Repulsion Breath. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Dragon, Lawful Good"
 source: "Basic Rules"

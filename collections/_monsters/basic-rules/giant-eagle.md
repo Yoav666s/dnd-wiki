@@ -34,8 +34,7 @@ actions: |
   **Beak.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
   
   **Talons.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles)."
 excerpt: "Large Beast, Neutral Good"
 source: "Basic Rules"

@@ -32,8 +32,7 @@ traits: |
   **Standing Leap.** The frog's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start.
 actions: |
     
-legendary_actions: |
-  
+legendary_actions: ""
 description: "A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog’s statistics can also be used to represent a toad."
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"

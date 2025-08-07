@@ -26,16 +26,14 @@ languages: ""
 challenge_rating: 0.5
 xp: 100
 proficiency_bonus: "+2"
-traits: |
-  
+traits: ""
 actions: |
   **Multiattack.** The ape makes two fist attacks.
   
   **Fist.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
   
   **Rock.** Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"

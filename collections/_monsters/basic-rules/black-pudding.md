@@ -34,8 +34,7 @@ traits: |
   **Spider Climb.** The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 actions: |
   **Pseudopod.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Ooze, Unaligned"
 source: "Basic Rules"

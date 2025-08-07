@@ -37,8 +37,7 @@ traits: |
 - 3rd level (2 slots): dispel magic, spirit guardians
 actions: |
   **Mace.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "Priests bring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites.
 
 A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties."

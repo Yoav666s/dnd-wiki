@@ -30,8 +30,7 @@ traits: |
   **Keen Hearing and Smell.** The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 actions: |
   **Bite.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts."
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"

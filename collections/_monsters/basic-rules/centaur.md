@@ -36,8 +36,7 @@ actions: |
   **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
   
   **Longbow.** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Monstrosity, Neutral Good"
 source: "Basic Rules"

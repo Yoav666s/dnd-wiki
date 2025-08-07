@@ -32,8 +32,7 @@ traits: |
   **Keen Hearing and Smell.** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 actions: |
   **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Medium Humanoid, Chaotic Evil"
 source: "Basic Rules"

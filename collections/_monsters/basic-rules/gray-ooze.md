@@ -35,8 +35,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
   **False Appearance.** While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
 actions: |
   **Pseudopod.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Medium Ooze, Unaligned"
 source: "Basic Rules"

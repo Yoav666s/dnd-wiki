@@ -26,12 +26,10 @@ languages: ""
 challenge_rating: 0.25
 xp: 50
 proficiency_bonus: "+2"
-traits: |
-  
+traits: ""
 actions: |
   **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and others."
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"

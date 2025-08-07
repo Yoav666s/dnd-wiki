@@ -32,8 +32,7 @@ traits: |
   **Spider Climb.** The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 actions: |
   **Pseudopod.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Ooze, Unaligned"
 source: "Basic Rules"

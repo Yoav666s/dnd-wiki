@@ -40,8 +40,7 @@ actions: |
   **Multiattack.** The hydra makes as many bite attacks as it has heads.
   
   **Bite.** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Huge Monstrosity, Unaligned"
 source: "Basic Rules"

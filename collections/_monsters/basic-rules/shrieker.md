@@ -30,8 +30,7 @@ traits: |
   **False Appearance.** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
 actions: |
     
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Medium Plant, Unaligned"
 source: "Basic Rules"

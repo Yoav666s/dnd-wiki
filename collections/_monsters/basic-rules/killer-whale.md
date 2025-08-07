@@ -34,8 +34,7 @@ traits: |
   **Keen Hearing.** The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 actions: |
   **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 21 (5d6 + 4) piercing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Huge Beast, Unaligned"
 source: "Basic Rules"

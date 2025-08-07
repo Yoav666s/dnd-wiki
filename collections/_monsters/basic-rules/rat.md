@@ -30,8 +30,7 @@ traits: |
   **Keen Smell.** The rat has advantage on Wisdom (Perception) checks that rely on smell.
 actions: |
   **Bite.** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"

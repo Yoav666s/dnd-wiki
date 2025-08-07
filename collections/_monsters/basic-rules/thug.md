@@ -34,8 +34,7 @@ actions: |
   **Mace.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage.
   
   **Heavy Crossbow.** Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples."
 excerpt: "Medium Humanoid, Any Non-Good Alignment"
 source: "Basic Rules"

@@ -34,8 +34,7 @@ actions: |
   **Bite.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
   
   **Claws.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"

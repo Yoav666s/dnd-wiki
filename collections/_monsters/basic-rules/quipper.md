@@ -32,8 +32,7 @@ traits: |
   **Water Breathing.** The quipper can breathe only underwater.
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "A quipper is a carnivorous fish with sharp teeth. Quippers can adapt to any aquatic environment, including cold subterranean lakes. They frequently gather in swarms; the statistics for a swarm of quippers appear later in this appendix."
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"

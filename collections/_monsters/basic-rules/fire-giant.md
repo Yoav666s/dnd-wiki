@@ -26,16 +26,14 @@ languages: "Giant"
 challenge_rating: 9
 xp: 5000
 proficiency_bonus: "+4"
-traits: |
-  
+traits: ""
 actions: |
   **Multiattack.** The giant makes two greatsword attacks.
   
   **Greatsword.** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28 (6d6 + 7) slashing damage.
   
   **Rock.** Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Huge Giant, Lawful Evil"
 source: "Basic Rules"

@@ -26,8 +26,7 @@ languages: "Common, Draconic"
 challenge_rating: 9
 xp: 5000
 proficiency_bonus: "+4"
-traits: |
-  
+traits: ""
 actions: |
   **Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.
   
@@ -36,8 +35,7 @@ actions: |
   **Claw.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
   
   **Lightning Breath (Recharge 5-6).** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Dragon, Lawful Evil"
 source: "Basic Rules"

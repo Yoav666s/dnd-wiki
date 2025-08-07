@@ -36,8 +36,7 @@ actions: |
   **Multiattack.** The guardian makes two fist attacks.
   
   **Fist.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Construct, Unaligned"
 source: "Basic Rules"

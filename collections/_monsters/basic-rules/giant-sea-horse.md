@@ -32,8 +32,7 @@ traits: |
   **Water Breathing.** The sea horse can breathe only underwater.
 actions: |
   **Ram.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts."
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"

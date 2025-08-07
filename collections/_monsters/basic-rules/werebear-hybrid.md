@@ -38,8 +38,7 @@ actions: |
   **Claw.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
   
   **Greataxe.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Medium Humanoid, Neutral Good"
 source: "Basic Rules"

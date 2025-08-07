@@ -38,8 +38,7 @@ actions: |
   **Maul.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
   
   **Tusks.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Medium Humanoid, Neutral Evil"
 source: "Basic Rules"

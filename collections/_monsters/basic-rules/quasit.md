@@ -36,8 +36,7 @@ actions: |
   **Scare.** One creature of the quasit's choice within 20 ft. of it must succeed on a DC 10 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.
   
   **Invisibility.** The quasit magically turns invisible until it attacks or uses Scare, or until its concentration ends (as if concentrating on a spell). Any equipment the quasit wears or carries is invisible with it.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Tiny Fiend, Chaotic Evil"
 source: "Basic Rules"

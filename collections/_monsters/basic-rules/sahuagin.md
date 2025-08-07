@@ -40,8 +40,7 @@ actions: |
   **Claws.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
   
   **Spear.** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Medium Humanoid, Lawful Evil"
 source: "Basic Rules"

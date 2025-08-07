@@ -32,8 +32,7 @@ traits: |
   **Sure-Footed.** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 actions: |
   **Hooves.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"

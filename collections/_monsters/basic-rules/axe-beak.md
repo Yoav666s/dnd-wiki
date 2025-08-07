@@ -26,12 +26,10 @@ languages: ""
 challenge_rating: 0.25
 xp: 50
 proficiency_bonus: "+2"
-traits: |
-  
+traits: ""
 actions: |
   **Beak.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close."
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"

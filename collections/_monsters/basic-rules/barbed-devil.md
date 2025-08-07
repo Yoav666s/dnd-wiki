@@ -40,8 +40,7 @@ actions: |
   **Tail.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
   
   **Hurl Flame.** Ranged Spell Attack: +5 to hit, range 150 ft., one target. Hit: 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Medium Fiend, Lawful Evil"
 source: "Basic Rules"

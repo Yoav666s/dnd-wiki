@@ -36,8 +36,7 @@ actions: |
   **Claw.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
   
   **Cold Breath (Recharge 5-6).** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Dragon, Chaotic Evil"
 source: "Basic Rules"

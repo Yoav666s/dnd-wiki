@@ -26,8 +26,7 @@ languages: "any one language (usually Common)"
 challenge_rating: 3
 xp: 700
 proficiency_bonus: "+2"
-traits: |
-  
+traits: ""
 actions: |
   **Multiattack.** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
   
@@ -36,8 +35,7 @@ actions: |
   **Shortsword.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
   
   **Heavy Crossbow.** Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves."
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"

@@ -30,8 +30,7 @@ traits: |
   **False Appearance.** While the shrub remains motionless, it is indistinguishable from a normal shrub.
 actions: |
   **Rake.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) slashing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic."
 excerpt: "Small Plant, Unaligned"
 source: "Basic Rules"

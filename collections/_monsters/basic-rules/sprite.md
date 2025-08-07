@@ -26,8 +26,7 @@ languages: "Common, Elvish, Sylvan"
 challenge_rating: 0.25
 xp: 50
 proficiency_bonus: "+2"
-traits: |
-  
+traits: ""
 actions: |
   **Longsword.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
   
@@ -36,8 +35,7 @@ actions: |
   **Heart Sight.** The sprite touches a creature and magically knows the creature's current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.
   
   **Invisibility.** The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Tiny Fey, Neutral Good"
 source: "Basic Rules"

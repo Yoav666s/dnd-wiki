@@ -26,12 +26,10 @@ languages: ""
 challenge_rating: 0.25
 xp: 50
 proficiency_bonus: "+2"
-traits: |
-  
+traits: ""
 actions: |
   **Bite.** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"

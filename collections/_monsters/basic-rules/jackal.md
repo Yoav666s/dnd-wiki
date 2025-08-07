@@ -32,8 +32,7 @@ traits: |
   **Pack Tactics.** The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 actions: |
   **Bite.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) piercing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Small Beast, Unaligned"
 source: "Basic Rules"

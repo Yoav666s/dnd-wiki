@@ -26,12 +26,10 @@ languages: "understands Celestial, Common, Elvish, and Sylvan but can't speak"
 challenge_rating: 2
 xp: 450
 proficiency_bonus: "+2"
-traits: |
-  
+traits: ""
 actions: |
   **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Celestial, Chaotic Good"
 source: "Basic Rules"

@@ -38,8 +38,7 @@ actions: |
   **Multiattack.** The fanatic makes two melee attacks.
   
   **Dagger.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "Fanatics are often part of a cult’s leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else."
 excerpt: "Medium Humanoid, Any Non-Good Alignment"
 source: "Basic Rules"

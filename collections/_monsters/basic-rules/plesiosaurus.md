@@ -30,8 +30,7 @@ traits: |
   **Hold Breath.** The plesiosaurus can hold its breath for 1 hour.
 actions: |
   **Bite.** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) piercing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"

@@ -36,8 +36,7 @@ traits: |
   **Web Walker.** The swarm ignores movement restrictions caused by webbing.
 actions: |
   **Bites.** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Medium Swarm Of Tiny Beasts, Unaligned"
 source: "Basic Rules"

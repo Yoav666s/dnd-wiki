@@ -30,8 +30,7 @@ traits: |
   **Water Breathing.** The sea horse can breathe only underwater.
 actions: |
     
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"

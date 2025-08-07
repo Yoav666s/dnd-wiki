@@ -26,14 +26,12 @@ languages: "Common, Giant"
 challenge_rating: 2
 xp: 450
 proficiency_bonus: "+2"
-traits: |
-  
+traits: ""
 actions: |
   **Greatclub.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
   
   **Javelin.** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: ""
 excerpt: "Large Giant, Chaotic Evil"
 source: "Basic Rules"

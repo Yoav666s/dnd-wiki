@@ -33,8 +33,7 @@ traits: |
 - 1st level (3 slots): bless, cure wounds, sanctuary
 actions: |
   **Club.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.  
-legendary_actions: |
-  
+legendary_actions: ""
 description: "Acolytes are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities."
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
