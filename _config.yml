@@ -447,7 +447,7 @@ defaults:
       path: ""
       type: monsters
     values:
-      layout: single
+      layout: monster
       sidebar:
         nav:
           - monsters
