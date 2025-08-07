@@ -45,5 +45,10 @@ layout: single
   <p><strong>Languages</strong> {{ page.languages }}</p>
   <p><strong>Challenge</strong> {{ page.challenge_rating }} ({{ page.xp }} XP)</p>
   <p><strong>Proficiency Bonus</strong> {{ page.proficiency_bonus }}</p>
-  
+  <h2>Traits</h2>
+  <p>{{ page.traits | markdownify }}</p>
+  <h2>Actions</h2>
+  <p>{{ page.actions | markdownify }}</p>
+  <h2>Legendary Actions</h2>
+  <p>{{ page.legendary_actions | markdownify }}</p>
 </div>
