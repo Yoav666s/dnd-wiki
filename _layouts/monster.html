@@ -3,12 +3,12 @@ layout: single
 ---
 
 <div class="page__content">
-  {% assign str_mod = page.str_mod | minus: 10 | divided_by: 2 %}
-  {% assign dex_mod = page.dex_mod | minus: 10 | divided_by: 2 %}
-  {% assign con_mod = page.con_mod | minus: 10 | divided_by: 2 %}
-  {% assign int_mod = page.int_mod | minus: 10 | divided_by: 2 %}
-  {% assign wis_mod = page.wis_mod | minus: 10 | divided_by: 2 %}
-  {% assign cha_mod = page.cha_mod | minus: 10 | divided_by: 2 %}
+  {% assign str_mod = page.str_score | minus: 10 | divided_by: 2 %}
+  {% assign dex_mod = page.dex_score | minus: 10 | divided_by: 2 %}
+  {% assign con_mod = page.con_score | minus: 10 | divided_by: 2 %}
+  {% assign int_mod = page.int_score | minus: 10 | divided_by: 2 %}
+  {% assign wis_mod = page.wis_score | minus: 10 | divided_by: 2 %}
+  {% assign cha_mod = page.cha_score | minus: 10 | divided_by: 2 %}
 
   <p><strong>Armor Class</strong> {{ page.armor_class }}</p>
   <p><strong>Hit Points</strong> {{ page.hit_points }}</p>
@@ -20,9 +20,9 @@ layout: single
       <td><strong>CON</strong></td>
     </tr>
     <tr>
-      <td>{{ page.str_mod }} ({% if str_mod > 0 %}+{% endif %}{{ str_mod }})</td>
-      <td>{{ page.dex_mod }} ({% if dex_mod > 0 %}+{% endif %}{{ dex_mod }})</td>
-      <td>{{ page.con_mod }} ({% if con_mod > 0 %}+{% endif %}{{ con_mod }})</td>
+      <td>{{ page.str_score }} ({% if str_mod > 0 %}+{% endif %}{{ str_mod }})</td>
+      <td>{{ page.dex_score }} ({% if dex_mod > 0 %}+{% endif %}{{ dex_mod }})</td>
+      <td>{{ page.con_score }} ({% if con_mod > 0 %}+{% endif %}{{ con_mod }})</td>
     </tr>
     <tr>
       <td><strong>INT</strong></td>
@@ -30,9 +30,9 @@ layout: single
       <td><strong>CHA</strong></td>
     </tr>
     <tr>
-      <td>{{ page.int_mod }} ({% if int_mod > 0 %}+{% endif %}{{ int_mod }})</td>
-      <td>{{ page.wis_mod }} ({% if wis_mod > 0 %}+{% endif %}{{ wis_mod }})</td>
-      <td>{{ page.cha_mod }} ({% if cha_mod > 0 %}+{% endif %}{{ cha_mod }})</td>
+      <td>{{ page.int_score }} ({% if int_mod > 0 %}+{% endif %}{{ int_mod }})</td>
+      <td>{{ page.wis_score }} ({% if wis_mod > 0 %}+{% endif %}{{ wis_mod }})</td>
+      <td>{{ page.cha_score }} ({% if cha_mod > 0 %}+{% endif %}{{ cha_mod }})</td>
     </tr>
   </table>
   <p><strong>Saving Throws</strong> {{ page.saving_throws }}</p>
