@@ -327,6 +327,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  adventures:
+    output: true
+    permalink: /:collection/:path/
+
   feats:
     output: true
     permalink: /:collection/:path/
@@ -382,6 +386,22 @@ defaults:
           - classes
       header:
         overlay_image: /assets/images/classes/header.png
+        overlay_filter: 0.375
+      toc: true
+      toc_label: "Contents"
+      toc_sticky: true
+
+  # _adventures
+  - scope:
+      path: ""
+      type: adventures
+    values:
+      layout: single
+      sidebar:
+        nav:
+          - adventures
+      header:
+        overlay_image: /assets/images/adventures/header.png
         overlay_filter: 0.375
       toc: true
       toc_label: "Contents"
