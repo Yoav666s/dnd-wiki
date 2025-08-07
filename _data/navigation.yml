@@ -10,6 +10,8 @@ main:
     url: /items/
   - title: "Lore"
     url: /lore/
+  - title: "Monsters"
+    url: /monsters/
   - title: "Races"
     url: /races/
   - title: "Rules"
