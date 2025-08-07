@@ -343,6 +343,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  monsters:
+    output: true
+    permalink: /:collection/:path/
+
   races:
     output: true
     permalink: /:collection/:path/
@@ -433,6 +437,22 @@ defaults:
           - lore
       header:
         overlay_image: /assets/images/lore/header.png
+        overlay_filter: 0.375
+      toc: true
+      toc_label: "Contents"
+      toc_sticky: true
+
+  # _monsters
+  - scope:
+      path: ""
+      type: monsters
+    values:
+      layout: single
+      sidebar:
+        nav:
+          - monsters
+      header:
+        overlay_image: /assets/images/monsters/header.png
         overlay_filter: 0.375
       toc: true
       toc_label: "Contents"
