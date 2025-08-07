@@ -1,0 +1,38 @@
+---
+layout: single
+---
+
+<div class="page__content">
+  {% assign str = page.str | minus: 10 | divided_by: 2 %}
+  {% assign dex = page.dex | minus: 10 | divided_by: 2 %}
+  {% assign con = page.con | minus: 10 | divided_by: 2 %}
+  {% assign int = page.int | minus: 10 | divided_by: 2 %}
+  {% assign wis = page.wis | minus: 10 | divided_by: 2 %}
+  {% assign cha = page.cha | minus: 10 | divided_by: 2 %}
+
+  <p><strong>Armor Class</strong> {{ page.armor_class }}</p>
+  <p><strong>Hit Points</strong> {{ page.hit_points }}</p>
+  <p><strong>Speed</strong> {{ page.speed }}</p>
+  <table>
+    <tr>
+      <th><strong>STR</strong></th>
+      <th><strong>DEX</strong></th>
+      <th><strong>CON</strong></th>
+    </tr>
+    <tr>
+      <td>{{ page.str }} ({% if str > 0 %}+{% endif %}{{ str }})</td>
+      <td>{{ page.dex }} ({% if dex > 0 %}+{% endif %}{{ dex }})</td>
+      <td>{{ page.con }} ({% if con > 0 %}+{% endif %}{{ con }})</td>
+    </tr>
+    <tr>
+      <th><strong>INT</strong></th>
+      <th><strong>WIS</strong></th>
+      <th><strong>CHA</strong></th>
+    </tr>
+    <tr>
+      <td>{{ page.int }} ({% if int > 0 %}+{% endif %}{{ int }})</td>
+      <td>{{ page.wis }} ({% if wis > 0 %}+{% endif %}{{ wis }})</td>
+      <td>{{ page.cha }} ({% if cha > 0 %}+{% endif %}{{ cha }})</td>
+    </tr>
+  </table>
+</div>
