@@ -9,12 +9,12 @@ alignment: "Neutral"
 armor_class: "14 (Natural)"
 hit_points: "114 (12d10+48)"
 speed: "walk 30 ft., swim 90 ft."
-str: 18
-dex: 14
-con: 18
-int: 5
-wis: 10
-cha: 8
+str_mod: 18
+dex_mod: 14
+con_mod: 18
+int_mod: 5
+wis_mod: 10
+cha_mod: 8
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""

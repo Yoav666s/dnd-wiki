@@ -9,12 +9,12 @@ alignment: "Neutral"
 armor_class: "12 (Dex)"
 hit_points: "19 (3d10+3)"
 speed: "walk 5 ft., fly 60 ft."
-str: 13
-dex: 15
-con: 12
-int: 8
-wis: 13
-cha: 10
+str_mod: 13
+dex_mod: 15
+con_mod: 12
+int_mod: 8
+wis_mod: 13
+cha_mod: 10
 saving_throws: ""
 skills: "Perception +5, Stealth +4"
 damage_vulnerabilities: ""

@@ -9,12 +9,12 @@ alignment: "Any Non-Good Alignment"
 armor_class: "13 (Armor)"
 hit_points: "22 (6d8-5)"
 speed: "walk 30 ft."
-str: 11
-dex: 14
-con: 12
-int: 10
-wis: 13
-cha: 14
+str_mod: 11
+dex_mod: 14
+con_mod: 12
+int_mod: 10
+wis_mod: 13
+cha_mod: 14
 saving_throws: ""
 skills: "Deception +4, Persuasion +4, Religion +2"
 damage_vulnerabilities: ""

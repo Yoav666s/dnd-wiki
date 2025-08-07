@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "15 (Natural)"
 hit_points: "136 (16d10+48)"
 speed: "walk 20 ft., swim 20 ft."
-str: 18
-dex: 8
-con: 16
-int: 5
-wis: 10
-cha: 5
+str_mod: 18
+dex_mod: 8
+con_mod: 16
+int_mod: 5
+wis_mod: 10
+cha_mod: 5
 saving_throws: ""
 skills: "Stealth +2"
 damage_vulnerabilities: ""

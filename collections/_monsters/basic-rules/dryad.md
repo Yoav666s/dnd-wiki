@@ -9,12 +9,12 @@ alignment: "Neutral"
 armor_class: "11 (Dex), 16 (Spell)"
 hit_points: "22 (5d8)"
 speed: "walk 30 ft."
-str: 10
-dex: 12
-con: 11
-int: 14
-wis: 15
-cha: 18
+str_mod: 10
+dex_mod: 12
+con_mod: 11
+int_mod: 14
+wis_mod: 15
+cha_mod: 18
 saving_throws: ""
 skills: "Perception +4, Stealth +5"
 damage_vulnerabilities: ""

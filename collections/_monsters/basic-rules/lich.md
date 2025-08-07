@@ -9,12 +9,12 @@ alignment: "Any Evil Alignment"
 armor_class: "17 (Natural)"
 hit_points: "135 (18d8+54)"
 speed: "walk 30 ft."
-str: 11
-dex: 16
-con: 16
-int: 20
-wis: 14
-cha: 16
+str_mod: 11
+dex_mod: 16
+con_mod: 16
+int_mod: 20
+wis_mod: 14
+cha_mod: 16
 saving_throws: "CON +10, INT +12, WIS +9"
 skills: "Arcana +18, History +12, Insight +9, Perception +9"
 damage_vulnerabilities: ""

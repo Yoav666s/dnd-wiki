@@ -9,12 +9,12 @@ alignment: "Chaotic Evil"
 armor_class: "17 (Natural)"
 hit_points: "75 (10d8+30)"
 speed: "walk 30 ft., climb 30 ft., fly 60 ft."
-str: 19
-dex: 10
-con: 17
-int: 12
-wis: 11
-cha: 15
+str_mod: 19
+dex_mod: 10
+con_mod: 17
+int_mod: 12
+wis_mod: 11
+cha_mod: 15
 saving_throws: "DEX +2, CON +5, WIS +2, CHA +4"
 skills: "Perception +4, Stealth +2"
 damage_vulnerabilities: ""

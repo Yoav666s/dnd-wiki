@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "20 (Natural)"
 hit_points: "210 (20d10+100)"
 speed: "walk 30 ft."
-str: 24
-dex: 9
-con: 20
-int: 3
-wis: 11
-cha: 1
+str_mod: 24
+dex_mod: 9
+con_mod: 20
+int_mod: 3
+wis_mod: 11
+cha_mod: 1
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""

@@ -9,12 +9,12 @@ alignment: "Neutral"
 armor_class: "15 (Dex)"
 hit_points: "90 (12d10+24)"
 speed: "fly 90 ft., hover True"
-str: 14
-dex: 20
-con: 14
-int: 6
-wis: 10
-cha: 6
+str_mod: 14
+dex_mod: 20
+con_mod: 14
+int_mod: 6
+wis_mod: 10
+cha_mod: 6
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""

@@ -9,12 +9,12 @@ alignment: "Any Alignment"
 armor_class: "13 (Armor)"
 hit_points: "16 (3d8+3)"
 speed: "walk 30 ft."
-str: 11
-dex: 14
-con: 12
-int: 11
-wis: 13
-cha: 11
+str_mod: 11
+dex_mod: 14
+con_mod: 12
+int_mod: 11
+wis_mod: 13
+cha_mod: 11
 saving_throws: ""
 skills: "Nature +4, Perception +5, Stealth +6, Survival +5"
 damage_vulnerabilities: ""

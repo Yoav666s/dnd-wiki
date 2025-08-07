@@ -9,12 +9,12 @@ alignment: "Any Alignment"
 armor_class: "12 (Dex)"
 hit_points: "27 (6d8)"
 speed: "walk 30 ft."
-str: 10
-dex: 15
-con: 10
-int: 12
-wis: 14
-cha: 16
+str_mod: 10
+dex_mod: 15
+con_mod: 10
+int_mod: 12
+wis_mod: 14
+cha_mod: 16
 saving_throws: ""
 skills: "Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Stealth +4"
 damage_vulnerabilities: ""

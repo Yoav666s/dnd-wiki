@@ -9,12 +9,12 @@ alignment: "Lawful Evil"
 armor_class: "12 (Dex)"
 hit_points: "5 (2d6-2)"
 speed: "walk 30 ft."
-str: 7
-dex: 15
-con: 9
-int: 8
-wis: 7
-cha: 8
+str_mod: 7
+dex_mod: 15
+con_mod: 9
+int_mod: 8
+wis_mod: 7
+cha_mod: 8
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""

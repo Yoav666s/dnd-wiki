@@ -9,12 +9,12 @@ alignment: "Neutral Evil"
 armor_class: "15 (Natural)"
 hit_points: "90 (12d10+24)"
 speed: "walk 30 ft."
-str: 18
-dex: 14
-con: 15
-int: 11
-wis: 10
-cha: 12
+str_mod: 18
+dex_mod: 14
+con_mod: 15
+int_mod: 11
+wis_mod: 10
+cha_mod: 12
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: "Cold"

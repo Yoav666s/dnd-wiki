@@ -9,12 +9,12 @@ alignment: "Any Non-Good Alignment"
 armor_class: "15 (Armor)"
 hit_points: "78 (12d8+24)"
 speed: "walk 30 ft."
-str: 11
-dex: 16
-con: 14
-int: 13
-wis: 11
-cha: 10
+str_mod: 11
+dex_mod: 16
+con_mod: 14
+int_mod: 13
+wis_mod: 11
+cha_mod: 10
 saving_throws: "DEX +6, INT +4"
 skills: "Acrobatics +6, Deception +3, Perception +3, Stealth +9"
 damage_vulnerabilities: ""

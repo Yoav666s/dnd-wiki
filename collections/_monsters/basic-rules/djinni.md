@@ -9,12 +9,12 @@ alignment: "Chaotic Good"
 armor_class: "17 (Natural)"
 hit_points: "161 (14d10+84)"
 speed: "walk 30 ft., fly 90 ft."
-str: 21
-dex: 15
-con: 22
-int: 15
-wis: 16
-cha: 20
+str_mod: 21
+dex_mod: 15
+con_mod: 22
+int_mod: 15
+wis_mod: 16
+cha_mod: 20
 saving_throws: "DEX +6, WIS +7, CHA +9"
 skills: ""
 damage_vulnerabilities: ""

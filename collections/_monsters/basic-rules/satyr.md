@@ -9,12 +9,12 @@ alignment: "Chaotic Neutral"
 armor_class: "14 (Armor)"
 hit_points: "31 (7d8)"
 speed: "walk 40 ft."
-str: 12
-dex: 16
-con: 11
-int: 12
-wis: 10
-cha: 14
+str_mod: 12
+dex_mod: 16
+con_mod: 11
+int_mod: 12
+wis_mod: 10
+cha_mod: 14
 saving_throws: ""
 skills: "Perception +2, Performance +6, Stealth +5"
 damage_vulnerabilities: ""

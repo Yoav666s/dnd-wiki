@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "11 (Dex)"
 hit_points: "39 (6d10+6)"
 speed: "walk 20 ft., swim 40 ft."
-str: 15
-dex: 13
-con: 13
-int: 2
-wis: 10
-cha: 3
+str_mod: 15
+dex_mod: 13
+con_mod: 13
+int_mod: 2
+wis_mod: 10
+cha_mod: 3
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""

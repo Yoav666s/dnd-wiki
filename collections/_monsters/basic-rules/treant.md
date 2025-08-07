@@ -9,12 +9,12 @@ alignment: "Chaotic Good"
 armor_class: "16 (Natural)"
 hit_points: "138 (12d12+60)"
 speed: "walk 30 ft."
-str: 23
-dex: 8
-con: 21
-int: 12
-wis: 16
-cha: 12
+str_mod: 23
+dex_mod: 8
+con_mod: 21
+int_mod: 12
+wis_mod: 16
+cha_mod: 12
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: "Fire"

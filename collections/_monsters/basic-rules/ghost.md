@@ -9,12 +9,12 @@ alignment: "Any Alignment"
 armor_class: "11 (Dex)"
 hit_points: "45 (10d8)"
 speed: "walk 0 ft., fly 40 ft., hover True"
-str: 7
-dex: 13
-con: 10
-int: 10
-wis: 12
-cha: 17
+str_mod: 7
+dex_mod: 13
+con_mod: 10
+int_mod: 10
+wis_mod: 12
+cha_mod: 17
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""

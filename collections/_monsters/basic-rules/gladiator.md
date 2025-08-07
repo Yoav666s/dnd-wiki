@@ -9,12 +9,12 @@ alignment: "Any Alignment"
 armor_class: "16 (Armor)"
 hit_points: "112 (15d8+45)"
 speed: "walk 30 ft."
-str: 18
-dex: 15
-con: 16
-int: 10
-wis: 12
-cha: 15
+str_mod: 18
+dex_mod: 15
+con_mod: 16
+int_mod: 10
+wis_mod: 12
+cha_mod: 15
 saving_throws: "STR +7, DEX +5, CON +6"
 skills: "Athletics +10, Intimidation +5"
 damage_vulnerabilities: ""

@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "13 (Natural)"
 hit_points: "136 (13d12+52)"
 speed: "walk 50 ft."
-str: 25
-dex: 10
-con: 19
-int: 2
-wis: 12
-cha: 9
+str_mod: 25
+dex_mod: 10
+con_mod: 19
+int_mod: 2
+wis_mod: 12
+cha_mod: 9
 saving_throws: ""
 skills: "Perception +4"
 damage_vulnerabilities: ""

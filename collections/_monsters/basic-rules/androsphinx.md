@@ -9,12 +9,12 @@ alignment: "Lawful Neutral"
 armor_class: "17 (Natural)"
 hit_points: "199 (19d10+95)"
 speed: "walk 40 ft., fly 60 ft."
-str: 22
-dex: 10
-con: 20
-int: 16
-wis: 18
-cha: 23
+str_mod: 22
+dex_mod: 10
+con_mod: 20
+int_mod: 16
+wis_mod: 18
+cha_mod: 23
 saving_throws: "DEX +6, CON +11, INT +9, WIS +10"
 skills: "Arcana +9, Perception +10, Religion +15"
 damage_vulnerabilities: ""

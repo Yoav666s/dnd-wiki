@@ -9,12 +9,12 @@ alignment: "Neutral"
 armor_class: "19 (Natural)"
 hit_points: "73 (7d8+42)"
 speed: "walk 20 ft., burrow 20 ft."
-str: 17
-dex: 10
-con: 22
-int: 11
-wis: 10
-cha: 11
+str_mod: 17
+dex_mod: 10
+con_mod: 22
+int_mod: 11
+wis_mod: 10
+cha_mod: 11
 saving_throws: ""
 skills: "Perception +6, Stealth +3"
 damage_vulnerabilities: ""

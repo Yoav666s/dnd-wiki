@@ -9,12 +9,12 @@ alignment: "Any Chaotic Alignment"
 armor_class: "13 (Armor)"
 hit_points: "67 (9d8+27)"
 speed: "walk 30 ft."
-str: 16
-dex: 12
-con: 17
-int: 9
-wis: 11
-cha: 9
+str_mod: 16
+dex_mod: 12
+con_mod: 17
+int_mod: 9
+wis_mod: 11
+cha_mod: 9
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""

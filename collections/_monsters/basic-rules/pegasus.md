@@ -9,12 +9,12 @@ alignment: "Chaotic Good"
 armor_class: "12 (Dex)"
 hit_points: "59 (7d10+21)"
 speed: "walk 60 ft., fly 90 ft."
-str: 18
-dex: 15
-con: 16
-int: 10
-wis: 15
-cha: 13
+str_mod: 18
+dex_mod: 15
+con_mod: 16
+int_mod: 10
+wis_mod: 15
+cha_mod: 13
 saving_throws: "DEX +4, WIS +4, CHA +3"
 skills: "Perception +6"
 damage_vulnerabilities: ""

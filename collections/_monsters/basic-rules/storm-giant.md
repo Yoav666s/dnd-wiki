@@ -9,12 +9,12 @@ alignment: "Chaotic Good"
 armor_class: "16 (Armor)"
 hit_points: "230 (20d12+100)"
 speed: "walk 50 ft., swim 50 ft."
-str: 29
-dex: 14
-con: 20
-int: 16
-wis: 18
-cha: 18
+str_mod: 29
+dex_mod: 14
+con_mod: 20
+int_mod: 16
+wis_mod: 18
+cha_mod: 18
 saving_throws: "STR +14, CON +10, WIS +9, CHA +9"
 skills: "Arcana +8, Athletics +14, History +8, Perception +9"
 damage_vulnerabilities: ""

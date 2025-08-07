@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "12 (Natural)"
 hit_points: "22 (5d8)"
 speed: "walk 20 ft., burrow 5 ft., climb 20 ft."
-str: 3
-dex: 13
-con: 10
-int: 1
-wis: 7
-cha: 1
+str_mod: 3
+dex_mod: 13
+con_mod: 10
+int_mod: 1
+wis_mod: 7
+cha_mod: 1
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""

@@ -9,12 +9,12 @@ alignment: "Any Alignment"
 armor_class: "13 (Armor)"
 hit_points: "27 (5d8+5)"
 speed: "walk 25 ft."
-str: 10
-dex: 10
-con: 12
-int: 13
-wis: 16
-cha: 13
+str_mod: 10
+dex_mod: 10
+con_mod: 12
+int_mod: 13
+wis_mod: 16
+cha_mod: 13
 saving_throws: ""
 skills: "Medicine +7, Persuasion +3, Religion +4"
 damage_vulnerabilities: ""

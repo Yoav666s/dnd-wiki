@@ -9,12 +9,12 @@ alignment: "Lawful Good"
 armor_class: "19 (Natural)"
 hit_points: "200 (16d10+112)"
 speed: "walk 40 ft., fly 120 ft."
-str: 24
-dex: 20
-con: 24
-int: 19
-wis: 22
-cha: 25
+str_mod: 24
+dex_mod: 20
+con_mod: 24
+int_mod: 19
+wis_mod: 22
+cha_mod: 25
 saving_throws: "CON +12, WIS +11, CHA +12"
 skills: "Perception +11"
 damage_vulnerabilities: ""

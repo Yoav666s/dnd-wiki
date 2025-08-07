@@ -9,12 +9,12 @@ alignment: "Chaotic Evil"
 armor_class: "18 (Natural)"
 hit_points: "184 (16d10+96)"
 speed: "walk 20 ft., fly 30 ft."
-str: 21
-dex: 10
-con: 22
-int: 19
-wis: 12
-cha: 15
+str_mod: 21
+dex_mod: 10
+con_mod: 22
+int_mod: 19
+wis_mod: 12
+cha_mod: 15
 saving_throws: "CON +11, INT +9, WIS +6, CHA +7"
 skills: ""
 damage_vulnerabilities: ""

@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "17 (Natural)"
 hit_points: "17 (5d6)"
 speed: "walk 0 ft., fly 50 ft., hover True"
-str: 12
-dex: 15
-con: 11
-int: 1
-wis: 5
-cha: 1
+str_mod: 12
+dex_mod: 15
+con_mod: 11
+int_mod: 1
+wis_mod: 5
+cha_mod: 1
 saving_throws: "DEX +4"
 skills: ""
 damage_vulnerabilities: ""

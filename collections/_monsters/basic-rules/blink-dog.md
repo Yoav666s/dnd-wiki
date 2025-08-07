@@ -9,12 +9,12 @@ alignment: "Lawful Good"
 armor_class: "13 (Dex)"
 hit_points: "22 (4d8+4)"
 speed: "walk 40 ft."
-str: 12
-dex: 17
-con: 12
-int: 10
-wis: 13
-cha: 11
+str_mod: 12
+dex_mod: 17
+con_mod: 12
+int_mod: 10
+wis_mod: 13
+cha_mod: 11
 saving_throws: ""
 skills: "Perception +3, Stealth +5"
 damage_vulnerabilities: ""

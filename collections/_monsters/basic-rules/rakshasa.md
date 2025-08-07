@@ -9,12 +9,12 @@ alignment: "Lawful Evil"
 armor_class: "16 (Natural)"
 hit_points: "110 (13d8+52)"
 speed: "walk 40 ft."
-str: 14
-dex: 17
-con: 18
-int: 13
-wis: 16
-cha: 20
+str_mod: 14
+dex_mod: 17
+con_mod: 18
+int_mod: 13
+wis_mod: 16
+cha_mod: 20
 saving_throws: ""
 skills: "Deception +10, Insight +8"
 damage_vulnerabilities: "Piercing From Magic Weapons Wielded By Good Creatures"

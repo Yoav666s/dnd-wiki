@@ -9,12 +9,12 @@ alignment: "Unaligned"
 armor_class: "12 (Dex)"
 hit_points: "157 (15d12+60)"
 speed: "walk 40 ft., climb 40 ft."
-str: 23
-dex: 14
-con: 18
-int: 7
-wis: 12
-cha: 7
+str_mod: 23
+dex_mod: 14
+con_mod: 18
+int_mod: 7
+wis_mod: 12
+cha_mod: 7
 saving_throws: ""
 skills: "Athletics +9, Perception +4"
 damage_vulnerabilities: ""

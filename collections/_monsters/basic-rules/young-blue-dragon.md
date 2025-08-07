@@ -9,12 +9,12 @@ alignment: "Lawful Evil"
 armor_class: "18 (Natural)"
 hit_points: "152 (16d10+64)"
 speed: "walk 40 ft., burrow 20 ft., fly 80 ft."
-str: 21
-dex: 10
-con: 19
-int: 14
-wis: 13
-cha: 17
+str_mod: 21
+dex_mod: 10
+con_mod: 19
+int_mod: 14
+wis_mod: 13
+cha_mod: 17
 saving_throws: "DEX +4, CON +8, WIS +5, CHA +7"
 skills: "Perception +9, Stealth +4"
 damage_vulnerabilities: ""

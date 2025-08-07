@@ -9,12 +9,12 @@ alignment: "Any Alignment"
 armor_class: "12 (Dex), 15 (Spell)"
 hit_points: "99 (18d8+18)"
 speed: "walk 30 ft."
-str: 10
-dex: 14
-con: 12
-int: 20
-wis: 15
-cha: 16
+str_mod: 10
+dex_mod: 14
+con_mod: 12
+int_mod: 20
+wis_mod: 15
+cha_mod: 16
 saving_throws: "INT +9, WIS +6"
 skills: "Arcana +13, History +13"
 damage_vulnerabilities: ""

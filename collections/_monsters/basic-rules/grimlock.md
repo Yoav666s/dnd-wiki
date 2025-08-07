@@ -9,12 +9,12 @@ alignment: "Neutral Evil"
 armor_class: "11 (Dex)"
 hit_points: "11 (2d8+2)"
 speed: "walk 30 ft."
-str: 16
-dex: 12
-con: 12
-int: 9
-wis: 8
-cha: 6
+str_mod: 16
+dex_mod: 12
+con_mod: 12
+int_mod: 9
+wis_mod: 8
+cha_mod: 6
 saving_throws: ""
 skills: "Athletics +5, Perception +3, Stealth +3"
 damage_vulnerabilities: ""

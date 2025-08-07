@@ -9,12 +9,12 @@ alignment: "Neutral"
 armor_class: "17 (Natural)"
 hit_points: "126 (11d12+55)"
 speed: "walk 40 ft."
-str: 23
-dex: 15
-con: 20
-int: 10
-wis: 12
-cha: 9
+str_mod: 23
+dex_mod: 15
+con_mod: 20
+int_mod: 10
+wis_mod: 12
+cha_mod: 9
 saving_throws: "DEX +5, CON +8, WIS +4"
 skills: "Athletics +12, Perception +4"
 damage_vulnerabilities: ""

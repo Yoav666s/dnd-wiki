@@ -9,12 +9,12 @@ alignment: "Chaotic Evil"
 armor_class: "13 (Dex)"
 hit_points: "36 (8d8)"
 speed: "walk 30 ft."
-str: 16
-dex: 17
-con: 10
-int: 11
-wis: 10
-cha: 8
+str_mod: 16
+dex_mod: 17
+con_mod: 10
+int_mod: 11
+wis_mod: 10
+cha_mod: 8
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: ""

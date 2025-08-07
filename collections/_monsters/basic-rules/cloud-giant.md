@@ -9,12 +9,12 @@ alignment: "Neutral Good (50%) Or Neutral Evil (50%)"
 armor_class: "14 (Natural)"
 hit_points: "200 (16d12+96)"
 speed: "walk 40 ft."
-str: 27
-dex: 10
-con: 22
-int: 12
-wis: 16
-cha: 16
+str_mod: 27
+dex_mod: 10
+con_mod: 22
+int_mod: 12
+wis_mod: 16
+cha_mod: 16
 saving_throws: "CON +10, WIS +7, CHA +7"
 skills: "Insight +7, Perception +7"
 damage_vulnerabilities: ""
