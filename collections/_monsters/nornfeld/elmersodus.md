@@ -17,7 +17,7 @@ wis_score: 15
 cha_score: 23
 saving_throws: "DEX +7, CON +16, WIS +9, CHA +13"
 skills: "Arcana +11, History +11, Perception +16, Stealth +7"
-damage_immunities: "Cold"
+damage_immunities: "Cold, Lightning, Thunder"
 senses: "Blindsight 60 ft., Darkvision 120 ft., Passive Perception 26"
 languages: "Common, Draconic"
 challenge_rating: 23
