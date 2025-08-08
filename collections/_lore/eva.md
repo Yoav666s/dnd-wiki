@@ -10,7 +10,8 @@ excerpt: "The weaver is a deity, believed to be in charge of fate, destiny, and 
 #   overlay_image: /assets/images/lore/the-weaver/header.png
 #   teaser: /assets/images/lore/the-weaver/header.jpg
 ---
-> [poem]
+> Tell me, stranger, what is it that you seek
+> 
 
 A maiden of the grove, more commonly referred to as an Eva, is a tree spirit. Originating from Sylvania Woods, Evas are scarcely found in remote forests, far away from civilization. They are said to be unfathomably beautiful; their skin smooth as silk, green and ripe, the intoxicating verdant scent of their hair, the hypnotizing color of their eyes ranging from hazel shades of autumn leaves to vibrant flowery blossom.
 
