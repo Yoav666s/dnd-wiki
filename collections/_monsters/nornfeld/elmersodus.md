@@ -62,6 +62,6 @@ On initiative count 20 (losing initiative ties), the sentinel takes a lair actio
 
 - The sentinel causes strong winds to blow as if he had cast the control winds (DC 15). The winds last until initiative count 20 on the next round.
 - The sentinel causes a churning storm cloud to form, centered on a point he can see and spreading to a radius of 360 feet. Until the cloud is dispelled, he can take the following lair actions:
-  - Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud must make a DC 15 Constitution saving throw. On a failed save, a creature takes 7 (2d6) thunder damage and becomes [condition]deafened[condition] for 5 minutes.
+  - Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud must make a DC 15 Constitution saving throw. On a failed save, a creature takes 7 (2d6) thunder damage and becomes deafened for 5 minutes.
   - The sentinel calls six lightning bolts to strike six creatures or objects beneath the cloud. A given creature or object can't be struck by more than one bolt. A struck creature must succeed a DC 15 Dexterity saving throw or take 5 (1d10) lightning damage.
   - Gusts and freezing rain assail the area under the cloud. The area becomes difficult terrain and is heavily obscured. Each creature there must succeed a DC 15 Constitution saving throw or take 3 (1d6) cold damage.
