@@ -51,4 +51,5 @@ layout: single
   <p>{{ page.actions | markdownify }}</p>
   {% if page.legendary_actions %}<h2>Legendary Actions</h2>
   <p>{{ page.legendary_actions | markdownify }}</p>{% endif %}
+{% include render_tooltips.html content=content %}
 </div>
