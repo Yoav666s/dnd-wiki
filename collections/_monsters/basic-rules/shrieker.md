@@ -17,9 +17,6 @@ wis_score: 3
 cha_score: 1
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
 condition_immunities: "Blinded, Blinded, Frightened"
 senses: "Blindsight 30 ft. (blind beyond this radius), Passive Perception 6"
 languages: ""
@@ -29,8 +26,7 @@ proficiency_bonus: "+2"
 traits: |
   **False Appearance.** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
 actions: |
-    
-legendary_actions: ""
+  
 excerpt: "Medium Plant, Unaligned"
 source: "Basic Rules"
 ---

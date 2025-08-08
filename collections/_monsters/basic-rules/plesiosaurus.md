@@ -17,10 +17,6 @@ wis_score: 12
 cha_score: 5
 saving_throws: ""
 skills: "Perception +3, Stealth +4"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 13"
 languages: ""
 challenge_rating: 2
@@ -30,7 +26,6 @@ traits: |
   **Hold Breath.** The plesiosaurus can hold its breath for 1 hour.
 actions: |
   **Bite.** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) piercing damage.  
-legendary_actions: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

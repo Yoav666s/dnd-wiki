@@ -17,7 +17,6 @@ wis_score: 6
 cha_score: 1
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
 damage_resistances: "Acid"
 damage_immunities: "Lightning, Slashing"
 condition_immunities: "Blinded, Charmed, Blinded, Exhaustion, Frightened, Prone"
@@ -28,11 +27,10 @@ xp: 450
 proficiency_bonus: "+2"
 traits: |
   **Amorphous.** The jelly can move through a space as narrow as 1 inch wide without squeezing.
-    
-    **Spider Climb.** The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+  
+  **Spider Climb.** The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 actions: |
   **Pseudopod.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.  
-legendary_actions: ""
 excerpt: "Large Ooze, Unaligned"
 source: "Basic Rules"
 ---

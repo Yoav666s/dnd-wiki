@@ -18,7 +18,6 @@ cha_score: 5
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: "Bludgeoning"
-damage_resistances: ""
 damage_immunities: "Poison"
 condition_immunities: "Exhaustion, Poisoned"
 senses: "Darkvision 60 ft., Passive Perception 9"
@@ -29,7 +28,6 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.  
-legendary_actions: ""
 excerpt: "Large Undead, Lawful Evil"
 source: "Basic Rules"
 ---

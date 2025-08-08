@@ -18,7 +18,6 @@ cha_score: 5
 saving_throws: ""
 skills: ""
 damage_vulnerabilities: "Bludgeoning"
-damage_resistances: ""
 damage_immunities: "Poison"
 condition_immunities: "Poisoned, Exhaustion"
 senses: "Darkvision 60 ft., Passive Perception 9"
@@ -29,9 +28,8 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Shortsword.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-    
-    **Shortbow.** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  
-legendary_actions: ""
+  
+  **Shortbow.** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.  
 excerpt: "Medium Undead, Lawful Evil"
 source: "Basic Rules"
 ---

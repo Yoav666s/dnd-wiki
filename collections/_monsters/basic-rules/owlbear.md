@@ -17,10 +17,6 @@ wis_score: 12
 cha_score: 7
 saving_throws: ""
 skills: "Perception +3"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Darkvision 60 ft., Passive Perception 13"
 languages: ""
 challenge_rating: 3
@@ -30,11 +26,10 @@ traits: |
   **Keen Sight and Smell.** The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
 actions: |
   **Multiattack.** The owlbear makes two attacks: one with its beak and one with its claws.
-    
-    **Beak.** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage.
-    
-    **Claws.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.  
-legendary_actions: ""
+  
+  **Beak.** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage.
+  
+  **Claws.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.  
 excerpt: "Large Monstrosity, Unaligned"
 source: "Basic Rules"
 ---

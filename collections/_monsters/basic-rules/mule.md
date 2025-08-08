@@ -17,10 +17,6 @@ wis_score: 10
 cha_score: 5
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 10"
 languages: ""
 challenge_rating: 0.125
@@ -28,11 +24,10 @@ xp: 25
 proficiency_bonus: "+2"
 traits: |
   **Beast of Burden.** The mule is considered to be a Large animal for the purpose of determining its carrying capacity.
-    
-    **Sure-Footed.** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+  
+  **Sure-Footed.** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 actions: |
   **Hooves.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.  
-legendary_actions: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

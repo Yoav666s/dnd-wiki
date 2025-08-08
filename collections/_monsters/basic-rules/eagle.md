@@ -17,10 +17,6 @@ wis_score: 14
 cha_score: 7
 saving_throws: ""
 skills: "Perception +4"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 14"
 languages: ""
 challenge_rating: 0
@@ -30,7 +26,6 @@ traits: |
   **Keen Sight.** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 actions: |
   **Talons.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.  
-legendary_actions: ""
 excerpt: "Small Beast, Unaligned"
 source: "Basic Rules"
 ---

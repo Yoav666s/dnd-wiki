@@ -17,8 +17,6 @@ wis_score: 15
 cha_score: 16
 saving_throws: "DEX +6, CON +5, WIS +5, CHA +6"
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
 damage_immunities: "Poison"
 condition_immunities: "Charmed, Poisoned"
 senses: "Darkvision 60 ft., Passive Perception 12"
@@ -28,8 +26,8 @@ xp: 3900
 proficiency_bonus: "+3"
 traits: |
   **Rejuvenation.** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.
-    
-    **Spellcasting.** The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
+  
+  **Spellcasting.** The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
   
   - Cantrips (at will): mage hand, minor illusion, ray of frost
   - 1st level (4 slots): charm person, detect magic, sleep
@@ -39,7 +37,6 @@ traits: |
   - 5th level (2 slots): dominate person
 actions: |
   **Bite.** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.  
-legendary_actions: ""
 excerpt: "Large Monstrosity, Chaotic Evil"
 source: "Basic Rules"
 ---

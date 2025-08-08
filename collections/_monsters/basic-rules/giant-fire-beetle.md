@@ -17,10 +17,6 @@ wis_score: 7
 cha_score: 3
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Blindsight 30 ft., Passive Perception 8"
 languages: ""
 challenge_rating: 0
@@ -30,7 +26,6 @@ traits: |
   **Illumination.** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 ft..
 actions: |
   **Bite.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) slashing damage.  
-legendary_actions: ""
 excerpt: "Small Beast, Unaligned"
 source: "Basic Rules"
 ---

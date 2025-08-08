@@ -17,10 +17,6 @@ wis_score: 10
 cha_score: 9
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Darkvision 60 ft., Passive Perception 10"
 languages: "Common, Goblin"
 challenge_rating: 0.5
@@ -30,9 +26,8 @@ traits: |
   **Martial Advantage.** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the hobgoblin that isn't incapacitated.
 actions: |
   **Longsword.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
-    
-    **Longbow.** Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.  
-legendary_actions: ""
+  
+  **Longbow.** Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.  
 excerpt: "Medium Humanoid, Lawful Evil"
 source: "Basic Rules"
 ---

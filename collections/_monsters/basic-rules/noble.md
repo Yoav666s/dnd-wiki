@@ -17,10 +17,6 @@ wis_score: 14
 cha_score: 16
 saving_throws: ""
 skills: "Deception +5, Insight +4, Persuasion +5"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 12"
 languages: "any two languages"
 challenge_rating: 0.125
@@ -29,7 +25,6 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Rapier.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.  
-legendary_actions: ""
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
 ---

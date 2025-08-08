@@ -17,10 +17,6 @@ wis_score: 8
 cha_score: 7
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Darkvision 60 ft., Passive Perception 9"
 languages: ""
 challenge_rating: 3
@@ -32,7 +28,6 @@ traits: |
   If the basilisk sees its reflection within 30 ft. of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.  
-legendary_actions: ""
 excerpt: "Medium Monstrosity, Unaligned"
 source: "Basic Rules"
 ---

@@ -17,10 +17,6 @@ wis_score: 12
 cha_score: 11
 saving_throws: "INT +6, WIS +4"
 skills: "Arcana +6, History +6"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 11"
 languages: "any four languages"
 challenge_rating: 6
@@ -37,7 +33,6 @@ traits: |
   - 5th level (1 slot): cone of cold
 actions: |
   **Dagger.** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.  
-legendary_actions: ""
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
 ---

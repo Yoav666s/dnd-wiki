@@ -17,10 +17,6 @@ wis_score: 10
 cha_score: 4
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Darkvision 30 ft., Passive Perception 10"
 languages: ""
 challenge_rating: 0
@@ -30,7 +26,6 @@ traits: |
   **Keen Smell.** The rat has advantage on Wisdom (Perception) checks that rely on smell.
 actions: |
   **Bite.** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.  
-legendary_actions: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

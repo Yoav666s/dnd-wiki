@@ -17,10 +17,6 @@ wis_score: 15
 cha_score: 13
 saving_throws: "DEX +4, WIS +4, CHA +3"
 skills: "Perception +6"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 16"
 languages: "understands Celestial, Common, Elvish, and Sylvan but can't speak"
 challenge_rating: 2
@@ -29,7 +25,6 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.  
-legendary_actions: ""
 excerpt: "Large Celestial, Chaotic Good"
 source: "Basic Rules"
 ---

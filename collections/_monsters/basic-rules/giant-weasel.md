@@ -17,10 +17,6 @@ wis_score: 12
 cha_score: 5
 saving_throws: ""
 skills: "Perception +3, Stealth +5"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Darkvision 60 ft., Passive Perception 13"
 languages: ""
 challenge_rating: 0.125
@@ -30,7 +26,6 @@ traits: |
   **Keen Hearing and Smell.** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.  
-legendary_actions: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

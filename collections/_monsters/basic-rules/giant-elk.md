@@ -17,10 +17,6 @@ wis_score: 14
 cha_score: 10
 saving_throws: ""
 skills: "Perception +4"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 14"
 languages: "Giant Elk, understands Common, Elvish, and Sylvan but can't speak"
 challenge_rating: 2
@@ -30,9 +26,8 @@ traits: |
   **Charge.** If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 actions: |
   **Ram.** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
-    
-    **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. Hit: 22 (4d8 + 4) bludgeoning damage.  
-legendary_actions: ""
+  
+  **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. Hit: 22 (4d8 + 4) bludgeoning damage.  
 excerpt: "Huge Beast, Unaligned"
 source: "Basic Rules"
 ---

@@ -17,10 +17,6 @@ wis_score: 10
 cha_score: 4
 saving_throws: ""
 skills: "Perception +2"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Darkvision 30 ft., Passive Perception 12"
 languages: ""
 challenge_rating: 2
@@ -28,11 +24,10 @@ xp: 450
 proficiency_bonus: "+2"
 traits: |
   **Blood Frenzy.** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
-    
-    **Water Breathing.** The shark can breathe only underwater.
+  
+  **Water Breathing.** The shark can breathe only underwater.
 actions: |
   **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.  
-legendary_actions: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

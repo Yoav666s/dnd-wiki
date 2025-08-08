@@ -17,10 +17,6 @@ wis_score: 10
 cha_score: 10
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 10"
 languages: "any one language (usually Common)"
 challenge_rating: 0
@@ -29,7 +25,6 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Club.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.  
-legendary_actions: ""
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
 ---

@@ -17,10 +17,6 @@ wis_score: 12
 cha_score: 6
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 11"
 languages: ""
 challenge_rating: 0
@@ -30,7 +26,6 @@ traits: |
   **Pack Tactics.** The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 actions: |
   **Bite.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) piercing damage.  
-legendary_actions: ""
 excerpt: "Small Beast, Unaligned"
 source: "Basic Rules"
 ---

@@ -17,10 +17,6 @@ wis_score: 10
 cha_score: 3
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Blindsight 10 ft., Passive Perception 10"
 languages: ""
 challenge_rating: 0.125
@@ -29,7 +25,6 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.  
-legendary_actions: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

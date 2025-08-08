@@ -17,10 +17,6 @@ wis_score: 9
 cha_score: 3
 saving_throws: ""
 skills: "Stealth +4"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Blindsight 30 ft., Passive Perception 9"
 languages: ""
 challenge_rating: 0.125
@@ -30,7 +26,6 @@ traits: |
   **Amphibious.** The crab can breathe air and water.
 actions: |
   **Claw.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.  
-legendary_actions: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

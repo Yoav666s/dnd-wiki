@@ -17,9 +17,6 @@ wis_score: 8
 cha_score: 6
 saving_throws: ""
 skills: "Athletics +5, Perception +3, Stealth +3"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
 condition_immunities: "Blinded"
 senses: "Blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius), Passive Perception 13"
 languages: "Undercommon"
@@ -28,13 +25,12 @@ xp: 50
 proficiency_bonus: "+2"
 traits: |
   **Blind Senses.** The grimlock can't use its blindsight while deafened and unable to smell.
-    
-    **Keen Hearing and Smell.** The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.
-    
-    **Stone Camouflage.** The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+  
+  **Keen Hearing and Smell.** The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+  
+  **Stone Camouflage.** The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 actions: |
   **Spiked Bone Club.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.  
-legendary_actions: ""
 excerpt: "Medium Humanoid, Neutral Evil"
 source: "Basic Rules"
 ---

@@ -17,10 +17,6 @@ wis_score: 12
 cha_score: 7
 saving_throws: ""
 skills: "Perception +3"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 13"
 languages: ""
 challenge_rating: 1
@@ -30,7 +26,6 @@ traits: |
   **Rampage.** When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.  
-legendary_actions: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

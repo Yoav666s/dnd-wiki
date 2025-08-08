@@ -17,10 +17,6 @@ wis_score: 10
 cha_score: 2
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 10"
 languages: ""
 challenge_rating: 0
@@ -29,8 +25,7 @@ proficiency_bonus: "+2"
 traits: |
   **Water Breathing.** The sea horse can breathe only underwater.
 actions: |
-    
-legendary_actions: ""
+  
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

@@ -19,8 +19,6 @@ saving_throws: ""
 skills: ""
 damage_vulnerabilities: "Fire"
 damage_resistances: "Piercing"
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 10"
 languages: "one language known by its creator"
 challenge_rating: 0
@@ -30,7 +28,6 @@ traits: |
   **False Appearance.** While the shrub remains motionless, it is indistinguishable from a normal shrub.
 actions: |
   **Rake.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) slashing damage.  
-legendary_actions: ""
 excerpt: "Small Plant, Unaligned"
 source: "Basic Rules"
 ---

@@ -17,10 +17,6 @@ wis_score: 11
 cha_score: 7
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 10"
 languages: ""
 challenge_rating: 0.25
@@ -29,7 +25,6 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.  
-legendary_actions: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

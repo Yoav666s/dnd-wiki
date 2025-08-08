@@ -17,10 +17,6 @@ wis_score: 12
 cha_score: 6
 saving_throws: ""
 skills: "Perception +4"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Darkvision 60 ft., Passive Perception 14"
 languages: ""
 challenge_rating: 6
@@ -29,13 +25,12 @@ proficiency_bonus: "+3"
 traits: ""
 actions: |
   **Multiattack.** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
-    
-    **Bite.** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.
-    
-    **Claws.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
-    
-    **Stinger.** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.  
-legendary_actions: ""
+  
+  **Bite.** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.
+  
+  **Claws.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+  
+  **Stinger.** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.  
 excerpt: "Large Dragon, Unaligned"
 source: "Basic Rules"
 ---

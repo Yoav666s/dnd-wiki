@@ -17,10 +17,7 @@ wis_score: 10
 cha_score: 12
 saving_throws: "CON +8, WIS +3, CHA +4"
 skills: "Athletics +9, Perception +3"
-damage_vulnerabilities: ""
-damage_resistances: ""
 damage_immunities: "Cold"
-condition_immunities: ""
 senses: "Passive Perception 13"
 languages: "Giant"
 challenge_rating: 8
@@ -29,11 +26,10 @@ proficiency_bonus: "+3"
 traits: ""
 actions: |
   **Multiattack.** The giant makes two greataxe attacks.
-    
-    **Greataxe.** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 25 (3d12 + 6) slashing damage.
-    
-    **Rock.** Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage.  
-legendary_actions: ""
+  
+  **Greataxe.** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 25 (3d12 + 6) slashing damage.
+  
+  **Rock.** Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage.  
 excerpt: "Huge Giant, Neutral Evil"
 source: "Basic Rules"
 ---

@@ -17,10 +17,6 @@ wis_score: 11
 cha_score: 10
 saving_throws: ""
 skills: "Deception +2, Religion +2"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 10"
 languages: "any one language (usually Common)"
 challenge_rating: 0.125
@@ -30,7 +26,6 @@ traits: |
   **Dark Devotion.** The cultist has advantage on saving throws against being charmed or frightened.
 actions: |
   **Scimitar.** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.  
-legendary_actions: ""
 excerpt: "Medium Humanoid, Any Non-Good Alignment"
 source: "Basic Rules"
 ---

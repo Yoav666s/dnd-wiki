@@ -17,10 +17,6 @@ wis_score: 14
 cha_score: 5
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 12"
 languages: ""
 challenge_rating: 0
@@ -29,7 +25,6 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Bite.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.  
-legendary_actions: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

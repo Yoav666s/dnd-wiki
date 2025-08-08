@@ -17,10 +17,6 @@ wis_score: 10
 cha_score: 10
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 10"
 languages: "any one language (usually Common)"
 challenge_rating: 0.125
@@ -29,9 +25,8 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Scimitar.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
-    
-    **Light Crossbow.** Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.  
-legendary_actions: ""
+  
+  **Light Crossbow.** Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.  
 excerpt: "Medium Humanoid, Any Non-Lawful Alignment"
 source: "Basic Rules"
 ---

@@ -17,8 +17,6 @@ wis_score: 13
 cha_score: 15
 saving_throws: "DEX +4, CON +6, WIS +4, CHA +5"
 skills: "Deception +5, Perception +7, Stealth +4"
-damage_vulnerabilities: ""
-damage_resistances: ""
 damage_immunities: "Poison"
 condition_immunities: "Poisoned"
 senses: "Blindsight 30 ft., Darkvision 120 ft., Passive Perception 17"
@@ -30,13 +28,12 @@ traits: |
   **Amphibious.** The dragon can breathe air and water.
 actions: |
   **Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.
-    
-    **Bite.** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.
-    
-    **Claw.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
-    
-    **Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.  
-legendary_actions: ""
+  
+  **Bite.** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.
+  
+  **Claw.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+  
+  **Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.  
 excerpt: "Large Dragon, Lawful Evil"
 source: "Basic Rules"
 ---

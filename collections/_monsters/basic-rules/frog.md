@@ -17,10 +17,6 @@ wis_score: 8
 cha_score: 3
 saving_throws: ""
 skills: "Perception +1, Stealth +3"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Darkvision 30 ft., Passive Perception 11"
 languages: ""
 challenge_rating: 0
@@ -28,11 +24,10 @@ xp: 0
 proficiency_bonus: "+2"
 traits: |
   **Amphibious.** The frog can breathe air and water
-    
-    **Standing Leap.** The frog's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start.
+  
+  **Standing Leap.** The frog's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start.
 actions: |
-    
-legendary_actions: ""
+  
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

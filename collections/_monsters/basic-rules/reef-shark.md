@@ -17,10 +17,6 @@ wis_score: 10
 cha_score: 4
 saving_throws: ""
 skills: "Perception +2"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Blindsight 30 ft., Passive Perception 12"
 languages: ""
 challenge_rating: 0.5
@@ -28,11 +24,10 @@ xp: 100
 proficiency_bonus: "+2"
 traits: |
   **Pack Tactics.** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 ft. of the creature and the ally isn't incapacitated.
-    
-    **Water Breathing.** The shark can breathe only underwater.
+  
+  **Water Breathing.** The shark can breathe only underwater.
 actions: |
   **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.  
-legendary_actions: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

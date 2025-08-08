@@ -17,10 +17,6 @@ wis_score: 12
 cha_score: 7
 saving_throws: ""
 skills: "Athletics +5, Perception +3"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 13"
 languages: ""
 challenge_rating: 0.5
@@ -29,11 +25,10 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Multiattack.** The ape makes two fist attacks.
-    
-    **Fist.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
-    
-    **Rock.** Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.  
-legendary_actions: ""
+  
+  **Fist.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
+  
+  **Rock.** Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.  
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

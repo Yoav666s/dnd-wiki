@@ -17,10 +17,6 @@ wis_score: 12
 cha_score: 7
 saving_throws: ""
 skills: "Perception +3, Stealth +4"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 13"
 languages: ""
 challenge_rating: 0
@@ -30,7 +26,6 @@ traits: |
   **Keen Smell.** The cat has advantage on Wisdom (Perception) checks that rely on smell.
 actions: |
   **Claws.** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.  
-legendary_actions: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

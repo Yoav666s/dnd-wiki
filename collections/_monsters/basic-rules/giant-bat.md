@@ -17,10 +17,6 @@ wis_score: 12
 cha_score: 6
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Blindsight 60 ft., Passive Perception 11"
 languages: ""
 challenge_rating: 0.25
@@ -28,11 +24,10 @@ xp: 50
 proficiency_bonus: "+2"
 traits: |
   **Echolocation.** The bat can't use its blindsight while deafened.
-    
-    **Keen Hearing.** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
+  
+  **Keen Hearing.** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 actions: |
   **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.  
-legendary_actions: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

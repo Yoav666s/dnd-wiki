@@ -17,10 +17,6 @@ wis_score: 14
 cha_score: 11
 saving_throws: ""
 skills: "Medicine +4, Religion +2"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 12"
 languages: "any one language (usually Common)"
 challenge_rating: 0.25
@@ -33,7 +29,6 @@ traits: |
   - 1st level (3 slots): bless, cure wounds, sanctuary
 actions: |
   **Club.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.  
-legendary_actions: ""
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
 ---

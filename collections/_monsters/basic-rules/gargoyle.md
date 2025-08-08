@@ -17,7 +17,6 @@ wis_score: 11
 cha_score: 7
 saving_throws: ""
 skills: ""
-damage_vulnerabilities: ""
 damage_resistances: "Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren'T Adamantine"
 damage_immunities: "Poison"
 condition_immunities: "Exhaustion, Petrified, Poisoned"
@@ -30,11 +29,10 @@ traits: |
   **False Appearance.** While the gargoyle remains motion less, it is indistinguishable from an inanimate statue.
 actions: |
   **Multiattack.** The gargoyle makes two attacks: one with its bite and one with its claws.
-    
-    **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-    
-    **Claws.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.  
-legendary_actions: ""
+  
+  **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+  
+  **Claws.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.  
 excerpt: "Medium Elemental, Chaotic Evil"
 source: "Basic Rules"
 ---

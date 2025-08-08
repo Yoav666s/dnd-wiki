@@ -17,7 +17,6 @@ wis_score: 15
 cha_score: 11
 saving_throws: ""
 skills: "Perception +8, Stealth +10"
-damage_vulnerabilities: ""
 damage_resistances: "Bludgeoning, Piercing, And Slashing From Nonmagical Weapons"
 damage_immunities: "Poison"
 condition_immunities: "Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious"
@@ -28,13 +27,12 @@ xp: 2300
 proficiency_bonus: "+3"
 traits: |
   **Invisibility.** The stalker is invisible.
-    
-    **Faultless Tracker.** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
+  
+  **Faultless Tracker.** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
 actions: |
   **Multiattack.** The stalker makes two slam attacks.
-    
-    **Slam.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.  
-legendary_actions: ""
+  
+  **Slam.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.  
 excerpt: "Medium Elemental, Neutral"
 source: "Basic Rules"
 ---

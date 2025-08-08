@@ -17,10 +17,6 @@ wis_score: 15
 cha_score: 11
 saving_throws: ""
 skills: "Medicine +4, Nature +3, Perception +4"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 14"
 languages: "Druidic plus any two languages"
 challenge_rating: 2
@@ -34,7 +30,6 @@ traits: |
   - 2nd level (3 slots): animal messenger, barkskin
 actions: |
   **Quarterstaff.**  Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh.  
-legendary_actions: ""
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
 ---

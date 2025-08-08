@@ -17,7 +17,6 @@ wis_score: 12
 cha_score: 13
 saving_throws: "STR +7, CON +8, WIS +4"
 skills: ""
-damage_vulnerabilities: ""
 damage_resistances: "Cold, Fire, Lightning, Bludgeoning, Piercing, And Slashing From Nonmagical Weapons"
 damage_immunities: "Poison"
 condition_immunities: "Poisoned"
@@ -28,15 +27,14 @@ xp: 3900
 proficiency_bonus: "+3"
 traits: |
   **Magic Resistance.** The hezrou has advantage on saving throws against spells and other magical effects.
-    
-    **Stench.** Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
+  
+  **Stench.** Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
 actions: |
   **Multiattack.** The hezrou makes three attacks: one with its bite and two with its claws.
-    
-    **Bite.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
-    
-    **Claws.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.  
-legendary_actions: ""
+  
+  **Bite.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
+  
+  **Claws.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.  
 excerpt: "Large Fiend, Chaotic Evil"
 source: "Basic Rules"
 ---

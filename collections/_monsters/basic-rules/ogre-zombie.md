@@ -17,8 +17,6 @@ wis_score: 6
 cha_score: 5
 saving_throws: "WIS +0"
 skills: ""
-damage_vulnerabilities: ""
-damage_resistances: ""
 damage_immunities: "Poison"
 condition_immunities: "Poisoned"
 senses: "Darkvision 60 ft., Passive Perception 8"
@@ -30,7 +28,6 @@ traits: |
   **Undead Fortitude.** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 actions: |
   **Morningstar.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.  
-legendary_actions: ""
 excerpt: "Large Undead, Neutral Evil"
 source: "Basic Rules"
 ---

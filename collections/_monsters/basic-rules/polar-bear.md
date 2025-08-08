@@ -17,10 +17,6 @@ wis_score: 13
 cha_score: 7
 saving_throws: ""
 skills: "Perception +3"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 13"
 languages: ""
 challenge_rating: 2
@@ -30,11 +26,10 @@ traits: |
   **Keen Smell.** The bear has advantage on Wisdom (Perception) checks that rely on smell.
 actions: |
   **Multiattack.** The bear makes two attacks: one with its bite and one with its claws.
-    
-    **Bite.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage.
-    
-    **Claws.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.  
-legendary_actions: ""
+  
+  **Bite.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage.
+  
+  **Claws.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.  
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

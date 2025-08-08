@@ -17,10 +17,6 @@ wis_score: 14
 cha_score: 10
 saving_throws: ""
 skills: "Perception +4"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 14"
 languages: "Giant Eagle, understands Common and Auran but can't speak"
 challenge_rating: 1
@@ -30,11 +26,10 @@ traits: |
   **Keen Sight.** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 actions: |
   **Multiattack.** The eagle makes two attacks: one with its beak and one with its talons.
-    
-    **Beak.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
-    
-    **Talons.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.  
-legendary_actions: ""
+  
+  **Beak.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+  
+  **Talons.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.  
 excerpt: "Large Beast, Neutral Good"
 source: "Basic Rules"
 ---

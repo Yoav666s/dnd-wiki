@@ -17,10 +17,6 @@ wis_score: 13
 cha_score: 11
 saving_throws: ""
 skills: "Nature +4, Perception +5, Stealth +6, Survival +5"
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: ""
 senses: "Passive Perception 15"
 languages: "any one language (usually Common)"
 challenge_rating: 0.5
@@ -30,11 +26,10 @@ traits: |
   **Keen Hearing and Sight.** The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 actions: |
   **Multiattack.** The scout makes two melee attacks or two ranged attacks.
-    
-    **Shortsword.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-    
-    **Longbow.** Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.  
-legendary_actions: ""
+  
+  **Shortsword.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+  
+  **Longbow.** Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.  
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
 ---
