@@ -51,3 +51,17 @@ legendary_actions: |
   **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 excerpt: "Gargantuan Dragon, Chaotic Neutral"
 ---
+
+# Lair and Lair Actions
+
+## The Weathered Sentinel’s Lair
+The sentinel dwells among the clouds, making his lair on a secluded mountain peak. He makes the position of his lair known to his followers and acolytes, allowing them to go on pilgrimage to see him.
+
+## Lair Actions
+On initiative count 20 (losing initiative ties), the sentinel takes a lair action to cause one of the following effects:
+
+- The sentinel causes strong winds to blow as if he had cast the control winds (DC 15). The winds last until initiative count 20 on the next round.
+- The sentinel causes a churning storm cloud to form, centered on a point he can see and spreading to a radius of 360 feet. Until the cloud is dispelled, he can take the following lair actions:
+  - Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud must make a DC 15 Constitution saving throw. On a failed save, a creature takes 7 (2d6) thunder damage and becomes [condition]deafened[condition] for 5 minutes.
+  - The sentinel calls six lightning bolts to strike six creatures or objects beneath the cloud. A given creature or object can't be struck by more than one bolt. A struck creature must succeed a DC 15 Dexterity saving throw or take 5 (1d10) lightning damage.
+  - Gusts and freezing rain assail the area under the cloud. The area becomes difficult terrain and is heavily obscured. Each creature there must succeed a DC 15 Constitution saving throw or take 3 (1d6) cold damage.
