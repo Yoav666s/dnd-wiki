@@ -51,7 +51,7 @@ Starting at 1st level, you can use your bonus action on your turn to teleport up
 Beginning at 6th level, you can use your bonus action to become invisible immediately after you cast a spell of 1st level or higher. You stay invisible for 1 minute, or until you attack or cast a spell.
 
 # Element of Surprise
-Starting at 14th level, whenever you end the invisibile condition early by casting a spell, you can expend 1 sorcery point to resume invisibility for the rest of the duration.
+Starting at 14th level, whenever you end the invisible condition early by casting a spell, you can expend 1 sorcery point to resume invisibility for the rest of the duration.
 
 # Mesmerizing Presence
 Starting at 18th level, whenever you cast an Enchantment spell that requires one or more targets to make a saving throw, you can expend 1 sorcery point per target to impose disadvantage on its saving throw.
