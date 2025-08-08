@@ -11,7 +11,7 @@ excerpt: "A large half-island located in the south of Durn, mostly inhabited by 
 A large half-island located in the south of [[Durn]], mostly inhabited by dwarves. The worst battles of the [[Last War]] took place there, and is now one of the most strictly guarded countries in [[the empire]]. The elves have established new order, dividing the country to three main districts: [[Solemnvor]], [[Froste]], [[Mortmount]]
 
 # Solemnvore
-Referred to as *Sullenmerr* in Dwarvish. It is the northernmost district of Glenfast, bordering with Sad'aal Moran. Its capital city is Fausternott, or *Fosternuk* in Dwarvish. Often referred to as *'Nuk*, the capital is the heart of Glenfast. Though heavily guarded by soldiers of the empire, its streets are populated by people from all over Durn.
+Referred to as *Sullenmerr* in Dwarvish. It is the northernmost district of Glenfast, bordering with [[Sad'aal Moran]]. Its capital city is Fausternott, or *Fosternuk* in Dwarvish. Often referred to as *'Nuk*, the capital is the heart of Glenfast. Though heavily guarded by soldiers of [[the empire]], its streets are populated by people from all over Durn. It's located in a valley in-between the mountains, which is the reason that the great siege of the last war was so effective, eventually leading to a bloodless surrender.
 
 # Froste
 Referred to as the *Krass* in Dwarvish.
