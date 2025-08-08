@@ -11,17 +11,17 @@ excerpt: "The weaver is a deity, believed to be in charge of fate, destiny, and 
 #   teaser: /assets/images/lore/the-weaver/header.jpg
 ---
 
-> Tell me, o stranger, what is it that you seek;
+> Tell me, o stranger, what is it that you seek?
 >
-> Your eyes are so innocent, yet your gaze not so weak.
+> Your eyes are so innocent, yet your gaze not so weak;
 >
 > Your hair smooth as silk, your skin soft and green,
 >
-> Why should you hide when you want to be seen?
+> Why should you hide when you wish to be seen?
 >
-> Why would you run when you want to be held?
+> If you want to be held, why would you run?
 >
-> Why do you leave when you cast such a spell?
+> Is it your instinct, or part of the fun?
 > 
 > Am I just a victim, or am I a fool?
 >
