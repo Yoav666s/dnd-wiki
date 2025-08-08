@@ -19,7 +19,7 @@ excerpt: "The weaver is a deity, believed to be in charge of fate, destiny, and 
 >
 > Why should you hide when you want to be seen?
 >
-> Why should you run when you want to be held?
+> Why would you run when you want to be held?
 >
 > Why do you leave when you cast such a spell?
 > 
