@@ -13,19 +13,21 @@ Where others rely on brute force or rigid discipline, the Fey Warrior confounds 
 # Dazzling Demonstration
 Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Subterfuge]] cantrips, and gain proficiency in [[Deception]] if you don't already have it.
 
-# Flicker
-Starting at 3rd level, immediately before you make an attack, you can use your bonus action to teleport up to 15 feet to an unoccupied space you can see within range of the target of the attack. 
-
 # Fey Step
-Starting at 7th level, you can cast the [[Misty Step]] spell as a bonus action without expending a slot. You can do so twice, and you regain all expended uses when you finish a short or long rest.
+Starting at 3rd level, immediately before you make a melee attack, you can use your bonus action to teleport up to 15 feet to an unoccupied space you can see within range of the target of the attack.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses after you finish a short or long rest.
+
+# Double Vision
+At 7th level, you learn the [[Mirror Image]] spell and you can cast it without expending a spell slot. You can do so twice, and you regain all expended uses when you finish a short or long rest.
 
 # Disappearing Act
 Starting at 10th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 
-# Double Vision
-At 15th level, you learn the [[Mirror Image]] spell and you can cast it without expending a spell slot. You can do so twice, and you regain all expended uses when you finish a short or long rest.
+#
+Starting at 15th level,
 
 # Fey Invisibility
 Starting at 18th level, you learn the [[Greater Invisibility]] spell and you can cast it on yourself without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
