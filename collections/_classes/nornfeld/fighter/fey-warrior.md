@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/classes/fighter/fey-warrior/header.png
   teaser: /assets/images/classes/fighter/fey-warrior/header.jpg
 ---
-Where others rely on brute force or rigid discipline, the Fey Warrior confounds and dazzles. With a flash of light or a flourish of motion, they become elusive targets and masters of deception. Their presence on the battlefield is as unsettling as it is graceful, never where the enemy expects, never still, and never within reach.
+Where others rely on brute force or rigid discipline, the Fey Warrior takes a different approach. With a flash of light or a flourish of motion, they become elusive targets and masters of deception. Their presence on the battlefield is as unsettling as it is graceful, never where the enemy expects, never still, and never quite within reach.
 
 # Dazzling Demonstration
 Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Subterfuge]] cantrips, and gain proficiency in [[Deception]] if you don't already have it.
