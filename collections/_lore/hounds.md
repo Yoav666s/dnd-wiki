@@ -12,7 +12,7 @@ excerpt: "Barbarian tribes that reside outside of city limits and harass farmers
 
 There is a peculiar type of barbarian tribes that reside outside of city limits. Known as "The Hounds," they harass farmers, extorting them for goods. They're also commonly referred to as Pigs by city officials, as a derogatory term. Although they're mostly humans and humanoids, they speak a crude, rudimentary mix of Abyssal and Common, and most of them can't read and write.
 
-Since their sense of comprehension is so hopelessly banal, they're very difficult to negotiate with. And with their unabating tendency towards violence, it would be very much unadvisable to do so. Most farmers, completely horrified of what might happen, just give them everything they want so they would leave them in peace.
+Since their sense of comprehension is so hopelessly banal they're very difficult to negotiate with, and with their unabating tendency towards violence, it would be very much inadvisable to do so. Most farmers, completely horrified of what might happen, just give them everything they want so they would leave them in peace.
 
 # Mark of the Damned
 The Hounds are known for removing their own noses, which results in their resemblance of fiends. This is also the source of numerous derogatory terms, such as Pigs, Imps, and so on.
