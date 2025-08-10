@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/classes/cleric/shadow/header.jpg
 source: "Basic Rules"
 ---
-The Shadow Domain draws upon the divine aspects of concealment, illusion, and the unseen. Clerics who follow this path serve deities of night, secrets, or stealth—gods who dwell in the boundary between light and dark. These clerics are masters of subterfuge, misdirection, and striking from concealment. In both sacred duty and combat, they walk the threshold between the known and the hidden, shaping the battlefield through silence and shadow.
+The Shadow Domain draws upon the divine aspects of concealment, illusion, and the unseen. Clerics who follow this path serve deities of night, secrets, or stealth gods who dwell in the boundary between light and dark. These clerics are masters of subterfuge, misdirection, and striking from concealment. In both sacred duty and combat, they walk the threshold between the known and the hidden, shaping the battlefield through silence and shadow.
 
 # Shadow Domain Spells
 
