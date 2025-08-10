@@ -27,17 +27,15 @@ The Shadow Domain draws upon the divine aspects of concealment, illusion, and th
 When you choose this domain at 1st level, you gain proficiency in [[Stealth]] if you don't already have it.
 
 # Veil of Shadows
-Starting at 1st level, you can use your bonus action to take the [[hide]] action.
+Starting at 1st level, you can use your bonus action to take the [[hide]] action. You can attempt to hide even when you are only lightly obscured by natural or magical darkness.
 
-When you successfully hide, you can turn invisible for 1 minute or until you attack or cast a spell. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
+# Channel Divinity: Shadow Form
+Starting at 2nd level, you can use your Channel Divinity to allow yourself or another creature to enter shadow form.
 
-# Channel Divinity: Unseen Strike
-Starting at 2nd level, you can use your Channel Divinity to strike with supernatural precision.
+As an action, you touch a creature (possibly yourself) and for 1 minute, it has resistance to bludgeoning, piercing, and slashing damage. Additionally, it has a +10 bonus to Dexterity (Stealth) checks.
 
-When you make a weapon attack while invisible, you can use your Channel Divinity to automatically hit and treat the attack as a critical hit. You must declare the use of this feature before making the attack roll.
-
-# Blend in Darkness
-Starting at 6th level, you become engulfed in shadows. You can attempt to hide even when you are only lightly obscured by natural or magical darkness.
+# Misdirection 
+Starting at 6th level, when you make a ranged attack from being hidden, hit or miss, the next attack against the same target has advantage. 
 
 Additionally, you gain expertise in [[Stealth]].
 
@@ -45,7 +43,7 @@ Additionally, you gain expertise in [[Stealth]].
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 # Lethal Strike
-Starting at 17th level, when you hit a creature with a weapon attack from being invisible or hidden, you can deal maximum damage instead of rolling.
+Starting at 17th level, when you hit a creature with a ranged attack from being invisible or hidden, you can deal maximum damage instead of rolling.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
