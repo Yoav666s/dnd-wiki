@@ -27,12 +27,12 @@ The Shadow Domain draws upon the divine aspects of concealment, illusion, and th
 When you choose this domain at 1st level, you gain proficiency in [[Stealth]] if you don't already have it.
 
 # Veil of Shadows
-Starting at 1st level, you can use your bonus action to take the [[hide]] action. You can attempt to hide even when you are only lightly obscured by natural or magical darkness.
+Starting at 1st level, you can use your bonus action to take the [[hide]] action.
 
 # Channel Divinity: Shadow Form
 Starting at 2nd level, you can use your Channel Divinity to allow yourself or another creature to enter shadow form.
 
-As an action, you touch a creature (possibly yourself) and for 1 minute, it has resistance to bludgeoning, piercing, and slashing damage. Additionally, it has a +10 bonus to Dexterity (Stealth) checks.
+As an action, you touch a creature (possibly yourself) and for 1 minute, it has resistance to nonmagical bludgeoning, piercing, and slashing damage. Additionally, it has a +10 bonus to Dexterity (Stealth) checks.
 
 # Misdirection 
 Starting at 6th level, when you make a ranged attack from being invisible or hidden, hit or miss, the next attack against the same target has advantage. 
