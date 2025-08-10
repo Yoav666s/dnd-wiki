@@ -35,7 +35,7 @@ Starting at 2nd level, you can use your Channel Divinity to allow yourself or an
 As an action, you touch a creature (possibly yourself) and for 1 minute, it has resistance to bludgeoning, piercing, and slashing damage. Additionally, it has a +10 bonus to Dexterity (Stealth) checks.
 
 # Misdirection 
-Starting at 6th level, when you make a ranged attack from being hidden, hit or miss, the next attack against the same target has advantage. 
+Starting at 6th level, when you make a ranged attack from being invisible or hidden, hit or miss, the next attack against the same target has advantage. 
 
 Additionally, you gain expertise in [[Stealth]].
 
