@@ -44,7 +44,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 # Potent Spellcasting
 At 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
-# Improved Havoc
-Starting at 17th level, when you use Havoc, the damage increases to 2d8 plus four times your cleric level.
+# Wind Walker
+Starting at 17th level, you learn the [[Wind Walk]] spell, and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a long rest.
 
 [:classes/cleric/wind:]
