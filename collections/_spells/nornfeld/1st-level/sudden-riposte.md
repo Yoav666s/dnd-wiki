@@ -7,16 +7,12 @@ tags:
   - Spell
 available_for:
   - Druid
-  - Sorcerer
-  - Wizard
 level: "1st Level"
 school: "Evocation"
 range: "10 ft"
 comp:
   - V
   - S
-  - M
-material: "a legume seed"
 duration: "Instantaneous"
 concentration: false
 cast_time: "1 Reaction"
