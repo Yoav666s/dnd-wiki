@@ -29,7 +29,7 @@ When you choose this domain at 1st level, your walking speed is increased by 10 
 # Wind Magic
 Also starting at 1st level, you learn the [[Wind Blast]] cantrip.
 
-Additionally, you can take your bonus action to cast [[Expeditious Retreat]] without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest.
+Additionally, you can take your bonus action to cast [[Sudden Riposte]] without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest.
 
 # Channel Divinity: Havoc
 Starting at 2nd level, you can use your Channel Divinity to cause havoc throughout the battlefield.
