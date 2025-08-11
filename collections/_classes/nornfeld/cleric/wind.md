@@ -26,10 +26,10 @@ The Wind domain focuses on the ever-changing nature of wind, drawing power from 
 # Quick Feet
 When you choose this domain at 1st level, your walking speed is increased by 10 ft.
 
-# Wind Magic
-Also starting at 1st level, you learn the [[Wind Blast]] cantrip.
+# Wind Lash
+Also starting at 1st level, you can summon wind to ward off a melee attacker. When you're targeted by a melee attack, you can use your reaction to summon a burst of strong wind towards the attacking creature. It must succeed a Strength saving throw against your spell save DC or be pushed away 10 feet from you, canceling the attack.
 
-Additionally, you can take your reaction to cast [[Sudden Riposte]] without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your proficiency bonus, and you gain wll expended uses when you finish a long rest.
 
 # Channel Divinity: Havoc
 Starting at 2nd level, you can use your Channel Divinity to cause havoc throughout the battlefield.
