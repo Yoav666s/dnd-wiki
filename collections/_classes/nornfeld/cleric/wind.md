@@ -29,7 +29,7 @@ When you choose this domain at 1st level, your walking speed is increased by 10 
 # Wind Lash
 Also starting at 1st level, you can summon wind to ward off a melee attacker. When you're targeted by a melee attack, you can use your reaction to summon a burst of strong wind towards the attacking creature. It must succeed a Strength saving throw against your spell save DC or be pushed away 10 feet from you, canceling the attack.
 
-You can use this feature a number of times equal to your proficiency bonus, and you gain wll expended uses when you finish a long rest. A use is expended only if a target fails its saving throw.
+You can use this feature a number of times equal to your proficiency bonus, and you gain all expended uses when you finish a long rest. A use is expended only if a target fails its saving throw.
 
 # Channel Divinity: Havoc
 Starting at 2nd level, you can use your Channel Divinity to cause havoc throughout the battlefield.
