@@ -1,19 +1,18 @@
 ---
-title: "Shadow Domain"
+title: "Shroud Domain"
 index:
-  - shadow
-  - shadow-domain
-permalink: /classes/cleric/shadow/
-excerpt: "The Shadow Domain draws upon the divine aspects of concealment, illusion, and the unseen."
+  - shroud
+  - shroud-domain
+permalink: /classes/cleric/shroud/
+excerpt: "The Shroud Domain draws upon the divine aspects of concealment, illusion, and the unseen."
 subclass: cleric
 header:
-  overlay_image: /assets/images/classes/cleric/shadow/header.png
-  teaser: /assets/images/classes/cleric/shadow/header.jpg
-source: "Basic Rules"
+  overlay_image: /assets/images/classes/cleric/shroud/header.png
+  teaser: /assets/images/classes/cleric/shroud/header.jpg
 ---
-The Shadow Domain draws upon the divine aspects of concealment, illusion, and the unseen. Clerics who follow this path serve deities of night, secrets, or stealth gods who dwell in the boundary between light and dark. These clerics are masters of subterfuge, misdirection, and striking from concealment. In both sacred duty and combat, they walk the threshold between the known and the hidden, shaping the battlefield through silence and shadow.
+The Shroud Domain draws upon the divine aspects of concealment, illusion, and the unseen. Clerics who follow this path serve deities of night, secrets, or stealth gods who dwell in the boundary between light and dark. These clerics are masters of subterfuge, misdirection, and striking from concealment. In both sacred duty and combat, they walk the threshold between the known and the hidden, shaping the battlefield through silence and shadow.
 
-# Shadow Domain Spells
+# Shroud Domain Spells
 
 | Cleric Level | Spells                              |
 | :----------: | :---------------------------------- |
