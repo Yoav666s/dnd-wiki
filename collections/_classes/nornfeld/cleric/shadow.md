@@ -35,9 +35,7 @@ Starting at 2nd level, you can use your Channel Divinity to allow yourself or an
 As an action, you touch a creature (possibly yourself) and for 1 minute, it has a +10 bonus to Dexterity (Stealth) checks and it can attempt to hide when lightly obscured by regular or magical darkness.
 
 # Misdirection 
-Starting at 6th level, when you make a ranged attack from being invisible or hidden, hit or miss, the next attack against the same target has advantage. 
-
-Additionally, you gain expertise in [[Stealth]].
+Starting at 6th level, you gain expertise in [[Stealth]].
 
 # Umbral Strike
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
