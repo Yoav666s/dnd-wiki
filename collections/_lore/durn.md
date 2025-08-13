@@ -19,7 +19,7 @@ It's a half-island located in the south. it's mostly inhabited by halflings, gno
 It has three main districts: [[Solemnvor@glenfast]], [[Froste@glenfast]], [[Mortmount@glenfast]]
 
 # Urk'mor
-[[Urk'mor]] is 
+[[Urk'mor]], also known as the great marsh, is a country located in the center of Durn. It's home to many dragonborns, tieflings, and drow elves.
 
 # Rock Hollow
 Deep underground, there's a vast network of caverns and tunnels, leading anywhere and everywhere around Durn. It is believed to be alive, shifting and changing without pattern. Creatures from the surface who accidentally find an entrance are rarely seen again. It is said that the caverns play tricks on your mind, beguiling you with illusions of your worst fears and deepest desires.
