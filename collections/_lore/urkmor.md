@@ -13,4 +13,10 @@ Urk'mor, also known as the great marsh, is a country located in the center of [[
 During the [[last war]], the Morians were the most cunning adversary of the empire. Their powerful defense paired with numerous offensive operations led by the drow slowed the empire down in their campaign, leading the empire to resort to offering them a peace treaty. Both sides reached an agreement: Urk'mor won't prevent the empire from continuing eastwards, and the empire will let them keep their independence.
 
 # Morian Factions
-The people of Urk'mor are divided into two factions, the Metalborns and the Eyes of Dusk.
+The people of Urk'mor are divided into two factions, the Iron Guardians and the Eyes of Dusk.
+
+## Iron Guardians
+The Iron Guardians 
+
+## Eyes of Dusk
+The Eyes of Dusk consists exclusively of drow elves.
