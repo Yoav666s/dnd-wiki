@@ -3,8 +3,9 @@ title: "Urk'mor"
 index:
   - urkmor
 permalink: /lore/urkmor/
-excerpt: "A large half-island located in the south of Durn, mostly inhabited by dwarves."
+excerpt: "Urk'mor, also known as the great marsh, is a country located in the center of Durn. It's home to many dragonborns, tieflings, and drow elves."
 # header:
 #   overlay_image: /assets/images/lore/urkmor/header.png
 #   teaser: /assets/images/lore/urkmor/header.jpg
 ---
+Urk'mor, also known as the great marsh, is a country located in the center of Durn. It's home to many dragonborns, tieflings, and drow elves.
