@@ -18,6 +18,9 @@ The largest, most prosperous continent in [[Nornfeld]] mostly governed by the [[
 It's a half-island located in the south. it's mostly inhabited by halflings, gnomes, and dwarves.
 It has three main districts: [[Solemnvor@glenfast]], [[Froste@glenfast]], [[Mortmount@glenfast]]
 
+# Urk'mor
+[[Urk'mor]] is 
+
 # Rock Hollow
 Deep underground, there's a vast network of caverns and tunnels, leading anywhere and everywhere around Durn. It is believed to be alive, shifting and changing without pattern. Creatures from the surface who accidentally find an entrance are rarely seen again. It is said that the caverns play tricks on your mind, beguiling you with illusions of your worst fears and deepest desires.
 This network is commonly referred to as [[Rock Hollow]], the Hollow, or, simply, the caverns.
