@@ -11,4 +11,5 @@ header:
 ---
 
 #
-You learn the [[Subterfuge]] cantrip,
+You learn the [[Subterfuge]] cantrip. When you use it to teleport an object you are carrying to your hand, you can do so as an interaction with the object.
+
