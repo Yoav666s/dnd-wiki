@@ -23,7 +23,7 @@ Starting at 3rd level, you can use your bonus action to attempt to [[shove]] a c
 When you choose this archetype at 3rd level, you can add your [[proficiency bonus]] to your [[initiative]] rolls.
 
 # Unsavory Exploits
-Starting at 9th level, when a creature that has the [[prone]] condition tries to use its movement to get up within 5 feet of you, you can use your reaction to make a melee attack against that creature. 
+Starting at 9th level, when a creature that has the [[prone]] condition tries to use its movement to get up within 5 feet of you, you can use your reaction to make an [[opportunity attack]] against that creature. 
 
 # Brief Distraction
 Starting at 13th level, whenever you attempt to [[shove]] a creature, succeed or fail, your movement doesn't provoke opportunity attacks from that creature until the end of your turn.
