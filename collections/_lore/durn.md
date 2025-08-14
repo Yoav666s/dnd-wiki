@@ -14,12 +14,15 @@ The largest, most prosperous continent in [[Nornfeld]] mostly governed by the [[
 [[Sad'aal Moran]] is a relatively small but prosperous country located near the west coast of Durn. Mostly inhabited by elves, humans and half elves, Sad'aal is the heart of the empire.
 
 # Glenfast
-[[Glenfast]] is a large country in the continent of Durn.
+[[Glenfast]] is the largest country in the continent of Durn.
 It's a half-island located in the south. it's mostly inhabited by halflings, gnomes, and dwarves.
 It has three main districts: [[Solemnvor@glenfast]], [[Froste@glenfast]], [[Mortmount@glenfast]]
 
 # Urk'mor
 [[Urk'mor]], also known as the great marsh, is a country located in the center of Durn. It's home to many dragonborns, halflings, and drow elves.
+
+# Thortmere
+[[Thortmere]] is a small country in the north of Durn.
 
 # Rock Hollow
 Deep underground, there's a vast network of caverns and tunnels, leading anywhere and everywhere around Durn. It is believed to be alive, shifting and changing without pattern. Creatures from the surface who accidentally find an entrance are rarely seen again. It is said that the caverns play tricks on your mind, beguiling you with illusions of your worst fears and deepest desires.
