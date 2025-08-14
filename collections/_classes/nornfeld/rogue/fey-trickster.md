@@ -9,3 +9,6 @@ header:
 #  overlay_image: /assets/images/classes/rogue/buccaneer/header.png
 #  teaser: /assets/images/classes/rogue/buccaneer/header.jpg
 ---
+
+#
+You learn the [[Subterfuge]] cantrip,
