@@ -11,5 +11,4 @@ header:
 ---
 
 #
-You learn the [[Subterfuge]] cantrip. When you use it to teleport an object you are carrying to your hand, you can do so as an interaction with the object.
-
+Starting at 3rd level, you learn the [[Subterfuge]] cantrip. When you use it to teleport an object you are carrying to your hand, you can do so as an interaction with the object.
