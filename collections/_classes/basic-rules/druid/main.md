@@ -45,11 +45,11 @@ As a druid, you gain the following class features.
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
 
 ## Proficiencies
-Armor: Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
-Weapons: Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
-Tools: Herbalism kit
-Saving Throws: Intelligence, Wisdom
-Skills: Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
+**Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) \
+**Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears \
+**Tools:** Herbalism kit \
+**Saving Throws:** Intelligence, Wisdom \
+**Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
 ## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
