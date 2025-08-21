@@ -31,6 +31,9 @@ classes:
   - title: "Cleric"
     class: cleric
     url: /classes/cleric/
+  - title: "Druid"
+    class: druid
+    url: /classes/druid/
   - title: "Fighter"
     class: fighter
     url: /classes/fighter/
