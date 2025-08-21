@@ -68,8 +68,8 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | :--: | :--- |
 | 3rd | [[!Invisibility]], [[!Pass Without Trace]] |
 | 5th | [[!Daylight]], [[!Haste]] |
-| 7th | [[!]], [[!]] |
-| 9th | [[!]], [[!]] |
+| 7th | [[!Divination]], [[!Freedom of Movement]] |
+| 9th | [[!Dream]], [[!Insect Plague]] |
 
 ## Mountain 
 
