@@ -58,7 +58,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th | [[]], [[]] |
 | 9th | [[]], [[]] |
 
-## Grasslands
+## Grassland
 
 | Druid Level | Circle Spells |
 | 3rd | [[]], [[]] |
@@ -66,7 +66,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th | [[]], [[]] |
 | 9th | [[]], [[]] |
 
-## Coast
+## Mountain 
 
 | Druid Level | Circle Spells |
 | 3rd | [[]], [[]] |
