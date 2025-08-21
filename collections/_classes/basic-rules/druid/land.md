@@ -95,7 +95,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | :--: | :--- |
 | 3rd | [[!Spider Climb]], [[!Web]] |
 | 5th | [[!Gaseous Form]], [[!Stinking Cloud]] |
-| 7th | [[!]], [[!]] |
+| 7th | [[!Greater] Invisibility], [[!Stone Shape]] |
 | 9th | [[!]], [[!]] |
 
 # Land's Stride
