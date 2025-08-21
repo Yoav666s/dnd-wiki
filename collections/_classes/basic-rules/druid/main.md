@@ -53,9 +53,10 @@ As a druid, you gain the following class features.
 
 ## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-• (a) a wooden shield or (b) any simple weapon
-• (a) a scimitar or (b) any simple melee weapon
-• Leather armor, an explorer's pack, and a druidic focus
+
+- (a) a wooden shield or (b) any simple weapon
+- (a) a scimitar or (b) any simple melee weapon
+- Leather armor, an explorer's pack, and a druidic focus
 
 ## Druidic
 You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
