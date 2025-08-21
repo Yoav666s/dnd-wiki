@@ -30,10 +30,10 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 | Druid Level | Circle Spells |
 | :--: | :--- |
-| 3rd | [[!Hold Person]], [[Spike Growth]] |
-| 5th | [[]], [[]] |
-| 7th | [[]], [[]] |
-| 9th | [[]], [[]] |
+| 3rd | [[!Hold Person]], [[!Spike Growth]] |
+| 5th | [[!]], [[!]] |
+| 7th | [[!]], [[!]] |
+| 9th | [[!]], [[!]] |
 
 ## Coast
 
