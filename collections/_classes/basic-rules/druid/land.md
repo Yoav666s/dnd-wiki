@@ -78,7 +78,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 3rd | [[!Spider Climb]], [[!Spike Growth]] |
 | 5th | [[!Lightning Bolt]], [[!Meld into Stone]] |
 | 7th | [[!Stone Shape]], [[!Stoneskin]] |
-| 9th | [[!]], [[!]] |
+| 9th | [[!Passwall]], [[!Wall of Stone]] |
 
 ## Swamp 
 
