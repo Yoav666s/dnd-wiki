@@ -33,7 +33,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 3rd | [[!Hold Person]], [[!Spike Growth]] |
 | 5th | [[!Sleet Storm]], [[!Slow]] |
 | 7th | [[! Freedom of Movement]], [[!Ice Strom]] |
-| 9th | [[!]], [[!]] |
+| 9th | [[!Commune with Nature]], [[!Cone of Cold]] |
 
 ## Coast
 
