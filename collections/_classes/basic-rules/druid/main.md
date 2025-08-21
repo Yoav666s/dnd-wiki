@@ -93,4 +93,6 @@ Starting at 2nd level, you can use your action to magically assume the shape of 
 
 Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
 
-|||
+### Beast Shapes
+
+| Level | Max. CR | Limitations | Example |
