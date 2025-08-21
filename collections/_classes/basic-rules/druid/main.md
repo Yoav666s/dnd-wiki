@@ -99,3 +99,4 @@ Your druid level determines the beasts you can transform into, as shown in the B
 | :---: | :-----: | :---------- | :------ |
 | 2nd | 1/4 | No flying or swimming speed | Wolf |
 | 4th | 1/2 | No flying speed | Crocodile |
+| 8th | 1 || Giant eagle |
