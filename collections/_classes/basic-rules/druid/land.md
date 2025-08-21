@@ -42,6 +42,38 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th | [[]], [[]] |
 | 9th | [[]], [[]] |
 
+## Desert 
+
+| Druid Level | Circle Spells |
+| 3rd | [[]], [[]] |
+| 5th | [[]], [[]] |
+| 7th | [[]], [[]] |
+| 9th | [[]], [[]] |
+
+## Forest
+
+| Druid Level | Circle Spells |
+| 3rd | [[]], [[]] |
+| 5th | [[]], [[]] |
+| 7th | [[]], [[]] |
+| 9th | [[]], [[]] |
+
+## Grasslands
+
+| Druid Level | Circle Spells |
+| 3rd | [[]], [[]] |
+| 5th | [[]], [[]] |
+| 7th | [[]], [[]] |
+| 9th | [[]], [[]] |
+
+## Coast
+
+| Druid Level | Circle Spells |
+| 3rd | [[]], [[]] |
+| 5th | [[]], [[]] |
+| 7th | [[]], [[]] |
+| 9th | [[]], [[]] |
+
 # Land's Stride
 Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
