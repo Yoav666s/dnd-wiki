@@ -7,8 +7,6 @@ tags:
   - Spell
 available_for:
   - Druid
-  - Wizard
-  - Sorcerer
 level: "Cantrip"
 school: "Transmutation"
 range: "30 ft"
