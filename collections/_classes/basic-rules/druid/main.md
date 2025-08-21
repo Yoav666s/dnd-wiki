@@ -15,7 +15,7 @@ Whether calling on the elemental forces of nature or emulating the creatures of 
 
 | Level | Proficiency Bonus| Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | :---: | :---: | :---- | :---: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 1st | +2 || 2 | 2 | - | - | - | - | - | - | - | - |
+| 1st | +2 | [[Druidic]], [[Spellcasting]] | 2 | 2 | - | - | - | - | - | - | - | - |
 | 2nd | +2 || 2 | 3 | - | - | - | - | - | - | - | - |
 | 3rd | +2 || 2 | 4 | 2 | - | - | - | - | - | - | - |
 | 4th | +2 || 3 | 4 | 3 | - | - | - | - | - | - | - |
