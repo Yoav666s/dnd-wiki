@@ -4,7 +4,7 @@ index:
   - land
   - circle-of-the-land
 permalink: /classes/druid/land/
-excerpt: ""
+excerpt: "The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition."
 subclass: druid
 # header:
 #   overlay_image: /assets/images/classes/druid/header.png
