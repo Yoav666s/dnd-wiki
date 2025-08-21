@@ -67,7 +67,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | Druid Level | Circle Spells |
 | :--: | :--- |
 | 3rd | [[!Invisibility]], [[!Pass Without Trace]] |
-| 5th | [[!]], [[!]] |
+| 5th | [[!Daylight]], [[!Haste]] |
 | 7th | [[!]], [[!]] |
 | 9th | [[!]], [[!]] |
 
