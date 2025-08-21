@@ -32,16 +32,16 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | :--: | :--- |
 | 3rd | [[!Hold Person]], [[!Spike Growth]] |
 | 5th | [[!Sleet Storm]], [[!Slow]] |
-| 7th | [[! Freedom of Movement]], [[!Ice Strom]] |
+| 7th | [[!Freedom of Movement]], [[!Ice Strom]] |
 | 9th | [[!Commune with Nature]], [[!Cone of Cold]] |
 
 ## Coast
 
 | Druid Level | Circle Spells |
 | :--: | :--- |
-| 3rd | [[! Mirror Image]], [[!Misty Step]] |
+| 3rd | [[!Mirror Image]], [[!Misty Step]] |
 | 5th | [[!Water Breathing]], [[!Water Walk]] |
-| 7th | [[!]], [[!]] |
+| 7th | [[!Control Water]], [[!Freedom of Movement]] |
 | 9th | [[!]], [[!]] |
 
 ## Desert 
