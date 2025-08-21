@@ -50,7 +50,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | :--: | :--- |
 | 3rd | [[!Blur]], [[!Silence]] |
 | 5th | [[!Create Food and Water]], [[! Protection from Energy]] |
-| 7th | [[!]], [[!]] |
+| 7th | [[!Blight]], [[!Hallucinatory Terrain]] |
 | 9th | [[!]], [[!]] |
 
 ## Forest
