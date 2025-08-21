@@ -19,7 +19,7 @@ cast_time: "1 Reaction"
 reaction: "which you take when you're hit by a melee attack"
 ritual: false
 attack: "STR Save"
-effect: "Bludgeoning"
+effect: "Prone"
 description: |
   You unleash a burst of forceful wind against a creature that hits you with a melee attack. The the creature must make a Strength saving throw. On failure, the creature is pushed 20 feet away from the you and falls prone.
 
