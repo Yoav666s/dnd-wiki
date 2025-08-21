@@ -21,9 +21,9 @@ ritual: false
 attack: "STR Save"
 effect: "Prone"
 description: |
-  You unleash a burst of forceful wind against a creature that hits you with a melee attack. The the creature must make a Strength saving throw. On failure, the creature is pushed 20 feet away from the you and falls prone.
+  You unleash a burst of forceful wind against a creature that hits you with a melee attack. Both you and the the creature must make a Strength saving throw. On failure, a creature is pushed 15 feet away from the other, and the attacking creature falls prone.
 
-  **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, the distance the creature is pushed increases by 10 feet.
+  **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, the distance the creature is pushed increases by 5 feet.
 excerpt: "You unleash a burst of forceful wind against a creature that hits you with a melee attack."
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
