@@ -18,7 +18,7 @@ Whether calling on the elemental forces of nature or emulating the creatures of 
 | 1st | +2 | [[Druidic]], [[Spellcasting]] | 2 | 2 | - | - | - | - | - | - | - | - |
 | 2nd | +2 | [[Wild Shape]], [[Druidic Circle]] | 2 | 3 | - | - | - | - | - | - | - | - |
 | 3rd | +2 || 2 | 4 | 2 | - | - | - | - | - | - | - |
-| 4th | +2 || 3 | 4 | 3 | - | - | - | - | - | - | - |
+| 4th | +2 | [[Wild Shape]] improvement, [[Ability Score Improvement]] | 3 | 4 | 3 | - | - | - | - | - | - | - |
 | 5th | +3 || 3 | 4 | 3 | 2 | - | - | - | - | - | - |
 | 6th | +3 || 3 | 4 | 3 | 3 | - | - | - | - | - | - |
 | 7th | +3 || 3 | 4 | 3 | 3 | 1 | - | - | - | - | - |
