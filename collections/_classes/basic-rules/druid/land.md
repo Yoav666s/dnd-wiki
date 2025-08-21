@@ -85,8 +85,8 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | Druid Level | Circle Spells |
 | :--: | :--- |
 | 3rd | [[!Darkness]], [[!Acid Arrow]] |
-| 5th | [[!]], [[!]] |
-| 7th | [[!]], [[!]] |
+| 5th | [[!Waterwalk]], [[!Stinking Cloud]] |
+| 7th | [[!Freedom of Movement]], [[!Locate Creature]] |
 | 9th | [[!]], [[!]] |
 
 ## Underdark
