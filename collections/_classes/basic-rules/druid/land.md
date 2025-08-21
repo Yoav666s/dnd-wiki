@@ -87,7 +87,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 3rd | [[!Darkness]], [[!Acid Arrow]] |
 | 5th | [[!Waterwalk]], [[!Stinking Cloud]] |
 | 7th | [[!Freedom of Movement]], [[!Locate Creature]] |
-| 9th | [[!]], [[!]] |
+| 9th | [[!Insect Plague]], [[!Scrying]] |
 
 ## Underdark
 
