@@ -42,7 +42,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 3rd | [[!Mirror Image]], [[!Misty Step]] |
 | 5th | [[!Water Breathing]], [[!Water Walk]] |
 | 7th | [[!Control Water]], [[!Freedom of Movement]] |
-| 9th | [[!]], [[!]] |
+| 9th | [[!Conjure Elemental]], [[!Scrying]] |
 
 ## Desert 
 
