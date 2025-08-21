@@ -59,8 +59,8 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | :--: | :--- |
 | 3rd | [[!Barkskin]], [[!Spider Climb]] |
 | 5th | [[!Call Lightning]], [[!Plant Growth]] |
-| 7th | [[!]], [[!]] |
-| 9th | [[!]], [[!]] |
+| 7th | [[!Divination]], [[!Freedom of Movement]] |
+| 9th | [[!Commune with Nature]], [[!Tree Stride]] |
 
 ## Grassland
 
