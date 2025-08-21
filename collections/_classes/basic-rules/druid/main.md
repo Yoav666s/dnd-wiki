@@ -30,3 +30,5 @@ Whether calling on the elemental forces of nature or emulating the creatures of 
 | 13th | +5 || 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 14th | +5 || 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 15th | +5 || 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16th | +5 || 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17th | +6 || 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
