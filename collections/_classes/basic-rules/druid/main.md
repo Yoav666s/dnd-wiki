@@ -23,3 +23,4 @@ Whether calling on the elemental forces of nature or emulating the creatures of 
 | 6th | +3 || 3 | 4 | 3 | 3 | - | - | - | - | - | - |
 | 7th | +3 || 3 | 4 | 3 | 3 | 1 | - | - | - | - | - |
 | 8th | +3 || 3 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9th | +4 || 3 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
