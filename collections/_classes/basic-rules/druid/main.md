@@ -97,3 +97,4 @@ Your druid level determines the beasts you can transform into, as shown in the B
 
 | Level | Max. CR | Limitations | Example |
 | :---: | :-----: | :---------- | :------ |
+| 2nd | 1/4 | No flying or swimming speed | Wolf |
