@@ -96,7 +96,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 3rd | [[!Spider Climb]], [[!Web]] |
 | 5th | [[!Gaseous Form]], [[!Stinking Cloud]] |
 | 7th | [[!Greater] Invisibility], [[!Stone Shape]] |
-| 9th | [[!]], [[!]] |
+| 9th | [[!Cloudkill]], [[!Insect Plague]] |
 
 # Land's Stride
 Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
