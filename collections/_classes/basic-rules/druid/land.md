@@ -76,7 +76,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | Druid Level | Circle Spells |
 | :--: | :--- |
 | 3rd | [[!Spider Climb]], [[!Spike Growth]] |
-| 5th | [[!]], [[!]] |
+| 5th | [[!Lightning Bolt]], [[!Meld into Stone]] |
 | 7th | [[!]], [[!]] |
 | 9th | [[!]], [[!]] |
 
