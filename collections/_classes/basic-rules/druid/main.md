@@ -26,12 +26,12 @@ Whether calling on the elemental forces of nature or emulating the creatures of 
 | 9th | +4 || 3 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
 | 10th | +4 | [[Druidic Circle]] feature | 4 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
 | 11th | +4 || 4 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
-| 12th | +4 || 4 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12th | +4 | [[Ability Score Improvement]] | 4 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
 | 13th | +5 || 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 14th | +5 | [[Druidic Circle]] feature | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 15th | +5 || 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
-| 16th | +5 || 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16th | +5 | [[Ability Score Improvement]] | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
 | 17th | +6 || 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18th | +6 || 4 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19th | +6 || 4 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 19th | +6 | [[Ability Score Improvement]] | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 || 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
