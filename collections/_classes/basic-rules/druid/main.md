@@ -19,3 +19,4 @@ Whether calling on the elemental forces of nature or emulating the creatures of 
 | 2nd | +2 || 2 | 3 | - | - | - | - | - | - | - | - |
 | 3rd | +2 || 2 | 4 | 2 | - | - | - | - | - | - | - |
 | 4th | +2 || 3 | 4 | 3 | - | - | - | - | - | - | - |
+| 5th | +3 || 3 | 4 | 3 | 2 | - | - | - | - | - | - |
