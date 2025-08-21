@@ -29,6 +29,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 ## Arctic 
 
 | Druid Level | Circle Spells |
+| :--: | :--- |
 | 3rd | [[]], [[]] |
 | 5th | [[]], [[]] |
 | 7th | [[]], [[]] |
@@ -37,6 +38,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 ## Coast
 
 | Druid Level | Circle Spells |
+| :--: | :--- |
 | 3rd | [[]], [[]] |
 | 5th | [[]], [[]] |
 | 7th | [[]], [[]] |
@@ -45,6 +47,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 ## Desert 
 
 | Druid Level | Circle Spells |
+| :--: | :--- |
 | 3rd | [[]], [[]] |
 | 5th | [[]], [[]] |
 | 7th | [[]], [[]] |
@@ -53,6 +56,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 ## Forest
 
 | Druid Level | Circle Spells |
+| :--: | :--- |
 | 3rd | [[]], [[]] |
 | 5th | [[]], [[]] |
 | 7th | [[]], [[]] |
@@ -61,6 +65,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 ## Grassland
 
 | Druid Level | Circle Spells |
+| :--: | :--- |
 | 3rd | [[]], [[]] |
 | 5th | [[]], [[]] |
 | 7th | [[]], [[]] |
@@ -69,6 +74,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 ## Mountain 
 
 | Druid Level | Circle Spells |
+| :--: | :--- |
 | 3rd | [[]], [[]] |
 | 5th | [[]], [[]] |
 | 7th | [[]], [[]] |
@@ -77,6 +83,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 ## Swamp 
 
 | Druid Level | Circle Spells |
+| :--: | :--- |
 | 3rd | [[]], [[]] |
 | 5th | [[]], [[]] |
 | 7th | [[]], [[]] |
@@ -85,6 +92,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 ## Underdark
 
 | Druid Level | Circle Spells |
+| :--: | :--- |
 | 3rd | [[]], [[]] |
 | 5th | [[]], [[]] |
 | 7th | [[]], [[]] |
