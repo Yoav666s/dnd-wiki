@@ -26,7 +26,14 @@ Your mystical connection to the land infuses you with the ability to cast certai
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-|||
+## Arctic 
+
+| Druid Level | Circle Spells |
+| 3rd | [[]], [[]] |
+| 5th | [[]], [[]] |
+| 7th | [[]], [[]] |
+| 9th | [[]], [[]] |
+
 
 # Land's Stride
 Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
