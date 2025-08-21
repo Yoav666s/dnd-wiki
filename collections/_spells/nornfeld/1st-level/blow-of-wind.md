@@ -21,7 +21,7 @@ ritual: false
 attack: "STR Save"
 effect: "Bludgeoning"
 description: |
-  You unleash a burst of forceful wind against a creature that hits you with a melee attack. Both you and the creature must make a Strength saving throw. On failure, a creature is pushed 15 feet away from the other and falls prone.
+  You unleash a burst of forceful wind against a creature that hits you with a melee attack. Both you and the creature must make a Strength saving throw. On failure, a creature is pushed 20 feet away from the other.
 
   **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, the distance each creature is pushed increases by 5 feet.
 excerpt: "You unleash a burst of forceful wind against a creature that hits you with a melee attack."
