@@ -40,6 +40,9 @@ classes:
   - title: "Monk"
     class: monk
     url: /classes/monk/
+  - title: "Paladin"
+    class: paladin
+    url: /classes/paladin/
   - title: "Ranger"
     class: ranger
     url: /classes/ranger/
