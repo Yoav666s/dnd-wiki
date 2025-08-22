@@ -102,3 +102,13 @@ Spell attack modifier = your proficiency bonus + your Charisma modifier
 
 ### Spellcasting Focus
 You can use a holy symbol as a spellcasting focus for your paladin spells.
+
+## Divine Smite
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
+
+## Divine Health
+By 3rd level, the divine magic flowing through you makes you immune to disease.
+
+## Sacred Oath
+When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
+
