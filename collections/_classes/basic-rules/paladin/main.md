@@ -15,3 +15,5 @@ Whether sworn before a god's altar and the witness of a priest, in a sacred glad
 
 | Level | Proficiency Bonus | Features | 1st | 2nd | 3rd | 4th | 5th |
 | :---: | :---: | :---- | :--: | :--: | :--: | :--: | :--: |
+| 1st | +2 || - | - | - | - | - |
+| 2nd | +2 || 2 | - | - | - | - |
