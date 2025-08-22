@@ -22,10 +22,10 @@ It has three main districts: [[Solemnvor@glenfast]], [[Froste@glenfast]], [[Mort
 [[Urk'mor]], also known as the great marsh, is a country located in the center of Durn. It's home to many dragonborns, halflings, and drow elves. Its capital is Hawlford.
 
 # Thortmere
-[[Thortmere]] is a small country in the north of Durn. Its capital is Rostall.
+[[Thortmere]] is a small country in the north of Durn. Its capital is Corodill.
 
 # Hoverncast
-[[Hoverncast]], also known as the east coast, is a prosperous country in the east of Durn.
+[[Hoverncast]], also known as the east coast, is a country in the east of Durn. Its capital Rostall is on the coast, a prosperous fishing town.
 
 # Rock Hollow
 Deep underground, there's a vast network of caverns and tunnels, leading anywhere and everywhere around Durn. It is believed to be alive, shifting and changing without pattern. Creatures from the surface who accidentally find an entrance are rarely seen again. It is said that the caverns play tricks on your mind, beguiling you with illusions of your worst fears and deepest desires.
