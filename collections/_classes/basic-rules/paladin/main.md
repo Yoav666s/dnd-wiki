@@ -17,3 +17,5 @@ Whether sworn before a god's altar and the witness of a priest, in a sacred glad
 | :---: | :---: | :---- | :--: | :--: | :--: | :--: | :--: |
 | 1st | +2 || - | - | - | - | - |
 | 2nd | +2 || 2 | - | - | - | - |
+| 3rd | +2 || 3 | - | - | - | - |
+| 4th | +2 || 3 | - | - | - | - |
