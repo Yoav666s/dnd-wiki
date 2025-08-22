@@ -19,9 +19,9 @@ Whether sworn before a god's altar and the witness of a priest, in a sacred glad
 | 2nd | +2 | [[Fighting Style]], [[Spellcasting]], [[Divine Smite]] | 2 | - | - | - | - |
 | 3rd | +2 | [[Divine Health]], [[Sacred Oath]] | 3 | - | - | - | - |
 | 4th | +2 | [[Ability Score Improvement]] | 3 | - | - | - | - |
-| 5th | +3 || 4 | 2 | - | - | - |
-| 6th | +3 || 4 | 2 | - | - | - |
-| 7th | +3 || 4 | 3 | - | - | - |
+| 5th | +3 | [[Extra Attack]] | 4 | 2 | - | - | - |
+| 6th | +3 | [[Aura of Protection]] | 4 | 2 | - | - | - |
+| 7th | +3 | [[Sacred Oath]] feature | 4 | 3 | - | - | - |
 | 8th | +3 | [[Ability Score Improvement]] | 4 | 3 | - | - | - |
 | 9th | +4 || 4 | 3 | 2 | - | - |
 | 10th | +4 || 4 | 3 | 2 | - | - |
