@@ -25,7 +25,7 @@ Whether sworn before a god's altar and the witness of a priest, in a sacred glad
 | 8th | +3 | [[Ability Score Improvement]] | 4 | 3 | - | - | - |
 | 9th | +4 || 4 | 3 | 2 | - | - |
 | 10th | +4 | [[Aura of Courage]] | 4 | 3 | 2 | - | - |
-| 11th | +4 || 4 | 3 | 3 | - | - |
+| 11th | +4 | [[Improved Divine Smite]] | 4 | 3 | 3 | - | - |
 | 12th | +4 | [[Ability Score Improvement]] | 4 | 3 | 3 | - | - |
 | 13th | +5 || 4 | 3 | 3 | 1 | - |
 | 14th | +5 || 4 | 3 | 3 | 1 | - |
