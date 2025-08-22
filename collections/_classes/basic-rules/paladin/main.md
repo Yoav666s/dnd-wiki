@@ -27,3 +27,7 @@ Whether sworn before a god's altar and the witness of a priest, in a sacred glad
 | 10th | +4 || 4 | 3 | 2 | - | - |
 | 11th | +4 || 4 | 3 | 3 | - | - |
 | 12th | +4 || 4 | 3 | 3 | - | - |
+| 13th | +4 || 4 | 3 | 3 | 1 | - |
+| 14th | +4 || 4 | 3 | 3 | 1 | - |
+| 15th | +4 || 4 | 3 | 3 | 2 | - |
+| 16th | +4 || 4 | 3 | 3 | 2 | - |
