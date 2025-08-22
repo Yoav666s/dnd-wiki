@@ -16,7 +16,7 @@ Whether sworn before a god's altar and the witness of a priest, in a sacred glad
 | Level | Proficiency Bonus | Features | 1st | 2nd | 3rd | 4th | 5th |
 | :---: | :---: | :---- | :--: | :--: | :--: | :--: | :--: |
 | 1st | +2 | [[Divine Sense]], [[Lay on Hands]] | - | - | - | - | - |
-| 2nd | +2 || 2 | - | - | - | - |
+| 2nd | +2 | [[Fighting Style]], [[Spellcasting]], [[Divine Smite]] | 2 | - | - | - | - |
 | 3rd | +2 || 3 | - | - | - | - |
 | 4th | +2 || 3 | - | - | - | - |
 | 5th | +3 || 4 | 2 | - | - | - |
