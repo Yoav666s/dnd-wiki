@@ -28,8 +28,8 @@ Whether sworn before a god's altar and the witness of a priest, in a sacred glad
 | 11th | +4 | [[Improved Divine Smite]] | 4 | 3 | 3 | - | - |
 | 12th | +4 | [[Ability Score Improvement]] | 4 | 3 | 3 | - | - |
 | 13th | +5 || 4 | 3 | 3 | 1 | - |
-| 14th | +5 || 4 | 3 | 3 | 1 | - |
-| 15th | +5 || 4 | 3 | 3 | 2 | - |
+| 14th | +5 | [[Cleansing Touch]] | 4 | 3 | 3 | 1 | - |
+| 15th | +5 | [[Sacred Oath]] feature | 4 | 3 | 3 | 2 | - |
 | 16th | +5 | [[Ability Score Improvement]] | 4 | 3 | 3 | 2 | - |
 | 17th | +6 || 4 | 3 | 3 | 2 | 1 |
 | 18th | +6 || 4 | 3 | 3 | 2 | 1 |
