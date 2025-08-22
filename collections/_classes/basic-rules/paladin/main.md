@@ -17,7 +17,7 @@ Whether sworn before a god's altar and the witness of a priest, in a sacred glad
 | :---: | :---: | :---- | :--: | :--: | :--: | :--: | :--: |
 | 1st | +2 | [[Divine Sense]], [[Lay on Hands]] | - | - | - | - | - |
 | 2nd | +2 | [[Fighting Style]], [[Spellcasting]], [[Divine Smite]] | 2 | - | - | - | - |
-| 3rd | +2 || 3 | - | - | - | - |
+| 3rd | +2 | [[Divine Health]], [[Sacred Oath]] | 3 | - | - | - | - |
 | 4th | +2 || 3 | - | - | - | - |
 | 5th | +3 || 4 | 2 | - | - | - |
 | 6th | +3 || 4 | 2 | - | - | - |
