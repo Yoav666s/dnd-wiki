@@ -32,6 +32,6 @@ Whether sworn before a god's altar and the witness of a priest, in a sacred glad
 | 15th | +5 | [[Sacred Oath]] feature | 4 | 3 | 3 | 2 | - |
 | 16th | +5 | [[Ability Score Improvement]] | 4 | 3 | 3 | 2 | - |
 | 17th | +6 || 4 | 3 | 3 | 2 | 1 |
-| 18th | +6 || 4 | 3 | 3 | 2 | 1 |
+| 18th | +6 | Aura improvements | 4 | 3 | 3 | 2 | 1 |
 | 19th | +6 | [[Ability Score Improvement]] | 4 | 3 | 3 | 2 | 2 |
-| 20th | +6 || 4 | 3 | 3 | 2 | 2 |
+| 20th | +6 | [[Sacred Oath]] feature | 4 | 3 | 3 | 2 | 2 |
