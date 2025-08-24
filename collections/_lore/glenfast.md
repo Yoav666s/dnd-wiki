@@ -13,6 +13,12 @@ A large half-island located in the south of [[Durn]], mostly inhabited by dwarve
 # Solemnvore
 Referred to as *Sullenmerr* in Dwarvish. It is the northernmost district to the west of Glenfast, bordering with [[Sad'aal Moran]]. Its capital city is Fausternott, or *Fosternuk* in Dwarvish. Often referred to as *'Nuk*, the capital is the heart of Glenfast. Though heavily guarded by soldiers of [[the empire]], its streets are populated by people from all over Durn. It's located in a valley in-between the mountains, which is the reason that the great siege of the last war was so effective, eventually leading to a bloodless surrender.
 
+## Other Cities
+
+- Tethermill
+- Dullengale
+- Silterbast
+
 # Froste
 Referred to as the *Krass* in Dwarvish. It is located to the east of Glenfast, full of mountains and caverns. Mostly populated by gnomes.
 
