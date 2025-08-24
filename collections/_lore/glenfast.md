@@ -33,6 +33,12 @@ Referred to as *Otterkrest* in Dwarvish. The southern-most part of the country, 
 
 Due to the shape of the terrain, docks or ports could not be built and thus the inhabitants have no access to trade overseas. This has been one of the most crucial weaknesses that the Sad'aaly have exploited during the Last War and has eventually led to the empire's triumph.
 
+## Other Cities 
+
+- Whethenbar
+- Krease
+- Denklar
+
 ## Norven Cort
 
 [:monsters/norven-cort:]
