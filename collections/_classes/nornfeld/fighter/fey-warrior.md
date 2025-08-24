@@ -19,7 +19,7 @@ Starting at 3rd level, immediately before you make a melee attack, you can use y
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses after you finish a short or long rest.
 
 # Double Vision
-At 7th level, you learn the [[Mirror Image]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest.
+At 7th level, you can use your action to create an illusory duplicate of yourself in an unoccupied space you can see within 5 feet of you. It moves with you and mimics your actions, and lasts for 1 minute or until you dismiss it (no action required).
 
 # Disappearing Act
 Starting at 10th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
