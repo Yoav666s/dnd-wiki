@@ -19,7 +19,7 @@ It's a half-island located in the south. it's mostly inhabited by halflings, gno
 It has three main districts: [[Solemnvor@glenfast]], [[Froste@glenfast]], [[Mortmount@glenfast]]
 
 # Urk'mor
-[[Urk'mor]], also known as the great marsh, is a country located in the center of Durn. It's home to many dragonborns, halflings, and drow elves. Its capital is Hawlford.
+[[Urk'mor]], also known as the great marsh, is a country located in the center of Durn. It's home to many dragonborns, halflings, and drow elves. Its capital is [[Hawlford@urkmor]].
 
 # Thortmere
 [[Thortmere]] is a small country in the north of Durn. Its capital is Corodill.
