@@ -13,5 +13,11 @@ excerpt: "A relatively small but prosperous elven country located near the west 
 
 A relatively small but prosperous country located near the west coast of [[Durn]], also known as the west coast. Mostly inhabited by elves, Sad'aal Moran is the heart of [[the empire]].
 
-## Lumis D'irumia
+# Lumis D'irumia
 D'irumia is the capital of the west coast, home to the most noble families in the empire.
+
+# Other Cities
+
+- Ji'saal
+- Frestmouth
+-
