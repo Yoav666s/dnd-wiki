@@ -20,3 +20,11 @@ The Iron Guardians
 
 ## Eyes of Dusk
 The Eyes of Dusk consists exclusively of drow elves.
+
+# Other Cities
+
+- Horkstane
+- Grondall
+- Restforne
+- Kruette
+- Esparth
