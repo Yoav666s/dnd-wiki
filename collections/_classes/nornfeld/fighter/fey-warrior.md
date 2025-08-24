@@ -28,7 +28,7 @@ A creature is unaffected by this feature if it can’t see, if it relies on sens
 You can use this feature a number of times equal to your proficiency bonus and you regain all expended uses when you finish a short or long rest.
 
 # Disappearing Act
-Starting at 10th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
+Starting at 10th level, when an attack misses you, you can use your reaction to become invisible until the start of your next turn or until you take damage.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 
