@@ -33,7 +33,9 @@ Starting at 10th level, when an attack misses you, you can use your reaction to 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 
 # Flicker
-Starting at 15th level, your image shifts and flickers during combat. You gain a +2 bonus to your AC.
+Starting at 15th level, you can use your bonus action to take the [[dodge]] action, causing your image to shift and flicker. 
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 
 # Fey Invisibility
 Starting at 18th level, you learn the [[Greater Invisibility]] spell and you can cast it on yourself without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
