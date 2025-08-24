@@ -20,3 +20,4 @@ D'irumia is the capital of the west coast, home to the most noble families in th
 
 - Ji'sal
 - Frestmouth
+- Querenthbale
