@@ -23,6 +23,10 @@ At 7th level, you can use your bonus action to create an illusory duplicate of y
 
 Each time a creature targets you while you have the duplicate, roll a d20 to determine if the attack hits your duplicate instead of you. On a roll of 11 or higher, the attack targets the duplicate.
 
+The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits it, the duplicate is destroyed. It can be destroyed only by an attack that hits it. It ignores all other damage and effects.
+
+A creature is unaffected by this illusion if it can’t see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.
+
 # Disappearing Act
 Starting at 10th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
 
