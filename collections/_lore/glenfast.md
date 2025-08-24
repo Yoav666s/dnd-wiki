@@ -22,6 +22,12 @@ Referred to as *Sullenmerr* in Dwarvish. It is the northernmost district to the 
 # Froste
 Referred to as the *Krass* in Dwarvish. It is located to the east of Glenfast, full of mountains and caverns. Mostly populated by gnomes.
 
+## Other Cities
+
+- Iverust
+- Kendermist
+- Evensill
+
 # Mortmount
 Referred to as *Otterkrest* in Dwarvish. The southern-most part of the country, Mortmount is where the land meets the ocean in the form of a tall cliff. The dwarvish citizens of this district are mostly dwarf miners, demolitionists, and metalworkers.
 
