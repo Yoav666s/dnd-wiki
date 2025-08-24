@@ -18,6 +18,5 @@ D'irumia is the capital of the west coast, home to the most noble families in th
 
 # Other Cities
 
-- Ji'saal
+- Ji'sal
 - Frestmouth
--
