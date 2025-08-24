@@ -21,6 +21,9 @@ The Iron Guardians
 ## Eyes of Dusk
 The Eyes of Dusk consists exclusively of drow elves.
 
+# Hawlford
+the capital of Urk'mor.
+
 # Other Cities
 
 - Horkstane
