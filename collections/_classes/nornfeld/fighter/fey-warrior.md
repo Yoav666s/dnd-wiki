@@ -21,11 +21,11 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 # Double Vision
 At 7th level, you can use your bonus action to create an illusory duplicate of yourself in an unoccupied space you can see within 5 feet of you. It moves with you and mimics your actions, and it lasts for 1 minute or until you dismiss it (no action required).
 
-Each time a creature targets you while you have the duplicate, roll a d20 to determine if the attack hits your duplicate instead of you. On a roll of 11 or higher, the attack targets the duplicate.
+Each time a creature targets you while you have the duplicate, roll a d20 to determine if the attack hits your duplicate instead of you. On a roll of 11 or higher, the attack targets the duplicate. Its AC equals 10 + your Dexterity modifier. If an attack hits it, the duplicate is destroyed.
 
-The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits it, the duplicate is destroyed. It can be destroyed only by an attack that hits it. It ignores all other damage and effects.
+A creature is unaffected by this feature if it can’t see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.
 
-A creature is unaffected by this illusion if it can’t see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.
+You can use this feature a number of times equal to your proficiency bonus and you regain all expended uses when you finish a short or long rest.
 
 # Disappearing Act
 Starting at 10th level, when an attack misses you, you may use your reaction to become invisible until the start of your next turn or until you take damage.
