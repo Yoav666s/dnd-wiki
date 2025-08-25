@@ -1,4 +1,4 @@
-{% if page.source %}
+{% if page.source and page.source != "Untold Legends of Nornfeld" %}
   <div class="notice{% if page.source != "Basic Rules" %}--success{% endif %}">
     <i>{{ page.source }}</i>
   </div>
