@@ -13,6 +13,8 @@ Where others rely on brute force or rigid discipline, the Fey Warrior takes a di
 # Dazzling Demonstration
 Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Subterfuge]] cantrips, and gain proficiency in [[Deception]] if you don't already have it.
 
+You can cast [[Subterfuge]] as part of drawing or sheathing a weapon of the light property to teleport it to or from your hand. This doesn't require an action, but it takes as much time as it would normally take to draw or sheath a weapon.
+
 # Fey Step
 Starting at 3rd level, immediately before you make a melee attack, you can use your bonus action to teleport up to 15 feet to an unoccupied space you can see within range of the target of the attack.
 
