@@ -12,27 +12,21 @@ header:
 Trained in both subtle magic and sleight of hand, a Mirage Dancer slips unseen between moments, vanishes in plain sight, and reappears where least expected. Whether vanishing behind a ripple of heat, escaping pursuit through illusory doubles, or seeming to teleport across the battlefield, they master the art of being where danger is not.
 
 # Mirage
-Starting at 3rd level, you can use your bonus action to turn invisible at the same time as an illusory duplicate of yourself appears instead of you. This lasts until the start of your next turn, or until you attack, cast a spell, or lose concentration (as if you were concentrating on a spell). This effect also ends early if another creature touches your illusion, or if you touch another creature.
+Starting at 3rd level, you can use your bonus action to turn invisible at the same time as an illusory duplicate of yourself appears instead of you. This lasts until the start of your next turn, or until you attack, cast a spell, or lose concentration (as if you were concentrating on a spell). This effect also ends early if another creature touches you or your illusion.
 
 If you're at the same position as your illusion when this effect ends, you can assume the same pose of your illusion to appear like you've been there all along. Otherwise, it would seem like you've teleported to your current position.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 
-{% comment %}
-Grants advantage on one attack and allows repositioning. Very fragile form of invisibility.
-{% endcomment %}
+# Novice Illusionist 
+Also starting at 3rd level, you learn the [[Silent Image]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
 
-# Subtle Draw 
-Also starting at 3rd level, you can use your Mirage feature when you draw or sheath a finesse weapon in order to make it seem to have teleported to or from your hand. You can also do so with items weighing no more than 5 lb. that you are keeping on your person, such as in a pocket or on a belt. This doesn't expend a use of the feature. 
+Additionally, when you use your Mirage feature and end the effect by willingly dropping concentration on it before the end of your turn, no use is expended.
 
-# Trick of the Light 
-Starting at 9th level, when you use your Mirage feature and end the effect by willingly dropping concentration on it before the end of your turn, no use is expended.
+# Trick of the Light
+Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
 
 Additionally, while you are invisible, your movement doesn't provoke opportunity attacks.
-
-{% comment %}
-Effectively the same as taking the Disengage action, but allows for unlimited use out of combat.
-{% endcomment %}
 
 # Stationary Shift
 Starting at 13th level, when you use your Mirage feature and move less than 5 feet before the effect ends, no use is expended.
