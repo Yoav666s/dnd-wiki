@@ -30,7 +30,7 @@ Additionally, while you are invisible, your movement doesn't provoke opportunity
 Starting at 13th level, when you use your Mirage feature and move less than 5 feet before the effect ends, no use is expended.
 
 {% comment %}
-Can be used each turn to gain advantage on an attack, similar to Arcane Trickster's Versatile Trickster feature. Competes with Cunning Action and means you can't disengage.
+Can be used each turn to gain advantage on an attack via invisibility, similar to Arcane Trickster's Versatile Trickster feature. Competes with Cunning Action and means you can't disengage.
 {% endcomment %}
 
 # Greater Misdirection
