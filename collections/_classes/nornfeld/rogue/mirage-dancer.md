@@ -26,8 +26,10 @@ Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it 
 
 Additionally, while you are invisible, your movement doesn't provoke opportunity attacks.
 
-# 
-Starting at 13th level, 
+# Adept Illusionist
+Starting at 13th level, you learn the [[Major Image]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
+
+Additionally, 
 
 # Greater Misdirection
 Starting at 17th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest.
