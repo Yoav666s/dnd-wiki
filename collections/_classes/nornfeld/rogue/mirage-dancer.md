@@ -29,7 +29,7 @@ Additionally, while you are invisible, your movement doesn't provoke opportunity
 # Adept Illusionist
 Starting at 13th level, you learn the [[Major Image]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
 
-Additionally, when you use your Mirage feature, you can cause your duplicate to speak for the duration.
+Additionally, when you use your Mirage feature, you can cause your duplicate to speak and gesture for the duration (no action required).
 
 # Greater Misdirection
 Starting at 17th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest.
