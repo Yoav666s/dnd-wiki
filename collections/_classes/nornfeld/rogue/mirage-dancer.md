@@ -26,12 +26,8 @@ Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it 
 
 Additionally, while you are invisible, your movement doesn't provoke opportunity attacks.
 
-# Stationary Shift
-Starting at 13th level, when you use your Mirage feature and move less than 5 feet before the effect ends, no use is expended.
-
-{% comment %}
-Can be used each turn to gain advantage on an attack via invisibility, similar to Arcane Trickster's Versatile Trickster feature. Competes with Cunning Action and means you can't disengage.
-{% endcomment %}
+# 
+Starting at 13th level, 
 
 # Greater Misdirection
 Starting at 17th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest.
