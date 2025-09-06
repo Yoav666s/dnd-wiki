@@ -7,7 +7,7 @@ size: "Medium"
 type: "Humanoid"
 alignment: "Chaotic Evil"
 armor_class: "12 (Armor)"
-hit_points: "11 (2d8+2)"
+hit_points: "9 (2d8)"
 speed: "walk 30 ft."
 str_score: 14
 dex_score: 12
