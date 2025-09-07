@@ -16,7 +16,7 @@ Starting at 3rd level, you can use your bonus action to turn invisible at the sa
 
 If you're at the same position as your illusion when this effect ends, you can assume the same pose of your illusion to appear like you've been there all along. Otherwise, it would seem like you've teleported to your current position.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest. When you use this feature and end the effect by willingly dropping concentration on it before the end of your turn, you can do so without expending a use.
+You can use this feature a number of times equal to your rogue level, and you regain all expended uses when you finish a short or long rest. When you use this feature and end the effect by willingly dropping concentration on it before the end of your turn, you can do so without expending a use.
 
 # Novice Illusionist 
 Also starting at 3rd level, you learn the [[Minor Illusion]] cantrip. You also learn the [[Silent Image]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
