@@ -19,13 +19,15 @@ saving_throws: ""
 skills: ""
 senses: "Passive Perception 10"
 languages: "Common, Abyssal"
-challenge_rating: 0.125
-xp: 25
+challenge_rating: 0.5
+xp: 100
 proficiency_bonus: "+2"
 traits: ""
 actions: |
-  **Scimitar.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
+  **Multiattack.** If the Hound is holding two handaxes, it makes two handaxe attacks.
 
-  **Light Crossbow.** Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.  
+  **Handaxe.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+
+  **Handaxe (Thrown).** Ranged Weapon Attack: +4 to hit, range 20 ft./60 ft., one target. Hit: 5 (1d6 + 2) slashing damage.  
 excerpt: "Medium Humanoid, Chaotic Evil"
 ---
