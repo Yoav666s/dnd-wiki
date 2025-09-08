@@ -26,8 +26,6 @@ traits: ""
 actions: |
   **Multiattack.** If the Hound is holding two handaxes, it makes two handaxe attacks.
 
-  **Handaxe.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
-
-  **Handaxe (Thrown).** Ranged Weapon Attack: +4 to hit, range 20 ft./60 ft., one target. Hit: 5 (1d6 + 2) slashing damage.  
+  **Handaxe.** Melee Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 excerpt: "Medium Humanoid, Chaotic Evil"
 ---
