@@ -6,7 +6,7 @@ permalink: /monsters/hound-barbarian/
 size: "Medium"
 type: "Humanoid"
 alignment: "Chaotic Evil"
-armor_class: "12 (Armor)"
+armor_class: "13 (Armor)"
 hit_points: "9 (2d8)"
 speed: "walk 30 ft."
 str_score: 14
@@ -19,8 +19,8 @@ saving_throws: ""
 skills: ""
 senses: "Passive Perception 10"
 languages: "Common, Abyssal"
-challenge_rating: 0.5
-xp: 100
+challenge_rating: 0.25
+xp: 50
 proficiency_bonus: "+2"
 traits: ""
 actions: |
