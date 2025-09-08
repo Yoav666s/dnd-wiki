@@ -24,7 +24,7 @@ xp: 50
 proficiency_bonus: "+2"
 traits: ""
 actions: |
-  **Multiattack.** If the Hound is holding two handaxes, it makes two handaxe attacks.
+  **Multiattack.** The Hound makes two attacks with its handaxes.
 
   **Handaxe.** Melee Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 excerpt: "Medium Humanoid, Chaotic Evil"
