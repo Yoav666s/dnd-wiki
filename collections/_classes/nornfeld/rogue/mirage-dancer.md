@@ -25,7 +25,7 @@ Also starting at 3rd level, you learn the [[Minor Illusion]] cantrip if you don'
 Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest. For the duration, you can cast [[Minor Illusion]] without ending the effect.
 
 # Trickster's Audacity 
-Starting at 13th level, when you create an illusory double using [[Minor Illusion]], you can use your bonus action to cause it to speak for the duration.
+Starting at 13th level, when you create an illusory double using [[Minor Illusion]], for the duration, you can use your bonus action to cause it to speak.
 
 Additionally, while both you and your double are within 5 feet of a creature, you have advantage on melee attacks against that creature, given how distracting it is to the target.
 
