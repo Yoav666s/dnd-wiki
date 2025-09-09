@@ -16,7 +16,7 @@ Starting at 3rd level, you can use your bonus action to turn invisible at the sa
 
 If you're at the same position as your illusion when this effect ends, you can assume the same pose of your illusion to appear like you've been there all along. Otherwise, it would seem like you've teleported to your current position.
 
-You can use this feature a number of times equal to your rogue level, and you regain all expended uses when you finish a short or long rest. When you use this feature and end the effect by willingly dropping concentration on it before the end of your turn, you can do so without expending a use.
+You can use this feature a number of times equal to your rogue level, and you regain all expended uses when you finish a short or long rest.
 
 # Illusory Double
 Also starting at 3rd level, you learn the [[Minor Illusion]] cantrip if you don't already know it, and you can cast it as a bonus action. When you cast it to create an image, you can create a full-size image of yourself. If you do, for the duration you can use your bonus action to move the illusion to an unoccupied space within range and animate it to match its movement.
@@ -24,10 +24,10 @@ Also starting at 3rd level, you learn the [[Minor Illusion]] cantrip if you don'
 # Trick of the Light
 Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest. For the duration, you can cast [[Minor Illusion]] without ending the effect.
 
-# Adept Illusionist
-Starting at 13th level, you learn the [[Major Image]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
+# Trickster's Audacity 
+Starting at 13th level, when you create an illusory double using [[Minor Illusion]], you can use your bonus action to cause it to speak for the duration.
 
-Additionally, when you use your Mirage feature, you can cause your duplicate to speak, gesture, and walk up to your movement speed for the duration (no action required).
+Additionally, while both you and your double are within 5 feet of a creature, you have advantage on melee attacks against that creature, given how distracting it is to the target.
 
 # Greater Misdirection
 Starting at 17th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest.
