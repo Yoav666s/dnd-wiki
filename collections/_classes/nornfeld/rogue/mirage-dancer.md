@@ -19,7 +19,7 @@ If you're at the same position as your illusion when this effect ends, you can a
 You can use this feature a number of times equal to your rogue level, and you regain all expended uses when you finish a short or long rest. When you use this feature and end the effect by willingly dropping concentration on it before the end of your turn, you can do so without expending a use.
 
 # Illusory Double
-Also starting at 3rd level, you learn the [[Minor Illusion]] cantrip if you don't already know it. When you cast it to create an image, you can create an image of yourself.
+Also starting at 3rd level, you learn the [[Minor Illusion]] cantrip if you don't already know it. When you cast it to create an image, you can create a full-size image of yourself. If you do, for the duration you can use your bonus action to move the illusion to an unoccupied space within range and animate it to match its movement.
 
 # Trick of the Light
 Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
