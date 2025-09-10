@@ -30,4 +30,4 @@ Starting at 13th level, when you create an illusory double using [[Minor Illusio
 Additionally, while both you and your double are within 5 feet of a creature, you have advantage on melee attacks against that creature, given how distracting it is to the target.
 
 # Greater Misdirection
-Starting at 17th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest.
+Starting at 17th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest or expend 5 uses of your Mirage feature.
