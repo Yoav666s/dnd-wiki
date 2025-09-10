@@ -15,7 +15,7 @@ Trained in both subtle magic and sleight of hand, a Mirage Dancer slips unseen b
 Beginning when you choose this archetype at 3rd level, you gain Mirage Points equal to your half your rogue level (rounded up). They are used to fuel your Mirage Dancer abilities, and you regain your expended Mirage Points when you finish a short rest.
 
 # Mirage
-Starting at 3rd level, you can use your bonus action to expend 2 Mirage Points and turn invisible at the same time as an illusory duplicate of yourself appears instead of you. This lasts until the start of your next turn, or until you attack, cast a spell, or lose concentration (as if you were concentrating on a spell). This effect also ends early if another creature touches you or your illusion.
+Starting at 3rd level, you can use your bonus action to expend 1 Mirage Point and turn invisible at the same time as an illusory duplicate of yourself appears instead of you. This lasts until the start of your next turn, or until you attack, cast a spell, or lose concentration (as if you were concentrating on a spell). This effect also ends early if another creature touches you or your illusion, or if you move more than 30 feet away from your duplicate.
 
 If you're at the same position as your illusion when this effect ends, you can assume the same pose of your illusion to appear like you've been there all along. Otherwise, it would seem like you've teleported to your current position.
 
