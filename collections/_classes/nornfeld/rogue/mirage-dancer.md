@@ -12,7 +12,7 @@ header:
 Trained in both subtle magic and sleight of hand, a Mirage Dancer slips unseen between moments, vanishes in plain sight, and reappears where least expected. Whether vanishing behind a ripple of heat, escaping pursuit through illusory doubles, or seeming to teleport across the battlefield, they master the art of being where danger is not.
 
 # Mirage Points
-Beginning when you choose this archetype at 3rd level, you gain Mirage Points equal to your rogue level. They are used to fuel your Mirage Dancer abilities, and you regain your expended Mirage Points when you finish a short rest.
+Beginning when you choose this archetype at 3rd level, you gain Mirage Points equal to your half your rogue level (rounded up). They are used to fuel your Mirage Dancer abilities, and you regain your expended Mirage Points when you finish a short rest.
 
 # Mirage
 Starting at 3rd level, you can use your bonus action to expend 1 Mirage Point and turn invisible at the same time as an illusory duplicate of yourself appears instead of you. This lasts until the start of your next turn, or until you attack, cast a spell, or lose concentration (as if you were concentrating on a spell). This effect also ends early if another creature touches you or your illusion.
