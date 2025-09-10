@@ -29,4 +29,4 @@ Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it 
 Starting at 13th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a long rest or expend 5 Mirage Points.
 
 # Artful Riposte 
-Starting at 17th level, when a creature misses you with a melee attack, you can use your reaction to expend 2 Mirage Points and use your Mirage feature to make a melee attack against that creature.
+Starting at 17th level, when a creature misses you with a melee attack, you can use your reaction to expend 1 Mirage Point and use your Mirage feature to make a melee attack against that creature.
