@@ -22,12 +22,10 @@ You can use this feature a number of times equal to your rogue level, and you re
 Also starting at 3rd level, you learn the [[Minor Illusion]] cantrip if you don't already know it, and you can cast it as a bonus action. When you cast it to create an image, you can create a full-size image of yourself. If you do, for the duration you can use your bonus action to move the illusion to an unoccupied space within range and animate it to match its movement.
 
 # Trick of the Light
-Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest or expend 3 uses of your Mirage feature. For the duration, you can cast [[Minor Illusion]] without ending the effect.
+Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a long rest or expend 5 uses of your Mirage feature. For the duration, you can cast [[Minor Illusion]] without ending the effect.
 
-# Trickster's Audacity 
-Starting at 13th level, when you create an illusory double using [[Minor Illusion]], for the duration, you can use your bonus action to cause it to speak.
-
-Additionally, while both you and your double are within 5 feet of a creature, you have advantage on melee attacks against that creature, given how distracting it is to the target.
+# Fight or Flight
+Starting at 13th level, when a creature misses you with a melee attack, you can use your reaction to use your Mirage feature and either move up to half your movement speed or make a [[opportunity attack]].
 
 # Greater Misdirection
-Starting at 17th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest or expend 5 uses of your Mirage feature.
+Starting at 17th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a long rest or expend 7 uses of your Mirage feature.
