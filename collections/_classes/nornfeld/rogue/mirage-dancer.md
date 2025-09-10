@@ -19,10 +19,12 @@ If you're at the same position as your illusion when this effect ends, you can a
 You can use this feature a number of times equal to your rogue level, and you regain all expended uses when you finish a short or long rest.
 
 # Illusory Double
-Also starting at 3rd level, you learn the [[Minor Illusion]] cantrip if you don't already know it, and you can cast it as a bonus action. When you cast it to create an image, you can create a full-size image of yourself. If you do, for the duration you can use your bonus action to move the illusion to an unoccupied space within range and animate it to match its movement.
+Also starting at 3rd level, you learn the [[Minor Illusion]] cantrip if you don't already know it, and you can cast it as a bonus action. When you cast it to create an image, you can expend one use of your Mirage feature to create a full-size image of yourself. If you do so, for the duration you can use your bonus action to move the illusion to an unoccupied space within range and animate it to match its movement.
+
+You have advantage on attacks against creatures that sre within 5 feet of both you and your illusion, given how distracting it is for the target. This has no effect on creatures that don't rely on sight or can see that it's an illusion.
 
 # Trick of the Light
-Starting at 9th level, when you cast [[Minor Illusion]] to create an illusory double of yourself, you have advantage on attacks against creatures that sre within 5 feet of both you and your illusion, given how distracting it is for the target.
+Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest. For the duration, you can cast [[Minor Illusion]] without ending the effect.
 
 # Artful Riposte 
 Starting at 13th level, when a creature misses you with a melee attack, you can use your reaction to expend one use of your Mirage feature and make a melee attack against that creature.
