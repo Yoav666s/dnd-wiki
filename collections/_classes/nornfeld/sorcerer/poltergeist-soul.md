@@ -36,7 +36,7 @@ You know the [[Fling]] cantrip and it doesn't count against your cantrips known.
 | 7th | [[Confusion]], [[Freedom of Movement]] |
 | 9th | [[Animate Objects]], [[Telekinesis]] |
 
-# Embrace the Chaos
+# Make a Mess
 Starting at 1st level, after you cast a spell of 1st level or higher, you can use your bonus action to cast the [[Fling]] cantrip.
 
 # Animate Object
