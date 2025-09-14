@@ -45,7 +45,7 @@ Starting at 6th level, you can use your action to animate one tiny or small obje
 Once you use this feature, you can't use it again until you finish a long rest or expend 2 sorcery points to do so.
 
 # Unseen Spectre 
-Beginning at 14th level, you can cast [[Invisibility]] on yourself at will, without expending a spell slot. When you cast it this way, you can expend 2 sorcery points so it doesn't require concentration, and it doesn't end early when you cast or deal damage with another spell from your Poltergeist Spells feature.
+Beginning at 14th level, you can cast [[Invisibility]] on yourself at will, without expending a spell slot.
 
 # Effortless Haunting 
 By 18th level, when you cast a spell that requires concentration from your Poltergeist Spells feature, you can expend sorcery points equal to half the spell's level (rounded up) in order for it to not require concentration. The spell ends if you use this feature again.
