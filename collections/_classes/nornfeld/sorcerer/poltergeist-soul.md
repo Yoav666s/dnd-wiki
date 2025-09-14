@@ -13,9 +13,6 @@ You are a ghostly creature, your innate magic coming from the ethereal realm. Yo
 
 The power of ethereal magic casts a strange aura over your physical presence. Your body is still adjusting to the material plane, as if it struggles to remain physical and yearns to return to its ethereal form.
 
-# Poltergeist Sorcerer Quirks
-You can pick from or roll on the Poltergeist Sorcerer Quirks table to create a quirk for your character.
-
 # Poltergeist Magic
 
 ## Poltergeist Spells
