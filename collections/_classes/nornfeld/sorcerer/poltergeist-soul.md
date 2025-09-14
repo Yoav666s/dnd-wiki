@@ -35,8 +35,8 @@ In addition, consult the Poltergeist Manifestations table and choose or randomly
 
 | d6 | Manifestation |
 | :--: | :--- |
-| 1 | From certain angles, your body is almost transparent. |
-| 2 | Soft unintelligible whispers can be heard around you |
+| 1 | Your body flickers, almost becoming transparent. |
+| 2 | Soft unintelligible whispers can be heard around you. |
 | 3 | Your hair seems to float in the air as if you were underwater. |
 | 4 | Your eyes roll up but your eyelids stay open |
 | 5 | Your skin gets a blue tint to it, and it's almost see-through |
