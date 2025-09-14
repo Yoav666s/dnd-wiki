@@ -36,8 +36,8 @@ You know the [[Fling]] cantrip and it doesn't count against your cantrips known.
 | 7th | [[Confusion]], [[Freedom of Movement]] |
 | 9th | [[Animate Objects]], [[Telekinesis]] |
 
-# Momentary Fade
-Starting at 1st level, immediately after you cast a spell of 1st level or higher, you can use your bonus action to send one willing creature you touch to the ethereal realm until the start of your next turn.
+# Embrace the Chaos
+Starting at 1st level, after you cast a spell of 1st level or higher, you can use your bonus action to cast the [[Fling]] cantrip.
 
 # Animate Object
 Starting at 6th level, you can use your action to animate one tiny or small object for 1 minute or until you lose concentration, as per the [[Animate Objects]] spell.
