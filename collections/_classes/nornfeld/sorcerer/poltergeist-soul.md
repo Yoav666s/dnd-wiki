@@ -29,9 +29,9 @@ You know the [[Fling]] cantrip and it doesn't count against your cantrips known.
 | 7th | [[Confusion]], [[Freedom of Movement]] |
 | 9th | [[Animate Objects]], [[Telekinesis]] |
 
-## 
+## Poltergeist Manifestations
 
-| d6 | Quirk |
+| d6 | Manifestation |
 | :--: | :--- |
 | 1 | From certain angles, your body is almost transparent. |
 | 2 | When you're nervous, soft unintelligible whispers can be heard around you |
