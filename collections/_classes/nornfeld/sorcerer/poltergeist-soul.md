@@ -38,8 +38,8 @@ In addition, consult the Poltergeist Manifestations table and choose or randomly
 | 1 | Your body flickers, almost becoming transparent. |
 | 2 | Soft unintelligible whispers can be heard around you. |
 | 3 | Your hair seems to float in the air as if you were underwater. |
-| 4 | Your eyes roll up but your eyelids stay open |
-| 5 | Your skin gets a blue tint to it, and it's almost see-through |
+| 4 | Your eyes roll up but your eyelids stay open. |
+| 5 | Your skin gets a blue tint to it, and it's almost see-through. |
 | 6 | Objects around you rattle or tilt without being touched. |
 
 # Make a Mess
