@@ -29,16 +29,18 @@ You know the [[Fling]] cantrip and it doesn't count against your cantrips known.
 | 7th | [[Confusion]], [[Freedom of Movement]] |
 | 9th | [[Animate Objects]], [[Telekinesis]] |
 
+In addition, consult the Poltergeist Manifestations table and choose or randomly determine a way your connection to the ethereal realm manifests while you are casting any of your sorcerer spells.
+
 ## Poltergeist Manifestations
 
 | d6 | Manifestation |
 | :--: | :--- |
 | 1 | From certain angles, your body is almost transparent. |
-| 2 | When you're nervous, soft unintelligible whispers can be heard around you |
+| 2 | Soft unintelligible whispers can be heard around you |
 | 3 | Your hair seems to float in the air as if you were underwater. |
-| 4 | When you fall asleep, your eyes roll up but your eyelids stay open |
-| 5 | Your skin has a blue tint to it, and it's almost see-through |
-| 6 | Objects around you sometimes rattle or tilt without being touched. |
+| 4 | Your eyes roll up but your eyelids stay open |
+| 5 | Your skin gets a blue tint to it, and it's almost see-through |
+| 6 | Objects around you rattle or tilt without being touched. |
 
 # Make a Mess
 Starting at 1st level, after you cast a spell of 1st level or higher, you can use your bonus action to cast the [[Fling]] cantrip.
