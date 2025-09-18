@@ -47,4 +47,4 @@ An omnivore that inhabits forests and domestic areas, commonly found in the Nort
 The horns are an uncommon ingredient, which is used primarily for crafting unholy charms. It can also be ground in order to mix a variety of potions.
 
 # Strife of the Small
-During the [[Last War]], thete was a great conflict between the dwarves and the gnomes of Glenfast. The gnomes supported [[the empire]] and wanted to make peace with them, while the dwarves wanted to fight for their land. The gnomes sabotaged passeges into various cave systems, preventing dwarven escape routes and ultimately leading to their defeat.
+During the [[Last War]], there was a great conflict between the dwarves and the gnomes of Glenfast. The gnomes supported [[the empire]] and wanted to make peace with them, while the dwarves wanted to fight for their land. The gnomes sabotaged passeges into various cave systems, preventing dwarven escape routes and ultimately leading to their defeat.
