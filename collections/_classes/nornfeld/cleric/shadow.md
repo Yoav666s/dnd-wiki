@@ -26,7 +26,7 @@ The Shroud Domain draws upon the divine aspects of concealment, illusion, and th
 When you choose this domain at 1st level, you gain proficiency in [[Stealth]] if you don't already have it.
 
 # Veil of Shadows
-Starting at 1st level, you can use your bonus action to take the [[hide]] action.
+Starting at 1st level, you can use your bonus action to take the [[hide]] action. When you restore health while hidden, you can add your proficiency bonus to the amount of healing done.
 
 # Channel Divinity: Shadow Form
 Starting at 2nd level, you can use your Channel Divinity to allow yourself or another creature to enter shadow form.
