@@ -31,7 +31,7 @@ Starting at 1st level, you can use your bonus action to take the [[hide]] action
 # Channel Divinity: Shadow Form
 Starting at 2nd level, you can use your Channel Divinity to allow yourself or another creature to enter shadow form.
 
-As an action, you touch a creature (possibly yourself) and for 1 minute, it has advantage on Dexterity (Stealth) checks and it can attempt to [[hide]] even when only lightly obscured by regular or magical darkness.
+As an action, you touch a creature (possibly yourself) and for 1 minute, it has a bonus to Dexterity (Stealth) checks equal to your Wisdom modifier and it can attempt to [[hide]] even when only lightly obscured by dim light or regular or magical darkness.
 
 # Blend in Shadows
 Starting at 6th level, you gain expertise in [[Stealth]].
