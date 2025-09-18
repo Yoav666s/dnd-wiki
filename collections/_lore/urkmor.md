@@ -19,7 +19,7 @@ The people of Urk'mor are divided into two factions, the Iron Guardians and the 
 The Iron Guardians 
 
 ## Eyes of Dusk
-The Eyes of Dusk consists exclusively of drow elves. They operate only at night, an organization of Rogues, Shadow Monks, and [[classes:Shroud Clerics@shroud-domain]].
+The Eyes of Dusk consists exclusively of drow elves. They operate only at night, an organization of Rogues, Shadow Monks, and [[classes:Shroud]] Clerics.
 
 # Hawlford
 the capital of Urk'mor.
