@@ -52,4 +52,9 @@ legendary_actions: |
 
   **Stunning Strike.** Moreau makes one unarmed strike against a creature. The target must succeed on a DC 16 Constitution saving throw or be stunned until the end of his next turn.
 excerpt: "Medium Humanoid (Elf), Neutral Evil"
+header:
+  overlay_image: /assets/images/monsters/louis-jean-moreau/header.png
+  teasesr: /assets/images/monsters/louis-jean-moreau/header.jpg
 ---
+
+[:monsters/louis-jean-moreau:]
