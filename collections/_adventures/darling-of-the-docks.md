@@ -22,3 +22,10 @@ When the player finally arrives at the Thirsty Deckhand, they will be told by th
 Ivonne Laurent is a popular drow performer in the Thirsty Deckhand. She has connections to [[Louis Jean Moreau]] and acts as one of his trusted operatives. She is known as the *Darling of the Docks*, for her beauty and charm.
 
 [:adventures/ivonne-laurent:]
+
+She has a very close relationship with Moreau, but the nature of it is undefined and complex. Both of them being drow elves, it is assumed that they originate from [[lore:Urk'mor]], but how and why they arrived in Hoverncast, or if they even arrived together, is unknown to anyone. The truth is that they were childhood friends, but they each arrived under different circumstances.
+
+Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where she was abused and sold to prostitution. Moreau found her by chance, and by then he had risen to power in the underworld of Hoverncast, and he used his leverage to free her from her abusers. She kept working independently under Moreau's protection and eventually climbed the ladder and established herself as a respected courtesan and performer.
+
+## Louis Jean Moreau
+Louis Jean Moreau is the second hand of the head of a crime syndicate called the Network.
