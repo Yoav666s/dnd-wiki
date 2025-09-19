@@ -26,9 +26,11 @@ After a short while, if they player stays in the tavern, Madame Laurent will beg
 If, instead, the player should leave the tavern before or while the show is on, they will find Moreau outside, smoking. He will comment about they player's early departure, asking if the "show isn't any good." In the middle of the conversation there will be a scream and Moreau will hurry inside, after which the tavern brawl will commence.
 
 ## The Tavern Brawl
-It is pure chaos. Everyone at the tavern is either fighting or trying to avoid getting hit. Dalngram is trying to get everyone to quiet down but it's too late, they won't listen. After rolling for initiative, he will try to lead Laurent to safety behind the stage, fending off drunken patrons on the way. Moreau will follow them from a distance, expertly navigating through the crowd and dodging attacks from all directions (taking the [[Disengage]] action). Should the player try to help protect Laurent, they will be permitted to follow.
+It is pure chaos. Everyone at the tavern is either fighting or trying to avoid getting hit. Dalngram is trying to get everyone to quiet down but it's too late, they won't listen. After rolling for initiative, he will try to lead Laurent to safety behind the stage, fending off drunken patrons on the way. Moreau will follow them from a distance, expertly navigating through the crowd and dodging attacks from all directions (taking the [[Disengage]] action). Dalngram will call the player for help in escorting Laurent to safety. The stage is 45 feet away.
 
 **Moving through the crowd.** The crowd counts as [[difficult terrain]]. Unless the player wants to give the brawlers a chance to hit them, they will have to take the [[Disengage]] action. Otherwise, for every 5 feet they move through the crowd, they suffer `1d4 - 1` bludgeoning damage.
+
+**Protecting Madame Laurent.** Laurent is not a fighter. She has a walking speed of 30 feet, so she can move 15 feet each turn. For every 5 feet she moves she must succeed a straight DC 6 check to dodge grapples. On failure, Dalngram and the player can use their reaction to block the attack. If the attack isn't blocked, Madame Laurent needs to succeed a DC 13 Dexterity (Acrobatics) check (to which she has a +5 bonus) or  be grappled by a drunken patron.
 
 # Appendix A
 
