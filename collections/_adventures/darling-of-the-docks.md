@@ -29,7 +29,7 @@ The Thirsty Deckhand is the most luxurious tavern in Gullenshire. Upon asking fo
 [:monsters/dalngram-ungart:]
 
 ## Ivonne Laurent
-Ivonne Laurent is a popular drow performer in the Thirsty Deckhand. She has connections to [[Louis Jean Moreau]] and acts as one of his trusted operatives. She is known as the *Darling of the Docks*, for her beauty and charm. One of the most sought after courtesana of Gullenshire, she won't offer her services just for anyone.
+Ivonne Laurent is a popular drow performer in the Thirsty Deckhand. She has connections to [[Louis Jean Moreau]] and acts as one of his trusted operatives. She is known as the *Darling of the Docks*, for her beauty and charm. One of the most sought after courtesans of Gullenshire, she won't offer her services just for anyone.
 
 [:adventures/ivonne-laurent:]
 
