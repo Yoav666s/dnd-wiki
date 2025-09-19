@@ -52,7 +52,7 @@ She has a very close relationship with Moreau, but the nature of it is undefined
 Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where she was sold to be an escort girl. Moreau found her by chance, and by then he had risen to power in [[the Network]], and he used his leverage to free her from her abusers. She kept working independently under Moreau's protection and eventually climbed the ladder and established herself as a respected courtesan and performer.
 
 ## Louis Jean Moreau
-[[monsters:Louis Jean Moreau]] is the second hand of a crime syndicate called the Network. He is shrewed as he is handsome, and he is rightfully feared by all who know his name.
+[[monsters:Louis Jean Moreau]] is the right hand of a crime syndicate called [[the Network]]. He is shrewed as he is handsome, and he is rightfully feared by all who know his name.
 
 [:adventures/louis-jean-moreau:]
 
