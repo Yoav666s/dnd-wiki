@@ -13,4 +13,7 @@ When the player finally arrives at the Thirsty Deckhand, they will be told by th
 
 # Appendix A
 
-## Dalngram Ungart
+## [[monsters:Dalngram Ungart]]
+Dalngram is a dwarf
+
+[:monsters/dalngram-ungart:]
