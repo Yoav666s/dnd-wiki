@@ -30,7 +30,7 @@ traits: |
 
   At will: dancing lights
 
-  1/day each: darkness, faerie fire
+  1/day each: darkness, silence
 
   **Sunlight Sensitivity.** While in sunlight, Moreau has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
@@ -44,6 +44,12 @@ actions: |
 
   **Unarmed Strike.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.
 reactions: |
-  **Deflect Missile.** In response to being hit by a ranged weapon attack, the shadow monk can deflect the missile. The damage he takes from the attack is reduced by 10 (1d10 + 5). If the damage is reduced to 0, the shadow Monk catches the missile if it’s small enough to hold in one hand and he has a hand free.
+  **Deflect Missile.** In response to being hit by a ranged weapon attack, Moreau can deflect the missile. The damage he takes from the attack is reduced by 10 (1d10 + 5). If the damage is reduced to 0, the shadow Monk catches the missile if it’s small enough to hold in one hand and he has a hand free.
+legendary_actions: |
+  **Shroud of Shadows.** While in dim light or darkness, Moreau becomes invisible and moves up to half his movement speed. He remains invisible until he makes an attack, casts a spell, or is in an area of bright light.
+
+  **Patient Defence.** Moreau takes the Dodge action.
+
+  **Stunning Strike.** Moreau makes one unarmed strike against a creature. The target must succeed on a DC 16 Constitution saving throw or be stunned until the end of his next turn.
 excerpt: "Medium Humanoid (Elf), Neutral Evil"
 ---
