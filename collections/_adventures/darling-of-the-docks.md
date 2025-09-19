@@ -3,7 +3,10 @@ title: "Darling of the Docks"
 index:
   - darling-of-the-docks
 permalink: /adventures/darling-of-the-docks/
-excerpt: ""
+excerpt: "This stealth-focused adventure is intended for one player and one DM, and it can start dynamically when a player arrives at Gullenshire, a small port city in Hoverncast."
+header:
+  overlay_image: /assets/images/adventures/ivonne-laurent/header.png
+  teaser: /assets/images/adventures/ivonne-laurent/header.jpg
 ---
 This stealth-focused adventure is intended for one player and one DM, and it can start dynamically when a player arrives at [[lore:Gullenshire@hoverncast]], a small port city in [[lore:Hoverncast]]. In a campaign with more than one PC, one can be singled out by speaking to Moreau's contact in private. 
 
