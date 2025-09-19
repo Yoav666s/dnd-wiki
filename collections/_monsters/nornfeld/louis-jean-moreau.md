@@ -5,7 +5,7 @@ index:
   - louis-jean-moreau
 permalink: /monsters/louis-jean-moreau/
 size: "Medium"
-type: "Humanoid"
+type: "Humanoid (Elf)"
 alignment: "Neutral Evil"
 armor_class: "17 (No Armor)"
 hit_points: "97 (15d8 + 30)"
@@ -24,10 +24,19 @@ challenge_rating: 9
 xp: 5000
 proficiency_bonus: "+5"
 traits: |
+  **Fey Ancestry.** Moreau has advantage on saving throws against being charmed, and magic can’t put him to sleep.
+
+  **Innate Spellcasting.** Moreau’s spellcasting ability is Charisma (spell save DC 11). He can innately cast the following spells, requiring no material components:
+
+  At will: dancing lights
+
+  1/day each: darkness, faerie fire
+
+  **Sunlight Sensitivity.** While in sunlight, Moreau has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
   **Unarmored Defence.** While Moreau is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
-  **Shadow Stride.** As a bonus action, while in dim light or darkness, Moreau can teleport up to 60 feet to an unoccupied space it can see that is also in dim light or darkness. He then has advantage on the first melee attack he makes before the end of the turn.
-
+  **Shadow Stride.** As a bonus action, while in dim light or darkness, Moreau can teleport up to 60 feet to an unoccupied space he can see that is also in dim light or darkness. He then has advantage on the first melee attack he makes before the end of the turn.
 actions: |
   **Multiattack.** The shadow monk can make either three unarmed strikes or three kunai attacks.
 
@@ -36,4 +45,5 @@ actions: |
   **Unarmed Strike.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.
 reactions: |
   **Deflect Missile.** In response to being hit by a ranged weapon attack, the shadow monk can deflect the missile. The damage he takes from the attack is reduced by 10 (1d10 + 5). If the damage is reduced to 0, the shadow Monk catches the missile if it’s small enough to hold in one hand and he has a hand free.
+excerpt: "Medium Humanoid (Elf), Neutral Evil"
 ---
