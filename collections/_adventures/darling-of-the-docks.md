@@ -19,7 +19,7 @@ When the player finally arrives at the Thirsty Deckhand, they will be told by th
 # Appendix A
 
 ## The Thirsty Deckhand
-The Thirsty Deckhand is the most luxurious tavern in Gullenshire.
+The Thirsty Deckhand is the most luxurious tavern in Gullenshire. Upon asking for a tavern, the player will be told that they *have* to visit it at least once.
 
 # Appendix B
 
@@ -38,6 +38,6 @@ She has a very close relationship with Moreau, but the nature of it is undefined
 Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where she was abused and sold to prostitution. Moreau found her by chance, and by then he had risen to power in the underworld of Hoverncast, and he used his leverage to free her from her abusers. She kept working independently under Moreau's protection and eventually climbed the ladder and established herself as a respected courtesan and performer.
 
 ## Louis Jean Moreau
-Louis Jean Moreau is the second hand of the head of a crime syndicate called the Network.
+Louis Jean Moreau is the second hand of a crime syndicate called the Network.
 
 [:adventures/louis-jean-moreau:]
