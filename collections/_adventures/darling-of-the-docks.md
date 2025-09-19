@@ -17,7 +17,7 @@ When the player finally arrives at the Thirsty Deckhand, they will be told by th
 # Appendix A
 
 ## Dalngram Ungart
-[[monsters:Dalngram Ungart]] is a dwarf in charge of protecting [[Ivonne Laurent]].
+[[monsters:Dalngram Ungart]] is a dwarf in charge of protecting [[Ivonne Laurent]]. He is not aware of the fact that he's working for [[the Network]], and they'd like to keep it that way.
 
 [:monsters/dalngram-ungart:]
 
