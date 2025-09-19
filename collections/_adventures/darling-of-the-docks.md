@@ -15,6 +15,8 @@ This stealth-focused adventure is intended for one player and one DM, and it can
 ## Running the Adventure
 Darling of the Docks is a short adventure intended for one character of 5th level. The goal of this adventure is to introduce the player to a crime syndicate called [[the Network]], the headquarters of which are located in Gullenshire. Gullenshire is the smallest and most prosperous port city of Hoverncast, the west coast of [[Durn]].
 
+The player or party don't have to know that the adventure has started in order to participate
+
 # Part 1: Madame Laurent
 
 The adventure begins when they player or the party arrives in the city of Gullenshire. They are free to explore the city. When asking around or looking for a tavern, they will find [[the Thirsty Deckhand]]. When they finally arrives at the Thirsty Deckhand, they will be told by the hostess that [[Madame Laurent@ivonne-laurent]], also known as *Darling of the Docks*, will be performing tonight. If the player is sitting alone, they will be approached by [[Dalngram Ungart]], which will then start a casual conversation with the player. If they're in a party and Dalngram can't catch a moment alone with them, he will instead approach the party and inquire about them, as he hadn't seen them before in this tavern. Either way, he will warn the player or the party that he's Madame Laurent's bodyguard so they "better not bother the lass."
@@ -26,7 +28,7 @@ After a short while, if they player stays in the tavern, Madame Laurent will beg
 ## The Network
 The Network is a crime syndicate based in Gullenshire. It is composed of operative that gather information undercover and work to gain political leverage within the city. They don't get caught because they rarely do anything illegal, and when they do, they rely on their best operatives to do the job.
 
-They exchange information for coin, use information to blackmail powerful individuals, and obtain information through every means you could imagine. They communicate in code, and not only most operatives don't know each other, they never quite know when they're speaking to another operative.
+They exchange information for coin, use information to blackmail powerful individuals, and obtain information through every means you could imagine. They communicate in code, and not only most operatives don't know each other, they never quite know when they're speaking to another operative. The Network has eyes and ears everywhere, and they even use magic to spy on activity in certain places.
 
 ## The Thirsty Deckhand
 The Thirsty Deckhand is the most luxurious tavern in Gullenshire. Upon asking for a tavern, the player will be told that they *have* to visit it at least once.
