@@ -35,7 +35,7 @@ It is pure chaos. Everyone at the tavern is either fighting or trying to avoid g
 **Breaking Grapples.** A drunken patron has 4 (1d4 + 2) health and an AC of 13. He can be knocked out nonlethally with the pummel of a weapon or with a strong unarmed strike. He will also let her go on a successful DC 13 Charisma or Strength (Intimidation) check, which requires an action.
 
 ## Backstage Pass
-Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay.
+Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she can handle herself. If the player had helped rescue her, she would acknowledge that as well.
 
 # Appendix A
 
