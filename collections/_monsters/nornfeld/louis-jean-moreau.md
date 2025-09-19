@@ -20,8 +20,8 @@ saving_throws: "STR +6, DEX +9"
 skills: "Acrobatics +9, Insight +8, Stealth +9"
 senses: "Passive Perception 13"
 languages: "Common, Elvish"
-challenge_rating: 9
-xp: 5000
+challenge_rating: 7
+xp: 2900
 proficiency_bonus: "+5"
 traits: |
   **Fey Ancestry.** Moreau has advantage on saving throws against being charmed, and magic can’t put him to sleep.
