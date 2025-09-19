@@ -19,4 +19,4 @@ When the player finally arrives at the Thirsty Deckhand, they will be told by th
 [:monsters/dalngram-ungart:]
 
 ## Ivonne Laurent
-Ivonne Laurent is a popular human performer in the Thirsty Deckhand. She has connections to [[Louis Jean Moreau]] and acts as one of his trusted operatives.
+Ivonne Laurent is a popular human performer in the Thirsty Deckhand. She has connections to [[Louis Jean Moreau]] and acts as one of his trusted operatives. She is known as the *Darling of the Docks*, for her beauty and charm.
