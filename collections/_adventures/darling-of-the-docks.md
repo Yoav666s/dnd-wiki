@@ -29,7 +29,7 @@ The Thirsty Deckhand is the most luxurious tavern in Gullenshire. Upon asking fo
 [:monsters/dalngram-ungart:]
 
 ## Ivonne Laurent
-Ivonne Laurent is a popular drow performer in the Thirsty Deckhand. She has connections to [[Louis Jean Moreau]] and acts as one of his trusted operatives. She is known as the *Darling of the Docks*, for her beauty and charm.
+Ivonne Laurent is a popular drow performer in the Thirsty Deckhand. She has connections to [[Louis Jean Moreau]] and acts as one of his trusted operatives. She is known as the *Darling of the Docks*, for her beauty and charm. One of the most sought after courtesana of Gullenshire, she won't offer her services just for anyone.
 
 [:adventures/ivonne-laurent:]
 
@@ -44,4 +44,4 @@ Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where s
 
 He used to be a member of the [[lore:Eyes of Dusk@urkmor]], but he decided to leave, feeling ad if they couldn't see his true potential. He left [[lore:Urk'mor]] for Hoverncast, establishing his reputation in Gullenshire. An abled and ruthless Shadow Monk, he was quickly recognized and recruited by [[the Network]]. He made his way to the top, almost, now the second hand of its mysterious leader.
 
-He found [[Ivonne Laurent]] by chance, working as an escort lady. She was a dear childhood friend of his, until one day she went missing. He couldn't leave her at such a position, so he used his leverage to protect her from her employer. She decided to keep working as an escort, but under Moreau's protection she made a career out of it, becoming a respected courtesan, performing and dancing for a lot of coin. Moreau doesn't like to see her perform, and he'd never paid for her services. They still see each other from time to time and he makes sure she's well protected.
+He found [[Ivonne Laurent]] by chance, working as an escort lady. She was a dear childhood friend of his, until one day she went missing. He couldn't leave her at such a position, so he used his leverage to protect her from her employer. She decided to keep working as an escort, but under Moreau's protection she made a career out of it, becoming a respected courtesan, performing and dancing for a lot of coin. Moreau doesn't like to see her perform, and he'd never paid for her services. She works for him as an operative, gathering sensitive information from her clients. They still see each other from time to time as friends, as well. He'd fallen for her long ago, but due to her occupation he can't allow anything to happen between them, even if she'd be willing (which he's not sure she would be).
