@@ -26,8 +26,8 @@ traits: |
   **Amphibious.** The frog can breathe air and water
   
   **Standing Leap.** The frog's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start.
-actions: |
-  
+actions: ""
+reactions: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

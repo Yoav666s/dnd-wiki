@@ -27,7 +27,8 @@ xp: 100
 proficiency_bonus: "+2"
 traits: ""
 actions: |
-  **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.  
+  **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+reactions: ""
 excerpt: "Large Undead, Lawful Evil"
 source: "Basic Rules"
 ---

@@ -27,7 +27,8 @@ traits: |
   
   **Sure-Footed.** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 actions: |
-  **Ram.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.  
+  **Ram.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
+reactions: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

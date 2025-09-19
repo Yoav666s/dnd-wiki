@@ -24,7 +24,9 @@ xp: 25
 proficiency_bonus: "+2"
 traits: ""
 actions: |
-  **Rapier.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.  
+  **Rapier.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+reactions: |
+  **Parry.** The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
 ---

@@ -27,7 +27,8 @@ proficiency_bonus: "+2"
 traits: |
   **False Appearance.** While the tree remains motionless, it is indistinguishable from a normal tree.
 actions: |
-  **Slam.** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage.  
+  **Slam.** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage.
+reactions: ""
 excerpt: "Huge Plant, Unaligned"
 source: "Basic Rules"
 ---

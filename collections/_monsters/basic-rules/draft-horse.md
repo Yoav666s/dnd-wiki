@@ -24,7 +24,8 @@ xp: 50
 proficiency_bonus: "+2"
 traits: ""
 actions: |
-  **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.  
+  **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
+reactions: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

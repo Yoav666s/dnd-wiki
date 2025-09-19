@@ -31,7 +31,8 @@ actions: |
   
   **Claw.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
   
-  **Tail Spike.** Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target. Hit: 7 (1d8 + 3) piercing damage.  
+  **Tail Spike.** Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+reactions: ""
 excerpt: "Large Monstrosity, Lawful Evil"
 source: "Basic Rules"
 ---

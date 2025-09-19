@@ -32,7 +32,8 @@ actions: |
   
   **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
   
-  **Claws.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.  
+  **Claws.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+reactions: ""
 excerpt: "Medium Elemental, Chaotic Evil"
 source: "Basic Rules"
 ---

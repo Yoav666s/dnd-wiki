@@ -32,7 +32,8 @@ traits: |
   - 2nd level (3 slots): lesser restoration, spiritual weapon
   - 3rd level (2 slots): dispel magic, spirit guardians
 actions: |
-  **Mace.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.  
+  **Mace.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.
+reactions: ""
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
 ---

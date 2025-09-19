@@ -32,7 +32,8 @@ actions: |
   
   **Bite.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.
   
-  **Claw.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.  
+  **Claw.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+reactions: ""
 excerpt: "Medium Humanoid, Neutral Good"
 source: "Basic Rules"
 ---

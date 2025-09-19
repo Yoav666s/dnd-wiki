@@ -27,7 +27,8 @@ proficiency_bonus: "+2"
 traits: |
   **False Appearance.** While the shrub remains motionless, it is indistinguishable from a normal shrub.
 actions: |
-  **Rake.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) slashing damage.  
+  **Rake.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) slashing damage.
+reactions: ""
 excerpt: "Small Plant, Unaligned"
 source: "Basic Rules"
 ---

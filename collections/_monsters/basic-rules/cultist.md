@@ -25,7 +25,8 @@ proficiency_bonus: "+2"
 traits: |
   **Dark Devotion.** The cultist has advantage on saving throws against being charmed or frightened.
 actions: |
-  **Scimitar.** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.  
+  **Scimitar.** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.
+reactions: ""
 excerpt: "Medium Humanoid, Any Non-Good Alignment"
 source: "Basic Rules"
 ---

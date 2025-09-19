@@ -30,7 +30,8 @@ traits: |
   
   **Relentless (1/short rest).** If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 actions: |
-  **Tusks.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.  
+  **Tusks.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
+reactions: ""
 excerpt: "Medium Humanoid, Neutral Evil"
 source: "Basic Rules"
 ---

@@ -41,7 +41,8 @@ traits: |
 actions: |
   **Multiattack.** The sphinx makes two claw attacks.
   
-  **Claw.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.  
+  **Claw.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+reactions: ""
 legendary_actions: |
   **Claw Attack.** The sphinx makes one claw attack.
   

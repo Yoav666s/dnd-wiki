@@ -26,7 +26,8 @@ traits: ""
 actions: |
   **Greatclub.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
   
-  **Javelin.** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.  
+  **Javelin.** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+reactions: ""
 excerpt: "Large Giant, Chaotic Evil"
 source: "Basic Rules"
 ---

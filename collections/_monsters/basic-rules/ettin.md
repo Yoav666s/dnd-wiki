@@ -31,7 +31,8 @@ actions: |
   
   **Battleaxe.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.
   
-  **Morningstar.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.  
+  **Morningstar.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.
+reactions: ""
 excerpt: "Large Giant, Chaotic Evil"
 source: "Basic Rules"
 ---

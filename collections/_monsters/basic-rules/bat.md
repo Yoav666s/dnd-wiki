@@ -27,7 +27,8 @@ traits: |
   
   **Keen Hearing.** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 actions: |
-  **Bite.** Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.  
+  **Bite.** Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.
+reactions: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

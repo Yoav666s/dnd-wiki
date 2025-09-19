@@ -25,7 +25,8 @@ proficiency_bonus: "+2"
 traits: |
   **Keen Sight.** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 actions: |
-  **Talons.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing damage.  
+  **Talons.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
+reactions: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

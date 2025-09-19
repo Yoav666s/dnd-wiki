@@ -36,7 +36,8 @@ traits: |
 actions: |
   **Shock.** Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d8) lightning damage.
   
-  **Invisibility.** The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).  
+  **Invisibility.** The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
+reactions: ""
 excerpt: "Tiny Undead, Chaotic Evil"
 source: "Basic Rules"
 ---

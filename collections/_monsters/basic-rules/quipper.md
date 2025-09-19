@@ -27,7 +27,8 @@ traits: |
   
   **Water Breathing.** The quipper can breathe only underwater.
 actions: |
-  **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.  
+  **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+reactions: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

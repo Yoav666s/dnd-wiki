@@ -44,7 +44,8 @@ actions: |
   
   **Healing Touch.** The unicorn touches another creature with its horn. The target magically regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.
   
-  **Teleport.** The unicorn magically teleports itself and up to three willing creatures it can see within 5 ft. of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.  
+  **Teleport.** The unicorn magically teleports itself and up to three willing creatures it can see within 5 ft. of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
+reactions: ""
 legendary_actions: |
   **Hooves.** The unicorn makes one attack with its hooves.
   

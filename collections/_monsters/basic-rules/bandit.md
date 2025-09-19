@@ -26,7 +26,8 @@ traits: ""
 actions: |
   **Scimitar.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
   
-  **Light Crossbow.** Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.  
+  **Light Crossbow.** Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+reactions: ""
 excerpt: "Medium Humanoid, Any Non-Lawful Alignment"
 source: "Basic Rules"
 ---

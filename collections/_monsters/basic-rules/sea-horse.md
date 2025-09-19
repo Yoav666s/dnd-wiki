@@ -24,8 +24,8 @@ xp: 0
 proficiency_bonus: "+2"
 traits: |
   **Water Breathing.** The sea horse can breathe only underwater.
-actions: |
-  
+actions: ""
+reactions: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

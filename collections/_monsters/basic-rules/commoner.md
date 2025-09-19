@@ -24,7 +24,8 @@ xp: 10
 proficiency_bonus: "+2"
 traits: ""
 actions: |
-  **Club.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.  
+  **Club.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+reactions: ""
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
 ---

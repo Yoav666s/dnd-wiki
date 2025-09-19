@@ -29,7 +29,8 @@ actions: |
   
   **Mace.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage.
   
-  **Heavy Crossbow.** Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.  
+  **Heavy Crossbow.** Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.
+reactions: ""
 excerpt: "Medium Humanoid, Any Non-Good Alignment"
 source: "Basic Rules"
 ---

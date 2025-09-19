@@ -33,7 +33,8 @@ traits: |
 actions: |
   **Multiattack.** The fanatic makes two melee attacks.
   
-  **Dagger.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.  
+  **Dagger.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.
+reactions: ""
 excerpt: "Medium Humanoid, Any Non-Good Alignment"
 source: "Basic Rules"
 ---

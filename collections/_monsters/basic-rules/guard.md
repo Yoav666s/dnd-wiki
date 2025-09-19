@@ -24,7 +24,8 @@ xp: 25
 proficiency_bonus: "+2"
 traits: ""
 actions: |
-  **Spear.** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.  
+  **Spear.** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+reactions: ""
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
 ---

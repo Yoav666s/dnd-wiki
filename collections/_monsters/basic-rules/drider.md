@@ -41,7 +41,8 @@ actions: |
   
   **Longsword.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
   
-  **Longbow.** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.  
+  **Longbow.** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
+reactions: ""
 excerpt: "Large Monstrosity, Chaotic Evil"
 source: "Basic Rules"
 ---

@@ -27,7 +27,8 @@ traits: |
 actions: |
   **Ram.** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
   
-  **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. Hit: 22 (4d8 + 4) bludgeoning damage.  
+  **Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. Hit: 22 (4d8 + 4) bludgeoning damage.
+reactions: ""
 excerpt: "Huge Beast, Unaligned"
 source: "Basic Rules"
 ---
