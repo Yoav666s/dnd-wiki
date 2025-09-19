@@ -36,8 +36,10 @@ The stage is 45 feet away from Dalngram and Laurent, and they are 60 feet from t
 
 **Breaking Grapples.** A drunken patron has 4 (1d4 + 2) health and an AC of 13. He can be knocked out nonlethally with the pummel of a weapon or with a strong unarmed strike. He will also let her go on a successful DC 13 Charisma or Strength (Intimidation) check, which requires an action.
 
+**Playing with a party.** The entire party may try to surround Laurent as best as they can. If they can surround her from all sides, she doesn't have to make checks to avoid being grappled.
+
 ## Backstage Pass
-Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she can handle herself. If the player had helped rescue her, she would acknowledge that as well. Moreau will also comment on the player's performance, depending on how they did.
+Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she can handle herself. If the player or party had helped rescue her, she would acknowledge that as well. If the player is alone, Moreau will comment on the player's performance, depending on how they did. 
 
 # Appendix A
 
