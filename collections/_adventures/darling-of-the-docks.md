@@ -17,7 +17,7 @@ Darling of the Docks is a short adventure intended for one character of 5th leve
 
 The player or party don't have to know that the adventure has started in order to participate in it. It is recommended to dynamically introduce characters and it's okay to go off-script. Let the player lead the adventure and lean on key-events when they feel stuck or struggle with figuring out what to do.
 
-# Part 1: Madame Laurent
+# Part 1: Enjoy the Show
 
 The adventure begins when they player or the party arrives in the city of Gullenshire. They are free to explore the city. When asking around or looking for a tavern, they will find [[the Thirsty Deckhand]]. When they finally arrives at the Thirsty Deckhand, a successful DC 14 Wisdom (Perception) check will reveal a strange mark carved at the entrance. The player may attempt an Intelligence (Arcana or History) check, but they won't find out anything, but a roll of 20 or higher will reveal that it's a part of some code system. Upon entering, they will be told by the hostess that [[Madame Laurent@ivonne-laurent]], also known as *Darling of the Docks*, will be performing tonight. If the player is sitting alone, they will be approached by [[Dalngram Ungart]], which will then start a casual conversation with the player. If they're in a party and Dalngram can't catch a moment alone with them, he will instead approach the party and inquire about them, as he hadn't seen them before in this tavern. Either way, he will warn the player or the party that he's Madame Laurent's bodyguard so they "better not bother the lass."
 
@@ -38,12 +38,12 @@ The stage is 45 feet away from Dalngram and Laurent, and they are 60 feet from t
 
 **Playing with a party.** The entire party may try to surround Laurent as best as they can. If they can surround her from all sides, she doesn't have to make saving throws to avoid being grappled.
 
-**Ending the Brawl.** The player can try to calm everyone down. On a successful DC 18 Charisma (Persuasion) check, the brawl will end. Dalngram will escort Laurent backstage and she will thank the player, inviting them to come with her. Moreau will follow suit.
+**Ending the Brawl.** The player can try to calm everyone down. On a successful DC 18 Charisma (Persuasion) check, the brawl will end. Some patrons will mutter in dissatisfaction, but eventually everyone will return to their tables. Dalngram will start escorting Laurent backstage and she will thank the player, inviting them to come with her. Moreau will follow suit.
 
 **Stalling.** If Laurent gets grappled long enough for Moreau to catch up with her, upon seeing him the grappler will release her and nobody will try to grapple her anymore until they make it backstage.
 
 ## Backstage Pass
-Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she can handle herself. If the player or party had helped rescue her, she would acknowledge that as well, and thank them warmly. If the player is alone, Moreau will comment on the their performance depending on how they did. Laurent will then whisper something in Moreau's ear, and a successful DC 15 Wisdom (Perception) check will reveal the words "have feeling about him/her."
+Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she can handle herself. If the player or party had helped rescue her, she would acknowledge that as well, and thank them warmly. If the player is alone, Moreau will comment on the their performance depending on how they did. Laurent will then whisper something in Moreau's ear, and a successful DC 15 Wisdom (Perception) check will reveal the words, "I have feeling about him/her."
 
 # Appendix A
 
