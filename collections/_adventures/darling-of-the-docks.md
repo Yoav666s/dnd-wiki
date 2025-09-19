@@ -28,4 +28,4 @@ She has a very close relationship with Moreau, but the nature of it is undefined
 Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where she was abused and sold to prostitution. Moreau found her by chance, and by then he had risen to power in the underworld of Hoverncast, and he used his leverage to free her from her abusers. She kept working independently under Moreau's protection and eventually climbed the ladder and established herself as a respected courtesan and performer.
 
 ## Louis Jean Moreau
-Louis Jean Moreau is the head of a crime syndicate called
+Louis Jean Moreau is the second hand of the head of a crime syndicate called the Network.
