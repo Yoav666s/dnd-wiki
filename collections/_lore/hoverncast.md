@@ -8,4 +8,10 @@ excerpt: ""
 #   overlay_image: /assets/images/lore/hoverncast/header.png
 #   teaser: /assets/images/lore/hoverncast/header.jpg
 ---
-The east coast of [[Durn]]. Known for its port cities and prosperous maritime expeditions of trade.
+The east coast of [[Durn]]. Known for its port cities and prosperous maritime expeditions of trade. Inhabited mainly by dwarves, halflings, and humans.
+
+# Port cities 
+
+- Gullenshire 
+- Corquenmere
+- Rusterfick
