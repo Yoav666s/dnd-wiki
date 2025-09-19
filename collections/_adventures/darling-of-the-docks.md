@@ -34,6 +34,9 @@ It is pure chaos. Everyone at the tavern is either fighting or trying to avoid g
 
 **Breaking Grapples.** A drunken patron has 4 (1d4 + 2) health and an AC of 13. He can be knocked out nonlethally with the pummel of a weapon or with a strong unarmed strike. He will also let her go on a successful DC 13 Charisma or Strength (Intimidation) check, which requires an action.
 
+## Backstage Pass
+Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay.
+
 # Appendix A
 
 ## The Network
@@ -52,7 +55,7 @@ The Thirsty Deckhand is the most luxurious tavern in Gullenshire. Upon asking fo
 [:monsters/dalngram-ungart:]
 
 ## Ivonne Laurent
-Ivonne Laurent is a popular drow performer in the Thirsty Deckhand. She has connections to [[Louis Jean Moreau]] and acts as one of his trusted operatives. She is known as the *Darling of the Docks*, for her beauty and charm. One of the most sought after courtesans of Gullenshire, she won't offer her services just for anyone.
+Ivonne Laurent is a popular drow performer in the Thirsty Deckhand. She is exotic, as drows are rare in these parts. She has connections to [[Louis Jean Moreau]] and acts as one of his trusted operatives. She is known as the *Darling of the Docks*, for her beauty and charm. One of the most sought after courtesans of Gullenshire, she won't offer her services just for anyone.
 
 [:adventures/ivonne-laurent:]
 
@@ -61,7 +64,7 @@ She has a very close relationship with Moreau, but the nature of it is undefined
 Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where she was sold to be an escort girl. Moreau found her by chance, and by then he had risen to power in [[the Network]], and he used his leverage to free her from her abusers. She kept working independently under Moreau's protection and eventually climbed the ladder and established herself as a respected courtesan and performer.
 
 ## Louis Jean Moreau
-[[monsters:Louis Jean Moreau]] is the right hand of a crime syndicate called [[the Network]]. He is shrewed as he is handsome, and he is rightfully feared by all who know his name.
+[[monsters:Louis Jean Moreau]] is a drow elf, and the right hand of a crime syndicate called [[the Network]]. He is shrewed as he is handsome, and he is rightfully feared by all who know his name.
 
 [:adventures/louis-jean-moreau:]
 
