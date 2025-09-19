@@ -21,9 +21,9 @@ The player or party don't have to know that the adventure has started in order t
 
 The adventure begins when they player or the party arrives in the city of Gullenshire. They are free to explore the city. When asking around or looking for a tavern, they will find [[the Thirsty Deckhand]]. When they finally arrives at the Thirsty Deckhand, they will be told by the hostess that [[Madame Laurent@ivonne-laurent]], also known as *Darling of the Docks*, will be performing tonight. If the player is sitting alone, they will be approached by [[Dalngram Ungart]], which will then start a casual conversation with the player. If they're in a party and Dalngram can't catch a moment alone with them, he will instead approach the party and inquire about them, as he hadn't seen them before in this tavern. Either way, he will warn the player or the party that he's Madame Laurent's bodyguard so they "better not bother the lass."
 
-After a short while, if they player stays in the tavern, Madame Laurent will begin her performance on the stage. She will sing and dance seductively, getting off the stage and sauntering slowly through the crowd.
+After a short while, if they player stays in the tavern, Madame Laurent will begin her performance on the stage. She will sing and dance seductively, getting off the stage and sauntering slowly through the crowd. At some point, a man in the crowd near the player will grab her arm and refuse to let go. If the player doesn't intervene, Dalngram will step over and punch the man, knocking him out. Laurent will proceed to scream, and [[Moreau@louis-jean-moreau]] will step in through the main entrance to see what happened. When he will see that she's okay and Dalngram has everything under control, make eye contact with the player for a moment, and leave.
 
-If the player should leave the tavern before or while the show is on, they will find Moreau outside, smoking. He will comment about they player's early departure, asking if she "show isn't good."
+If, instead, the player should leave the tavern before or while the show is on, they will find Moreau outside, smoking. He will comment about they player's early departure, asking if the "show isn't any good." In the middle of the conversation there will be a scream and Moreau will hurry inside.
 
 # Appendix A
 
