@@ -49,6 +49,8 @@ layout: single
   <p>{{ page.traits | markdownify }}</p>
   <h2>Actions</h2>
   <p>{{ page.actions | markdownify }}</p>
+  {% if page.reactions %}<h2>Reactions</h2>
+  <p>{{ page.reactions | markdownify }}</p>{% endif %}
   {% if page.legendary_actions %}<h2>Legendary Actions</h2>
   <p>{{ page.legendary_actions | markdownify }}</p>{% endif %}
 {% include render_tooltips.html content=content %}
