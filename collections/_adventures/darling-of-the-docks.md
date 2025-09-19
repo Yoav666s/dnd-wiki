@@ -38,6 +38,8 @@ She has a very close relationship with Moreau, but the nature of it is undefined
 Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where she was abused and sold to prostitution. Moreau found her by chance, and by then he had risen to power in the underworld of Hoverncast, and he used his leverage to free her from her abusers. She kept working independently under Moreau's protection and eventually climbed the ladder and established herself as a respected courtesan and performer.
 
 ## Louis Jean Moreau
-Louis Jean Moreau is the second hand of a crime syndicate called the Network.
+[[monsters:Louis Jean Moreau]] is the second hand of a crime syndicate called the Network. He is shrewed as he is handsome, and he is rightfully feared by all who know his name.
 
 [:adventures/louis-jean-moreau:]
+
+He used to be a member of the [[lore:Eyes of Dusk@urkmor]], but he decided to leave, feeling ad if they couldn't see his true potential. He left [[lore:Urk'mor]] for Hoverncast, establishing his reputation in Gullenshire. An abled and ruthless Shadow Monk, he was quickly recognized and recruited by [[the Network]]. He made his way to the top, almost, now the second hand of its mysterious leader.
