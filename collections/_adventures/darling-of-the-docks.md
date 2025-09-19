@@ -24,6 +24,8 @@ When the player finally arrives at the Thirsty Deckhand, they will be told by th
 ## The Network
 The Network is a crime syndicate based in Gullenshire. It is composed of operative that gather information undercover and work to gain political leverage within the city. They don't get caught because they rarely do anything illegal, and when they do, they rely on their best operatives to do the job.
 
+They exchange information for coin, use information to blackmail powerful individuals, and obtain information through every means you could imagine.
+
 ## The Thirsty Deckhand
 The Thirsty Deckhand is the most luxurious tavern in Gullenshire. Upon asking for a tavern, the player will be told that they *have* to visit it at least once.
 
