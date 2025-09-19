@@ -20,8 +20,8 @@ saving_throws: "STR +6, DEX +9"
 skills: "Acrobatics +9, Insight +8, Stealth +9"
 senses: "Passive Perception 13"
 languages: "Common, Elvish"
-challenge_rating: 7
-xp: 2900
+challenge_rating: 8
+xp: 3800
 proficiency_bonus: "+5"
 traits: |
   **Fey Ancestry.** Moreau has advantage on saving throws against being charmed, and magic can’t put him to sleep.
@@ -44,7 +44,7 @@ actions: |
 
   **Unarmed Strike.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.
 reactions: |
-  **Deflect Missile.** In response to being hit by a ranged weapon attack, Moreau can deflect the missile. The damage he takes from the attack is reduced by 10 (1d10 + 5). If the damage is reduced to 0, the shadow Monk catches the missile if it’s small enough to hold in one hand and he has a hand free.
+  **Deflect Missile.** In response to being hit by a ranged weapon attack, Moreau can deflect the missile. The damage he takes from the attack is reduced by 10 (1d10 + 5). If the damage is reduced to 0, Moreau catches the missile if it’s small enough to hold in one hand and he has a hand free. He can then make a ranged attack (20/60 ft., with proficiency) using the weapon or piece of ammunition he just caught, as part of the same reaction.
 legendary_actions: |
   **Shroud of Shadows.** While in dim light or darkness, Moreau becomes invisible and moves up to half his movement speed. He remains invisible until he makes an attack, casts a spell, or is in an area of bright light.
 
