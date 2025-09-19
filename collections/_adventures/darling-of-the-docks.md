@@ -29,3 +29,5 @@ Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where s
 
 ## Louis Jean Moreau
 Louis Jean Moreau is the second hand of the head of a crime syndicate called the Network.
+
+[:adventures/louis-jean-moreau:]
