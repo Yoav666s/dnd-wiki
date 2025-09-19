@@ -32,11 +32,11 @@ The stage is 45 feet away from Dalngram and Laurent, and they are 60 feet from t
 
 **Moving through the crowd.** The crowd counts as [[difficult terrain]]. Unless the player wants to give the brawlers a chance to hit them, they will have to take the [[Disengage]] action. Otherwise, for every 5 feet they move through the crowd, they suffer 1 (1d4 - 1) non-lethal bludgeoning damage.
 
-**Protecting Madame Laurent.** Laurent is not a fighter. She has a walking speed of 30 feet, so she can move 15 feet each turn. For every 5 feet she moves she must succeed a straight DC 6 check to dodge grapples. On failure, Dalngram and the player can use their reaction to block the attack. If the attack isn't blocked, Madame Laurent needs to succeed a DC 13 Dexterity saving throw (to which she has a +3 bonus) or  be grappled by a drunken patron.
+**Protecting Madame Laurent.** Laurent is not a fighter. She has a walking speed of 30 feet, so she can move 15 feet each turn. For every 5 feet she moves she must succeed a DC 13 Dexterity saving throw (to which she has a +3 bonus) or  be grappled by a drunken patron. On failure, Dalngram or the player can use their reaction to block the attack, preventing the grapple.
 
 **Breaking Grapples.** A drunken patron has 4 (1d4 + 2) health and an AC of 13. He can be knocked out nonlethally with the pummel of a weapon or with a strong unarmed strike. He will also let her go on a successful DC 13 Charisma or Strength (Intimidation) check, which requires an action.
 
-**Playing with a party.** The entire party may try to surround Laurent as best as they can. If they can surround her from all sides, she doesn't have to make checks to avoid being grappled.
+**Playing with a party.** The entire party may try to surround Laurent as best as they can. If they can surround her from all sides, she doesn't have to make saving throws to avoid being grappled.
 
 ## Backstage Pass
 Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she can handle herself. If the player or party had helped rescue her, she would acknowledge that as well, and thank them warmly. If the player is alone, Moreau will comment on the their performance depending on how they did. Laurent will then whisper something in Moreau's ear, and a successful DC 17 Wisdom (Perception) check will reveal the words "have feeling about him/her."
