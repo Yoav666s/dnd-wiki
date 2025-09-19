@@ -8,13 +8,20 @@ header:
   overlay_image: /assets/images/adventures/ivonne-laurent/header.png
   teaser: /assets/images/adventures/ivonne-laurent/header.jpg
 ---
-This stealth-focused adventure is intended for one player and one DM, and it can start dynamically when a player arrives at [[lore:Gullenshire@hoverncast]], a small port city in [[lore:Hoverncast]]. In a campaign with more than one PC, one can be singled out by speaking to Moreau's contact in private. 
 
-The player is free to explore the city. When asking around or looking for a tavern, they will find the Thirsty Deckhand.
+# Introduction 
+This stealth-focused adventure is intended for one player and one DM, and it can start dynamically when a player arrives at [[lore:Gullenshire@hoverncast]], a small port city in [[lore:Hoverncast]]. In a campaign with more than one PC, one can be singled out by speaking to Moreau's contact in private.
+
+The goal of this adventure is to introduce the player to a crime syndicate called [[the Network]], the headquarters of which are located in Gullenshire, the smallest and most prosperous port city of Hoverncast. The player is free to explore the city. When asking around or looking for a tavern, they will find [[the Thirsty Deckhand]].
 
 When the player finally arrives at the Thirsty Deckhand, they will be told by the hostess that [[Madame Laurent@ivonne-laurent]], also known as *Darling of the Docks*, will be performing tonight. If the player is sitting alone, they will be approached by [[Dalngram Ungart]], which will then start a casual conversation with the player. If they're in a party and Dalngram can't catch a moment alone with them, he will instead approach the party and inquire them, as he hadn't seen them before in this tavern. Either way, he will warn the player or the party that he's Madame Laurent's bodyguard so they "Better not bother the lass."
 
 # Appendix A
+
+## The Thirsty Deckhand
+The Thirsty Deckhand is the most luxurious tavern in Gullenshire.
+
+# Appendix B
 
 ## Dalngram Ungart
 [[monsters:Dalngram Ungart]] is a dwarf in charge of protecting [[Ivonne Laurent]]. He is not aware of the fact that he's working for [[the Network]], and they'd like to keep it that way.
