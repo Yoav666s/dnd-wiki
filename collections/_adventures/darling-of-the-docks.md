@@ -15,6 +15,8 @@ This stealth-focused adventure is intended for one player and one DM, and it can
 ## Running the Adventure
 Darling of the Docks is an adventure intended for one character of 5th level. The goal of this adventure is to introduce the player to a crime syndicate called [[the Network]], the headquarters of which are located in Gullenshire. Gullenshire is the smallest and most prosperous port city of Hoverncast, the west coast of [[Durn]].
 
+# Part 1: Madame Laurent
+
 The player is free to explore the city. When asking around or looking for a tavern, they will find [[the Thirsty Deckhand]]. When the player finally arrives at the Thirsty Deckhand, they will be told by the hostess that [[Madame Laurent@ivonne-laurent]], also known as *Darling of the Docks*, will be performing tonight. If the player is sitting alone, they will be approached by [[Dalngram Ungart]], which will then start a casual conversation with the player. If they're in a party and Dalngram can't catch a moment alone with them, he will instead approach the party and inquire them, as he hadn't seen them before in this tavern. Either way, he will warn the player or the party that he's Madame Laurent's bodyguard so they "better not bother the lass."
 
 After a short while, if they player stays in the tavern, Madame Laurent will begin her performance on the stage. 
