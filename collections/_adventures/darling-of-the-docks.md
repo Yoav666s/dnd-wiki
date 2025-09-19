@@ -39,7 +39,7 @@ The stage is 45 feet away from Dalngram and Laurent, and they are 60 feet from t
 **Playing with a party.** The entire party may try to surround Laurent as best as they can. If they can surround her from all sides, she doesn't have to make checks to avoid being grappled.
 
 ## Backstage Pass
-Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she can handle herself. If the player or party had helped rescue her, she would acknowledge that as well. If the player is alone, Moreau will comment on the player's performance, depending on how they did. 
+Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she can handle herself. If the player or party had helped rescue her, she would acknowledge that as well, and thank them warmly. If the player is alone, Moreau will comment on the their performance depending on how they did. Laurent will then whisper something in Moreau's ear, and a successful DC 17 Wisdom (Perception) check will reveal the words "have feeling about him/her."
 
 # Appendix A
 
