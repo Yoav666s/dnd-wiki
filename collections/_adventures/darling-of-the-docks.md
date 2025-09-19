@@ -43,3 +43,5 @@ Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where s
 [:adventures/louis-jean-moreau:]
 
 He used to be a member of the [[lore:Eyes of Dusk@urkmor]], but he decided to leave, feeling ad if they couldn't see his true potential. He left [[lore:Urk'mor]] for Hoverncast, establishing his reputation in Gullenshire. An abled and ruthless Shadow Monk, he was quickly recognized and recruited by [[the Network]]. He made his way to the top, almost, now the second hand of its mysterious leader.
+
+He found [[Ivonne Laurent]] by chance, working as an escort. She was a dear childhood friend of his, until one day she went missing. He couldn't leave her at such a position, so he used his leverage to protect her from her 
