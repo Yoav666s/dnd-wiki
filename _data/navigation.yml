@@ -23,6 +23,7 @@ main:
 
 adventures:
   - title: "Adventures"
+    wip: false
     url: /adventures/
 
 classes:
