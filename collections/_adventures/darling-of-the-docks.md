@@ -57,11 +57,15 @@ Should the player show up the next day at Grunge's, Moreau will only come to the
 
 A waitress will approach them and ask if they'd like a bucket, but Moreau will shake his head and ask for a single tankard each. He will hand her 6 copper coins and after she leaves, he will tell the player that "that's as much as you can drink while you're on duty." He will explain that a tankard is necessary to blend in if you want to get in on the latest gossip. When the drinks arrive, he will ask the player to wander around the tavern and find out more information about the row at the Thirsty Deckhand last night.
 
-Ask the player to roll an Intelligence (Investigation) check. They will find out the following:
+Ask the player to roll an Intelligence (Investigation) check. They will overhear bits of conversation and find out the following:
 
 | Total | Information Revealed |
 | :---: | :------------------- |
-| 1-5   ||
+| 1-5   | Frumpy's entire crew went together to watch the show at the Thirsty Deckhand last night. |
+| 6-10  | Frumpy gave his crew enough money for a few rounds of drinks. |
+| 11-15 | The money wasn't from his own pocket. |
+| 16-20 | He got the money from an individual who specifically stated that half of it is meant to pay for his crew to have an evening at the Thirsty Deckhand. |
+| 21+   | The other half was to ensure that someone would start a brawl at the tavern. |
 
 # Appendix A
 
