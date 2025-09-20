@@ -50,7 +50,7 @@ Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. Sh
 
 Moreau will then inform the player or the party that what happened there is not normal. Most patrons in the Thirsty Deckhand are peaceful and, despite the name, the majority of them are not sailors. Sailors can't normally afford to drink there, and they opt for [[Grunge's Bucketfuls]]. This kind of behavior is what you would expect to see there, not here. Laurent will add that she's worried about the regulars, wondering if they'll come back after such a scene. Moreau will raise an eyebrow at that, as if something just occurred to him. A successful DC 18 Wisdom (Insight) check will reveal that he might suspect that this was orchestrated somehow to achieve exactly that (averting away the regulars).
 
-Moreau will then turn to the player (not the entire party, even if present) and ask them if they can help him with something. If the player agrees, Moreau will tell them to meet him at Grunge's Bucketfuls tomorrow at noon. Alone.
+Moreau will then turn to the player (not the entire party, even if present) and ask them if they can help him with something. If the player asks why, Moreau will say that Laurent said they stood out. If the player agrees, Moreau will tell them to meet him at Grunge's Bucketfuls tomorrow at noon. Alone.
 
 # Part 2: Maritime Intrigue
 Should the player show up the next day at Grunge's, Moreau will only come to the meeting if the player is alone. Moreau will be in the tavern 15 minutes or so before noon, lurking in a dark corner while invisible. If the player is in a party and he will recognize any other member present in the tavern, he will discretely walk out. Otherwise, he will approach the player and sit at their table.
