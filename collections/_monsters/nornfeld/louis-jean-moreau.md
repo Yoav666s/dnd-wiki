@@ -42,17 +42,17 @@ traits: |
 bonus_actions: |
   **Step of the Wind (Recharge 4-6).** Moreau takes the Dash or Disengage action.
 
-  **Patient Defense.** Moreau takes the Dodge action.
+  **Patient Defense (Recharge 4-6).** Moreau takes the Dodge action.
 
-  **Shadow Stride.** As a bonus action, while in dim light or darkness, Moreau can teleport up to 60 feet to an unoccupied space he can see that is also in dim light or darkness. He then has advantage on the first melee attack he makes before the end of the turn.
+  **Shadow Stride.** As a bonus action, while in dim light or darkness, Moreau can teleport up to 30 feet to an unoccupied space he can see that is also in dim light or darkness.
+
+  **Shroud of Shadows.** While in dim light or darkness, Moreau becomes invisible. He remains invisible until he makes an attack, casts a spell, or is in an area of bright light.
 actions: |
-  **Multiattack.** The shadow monk can make either four unarmed strikes or four kunai attacks.
+  **Multiattack.** Moreau can make either four unarmed strikes or four kunai attacks.
 
   **Kunai.** Ranged Weapon Attack: +9 to hit, range 20/60 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
 
   **Unarmed Strike.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.
-
-  **Shroud of Shadows.** While in dim light or darkness, Moreau becomes invisible and moves up to half his movement speed. He remains invisible until he makes an attack, casts a spell, or is in an area of bright light.
 reactions: |
   **Deflect Missile.** In response to being hit by a ranged weapon attack, Moreau can deflect the missile. The damage he takes from the attack is reduced by 10 (1d10 + 5). If the damage is reduced to 0, Moreau catches the missile if it’s small enough to hold in one hand and he has a hand free. He can then make a ranged attack (20/60 ft., with proficiency) using the weapon or piece of ammunition he just caught, as part of the same reaction.
 excerpt: "Medium Humanoid (Elf), Neutral"
