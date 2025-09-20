@@ -41,9 +41,9 @@ The stage is 45 feet away from Dalngram and Laurent, and they are 50 feet from t
 **Ending the Brawl.** The player can try to calm everyone down. On a successful DC 18 Charisma (Persuasion) check, the brawl will end. Some patrons will mutter in dissatisfaction, but eventually everyone will return to their tables. Dalngram will start escorting Laurent backstage and she will thank the player, inviting them to come with her. Moreau will follow suit.
 
 ## Backstage Pass
-Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she can handle herself. If the player or party had helped rescue her, she would acknowledge that as well, and thank them warmly. If the player is alone, Moreau will comment on the their performance depending on how they did. Laurent will then whisper something in Moreau's ear, and a successful DC 15 Wisdom (Perception) check will reveal the words, "I have feeling about him/her."
+Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she didn't get hurt. If the player or party had helped rescue her, she would acknowledge that as well, and thank them warmly. If the player is alone, Moreau will comment on the their performance depending on how they did. Laurent will then whisper something in Moreau's ear, and a successful DC 15 Wisdom (Perception) check will reveal the words, "I have feeling about him/her."
 
-Moreau will inform the player or the party that what happened there is not normal. Most patrons in the Thirsty Deckhand 
+Moreau will then inform the player or the party that what happened there is not normal. Most patrons in the Thirsty Deckhand are peaceful and, despite the name, the majority of them are not sailors. Sailors can't normally afford to drink there, and they opt for [[Grunge's Bucketfuls]].
 
 # Appendix A
 
@@ -54,6 +54,9 @@ They exchange information for coin, use information to blackmail powerful indivi
 
 ## The Thirsty Deckhand
 The Thirsty Deckhand is the most luxurious tavern in Gullenshire. Upon asking for a tavern, the player will be told that they *have* to visit it at least once.
+
+## Grunge's Bucketfuls
+Grunge's Bucketfuls is a cheap-looking but popular tavern amongst sailors. The prices are good and the ale is served in (clean) buckets along with 
 
 # Appendix B
 
