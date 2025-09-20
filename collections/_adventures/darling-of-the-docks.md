@@ -52,8 +52,10 @@ Moreau will then inform the player or the party that what happened there is not 
 
 Moreau will then turn to the player (not the entire party, even if present) and ask them if they can help him with something. If the player agrees, Moreau will tell them to meet him at Grunge's Bucketfuls tomorrow at noon. Alone.
 
-# Part 2: Maritime 
-Should the player show up the next day at Grunge's, Moreau will only come to the meeting if the player is alone. Moreau will be in the tavern 15 minutes or so before noon, lurking in a dark corner while invisible. If the player is in a party and he will recognize any other member present in the tavern, he will discretely walk out.
+# Part 2: Maritime Intrigue
+Should the player show up the next day at Grunge's, Moreau will only come to the meeting if the player is alone. Moreau will be in the tavern 15 minutes or so before noon, lurking in a dark corner while invisible. If the player is in a party and he will recognize any other member present in the tavern, he will discretely walk out. Otherwise, he will approach the player and sit at their table.
+
+A waitress will approach them and ask if they'd like a bucket, but Moreau will shake his head and ask for a single tankard each. He will hand her 6 copper coins and after she leaves, he will tell the player that "that's as much as you can drink while you're on duty." He will explain that a tankard is necessary to blend in if you want to get in on the latest gossip. When the drinks arrive, he will ask the player to wander around the tavern and find out more information about the row at the Thirsty Deckhand last night.
 
 # Appendix A
 
