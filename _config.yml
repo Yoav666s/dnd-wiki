@@ -410,6 +410,7 @@ defaults:
       toc: true
       toc_label: "Contents"
       toc_sticky: true
+      wip: false
 
   # _feats
   - scope:
