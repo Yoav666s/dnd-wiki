@@ -25,6 +25,8 @@ adventures:
   - title: "Adventures"
     wip: false
     url: /adventures/
+  - title: "Work in Progress"
+    wip: true
 
 classes:
   - title: "Barbarian"
