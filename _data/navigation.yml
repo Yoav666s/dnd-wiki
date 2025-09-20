@@ -14,10 +14,10 @@ main:
     url: /monsters/
   - title: "Races"
     url: /races/
-  - title: "Rules"
-    url: /rules/
   - title: "Spells"
     url: /spells/
+  - title: "Rules"
+    url: /rules/
   - title: "ACE"
     url: /ace/
 
