@@ -67,8 +67,8 @@ classes:
     url: /classes/wizard/
 
 monsters:
-  title: "Monsters"
-  url: /monsters/
+  - title: "Monsters"
+    url: /monsters/
 
 rules:
   # - title: "Creating A Character"
