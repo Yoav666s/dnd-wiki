@@ -53,7 +53,7 @@ Moreau will then inform the player or the party that what happened there is not 
 Moreau will then turn to the player (not the entire party, even if present) and ask them if they can help him with something. If the player asks why, Moreau will say that Laurent said they stood out. If the player agrees, Moreau will tell them to meet him at Grunge's Bucketfuls tomorrow at noon. Alone.
 
 # Part 2: Maritime Intrigue
-Should the player show up the next day at Grunge's, Moreau will only come to the meeting if the player is alone. Moreau will be in the tavern 15 minutes or so before noon, lurking in a dark corner while invisible. If the player is in a party and he will recognize any other member present in the tavern, he will discretely walk out. Otherwise, he will approach the player and sit at their table.
+Should the player show up the next day at Grunge's, Moreau will only come to the meeting if the player is alone. Moreau will be in the tavern 15 minutes or so before noon, lurking in a dark corner while invisible. If the player is in a party and he will recognize any other member present in the tavern, he will discreetly walk out. Otherwise, he will approach the player and sit at their table.
 
 A waitress will approach them and ask if they'd like a bucket, but Moreau will shake his head and ask for a single tankard each. He will hand her 6 copper coins and after she leaves, he will tell the player that "that's as much as you can drink while you're on duty." He will explain that a tankard is necessary to blend in if you want to get in on the latest gossip. When the drinks arrive, he will ask the player to wander around the tavern and find out more information about the row at the Thirsty Deckhand last night.
 
@@ -67,7 +67,7 @@ Ask the player to roll an Intelligence (Investigation) check. They will overhear
 | 15-19 | He got the money from an individual who specifically stated that half of it is meant to pay for his crew to have an evening at the Thirsty Deckhand. |
 | 20+   | The other half was to ensure that someone would start a brawl at the tavern. |
 
-When the player returns to Moreau with the information they managed to gather, he will comment on their performance depending on how high they rolled. If they rolled under 10, he will say that they were too obvious, and people noticed that they were eavesdropping. Otherwise, he will tell them that they did a great job but could be more discre
+When the player returns to Moreau with the information they managed to gather, he will comment on their performance depending on how high they rolled. If they rolled under 10, he will say that they were too obvious, and people noticed that they were eavesdropping. If they rolled between 11-16, he will tell them that they did a great job but could be more discreet. If they rolled 17 or higher he will tell them that they were excellent.
 
 # Appendix A
 
