@@ -55,6 +55,8 @@ They exchange information for coin, use information to blackmail powerful indivi
 ## The Thirsty Deckhand
 The Thirsty Deckhand is the most luxurious tavern in Gullenshire. Upon asking for a tavern, the player will be told that they *have* to visit it at least once.
 
+This establishment has indirect ties to the Network, since Laurent works there as a performer and a courtesan. She brings in a lot of intel from nobles and the likes and the Network works to protect the Thirsty Deckhand's reputation and traffic in order to maintain that.
+
 ## Grunge's Bucketfuls
 Grunge's Bucketfuls is a cheap-looking but popular tavern amongst sailors. The prices are good and the ale is served in (clean) buckets along with enough tankards for everyone at the table. The ale isn't particularly savory but it does the job. The tavern is owned and run by [[Earnest Grunge]], or simply Earny.
 
