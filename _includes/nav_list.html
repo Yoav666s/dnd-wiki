@@ -7,7 +7,6 @@
       {% assign navigation = site.data.navigation[navname] %}
       {% for nav in navigation %}
         <li>
-          {% assign level_spells = site.spells | where: "level", nav.title | sort: "title" %}
           {% if nav.part %}
             {% assign rule_chapters = site.rules | where: "part", nav.part | sort: "chapter" %}
           {% elsif nav.class %}
@@ -16,6 +15,8 @@
             {% assign adventures = site.adventures | where: "wip", nav.wip | sort: "title" %}
           {% elsif navname == "monsters" %}
             {% assign monsters = site.monsters | sort: "title" %}
+          {% elsif navname == "spells" %}
+            {% assign level_spells = site.spells | where: "level", nav.title | sort: "title" %}
           {% endif %}
           {% if nav.url %}
             <a href="{{ nav.url | relative_url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
