@@ -54,7 +54,7 @@ actions: |
 
   **Unarmed Strike.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.
 reactions: |
-  **Deflect Missile.** In response to being hit by a ranged weapon attack, Moreau can deflect the missile. The damage he takes from the attack is reduced by 10 (1d10 + 5). If the damage is reduced to 0, Moreau catches the missile if it’s small enough to hold in one hand and he has a hand free. He can then make a ranged attack (20/60 ft., with proficiency) using the weapon or piece of ammunition he just caught, as part of the same reaction.
+  **Deflect Missile.** In response to being hit by a ranged weapon attack, Moreau can deflect the missile. The damage he takes from the attack is reduced by 10 (1d10 + 5). If the damage is reduced to 0, Moreau catches the missile if it’s small enough to hold in one hand and he has a hand free.
 excerpt: "Medium Humanoid (Elf), Neutral"
 header:
   overlay_image: /assets/images/monsters/louis-jean-moreau/header.png
