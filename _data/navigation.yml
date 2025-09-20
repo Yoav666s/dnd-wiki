@@ -21,6 +21,10 @@ main:
   - title: "ACE"
     url: /ace/
 
+adventures:
+  - title: "Adventures"
+    url: /adventures/
+
 classes:
   - title: "Barbarian"
     class: barbarian
