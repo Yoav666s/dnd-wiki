@@ -42,6 +42,8 @@ The stage is 45 feet away from Dalngram and Laurent, and they are 50 feet from t
 
 **Ending the Brawl.** The player can try to calm everyone down. On a successful DC 18 Charisma (Persuasion) check, the brawl will end. Some patrons will mutter in dissatisfaction, but eventually everyone will return to their tables. Dalngram will start escorting Laurent backstage and she will thank the player, inviting them to come with her. Moreau will follow suit.
 
+As the player or party advances through the crowd, they will notice the more noble patrons leaving, muttering to each other in exasperation.
+
 ## Backstage Pass
 Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she didn't get hurt. If the player or party had helped rescue her, she would acknowledge that as well, and thank them warmly. If the player is alone, Moreau will comment on the their performance depending on how they did. Laurent will then whisper something in Moreau's ear, and a successful DC 15 Wisdom (Perception) check will reveal the words, "I have feeling about him/her."
 
