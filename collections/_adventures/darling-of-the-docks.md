@@ -28,7 +28,7 @@ If, instead, the player should leave the tavern before or while the show is on, 
 ## The Tavern Brawl
 It is pure chaos. Everyone at the tavern is either fighting or trying to avoid getting hit. Dalngram is trying to get everyone to quiet down but it's too late, they won't listen. After rolling for initiative, he will try to lead Laurent to safety behind the stage, fending off drunken patrons on the way. Moreau will follow them from a distance, expertly navigating through the crowd and dodging attacks from all directions (taking the [[Disengage]] action). Dalngram will call the player for help in escorting Laurent to safety if they're close by.
 
-The stage is 45 feet away from Dalngram and Laurent, and they are 50 feet from the entrance. If the player is next to Moreau, he will tell them to follow him. Keeping up with him might not be an easy task, as his walking speed is 50 feet (meaning he can close the gap in one turn, taking the [[Dash]] action). Once he reaches Laurent, he will move only 15 feet at a time to match her speed in order to protect her.
+The stage is 45 feet away from Dalngram and Laurent, and they are 50 feet from the entrance. If the player is next to Moreau, he will tell them to follow him. Keeping up with him might not be an easy task, as his walking speed is 50 feet (meaning he can close the gap in one turn, taking the [[Dash]] action). Once he reaches Laurent, he will move only 15 feet at a time to match her speed in order to protect her. Moreau will not use any of his Shadow abilities at this time.
 
 **Moving through the crowd.** The crowd counts as [[difficult terrain]]. Unless the player wants to give the brawlers a chance to hit them, they will have to take the [[Disengage]] action. Otherwise, for every 5 feet they move through the crowd, they suffer 1 (1d4 - 1) non-lethal bludgeoning damage.
 
@@ -45,12 +45,16 @@ Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. Sh
 
 Moreau will then inform the player or the party that what happened there is not normal. Most patrons in the Thirsty Deckhand are peaceful and, despite the name, the majority of them are not sailors. Sailors can't normally afford to drink there, and they opt for [[Grunge's Bucketfuls]]. This kind of behavior is what you would expect to see there, not here. Laurent will add that she's worried about the regulars, wondering if they'll come back after such a scene. Moreau will raise an eyebrow at that, as if something just occurred to him. A successful DC 18 Wisdom (Insight) check will reveal that he might suspect that this was orchestrated somehow to achieve exactly that (averting away the regulars).
 
+Moreau will then turn to the player (not the entire party, even if present) and ask them if they can help him with something.
+
 # Appendix A
 
 ## The Network
 The Network is a crime syndicate based in Gullenshire. It is composed of operative that gather information undercover and work to gain political leverage within the city. They don't get caught because they rarely do anything illegal, and when they do, they rely on their best operatives to do the job.
 
 They exchange information for coin, use information to blackmail powerful individuals, and obtain information through every means you could imagine. They communicate in code, and not only most operatives don't know each other, they never quite know when they're speaking to another operative. The Network has eyes and ears everywhere, and they even use magic to spy on activity in certain places.
+
+The Network has begun to cover more area, sending operatives to different cities in Hoverncast. The problem is that that as it expands, its operatives are spread thin. At the moment, they are looking to recruit, and every single operative is extremely valuable.
 
 ## The Thirsty Deckhand
 The Thirsty Deckhand is the most luxurious tavern in Gullenshire. Upon asking for a tavern, the player will be told that they *have* to visit it at least once.
