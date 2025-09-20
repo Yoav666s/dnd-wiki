@@ -64,8 +64,8 @@ Ask the player to roll an Intelligence (Investigation) check. They will overhear
 | 1-5   | Frumpy's entire crew went together to watch the show at the Thirsty Deckhand last night. |
 | 6-10  | Frumpy gave his crew enough money for a few rounds of drinks. |
 | 11-15 | The money wasn't from his own pocket. |
-| 16-20 | He got the money from an individual who specifically stated that half of it is meant to pay for his crew to have an evening at the Thirsty Deckhand. |
-| 21+   | The other half was to ensure that someone would start a brawl at the tavern. |
+| 16-19 | He got the money from an individual who specifically stated that half of it is meant to pay for his crew to have an evening at the Thirsty Deckhand. |
+| 20+   | The other half was to ensure that someone would start a brawl at the tavern. |
 
 # Appendix A
 
