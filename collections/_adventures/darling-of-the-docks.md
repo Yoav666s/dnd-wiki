@@ -50,7 +50,7 @@ Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. Sh
 
 Moreau will then inform the player or the party that what happened there is not normal. Most patrons in the Thirsty Deckhand are peaceful and, despite the name, the majority of them are not sailors. Sailors can't normally afford to drink there, and they opt for [[Grunge's Bucketfuls]]. This kind of behavior is what you would expect to see there, not here. Laurent will add that she's worried about the regulars, wondering if they'll come back after such a scene. Moreau will raise an eyebrow at that, as if something just occurred to him. A successful DC 18 Wisdom (Insight) check will reveal that he might suspect that this was orchestrated somehow to achieve exactly that (averting away the regulars).
 
-Moreau will then turn to the player (not the entire party, even if present) and ask them if they can help him with something.
+Moreau will then turn to the player (not the entire party, even if present) and ask them if they can help him with something. If the player agrees, Moreau will tell them to meet him at Grunge's Bucketfuls tomorrow at noon. Alone.
 
 # Appendix A
 
@@ -92,7 +92,7 @@ Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where s
 
 [:adventures/louis-jean-moreau:]
 
-He used to be a member of the [[lore:Eyes of Dusk@urkmor]], but he decided to leave, feeling ad if they couldn't see his true potential. He left [[lore:Urk'mor]] for Hoverncast, establishing his reputation in Gullenshire. An abled and ruthless Shadow Monk, he was quickly recognized and recruited by [[the Network]]. He made his way to the top, almost, now the second hand of its mysterious leader.
+He used to be a member of the [[lore:Eyes of Dusk@urkmor]], but he decided to leave, feeling as if they couldn't see his true potential. He left [[lore:Urk'mor]] for Hoverncast, establishing his reputation in Gullenshire. An abled and ruthless Shadow Monk, he was quickly recognized and recruited by [[the Network]]. He made his way to the top, almost, now the second hand of its mysterious leader.
 
 He found [[Ivonne Laurent]] by chance, working as an escort lady. She was a dear childhood friend of his, until one day she went missing. He couldn't leave her at such a position, so he used his leverage to protect her from her employer. She decided to keep working as an escort, but under Moreau's protection she made a career out of it, becoming a respected courtesan, performing and dancing for a lot of coin. Moreau doesn't like to see her perform, and he'd never paid for her services. She works for him as an operative, gathering sensitive information from her clients. They still see each other from time to time as friends, as well. He'd fallen for her long ago, but due to her occupation he can't allow anything to happen between them, even if she'd be willing (which he's not sure she would be).
 
