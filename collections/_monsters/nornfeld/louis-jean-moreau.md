@@ -9,7 +9,7 @@ type: "Humanoid (Elf)"
 alignment: "Neutral"
 armor_class: "17 (No Armor)"
 hit_points: "97 (15d8 + 30)"
-speed: "walk 45 ft."
+speed: "walk 50 ft."
 str_score: 13
 dex_score: 18
 con_score: 14
