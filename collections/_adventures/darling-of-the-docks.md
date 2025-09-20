@@ -17,6 +17,8 @@ Darling of the Docks is a short adventure intended for one character of 5th leve
 
 The player or party don't have to know that the adventure has started in order to participate in it. It is recommended to dynamically introduce characters and it's okay to go off-script. Let the player lead the adventure and lean on key-events when they feel stuck or struggle with figuring out what to do.
 
+If there is more than one player, the characters in this adventure will focus on the stealthiest one, as if sensing great potential in them. This can serve as a personal arc for one character within the party.
+
 # Part 1: Enjoy the Show
 
 The adventure begins when they player or the party arrives in the city of Gullenshire. They are free to explore the city. When asking around or looking for a tavern, they will find [[the Thirsty Deckhand]]. When they finally arrives at the Thirsty Deckhand, a successful DC 14 Wisdom (Perception) check will reveal a strange mark carved at the entrance. The player may attempt an Intelligence (Arcana or History) check, but they won't find out anything, but a roll of 20 or higher will reveal that it's a part of some code system. Upon entering, they will be told by the hostess that [[Madame Laurent@ivonne-laurent]], also known as *Darling of the Docks*, will be performing tonight. If the player is sitting alone, they will be approached by [[Dalngram Ungart]], which will then start a casual conversation with the player. If they're in a party and Dalngram can't catch a moment alone with them, he will instead approach the party and inquire about them, as he hadn't seen them before in this tavern. Either way, he will warn the player or the party that he's Madame Laurent's bodyguard so they "better not bother the lass."
