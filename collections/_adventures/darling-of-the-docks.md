@@ -67,6 +67,8 @@ Ask the player to roll an Intelligence (Investigation) check. They will overhear
 | 15-19 | He got the money from an individual who specifically stated that half of it is meant to pay for his crew to have an evening at the Thirsty Deckhand. |
 | 20+   | The other half was to ensure that someone would start a brawl at the tavern. |
 
+When the player returns to Moreau with the information they managed to gather,
+
 # Appendix A
 
 ## The Network
