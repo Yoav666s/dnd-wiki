@@ -14,7 +14,7 @@
           {% elsif nav.wip != nil %}
             {% assign adventures = site.adventures | where: "wip", nav.wip | sort: "title" %}
           {% elsif navname == "monsters" %}
-            {% assign monsters = site.monsters | sort: "title" %}
+            {% assign monsters = site.monsters | sort: "challenge_rating" %}
           {% elsif navname == "spells" %}
             {% assign level_spells = site.spells | where: "level", nav.title | sort: "title" %}
           {% endif %}
