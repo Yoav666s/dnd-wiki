@@ -70,8 +70,8 @@ Ask the player to roll an Intelligence (Investigation) check. They will overhear
 
 | Total | Information Revealed |
 | :---: | :------------------- |
-| 1-4   | Frumpy's entire crew went together to watch the show at the Thirsty Deckhand last night. |
-| 5-9  | Frumpy gave his crew enough money for a few rounds of drinks. |
+| 1-4   | Butler's entire crew went together to watch the show at the Thirsty Deckhand last night. |
+| 5-9  | Butler gave his crew enough money for a few rounds of drinks. |
 | 10-14 | The money wasn't from his own pocket. |
 | 15-19 | He got the money from an individual who specifically stated that half of it is meant to pay for his crew to have an evening at the Thirsty Deckhand. |
 | 20+   | The other half was to ensure that someone would start a brawl at the tavern. |
@@ -81,7 +81,7 @@ When the player returns to Moreau with the information they managed to gather, h
 Moreau will then tell the player that the Thirsty Deckhand is practically the political and cultural center of Gullenshire, the place where nobles come to for conversation and company. As the player has seen, conversations offer a passerby the opportunity to learn valuable information, especially when ale and wine are involved. He will tell the player that they show promise, although they have a lot to learn. If they rolled under 10 in the Intelligence (Investigation) check, Moreau will repeat the words "A lot."
 
 ## Dockside Interrogation
-After he finishes his ale, Moreau will invite the player to join him in a stroll to the docks. He will fill in the blanks regarding the information the player had gathered, theorizing that someone is trying to hurt the reputation of the Thirsty Deckhand. He will tell the player that the key to this is interrogating captain [[Theodore Frumpy]].
+After he finishes his ale, Moreau will invite the player to join him in a stroll to the docks. He will fill in the blanks regarding the information the player had gathered, theorizing that someone is trying to hurt the reputation of the Thirsty Deckhand. He will tell the player that the key to this is interrogating captain [[Timothy Butler]].
 
 # Appendix A
 
