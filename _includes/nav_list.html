@@ -14,6 +14,8 @@
             {% assign subclasses = site.classes | where: "subclass", nav.class | sort: "title" %}
           {% elsif nav.wip %}
             {% assign adventures = site.adventures | where: "wip", nav.wip | sort: "title" %}
+          {% elsif navname == "monsters" %}
+            {% assign monsters = site.monsters | sort: "title" %}
           {% endif %}
           {% if nav.url %}
             <a href="{{ nav.url | relative_url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
@@ -57,6 +59,14 @@
           <ul>
             {% for adventure in adventures %}
               <li><a href="{{ adventure.url | relative_url }}"{% if adventure.url == page.url %} class="active"{% endif %}>{{ adventure.title }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+
+          {% if monsters %}
+          <ul>
+            {% for monster in monsters %}
+              <li><a href="{{ monster.url | relative_url }}"{% if monster.url == page.url %} class="active"{% endif %}>{{ monster.title }}</a></li>
             {% endfor %}
           </ul>
           {% endif %}
