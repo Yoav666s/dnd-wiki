@@ -55,6 +55,7 @@ Moreau will then turn to the player (not the entire party, even if present) and 
 # Part 2: Maritime Intrigue
 Should the player show up the next day at Grunge's, Moreau will only come to the meeting if the player is alone. Moreau will be in the tavern 15 minutes or so before noon, lurking in a dark corner while invisible. If the player is in a party and he will recognize any other member present in the tavern, he will discreetly walk out. Otherwise, he will approach the player and sit at their table.
 
+## Trial and Error
 A waitress will approach them and ask if they'd like a bucket, but Moreau will shake his head and ask for a single tankard each. He will hand her 6 copper coins and after she leaves, he will tell the player that "that's as much as you can drink while you're on duty." He will explain that a tankard is necessary to blend in if you want to get in on the latest gossip. When the drinks arrive, he will ask the player to wander around the tavern and find out more information about the row at the Thirsty Deckhand last night, but not to ask anyone directly.
 
 Ask the player to roll an Intelligence (Investigation) check. They will overhear bits of conversation and find out the following:
@@ -69,7 +70,10 @@ Ask the player to roll an Intelligence (Investigation) check. They will overhear
 
 When the player returns to Moreau with the information they managed to gather, he will comment on their performance depending on how high they rolled. If they rolled under 10, he will say that they were too obvious, and people noticed that they were eavesdropping. If they rolled between 11-16, he will tell them that they did a great job but could be more discreet. If they rolled 17 or higher he will tell them that they were excellent. If the player rolled 20 or higher, Moreau will add that they've confirmed his suspicions.
 
-Moreau will then tell the player that the Thirsty Deckhand is practically the political and cultural center of Gullenshire, the place where nobles come to for conversation and company. As the player has seen, conversations offer a passerby the opportunity to learn valuable information, especially when ale and wine are involved.
+Moreau will then tell the player that the Thirsty Deckhand is practically the political and cultural center of Gullenshire, the place where nobles come to for conversation and company. As the player has seen, conversations offer a passerby the opportunity to learn valuable information, especially when ale and wine are involved. He will tell the player that they show promise, although they have a lot to learn. If they rolled under 10 in the Intelligence (Investigation) check, Moreau will repeat the words "A lot."
+
+## Dockside Interrogation
+After he finishes his drink, Moreau will invite the player 
 
 # Appendix A
 
