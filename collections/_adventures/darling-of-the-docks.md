@@ -57,6 +57,12 @@ Should the player show up the next day at Grunge's, Moreau will only come to the
 
 A waitress will approach them and ask if they'd like a bucket, but Moreau will shake his head and ask for a single tankard each. He will hand her 6 copper coins and after she leaves, he will tell the player that "that's as much as you can drink while you're on duty." He will explain that a tankard is necessary to blend in if you want to get in on the latest gossip. When the drinks arrive, he will ask the player to wander around the tavern and find out more information about the row at the Thirsty Deckhand last night.
 
+Ask the player to roll an Intelligence (Investigation) check. They will find out the following:
+
+| Total | Information Revealed |
+| :---: | :------------------- |
+| 1-5   ||
+
 # Appendix A
 
 ## The Network
