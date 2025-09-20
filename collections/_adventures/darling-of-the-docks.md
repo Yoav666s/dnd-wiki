@@ -56,7 +56,9 @@ They exchange information for coin, use information to blackmail powerful indivi
 The Thirsty Deckhand is the most luxurious tavern in Gullenshire. Upon asking for a tavern, the player will be told that they *have* to visit it at least once.
 
 ## Grunge's Bucketfuls
-Grunge's Bucketfuls is a cheap-looking but popular tavern amongst sailors. The prices are good and the ale is served in (clean) buckets along with 
+Grunge's Bucketfuls is a cheap-looking but popular tavern amongst sailors. The prices are good and the ale is served in (clean) buckets along with enough tankards for everyone at the table. The ale isn't particularly savory but it does the job. The tavern is owned and run by [[Earnest Grunge]], or simply Earny.
+
+This establishment is not a part of the Network, but it is home to many rumors, so it's valuable to them. Operatives generally spend their time there listening in to the word around the street, and maybe even influencing it a little.
 
 # Appendix B
 
@@ -82,3 +84,6 @@ Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where s
 He used to be a member of the [[lore:Eyes of Dusk@urkmor]], but he decided to leave, feeling ad if they couldn't see his true potential. He left [[lore:Urk'mor]] for Hoverncast, establishing his reputation in Gullenshire. An abled and ruthless Shadow Monk, he was quickly recognized and recruited by [[the Network]]. He made his way to the top, almost, now the second hand of its mysterious leader.
 
 He found [[Ivonne Laurent]] by chance, working as an escort lady. She was a dear childhood friend of his, until one day she went missing. He couldn't leave her at such a position, so he used his leverage to protect her from her employer. She decided to keep working as an escort, but under Moreau's protection she made a career out of it, becoming a respected courtesan, performing and dancing for a lot of coin. Moreau doesn't like to see her perform, and he'd never paid for her services. She works for him as an operative, gathering sensitive information from her clients. They still see each other from time to time as friends, as well. He'd fallen for her long ago, but due to her occupation he can't allow anything to happen between them, even if she'd be willing (which he's not sure she would be).
+
+## Earnest Grunge
+Earnest Grunge, or Earny, is a jolly dwarf with black greying hair, a few missing teeth, and a beer belly.
