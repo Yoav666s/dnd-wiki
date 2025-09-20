@@ -28,7 +28,7 @@ If, instead, the player should leave the tavern before or while the show is on, 
 ## The Tavern Brawl
 It is pure chaos. Everyone at the tavern is either fighting or trying to avoid getting hit. Dalngram is trying to get everyone to quiet down but it's too late, they won't listen. After rolling for initiative, he will try to lead Laurent to safety behind the stage, fending off drunken patrons on the way. Moreau will follow them from a distance, expertly navigating through the crowd and dodging attacks from all directions (taking the [[Disengage]] action). Dalngram will call the player for help in escorting Laurent to safety if they're close by.
 
-The stage is 45 feet away from Dalngram and Laurent, and they are 50 feet from the entrance. If the player is next to Moreau, he will tell them to follow him. Keeping up with him might not be an easy task, as his walking speed is 50 feet (meaning he can close the gap in one turn, taking the [[Dash]] action).
+The stage is 45 feet away from Dalngram and Laurent, and they are 50 feet from the entrance. If the player is next to Moreau, he will tell them to follow him. Keeping up with him might not be an easy task, as his walking speed is 50 feet (meaning he can close the gap in one turn, taking the [[Dash]] action). Once he reaches Laurent, he will move only 15 feet at a time to match her speed in order to protect her.
 
 **Moving through the crowd.** The crowd counts as [[difficult terrain]]. Unless the player wants to give the brawlers a chance to hit them, they will have to take the [[Disengage]] action. Otherwise, for every 5 feet they move through the crowd, they suffer 1 (1d4 - 1) non-lethal bludgeoning damage.
 
@@ -43,7 +43,7 @@ The stage is 45 feet away from Dalngram and Laurent, and they are 50 feet from t
 ## Backstage Pass
 Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she can handle herself. If the player or party had helped rescue her, she would acknowledge that as well, and thank them warmly. If the player is alone, Moreau will comment on the their performance depending on how they did. Laurent will then whisper something in Moreau's ear, and a successful DC 15 Wisdom (Perception) check will reveal the words, "I have feeling about him/her."
 
-Moreau will tell the player or the party that what happened there is not normal. 
+Moreau will inform the player or the party that what happened there is not normal. Most patrons in the Thirsty Deckhand 
 
 # Appendix A
 
