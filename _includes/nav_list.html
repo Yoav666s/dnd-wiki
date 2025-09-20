@@ -12,7 +12,7 @@
             {% assign rule_chapters = site.rules | where: "part", nav.part | sort: "chapter" %}
           {% elsif nav.class %}
             {% assign subclasses = site.classes | where: "subclass", nav.class | sort: "title" %}
-          {% elsif nav.wip %}
+          {% elsif nav.wip != nil %}
             {% assign adventures = site.adventures | where: "wip", nav.wip | sort: "title" %}
           {% elsif navname == "monsters" %}
             {% assign monsters = site.monsters | sort: "title" %}
