@@ -91,9 +91,7 @@ Finding him won't be a difficult task, as Butler will be sitting alone on a chai
 | 10-17 | 1gp   | It was a woman who handed him the coin, and she wanted his crew to start a brawl at some point in the evening. |
 | 18+   | 2gp   | When she handed him the coin pouch, he saw her hand. Her skin was purple, like Moreau's! |
 
-If the player rolls lower than 18 or offers less than 2 gold pieces, let them roll a Wisdom (Insight) check. Regardless of the outcome, they get a sense that Butler isn't telling them everything he knows. A roll of 10 or higher will reveal that it seems like he's angling for a bribe.
-
-If the player will offer at least 1 gold, Butler will agree to tell them additional information about the cloaked person. He will then reveal that it was a female drow elf.
+If the player rolls lower than 18 or offers less than 2 gold pieces, let them roll a Wisdom (Insight) check. Regardless of the outcome, they get a sense that Butler isn't telling them everything he knows. A roll of 10 or higher will reveal that it seems like he'll talk for money. If the player will offer at least 1 gold, Butler will agree to tell them additional information about the cloaked person. He will then reveal that it was a female drow elf.
 
 # Appendix A
 
