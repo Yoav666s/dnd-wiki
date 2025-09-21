@@ -64,6 +64,8 @@ Moreau will then inform the player or the party that what happened there is not 
 Moreau will then turn to the player (not the entire party, even if present) and ask them if they can help him with something. If the player asks why, Moreau will say that Laurent said they stood out. If the player agrees, Moreau will tell them to meet him at Grunge's Bucketfuls tomorrow at noon. Alone.
 
 # Part 2: Maritime Intrigue
+> Grunge's Bucketfuls is about as rowdy as you would expect. 
+
 Should the player show up the next day at Grunge's, Moreau will only come to the meeting if the player is alone. Moreau will be in the tavern 15 minutes or so before noon, lurking in a dark corner while invisible. If the player is in a party and he will recognize any other member present in the tavern, he will discreetly walk out. Otherwise, he will approach the player and sit at their table.
 
 ## Active Listening
