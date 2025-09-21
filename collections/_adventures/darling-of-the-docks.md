@@ -98,7 +98,7 @@ Finding him won't be a difficult task, as Butler will be sitting alone on a chai
 If the player rolls lower than 18 or offers less than 2 gold pieces and feels stuck, let them roll a Wisdom (Insight) check. Regardless of the outcome, they get a sense that Butler isn't telling them everything he knows. A roll of 10 or higher will reveal that it seems like he'll talk for money. If the player will offer at least 1 gold, Butler will agree to tell them additional information about the cloaked person. He will then reveal that it was a female drow elf.
 
 # Part 3: Unexpected Patronage
-The player will be faced with a choice: go to Moreau, or straight to Madame Laurent?
+Moreau will not be in Grunge's Bucketfuls if the player goes looking for him. Whether the player will go looking for Moreau or Laurent, they will both be at the same place: in her changing room. When the player reveals what they learned from Butler, Moreau will look at Laurent in disbelief, to which she'll reply, "What are you looking at me for? It wasn't me!" A Wisdom (Insight) check of 10 or higher will reveal that she's telling the truth. Moreau will believe her as well.
 
 # Appendix A
 
