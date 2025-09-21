@@ -11,10 +11,10 @@ header:
 ---
 
 # Introduction 
-This stealth-focused adventure is intended for one player and one DM, and it can start dynamically when a player arrives at [[lore:Gullenshire@hoverncast]], a small port city in [[lore:Hoverncast]]. In a campaign with more than one PC, one can be singled out by speaking to Moreau in private.
+This cinematic adventure is intended for one player and one DM, and it can start dynamically when a player arrives at [[lore:Gullenshire@hoverncast]], a small port city in [[lore:Hoverncast]]. In a campaign with more than one PC, one can be singled out by Moreau.
 
 ## Running the Adventure
-Darling of the Docks is a short adventure intended for one character of 5th level. The goal of this adventure is to introduce the player to a crime syndicate called [[the Network]], the headquarters of which are located in Gullenshire. Gullenshire is the smallest and most prosperous port city of Hoverncast, the west coast of [[Durn]].
+Darling of the Docks is a short adventure intended for one character of any level. The goal of this adventure is to introduce the player to a crime syndicate called [[the Network]], the headquarters of which are located in Gullenshire. Gullenshire is the smallest and most prosperous port city of Hoverncast, the west coast of [[Durn]].
 
 The player or party don't have to know that the adventure has started in order to participate in it. It is recommended to dynamically introduce characters and it's okay to go off-script. Let the player lead the adventure and lean on key-events when they feel stuck or struggle with figuring out what to do.
 
