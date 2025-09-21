@@ -54,6 +54,9 @@ The stage is 45 feet away from Dalngram and Laurent, and they are 50 feet from t
 As the player or party advances through the crowd, they will notice the more noble patrons leaving, muttering to each other in exasperation.
 
 ## Backstage Pass
+
+> You finally arrive backstage, successfully escorting the madame to safety. She leads you to her changing room, where you see a mirror with a small drawing stuck to the frame, of the same drow elf who just joined you in rescuing Laurent. You see clothes tossed over a changing-screen and a fine turquoise carpet on the floor.
+
 Upon arriving backstage, Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she didn't get hurt. If the player or party had helped rescue her, she would acknowledge that as well, and thank them warmly. If the player is alone, Moreau will comment on the their performance depending on how they did. Laurent will then whisper something in Moreau's ear, and a successful DC 15 Wisdom (Perception) check will reveal the words, "I have feeling about him/her."
 
 Moreau will then inform the player or the party that what happened there is not normal. Most patrons in the Thirsty Deckhand are peaceful and, despite the name, the majority of them are not sailors. Sailors can't normally afford to drink there, and they opt for [[Grunge's Bucketfuls]]. This kind of behavior is what you would expect to see there, not here. Laurent will add that she's worried about the regulars, wondering if they'll come back after such a scene. Moreau will raise an eyebrow at that, as if something just occurred to him. A successful DC 18 Wisdom (Insight) check will reveal that he might suspect that this was orchestrated somehow to achieve exactly that (averting away the regulars).
