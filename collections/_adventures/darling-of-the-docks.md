@@ -81,7 +81,9 @@ When the player returns to Moreau with the information they managed to gather, h
 Moreau will then tell the player that the Thirsty Deckhand is practically the political and cultural center of Gullenshire, the place where nobles come to for conversation and company. As the player has seen, conversations offer a passerby the opportunity to learn valuable information, especially when ale and wine are involved. He will tell the player that they show promise, although they have a lot to learn. If they rolled under 10 in the Intelligence (Investigation) check, Moreau will repeat the words "A lot."
 
 ## Dockside Interrogation
-After he finishes his ale, Moreau will invite the player to join him in a stroll to the docks. He will fill in the blanks regarding the information the player had gathered, theorizing that someone is trying to hurt the reputation of the Thirsty Deckhand. He will tell the player that the key to this is interrogating captain [[Timothy Butler]].
+After he finishes his ale, Moreau will invite the player to join him in a stroll to the docks. He will fill in the blanks regarding the information the player had gathered, theorizing that someone is trying to hurt the reputation of the Thirsty Deckhand. He will tell the player that they need to find captain [[Timothy Butler]]. This won't be a difficult task, as Butler will be sitting alone on a chair outside his ship with a bottle of rum, singing to himself.
+
+Moreau will grab him and confiscate his bottle, to which Butler will exclaim in protest. Moreau will throw the bottle to the water, saying coldly "You've had enough, Tim." Butler will become silent and stop struggling, and Moreau will continue, "The Thirsty Deckhand is off limits, did you forget that?"
 
 # Appendix A
 
