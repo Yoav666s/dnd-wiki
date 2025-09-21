@@ -18,7 +18,7 @@ Darling of the Docks is a short adventure intended for one character of 5th leve
 
 The player or party don't have to know that the adventure has started in order to participate in it. It is recommended to dynamically introduce characters and it's okay to go off-script. Let the player lead the adventure and lean on key-events when they feel stuck or struggle with figuring out what to do.
 
-If there is more than one player, the characters in this adventure will focus on one of them, as if sensing great potential in them. This can serve as a personal arc for one character within the party.
+If there is more than one player, the characters in this adventure will focus on one of them, as if sensing great potential in them. This can serve as a personal arc for one character within the party while the rest of the players do whatever they want in the meantime, separately.
 
 # Part 1: Enjoy the Show
 
