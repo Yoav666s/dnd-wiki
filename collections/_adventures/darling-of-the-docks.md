@@ -84,10 +84,10 @@ When the player returns to Moreau with the information they managed to gather, h
 
 Moreau will then tell the player that the Thirsty Deckhand is practically the political and cultural center of Gullenshire, the place where nobles come to for conversation and company. As the player has seen, conversations offer a passerby the opportunity to learn valuable information, especially when ale and wine are involved. He will tell the player that they show promise, although they have a lot to learn. If they rolled under 10 in the Intelligence (Investigation) check, Moreau will repeat the words "A lot."
 
-## Dockside Interrogation
 After he finishes his ale, Moreau will ask the player to go for a stroll to the docks. He will fill in the blanks regarding the information the player had gathered, theorizing that someone is trying to hurt the reputation of the Thirsty Deckhand. He will tell the player that they need to find [[Timothy Butler]], captain of the Rising Tide, and interrogate him.
 
-Finding him won't be a difficult task, as Butler will be sitting alone on a chair outside his ship with a bottle of rum, singing to himself. Depending on how the player will go about the interrogation, ask them to roll a Charisma (Intimidation or Persuasion) check. The player might try to bribe Butler instead, this will also work. They will find out the following, depending on how they roll: 
+## Dockside Interrogation
+Finding Butler won't be a difficult task, as he will be sitting alone on a chair outside his ship with a bottle of rum, singing to himself. Depending on how the player will go about the interrogation, ask them to roll a Charisma (Intimidation or Persuasion) check. The player might try to bribe Butler instead, this will also work. They will find out the following, depending on how they roll: 
 
 | Total | Bribe | Revealed Information |
 | :---: | :---: | :------------------- |
@@ -100,12 +100,12 @@ If the player rolls lower than 18 or offers less than 2 gold pieces and feels st
 # Part 3: Unexpected Patronage
 Moreau will not be in Grunge's Bucketfuls if the player goes looking for him. Whether the player will go looking for Moreau or Laurent, they will both be at the same place: in her changing room. When the player reveals what they learned from Butler, Moreau will look at Laurent in disbelief, to which she'll reply, "What are you looking at me for? It wasn't me!" A Wisdom (Insight) check of 10 or higher will reveal that she's telling the truth. Moreau will believe her as well.
 
-
+Moreau will use this opportunity to tell the player about the Network (More info in [[Appendix A@the-network]]).
 
 # Appendix A
 
 ## The Network
-The Network is a crime syndicate based in Gullenshire. It is composed of operative that gather information undercover and work to gain political leverage within the city. They don't get caught because they rarely do anything illegal, and when they do, they rely on their best operatives to do the job.
+The Network is a syndicate based in Gullenshire. It is composed of operatives that gather information undercover and work to gain political leverage within the city. They don't get caught because they rarely do anything illegal, and when they do, they rely on their best operatives to do the job.
 
 They exchange information for coin, use information to blackmail powerful individuals, and obtain information through every means you could imagine. They communicate in code, and most operatives don't know each other. The Network has eyes and ears everywhere, and they even use magic to spy on activity in certain places.
 
