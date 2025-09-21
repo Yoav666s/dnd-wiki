@@ -148,3 +148,6 @@ He found [[Ivonne Laurent]] by chance, working as an escort lady. She was a dear
 
 ## Earnest Grunge
 Earnest Grunge, or Earny, is a jolly dwarf with black greying hair, a few missing teeth, and a beer belly.
+
+## Charlotte Augustine
+Charlotte Augustine is a drow elf.
