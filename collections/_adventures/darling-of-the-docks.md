@@ -88,8 +88,10 @@ Moreau will ask the player to interrogate Captain Timothy. Depending on how the 
 | Total | Revealed Information |
 | :---: | :------------------- |
 | 1-9   | Someone wearing a hood and cloak came up to him and gave him 16 gold pieces, 8 of them had had to give to his crew to buy some drinks in the Thirsty Deckhand. |
-| 10-19 | It was a woman who handed him the coin, and she wanted his crew to start a brawl at some point in the evening. |
-| 20+ | When she handed him the coin pouch, he saw her hand. Her skin was purple, like Moreau's! |
+| 10-17 | It was a woman who handed him the coin, and she wanted his crew to start a brawl at some point in the evening. |
+| 18+ | When she handed him the coin pouch, he saw her hand. Her skin was purple, like Moreau's! |
+
+If the player rolls lower than 18, let them roll a Wisdom (Insight) check. Regardless of the outcome, they get a sense that Butler isn't telling them everything he knows. If they communicate that to Moreau, he will hand Butler some gold and ask him for additional information about the cloaked person. He will then reveal that it was a female drow elf.
 
 # Appendix A
 
