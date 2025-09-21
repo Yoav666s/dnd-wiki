@@ -100,12 +100,14 @@ If the player rolls lower than 18 or offers less than 2 gold pieces and feels st
 # Part 3: Unexpected Patronage
 Moreau will not be in Grunge's Bucketfuls if the player goes looking for him. Whether the player will go looking for Moreau or Laurent, they will both be at the same place: in her changing room. When the player reveals what they learned from Butler, Moreau will look at Laurent in disbelief, to which she'll reply, "What are you looking at me for? It wasn't me!" A Wisdom (Insight) check of 10 or higher will reveal that she's telling the truth. Moreau will believe her as well.
 
+
+
 # Appendix A
 
 ## The Network
 The Network is a crime syndicate based in Gullenshire. It is composed of operative that gather information undercover and work to gain political leverage within the city. They don't get caught because they rarely do anything illegal, and when they do, they rely on their best operatives to do the job.
 
-They exchange information for coin, use information to blackmail powerful individuals, and obtain information through every means you could imagine. They communicate in code, and not only most operatives don't know each other, they never quite know when they're speaking to another operative. The Network has eyes and ears everywhere, and they even use magic to spy on activity in certain places.
+They exchange information for coin, use information to blackmail powerful individuals, and obtain information through every means you could imagine. They communicate in code, and most operatives don't know each other. The Network has eyes and ears everywhere, and they even use magic to spy on activity in certain places.
 
 The Network has begun to cover more area, sending operatives to different cities in Hoverncast. The problem is that that as it expands, its operatives are spread thin. At the moment, they are looking to recruit, and every single operative is extremely valuable.
 
