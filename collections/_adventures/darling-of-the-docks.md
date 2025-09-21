@@ -81,11 +81,15 @@ When the player returns to Moreau with the information they managed to gather, h
 Moreau will then tell the player that the Thirsty Deckhand is practically the political and cultural center of Gullenshire, the place where nobles come to for conversation and company. As the player has seen, conversations offer a passerby the opportunity to learn valuable information, especially when ale and wine are involved. He will tell the player that they show promise, although they have a lot to learn. If they rolled under 10 in the Intelligence (Investigation) check, Moreau will repeat the words "A lot."
 
 ## Dockside Interrogation
-After he finishes his ale, Moreau will invite the player to join him in a stroll to the docks. He will fill in the blanks regarding the information the player had gathered, theorizing that someone is trying to hurt the reputation of the Thirsty Deckhand. He will tell the player that they need to find captain [[Timothy Butler]]. This won't be a difficult task, as Butler will be sitting alone on a chair outside his ship with a bottle of rum, singing to himself.
+After he finishes his ale, Moreau will invite the player to join him in a stroll to the docks. He will fill in the blanks regarding the information the player had gathered, theorizing that someone is trying to hurt the reputation of the Thirsty Deckhand. He will tell the player that they need to find Captain [[Timothy Butler]]. This won't be a difficult task, as Butler will be sitting alone on a chair outside his ship with a bottle of rum, singing to himself.
 
-Moreau will grab him and confiscate his bottle, to which Butler will exclaim in protest. Moreau will throw the bottle to the water, saying coldly "You've had enough, Tim." Butler will become silent and stop struggling, and Moreau will continue based on the information the player had gathered in their previous Intelligence (Investigation) check. He will ask, "What was your crew doing in the Thirsty Deckhand last night?" and Butler will answer, "I don't know. Whatever you do in a tavern, if I have to guess."
+Moreau will ask the player to interrogate Captain Timothy. Depending on how the player will go about the interrogation, ask them to roll a Charisma (Intimidation or Persuasion) check. They will find out the following, depending on how they roll: 
 
-If the player rolled 10 or higher on their previous Intelligence (Investigation) check, Moreau will follow up with, "Where's the money from?"
+| Total | Revealed Information |
+| :---: | :------------------- |
+| 1-9   | Someone wearing a hood and cloak came up to him and gave him 16 gold pieces, 8 of them had had to give to his crew to buy some drinks in the Thirsty Deckhand. |
+| 10-19 | It was a woman who handed him the coin, and she wanted his crew to start a brawl at some point in the evening. |
+| 20+ | When she handed him the coin pouch, he saw her hand. Her skin was purple, like Moreau's! |
 
 # Appendix A
 
