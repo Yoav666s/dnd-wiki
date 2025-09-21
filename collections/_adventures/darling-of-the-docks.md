@@ -54,7 +54,6 @@ The stage is 45 feet away from Dalngram and Laurent, and they are 50 feet from t
 As the player or party advances through the crowd, they will notice the more noble patrons leaving, muttering to each other in exasperation.
 
 ## Backstage Pass
-
 > You finally arrive backstage, successfully escorting the madame to safety. She leads you to her changing room, where you see a mirror with a small drawing stuck to the frame, of the same drow elf who just joined you in rescuing Laurent. You see clothes tossed over a changing-screen and a fine turquoise carpet on the floor.
 
 Moreau will tend to Laurent to make sure she's okay. She will chide him, claiming that she's "not a baby," and she didn't get hurt. If the player or party had helped rescue her, she would acknowledge that as well, and thank them warmly. If the player is alone, Moreau will comment on the their performance depending on how they did. Laurent will then whisper something in Moreau's ear, and a successful DC 15 Wisdom (Perception) check will reveal the words, "I have feeling about him/her."
@@ -64,7 +63,7 @@ Moreau will then inform the player or the party that what happened there is not 
 Moreau will then turn to the player (not the entire party, even if present) and ask them if they can help him with something. If the player asks why, Moreau will say that Laurent said they stood out. If the player agrees, Moreau will tell them to meet him at Grunge's Bucketfuls tomorrow at noon. Alone.
 
 # Part 2: Maritime Intrigue
-> Grunge's Bucketfuls is about as rowdy as you would expect. 
+> Grunge's Bucketfuls is about as rowdy as you would expect. Sailors are dunking their tankards in buckets of ale, singing and shouting and having a great time. The wooden floor is a little sticky at certain places where ale was spilt, and the strong smell of yeast is all too present.
 
 Should the player show up the next day at Grunge's, Moreau will only come to the meeting if the player is alone. Moreau will be in the tavern 15 minutes or so before noon, lurking in a dark corner while invisible. If the player is in a party and he will recognize any other member present in the tavern, he will discreetly walk out. Otherwise, he will approach the player and sit at their table.
 
