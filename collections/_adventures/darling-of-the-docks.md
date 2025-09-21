@@ -83,7 +83,9 @@ Moreau will then tell the player that the Thirsty Deckhand is practically the po
 ## Dockside Interrogation
 After he finishes his ale, Moreau will invite the player to join him in a stroll to the docks. He will fill in the blanks regarding the information the player had gathered, theorizing that someone is trying to hurt the reputation of the Thirsty Deckhand. He will tell the player that they need to find captain [[Timothy Butler]]. This won't be a difficult task, as Butler will be sitting alone on a chair outside his ship with a bottle of rum, singing to himself.
 
-Moreau will grab him and confiscate his bottle, to which Butler will exclaim in protest. Moreau will throw the bottle to the water, saying coldly "You've had enough, Tim." Butler will become silent and stop struggling, and Moreau will continue, "The Thirsty Deckhand is off limits, did you forget that?"
+Moreau will grab him and confiscate his bottle, to which Butler will exclaim in protest. Moreau will throw the bottle to the water, saying coldly "You've had enough, Tim." Butler will become silent and stop struggling, and Moreau will continue based on the information the player had gathered in their previous Intelligence (Investigation) check. He will ask, "What was your crew doing in the Thirsty Deckhand last night?" and Butler will answer, "I don't know. Whatever you do in a tavern, if I have to guess."
+
+If the player rolled 10 or higher on their previous Intelligence (Investigation) check, Moreau will follow up with, "Where's the money from?"
 
 # Appendix A
 
