@@ -6,9 +6,6 @@ permalink: /spells/delusion/
 tags:
   - Spell
   - Deception
-available_for:
-  - Bard
-  - Warlock
 level: "4th Level"
 school: "Enchantment"
 range: "30 ft"
