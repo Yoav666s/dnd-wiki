@@ -6,8 +6,8 @@ permalink: /spells/name/
 tags:
   - Spell
 available_for:
-  - Wizard
   - Sorcerer
+  - Wizard
 level: "Cantrip"
 school: "Transmutation"
 range: "30 ft"
