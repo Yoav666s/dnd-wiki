@@ -149,5 +149,5 @@ He found [[Ivonne Laurent]] by chance, working as an escort lady. She was a dear
 ## Earnest Grunge
 Earnest Grunge, or Earny, is a jolly dwarf with black greying hair, a few missing teeth, and a beer belly.
 
-## Charlotte Augustine
-Charlotte Augustine is a drow elf, an assassin working for the [[lore:Eyes of Dusk@urkmor]]. She was sent to Hoverncast to find Moreau, as he's considered a renegade. Her job is to bring him back to Urk'mor so he can go through fair trial.
+## Aulette Huddleborne
+Aulette Huddleborne is a human bard performing in the . She
