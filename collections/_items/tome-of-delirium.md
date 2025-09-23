@@ -16,9 +16,10 @@ While attuned to this book, you know the following spells and can cast them usin
 
 | Level | Spells |
 | :---: | :----- |
-| 1st   | [[Momentary Madness]], [[Notion]] |
-| 2nd   | [[Intrude Thoughts]], [[Searing Pain]] |
-| 3rd   | [[Mistrust]], [[Voices]] |
+| 1st   | [[!Momentary Madness]], [[!Notion]] |
+| 2nd   | [[!Intrude Thoughts]], [[!Searing Pain]] |
+| 3rd   | [[!Mistrust]], [[!Voices]] |
+| 4th   | [[!Delusion]], [[!Paranoia]] |
 
 Whenever you cast a spell from this book, make a Wisdom saving throw against your own spell save DC. On failure, roll a d20 to determine the side effects from the Delirium Table:
 
