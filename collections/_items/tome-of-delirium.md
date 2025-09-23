@@ -36,4 +36,5 @@ Whenever a creature successfully resists a spell from this book, make a Wisdom s
 | 4   |  |
 | 5   |  |
 | 6   | You hear unintelligible whispers behind you until you turn around. When you do, you see a monster that disappears the next time you blink. |
+
 [:items/tome-of-delirium:]
