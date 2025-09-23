@@ -30,9 +30,10 @@ Whenever a creature successfully resists a spell from this book, make a Wisdom s
 
 | d20 | Side Effect |
 | :-: | :---------- |
-| 1   | You are frightened of the creature(s) for 1 round. |
-| 2   | You take 1d6 psychic damage. |
-| 3   | You hear unintelligible whispers behind you until you turn around. When you do, you see a monster that disappears the next time you blink. |
+| 1   | You gain 1 point of exhaustion. |
+| 2   | You are frightened of the creature(s) who resisted the spell until the end of your next turn. |
+| 3   | you take 1d6 psychic damage. |
 | 4   |  |
-
+| 5   |  |
+| 6   | You hear unintelligible whispers behind you until you turn around. When you do, you see a monster that disappears the next time you blink. |
 [:items/tome-of-delirium:]
