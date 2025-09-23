@@ -29,3 +29,5 @@ While attuned to this book, you know the following spells and can cast them usin
 Whenever you cast a spell from this book, make a Wisdom saving throw against your own spell save DC. On failure, roll a d20 to determine the side effects from the Delirium Table:
 
 [delirium table]
+
+[:items/tome-of-delirium:]
