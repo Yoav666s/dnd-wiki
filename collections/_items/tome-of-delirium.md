@@ -30,10 +30,10 @@ Whenever a creature successfully resists a spell from this book, make a Wisdom s
 
 | d20 | Side Effect |
 | :-: | :---------- |
-| 1   | You take 1d6 psychic damage. |
+| 1   | You feel a terrible sharp pain in your head. You take 1d6 psychic damage. |
 | 2   | You hear unintelligible whispers behind you until you turn around. When you do, you see a monster that disappears the next time you blink. |
 | 3   | A faint laugh echoes in your head for a few seconds. |
-| 4   |  |
+| 4   | You feel something brushing against your arm, but nothing is there. |
 | 5   |  |
 
 [:items/tome-of-delirium:]
