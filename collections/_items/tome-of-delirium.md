@@ -43,4 +43,6 @@ Whenever a creature successfully resists a spell from this book, make a Wisdom s
 | 11 | You feel a hand resting on your shoulder, but if you turn to look nothing is there. |
 | 12 | You hear the ticking of a clock in the back of your head. |
 
+In addition, once you attune to this item, you start hearing voices every so often. Whispers telling you strange things, warning you of dangers that aren't there, turning you against your allies.
+
 [:items/tome-of-delirium:]
