@@ -26,7 +26,7 @@ While attuned to this book, you know the following spells and can cast them usin
 | 8th   | [[!Dominate Thoughts]] |
 | 9th   | [[!Delirium]] |
 
-Whenever a creature successfully resists a spell from this book, make a Wisdom saving throw against your own spell save DC. On failure, roll a d12 to determine the side effects from the Delirium Table:
+Whenever a creature successfully resists a spell you cast from this book, make a Wisdom saving throw against your own spell save DC. On failure, roll a d12 to determine the side effects from the Delirium Table:
 
 | d12 | Side Effect |
 | :-: | :---------- |
