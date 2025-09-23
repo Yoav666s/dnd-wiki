@@ -30,6 +30,7 @@ Whenever you cast a spell from this book, make a Wisdom saving throw against you
 
 | d20 | Side Effect |
 | :-: | :---------- |
-|||
+| 1   | You take 1d6 psychic damage. |
+| 2   |  |
 
 [:items/tome-of-delirium:]
