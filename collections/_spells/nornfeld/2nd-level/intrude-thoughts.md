@@ -11,7 +11,7 @@ range: "30 ft"
 comp:
   - V
   - S
-duration: "10 Minutes"
+duration: "1 Minute"
 concentration: true
 cast_time: "1 Action"
 ritual: false
