@@ -32,7 +32,7 @@ Whenever a creature successfully resists a spell from this book, make a Wisdom s
 | :-: | :---------- |
 | 1   | You take 1d6 psychic damage. |
 | 2   | You hear unintelligible whispers behind you until you turn around. When you do, you see a monster that disappears the next time you blink. |
-| 3   |  |
+| 3   | A faint laugh echoes in your head for a few seconds. |
 | 4   |  |
 | 5   |  |
 
