@@ -17,7 +17,7 @@ attack: "WIS Save"
 description: |
   You attempt to delude another creature. One creature you can see must make a Wisdom saving throw. If you are fighting the creature, it has advantage on the saving throw. On a failed save, the target will entertain the possibility of one notion you suggest. If it takes damage or is targeted by another spell before you finish, this spell ends and the target dismisses what you say.
 
-  For the duration, you can mentally describe a simple notion that is personally related to the target. It has to be realistically plausible. You must speak to the target and it must be able to understand your language for the notion to take root. Its mind fills in any gaps in the details of your description. If the spell ends before you have finished describing this notion, the target is not deluded. Otherwise, the delusion takes hold when the spell ends.
+  For the duration, you can mentally describe a simple notion that is personally related to the target. It has to be realistically plausible. The target must be able to understand your language for the notion to take root. Its mind fills in any gaps in the details of your description. If the spell ends before you have finished describing this notion, the target is not deluded. Otherwise, the delusion takes hold when the spell ends.
 
   The delusion must be personally related to the target--it is an all-important individual, someone is attempting to poison it, a friend is secretly planning to sabotage it, its partner is being unfaithful, etc. The delusion doesn't necessarily affect how the target behaves, but it's fiercely convinced that it's true.
 
