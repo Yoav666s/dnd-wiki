@@ -35,6 +35,11 @@ Whenever a creature successfully resists a spell from this book, make a Wisdom s
 | 3   | A faint laugh echoes in your head for a few seconds. |
 | 4   | You feel something brushing against your arm, but nothing is there. |
 | 5   | You hear a voice whisper your name behind you. |
-| 6 |  |
+| 6 | Your skin prickles as if insects are crawling over it. |
+| 7 | You feel a cold breath against your neck. |
+| 8 | You hear whispers in a language you don't know. |
+| 9 | You feel your hair being tugged lightly. |
+| 10 | You can't breathe for a few seconds. |
+| 11 |  |
 
 [:items/tome-of-delirium:]
