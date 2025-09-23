@@ -26,13 +26,13 @@ While attuned to this book, you know the following spells and can cast them usin
 | 8th   | [[!Dominate Thoughts]] |
 | 9th   | [[!Delirium]] |
 
-Whenever a creature successfully resists a spell you cast from this book, make a Wisdom saving throw against your own spell save DC. On failure, roll a d12 to determine the side effects from the Delirium Table:
+Whenever a creature successfully resists a spell you cast from this book, make a Wisdom saving throw against your own spell save DC. On failure, you take 1d4 psychic damage and roll a d12 to determine the side effects from the Delirium Table:
 
 | d12 | Side Effect |
 | :-: | :---------- |
 | 1   | You feel a terrible sharp pain in your head. |
 | 2   | You hear unintelligible whispers behind you until you turn around. When you do, you see a monster that disappears the next time you blink. |
-| 3   | A faint laugh echoes in your head for a few seconds. |
+| 3   | A sudden scream echoes in your head for a few seconds. |
 | 4   | You feel something brushing against your arm, but nothing is there. |
 | 5   | You hear a voice whisper your name behind you. |
 | 6 | Your skin prickles as if insects are crawling over it. |
@@ -43,6 +43,11 @@ Whenever a creature successfully resists a spell you cast from this book, make a
 | 11 | You feel a hand resting on your shoulder, but if you turn to look nothing is there. |
 | 12 | You hear the ticking of a clock in the back of your head. |
 
-In addition, once you attune to this item, you start hearing voices every so often, whispers telling you strange things, warning you of dangers that aren't there, turning you against your allies. Also, you start seeing hallucinations, monsters at your peripheral vision, people that disappear after a blink of an eye, insects that turn out to be smudges on the wall.
+In addition, once you attune to this item:
+
+- You start hearing voices originating from the tome, whispers telling you strange things, warning you of dangers that aren't there, turning you against your allies.
+- You start seeing hallucinations, monsters at your peripheral vision, people that disappear at a blink of an eye, insects that turn out to be smudges on the wall.
+- You are vulnerable to psychic damage.
+
 
 [:items/tome-of-delirium:]
