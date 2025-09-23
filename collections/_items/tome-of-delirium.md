@@ -3,7 +3,7 @@ title: "Tome of Delirium"
 index:
   - tome-of-delirium
 permalink: /items/tome-of-delirium/
-excerpt: ""
+excerpt: "This book contains forbidden knowledge of spells and incantations that mess with the subjects' minds."
 tags:
   - Item
 header:
