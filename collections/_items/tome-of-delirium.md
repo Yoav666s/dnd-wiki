@@ -26,9 +26,9 @@ While attuned to this book, you know the following spells and can cast them usin
 | 8th   | [[!Dominate Thoughts]] |
 | 9th   | [[!Delirium]] |
 
-Whenever a creature successfully resists a spell from this book, make a Wisdom saving throw against your own spell save DC. On failure, roll a d20 to determine the side effects from the Delirium Table:
+Whenever a creature successfully resists a spell from this book, make a Wisdom saving throw against your own spell save DC. On failure, roll a d12 to determine the side effects from the Delirium Table:
 
-| d20 | Side Effect |
+| d12 | Side Effect |
 | :-: | :---------- |
 | 1   | You feel a terrible sharp pain in your head. You take 1d6 psychic damage. |
 | 2   | You hear unintelligible whispers behind you until you turn around. When you do, you see a monster that disappears the next time you blink. |
@@ -41,6 +41,6 @@ Whenever a creature successfully resists a spell from this book, make a Wisdom s
 | 9 | You feel your hair being tugged lightly. |
 | 10 | You can't breathe for a few seconds. |
 | 11 | You feel a hand resting on your shoulder, but if you turn to look nothing is there. |
-| 12 |  |
+| 12 | You hear the ticking of a clock in the back of your head. |
 
 [:items/tome-of-delirium:]
