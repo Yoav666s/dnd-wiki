@@ -32,7 +32,7 @@ Before you cast a spell from this book, make a Wisdom saving throw against your 
 | :-: | :---------- |
 | 1   | The casting fails and the spell slot is wasted. |
 | 2   | You take 1d6 psychic damage. |
-| 3   | You hear unintelligible whispers behind you, and if you turn around you see a monster that disappears the next time you blink. |
+| 3   | You hear unintelligible whispers behind you until you turn around. When you do, you see a monster that disappears the next time you blink. |
 | 4   |  |
 
 [:items/tome-of-delirium:]
