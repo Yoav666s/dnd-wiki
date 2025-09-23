@@ -43,6 +43,6 @@ Whenever a creature successfully resists a spell from this book, make a Wisdom s
 | 11 | You feel a hand resting on your shoulder, but if you turn to look nothing is there. |
 | 12 | You hear the ticking of a clock in the back of your head. |
 
-In addition, once you attune to this item, you start hearing voices every so often. Whispers telling you strange things, warning you of dangers that aren't there, turning you against your allies.
+In addition, once you attune to this item, you start hearing voices every so often, whispers telling you strange things, warning you of dangers that aren't there, turning you against your allies. Also, you start seeing hallucinations, monsters at your peripheral vision, people that disappear after a blink of an eye, insects that turn out to be smudges on the wall.
 
 [:items/tome-of-delirium:]
