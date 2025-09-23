@@ -40,6 +40,7 @@ Whenever a creature successfully resists a spell from this book, make a Wisdom s
 | 8 | You hear whispers in a language you don't know. |
 | 9 | You feel your hair being tugged lightly. |
 | 10 | You can't breathe for a few seconds. |
-| 11 |  |
+| 11 | You feel a hand resting on your shoulder, but if you turn to look nothing is there. |
+| 12 |  |
 
 [:items/tome-of-delirium:]
