@@ -12,7 +12,7 @@ comp:
   - V
   - S
 duration: "1 Round"
-concentration: true
+concentration: false
 cast_time: "1 Action"
 attack: "WIS Save"
 effect: "Charmed"
