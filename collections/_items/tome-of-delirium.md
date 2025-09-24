@@ -12,7 +12,7 @@ header:
 ---
 This book contains forbidden knowledge of spells and incantations that mess with the subjects' minds. If you are a spellcaster and spend 24 hours over a period of 6 days of fewer studying the book's contents and practicing its guidelines, you can attune to it.
 
-While attuned to this book, you know the following spells and can cast them using any spell slots you have:
+While attuned to this book, you can use it as a spellcasting focus, and you gain a +3 bonus to spell attack rolls and to the saving throw DC of your spells. You also know the following spells and can cast them using any spell slots you have:
 
 | Level | Spells |
 | :---: | :----- |
@@ -26,7 +26,7 @@ While attuned to this book, you know the following spells and can cast them usin
 | 8th   | [[!Dominate Thoughts]] |
 | 9th   | [[!Delirium]] |
 
-Whenever a creature successfully resists a spell you cast from this book, make a Wisdom saving throw against your own spell save DC. On failure, you take 1d4 psychic damage and roll a d12 to determine the side effects from the Delirium Table:
+Whenever a creature successfully resists a spell you cast, make a Wisdom saving throw against your own spell save DC. On failure, you take 1d4 psychic damage and roll a d12 to determine the side effects from the Delirium Table:
 
 | d12 | Side Effect |
 | :-: | :---------- |
@@ -43,7 +43,7 @@ Whenever a creature successfully resists a spell you cast from this book, make a
 | 11 | You feel a hand resting on your shoulder, but if you turn to look nothing is there. |
 | 12 | You hear the ticking of a clock in the back of your head. |
 
-In addition, once you attune to this item:
+In addition, once you attune to this book:
 
 - You start hearing voices originating from the tome, whispers telling you strange things, warning you of dangers that aren't there, turning you against your allies.
 - You start seeing hallucinations, monsters at your peripheral vision, people that disappear at a blink of an eye, insects that turn out to be smudges on the wall.
