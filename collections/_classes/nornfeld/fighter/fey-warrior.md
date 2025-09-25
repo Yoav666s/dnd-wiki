@@ -16,7 +16,7 @@ Beginning when you choose this archetype at 3rd level, you learn the [[Dancing L
 You can cast [[Subterfuge]] as part of drawing or sheathing a weapon of the light property to teleport it to or from your hand. This doesn't require an action, but it takes as much time as it would normally take to draw or sheath a weapon.
 
 # Fey Step
-Starting at 3rd level, immediately before you make a melee attack, you can use your bonus action to teleport up to 15 feet to an unoccupied space you can see within range of the target of the attack.
+Starting at 3rd level, immediately before you make a melee attack, you can teleport up to 15 feet to an unoccupied space you can see within range of the target, and you have advantage on the attack.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses after you finish a short or long rest.
 
