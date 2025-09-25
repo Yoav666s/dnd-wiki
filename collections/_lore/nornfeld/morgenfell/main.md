@@ -11,4 +11,4 @@ excerpt: "Not Implemented"
 Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the law.
 
 # Wedland
-[[Wedland]] is governed by the queen Juliette Phillips the II.
+[[Wedland]] is governed by queen Juliette Phillips the II.
