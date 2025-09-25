@@ -30,9 +30,9 @@ traits: |
   - 2nd level (3 slots): intrude thoughts, invisibility, mirror image, searing pain
   - 3rd level (2 slots): counterspell, mistrust, voices
 
-  **Heightened Spells (1/day).** When a spell cast by Jasper forces a target to make a saving throw to resist its effects, he may cause one target to have disadvantage on its first saving throw made against the spell.
+  **Heightened Spell (1/day).** When a spell cast by Jasper forces a target to make a saving throw to resist its effects, he may cause one target to have disadvantage on its first saving throw made against the spell.
 
-  **Quickened Spells (1/day).** When Jasper casts a spell that has a casting time of 1 action, he can change the casting time to 1 bonus action for this casting.
+  **Subtle Spell (2/day).** When Jasper casts a spell, he may cast it without any verbal or somatic components.
 actions: |
   **Dagger.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) piercing damage.
 excerpt: "Medium Human (Sorcerer), Neutral"
