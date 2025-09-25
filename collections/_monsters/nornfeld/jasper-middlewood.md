@@ -19,8 +19,8 @@ saving_throws: "CON +4, CHA +7"
 skills: "Arcana +3, Deception +7"
 senses: "Passive Perception 11"
 languages: "Common, Elvish"
-challenge_rating: 7
-xp: 2900
+challenge_rating: 3
+xp: 700
 proficiency_bonus: "+3"
 traits: |
   **Spellcasting.** Jasper is a 5th level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He has the following spells prepared:
