@@ -21,7 +21,7 @@ skills: "Acrobatics +6, Perception +5, Performance +8"
 senses: "Passive Perception 16"
 languages: "Common, Elvish"
 challenge_rating: 7
-xp: 5000
+xp: 2900
 proficiency_bonus: "+4"
 traits: |
   **Spellcasting.** Aulette is a 10th level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). She has the following spells prepared:
