@@ -176,3 +176,5 @@ Earnest Grunge, or Earny, is a jolly dwarf with black greying hair, a few missin
 
 ## Aulette Huddleborne
 [[monsters:Aulette Huddleborne]] is a proud human bard performing in the Hungry Kraken. Using the [[Disguise Self]] spell, she makes herself look like Madame Laurent, dealing in shady business and trying to hurt her reputation. She's a competitor, jealous of her success.
+
+[:monsters/aulette-huddleborne:]
