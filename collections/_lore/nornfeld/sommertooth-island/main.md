@@ -3,8 +3,9 @@ title: "Sommertooth Island"
 index:
   - sommertooth-island 
 permalink: /lore/sommertooth-island/
-excerpt: "Not Implemented"
+excerpt: "Sommertooth Island is a safe haven for pirates that isn't found on most maps of Nornfeld."
 # header:
-#   overlay_image: /assets/images/lore/cortenmaas/header.png
-#   teaser: /assets/images/lore/cortenmaas/header.jpg
+#   overlay_image: /assets/images/lore/sommertooth-island/header.png
+#   teaser: /assets/images/lore/sommertooth-island/header.jpg
 ---
+Sommertooth Island is a safe haven for pirates that isn't found on most maps of [[Nornfeld]].
