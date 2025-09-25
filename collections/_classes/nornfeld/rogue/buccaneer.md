@@ -14,13 +14,10 @@ You're skilled in close-quarter fighting, especially in densely packed areas. Yo
 [:classes/rogue/buccaneer;header:]
 
 # Deckhand Jostler
-Starting at 3rd level, you can use your bonus action to attempt to [[shove]] a creature. Instead of making a Strength ([[Athletics]]) check, you can make a Dexterity ([[Acrobatics]]) check.
-
-**2024 Ruleset** \
-*Starting at 3rd level, you can use your bonus action to attempt to [[shove]] a creature. The DC for the saving throw equals 8 plus your Dexterity modifier and your proficiency bonus.*
+Starting at 3rd level, you can use your bonus action to [[shove]] a creature.
 
 # Ready for a Row
-When you choose this archetype at 3rd level, you can add your [[proficiency bonus]] to your [[initiative]] rolls.
+When you choose this archetype at 3rd level, you add your Strength modifier to your [[initiative]] rolls.
 
 # Brief Distraction
 Starting at 9th level, whenever you attempt to [[shove]] a creature, succeed or fail, your movement doesn't provoke opportunity attacks from that creature until the end of your turn.
