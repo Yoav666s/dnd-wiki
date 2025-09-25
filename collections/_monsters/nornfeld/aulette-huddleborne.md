@@ -7,30 +7,32 @@ permalink: /monsters/aulette-huddleborne/
 size: "Medium"
 type: "Human"
 alignment: "Neutral"
-armor_class: "17 (No Armor)"
-hit_points: "97 (15d8 + 30)"
+armor_class: "15 (Light Armor)"
+hit_points: "87 (15d8 + 20)"
 speed: "walk 30 ft."
-str_score: 13
-dex_score: 18
-con_score: 14
+str_score: 11
+dex_score: 14
+con_score: 12
 int_score: 10
-wis_score: 16
-cha_score: 10
-saving_throws: "STR +6, DEX +9"
-skills: "Acrobatics +9, Insight +8, Stealth +9"
-senses: "Passive Perception 13"
-languages: "Common"
+wis_score: 13
+cha_score: 18
+saving_throws: "DEX +7, WIS +6"
+skills: "Acrobatics +7, Perception +6, Performance +9"
+senses: "Passive Perception 16"
+languages: "Common, Elvish"
 challenge_rating: 9
 xp: 5000
 proficiency_bonus: "+5"
 traits: |
-  **Fey Ancestry.** Moreau has advantage on saving throws against being charmed, and magic can’t put him to sleep.
+  **Spellcasting.** Aulette is a 10th level spellcaster. Her spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). She has the following spells prepared:
 
-  **Spellcasting.** Moreau’s spellcasting ability is Charisma (spell save DC 11). He can innately cast the following spells, requiring no material components:
+  - Cantrips (at will): subterfuge, mage hand, message, vicious mockery
+  - 1st Level (4 slots): charm person, healing word, disguise self, hideous laughter
+  - 2nd level (3 slots): invisibility, silence, suggestion
+  - 3rd level (3 slots): bestow curse, major images
+  - 4th level (3 slots): dimension door, polymorph
+  - 5th level (2 slots): dominate person, mislead, modify memory
 
-  At will: dancing lights
-
-  1/day each: darkness, silence
 
   **Sunlight Sensitivity.** While in sunlight, Moreau has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
