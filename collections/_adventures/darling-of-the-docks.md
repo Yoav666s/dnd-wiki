@@ -107,7 +107,8 @@ Upon investigating, the player will learn that nobody seems to have seen a third
 
 | Total | Information Revealed |
 | :---: | :------------------- |
-|||
+| 1-4   | Madame Laurent has been seen wandering around in the outskirts of town, mingling with unsavory individuals. |
+| 5-9   |  |
 
 # Appendix A
 
