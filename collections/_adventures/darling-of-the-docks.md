@@ -115,6 +115,7 @@ Upon investigating, the player will learn that nobody seems to have seen a third
 Should the player present Laurent with this information, she will deny ever going to the outskirts or the docks. She'll claim that she spends most of her time in her quarters or in the Thirsty Deckhand. She will deny having a double or a twin, and if asked about changing her appearance to a human, she will deny having the ability to do so. A successful DC 10 Wisdom (Insight) check will reveal that she's being truthful.
 
 ## Looking for the Lookalike
+When presented with the information about changing her appearance, she will conclude that the culprit is probably [[Aulette Huddleborne]], skipping this section straight to [[Confronting the Counterfeiter]]. Otherwise, she will conclude that someone who looks like her is going around and damaging her reputation.
 
 # Appendix A
 
