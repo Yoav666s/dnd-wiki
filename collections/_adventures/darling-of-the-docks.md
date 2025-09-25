@@ -112,6 +112,8 @@ Upon investigating, the player will learn that nobody seems to have seen a third
 | 15-19 | One time, she was spotted by someone in the docks while her performance in the Thirsty Deckhand was still ongoing. She must have a double or a twin. |
 | 20+   | While cloaked, someone saw her change her appearance to a human. |
 
+Should the player present Laurent with this information, she will deny ever going to the outskirts or the docks. She'll claim that she spends most of her time in her quarters or in the Thirsty Deckhand. She will deny having a double or a twin, and if asked about changing her appearance to a human, she will deny having the ability to do so. A successful DC 10 Wisdom (Insight) check will reveal that she's being truthful.
+
 ## Looking for the Lookalike
 
 # Appendix A
