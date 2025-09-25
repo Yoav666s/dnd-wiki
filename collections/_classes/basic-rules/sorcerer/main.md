@@ -91,7 +91,7 @@ You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 Choose a sorcerous origin, which describes the source of your innate magical power. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
 | Origin                  | Source      |
-| :---------------------: | :---------: |
+| :---------------------- | :---------- |
 | [[!Draconic Bloodline]] | Basic Rules |
 | [[!Fey Spirit]] | Untold Legends of Nornfeld |
 
