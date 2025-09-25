@@ -5,7 +5,7 @@ index:
   - aulette-huddleborne
 permalink: /monsters/aulette-huddleborne/
 size: "Medium"
-type: "Human"
+type: "Human (Bard)"
 alignment: "Neutral"
 armor_class: "15 (Light Armor)"
 hit_points: "55 (10d8 + 10)"
@@ -36,7 +36,7 @@ traits: |
   **Song of Rest.** The bard can perform a song while taking a short rest. Any ally who hears the song regains an extra ld6 hit points if it spends any Hit Dice to regain hit points at the end of that rest. The bard can confer this benefit on itself as well.
 actions: |
   **Shortsword.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.
-excerpt: "Medium Humanoid (Elf), Neutral"
+excerpt: "Medium Human (Bard), Neutral"
 header:
   overlay_image: /assets/images/monsters/aulette-huddleborne/header.png
   teasesr: /assets/images/monsters/aulette-huddleborne/header.jpg
