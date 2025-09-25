@@ -102,13 +102,17 @@ Moreau will not be in Grunge's Bucketfuls if the player goes looking for him. Wh
 
 Moreau will use this opportunity to tell the player about the Network (More info in [[Appendix A@the-network]]). If the player wants to join this organization, this will be the final test. Learn more about this third drow elf, find out what she wants and who she works for.
 
-## Looking for the Lookalike
 Upon investigating, the player will learn that nobody seems to have seen a third drow elf in the city. There are only two drow elves in Gullenshire, Moreau and Madame Laurent. When the player decides to wander around a tavern listening to conversations or asking around, let the player to roll another Intelligence (Investigation) check:
 
 | Total | Information Revealed |
 | :---: | :------------------- |
 | 1-4   | Madame Laurent has been seen wandering around in the outskirts of town, mingling with unsavory individuals. |
-| 5-9   |  |
+| 5-9   | When she does, she wears a hooded cloak to disguise her identity. |
+| 10-14 | When she visits the outskirts or the docks, it's always for a brief time, never more than an hour. |
+| 15-19 | One time, she was spotted by someone in the docks while her performance in the Thirsty Deckhand was still ongoing. She must have a double or a twin. |
+| 20+   | While cloaked, someone saw her change her appearance to a human. |
+
+## Looking for the Lookalike
 
 # Appendix A
 
@@ -158,4 +162,4 @@ He found [[Ivonne Laurent]] by chance, working as an escort lady. She was a dear
 Earnest Grunge, or Earny, is a jolly dwarf with black greying hair, a few missing teeth, and a beer belly.
 
 ## Aulette Huddleborne
-Aulette Huddleborne is a proud human bard performing in the Hungry Kraken. Using the [[Disguise Self]] spell, she makes herself look like Madame Laurent on her free time, dealing in shady business and trying to hurt her reputation. She's a competitor, jealous of her success.
+Aulette Huddleborne is a proud human bard performing in the Hungry Kraken. Using the [[Alter Self]] spell, she makes herself look like Madame Laurent, dealing in shady business and trying to hurt her reputation. She's a competitor, jealous of her success.
