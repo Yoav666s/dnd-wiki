@@ -126,8 +126,6 @@ Roll initiative. The player initially will be 75 feet away from her. The lookali
 ## Confronting the Counterfeiter
 Regardless of what happens, Moreau will come out of the shadows having seen the lookalike transform back, saying, "Well, well, well. Aulette Huddleborne". She will have nowhere to run. Roll initiative. She will attempt to cast [[Dominate Person]] on Moreau and will tell him to kill the player, then [[Dimension Door]] away on her next turn.
 
-
-
 # Appendix A
 
 ## The Network
