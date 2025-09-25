@@ -126,7 +126,7 @@ Regardless of what happens, Moreau will come out of the shadows having seen the 
 
 If Moreau is still under the effect of [[Dominate Person]] when Aulette gets away, he will keep attacking the player until he succeeds a saving throw or the player falls unconscious. If the player falls unconscious, Moreau will stabilize them after the spell ends and they will wake up in Laurent's changing room. Regardless, Moreau will apologize for attacking the player. He will say that "she could be anywhere." But now they know who's responsible for the brawl in the tavern. He'll say that he will pass on that information, and she will be taken care of. She works in the Hungry Kraken and the Network can get her kicked out. She won't stay in the city for long.
 
-He'll thank the player for their help and hand them a pouch of 25 platinum pieces, and he'll say that he's say a good word about them to the Network (allowing the player to participate in upcoming adventures, including one where Aulette makes a comeback!).
+He'll thank the player for their help and hand them a pouch of 25 platinum pieces, and promise that he'll say a good word about them to the Network (allowing the player to participate in upcoming adventures, including one where Aulette makes a comeback!).
 
 # Appendix A
 
