@@ -124,7 +124,9 @@ Roll initiative. The player initially will be 75 feet away from her. The lookali
 [Chase Mechanics]
 
 ## Confronting the Counterfeiter
-Regardless of what happens, Moreau will come out of the shadows having seen the lookalike transform back, saying, "Well, well, well. Aulette Huddleborne". She will have nowhere to run. Roll initiative. She will attempt to cast [[Dominate Person]] on Moreau and will tell him to kill the player, then [[Dimension Door]] away.
+Regardless of what happens, Moreau will come out of the shadows having seen the lookalike transform back, saying, "Well, well, well. Aulette Huddleborne". She will have nowhere to run. Roll initiative. She will attempt to cast [[Dominate Person]] on Moreau and will tell him to kill the player, then [[Dimension Door]] away on her next turn.
+
+
 
 # Appendix A
 
@@ -175,5 +177,7 @@ Earnest Grunge, or Earny, is a jolly dwarf with black greying hair, a few missin
 
 ## Aulette Huddleborne
 [[monsters:Aulette Huddleborne]] is a proud human bard performing in the Hungry Kraken. Using the [[Disguise Self]] spell, she makes herself look like Madame Laurent, dealing in shady business and trying to hurt her reputation. She's a competitor, jealous of her success.
+
+She has been following the player under disguise and saw that they're working with Moreau.
 
 [:monsters/aulette-huddleborne:]
