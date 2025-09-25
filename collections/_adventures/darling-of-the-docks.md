@@ -125,7 +125,7 @@ The lookalike will try to hide around the corner in some alley and change shape 
 [Chase Mechanics]
 
 ## Confronting the Counterfeiter
-Regardless of what happens, Moreau will come out of the shadows having seen the lookalike transform back, saying, "Well, well, well. Aulette Huddleborne". She will have nowhere to run.
+Regardless of what happens, Moreau will come out of the shadows having seen the lookalike transform back, saying, "Well, well, well. Aulette Huddleborne". She will have nowhere to run. Roll initiative. She will attempt to cast [[Dominate Person]] on Moreau and will tell him to kill the player, then [[Dimension Door]] away.
 
 # Appendix A
 
