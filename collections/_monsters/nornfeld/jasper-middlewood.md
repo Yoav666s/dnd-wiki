@@ -38,7 +38,7 @@ actions: |
 excerpt: "Medium Human (Sorcerer), Neutral"
 header:
   overlay_image: /assets/images/monsters/jasper-middlewood/header.png
-  teasesr: /assets/images/monsters/jasper-middlewood/header.jpg
+  teaser: /assets/images/monsters/jasper-middlewood/header.jpg
 ---
 
 [:monsters/jasper-middlewood:]

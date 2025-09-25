@@ -39,7 +39,7 @@ actions: |
 excerpt: "Medium Human (Bard), Neutral"
 header:
   overlay_image: /assets/images/monsters/aulette-huddleborne/header.png
-  teasesr: /assets/images/monsters/aulette-huddleborne/header.jpg
+  teaser: /assets/images/monsters/aulette-huddleborne/header.jpg
 ---
 
 [:monsters/aulette-huddleborne:]

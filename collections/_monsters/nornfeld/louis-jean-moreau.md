@@ -58,7 +58,7 @@ reactions: |
 excerpt: "Medium Humanoid (Elf), Neutral"
 header:
   overlay_image: /assets/images/monsters/louis-jean-moreau/header.png
-  teasesr: /assets/images/monsters/louis-jean-moreau/header.jpg
+  teaser: /assets/images/monsters/louis-jean-moreau/header.jpg
 ---
 
 [:monsters/louis-jean-moreau:]
