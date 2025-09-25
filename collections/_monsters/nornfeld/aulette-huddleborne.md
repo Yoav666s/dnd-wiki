@@ -29,7 +29,7 @@ traits: |
   - Cantrips (at will): subterfuge, mage hand, message, vicious mockery
   - 1st Level (4 slots): charm person, healing word, disguise self, hideous laughter
   - 2nd level (3 slots): invisibility, silence, suggestion
-  - 3rd level (3 slots): bestow curse, major images
+  - 3rd level (3 slots): bestow curse, major image
   - 4th level (3 slots): dimension door, polymorph
   - 5th level (2 slots): dominate person, mislead, modify memory
 
