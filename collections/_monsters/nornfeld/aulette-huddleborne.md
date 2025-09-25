@@ -16,15 +16,15 @@ con_score: 12
 int_score: 10
 wis_score: 13
 cha_score: 18
-saving_throws: "DEX +7, WIS +6"
-skills: "Acrobatics +7, Perception +6, Performance +9"
+saving_throws: "DEX +6, WIS +5"
+skills: "Acrobatics +6, Perception +5, Performance +8"
 senses: "Passive Perception 16"
 languages: "Common, Elvish"
-challenge_rating: 9
+challenge_rating: 7
 xp: 5000
-proficiency_bonus: "+5"
+proficiency_bonus: "+4"
 traits: |
-  **Spellcasting.** Aulette is a 10th level spellcaster. Her spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). She has the following spells prepared:
+  **Spellcasting.** Aulette is a 10th level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). She has the following spells prepared:
 
   - Cantrips (at will): subterfuge, mage hand, message, vicious mockery
   - 1st Level (4 slots): charm person, healing word, disguise self, hideous laughter
