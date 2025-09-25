@@ -117,9 +117,9 @@ Should the player present Laurent and Moreau with this information, she will den
 ## Looking for the Lookalike
 When presented with the information about changing her appearance, she will conclude that the culprit is probably [[Aulette Huddleborne]]. Otherwise, Moreau will conclude that someone who looks like her is going around and damaging her reputation.
 
-Either way, Moreau will tell the player to go to the outskirts and wait for her lookalike to show up. If the player would hang around in the outskirts in the evening, they will spot the lookalike. She has a passive perception of 15, which the player will need to beat with a Dexterity (Stealth) check if they plan to remain unseen by her. If she sees the player, she will recognize them and start making a run for it. The player initially will be 75 feet away from her.
+Either way, Moreau will tell the player to go to the outskirts and wait for her lookalike to show up. If the player would hang around in the outskirts in the evening, they will spot the lookalike. She has a passive perception of 15, which the player will need to beat with a Dexterity (Stealth) check if they plan to remain unseen by her. If she sees the player, she will recognize them and start making a run for it.
 
-Roll initiative. The lookalike will try to hide around the corner in some alley and change shape to her original form. The player will need to catch her before that.
+Roll initiative. The player initially will be 75 feet away from her. The lookalike will try to hide around the corner in some alley (45 feet away from her) and change shape to her original form. The player can try to catch her before that.
 
 [Chase Mechanics]
 
