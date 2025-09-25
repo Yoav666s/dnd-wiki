@@ -18,7 +18,7 @@ wis_score: 13
 cha_score: 18
 saving_throws: "DEX +6, WIS +5"
 skills: "Acrobatics +6, Perception +5, Performance +8"
-senses: "Passive Perception 16"
+senses: "Passive Perception 15"
 languages: "Common, Elvish"
 challenge_rating: 7
 xp: 2900
