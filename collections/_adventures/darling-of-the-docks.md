@@ -115,9 +115,7 @@ Upon investigating, the player will learn that nobody seems to have seen a third
 Should the player present Laurent and Moreau with this information, she will deny ever going to the outskirts or the docks. She'll claim that she spends most of her time in her quarters or in the Thirsty Deckhand. She will deny having a double or a twin (Moreau will back her up, saying that she's an only child), and if asked about changing her appearance to a human, she will deny having the ability to do so. A successful DC 10 Wisdom (Insight) check will reveal that she's being truthful. 
 
 ## Looking for the Lookalike
-When presented with the information about changing her appearance, she will conclude that the culprit is probably [[Aulette Huddleborne]]. Otherwise, Moreau will conclude that someone who looks like her is going around and damaging her reputation.
-
-Either way, Moreau will tell the player to go to the outskirts and wait for her lookalike to show up. If the player would hang around in the outskirts in the evening, they will spot the lookalike. She has a passive perception of 15, which the player will need to beat with a Dexterity (Stealth) check if they plan to remain unseen by her. If she sees the player, she will recognize them and start making a run for it.
+Moreau will tell the player to go to the outskirts and wait for her lookalike to show up. If the player would hang around in the outskirts in the evening, they will spot the lookalike. She has a passive perception of 15, which the player will need to beat with a Dexterity (Stealth) check if they plan to remain unseen by her. If she sees the player, she will recognize them and start making a run for it.
 
 Roll initiative. The player initially will be 75 feet away from her. The lookalike will try to hide around the corner in some alley (45 feet away from her) and change shape to her original form. The player can try to catch her before that.
 
