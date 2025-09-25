@@ -175,4 +175,4 @@ He found [[Ivonne Laurent]] by chance, working as an escort lady. She was a dear
 Earnest Grunge, or Earny, is a jolly dwarf with black greying hair, a few missing teeth, and a beer belly.
 
 ## Aulette Huddleborne
-Aulette Huddleborne is a proud human bard performing in the Hungry Kraken. Using the [[Alter Self]] spell, she makes herself look like Madame Laurent, dealing in shady business and trying to hurt her reputation. She's a competitor, jealous of her success.
+Aulette Huddleborne is a proud human bard performing in the Hungry Kraken. Using the [[Disguise Self]] spell, she makes herself look like Madame Laurent, dealing in shady business and trying to hurt her reputation. She's a competitor, jealous of her success.
