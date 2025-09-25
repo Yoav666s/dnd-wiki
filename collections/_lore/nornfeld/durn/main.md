@@ -8,7 +8,7 @@ excerpt: "The largest, most prosperous continent in Nornfeld mostly governed by 
 #   overlay_image: /assets/images/lore/durn/header.png
 #   teaser: /assets/images/lore/durn/header.jpg
 ---
-The largest, most prosperous continent in [[Nornfeld]] mostly governed by the [[Sad'aaly Empire]].
+The most prosperous continent in [[Nornfeld]] mostly governed by the [[Sad'aaly Empire]].
 
 # Sad'aal Moran
 [[Sad'aal Moran]] is a relatively small but prosperous country located near the west coast of Durn. Mostly inhabited by elves, humans and half elves, Sad'aal is the heart of the empire.
