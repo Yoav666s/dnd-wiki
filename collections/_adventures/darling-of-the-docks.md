@@ -124,7 +124,9 @@ Roll initiative. The player initially will be 75 feet away from her. The lookali
 [Chase Mechanics]
 
 ## Confronting the Counterfeiter
-Regardless of what happens, Moreau will come out of the shadows having seen the lookalike transform back, saying, "Well, well, well. Aulette Huddleborne". She will have nowhere to run. Roll initiative. She will attempt to cast [[Dominate Person]] on Moreau and will tell him to kill the player, then [[Dimension Door]] away on her next turn.
+Regardless of what happens, Moreau will come out of the shadows having seen the lookalike transform back, saying, "Well, well, well. Aulette Huddleborne". She will have nowhere to run. Roll initiative. She will attempt to cast [[Dominate Person]] on Moreau (you may decide that he automatically fails his saving throw) and will tell him to kill the player, then [[Dimension Door]] away on her next turn.
+
+If Moreau is still under the effect of [[Dominate Person]] when Aulette gets away, he will keep attacking the player until he succeeds a saving throw or the player falls unconscious. If the player falls unconscious, Moreau will stabilize them after the spell ends and they will wake up in Laurent's changing room. Regardless, Moreau will apologize for attacking the player. He will say that "she could be anywhere." But now they know who's responsible for the brawl in the tavern. He'll say that he will pass on that information, and she will be taken care of. 
 
 # Appendix A
 
