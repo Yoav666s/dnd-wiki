@@ -100,7 +100,14 @@ If the player rolls lower than 18 or offers less than 2 gold pieces and feels st
 # Part 3: Unexpected Patronage
 Moreau will not be in Grunge's Bucketfuls if the player goes looking for him. Whether the player will go looking for Moreau or Laurent, they will both be at the same place: in her changing room. When the player reveals what they learned from Butler, Moreau will look at Laurent in disbelief, to which she'll reply, "What are you looking at me for? It wasn't me!" A Wisdom (Insight) check of 10 or higher will reveal that she's telling the truth. Moreau will believe her as well.
 
-Moreau will use this opportunity to tell the player about the Network (More info in [[Appendix A@the-network]]). If the player wants to join tgis organization, this will be the final test. Learn more about this third drow elf, find out what she wants and who she works for.
+Moreau will use this opportunity to tell the player about the Network (More info in [[Appendix A@the-network]]). If the player wants to join this organization, this will be the final test. Learn more about this third drow elf, find out what she wants and who she works for.
+
+## Looking for the Lookalike
+Upon investigating, the player will learn that nobody seems to have seen a third drow elf in the city. There are only two drow elves in Gullenshire, Moreau and Madame Laurent. When the player decides to wander around a tavern listening to conversations or asking around, let the player to roll another Intelligence (Investigation) check:
+
+| Total | Information Revealed |
+| :---: | :------------------- |
+|||
 
 # Appendix A
 
