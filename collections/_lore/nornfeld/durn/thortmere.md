@@ -1,0 +1,1 @@
+Thortmere is a small country in the north of [[Durn]]. Its capital is Corodill.
