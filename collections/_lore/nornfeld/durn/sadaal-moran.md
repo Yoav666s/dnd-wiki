@@ -4,7 +4,7 @@ index:
   - sadaal-moran
   - moran
   - sadaal
-permalink: /lore/sad-aal-moran/
+permalink: /lore/durn/sadaal-moran/
 excerpt: "A relatively small but prosperous elven country located near the west coast of Durn."
 # header:
 #   overlay_image: /assets/images/lore/sadaal-moran/header.png
