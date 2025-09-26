@@ -45,7 +45,7 @@ Whenever a creature successfully resists a spell you cast, make a Wisdom saving 
 
 In addition, once you attune to this book:
 
-- You start hearing voices originating from the tome, whispers telling you strange things, warning you of dangers that aren't there, turning you against your allies.
+- You start hearing voices originating from the tome, whispers telling you strange things, warning you of dangers that aren't there, turning you against your allies, telling you that you're meant for great things.
 - You start seeing hallucinations, monsters at your peripheral vision, people that disappear at a blink of an eye, insects that turn out to be smudges on the wall.
 - You are vulnerable to psychic damage.
 
