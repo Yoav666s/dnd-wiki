@@ -67,6 +67,8 @@ classes:
     url: /classes/wizard/
 
 lore:
+  - title: "Cortenmaas"
+    url: /lore/cortenmaas/
   - title: "Durn"
     url: /lore/durn/
     children:
@@ -78,6 +80,12 @@ lore:
         url: /lore/durn/sadaal-moran/
       - title: "Thortmere"
         url: /lore/durn/thortmere/
+      - title: "Urk'mor"
+        url: /lore/durn/urkmor/
+  - title: "Morgenfell"
+    url: /lore/morgenfell/
+  - title "Sommertooth Island"
+    url: /lore/sommertooth-island/
      
 monsters:
   - title: "Monsters"
