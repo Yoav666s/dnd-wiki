@@ -28,9 +28,9 @@ traits: |
   **Spellcasting.** Jasper is a 5th level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He has the following spells prepared:
 
   - Cantrips (at will): fire bolt, fling, mage hand, message, prestidigitation
-  - 1st Level (4 slots): charm person,  disguise self, mage armor, magic missile, momentary madness, notion, shield
-  - 2nd level (3 slots): intrude thoughts, invisibility, mirror image, misty step, searing pain
-  - 3rd level (2 slots): blink, counterspell, fireball, major image, mistrust, voices
+  - 1st Level (4 slots): charm person,  disguise self, hideous laughter, mage armor, magic missile, momentary madness, notion, shield
+  - 2nd level (3 slots): intrude thoughts, invisibility, mirror image, misty step, searing pain, suggestion
+  - 3rd level (2 slots): blink, counterspell, fear, fireball, major image, mistrust, voices
 
   **Heightened Spell (1/day).** When a spell cast by Jasper forces a target to make a saving throw to resist its effects, he may cause one target to have disadvantage on its first saving throw made against the spell.
 
