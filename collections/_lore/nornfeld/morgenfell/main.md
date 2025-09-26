@@ -12,3 +12,6 @@ Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the l
 
 # Wedland
 [[Wedland]] is governed by queen Juliette Phillips the II.
+
+# Keltermain
+[[Keltermain]] is
