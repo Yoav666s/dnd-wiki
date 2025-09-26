@@ -17,7 +17,7 @@ While attuned to this book, you can use it as a spellcasting focus, and you gain
 | Level | Spells |
 | :---: | :----- |
 | 1st   | [[!Hideous Laughter]], [[!Momentary Madness]], [[!Notion]] |
-| 2nd   | [[!Intrude Thoughts]], [[!Searing Pain]] |
+| 2nd   | [[!Intrude Thoughts]], [[!Searing Pain]], [[!Suggestion]] |
 | 3rd   | [[!Mistrust]], [[!Voices]] |
 | 4th   | [[!Delusion]], [[!Paranoia]], [[!Phantasmal Killer]] |
 | 5th   | [[!Control Thoughts]] |
