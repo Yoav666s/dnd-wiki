@@ -66,6 +66,19 @@ classes:
     class: wizard
     url: /classes/wizard/
 
+lore:
+  - title: "Durn"
+    url: /lore/durn/
+    children:
+      - title: "Glenfast"
+        url: /lore/durn/glenfast/
+      - title: "Hoverncast"
+        url: /lore/durn/hoverncast/
+      - title: "Sad'aal Moran"
+        url: /lore/durn/sadaal-moran/
+      - title: "Thortmere"
+        url: /lore/durn/thortmere/
+     
 monsters:
   - title: "Monsters"
     url: /monsters/
