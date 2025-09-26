@@ -2,7 +2,7 @@
 title: "Glenfast"
 index:
   - glenfast
-permalink: /lore/glenfast/
+permalink: /lore/durn/glenfast/
 excerpt: "A large half-island located in the south of Durn, mostly inhabited by dwarves."
 # header:
 #   overlay_image: /assets/images/lore/glenfast/header.png
