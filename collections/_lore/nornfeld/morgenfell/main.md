@@ -19,7 +19,7 @@ Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the l
 [[Keltermain]] is governed by king Theodore Roster the IV.
 
 ## Auberfield
-[[Auberfield]] is
+[[Auberfield]] is governed by the Senate of Auberfield.
 
 # The Arcane Dictum
 > By order of the sovereign rulers of the Three Kingdoms, and under the authority of the Arcane Dictum, the practice of magic in any and all of its forms is hereby declared strictly and absolutely forbidden. The possession, trade, or use of magical artifacts, spell scrolls, tomes, or any other enchanted instruments is likewise prohibited throughout all territories and dominions of Morgenfell, whether by land or sea.
