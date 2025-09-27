@@ -22,8 +22,9 @@ Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the l
 # The Arcane Dictum
 > By order of the sovereign rulers of the Three Kingdoms, and under the authority of the Arcane Dictum, the practice of magic in any and all of its forms is hereby declared strictly and absolutely forbidden. The possession, trade, or use of magical artifacts, spell scrolls, tomes, or any other enchanted instruments is likewise prohibited throughout all territories and dominions of Morgenfell, whether by land or sea.
 >
-> --The Arcane Dictum, 217 A.GM
+> --The Arcane Dictum, 217 (A.GM)
 
-For generations and generations, the citizens of Morgenfell have been indoctrinated from youth to despise magic. It's a source of endless trouble and untimely deaths, as shown in the Great Massacre.
+For generations and generations, the citizens of Morgenfell have been indoctrinated from youth to despise magic. It's a source of endless trouble and terrible, untimely deaths.
 
 # The Great Massacre
+Since the great massacre, the counting of years is marked with A.GM (after the great massacre).
