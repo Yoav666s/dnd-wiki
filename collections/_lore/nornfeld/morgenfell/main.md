@@ -15,3 +15,6 @@ Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the l
 
 # Keltermain
 [[Keltermain]] is
+
+# Auberfield
+[[Auberfield]] is
