@@ -17,6 +17,7 @@ wis_score: 13
 cha_score: 18
 saving_throws: "CON +4, CHA +7"
 skills: "Arcana +3, Deception +7"
+damage_vulnerabilities: "Psychic"
 senses: "Passive Perception 11"
 languages: "Common, Sylvan"
 challenge_rating: 3
@@ -35,6 +36,8 @@ traits: |
   **Heightened Spell (1/day).** When a spell cast by Jasper forces a target to make a saving throw to resist its effects, he may cause one target to have disadvantage on its first saving throw made against the spell.
 
   **Subtle Spell (2/day).** When Jasper casts a spell, he may cast it without any verbal or somatic components.
+
+  **Tome of Delirium.** Whenever a creature succeeds on a saving throw against one of Jasper's spells, Jasper takes 1d4 psychic damage.
 bonus_actions: |
   **Artful Magic.** Immediately before or after Jasper casts a spell of 1st level or higher, he can use his bonus action to teleport up to 15 feet to an unoccupied space he can see.
 actions: |
