@@ -37,7 +37,7 @@ traits: |
 
   **Subtle Spell (2/day).** When Jasper casts a spell, he may cast it without any verbal or somatic components.
 
-  **Tome of Delirium.** Whenever a creature succeeds on a saving throw against one of Jasper's spells, Jasper takes 1d4 psychic damage.
+  **Tome of Delirium.** Whenever a creature succeeds on an Intelligence, Wisdom, or Charisma saving throw against one of his spells, Jasper takes 1d4 psychic damage.
 bonus_actions: |
   **Artful Magic.** Immediately before or after Jasper casts a spell of 1st level or higher, he can use his bonus action to teleport up to 15 feet to an unoccupied space he can see.
 actions: |
