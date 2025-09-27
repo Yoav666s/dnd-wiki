@@ -26,7 +26,7 @@ While attuned to this book, you can use it as a spellcasting focus, and you gain
 | 8th   | [[!Dominate Thoughts]] |
 | 9th   | [[!Delirium]] |
 
-Whenever a creature successfully resists a spell you cast, make a Wisdom saving throw against your own spell save DC. On failure, you take 1d4 psychic damage and roll a d12 to determine the side effects from the Delirium Table:
+Whenever a creature successfully succeeds an Intelligence, Wisdom, or Charisma saving throw against a spell you cast, make a Wisdom saving throw against your own spell save DC. On failure, you take 1d4 psychic damage and roll a d12 to determine the side effects from the Delirium Table:
 
 | d12 | Side Effect |
 | :-: | :---------- |
