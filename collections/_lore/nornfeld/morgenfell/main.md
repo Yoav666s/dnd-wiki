@@ -24,4 +24,6 @@ Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the l
 >
 > --The Arcane Dictum, 217 A.GM
 
-For generations and generations, the citizens of Morgenfell have been indoctrinated from youth to despise magic. It's a source of endless trouble and untimely deaths.
+For generations and generations, the citizens of Morgenfell have been indoctrinated from youth to despise magic. It's a source of endless trouble and untimely deaths, as shown in the Great Massacre.
+
+# The Great Massacre
