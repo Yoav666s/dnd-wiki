@@ -10,13 +10,15 @@ excerpt: "Morgenfell is a large continent in Nornfeld, where magic is outside of
 ---
 Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the law.
 
-# Wedland
+# The Three Kingdoms 
+
+## Wedland
 [[Wedland]] is governed by queen Juliette Phillips the II.
 
-# Keltermain
-[[Keltermain]] is
+## Keltermain
+[[Keltermain]] is 
 
-# Auberfield
+## Auberfield
 [[Auberfield]] is
 
 # The Arcane Dictum
@@ -28,3 +30,4 @@ For generations and generations, the citizens of Morgenfell have been indoctrina
 
 # The Great Massacre
 Since the great massacre, the counting of years in Morgenfell is marked with A.GM (after the great massacre).
+
