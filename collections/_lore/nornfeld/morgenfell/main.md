@@ -27,4 +27,4 @@ Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the l
 For generations and generations, the citizens of Morgenfell have been indoctrinated from youth to despise magic. It's a source of endless trouble and terrible, untimely deaths.
 
 # The Great Massacre
-Since the great massacre, the counting of years is marked with A.GM (after the great massacre).
+Since the great massacre, the counting of years in Morgenfell is marked with A.GM (after the great massacre).
