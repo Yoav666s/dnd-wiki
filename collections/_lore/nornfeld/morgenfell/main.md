@@ -16,8 +16,8 @@ The Three Kingdoms are currently in peaceful, prosperous times. They thrive on t
 ## Auberfield
 [[Auberfield]] is governed by the Senate of Auberfield.
 
-## Kelterain
-[[Kelterain]] is governed by king Theodore Roster the IV. It is a bleak place with dangerous forests where all kinds of fearsome monsters prey on the weak. There are vampires, werewolves, and eldritch horrors lurking about, and without magic, there's nothing to do about it.
+## Keltain
+[[Keltain]] is governed by king Theodore Roster the IV. It is a bleak place with dangerous forests where all kinds of fearsome monsters prey on the weak. There are vampires, werewolves, and eldritch horrors lurking about, and without magic, there's nothing to do about it.
 
 ## Wedland
 [[Wedland]] is governed by queen Juliette Phillips the II.
