@@ -13,14 +13,14 @@ Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the l
 # The Three Kingdoms
 The Three Kingdoms are currently in peaceful, prosperous times. They thrive on trade with other continents that don't have their advanced technology.
 
-## Wedland
-[[Wedland]] is governed by queen Juliette Phillips the II.
+## Auberfield
+[[Auberfield]] is governed by the Senate of Auberfield.
 
 ## Kelterain
 [[Kelterain]] is governed by king Theodore Roster the IV. It is a bleak place with dangerous forests where all kinds of fearsome monsters prey on the weak. There are vampires, werewolves, and eldritch horrors lurking about, and without magic, there's nothing to do about it.
 
-## Auberfield
-[[Auberfield]] is governed by the Senate of Auberfield.
+## Wedland
+[[Wedland]] is governed by queen Juliette Phillips the II.
 
 # The Arcane Dictum
 > By order of the sovereign rulers of the Three Kingdoms, and under the authority of the Arcane Dictum, the practice of magic in any and all of its forms is hereby declared strictly and absolutely forbidden. The possession, trade, or use of magical artifacts, spell scrolls, tomes, or any other enchanted instruments is likewise prohibited throughout all territories and dominions of Morgenfell, whether by land or sea.
