@@ -84,6 +84,9 @@ lore:
         url: /lore/durn/urkmor/
   - title: "Morgenfell"
     url: /lore/morgenfell/
+    children:
+      - title: "Kelterain"
+        url: /lore/morgenfell/kelterain/
   - title: "Sommertooth Island"
     url: /lore/sommertooth-island/
      

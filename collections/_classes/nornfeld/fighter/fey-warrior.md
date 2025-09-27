@@ -2,7 +2,7 @@
 title: "Fey Warrior"
 index: "fey-warrior"
 permalink: /classes/fighter/fey-warrior/
-excerpt: "The Fey Warrior moves with an otherworldly grace, their presence flickering like moonlight through leaves."
+excerpt: "Where others rely on brute force or rigid discipline, the Fey Warrior takes a different approach."
 subclass: fighter
 header:
   overlay_image: /assets/images/classes/fighter/fey-warrior/header.png
