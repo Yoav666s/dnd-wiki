@@ -5,8 +5,8 @@ index:
 permalink: /lore/morgenfell/
 excerpt: "Morgenfell is a large continent in Nornfeld, where magic is outside of the law."
 # header:
-#   overlay_image: /assets/images/lore/cortenmaas/header.png
-#   teaser: /assets/images/lore/cortenmaas/header.jpg
+#   overlay_image: /assets/images/lore/morgenfell/header.png
+#   teaser: /assets/images/lore/morgenfell/header.jpg
 ---
 Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the law. It is inhabited mostly by humans, but halflings, gnomes, and dwarves live amongst them, and half-orcs can be found there as well.
 
