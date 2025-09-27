@@ -31,3 +31,5 @@ For generations and generations, the citizens of Morgenfell have been indoctrina
 # The Great Massacre
 Since the great massacre, the counting of years in Morgenfell is marked with A.GM (after the great massacre).
 
+# Industrial Efforts 
+Without magic to rely on, the people of Morgenfell have managed to create magnificent railroad systems, steam engines, and a telecommunication network.
