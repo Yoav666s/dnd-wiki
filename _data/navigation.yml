@@ -85,8 +85,8 @@ lore:
   - title: "Morgenfell"
     url: /lore/morgenfell/
     children:
-      - title: "Kelterain"
-        url: /lore/morgenfell/kelterain/
+      - title: "Keltain"
+        url: /lore/morgenfell/keltain/
   - title: "Sommertooth Island"
     url: /lore/sommertooth-island/
      
