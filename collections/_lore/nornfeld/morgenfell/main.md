@@ -10,7 +10,8 @@ excerpt: "Morgenfell is a large continent in Nornfeld, where magic is outside of
 ---
 Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the law.
 
-# The Three Kingdoms 
+# The Three Kingdoms
+The Three Kingdoms are currently in peaceful, prosperous times. They thrive on trade with other continents that don't have their advanced technology.
 
 ## Wedland
 [[Wedland]] is governed by queen Juliette Phillips the II.
@@ -32,4 +33,4 @@ For generations and generations, the citizens of Morgenfell have been indoctrina
 Since the great massacre, the counting of years in Morgenfell is marked with A.GM (after the great massacre).
 
 # Industrial Efforts 
-Without magic to rely on, the people of Morgenfell have managed to create magnificent railroad systems, steam engines, factories, and a telecommunication network.
+Without magic to rely on, the people of Morgenfell have managed to create magnificent railroad systems, steam engines, factories, and a telecommunication network. In addition, they have firearms and advanced medical education.
