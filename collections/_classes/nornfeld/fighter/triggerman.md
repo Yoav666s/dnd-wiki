@@ -25,7 +25,5 @@ Starting at 10th level, when a creature enters within 15 feet of you, you can us
 # Deadly Precision 
 Starting at 15th level, when you have advantage on a ranged attack with a firearm, you can treat a roll of 18-20 as a critical hit.
 
-# Aim for the Head
-Starting at 18th level, you can give yourself disadvantage on a ranged attack roll with a firearm. If you hit, you can treat it as a critical hit.
-
-Once you use this feature, you can't use it again until you finish a short or long rest. The use is not expended when you miss.
+# Hip Fire
+Starting at 18th level, once per turn, you can give yourself disadvantage on a ranged attack roll with a firearm. If you do, you can make another ranged attack with the same weapon.
