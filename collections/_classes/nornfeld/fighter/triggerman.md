@@ -26,4 +26,4 @@ Starting at 10th level, when a creature enters within 15 feet of you, you can us
 Starting at 15th level, when you have advantage on a ranged attack with a firearm, you can treat a roll of 18-20 as a critical hit.
 
 # Hip Fire
-Starting at 18th level, once per turn, you can give yourself disadvantage on a ranged attack roll with a firearm. If you do, you can make another ranged attack with the same weapon with disadvantage.
+Starting at 18th level, once per turn when you make a ranged attack with a firearm, you can make an extra ranged attack with disadvantage using the same firearm.
