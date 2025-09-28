@@ -16,6 +16,9 @@ Beginning at 3rd level, you have proficiency with firearms, you ignore the Loadi
 
 Additionally, you treat firearms as finesse weapons when making a melee attack with a firearm as an improvised weapon, and you can add your proficiency bonus to the attack roll.
 
+# Fast Hands
+Starting at 3rd level, you have advantage on initiative rolls.
+
 # Aim Correction 
 Starting at 7th level, once per turn, when you miss an enemy with a ranged attack using a firearm, you can give yourself advantage on your next ranged attack roll against that creature until the end of your turn.
 
