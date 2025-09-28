@@ -17,13 +17,13 @@ Beginning at 3rd level, you have proficiency with firearms, you ignore the Loadi
 Additionally, you treat firearms as finesse weapons when making a melee attack with a firearm as an improvised weapon, and you can add your proficiency bonus to the attack roll.
 
 # Aim Correction 
-Starting at 7th level, once per turn, when you miss an enemy with a ranged attack using a firearm, you can give yourself advantage on your next attack roll against that creature until the end of your turn.
-
-# Deadly Precision 
-Starting at 10th level, when you make a ranged attack with a firearm, you can treat total cover as three-quarters cover, three-quarters cover as half cover, and ignores half cover.
+Starting at 7th level, once per turn, when you miss an enemy with a ranged attack using a firearm, you can give yourself advantage on your next ranged attack roll against that creature until the end of your turn.
 
 # Quick Reflexes 
-Starting at 15th level, when a creature enters within 15 feet of you, you can use your reaction to make ranged attack with a firearm against it.
+Starting at 10th level, when a creature enters within 15 feet of you, you can use your reaction to make ranged attack with a firearm against it.
+
+# Deadly Precision 
+Starting at 15th level, when you have advantage on a ranged attack with a firearm, you can treat a roll of 18-20 as a critical hit.
 
 # Aim for the Head
 Starting at 18th level, you can give yourself disadvantage on a ranged attack roll with a firearm. If you hit, you can treat it as a critical hit.
