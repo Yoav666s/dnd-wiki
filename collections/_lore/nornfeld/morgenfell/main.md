@@ -33,4 +33,4 @@ For generations and generations, the citizens of Morgenfell have been indoctrina
 Since the great massacre, the counting of years in Morgenfell is marked with A.GM (after the great massacre).
 
 # Industrial Efforts 
-Without magic to rely on, the people of Morgenfell have managed to create magnificent railroad systems, steam engines, factories, and a telecommunication network. In addition, they have firearms and advanced medical education.
+Without magic to rely on, by 768 A.GM (the current year) the people of Morgenfell have managed to create magnificent railroad systems, steam engines, factories, and a telecommunication network. In addition, they have firearms and advanced medical education.
