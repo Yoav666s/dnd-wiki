@@ -12,7 +12,7 @@ subclass: wizard
 ---
 As a member of the School of Delirium, you have learned to contain the knowledge inside the Tome of Fey Secrets without going mad. The more you progress in studying the tome, the less dependent you are on it. And as you learn about madness, the more dangerous you become.
 
-*You must own a copy of the Tome of Fey Secrets to select this school.*
+*You must own a copy of the [[items:Tome of Fey Secrets]] to select this school.*
 
 # Delirium Savant
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy a spell from the Tome of Fey Secrets into your spellbook is halved, and you can do so without attuning to the tome. Additionally, you can break your attunement to the tome without casting [[Remove Curse]] on it.
