@@ -24,7 +24,6 @@ languages: "Common"
 challenge_rating: 1
 xp: 200
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Bite.** Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) piercing damage.
   

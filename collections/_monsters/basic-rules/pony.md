@@ -22,7 +22,6 @@ languages: ""
 challenge_rating: 0.125
 xp: 25
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Hooves.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.
 excerpt: "Medium Beast, Unaligned"

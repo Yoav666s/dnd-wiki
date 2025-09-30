@@ -22,7 +22,6 @@ languages: "any one language (usually Common)"
 challenge_rating: 0
 xp: 10
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Club.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
 excerpt: "Medium Humanoid, Any Alignment"

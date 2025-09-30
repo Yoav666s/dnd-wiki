@@ -25,7 +25,6 @@ languages: "Abyssal, telepathy 60 ft. (works only with creatures that understand
 challenge_rating: 0.25
 xp: 25
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Multiattack.** The dretch makes two attacks: one with its bite and one with its claws.
   

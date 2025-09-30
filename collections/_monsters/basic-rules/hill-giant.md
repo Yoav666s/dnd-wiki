@@ -22,7 +22,6 @@ languages: "Giant"
 challenge_rating: 5
 xp: 1800
 proficiency_bonus: "+3"
-traits: ""
 actions: |
   **Multiattack.** The giant makes two greatclub attacks.
   

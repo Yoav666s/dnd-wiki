@@ -22,7 +22,6 @@ languages: ""
 challenge_rating: 0.5
 xp: 100
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Multiattack.** The ape makes two fist attacks.
   

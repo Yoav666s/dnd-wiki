@@ -22,7 +22,6 @@ languages: "any one language (usually Common)"
 challenge_rating: 0.125
 xp: 25
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Scimitar.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
   

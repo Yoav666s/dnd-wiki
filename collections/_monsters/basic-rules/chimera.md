@@ -22,7 +22,6 @@ languages: "understands Draconic but can't speak"
 challenge_rating: 6
 xp: 2300
 proficiency_bonus: "+3"
-traits: ""
 actions: |
   **Multiattack.** The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
   

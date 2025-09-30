@@ -22,7 +22,6 @@ languages: "any two languages"
 challenge_rating: 0.125
 xp: 25
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Rapier.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
 reactions: |

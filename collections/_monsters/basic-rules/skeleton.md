@@ -25,7 +25,6 @@ languages: "understands all languages it spoke in life but can't speak"
 challenge_rating: 0.25
 xp: 50
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Shortsword.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
   

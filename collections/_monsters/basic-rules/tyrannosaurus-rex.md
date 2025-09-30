@@ -22,7 +22,6 @@ languages: ""
 challenge_rating: 8
 xp: 3900
 proficiency_bonus: "+3"
-traits: ""
 actions: |
   **Multiattack.** The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.
   

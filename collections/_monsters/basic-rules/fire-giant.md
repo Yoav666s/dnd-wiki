@@ -23,7 +23,6 @@ languages: "Giant"
 challenge_rating: 9
 xp: 5000
 proficiency_bonus: "+4"
-traits: ""
 actions: |
   **Multiattack.** The giant makes two greatsword attacks.
   

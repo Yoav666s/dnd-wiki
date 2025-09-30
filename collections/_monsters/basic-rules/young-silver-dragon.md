@@ -23,7 +23,6 @@ languages: "Common, Draconic"
 challenge_rating: 9
 xp: 5000
 proficiency_bonus: "+4"
-traits: ""
 actions: |
   **Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.
   

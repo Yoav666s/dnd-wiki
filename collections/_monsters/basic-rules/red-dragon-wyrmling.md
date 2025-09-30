@@ -23,7 +23,6 @@ languages: "Draconic"
 challenge_rating: 4
 xp: 1100
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
   

@@ -22,7 +22,6 @@ languages: ""
 challenge_rating: 0.125
 xp: 25
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
 excerpt: "Large Beast, Unaligned"

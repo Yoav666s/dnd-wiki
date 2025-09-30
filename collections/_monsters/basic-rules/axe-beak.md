@@ -22,7 +22,6 @@ languages: ""
 challenge_rating: 0.25
 xp: 50
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Beak.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.
 excerpt: "Large Beast, Unaligned"

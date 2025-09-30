@@ -23,7 +23,6 @@ languages: "Giant"
 challenge_rating: 8
 xp: 3900
 proficiency_bonus: "+3"
-traits: ""
 actions: |
   **Multiattack.** The giant makes two greataxe attacks.
   

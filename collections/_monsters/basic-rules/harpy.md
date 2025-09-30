@@ -22,7 +22,6 @@ languages: "Common"
 challenge_rating: 1
 xp: 200
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Multiattack.** The harpy makes two attacks: one with its claws and one with its club.
   

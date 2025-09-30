@@ -22,7 +22,6 @@ languages: "any two languages"
 challenge_rating: 2
 xp: 450
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Multiattack.** The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
   

@@ -23,7 +23,6 @@ languages: "Draconic"
 challenge_rating: 11
 xp: 7200
 proficiency_bonus: "+4"
-traits: ""
 actions: |
   **Multiattack.** The behir makes two attacks: one with its bite and one to constrict.
   

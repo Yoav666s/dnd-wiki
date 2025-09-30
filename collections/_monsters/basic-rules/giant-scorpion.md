@@ -22,7 +22,6 @@ languages: ""
 challenge_rating: 3
 xp: 700
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Claw.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
   

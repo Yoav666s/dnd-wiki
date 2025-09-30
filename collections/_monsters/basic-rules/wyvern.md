@@ -22,7 +22,6 @@ languages: ""
 challenge_rating: 6
 xp: 2300
 proficiency_bonus: "+3"
-traits: ""
 actions: |
   **Multiattack.** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
   

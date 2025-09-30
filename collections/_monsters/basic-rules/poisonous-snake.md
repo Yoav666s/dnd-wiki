@@ -22,7 +22,6 @@ languages: ""
 challenge_rating: 0.125
 xp: 25
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 excerpt: "Tiny Beast, Unaligned"

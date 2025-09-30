@@ -22,7 +22,6 @@ languages: "Common, Elvish, Sylvan"
 challenge_rating: 0.25
 xp: 50
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Longsword.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
   

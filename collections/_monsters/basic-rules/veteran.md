@@ -22,7 +22,6 @@ languages: "any one language (usually Common)"
 challenge_rating: 3
 xp: 700
 proficiency_bonus: "+2"
-traits: ""
 actions: |
   **Multiattack.** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
   
