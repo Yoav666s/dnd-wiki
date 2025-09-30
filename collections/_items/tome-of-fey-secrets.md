@@ -1,8 +1,8 @@
 ---
-title: "Tome of Delirium"
+title: "Tome of Fey Secrets"
 index:
-  - tome-of-delirium
-permalink: /items/tome-of-delirium/
+  - tome-of-fey-secrets
+permalink: /items/tome-of-fey-secrets/
 excerpt: "This book contains forbidden knowledge of spells and incantations that mess with the subjects' minds."
 tags:
   - Item
