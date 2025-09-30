@@ -27,7 +27,6 @@ traits: |
   
   **Standing Leap.** The frog's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start.
 actions: ""
-reactions: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

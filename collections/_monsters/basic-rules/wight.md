@@ -35,7 +35,6 @@ actions: |
   **Longsword.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
   
   **Longbow.** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
-reactions: ""
 excerpt: "Medium Undead, Neutral Evil"
 source: "Basic Rules"
 ---

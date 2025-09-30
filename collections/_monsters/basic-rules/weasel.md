@@ -26,7 +26,6 @@ traits: |
   **Keen Hearing and Smell.** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.
-reactions: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

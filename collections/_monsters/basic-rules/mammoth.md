@@ -28,7 +28,6 @@ actions: |
   **Gore.** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 25 (4d8 + 7) piercing damage.
   
   **Stomp.** Melee Weapon Attack: +10 to hit, reach 5 ft., one prone creature. Hit: 29 (4d10 + 7) bludgeoning damage.
-reactions: ""
 excerpt: "Huge Beast, Unaligned"
 source: "Basic Rules"
 ---

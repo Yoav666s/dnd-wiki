@@ -30,7 +30,6 @@ actions: |
   **Bite.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage.
   
   **Claws.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
-reactions: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

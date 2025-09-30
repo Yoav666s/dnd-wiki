@@ -40,7 +40,6 @@ actions: |
   **Sword.** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 23 (3d10 + 7) slashing damage.
   
   **Poison Breath (Recharge 5-6).** The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
-reactions: ""
 excerpt: "Large Construct, Unaligned"
 source: "Basic Rules"
 ---

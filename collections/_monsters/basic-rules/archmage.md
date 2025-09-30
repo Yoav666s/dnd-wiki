@@ -41,7 +41,6 @@ traits: |
   * The archmage casts these spells on itself before combat.
 actions: |
   **Dagger.** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
-reactions: ""
 excerpt: "Medium Humanoid, Any Alignment"
 source: "Basic Rules"
 ---

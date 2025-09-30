@@ -32,7 +32,6 @@ traits: |
   **Water Breathing.** The swarm can breathe only underwater.
 actions: |
   **Bites.** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
-reactions: ""
 excerpt: "Medium Swarm Of Tiny Beasts, Unaligned"
 source: "Basic Rules"
 ---

@@ -34,7 +34,6 @@ actions: |
   **Multiattack.** The elemental makes two slam attacks.
   
   **Slam.** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.
-reactions: ""
 excerpt: "Large Elemental, Neutral"
 source: "Basic Rules"
 ---

@@ -41,7 +41,6 @@ actions: |
   **Multiattack.** The golem makes two slam attacks.
   
   **Slam.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
-reactions: ""
 excerpt: "Medium Construct, Neutral"
 source: "Basic Rules"
 ---

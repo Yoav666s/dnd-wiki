@@ -25,7 +25,6 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
-reactions: ""
 excerpt: "Large Beast, Unaligned"
 source: "Basic Rules"
 ---

@@ -28,7 +28,6 @@ traits: |
   **Water Breathing.** The shark can breathe only underwater.
 actions: |
   **Bite.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage.
-reactions: ""
 excerpt: "Huge Beast, Unaligned"
 source: "Basic Rules"
 ---

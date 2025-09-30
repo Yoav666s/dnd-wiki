@@ -26,7 +26,6 @@ traits: |
   **Pack Tactics.** The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 actions: |
   **Bite.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.
-reactions: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

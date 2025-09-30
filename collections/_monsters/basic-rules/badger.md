@@ -26,7 +26,6 @@ traits: |
   **Keen Smell.** The badger has advantage on Wisdom (Perception) checks that rely on smell.
 actions: |
   **Bite.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
-reactions: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

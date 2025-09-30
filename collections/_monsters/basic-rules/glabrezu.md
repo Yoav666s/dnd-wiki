@@ -37,7 +37,6 @@ actions: |
   **Pincer.** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
   
   **Fist.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.
-reactions: ""
 excerpt: "Large Fiend, Chaotic Evil"
 source: "Basic Rules"
 ---

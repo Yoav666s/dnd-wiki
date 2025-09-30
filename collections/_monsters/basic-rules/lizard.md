@@ -25,7 +25,6 @@ proficiency_bonus: "+2"
 traits: ""
 actions: |
   **Bite.** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
-reactions: ""
 excerpt: "Tiny Beast, Unaligned"
 source: "Basic Rules"
 ---

@@ -35,7 +35,6 @@ actions: |
   **Javelin.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarged.
   
   **Invisibility.** The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
-reactions: ""
 excerpt: "Medium Humanoid, Lawful Evil"
 source: "Basic Rules"
 ---

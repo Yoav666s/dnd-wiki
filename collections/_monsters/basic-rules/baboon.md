@@ -26,7 +26,6 @@ traits: |
   **Pack Tactics.** The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 actions: |
   **Bite.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) piercing damage.
-reactions: ""
 excerpt: "Small Beast, Unaligned"
 source: "Basic Rules"
 ---

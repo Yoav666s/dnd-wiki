@@ -32,7 +32,6 @@ actions: |
   **Dagger.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
   
   **Intoxicating Touch.** Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
-reactions: ""
 excerpt: "Large Monstrosity, Chaotic Evil"
 source: "Basic Rules"
 ---

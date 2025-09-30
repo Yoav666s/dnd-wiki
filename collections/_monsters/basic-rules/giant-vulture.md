@@ -32,7 +32,6 @@ actions: |
   **Beak.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.
   
   **Talons.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
-reactions: ""
 excerpt: "Large Beast, Neutral Evil"
 source: "Basic Rules"
 ---

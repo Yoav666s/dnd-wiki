@@ -29,7 +29,6 @@ traits: |
   **Keen Smell.** The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 actions: |
   **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.
-reactions: ""
 excerpt: "Medium Humanoid, Lawful Evil"
 source: "Basic Rules"
 ---

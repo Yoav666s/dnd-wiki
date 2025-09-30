@@ -26,7 +26,6 @@ traits: |
   **Illumination.** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 ft..
 actions: |
   **Bite.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) slashing damage.
-reactions: ""
 excerpt: "Small Beast, Unaligned"
 source: "Basic Rules"
 ---

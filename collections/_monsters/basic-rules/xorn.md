@@ -35,7 +35,6 @@ actions: |
   **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) piercing damage.
   
   **Claw.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
-reactions: ""
 excerpt: "Medium Elemental, Neutral"
 source: "Basic Rules"
 ---

@@ -28,7 +28,6 @@ traits: |
   **Relentless (1/short rest).** If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 actions: |
   **Tusk.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
-reactions: ""
 excerpt: "Medium Beast, Unaligned"
 source: "Basic Rules"
 ---

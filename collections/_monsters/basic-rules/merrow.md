@@ -32,7 +32,6 @@ actions: |
   **Claws.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.
   
   **Harpoon.** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
-reactions: ""
 excerpt: "Large Monstrosity, Chaotic Evil"
 source: "Basic Rules"
 ---
