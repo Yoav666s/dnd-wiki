@@ -45,8 +45,8 @@ layout: single
   <p><strong>Languages</strong> {{ page.languages }}</p>
   <p><strong>Challenge</strong> {{ page.challenge_rating }} ({{ page.xp }} XP)</p>
   <p><strong>Proficiency Bonus</strong> {{ page.proficiency_bonus }}</p>
-  <h2>Traits</h2>
-  <p>{{ page.traits | markdownify }}</p>
+  {% if page.traits %}<h2>Traits</h2>
+  <p>{{ page.traits | markdownify }}</p>{% endif %}
   {% if page.bonus_actions %}<h2>Bonus Actions</h2>
   <p>{{ page.bonus_actions | markdownify }}</p>{% endif %}
   <h2>Actions</h2>
