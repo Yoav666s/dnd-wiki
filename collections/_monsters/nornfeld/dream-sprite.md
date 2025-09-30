@@ -15,7 +15,7 @@ con_score: 10
 int_score: 14
 wis_score: 13
 cha_score: 11
-saving_throws: ""
+saving_throws: "WIS +3"
 skills: "Perception +3, Stealth +8"
 senses: "Passive Perception 13"
 languages: "Common, Elvish, Sylvan"
