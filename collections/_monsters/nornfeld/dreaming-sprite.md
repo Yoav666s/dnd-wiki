@@ -5,7 +5,7 @@ index:
 permalink: /monsters/dreaming-sprite/
 size: "Tiny"
 type: "Fey"
-alignment: "Neutral"
+alignment: "Chaotic Neutral"
 armor_class: "15 (Armor)"
 hit_points: "2 (1d4)"
 speed: "walk 10 ft., fly 40 ft."
@@ -28,6 +28,6 @@ actions: |
   **Invade Dreams.** The sprite touches a sleeping creature and magically enters its dreams. It enters a trance state, during which the sprite is aware of its surroundings, but can’t take actions or move. The sprite appears in the target’s dreams and can converse with the target as long as it remains asleep. The sprite can also shapechange in the dream, shape the environment of the dream, creating landscapes, objects, and other images. The sprite can emerge from the trance at any time, ending the effect.
 
   **Invisibility.** The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
-excerpt: "Tiny Fey, Neutral"
+excerpt: "Tiny Fey, Chaotic Neutral"
 source: "Basic Rules"
 ---
