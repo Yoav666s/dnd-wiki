@@ -111,6 +111,7 @@ At 3rd level, you delve into the advanced techniques of a bard college of your c
 | College   | Source      |
 | :-------- | :---------- |
 | [[!Lore]] | Basic Rules |
+| [[!Madness]] | Untold Legends of Nornfeld |
 
 ## Expertise
 At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
