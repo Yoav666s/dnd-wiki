@@ -94,6 +94,7 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 | :---------------------- | :---------- |
 | [[!Draconic Bloodline]] | Basic Rules |
 | [[!Fey Spirit]] | Untold Legends of Nornfeld |
+| [[!Poltergeist Soul]] | Untold Legends of Nornfeld |
 
 ## Font of Magic
 At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
