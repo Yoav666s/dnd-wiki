@@ -4,7 +4,7 @@ index:
   - delirium
   - school-of-delirium
 permalink: /classes/wizard/delirium/
-excerpt: "As a member of the School of Delirium, you have learned to contain the knowledge inside the Tome of Delirium without going mad."
+excerpt: "As a member of the School of Delirium, you have learned to contain the knowledge inside the Tome of Fey Secrets without going mad."
 subclass: wizard
 # header:
 #   overlay_image: /assets/images/classes/wizard/header.png
