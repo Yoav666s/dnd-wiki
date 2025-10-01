@@ -1,8 +1,8 @@
 ---
-title: "Dream Sprite"
+title: "Dreaming Sprite"
 index:
-  - dream-sprite
-permalink: /monsters/dream-sprite/
+  - dreaming-sprite
+permalink: /monsters/dreaming-sprite/
 size: "Tiny"
 type: "Fey"
 alignment: "Neutral"
