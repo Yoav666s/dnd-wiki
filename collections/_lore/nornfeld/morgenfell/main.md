@@ -14,7 +14,7 @@ Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the l
 The Three Kingdoms are currently in peaceful, prosperous times. They thrive on trade with other continents that don't have their advanced technology.
 
 ## Auberfield
-[[Auberfield]] is governed by the Senate of Auberfield.
+[[Auberfield]] is governed by the Senate of Auberfield. It is a beautiful country with lots of forests full of fey creatures. The citizens of Auberfield, however, do not approve of the fey as they reek of magic. This is the source of much tension between cities and their surrounding woodlands.
 
 ## Keltain
 [[Keltain]] is governed by king Theodore Roster the IV. It is a bleak place with dangerous forests where all kinds of fearsome monsters prey on the weak. There are vampires, werewolves, and eldritch horrors lurking about, and without magic, there's nothing to do about it.
