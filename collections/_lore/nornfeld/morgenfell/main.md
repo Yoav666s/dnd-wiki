@@ -8,7 +8,7 @@ excerpt: "Morgenfell is a large continent in Nornfeld, where magic is outside of
 #   overlay_image: /assets/images/lore/morgenfell/header.png
 #   teaser: /assets/images/lore/morgenfell/header.jpg
 ---
-Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the law. It is inhabited mostly by humans, but halflings, gnomes, and dwarves live amongst them, and half-orcs can be found there as well.
+Morgenfell is a large continent in [[Nornfeld]], where magic is outside of the law. It is inhabited mostly by humans, but halflings, gnomes, and dwarves live amongst them, and half-orcs can be found there as well. In its dangerous forests where monstrous creatures roam free, elves have made their home. Elves, due to their magical origins, are not normally allowed within the cities and are usually arrested on sight. Since most citizens and guards don't dare go into the forests, they can reside there without being disturbed by them, although the presence of monsters does pose a challenge of survival.
 
 # The Three Kingdoms
 The Three Kingdoms are currently in peaceful, prosperous times. They thrive on trade with other continents that don't have their advanced technology.
