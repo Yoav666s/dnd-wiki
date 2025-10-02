@@ -8,3 +8,4 @@ excerpt: "Keltain is a kingdom in Nornfeld, governed by king Theodore Roster the
 #   overlay_image: /assets/images/lore/morgenfell/wedland/header.png
 #   teaser: /assets/images/lore/morgenfell/wedland/header.jpg
 ---
+Wedland is governed by queen Juliette Phillips the II. It is the industrious center of Morgenfell, full of factories and cities.
