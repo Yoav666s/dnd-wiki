@@ -10,28 +10,24 @@ excerpt: "The largest, most prosperous continent in Nornfeld mostly governed by 
 ---
 The most prosperous continent in [[Nornfeld]] mostly governed by the [[Sad'aaly Empire]].
 
-# Sad'aal Moran
-[[Sad'aal Moran]] is a relatively small but prosperous country located near the west coast of Durn. Mostly inhabited by elves, humans and half elves, Sad'aal is the heart of the empire.
-
 # Glenfast
-[[Glenfast]] is the largest country in the continent of Durn.
-It's a half-island located in the south. it's mostly inhabited by halflings, gnomes, and dwarves.
-It has three main districts: [[Solemnvor@glenfast]], [[Froste@glenfast]], [[Mortmount@glenfast]]
-
-# Urk'mor
-[[Urk'mor]], also known as the great marsh, is a country located in the center of Durn. It's home to many dragonborns, halflings, and drow elves. Its capital is [[Hawlford@urkmor]].
-
-# Thortmere
-[[Thortmere]] is a small country in the north of Durn. Its capital is Corodill.
+{% include about.html index="gelnfast" %}
 
 # Hoverncast
-[[Hoverncast]], also known as the east coast, is a country in the east of Durn. Its capital Rostall is on the coast, a prosperous fishing town.
+{% include about.html index="hoverncast" %}
+
+# Sad'aal Moran
+{% include about.html index="sasdaal-moran" %}
+
+# Thortmere
+{% include about.html index="thortmere" %}
+
+# Urk'mor
+{% include about.html index="urkmor" %}
 
 # Rock Hollow
-Deep underground, there's a vast network of caverns and tunnels, leading anywhere and everywhere around Durn. It is believed to be alive, shifting and changing without pattern. Creatures from the surface who accidentally find an entrance are rarely seen again. It is said that the caverns play tricks on your mind, beguiling you with illusions of your worst fears and deepest desires.
-This network is commonly referred to as [[Rock Hollow]], the Hollow, or, simply, the caverns.
+{% include about.html index="rock-hollow" %}
 [:lore/rock-hollow;header:]
 
 # Mythical Creatures
-The continent of Durn is full of [[mythical creatures]] that reside in certain areas. Their eternal souls are their source of life, but they can be defeated. When a mythical creature is defeated, it leaves behind an [[emblem@mythical-creatures#mythical-emblems]] that encapsulates its soul until it is risen again. While in that state, it's possible to use this emblem as a source of magic (relating to the creature's powers and abilities). This keeps the creature at bay, preventing it from returning to its true form. That also means that if the emblem is not in steady use, the creature might rise again, and the keeper of the emblem won't be able to use its magic until the creature is defeated once more.
-Some (but not all) mythical creatures may be intelligent and capable of speech.
+{% include about.html index="mythical-creatures" %}
