@@ -1,0 +1,10 @@
+---
+title: "Auberfield"
+index:
+  - auberfield
+permalink: /lore/morgenfell/auberfield/
+excerpt: "Keltain is a kingdom in Nornfeld, governed by king Theodore Roster the IV. It is a bleak place with dangerous forests where all kinds of fearsome monsters prey on the weak."
+# header:
+#   overlay_image: /assets/images/lore/auberfield/keltain/header.png
+#   teaser: /assets/images/lore/auberfield/keltain/header.jpg
+---
