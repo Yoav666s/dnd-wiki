@@ -4,4 +4,5 @@
   {% assign collection = site.lore %}
 {% endif %}
 {% assign page = collection | where: "index", include.index | first %}
-{{ page.content | split: "\n" | first }} <a href="{{ page.url | relative_url }}">Read more</a>
+{% assign about = page.content | split: "\n" | first %}
+{{ about }} <a href="{{ page.url | relative_url }}">Read more</a>
