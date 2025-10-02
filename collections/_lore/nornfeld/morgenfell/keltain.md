@@ -17,4 +17,8 @@ The capital of Keltain.
 
 # Other Cities
 
--
+- Everground
+- Soverngale
+- Willowkeep
+- Hathermake
+- Riverfall
