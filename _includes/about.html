@@ -9,4 +9,4 @@
 {% else %}
   {% assign about = page.content | split: "\n\n" %}
 {% endif %}
-{{ about[0] }} <a href="{{ page.url | relative_url }}">Read more</a>{% if about contains "<p>" %}</p>{% endif %}
+{{ about[0] }} <a href="{{ page.url | relative_url }}">Read more</a>{% if page.content contains "<p>" %}</p>{% endif %}
