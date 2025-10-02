@@ -85,8 +85,12 @@ lore:
   - title: "Morgenfell"
     url: /lore/morgenfell/
     children:
+      - title: "Auberfield"
+        url: /lore/morgenfell/auberfield/
       - title: "Keltain"
         url: /lore/morgenfell/keltain/
+      - title: "Wedland"
+        url: /lore/morgenfell/wedland/
   - title: "Sommertooth Island"
     url: /lore/sommertooth-island/
      
