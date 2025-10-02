@@ -27,8 +27,8 @@ Metamorphes vary widely in height and build, from barely 3 feet to well over 5 f
 ## Speed
 Your base walking speed is 30 feet.
 
-## Darkvision
-You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+## Natural Actor
+You are proficient in the Deception skill, and you have advantage on Charisma (Deception) checks when trying to pass yourself off as someone else.
 
 ## Shapeshift
 You can alter your shape as an action. You decide what you look like, including your height (Medium or Small), weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. Your basic shape stays the same; if you’re bipedal, you can’t use this trait to become quadrupedal, for instance.
