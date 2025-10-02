@@ -26,7 +26,9 @@ While attuned to this book, you can use it as a spellcasting focus, and you gain
 | 8th   | [[!Dominate Thoughts]] |
 | 9th   | [[!Delirium]] |
 
-Whenever a creature successfully succeeds an Intelligence, Wisdom, or Charisma saving throw against a spell you cast, make a Wisdom saving throw against your own spell save DC. On failure, you take 1d4 psychic damage and roll a d12 to determine the side effects from the Delirium Table:
+**Curse.** This tome is cursed. Attuning to it curses you until you are targeted by a [[Remove Curse]] spell or similar magic. While cursed, you have vulnerability to psychic damage.
+
+Whenever a creature successfully succeeds an Intelligence, Wisdom, or Charisma saving throw against a spell you cast, make a Wisdom saving throw against your own spell save DC. On failure, you take 1d4 psychic damage and roll a d12 to determine the side effects from the Side Effects Table:
 
 | d12 | Side Effect |
 | :-: | :---------- |
@@ -43,11 +45,11 @@ Whenever a creature successfully succeeds an Intelligence, Wisdom, or Charisma s
 | 11 | You feel a hand resting on your shoulder, but if you turn to look nothing is there. |
 | 12 | You hear the ticking of a clock in the back of your head. |
 
-In addition, once you attune to this book:
+In addition, once you attune to this tome:
 
 - You start hearing voices originating from the tome, whispers telling you strange things, warning you of dangers that aren't there, turning you against your allies, telling you that you're meant for great things.
 - You start seeing hallucinations, monsters at your peripheral vision, people that disappear at a blink of an eye, insects that turn out to be smudges on the wall.
-- You are vulnerable to psychic damage.
+- Other people start looking at you strangely, eying you carefully and suspiciously, with glances of disdain.
 
 
 [:items/tome-of-delirium:]
