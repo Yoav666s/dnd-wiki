@@ -1,0 +1,7 @@
+{% if include.collection %}
+  {% assign collection = site[include.collection] %}
+{% else %}
+  {% assign collection = site.lore %}
+{% endif %}
+{% assign page = collection | where: "title", include.title | first %}
+{{ page.content | split: "\n\n" | first }} <a href="{{ page.url | relative_url }}">Read more.</a>
