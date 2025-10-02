@@ -21,4 +21,4 @@ The capital of Keltain.
 - Soverngale
 - Willowkeep
 - Hathermake
-- Riverfall
+- Rivercall
