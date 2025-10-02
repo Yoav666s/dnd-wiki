@@ -11,13 +11,13 @@ excerpt: "The largest, most prosperous continent in Nornfeld mostly governed by 
 The most prosperous continent in [[Nornfeld]] mostly governed by the [[Sad'aaly Empire]].
 
 # Glenfast
-{% include about.html index="gelnfast" %}
+{% include about.html index="glenfast" %}
 
 # Hoverncast
 {% include about.html index="hoverncast" %}
 
 # Sad'aal Moran
-{% include about.html index="sasdaal-moran" %}
+{% include about.html index="sadaal-moran" %}
 
 # Thortmere
 {% include about.html index="thortmere" %}
