@@ -15,8 +15,7 @@ The Three Kingdoms are currently in peaceful, prosperous times. They thrive on t
 
 ## Auberfield
 {% assign auberfield = site.lore | where: "title", "Auberfield" | first %}
-{% assign auberfield_paragraph = auberfield.content | split: "\n\n" | first %}
-{% include render_tooltips.html content = auberfield_paragraph %}
+{{ auberfield.content | split: "\n\n" | first }}
 
 ## Keltain
 [[Keltain]] is governed by king Theodore Roster the IV. It is a bleak place with dangerous forests where all kinds of fearsome monsters prey on the weak. There are vampires, werewolves, and eldritch horrors lurking about, and without magic, there's very little to do about it.
