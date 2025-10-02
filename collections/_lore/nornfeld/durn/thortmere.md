@@ -8,7 +8,7 @@ excerpt: "Thortmere is a small country in the north of Durn, mostly inhabited by
 #   overlay_image: /assets/images/lore/glenfast/header.png
 #   teaser: /assets/images/lore/glenfast/header.jpg
 ---
-Thortmere is a small desert country in the south of [[Durn]], mostly inhabited by humans, half-elves, and half-orcs. Its capital is Corodill.
+Thortmere is a cold country in the north of [[Durn]], mostly inhabited by humans, halflings, dwarves, and half-orcs. Its capital is Corodill.
 
 - Harkstone 
 - Thoroughmill
