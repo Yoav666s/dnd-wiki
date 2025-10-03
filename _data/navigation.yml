@@ -98,6 +98,30 @@ monsters:
   - title: "Monsters"
     url: /monsters/
 
+races:
+  - title: "Dragonborn"
+    url: /races/dragonborn/
+  - title: "Dwarf"
+    url: /races/dwarf/
+  - title: "Elf"
+    url: /races/elf/
+  - title: "Gnome"
+    url: /races/gnome/
+  - title: "Half Elf"
+    url: /races/half-elf/
+  - title: "Half Orc"
+    url: /races/half-orc/
+  - title: "Halfling"
+    url: /races/halfling/
+  - title: "Human"
+    url: /races/human/
+  - title: "Metamorphe"
+    url: /races/metamorphe/
+  - title: "Tiefling"
+    url: /races/tiefling/
+  - title: "Trifling"
+    url: /races/trifling/
+
 rules:
   # - title: "Creating A Character"
   #   part: 1
@@ -121,25 +145,3 @@ spells:
   - title: "7th Level"
   - title: "8th Level"
   - title: "9th Level"
-
-races:
-  - title: "Dragonborn"
-    url: /races/dragonborn/
-  - title: "Dwarf"
-    url: /races/dwarf/
-  - title: "Elf"
-    url: /races/elf/
-  - title: "Gnome"
-    url: /races/gnome/
-  - title: "Half Elf"
-    url: /races/half-elf/
-  - title: "Half Orc"
-    url: /races/half-orc/
-  - title: "Halfling"
-    url: /races/halfling/
-  - title: "Human"
-    url: /races/human/
-  - title: "Tiefling"
-    url: /races/tiefling/
-  - title: "Trifling"
-    url: /races/trifling/
