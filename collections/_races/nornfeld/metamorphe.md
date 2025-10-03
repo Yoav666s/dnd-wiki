@@ -10,9 +10,7 @@ header:
   overlay_image: /assets/images/races/metamorphe/header.png
   teaser: /assets/images/races/metamorphe/header.jpg
 ---
-> Appearance is the greatest lie of nature;
->
-> a beautiful flower is deadly poison
+> A beautiful flower is deadly poison
 >
 > and sharp teeth mask fear.
 >
