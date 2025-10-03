@@ -21,11 +21,14 @@ header:
 > and take everything that you hold dear.
 
 # Hideous Creatures
-Metamorphes are known for their unsettling form. Their skin is tight on their slender bodies, their hair is white and thin. They can change shape, and they prefer to do so around other people, or mirors.
+Metamorphes are known for their unsettling form. Their skin is tight on their slender bodies, their hair is white and thin.
 
 [:races/metamorphe/alt;header:]
 
-Their skin has a sickly grey-ish purple tone, and their eyes are pitch black.
+Their skin has a sickly grey-ish purple tone, and their eyes are pitch black. They can change shape, and they prefer to do so around other people, or mirors.
+
+# Blend In
+Metamorphes like to blend in with other races in society, hiding their true form under the guise of other humanoids.
 
 # Metamorphe Traits
 It’s hard to make generalizations about metamorphes, but your metamorphe character has these traits.
