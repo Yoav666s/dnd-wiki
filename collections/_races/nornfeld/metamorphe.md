@@ -6,9 +6,9 @@ permalink: /races/metamorphe/
 excerpt: "Metamorphes are creatures who can change shape."
 tags:
   - Race
-# header:
-#   overlay_image: /assets/images/races/feyling/header.png
-#   teaser: /assets/images/races/feyling/header.jpg
+header:
+  overlay_image: /assets/images/races/metamorphe/header.png
+  teaser: /assets/images/races/metamorphe/header.jpg
 ---
 Metamorphes are creatures who can change shape.
 
