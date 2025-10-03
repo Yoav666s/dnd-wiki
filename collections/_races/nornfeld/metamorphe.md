@@ -19,8 +19,6 @@ header:
 > A pretty face will give you comfort 
 >
 > and take everything that you hold dear.
->
-> --Unknown, unimportant 
 
 Metamorphes are creatures who can change shape.
 
