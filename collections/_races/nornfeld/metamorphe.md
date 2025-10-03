@@ -10,13 +10,13 @@ header:
   overlay_image: /assets/images/races/metamorphe/header.png
   teaser: /assets/images/races/metamorphe/header.jpg
 ---
-> A beautiful flower is deadly poison
+> A beautiful flower is deadly poison,
 >
 > and sharp teeth mask fear.
 >
-> A pretty face will give you comfort 
+> A pretty face will give you comfort,
 >
-> and take everything that you hold dear.
+> and take all that you hold dear.
 
 # Hideous Creatures
 Metamorphes are known for their unsettling form. Their skin is tight on their slender bodies, their hair is white and thin. Their fingers are long and bony, their ears are sharp, and their teeth are crooked.
