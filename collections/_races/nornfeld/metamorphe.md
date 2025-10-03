@@ -35,3 +35,5 @@ You can alter your shape as an action. You decide what you look like, including 
 
 ## Languages
 You can speak, read, and write Common and another language of your choice.
+
+[:races/metamorphe:]
