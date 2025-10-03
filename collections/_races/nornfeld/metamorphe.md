@@ -19,7 +19,7 @@ header:
 > and take everything that you hold dear.
 
 # Hideous Creatures
-Metamorphes are known for their unsettling form. Their skin is tight on their slender bodies, their hair is white and thin.
+Metamorphes are known for their unsettling form. Their skin is tight on their slender bodies, their hair is white and thin. Their fingers are long and bony, their ears are sharp, and their teeth are crooked.
 
 [:races/metamorphe/alt;header:]
 
