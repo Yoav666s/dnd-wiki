@@ -16,7 +16,7 @@ Metamorphes are creatures who can change shape.
 It’s hard to make generalizations about metamorphes, but your metamorphe character has these traits.
 
 ## Ability Score Increase
-When determining your character’s ability scores, increase your Charisma score by 2 and one other score of your choice by 1. You can't raise any of your scores above 20.
+When determining your character’s ability scores, increase one ability score of your choice by 2 and another one by 1. You can't raise any of your scores above 20.
 
 ## Age
 Metamorphes reach adulthood in their late teens and live less than a century.
@@ -37,3 +37,13 @@ You can alter your shape as an action. You decide what you look like, including 
 You can speak, read, and write Common and one other language of your choice.
 
 [:races/metamorphe:]
+
+# Variant Metamorphe
+If your campaign uses the 2024 ruleset, your Dungeon Master might allow this variant trait which replaces the Ability Score Increase trait.
+
+## Variant Metamorphe Traits
+
+### Darkvision
+You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+[:races/metamorphe/alt:]
