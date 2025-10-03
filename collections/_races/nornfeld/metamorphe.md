@@ -23,6 +23,10 @@ header:
 # Hideous Creatures
 Metamorphes are known for their unsettling form. Their skin is tight on their slender bodies, their hair is white and thin. They can change shape, and they prefer to do so around other people, or mirors.
 
+[:races/metamorphe/alt;header:]
+
+Their skin has a sickly grey-ish purple tone, and their eyes are pitch black.
+
 # Metamorphe Traits
 It’s hard to make generalizations about metamorphes, but your metamorphe character has these traits.
 
@@ -56,5 +60,3 @@ If your campaign uses the 2024 ruleset, your Dungeon Master might allow this var
 
 ### Darkvision
 You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-[:races/metamorphe/alt:]
