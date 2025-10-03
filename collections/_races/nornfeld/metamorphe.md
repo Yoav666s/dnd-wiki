@@ -20,7 +20,8 @@ header:
 >
 > and take everything that you hold dear.
 
-Metamorphes are creatures who can change shape.
+# Hideous Creatures
+Metamorphes are known for their unsettling form. Their skin is tight on their slender bodies, their hair is white and thin. They can change shape, and they prefer to do so around other people, or mirors.
 
 # Metamorphe Traits
 It’s hard to make generalizations about metamorphes, but your metamorphe character has these traits.
