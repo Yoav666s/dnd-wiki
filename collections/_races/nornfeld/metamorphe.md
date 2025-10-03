@@ -28,6 +28,9 @@ Their skin has a sickly grey-ish purple tone, and their eyes are pitch black. Th
 # Blend In
 Metamorphes like to blend in with other races in society, hiding their true form under the guise of other humanoids. They're good at passing themselves off as other people, and use that ability to their greatest advantage.
 
+## Mistrusted
+Most people don't trust metamorphes. They're known for their deception and dishonesty, even when they reveal their true form. For this reason, most metamorphes protect their identity as their most guarded secret, and show their true face to no one.
+
 # Metamorphe Traits
 It’s hard to make generalizations about metamorphes, but your metamorphe character has these traits.
 
