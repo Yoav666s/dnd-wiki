@@ -20,7 +20,7 @@ Beginning when you choose this college at 3rd level, in addition to spells from 
 # Weaken the Mind
 Starting at 3rd level, you learn how to weaken the mind of your foes. When a creature you can see within 60 feet of you makes an Intelligence, Wisdom, or Charisma saving throw, you can use your reaction to expend one use of your Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. The creature is immune if it can’t hear you or if it’s immune to being charmed.
 
-# Bewildering Words
+# Insult to Injury
 Starting at 6th level, when one of your allies deals damage to a creature, you can use your reaction to expend one use of your Bardic Inspiration, rolling a Bardic Inspiration die and dealing additional psychic damage equal to the number rolled.
 
 # Aura of Insanity 
