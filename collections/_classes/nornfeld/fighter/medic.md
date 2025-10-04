@@ -1,3 +1,14 @@
+---
+title: "Medic"
+index: 
+  - medic
+permalink: /classes/fighter/medic/
+excerpt: "Medics are professional physicians that prove there's no need to rely on magic in order to heal the injured."
+subclass: fighter
+header:
+  overlay_image: /assets/images/classes/fighter/medic/header.png
+  teaser: /assets/images/classes/fighter/medic/header.jpg
+---
 Medics are professional physicians that prove there's no need to rely on magic in order to heal the injured. These trained fighters know how to heal and even revive their comrades after battle.
 
 # Trained Physician
