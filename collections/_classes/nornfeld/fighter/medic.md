@@ -12,7 +12,7 @@ header:
 Medics are professional physicians that prove there's no need to rely on magic in order to heal the injured. These trained fighters know how to heal and even revive their comrades after battle.
 
 # Trained Physician
-Beginning when you choose this archetype at 3rd level, you gain expertise in the Medicine skill, and you have advantage on Wisdom (Medicine) checks made to stabilize an Unconscious creature that has 0 hit points.
+Beginning when you choose this archetype at 3rd level, you gain expertise with the Medicine skill, and you have advantage on Wisdom (Medicine) checks made to stabilize an Unconscious creature that has 0 hit points.
 
 # Tend Wounds
 Starting at 3rd level, as an action you can start tending to an injured creature you can see within 5 feet of you, expending 1 use of a healer's kit. The creature must be alive and stable. This process takes 1 minute. The creature gains hit points equal to 1d8 + your Medicine modifier. Once a creature has been healed in this way, it must finish a short or long rest before it can be healed this way again.
