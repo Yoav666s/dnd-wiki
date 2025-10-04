@@ -1,6 +1,6 @@
 ---
 title: "Hitman"
-index: 
+index:
   - hitman
 permalink: /classes/rogue/hitman/
 excerpt: "A Hitman strikes with lethal precision, blending rapid, methodical attacks with uncanny perception."
@@ -17,7 +17,7 @@ Beginning at 3rd level, you have proficiency with firearms, you ignore the Loadi
 # Rapid Shot
 Starting at 3rd level, when you make a ranged attack with a firearm, you can use your bonus action to make another ranged attack with the same weapon. You don’t add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 
-# Astute Aim 
+# Astute Aim
 Starting at 9th level, once per turn when you make a ranged attack, you can add your Perception modifier to the attack roll. You can use this feature after you roll the attack but before the DM declares whether it hits or misses.
 
 You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a short or long rest.
@@ -29,3 +29,5 @@ You can use this feature a number of times equal to your Wisdom modifier, and yo
 
 # Deadly Shot
 Starting at 17th level, when you make a ranged attack with your Rapid Shot feature, it's eligible to deal Sneak Attack damage even if your had already dealt Sneak Attack damage this turn. Sneak Attack requirements still apply.
+
+[:classes/rogue/hitman:]
