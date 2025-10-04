@@ -85,7 +85,7 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 | Archetype                      | Source                     |
 | :----------------------------- | :------------------------- |
 | [[!Buccaneer]]                 | Untold Legends of Nornfeld |
-| [[!Hitman]]                    | Untold Legends of Nornfeld |
+| [[!Hitman]]                    | Survivor's Guide to Morgenfell |
 | [[!Mirage Dancer]]             | Untold Legends of Nornfeld |
 | [[!Thief]]                     | Basic Rules                |
 

@@ -8,6 +8,7 @@ subclass: rogue
 header:
   overlay_image: /assets/images/classes/rogue/hitman/header.png
   teaser: /assets/images/classes/rogue/hitman/header.jpg
+source: "Survivor's Guide to Morgenfell"
 ---
 A Hitman strikes with lethal precision, blending rapid, methodical attacks with uncanny perception. Skilled with firearms and sharp instincts, they can follow up shots instantly, exploit openings, and turn careful observation into deadly advantage. At their peak, a Hitman can deliver multiple precision strikes in a single turn, making every shot count.
 

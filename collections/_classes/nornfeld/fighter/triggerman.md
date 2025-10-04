@@ -1,6 +1,6 @@
 ---
 title: "Triggerman"
-index: 
+index:
   - triggerman
 permalink: /classes/fighter/triggerman/
 excerpt: "Deadly calm under pressure, Triggermen are specialists who treat the battlefield as a firing range."
@@ -8,6 +8,7 @@ subclass: fighter
 header:
   overlay_image: /assets/images/classes/fighter/triggerman/header.png
   teaser: /assets/images/classes/fighter/triggerman/header.jpg
+source: "Survivor's Guide to Morgenfell"
 ---
 Deadly calm under pressure, Triggermen are specialists who treat the battlefield as a firing range. Their reflexes keep them one step ahead of danger, and their unmatched skill with firearms ensures that every shot counts. Quick to draw and quicker to fire, a Triggerman makes closing the distance a deadly mistake.
 
@@ -19,13 +20,13 @@ Additionally, you treat firearms as finesse weapons when making a melee attack w
 # Fast Hands
 Also starting at 3rd level, you have advantage on initiative rolls.
 
-# Aim Correction 
+# Aim Correction
 Starting at 7th level, once per turn, when you miss an enemy with a ranged attack using a firearm, you can give yourself advantage on your next ranged attack roll against that creature until the end of your turn.
 
-# Quick Reflexes 
+# Quick Reflexes
 Starting at 10th level, when a creature enters within 15 feet of you, you can use your reaction to make ranged attack with a firearm against it.
 
-# Deadly Precision 
+# Deadly Precision
 Starting at 15th level, when you have advantage on a ranged attack with a firearm, you can treat a roll of 18-20 as a critical hit.
 
 # Hip Fire
