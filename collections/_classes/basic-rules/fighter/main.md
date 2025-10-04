@@ -86,6 +86,7 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 | :--------------- | :------------------------- |
 | [[!Champion]]    | Basic Rules                |
 | [[!Fey Warrior]] | Untold Legends of Nornfeld |
+| [[!Medic]]       | Untold Legends of Nornfeld |
 | [[!Triggerman]]  | Untold Legends of Nornfeld |
 
 ## Ability Score Improvement
