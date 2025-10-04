@@ -21,7 +21,7 @@ Starting at 3rd level, as an action you can start tending to an injured creature
 The number of dice increases by 1d8 when you reach certain levels. It becomes 2d8 when you reach 7th level, 3d8 when you reach 10th level, 4d8 when you reach 15th level, and 5d8 when you reach 18th level.
 
 # Patch Up
-Starting at 7th level, you can tend to a number of creatures equal to your Wisdom modifier (including possibly yourself). This process takes 1d6 + 4 minutes per creature and requires you to expend 2 uses of a healer's kit per creature. You can do so over the span of a short rest, and the creatures must be within 10 feet of you. Each creature regains hit points equal to 2d10 + your Fighter level + your Medicine modifier. Once a creature has been healed in this way, it must finish a long rest before it can be healed this way again.
+Starting at 7th level, you can tend to a number of creatures equal to your Wisdom modifier (including possibly yourself). This process takes 1d6 + 4 minutes per creature and requires you to expend 2 uses of a healer's kit per creature. You can do so over the span of a short rest, and the creatures must be alive, stable, and within 10 feet of you. Each creature regains hit points equal to 2d10 + your Fighter level + your Medicine modifier. Once a creature has been healed in this way, it must finish a long rest before it can be healed this way again.
 
 The number of dice increases by 1d10 when you reach certain levels. It becomes 3d10 when you reach 10th level, 4d10 when you reach 15th level, and 5d10 when you reach 18th level.
 
