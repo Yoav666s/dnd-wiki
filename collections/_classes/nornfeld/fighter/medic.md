@@ -16,12 +16,12 @@ Medics are professional physicians that prove there's no need to rely on magic i
 Beginning when you choose this archetype at 3rd level, you gain expertise with the Medicine skill, and you have advantage on Wisdom (Medicine) checks made to stabilize an Unconscious creature that has 0 hit points.
 
 # Tend Wounds
-Starting at 3rd level, as an action you can start tending to an injured creature you can see within 5 feet of you, expending 1 use of a healer's kit. The creature must be alive and stable. This process takes 1 minute. The creature gains hit points equal to 1d8 + your Medicine modifier. Once a creature has been healed in this way, it must finish a short or long rest before it can be healed this way again.
+Starting at 3rd level, as an action you can start tending to an injured creature you can see within 5 feet of you (or yourself), expending 1 use of a healer's kit. The creature must be alive and stable. This process takes 1 minute. The creature gains hit points equal to 1d8 + your Medicine modifier. Once a creature has been healed in this way, it must finish a short or long rest before it can be healed this way again.
 
 The number of dice increases by 1d8 when you reach certain levels. It becomes 2d8 when you reach 7th level, 3d8 when you reach 10th level, 4d8 when you reach 15th level, and 5d8 when you reach 18th level.
 
 # Patch Up
-Starting at 7th level, you can tend to a number of creatures equal to your Wisdom modifier (including possibly yourself). This process takes 1d6 + 4 minutes per creature and requires you to expend 2 uses of a healer's kit per creature. You can do so over the span of a short rest, and the creatures must be alive, stable, and within 10 feet of you. Each creature regains hit points equal to 2d10 + your Fighter level + your Medicine modifier. Once a creature has been healed in this way, it must finish a long rest before it can be healed this way again.
+Starting at 7th level, you can tend to a creature with more extensive care. This process takes 1d6 + 4 minutes and requires you to expend 2 uses of a healer's kit. You can do so over the span of a short rest, and the creatures must be alive, stable, and within 5 feet of you (or yourself). The creature regains hit points equal to 2d10 + your Fighter level + your Medicine modifier. Once a creature has been healed in this way, it must finish a long rest before it can be healed this way again.
 
 The number of dice increases by 1d10 when you reach certain levels. It becomes 3d10 when you reach 10th level, 4d10 when you reach 15th level, and 5d10 when you reach 18th level.
 
