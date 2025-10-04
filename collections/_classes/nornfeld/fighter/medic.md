@@ -32,6 +32,6 @@ Starting at 10th level, expending 5 uses of a healers kit, you can use your acti
 Starting at 15th level, whenever you use a feature that requires you to expend more than 1 use of a healer's kit, the total uses you need to expend is reduced by your Wisdom modifier to a minimum of 1.
 
 # Supreme Physician
-Starting at 18th level, you can tend to a creature that has already been healed with the Tend Wounds or Patch up features if you succeed a Wisdom (Medicine) check with a DC of 20 minus the creature's Constitution modifier. On failure, you can't attempt to tend to that creature again until it finishes a short or long rest.
+Starting at 18th level, you can tend to a creature that has already been healed with the Patch up feature if you succeed a Wisdom (Medicine) check with a DC of 20 minus the creature's Constitution modifier. On failure, you can't attempt to tend to that creature again until it finishes a short or long rest.
 
 [:classes/fighter/medic:]
