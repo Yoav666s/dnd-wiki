@@ -26,7 +26,7 @@ Starting at 7th level, you can tend to a creature with more extensive care. This
 The number of dice increases by 1d10 when you reach certain levels. It becomes 3d10 when you reach 10th level, 4d10 when you reach 15th level, and 5d10 when you reach 18th level.
 
 # Revive
-Starting at 10th level, expending 10 uses of a healers kit, you can use your action to start reviving a creature that has died within the last minute. This process takes several minutes (until you succeed or fail), during which you need to make a Wisdom (Medicine) check with a DC of 20 minus the creature's Constitution modifier at the end of every minute. You do not have advantage on these checks. If you succeed 3 times, the creature is stabilized with 0 hit points. If you fail 3 times, the creature remains dead and cannot be revived in this way. Successes and failures do not need to be consecutive.
+Starting at 10th level, expending 5 uses of a healers kit, you can use your action to start reviving a creature that has died within the last minute. This process takes several minutes (until you succeed or fail), during which you need to make a Wisdom (Medicine) check with a DC of 20 minus the creature's Constitution modifier at the end of every minute. You do not have advantage on these checks. If you succeed 3 times, the creature is stabilized with 0 hit points. If you fail 3 times, the creature remains dead and cannot be revived in this way. Successes and failures do not need to be consecutive.
 
 # Resource Management
 Starting at 15th level, whenever you use a feature that requires you to expend more than 1 use of a healer's kit, the total uses you need to expend is reduced by your Wisdom modifier to a minimum of 1.
