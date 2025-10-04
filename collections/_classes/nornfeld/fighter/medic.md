@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/classes/fighter/medic/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
-Medics are professional physicians that prove there's no need to rely on magic in order to heal the injured. These trained fighters know how to heal and even revive their comrades after battle.
+Medics are professional physicians that prove there's no need to rely on magic in order to heal the injured. These trained fighters know how to heal and even revive their comrades in battle.
 
 # Trained Physician
 Beginning when you choose this archetype at 3rd level, you gain expertise with the Medicine skill, and you have advantage on Wisdom (Medicine) checks made to stabilize an Unconscious creature that has 0 hit points.
