@@ -3,7 +3,7 @@ title: "Modern Healer's Kit"
 index:
   - modern-healers-kit
 permalink: /items/modern-healers-kit/
-excerpt: "This book contains forbidden knowledge of spells and incantations that mess with the subjects' minds."
+excerpt: "This modern kit is a leather pouch containing bandages, salves, splints, and rubbing alcohol."
 tags:
   - Item
 header:
