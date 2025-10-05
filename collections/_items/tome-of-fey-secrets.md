@@ -7,8 +7,8 @@ excerpt: "This book contains forbidden knowledge of spells and incantations that
 tags:
   - Item
 header:
-  overlay_image: /assets/images/items/tome-of-delirium/header.png
-  teaser: /assets/images/items/tome-of-delirium/header.jpg
+  overlay_image: /assets/images/items/tome-of-fey-secrets/header.png
+  teaser: /assets/images/items/tome-of-fey-secrets/header.jpg
 ---
 This book contains forbidden knowledge of spells and incantations that mess with the subjects' minds. The contents of this book are written in Sylvan. If you are a spellcaster and spend 24 hours over a period of 6 days of fewer studying the book's contents and practicing its guidelines, you can attune to it.
 
