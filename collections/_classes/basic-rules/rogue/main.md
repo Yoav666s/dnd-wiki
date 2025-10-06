@@ -82,12 +82,13 @@ Starting at 2nd level, your quick thinking and agility allow you to move and act
 ## Roguish Archetype
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
-| Archetype                      | Source                     |
-| :----------------------------- | :------------------------- |
-| [[!Buccaneer]]                 | Untold Legends of Nornfeld |
+| Archetype                      | Source                         |
+| :----------------------------- | :----------------------------- |
+| [[!Academic]]                  | Survivor's Guide to Morgenfell |
+| [[!Buccaneer]]                 | Untold Legends of Nornfeld     |
 | [[!Hitman]]                    | Survivor's Guide to Morgenfell |
-| [[!Mirage Dancer]]             | Untold Legends of Nornfeld |
-| [[!Thief]]                     | Basic Rules                |
+| [[!Mirage Dancer]]             | Untold Legends of Nornfeld     |
+| [[!Thief]]                     | Basic Rules                    |
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
