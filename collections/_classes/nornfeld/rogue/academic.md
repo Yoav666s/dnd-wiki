@@ -26,14 +26,12 @@ Starting at 9th level, when you make an Intelligence skill or ability check, you
 
 You can use this feature a number of times equal to your Intelligence modifier and you regain all expended uses when you finish a long rest.
 
-# Resilient Mind
-Starting at 13th level, your trained mind is particularly resilient. When you make an Intelligence, Wisdom, or Charisma saving throw, you can give yourself advantage on the roll.
-
-You can use this feature a number of times equal to your Intelligence modifier and you regain all expended uses when you finish a long rest.
-
 # Calculated Strike
-Starting at 17th level, once per turn when you make an attack, you can add your Intelligence modifier to the attack roll. You can do so after you make the roll, but before the DM decides whether the attack hits or misses.
+Starting at 13th level, once per turn when you make an attack, you can add your Intelligence modifier to the attack roll. You can do so after you make the roll, but before the DM decides whether the attack hits or misses.
 
 You can use this feature a number of times equal to your Intelligence modifier and you regain all expended uses when you finish a short or long rest.
+
+# Brilliant Mind
+Starting at 17th level, your Intelligence score increases by 4. Your maximum for this ability score is now 24.
 
 [:classes/rogue/academic:]
