@@ -34,6 +34,6 @@ You can use this feature a number of times equal to your Intelligence modifier a
 # Calculated Strike
 Starting at 17th level, once per turn when you make an attack, you can add your Intelligence modifier to the attack roll. You can do so after you make the roll, but before the DM decides whether the attack hits or misses.
 
-You can use this feature a number of times equal to your Intelligence modifier and you regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your Intelligence modifier and you regain all expended uses when you finish a short or long rest.
 
 [:classes/rogue/academic:]
