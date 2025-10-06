@@ -1,3 +1,15 @@
+---
+title: "Academic"
+index:
+  - academic
+permalink: /classes/rogue/academic/
+excerpt: "The Academic is both an experienced rogue and an intellectual."
+subclass: rogue
+header:
+  overlay_image: /assets/images/classes/rogue/academic/header.png
+  teaser: /assets/images/classes/rogue/academic/header.jpg
+source: "Survivor's Guide to Morgenfell"
+---
 The Academic is both an experienced rogue and an intellectual. They don't only learn but also apply combative techniques, as well as various fields of study. They rely on their cunning wit no less than their skills, and their brilliant maneuvers can turn the tide in combat.
 
 # Well Studied
