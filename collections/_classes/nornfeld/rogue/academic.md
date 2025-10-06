@@ -32,6 +32,6 @@ Starting at 13th level, once per turn when you make an attack, you can add your 
 You can use this feature a number of times equal to your Intelligence modifier and you regain all expended uses when you finish a short or long rest.
 
 # Brilliant Mind
-Starting at 17th level, your Intelligence score increases by 4. Your maximum for this ability score is now 24.
+Starting at 17th level, your Intelligence score increases by 2. Your maximum for this ability score is now 22.
 
 [:classes/rogue/academic:]
