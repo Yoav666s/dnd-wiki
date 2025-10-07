@@ -22,7 +22,7 @@ As previously mentioned, magic is illegal in the realms of Morgenfell. This does
 Morgenfell is a large continent in Nornfeld, where magic is outside of the law. It is inhabited mostly by humans, but halflings, gnomes, and dwarves live amongst them, and half-orcs can be found there as well. In its dangerous forests where monstrous creatures roam free, elves have made their home. Elves, due to their magical origins, are not normally allowed within the cities and are usually arrested on sight. Since most citizens and guards don't dare go into the forests, they can reside there without being disturbed, although the presence of monsters does pose a challenge of survival.
 
 ## The Three Kingdoms
-Morgenfell is divided into three kingdoms: Auberfield, Keltain, and Wedland. The Three Kingdoms are currently in peaceful, prosperous times. They thrive on trade with other continents that don't have their advanced technology, but there is tension. 
+Morgenfell is divided into three kingdoms: Auberfield, Keltain, and Wedland. The Three Kingdoms are currently in peaceful, prosperous times. They thrive on trade with other continents that don't have their advanced technology, but there is tension.
 
 # Chapter ?: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
@@ -30,7 +30,7 @@ With magic being illegal under the authority of the Arcane Dictum, the people of
 {% assign subclasses = site.classes | where: "source", page.title | sort: "subclass" %}
 {% for subclass in subclasses %}
 
-  <h2>{{ subclass.title }}</h2>
+  <h2 id="{{ subclass.index | first }}">{{ subclass.title }}</h2>
 
   {% include page_content.html page=subclass %}
 
