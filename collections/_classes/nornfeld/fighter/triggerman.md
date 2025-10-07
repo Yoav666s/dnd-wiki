@@ -12,7 +12,7 @@ source: "Survivor's Guide to Morgenfell"
 ---
 Deadly calm under pressure, Triggermen are specialists who treat the battlefield as a firing range. Their reflexes keep them one step ahead of danger, and their unmatched skill with firearms ensures that every shot counts. Quick to draw and quicker to fire, a Triggerman makes closing the distance a deadly mistake.
 
-# Firearms Specialist
+# Firearm Specialist
 Beginning at 3rd level, you have proficiency with firearms, you ignore the Loading property of firearms, and being within 5 feet of a hostile creature doesn't impose disadvantage on ranged attack rolls with a firearm.
 
 # Ready for Action

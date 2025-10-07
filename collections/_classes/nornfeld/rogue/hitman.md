@@ -12,7 +12,7 @@ source: "Survivor's Guide to Morgenfell"
 ---
 A Hitman strikes with lethal precision, blending rapid, methodical attacks with uncanny perception. Skilled with firearms and sharp instincts, they can follow up shots instantly, exploit openings, and turn careful observation into deadly advantage. At their peak, a Hitman can deliver multiple precision strikes in a single turn, making every shot count.
 
-# Firearms Expert
+# Firearm Expert
 Beginning at 3rd level, you have proficiency with firearms, you ignore the Loading property of firearms, and being within 5 feet of a hostile creature doesn't impose disadvantage on ranged attack rolls with a firearm. Additionally, you treat firearms as finesse weapons when making a melee attack with a firearm as an improvised weapon, and you can add your proficiency bonus to the attack roll.
 
 # Rapid Shot
