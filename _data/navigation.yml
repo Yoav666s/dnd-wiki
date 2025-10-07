@@ -123,15 +123,7 @@ races:
     url: /races/trifling/
 
 rules:
-  # - title: "Creating A Character"
-  #   part: 1
-  #   children:
-  - title: "Playing The Game"
-    part: 2
-  - title: "The Rules of Magic"
-    part: 3
   - title: "Spells"
-    url: /spells/
     part: 3.5
 
 spells:
