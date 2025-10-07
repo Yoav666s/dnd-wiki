@@ -6,7 +6,7 @@
   {% endif %}
   {% assign index = sauce | remove: "'" | slugify %
   {% assign expansion = site.expansions | where: "index", index | first %}
-  <div class="notice{% if sauce == "Survivor's Guide to Morgenfell" %}--danger{% elsif sauce = "Untold Legends of Nornfeld" %}--info{% elsif sauce != "Basic Rules" %}--success{% endif %}">
+  <div class="notice{% if sauce == "Survivor's Guide to Morgenfell" %}--danger{% elsif sauce == "Untold Legends of Nornfeld" %}--info{% elsif sauce != "Basic Rules" %}--success{% endif %}">
     <i><a href="{% if expansion %}{{ expansion.url | relative_url }}{% endif %}" class="btn">{{ sauce }}</a></i>
   </div>
 {% endif %}
