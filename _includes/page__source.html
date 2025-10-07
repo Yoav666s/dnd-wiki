@@ -1,13 +1,13 @@
 {% if page.collection != "expansions" %}
   {% if page.source and page.source != "Untold Legends of Nornfeld" %}
-    {% assign index = page.source | remove: "’" | slugify %}
+    {% assign index = page.source | remove: "'" | slugify %}
     {% assign expansion = site.expansions | where: "index", index | first %}
     <div class="notice{% if page.source == "Survivor's Guide to Morgenfell" %}--danger{% elsif page.source != "Basic Rules" %}--success{% endif %}">
       <i>
         {% if expansion %}
           <a href="{{ expansion.url | relative_url }}">{{ page.source }}</a>
         {% else %}
-          {{ page.source }} {{ index }}
+          {{ page.source }}
         {% endif %}
       </i>
     </div>
