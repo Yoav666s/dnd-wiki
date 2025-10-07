@@ -352,7 +352,7 @@ collections:
     permalink: /:collection/:path/
 
   rules:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
   spells:
