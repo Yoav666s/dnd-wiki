@@ -1,19 +1,12 @@
 {% if page.collection != "expansions" %}
-  {% if page.source and page.source != "Untold Legends of Nornfeld" %}
-    {% assign index = page.source | remove: "'" | slugify %}
-    {% assign expansion = site.expansions | where: "index", index | first %}
-    <div class="notice{% if page.source == "Survivor's Guide to Morgenfell" %}--danger{% elsif page.source != "Basic Rules" %}--success{% endif %}">
-      <i>
-        {% if expansion %}
-          <a href="{{ expansion.url | relative_url }}" class="btn">{{ page.source }}</a>
-        {% else %}
-          {{ page.source }}
-        {% endif %}
-      </i>
-    </div>
+  {% if page.source %}
+    {% assign source = page.source %}
   {% else %}
-    <div class="notice--info">
-      <i>Untold Legends of Nornfeld</i>
-    </div>
+    {% assign source = "Untold Legends of Nornfeld" %}
   {% endif %}
+  {% assign index = page.source | remove: "'" | slugify %
+  {% assign expansion = site.expansions | where: "index", index | first %}
+  <div class="notice{% if source == "Survivor's Guide to Morgenfell" %}--danger{% elsif source = "Untold Legends of Nornfeld" %}--info{% elsif page.source != "Basic Rules" %}--success{% endif %}">
+    <i><a href="{% if expansion %}{{ expansion.url | relative_url }}{% endif %}" class="btn">{{ page.source }}</a></i>
+  </div>
 {% endif %}
