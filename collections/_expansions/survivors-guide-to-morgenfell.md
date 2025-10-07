@@ -30,7 +30,7 @@ With magic being illegal under the authority of the Arcane Dictum, the people of
 {% assign subclasses = site.classes | where: "source", page.title | sort: "subclass" %}
 {% for subclass in subclasses %}
 
-  <h2 id="{{ subclass.index | first }}">{{ subclass.title }}</h2>
+  <h2 id="{{ subclass.title | slugify }}">{{ subclass.title }}</h2>
 
   {% include page_content.html page=subclass %}
 
