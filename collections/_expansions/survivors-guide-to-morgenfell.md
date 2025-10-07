@@ -57,10 +57,10 @@ You're the one who ultimately decides how horrifying or wondrous you want your c
 The fey are known for their strange ways of driving mortals to insanity. You could play this up, turning an otherwise captivating setting to a terrifying one. Either way, Auberfield is known for the fey presence in its forests, where many elves make their home as well.
 
 ### Survival and Grit
-In a village where eldritch horrors could show up at any time, a gun is man's best friend.
+In a village where eldritch horrors could show up at any time, a gun is man's best friend. Keltain is the perfect setting for your dark horror campaign. From vast crop fields and armed farmers to well guarded vampire castles, you can find it all there.
 
 ### The Industrial Revolution
-Top hats, walking canes, and elegant suits. Factories and railroads, advanced sewer systems, and everything modern (relatively, at least). Wedland is the prime, living and breathing example of the industrial revolution.
+Top hats, walking canes, and elegant suits. Factories and railroads, advanced sewer systems, and everything modern (relatively, at least). Wedland is the prime living and breathing example of the industrial revolution.
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
