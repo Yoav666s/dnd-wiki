@@ -24,6 +24,11 @@ Morgenfell is a large continent in Nornfeld, where magic is outside of the law. 
 ## The Three Kingdoms
 Morgenfell is divided into three kingdoms: Auberfield, Keltain, and Wedland. The Three Kingdoms are currently in peaceful, prosperous times. They thrive on trade with other continents that don't have their advanced technology, but there is tension.
 
+### Auberfield
+
+{% assign auberfield = site.lore | where: "index", "auberfield" | first %}
+{% include page_content.html page=auberfield %}
+
 # Chapter ?: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
 
@@ -31,9 +36,11 @@ With magic being illegal under the authority of the Arcane Dictum, the people of
 {% assign classes = all_subclasses | map: "subclass" | uniq %}
 {% for class in classes %}
   <h2 id="{{ class | slugify }}">{{ class | capitalize }}</h2>
+  
   {% assign subclasses = all_subclasses | where: "subclass", class %}
   {% for subclass in subclasses %}
     <h3 id="{{ subclass.title | slugify }}">{{ subclass.title }}</h3>
+
     {% include page_content.html page=subclass %}
   {% endfor %}
 {% endfor %}
