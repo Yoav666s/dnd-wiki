@@ -2,6 +2,7 @@
 {% assign classes = all_subclasses | map: "subclass" | uniq %}
 {% for class in classes %}
   <h2 id="{{ class | slugify }}">{{ class | capitalize }}</h2>
+  Here's some fucking text!
   {% assign subclasses = all_subclasses | where: "subclass", class %}
   {% for subclass in subclasses %}
     <h3 id="{{ subclass.title | slugify }}">{{ subclass.title }}</h3>
