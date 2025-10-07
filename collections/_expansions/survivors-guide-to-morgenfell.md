@@ -10,7 +10,7 @@ excerpt: "All you need to know about Morgenfell!"
 ---
 
 # Subclasses
-{% assign subclasses = site.classes | where: "source", page.title %}
+{% assign subclasses = site.classes | where: "source", page.title | sort: "title" %}
 {% for subclass in subclasses %}
 
   <h2>{{ subclass.title }}</h2>
