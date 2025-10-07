@@ -5,7 +5,7 @@
     <div class="notice{% if page.source == "Survivor's Guide to Morgenfell" %}--danger{% elsif page.source != "Basic Rules" %}--success{% endif %}">
       <i>
         {% if expansion %}
-          <a href="{{ expansion.url | relative_url }}">{{ page.source }}</a>
+          <a href="{{ expansion.url | relative_url }}" class="btn">{{ page.source }}</a>
         {% else %}
           {{ page.source }}
         {% endif %}
