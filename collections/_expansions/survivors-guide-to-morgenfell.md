@@ -17,7 +17,12 @@ Three kingdoms agree on one thing: magic is the ruin of society. Since the Arcan
 >
 > --The Arcane Dictum, 217 (A.GM)
 
-As previously mentioned, magic is illegal in the realms of Morgenfell. This does not mean that it doesn't exist, but it's rare and usually practiced only in secret or in forests, where patrols are limited and few. The forests of Morgenfell are dangerous and filled with all kinds of strange creatures. Few can survive there, with or without magic, and guards only enter there when absolutely necessary. 
+As previously mentioned, magic is illegal in the realms of Morgenfell. This does not mean that it doesn't exist, but it's rare and usually practiced only in secret or in forests, where patrols are limited and few. The forests of Morgenfell are dangerous and filled with all kinds of strange creatures. Few can survive there, with or without magic, and guards only enter there when absolutely necessary. The cities themselves are well protected, but villages are exposed to terrible threats such as vampires, werewolves, and eldritch horrors.
+
+Morgenfell is a large continent in Nornfeld, where magic is outside of the law. It is inhabited mostly by humans, but halflings, gnomes, and dwarves live amongst them, and half-orcs can be found there as well. In its dangerous forests where monstrous creatures roam free, elves have made their home. Elves, due to their magical origins, are not normally allowed within the cities and are usually arrested on sight. Since most citizens and guards don't dare go into the forests, they can reside there without being disturbed, although the presence of monsters does pose a challenge of survival.
+
+## The Three Kingdoms
+Morgenfell is divided into three kingdoms: Auberfield, Keltain, and Wedland. The Three Kingdoms are currently in peaceful, prosperous times. They thrive on trade with other continents that don't have their advanced technology, but there is tension. 
 
 # Chapter ?: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
