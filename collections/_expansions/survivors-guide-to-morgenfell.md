@@ -60,7 +60,7 @@ The fey are known for their strange ways of driving mortals to insanity. You cou
 In a village where eldritch horrors could show up at any time, a gun is man's best friend. Keltain is the perfect setting for your dark horror campaign. From vast crop fields and armed farmers to well guarded vampire castles, you can find it all right here.
 
 ### The Industrial Revolution
-Top hats, walking canes, and elegant suits. Factories and railroads, advanced sewer systems, and everything modern (relatively, at least). Wedland is the prime living and breathing example of the industrial revolution. It would be a shame to ruin such a beautiful thing, when shapeshifting devils could slowly take control of it.
+Top hats, walking canes, and elegant suits. Factories and railroads, advanced sewer systems, and everything modern (relatively, at least). Wedland is the prime living and breathing example of the industrial revolution. It would be a shame to ruin such a beautiful thing, when shapeshifting devils could slowly and insidiously take control of it.
 
 
 # Chapter 4: Subclasses
