@@ -42,7 +42,13 @@ Morgenfell is divided into three kingdoms: Auberfield, Keltain, and Wedland. The
 ## What's in This Book?
 Chapter 1 will introduce you to the main components of this setting, everything you need to know in order to create a campaign in Morgenfell.
 
-# Chapter ?: Subclasses
+Chapter 2 will dive into the political figures of each kingdom and how they interaxt with each other.
+
+Chapter 3 will show you around the cities of Morgenfell, going into the details of each and every city.
+
+Chapter 4 will introduce new work in progress subclasses, completely untested and definitely not ready for serious play.
+
+# Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
 
 {% include expansion_subclasses.html %}
