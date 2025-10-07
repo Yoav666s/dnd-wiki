@@ -3,14 +3,14 @@ title: "Academic"
 index:
   - academic
 permalink: /classes/rogue/academic/
-excerpt: "The Academic is both an experienced rogue and an intellectual."
+excerpt: "The Academic is both an experienced rogue and an intellectual, blending wit and talent into a deadly combination."
 subclass: rogue
 header:
   overlay_image: /assets/images/classes/rogue/academic/header.png
   teaser: /assets/images/classes/rogue/academic/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
-The Academic is both an experienced rogue and an intellectual. They don't only learn but also apply combative techniques, as well as various fields of study. They rely on their cunning wit no less than their skills, and their brilliant maneuvers can turn the tide in combat.
+The Academic is both an experienced rogue and an intellectual, blending wit and talent into a deadly combination. They learn and apply combative techniques, as well as various fields of study. They rely on their sharp cunning no less than their skills, and their brilliant maneuvers can turn the tide in battle.
 
 # Well Studied
 Beginning at 3rd level when you choose this archetype, you learn two languages of your choice, and you have expertise in one of the following skills: Arcana, History, Nature, or Religion. You choose a second skill to gain expertise in when you reach 9th level.
