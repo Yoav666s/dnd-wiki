@@ -57,7 +57,7 @@ You're the one who ultimately decides how horrifying or wondrous you want your c
 The fey are known for their strange ways of driving mortals to insanity. You could play this up, turning an otherwise captivating setting to a terrifying one. Either way, Auberfield is known for the fey presence in its forests, where many elves make their home as well.
 
 ### Survival and Grit
-In a village where eldritch horrors could show up at any time, a gun is man's best friend. Keltain is the perfect setting for your dark horror campaign. From vast crop fields and armed farmers to well guarded vampire castles, you can find it all there.
+In a village where eldritch horrors could show up at any time, a gun is man's best friend. Keltain is the perfect setting for your dark horror campaign. From vast crop fields and armed farmers to well guarded vampire castles, you can find it all right here.
 
 ### The Industrial Revolution
 Top hats, walking canes, and elegant suits. Factories and railroads, advanced sewer systems, and everything modern (relatively, at least). Wedland is the prime living and breathing example of the industrial revolution.
