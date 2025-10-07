@@ -9,7 +9,9 @@ excerpt: "All you need to know about Morgenfell!"
 #   teaser: /assets/images/expansions/survivors-guide-to-morgenfell/header.jpg
 ---
 
-# Subclasses
+# Chapter 1: Subclasses
+With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic to make up for the lack of healing and the Triggerman for professional use of firearms.
+
 {% assign subclasses = site.classes | where: "source", page.title | sort: "title" %}
 {% for subclass in subclasses %}
 
