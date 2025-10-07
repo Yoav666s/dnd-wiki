@@ -18,5 +18,5 @@ Auberfield's capital city.
 - Easternmorough
 - Hullenspire
 - Tealstongue
-- Strawfleet
+- Hazelbrought
 - Boroughbell
