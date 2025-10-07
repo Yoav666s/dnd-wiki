@@ -14,4 +14,5 @@ excerpt: "All you need to know about Morgenfell!"
 {% for subclass in subclasses %}
   ## {{ subclass.title }}
   {% include page_content.html index = subclass.index[0] %}
+  
 {% endfor %}
