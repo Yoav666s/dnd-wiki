@@ -4,9 +4,9 @@
   {% else %}
     {% assign source = "Untold Legends of Nornfeld" %}
   {% endif %}
-  {% assign index = page.source | remove: "'" | slugify %
+  {% assign index = source | remove: "'" | slugify %
   {% assign expansion = site.expansions | where: "index", index | first %}
-  <div class="notice{% if source == "Survivor's Guide to Morgenfell" %}--danger{% elsif source = "Untold Legends of Nornfeld" %}--info{% elsif page.source != "Basic Rules" %}--success{% endif %}">
+  <div class="notice{% if source == "Survivor's Guide to Morgenfell" %}--danger{% elsif source = "Untold Legends of Nornfeld" %}--info{% elsif source != "Basic Rules" %}--success{% endif %}">
     <i><a href="{% if expansion %}{{ expansion.url | relative_url }}{% endif %}" class="btn">{{ page.source }}</a></i>
   </div>
 {% endif %}
