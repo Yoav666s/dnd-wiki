@@ -13,8 +13,8 @@ excerpt: "All you need to know about Morgenfell!"
 {% assign subclasses = site.classes | where: "source", page.title %}
 {% for subclass in subclasses %}
 
-  ## {{ subclass.title }}
+  <h2>{{ subclass.title }}</h2>
 
   {% include page_content.html page=subclass %}
-  
+
 {% endfor %}
