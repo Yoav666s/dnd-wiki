@@ -36,3 +36,4 @@ With magic being illegal under the authority of the Arcane Dictum, the people of
     <h3 id="{{ subclass.title | slugify }}">{{ subclass.title }}</h3>
     {% include page_content.html page=subclass %}
   {% endfor %}
+{% endfor %}
