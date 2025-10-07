@@ -4,4 +4,4 @@
   {% assign collection = site.expansions %}
 {% endif %}
 {% assign page = collection | where: "index", include.index | first %}
-{{ page.contents | replace: "# ", "### " }}
+{{ page.content | replace: "# ", "### " }}
