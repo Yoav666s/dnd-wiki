@@ -16,6 +16,8 @@ main:
     url: /races/
   - title: "Spells"
     url: /spells/
+  - title: "Expansions"
+    url: /expansions/
   - title: "Rules"
     url: /rules/
   - title: "ACE"
@@ -93,7 +95,7 @@ lore:
         url: /lore/morgenfell/wedland/
   - title: "Sommertooth Island"
     url: /lore/sommertooth-island/
-     
+
 monsters:
   - title: "Monsters"
     url: /monsters/

@@ -359,6 +359,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  expansions:
+    output: true
+    permalink: /:collection/:path/
+
   tooltips:
     output: false
 
@@ -517,3 +521,20 @@ defaults:
         overlay_image: /assets/images/items/header.png
         overlay_filter: 0.375
       classes: wide
+
+  # _expansions
+  - scope:
+      path: ""
+      type: expansions
+    values:
+      layout: single
+      sidebar:
+        nav:
+          - expansions
+      header:
+        overlay_image: /assets/images/expansions/header.png
+        overlay_filter: 0.375
+      toc: true
+      toc_label: "Contents"
+      toc_sticky: true
+      wip: false
