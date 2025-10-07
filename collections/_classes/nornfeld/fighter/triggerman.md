@@ -31,3 +31,5 @@ Starting at 15th level, when you have advantage on a ranged attack with a firear
 
 # Hip Fire
 Starting at 18th level, once per turn when you make a ranged attack with a firearm, you can immediately make an extra ranged attack with the same weapon at disadvantage.
+
+[: classes/fighter/triggerman :]
