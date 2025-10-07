@@ -15,8 +15,6 @@ Deadly calm under pressure, Triggermen are specialists who treat the battlefield
 # Firearms Specialist
 Beginning at 3rd level, you have proficiency with firearms, you ignore the Loading property of firearms, and being within 5 feet of a hostile creature doesn't impose disadvantage on ranged attack rolls with a firearm.
 
-Additionally, you treat firearms as finesse weapons when making a melee attack with a firearm as an improvised weapon, and you can add your proficiency bonus to the attack roll.
-
 # Ready for Action
 Also starting at 3rd level, you have advantage on initiative rolls.
 
