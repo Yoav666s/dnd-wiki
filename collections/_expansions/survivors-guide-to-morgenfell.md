@@ -32,13 +32,4 @@ Morgenfell is divided into three kingdoms: Auberfield, Keltain, and Wedland. The
 # Chapter ?: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
 
-{% assign all_subclasses = site.classes | where: "source", page.title | sort: "subclass" %}
-{% assign classes = all_subclasses | map: "subclass" | uniq %}
-{% for class in classes %}
-  <h2 id="{{ class | slugify }}">{{ class | capitalize }}</h2>
-  {% assign subclasses = all_subclasses | where: "subclass", class %}
-  {% for subclass in subclasses %}
-    <h3 id="{{ subclass.title | slugify }}">{{ subclass.title }}</h3>
-    {% include page_content.html page=subclass %}
-  {% endfor %}
-{% endfor %}
+{% include expansion_subclasses.html %}
