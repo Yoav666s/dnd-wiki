@@ -1,7 +1,1 @@
-{% if include.collection %}
-  {% assign collection = site[include.collection] %}
-{% else %}
-  {% assign collection = site.expansions %}
-{% endif %}
-{% assign page = collection | where: "index", include.index | first %}
-{{ page.content | replace: "# ", "### " }}
+{{ include.page.content }}
