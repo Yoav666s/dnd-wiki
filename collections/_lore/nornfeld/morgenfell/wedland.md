@@ -18,5 +18,5 @@ The capital of Wedland.
 - Hillspitch
 - Dimspeak
 - Toroughburg
-- Fallensteed
+- Fallenstead
 - Sullengrave
