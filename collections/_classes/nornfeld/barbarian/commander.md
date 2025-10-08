@@ -1,7 +1,8 @@
 ---
-title: "Commander"
+title: "Path of the Commander"
 index:
   - commander
+  - path-of-the-commander
 permalink: /classes/barbarian/commander/
 excerpt: "Commanders are fierce and courageous barbarians that support their team in battle through words of inspiration and command."
 subclass: barbarian
