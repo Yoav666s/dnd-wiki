@@ -1,7 +1,7 @@
 ---
 title: "Commander"
 index:
-  - commander 
+  - commander
 permalink: /classes/barbarian/commander/
 excerpt: "Commanders are fierce and courageous barbarians that support their team in battle through words of inspiration and command."
 subclass: barbarian
@@ -19,7 +19,7 @@ You can use this feature a number of times equal to your Charisma modifier, and 
 
 Your Inspiring Command die changes when you reach certain levels in this class. The die becomes a d8 at 6th level, a d10 at 10th level, and a d12 at 14th level.
 
-# Headstrong Approach 
+# Headstrong Approach
 Starting at 3rd level, you add your Charisma modifier to your initiative rolls.
 
 # Word of Command
@@ -28,5 +28,7 @@ Starting at 6th level, once per turn when you take the attack action, you can ex
 # Valiant Redirection
 Starting at 10th level, when a creature targets one of your allies with a melee attack, you can expend one Inspiring Command die and use your reaction to redirect that attack to you, given that you are within reach of that creature. Roll the Inspiring Command die and subtract the number rolled from the attack roll.
 
-# Supreme Commander
+# Supreme Leader
 Starting at 14th level, when you roll for initiative and have no uses of Inspiring Command left, you regain one use.
+
+[:classes/barbarian/commander:]
