@@ -1,3 +1,17 @@
+---
+title: "Commander"
+index:
+  - commander 
+permalink: /classes/barbarian/commander/
+excerpt: "Medics are professional physicians that show there's no need to rely on magic in order to heal the injured."
+subclass: barbarian
+header:
+  overlay_image: /assets/images/classes/barbarian/commander/header.png
+  teaser: /assets/images/classes/barbarian/commander/header.jpg
+source: "Survivor's Guide to Morgenfell"
+---
+Commanders are great.
+
 # Inspiring Command
 Starting at 3rd level, you can inspire your allies through stirring words. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Inspiring Command die, a d6. Once within the next minute, that ally can roll the die and add the number rolled to an attack or damage roll. In the case of an attack roll, this can be done after the d20 is rolled but before the DM says whether the attack hits or misses.
 
