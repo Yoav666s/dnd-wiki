@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/classes/barbarian/commander/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
-Commanders are fierce and courageous barbarians that support their team in battle through words of inspiration and command.
+Commanders are fierce and courageous barbarians that support their team in battle through words of inspiration and command. They enhance and shape combat to fit their vision and make tactical and strategic decisions in real time.
 
 # Inspiring Command
 Starting at 3rd level, you can inspire your allies through stirring words. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Inspiring Command die, a d6. Once within the next minute, that ally can roll the die and add the number rolled to an attack or damage roll. In the case of an attack roll, this can be done after the d20 is rolled but before the DM says whether the attack hits or misses.
