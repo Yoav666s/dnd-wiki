@@ -29,6 +29,9 @@ The Three Kingdoms are currently in peaceful, prosperous times. They thrive on t
 
 For generations and generations, the citizens of Morgenfell have been indoctrinated from youth to despise magic. It's a source of endless trouble and terrible, untimely deaths.
 
+# The Decree of False Deities
+> By order of the sovereign rulers of the Three Kingdoms, and under the authority of the Decree of False Deities, the worshipping 
+
 # The Great Massacre
 Since the great massacre, the counting of years in Morgenfell is marked with A.GM (after the great massacre).
 
