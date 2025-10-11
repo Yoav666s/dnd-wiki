@@ -62,6 +62,8 @@ In a village where eldritch horrors could show up at any time, a gun is man's be
 ### The Industrial Revolution
 Top hats, walking canes, and elegant suits. Factories and railroads, advanced sewer systems, and everything modern (relatively, at least). Wedland is the prime living and breathing example of the industrial revolution. It would be a shame to ruin such a beautiful thing, when shapeshifting devils could slowly and insidiously take control of it.
 
+## Dwarven Technology
+The the industrial advancements of Morgenfell are based on ancient dawrven technology. 
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
