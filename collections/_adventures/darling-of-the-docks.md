@@ -10,11 +10,11 @@ header:
   teaser: /assets/images/adventures/ivonne-laurent/header.jpg
 ---
 
-# Introduction 
+# Introduction
 This adventure is intended for one player and one DM, and it can start dynamically when a player arrives at [[lore:Gullenshire@hoverncast]], a small port city in [[lore:Hoverncast]]. In a campaign with more than one PC, one can be singled out by Moreau.
 
 ## Running the Adventure
-Darling of the Docks is a short adventure intended for one character of 5th level. The goal of this adventure is to introduce the player to a syndicate called [[the Network]], the headquarters of which are located in Gullenshire. Gullenshire is the smallest and most prosperous port city of Hoverncast, the west coast of [[Durn]]. You can run the adventure during downtime, where one player could separate from a party without much consequence.
+Darling of the Docks is a short adventure intended for one character of 5th level. The goal of this adventure is to introduce the player to a syndicate called [[the Harborside Conspiracy]], the headquarters of which are located in Gullenshire. Gullenshire is the smallest and most prosperous port city of Hoverncast, the west coast of [[Durn]]. You can run the adventure during downtime, where one player could separate from a party without much consequence.
 
 The player or party don't have to know that the adventure has started in order to participate in it. It is recommended to dynamically introduce characters and it's okay to go off-script. Let the player lead the adventure and lean on key-events when they feel stuck or struggle with figuring out what to do.
 
@@ -24,11 +24,11 @@ If there is more than one player, the characters in this adventure will focus on
 
 The adventure begins when they player or the party arrives in the city of Gullenshire. They are free to explore the city. When asking around or looking for a tavern, they will find [[the Thirsty Deckhand]]. When they finally arrives at the Thirsty Deckhand, a successful DC 14 Wisdom (Perception) check will reveal a strange mark carved at the entrance. The player may attempt an Intelligence (Arcana or History) check, but they won't find out anything, but a roll of 20 or higher will reveal that it's a part of some code system.
 
-> As you enter the tavern, you're struck with the poignant smell of yeast. A group of sailors are singing and waving their tankards, spilling ale and causing a racket. Some of the more noble patrons scrunch up their nose at the noise they're making, muttering in discontent. The hostess approaches you with a smile, a young dwarf with red hair and a lot of freckles on her face. "Welcome to the Thirsty Deckhand! A table for how many?" 
+> As you enter the tavern, you're struck with the poignant smell of yeast. A group of sailors are singing and waving their tankards, spilling ale and causing a racket. Some of the more noble patrons scrunch up their nose at the noise they're making, muttering in discontent. The hostess approaches you with a smile, a young dwarf with red hair and a lot of freckles on her face. "Welcome to the Thirsty Deckhand! A table for how many?"
 
 Upon entering, they will be told by the hostess that [[Madame Laurent@ivonne-laurent]], also known as *Darling of the Docks*, will be performing tonight. If the player is sitting alone, they will be approached by [[Dalngram Ungart]], which will then start a casual conversation with the player. If they're in a party, he will instead approach the party and inquire about them, as he hadn't seen them before in this tavern. Either way, he will warn the player or the party that he's Madame Laurent's bodyguard so they "better not bother the lass."
 
-After a short while, if they player stays in the tavern, Madame Laurent will begin her performance on the stage. 
+After a short while, if they player stays in the tavern, Madame Laurent will begin her performance on the stage.
 
 > Madame Laurent is a beautiful drow elf with wavy white hair, wearing a revealing white and gold dress that compliments her purple skin. She sings and dances seductively, getting off the stage and sauntering slowly through the crowd. She locks eyes with you for an extended period of time, continuing her routine without breaking eye contact.
 
@@ -87,7 +87,7 @@ Moreau will then tell the player that the Thirsty Deckhand is practically the po
 After he finishes his ale, Moreau will ask the player to go for a stroll to the docks. He will fill in the blanks regarding the information the player had gathered, theorizing that someone is trying to hurt the reputation of the Thirsty Deckhand. He will tell the player that they need to find [[Timothy Butler]], captain of the Rising Tide, and interrogate him.
 
 ## Dockside Interrogation
-Finding Butler won't be a difficult task, as he will be sitting alone on a chair outside his ship with a bottle of rum, singing to himself. Depending on how the player will go about the interrogation, ask them to roll a Charisma (Intimidation or Persuasion) check. The player might try to bribe Butler instead, this will also work. They will find out the following, depending on how they roll: 
+Finding Butler won't be a difficult task, as he will be sitting alone on a chair outside his ship with a bottle of rum, singing to himself. Depending on how the player will go about the interrogation, ask them to roll a Charisma (Intimidation or Persuasion) check. The player might try to bribe Butler instead, this will also work. They will find out the following, depending on how they roll:
 
 | Total | Bribe | Revealed Information |
 | :---: | :---: | :------------------- |
@@ -100,7 +100,7 @@ If the player rolls lower than 18 or offers less than 2 gold pieces and feels st
 # Part 3: Unexpected Patronage
 Moreau will not be in Grunge's Bucketfuls if the player goes looking for him. Whether the player will go looking for Moreau or Laurent, they will both be at the same place: in her changing room. When the player reveals what they learned from Butler, Moreau will look at Laurent in disbelief, to which she'll reply, "What are you looking at me for? It wasn't me!" A Wisdom (Insight) check of 10 or higher will reveal that she's telling the truth. Moreau will believe her as well.
 
-Moreau will use this opportunity to tell the player about the Network (More info in [[Appendix A@the-network]]). If the player wants to join this organization, this will be the final test. Learn more about this third drow elf, find out what she wants and who she works for.
+Moreau will use this opportunity to tell the player about the Harborside Conspiracy (More info in [[Appendix A@the-harborside-conspiracy]]). If the player wants to join this organization, this will be the final test. Learn more about this third drow elf, find out what she wants and who she works for.
 
 Upon investigating, the player will learn that nobody seems to have seen a third drow elf in the city. There are only two drow elves in Gullenshire, Moreau and Madame Laurent. When the player decides to wander around a tavern listening to conversations or asking around, let the player to roll another Intelligence (Investigation) check:
 
@@ -112,7 +112,7 @@ Upon investigating, the player will learn that nobody seems to have seen a third
 | 15-19 | One time, she was spotted by someone in the docks while her performance in the Thirsty Deckhand was still ongoing. She must have a double or a twin. |
 | 20+   | While cloaked, someone saw her change her appearance to a human. |
 
-Should the player present Laurent and Moreau with this information, she will deny ever going to the outskirts or the docks. She'll claim that she spends most of her time in her quarters or in the Thirsty Deckhand. She will deny having a double or a twin (Moreau will back her up, saying that she's an only child), and if asked about changing her appearance to a human, she will deny having the ability to do so. A successful DC 10 Wisdom (Insight) check will reveal that she's being truthful. 
+Should the player present Laurent and Moreau with this information, she will deny ever going to the outskirts or the docks. She'll claim that she spends most of her time in her quarters or in the Thirsty Deckhand. She will deny having a double or a twin (Moreau will back her up, saying that she's an only child), and if asked about changing her appearance to a human, she will deny having the ability to do so. A successful DC 10 Wisdom (Insight) check will reveal that she's being truthful.
 
 ## Looking for the Lookalike
 Moreau will tell the player to go to the outskirts and wait for her lookalike to show up. If the player would hang around in the outskirts in the evening, they will spot the lookalike. She has a passive perception of 15, which the player will need to beat with a Dexterity (Stealth) check if they plan to remain unseen by her. If she sees the player, she will recognize them and start making a run for it.
@@ -124,33 +124,33 @@ Roll initiative. The player initially will be 75 feet away from her. The lookali
 ## Confronting the Counterfeiter
 Regardless of what happens, Moreau will come out of the shadows having seen the lookalike transform back, saying, "Well, well, well. Aulette Huddleborne". She will have nowhere to run. Roll initiative. She will attempt to cast [[Dominate Person]] on Moreau (you may decide that he automatically fails his saving throw) and will tell him to kill the player, then [[Dimension Door]] away on her next turn.
 
-If Moreau is still under the effect of [[Dominate Person]] when Aulette gets away, he will keep attacking the player until he succeeds a saving throw or the player falls unconscious. If the player falls unconscious, Moreau will stabilize them after the spell ends and they will wake up in Laurent's changing room. Regardless, Moreau will apologize for attacking the player. He will say that "she could be anywhere." But now they know who's responsible for the brawl in the tavern. He'll say that he will pass on that information, and she will be taken care of. She works in the Hungry Kraken and the Network can get her kicked out. She won't stay in the city for long.
+If Moreau is still under the effect of [[Dominate Person]] when Aulette gets away, he will keep attacking the player until he succeeds a saving throw or the player falls unconscious. If the player falls unconscious, Moreau will stabilize them after the spell ends and they will wake up in Laurent's changing room. Regardless, Moreau will apologize for attacking the player. He will say that "she could be anywhere." But now they know who's responsible for the brawl in the tavern. He'll say that he will pass on that information, and she will be taken care of. She works in the Hungry Kraken and the Harborside Conspiracy can get her kicked out. She won't stay in the city for long.
 
-He'll thank the player for their help and hand them a pouch of 25 platinum pieces, and promise that he'll say a good word about them to the Network (allowing the player to participate in upcoming adventures, including one where Aulette makes a comeback!).
+He'll thank the player for their help and hand them a pouch of 25 platinum pieces, and promise that he'll say a good word about them to the Harborside Conspiracy (allowing the player to participate in upcoming adventures, including one where Aulette makes a comeback!).
 
 # Appendix A
 
-## The Network
-The Network is a syndicate based in Gullenshire. It is composed of operatives that gather information undercover and work to gain political leverage within the city. They don't get caught because they rarely do anything illegal, and when they do, they rely on their best operatives to do the job.
+## The Harborside Conspiracy
+the Harborside Conspiracy is a syndicate based in Gullenshire. It is composed of operatives that gather information undercover and work to gain political leverage within the city. They don't get caught because they rarely do anything illegal, and when they do, they rely on their best operatives to do the job.
 
-They exchange information for coin, use information to blackmail powerful individuals, and obtain information through every means you could imagine. They communicate in code, and most operatives don't know each other. The Network has eyes and ears everywhere, and they even use magic to spy on activity in certain places.
+They exchange information for coin, use information to blackmail powerful individuals, and obtain information through every means you could imagine. They communicate in code, and most operatives don't know each other. the Harborside Conspiracy has eyes and ears everywhere, and they even use magic to spy on activity in certain places.
 
-The Network has begun to cover more area, sending operatives to different cities in Hoverncast. The problem is that that as it expands, its operatives are spread thin. At the moment, they are looking to recruit, and every single operative is extremely valuable.
+the Harborside Conspiracy has begun to cover more area, sending operatives to different cities in Hoverncast. The problem is that that as it expands, its operatives are spread thin. At the moment, they are looking to recruit, and every single operative is extremely valuable.
 
 ## The Thirsty Deckhand
 The Thirsty Deckhand is the most luxurious tavern in Gullenshire. Upon asking for a tavern, the player will be told that they *have* to visit it at least once.
 
-This establishment has indirect ties to the Network, since Laurent works there as a performer and a courtesan. She brings in a lot of intel from nobles and the likes and the Network works to protect the Thirsty Deckhand's reputation and traffic in order to maintain that.
+This establishment has indirect ties to the Harborside Conspiracy, since Laurent works there as a performer and a courtesan. She brings in a lot of intel from nobles and the likes and the Harborside Conspiracy works to protect the Thirsty Deckhand's reputation and traffic in order to maintain that.
 
 ## Grunge's Bucketfuls
 Grunge's Bucketfuls is a cheap-looking but popular tavern amongst sailors. The prices are good and the ale is served in (clean) buckets along with enough tankards for everyone at the table. The ale isn't particularly savory but it does the job. The tavern is owned and run by [[Earnest Grunge]], or simply Earny.
 
-This establishment is not a part of the Network, but it is home to many rumors, so it's valuable to them. Operatives generally spend their time there listening in to the word around the street, and maybe even influencing it a little.
+This establishment is not a part of the Harborside Conspiracy, but it is home to many rumors, so it's valuable to them. Operatives generally spend their time there listening in to the word around the street, and maybe even influencing it a little.
 
 # Appendix B
 
 ## Dalngram Ungart
-[[monsters:Dalngram Ungart]] is a dwarf in charge of protecting [[Ivonne Laurent]]. He is not aware of the fact that he's working for [[the Network]], and they'd like to keep it that way.
+[[monsters:Dalngram Ungart]] is a dwarf in charge of protecting [[Ivonne Laurent]]. He is not aware of the fact that he's working for [[the Harborside Conspiracy]], and they'd like to keep it that way.
 
 [:monsters/dalngram-ungart:]
 
@@ -161,14 +161,14 @@ Ivonne Laurent is a popular drow performer in the Thirsty Deckhand. She is exoti
 
 She has a very close relationship with Moreau, but the nature of it is undefined and complex. Both of them being drow elves, it is assumed that they originate from [[lore:Urk'mor]], but how and why they arrived in Hoverncast, or if they even arrived together, is unknown to anyone. The truth is that they were childhood friends, but they each arrived under different circumstances.
 
-Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where she was sold to be an escort girl. Moreau found her by chance, and by then he had risen to power in [[the Network]], and he used his leverage to free her from her abusers. She kept working independently under Moreau's protection and eventually climbed the ladder and established herself as a respected courtesan and performer.
+Ivonne was kidnapped and trafficked to Gullenshire when she was a child, where she was sold to be an escort girl. Moreau found her by chance, and by then he had risen to power in [[the Harborside Conspiracy]], and he used his leverage to free her from her abusers. She kept working independently under Moreau's protection and eventually climbed the ladder and established herself as a respected courtesan and performer.
 
 ## Louis Jean Moreau
-[[monsters:Louis Jean Moreau]] is a drow elf, and the right hand of a crime syndicate called [[the Network]]. He is shrewed as he is handsome, and he is rightfully feared by all who know his name.
+[[monsters:Louis Jean Moreau]] is a drow elf, and the right hand of a crime syndicate called [[the Harborside Conspiracy]]. He is shrewed as he is handsome, and he is rightfully feared by all who know his name.
 
 [:adventures/louis-jean-moreau:]
 
-He used to be a member of the [[lore:Eyes of Dusk@urkmor]], but he decided to leave, feeling as if they couldn't see his true potential. He left [[lore:Urk'mor]] for Hoverncast, establishing his reputation in Gullenshire. An abled and ruthless Shadow Monk, he was quickly recognized and recruited by [[the Network]]. He made his way to the top, almost, now the second hand of its mysterious leader.
+He used to be a member of the [[lore:Eyes of Dusk@urkmor]], but he decided to leave, feeling as if they couldn't see his true potential. He left [[lore:Urk'mor]] for Hoverncast, establishing his reputation in Gullenshire. An abled and ruthless Shadow Monk, he was quickly recognized and recruited by [[the Harborside Conspiracy]]. He made his way to the top, almost, now the second hand of its mysterious leader.
 
 He found [[Ivonne Laurent]] by chance, working as an escort lady. She was a dear childhood friend of his, until one day she went missing. He couldn't leave her at such a position, so he used his leverage to protect her from her employer. She decided to keep working as an escort, but under Moreau's protection she made a career out of it, becoming a respected courtesan, performing and dancing for a lot of coin. Moreau doesn't like to see her perform, and he'd never paid for her services. She works for him as an operative, gathering sensitive information from her clients. They still see each other from time to time as friends, as well. He'd fallen for her long ago, but due to her occupation he can't allow anything to happen between them, even if she'd be willing (which he's not sure she would be).
 
