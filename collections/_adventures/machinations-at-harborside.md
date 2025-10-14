@@ -11,7 +11,13 @@ wip: true
 ---
 
 # Introduction
-This adventure is intended for one player and one DM, and it can start dynamically after a player is introduced to the Harborside Conspiracy. In a campaign with more than one PC, one can separate from the party and complete the adventure during downtime.
+This adventure is intended for one player and one DM, and it can start dynamically after a player is introduced to [[the Harborside Conspiracy]]. In a campaign with more than one PC, one can separate from the party and complete the adventure during downtime.
 
 ## Running the Adventure
-Machinations at Harborside is a short adventure intended for one character of 5th level. 
+Machinations at Harborside is a short adventure intended for one character of 5th level.
+
+# Appendix A
+
+## The Harborside Conspiracy
+{% assign hc = site.lore | where: "index", "harborside-conspiracy" | first %}
+{% include page_content.html page=hc %}
