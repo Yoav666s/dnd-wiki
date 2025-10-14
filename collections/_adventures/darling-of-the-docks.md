@@ -131,11 +131,8 @@ He'll thank the player for their help and hand them a pouch of 25 platinum piece
 # Appendix A
 
 ## The Harborside Conspiracy
-the Harborside Conspiracy is a syndicate based in Gullenshire. It is composed of operatives that gather information undercover and work to gain political leverage within the city. They don't get caught because they rarely do anything illegal, and when they do, they rely on their best operatives to do the job.
-
-They exchange information for coin, use information to blackmail powerful individuals, and obtain information through every means you could imagine. They communicate in code, and most operatives don't know each other. the Harborside Conspiracy has eyes and ears everywhere, and they even use magic to spy on activity in certain places.
-
-the Harborside Conspiracy has begun to cover more area, sending operatives to different cities in Hoverncast. The problem is that that as it expands, its operatives are spread thin. At the moment, they are looking to recruit, and every single operative is extremely valuable.
+{% assign hc = site.lore | where: "index", "harborside-conspiracy" | first %}
+{% include page_content.html page=hc %}
 
 ## The Thirsty Deckhand
 The Thirsty Deckhand is the most luxurious tavern in Gullenshire. Upon asking for a tavern, the player will be told that they *have* to visit it at least once.
