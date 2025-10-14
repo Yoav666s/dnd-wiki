@@ -21,7 +21,6 @@ The player or party don't have to know that the adventure has started in order t
 If there is more than one player, the characters in this adventure will focus on one of them, as if sensing great potential in them. This can serve as a personal arc for one character within the party while the rest of the players do whatever they want in the meantime, separately.
 
 # Part 1: Enjoy the Show
-
 The adventure begins when they player or the party arrives in the city of Gullenshire. They are free to explore the city. When asking around or looking for a tavern, they will find [[the Thirsty Deckhand]]. When they finally arrives at the Thirsty Deckhand, a successful DC 14 Wisdom (Perception) check will reveal a strange mark carved at the entrance. The player may attempt an Intelligence (Arcana or History) check, but they won't find out anything, but a roll of 20 or higher will reveal that it's a part of some code system.
 
 > As you enter the tavern, you're struck with the poignant smell of yeast. A group of sailors are singing and waving their tankards, spilling ale and causing a racket. Some of the more noble patrons scrunch up their nose at the noise they're making, muttering in discontent. The hostess approaches you with a smile, a young dwarf with red hair and a lot of freckles on her face. "Welcome to the Thirsty Deckhand! A table for how many?"
