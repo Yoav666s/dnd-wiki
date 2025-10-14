@@ -21,9 +21,9 @@ The adventure begins when a player enters a tavern in Gullenshire. When their dr
 
 > Your presence is requested at harborside tonight after dusk. Please arrive unarmed and make sure you are not accompanied by anyone. A boat will await you at the last platform. Bring this note with you.
 
-If the player doesn't realize this note is from the Harborside Conspiracy, ask them to make a DC 10 Intelligence check. On success, they will deduct this from the phrasing of "Your presence is required at *harborside*." As the player makes their way to the docks, ask them to make a Wisdom (Perception) check to make sure they're not being followed.
+If the player doesn't realize this note is from the Harborside Conspiracy, ask them to make a DC 10 Intelligence check. On success, they will deduct this from the phrasing. As the player makes their way to the docks, ask them to make a Wisdom (Perception) check to make sure they're not being followed.
 
-> No one seems to follow you as you make your way to the docks, maintaining a casual manner. As it's starting to get dark, the sunset slowly fades away and the stars begin to appear in the sky. The docks are lit by lanterns along the way and the wood creaks under your step as you reach the last platform, where a small boat is indeed waiting for you. In the boat you see a small individual whose face you can't make out from this distance.
+> No one seems to follow you as you make your way to the docks, maintaining a casual manner. As it's starting to get dark, the sunset slowly fades away and the stars begin to appear in the sky. The docks are lit by lanterns along the way and the wood creaks under your step as you reach the last platform, where a small boat is indeed waiting for you. In the boat you see a small individual whose face you can't make out from this distance. There's room for exactly one more person on the boat.
 
 # Appendix A
 
