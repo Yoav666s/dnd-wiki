@@ -27,7 +27,9 @@ If the player doesn't realize this note is from the Harborside Conspiracy, ask t
 
 When the player approaches the boat, they will be greeted by a halfling. He will be wearing fisherman's clothes and there will be fishing equipment on the boat. He will say, "It's a bit late for wandering around the harbor, isn't it?" If the player will reply with their secret phrase, the halfling will say, "Then join me, friend. You can call me Renus."
 
-> You step onto the boat and sit down in front of Renus. He unties the knot connecting the boat to the dock and starts rowing. You both sit in silence as he takes you far from the harbor, away from peering eyes and ears. As you sail into the night, the moonlight flickers in the gentle waves of the ocean that rock the boat from side to side.
+> You step onto the boat and sit down in front of Renus. He unties the knot connecting the boat to the dock and starts rowing. You both sit in silence as he takes you far from the harbor, and away from peering eyes and ears. As you sail into the night, the moonlight flickers in the gentle waves of the ocean that rock the boat from side to side, and in the middle of nowhere, the rowing comes to a stop.
+>
+> "Well now," he says, ""
 
 # Appendix A
 
