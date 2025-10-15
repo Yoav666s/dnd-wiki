@@ -52,4 +52,4 @@ In addition, once you attune to this tome:
 - Other people seem to look at you strangely, eying you carefully and suspiciously, with glances of disdain.
 
 
-[:items/tome-of-delirium:]
+[:items/tome-of-fey-secrets:]
