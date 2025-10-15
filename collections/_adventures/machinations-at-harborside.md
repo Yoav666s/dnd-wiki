@@ -19,13 +19,15 @@ Machinations at Harborside is a short adventure intended for one character of 5t
 # Part 1: A Nightly Cruise
 The adventure begins when a player enters a tavern in Gullenshire. When their drink arrives, a folded note will be stuck under the bottom of the glass. If the player doesn't order a drink, they will get an ale on the house. The note reads:
 
-> Your presence is requested at harborside tonight after dusk. Please arrive unarmed and make sure you are not accompanied by anyone. A boat will await you at the last platform. Your phrase is, "I like to go fishing by moonlight." Burn this note after reading.
+> Your presence is requested at harborside tonight after dusk. Please arrive unarmed and make sure you are not accompanied by anyone, a boat will await you at the last platform. Your phrase is, "I like to go fishing by the moonlight." Burn this note after reading.
 
 If the player doesn't realize this note is from the Harborside Conspiracy, ask them to make a DC 10 Intelligence check. On success, they will deduct this from the phrasing. As the player makes their way to the docks, ask them to make a Wisdom (Perception) check to make sure they're not being followed.
 
 > No one seems to follow you as you make your way to the docks, maintaining a casual manner. As it's starting to get dark, the sunset slowly fades away and the stars begin to appear in the sky. The docks are lit by lanterns along the way and the wood creaks under your step as you reach the last platform, where a small boat is indeed waiting for you. In the boat you see a small individual whose face you can't make out from this distance. There's room for exactly one more person on the boat.
 
-When the player approaches the boat, they will be greeted by a halfling named Renus. He will be wearing fisherman's clothes and there will be fishing equipment on the boat. He will say, "It's a bit late for wandering around the harbor, isn't it?" If the player will reply with their secret phrase, Renus will say, "Then join me, friend."
+When the player approaches the boat, they will be greeted by a halfling. He will be wearing fisherman's clothes and there will be fishing equipment on the boat. He will say, "It's a bit late for wandering around the harbor, isn't it?" If the player will reply with their secret phrase, the halfling will say, "Then join me, friend. You can call me Renus."
+
+> You step onto the boat and sit down in front of Renus. He unties the knot connecting the boat to the dock and starts rowing. You both sit in silence as he takes you far from the harbor, away from peering eyes and ears. As you sail into the night, the moonlight flickers in the gentle waves of the ocean that rock the boat from side to side.
 
 # Appendix A
 
