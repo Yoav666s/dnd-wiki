@@ -49,7 +49,7 @@ In addition, once you attune to this tome:
 
 - You start hearing voices originating from the tome, whispers telling you strange things, warning you of dangers that aren't there, turning you against your allies, telling you that you're meant for great things.
 - You start seeing hallucinations, monsters at your peripheral vision, people that disappear at a blink of an eye, insects that turn out to be smudges on the wall.
-- Other people start looking at you strangely, eying you carefully and suspiciously, with glances of disdain.
+- Other people seem to look at you strangely, eying you carefully and suspiciously, with glances of disdain.
 
 
 [:items/tome-of-delirium:]
