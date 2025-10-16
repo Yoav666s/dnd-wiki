@@ -14,7 +14,7 @@ wip: true
 This adventure can take place in any village or settlement, and at the end of this adventure the party will gain access to the [[Tome of Fey Secrets]], a cursed book full of forbidden spells that slowly drives its owner insane.
 
 ## Running the Adventure
-Signs of Madness is a short adventure intended for a party of 3-5 players of 3rd to 5th level.
+Signs of Madness is a short adventure intended for a party of 3-5 players of 3rd to 5th level. This adventure assumes the PCs are passing through the village of Mittenville in Thortmere, but it can take place in any village or settlement.
 
 # Appendix B
 
