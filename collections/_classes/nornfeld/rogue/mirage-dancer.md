@@ -20,15 +20,15 @@ Starting at 3rd level, you can use your bonus action to expend 1 Mirage Point an
 If you're at the same position as your illusion when this effect ends, you can assume the same pose of your illusion to appear like you've been there all along. Otherwise, it would seem like you've teleported to your current position.
 
 # Illusory Double
-Also starting at 3rd level, you learn the [[Minor Illusion]] cantrip if you don't already know it, and you can cast it as a bonus action. When you cast it to create an image, you can expend 1 Mirage Point to create a full-size image of yourself. If you do so, for the duration you can use your bonus action to move the illusion to an unoccupied space within range and animate it to match its movement.
+Also starting at 3rd level, you learn the [[Minor Illusion]] cantrip if you don't already know it, and you can cast it as a bonus action. Charisma is your spellcasting ability for it. When you cast it to create an image, you can expend 1 Mirage Point to create a full-size image of yourself. If you do so, for the duration you can use your bonus action to move the illusion to an unoccupied space within range and animate it to match its movement.
 
 # Trick of the Light
-Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a long rest or expend 2 Mirage Points. For the duration, you can cast [[Minor Illusion]] without ending the effect.
+Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a long rest or expend 2 Mirage Points. Charisma is your spellcasting ability for this spell. For the duration, you can cast [[Minor Illusion]] without ending the effect.
 
 # Greater Misdirection
-Starting at 13th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a long rest or expend 5 Mirage Points.
+Starting at 13th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a long rest or expend 5 Mirage Points. Charisma is your spellcasting ability for this spell.
 
 Additionally, when you create an Illusory Double with [[Minor Illusion]], for the duration when you use your bonus action to move it, you can also cause it to speak in your voice and carry on conversation.
 
-# Artful Riposte 
-Starting at 17th level, when a creature misses you with a melee attack, you can use your reaction to expend 1 Mirage Point and use your Mirage feature to make a melee attack against that creature.
+# Supreme Illusionist
+Starting at 17th level, when you roll for initiative and have no remaining Mirage Points, you regain a number of Mirage Points equal to your Charisma modifier.
