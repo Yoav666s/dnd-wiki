@@ -31,4 +31,4 @@ Starting at 13th level, you learn the [[Mislead]] spell and you can cast it with
 Additionally, when you create an Illusory Double with [[Minor Illusion]], for the duration when you use your bonus action to move it, you can also cause it to speak in your voice and carry on conversation.
 
 # Supreme Illusionist
-Starting at 17th level, when you roll for initiative and have no remaining Mirage Points, you regain a number of Mirage Points equal to your Charisma modifier.
+Starting at 17th level, when you roll for initiative and have no remaining Mirage Points, you regain a number of Mirage Points equal to your Charisma modifier (minimum of 1).
