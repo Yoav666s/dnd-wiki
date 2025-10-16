@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/classes/rogue/mirage-dancer/header.png
   teaser: /assets/images/classes/rogue/mirage-dancer/header.jpg
 ---
-Mirage Dancers are trained in subtle magic, using illusions to enhance their roguish abilities. They are masters of misdirection, beguiling both friend, foe, and everything in between.
+Mirage Dancers are trained in subtle magic, using illusions to enhance their roguish abilities. They are masters of misdirection, beguiling both friend, foe, and everything in between. The source of their magic is likely tied to the fey realm.
 
 # Mirage Points
 Beginning when you choose this archetype at 3rd level, you gain Mirage Points equal to your half your rogue level (rounded up). They are used to fuel your Mirage Dancer abilities, and you regain your expended Mirage Points when you finish a short rest.
