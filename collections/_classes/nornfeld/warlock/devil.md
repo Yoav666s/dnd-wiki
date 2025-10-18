@@ -1,3 +1,15 @@
+---
+title: "The Devil"
+index:
+  - devil
+  - the-devil
+permalink: /classes/warlock/devil/
+excerpt: "You have made a pact with a devil from the Nine Hells, a master of contracts and corruption who trades power for obedience."
+subclass: warlock
+# header:
+#   overlay_image: /assets/images/classes/warlock/devil/header.png
+#   teaser: /assets/images/classes/warlock/devil/header.jpg
+---
 You have made a pact with a devil from the Nine Hells, a master of contracts and corruption who trades power for obedience. Devils are patient and calculating, offering strength and arcane knowledge in exchange for loyalty and the slow erosion of mortal will.
 
 Warlocks bound to such patrons often bear subtle marks of their infernal bond—eyes that glint like embers, a voice that echoes with unnatural confidence, or the faint scent of brimstone that follows their steps. Their magic burns with disciplined fury, and their words carry the weight of temptation. Whether you seek to rise through infernal ranks or to outwit your patron and seize its power for yourself, your path is one of fire, deception, and ambition.
