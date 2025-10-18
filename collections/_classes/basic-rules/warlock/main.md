@@ -64,7 +64,7 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 | Patron                  | Source                     |
 | :---------------------- | :------------------------- |
 | [[!The Archfey]]            | Basic Rules                |
-| [[!The Forgotten]]      | Untold Legends of Nornfeld |
+| [[!The Devil]]              | Untold Legends of Nornfeld |
 
 ## Pact Magic
 Your arcane research and the magic bestowed on you by your patron have given you facility with spells.
