@@ -5,9 +5,9 @@ index:
 permalink: /adventures/signs-of-madness/
 excerpt: "This adventure can take place in any village or settlement, and at the end of this adventure the party will gain access to the Tome of Fey Secrets, a cursed book full of forbidden spells that slowly drives its owner insane."
 wip: true
-# header:
-#   overlay_image: /assets/images/adventures/ivonne-laurent/header.png
-#   teaser: /assets/images/adventures/ivonne-laurent/header.jpg
+header:
+  overlay_image: /assets/images/items/tome-of-fey-secrets/header.png
+  teaser: /assets/images/items/tome-of-fey-secrets/header.jpg
 ---
 
 # Introduction
