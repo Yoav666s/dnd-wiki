@@ -25,7 +25,7 @@ The Devil lets you choose from an expanded list of spells when you learn a warlo
 | 4th | [[!Greater Invisibility]], [[!Wall of Fire]] |
 | 5th | [[!Dominate Person]], [[!Mislead]] |
 
-# Shapechanger 
+# Shapechanger
 Starting at 1st level, you can use your action to polymorph into a beast form that resembles a rat, a raven, or a spider.
 
 The transformation lasts for 10 minutes, or until you drop to 0 hit points or die. You assume the hit points of your new form. When you revert to your normal form, you return to the number of hit points you had before the transformation. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form.
@@ -35,16 +35,16 @@ Your game statistics are replaced by the statistics of your new form, but you re
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 # Speak of the Devil
-Starting at 6th level, you can recite an infernal incantation and transform into a devil from the Nine Hells. The devil's type must be of a challenge rating equal to or lower than half your warlock level (rounded down), such as a bearded devil.
+Starting at 6th level, you can use your action to recite an infernal incantation and transform into a devil from the Nine Hells. The devil's type must be of a challenge rating equal to or lower than half your warlock level (rounded down), such as a bearded devil.
 
 The transformation lasts for 1 minute, or until you drop to 0 hit points or die. You assume the hit points of your new form. When you revert to your normal form, you return to the number of hit points you had before the transformation. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form.
 
 Your game statistics are replaced by the statistics of your new form, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. When you transform, you choose whether your equipment falls to the ground, merges into the new form, or is worn by it. Worn equipment functions as normal. You do not retain the benefit of any features from your class, race, or other source and cannot use them.
 
-Once you use this feature, you can't use it again until you finish a long rest. 
+Once you use this feature, you can't use it again until you finish a long rest.
 
-# Devilish Wings 
+# Devilish Wings
 Starting at 10th level, as a bonus action, you can cause devilish wings to sprout from your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a fly speed of 60 feet. Once you use this feature, you can't use it again until you finish a short or long rest.
 
-# Hellish Resistance 
-Starting at 14th level, you have resistance to cold and fire damage. Additionally, you have advantage on saving throws against spells and other magical effects. 
+# Hellish Resistance
+Starting at 14th level, you have resistance to cold and fire damage. Additionally, you have advantage on saving throws against spells and other magical effects.
