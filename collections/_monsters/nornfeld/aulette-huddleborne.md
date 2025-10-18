@@ -24,18 +24,17 @@ challenge_rating: 7
 xp: 2900
 proficiency_bonus: "+4"
 traits: |
-  **Spellcasting.** Aulette is a 10th level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). She has the following spells prepared:
-
-  - Cantrips (at will): subterfuge, mage hand, message, vicious mockery
-  - 1st Level (4 slots): charm person, healing word, disguise self, hideous laughter
-  - 2nd level (3 slots): invisibility, silence, suggestion
-  - 3rd level (3 slots): bestow curse, major image
-  - 4th level (3 slots): dimension door, polymorph
-  - 5th level (2 slots): dominate person, mislead, modify memory
-
   **Song of Rest.** The bard can perform a song while taking a short rest. Any ally who hears the song regains an extra ld6 hit points if it spends any Hit Dice to regain hit points at the end of that rest. The bard can confer this benefit on itself as well.
 actions: |
   **Shortsword.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.
+
+  **Spellcasting.** Aulette casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 16, +8 to hit with spell attacks):
+
+  At will: subterfuge, mage hand, message, vicious mockery
+
+  2/day each: disguise self, hideous laughter, suggestion, bestow curse, dimension door
+
+  1/day each: invisibility, major image, polymorph, dominate person, mislead
 excerpt: "Medium Human (Bard), Neutral"
 header:
   overlay_image: /assets/images/monsters/aulette-huddleborne/header.png
