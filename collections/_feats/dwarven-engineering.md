@@ -1,3 +1,10 @@
+---
+title: "Dwarven Engineering"
+index:
+  - dwarven-engineering
+permalink: /feats/dwarven-engineering/
+excerpt: "You're well studied in the development of dwarven technology."
+---
 *Perquisite: Dwarf*
 
 You're well studied in the development of dwarven technology. You gain the following benefits:
