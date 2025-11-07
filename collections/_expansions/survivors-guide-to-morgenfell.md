@@ -66,7 +66,7 @@ Top hats, walking canes, and elegant suits. Factories and railroads, advanced se
 The the industrial advancements of Morgenfell are based on technology developed by dawrven engineers. They've invented firearms which help defend citizens from the horrors of the forests, the steam engine which powers trains and carriages, and the telecommunicator which allows the transmission of coded messages.
 
 ### Firearms
-The invention of firearms was a revolutionary milestone in the history of Wedland, and one of the crucial steps leading to the implementation of the Arcane Dictum. Firearms are now commonplace in villages and cities, but owning and using them requires an official lisence.
+The invention of firearms was a revolutionary milestone in the history of Wedland, and one of the crucial steps leading to the implementation of the Arcane Dictum. Firearms are now commonplace in villages and cities, but owning and using them is regulated by the requirement of an official lisence.
 
 #### Firearm Lisence
 To get a lisence for owning and using a firearm, a citizen must file an official request to the department of safety, after which they'll be summoned for an interview to assess the necessity of such a lisence and suitability of the citizen to own a firearm. Soldiers and guards get a similar lisence at the end of their training. A firearm carrier must have a lisence on their person at all times in case of an inspection.
