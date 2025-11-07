@@ -78,7 +78,7 @@ Yet another revolutionary invention that allowed the Arcane Dictum to become a r
 All over Morgenfell, railroad systems have been installed to allow for faster travel between cities and kingdoms. The fee is sometimes costly, but this is the quickest and safest way to travel as of yet.
 
 #### The Steam Carriage
-
+In large cities, travel by foot can sometimes take well over half a day. With a steam carriage it takes a fraction of the time. Fuel, however, is not inexpensive and the burning of coal contaminates the air. For this reason, it is very unpleasant to walk through the main street and it may be advised to take a different route, albeit a longer one, to avoid the smoke. Steam carriages are not common, and usually reserved for the upper class.
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
