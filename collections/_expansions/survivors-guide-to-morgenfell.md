@@ -88,6 +88,8 @@ A relatively new discovery and still in its experimental phase, electricity has 
 #### The Telecommunicator
 A scientific breakthrough, the telecommunicator allows for sending coded messages over long distances where a wire system has been installed. It can transmit in two distinct pitches, high and low, in different combinations which are then decoded into letters. Timing is crucial, as a half-second to one-second delay means a space. There are professional transmitters/decoders who know all the letters by heart and can reliably transmit messages with minimal errors.
 
+# Chapter 1: History of Morgenfell
+
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
 
