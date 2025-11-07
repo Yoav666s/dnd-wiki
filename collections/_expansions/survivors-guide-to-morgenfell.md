@@ -42,13 +42,15 @@ Morgenfell is divided into three kingdoms: Auberfield, Keltain, and Wedland. The
 ## What's in This Book?
 Chapter 1 will introduce you to the main components of this setting, everything you need to know in order to create a campaign in Morgenfell.
 
-Chapter 2 will dive into the political figures of each kingdom and how they interaxt with each other.
+Chapter 2 will dive into the political figures of each kingdom and how they interact with each other.
 
 Chapter 3 will show you around the cities of Morgenfell, going into the details of each and every city.
 
 Chapter 4 will introduce new work in progress subclasses, completely untested and definitely not ready for serious play.
 
-Chapters 5 through 7 will include adventures to kick off your campaign. Again, completely untested.
+Chapter 5 will go over new flavorful feats that fit the setting, again, completely untested. 
+
+Chapters 6 through 8 will include adventures to kick off your campaign. Again, completely untested.
 
 ## Wonder, Horror, and Industrial Revelation
 You're the one who ultimately decides how horrifying or wondrous you want your campaign to be, and that choice will probably shape the decision of *where* you want your campaign to be. Vampires can attack a village in Auberfield and fey creatures can be found in the forests of Keltain, while shapeshifting fiends and devils are by no means limited to Wedland, but each kingdom has its own unique aesthetic.
