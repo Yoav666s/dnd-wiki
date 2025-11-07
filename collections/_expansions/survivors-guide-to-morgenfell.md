@@ -94,7 +94,7 @@ A major scientific breakthrough, the telecommunicator allows for sending coded m
 > --from the Official Decree of the Arcane Dictum, 217 (A.GM)
 
 ## The Great Massacre
-In the year 3 B.C an infamous gnome wizard who went by the name Gregorous Victus was studying <studiously> other planes of existence.
+In the year 3 B.C an infamous gnome wizard who went by the name Gregorous Victus was unceasingly studying other planes of existence. He was trying to establish a steady form of communication with beings of other planes, among them a devil from the Nine Hells. The devil seemed to be fascinated with Victus's work, and said he was always curious about the Feywild.
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
