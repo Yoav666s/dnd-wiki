@@ -63,7 +63,7 @@ In a village where eldritch horrors could show up at any time, a gun is man's be
 Top hats, walking canes, and elegant suits. Factories and railroads, advanced sewer systems, and everything modern (relatively, at least). Wedland is the prime, living and breathing example of the industrial revolution. The shrinking forests pose little threat, but not all danger is obsolete when shapeshifting devils slowly and insidiously infiltrate society's higher classes.
 
 ## Dwarven Technology
-The the industrial advancements of Morgenfell are based on technology developed by dawrven engineers. They've invented firearms which help defend citizens from the horrors of the forests, the steam engine which powers trains and carriages, and the telecommunicator which allows the transmission of coded messages.
+The the industrial advancements of Morgenfell are based on technology developed by dawrven engineers. They've invented firearms which help defend citizens from the horrors of the forests, the steam engine which powers trains and carriages, and the electric telecommunicator which allows the transmission of coded messages.
 
 ### Firearms
 The invention of firearms was a revolutionary milestone in the history of Wedland, and one of the crucial steps leading to the implementation of the Arcane Dictum. Firearms are now commonplace in villages and cities, but owning and using them is regulated by the requirement of an official lisence.
@@ -80,8 +80,11 @@ All over Morgenfell, railroad systems have been installed to allow for faster tr
 #### The Steam Carriage
 In large cities, travel by foot can sometimes take well over half a day. With a steam carriage it takes a fraction of the time. Fuel, however, is not inexpensive and the burning of coal contaminates the air. For this reason, it is very unpleasant to walk through the main street and it may be advised to take a different route, albeit a longer one, to avoid the smoke. Steam carriages are not common, and usually reserved for the upper class.
 
+### Electricity
+A relatively new discovery and still in its experimental phase, electricity has yet to reach the public. However, some technologies are already being used in practice.
+
 #### The Telecommunicator
-A relatively new invention, the telecommunicator allows for sending coded messages over long distances thanks to 
+A scientific breakthrough, the telecommunicator allows for sending coded messages over long distances where a wire system has been installed. It can transmit in two distinct pitches, high and low, in different combinations which are then decoded into letters. Timing is crucial, as a half-second to one-second delay means a space. There are professional transmitters/decoders who know all the letters by heart and can reliably transmit messages with minimal errors.
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
