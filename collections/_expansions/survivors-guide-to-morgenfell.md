@@ -66,7 +66,7 @@ Top hats, walking canes, and elegant suits. Factories and railroads, advanced se
 The the industrial advancements of Morgenfell are based on technology developed by dawrven engineers. They've invented firearms which help defend citizens from the horrors of the forests, the steam engine which powers trains and carriages, and the telecommunicator which allows the transmission of coded messages.
 
 ### Firearms
-
+The invention of firearms was a revolutionary milestone in the history of Wedland, and one of the crucial steps leading to the <installment> of the Arcane Dictum.
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
