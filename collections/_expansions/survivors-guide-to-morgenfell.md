@@ -48,7 +48,7 @@ Chapter 3 will show you around the cities of Morgenfell, going into the details 
 
 Chapter 4 will introduce new work in progress subclasses, completely untested and definitely not ready for serious play.
 
-Chapter 5 will go over new flavorful feats that fit the setting, again, completely untested. 
+Chapter 5 will go over new flavorful feats that fit the setting, again, completely untested.
 
 Chapters 6 through 8 will include adventures to kick off your campaign. Again, completely untested.
 
@@ -96,9 +96,14 @@ A major scientific breakthrough, the telecommunicator allows for sending coded m
 ## The Great Massacre
 In the year 3 B.C an infamous gnome wizard in Wedland who went by the name Gregorous Victus was unceasingly studying other planes of existence. He was trying to establish a steady form of communication with beings of other planes, among them a devil from the Nine Hells. The devil seemed to be fascinated with Victus's work, and said he was always curious about the Feywild. Victus was studying a spell that would allow him to travel to another plane of existence, and he offered the devil to bring him there. The devil happily agreed and said some of his friends are also fascinated with Victus's work and want to meet him, if he could open a portal to his plane so they could travel together to the Feywild. And so he did.
 
-When the portal opened, an army of devils and imps rushed through, and proceeded to kill Victus and anyone who stood in their path. The devil army was defeated, but at the cost of many innocent lives. 
+When the portal opened, an army of devils and imps rushed through, and proceeded to kill Victus and anyone who stood in their path. The devil army was defeated, but at the cost of many innocent lives.
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
 
 {% include expansion_subclasses.html %}
+
+# Chapter 5: Feats
+The people of Morgenfell have adapted to a different way of living than the rest of Nornfeld, what with their technology and lack of magic. To reflect that there are feats that compliment the setting.
+
+{% include expansion_feats.html %}
