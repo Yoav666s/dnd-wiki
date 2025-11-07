@@ -69,7 +69,7 @@ The the industrial advancements of Morgenfell are based on technology developed 
 The invention of firearms was a revolutionary milestone in the history of Wedland, and one of the crucial steps leading to the implementation of the Arcane Dictum. Firearms are now commonplace in villages and cities, but owning and using them requires an official lisence.
 
 #### Firearm Lisence
-To get a lisence for owning and using a firearm, one must file an official request to the department of safety, after which they'll be summoned for an interview to
+To get a lisence for owning and using a firearm, a citizen must file an official request to the department of safety, after which they'll be summoned for an interview to assess the necessity of such a lisence and suitability of the citizen to own a firearm. Soldiers and guards get a similar lisence at the end of 
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
