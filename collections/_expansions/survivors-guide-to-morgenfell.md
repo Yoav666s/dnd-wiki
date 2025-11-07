@@ -71,6 +71,15 @@ The invention of firearms was a revolutionary milestone in the history of Wedlan
 #### Firearm Lisence
 To get a lisence for owning and using a firearm, a citizen must file an official request to the department of safety, after which they'll be summoned for an interview to assess the necessity of such a lisence and suitability of the citizen to own a firearm. Soldiers and guards get a similar lisence at the end of their training. A firearm carrier must have a lisence on their person at all times in case of an inspection.
 
+### The Steam Engine
+Yet another revolutionary invention that allowed the Arcane Dictum to become a reality, the steam engine allows for expediency in transportation without relying on magic. The steam powered train and the steam carriage allow for travel both inside and outside of the city, respectively.
+
+#### The Steam Powered Train
+All over Morgenfell, railroad systems have been installed to allow for faster travel between cities and kingdoms. The fee is sometimes costly, but this is the quickest and safest way to travel as of yet.
+
+#### The Steam Carriage
+
+
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
 
