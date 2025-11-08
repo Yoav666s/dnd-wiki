@@ -50,7 +50,9 @@ Chapter 4 will introduce new work in progress subclasses, completely untested an
 
 Chapter 5 will go over new flavorful feats that fit the setting, again, completely untested.
 
-Chapters 6 through 8 will include adventures to kick off your campaign. Again, completely untested.
+Chapter 6 will include items, wondrous or otherwise, that are an essential part of the setting.
+
+Chapters 7 through 9 will include adventures to kick off your campaign. Again, completely untested.
 
 ## Wonder, Horror, and Industrial Revelation
 You're the one who ultimately decides how horrifying or wondrous you want your campaign to be, and that choice will probably shape the decision of *where* you want your campaign to be. Vampires can attack a village in Auberfield and fey creatures can be found in the forests of Keltain, while shapeshifting fiends and devils are by no means limited to Wedland, but each kingdom has its own unique aesthetic.
@@ -92,7 +94,7 @@ A major scientific breakthrough, the telecommunicator allows for sending coded m
 The study of medicine was a crucial part in the implementation of the Arcane Dictum, since magical healing was superior to any other alternative. Studying the humanoid body, the physicians of Morgenfell, and Auberfield in particular, have made significant advancements in the subject and proved that magic is not the only way to tend to wounds and sicknesses.
 
 ### Rubbing Alcohol
-It has been discovered that sanitizing wounds can help prevent inflammation. 
+It has been discovered that sanitizing wounds can help prevent inflammation. By fermenting grains and distilling the product, the apothecary creates an undrinkable substance that can help sanitize wounds. This substance is called rubbing alcohol and is present in all modern healer's kits.
 
 # Chapter 1: History of Morgenfell
 > "And that which we call the 'Great Massacre' has proven to us the dangerous and reckless nature of magic. Over two hundred years it took us to restore and even surpass our previous greatness which has been sullied and destroyed by magic. To that we say: never again!"
