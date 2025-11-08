@@ -1,0 +1,5 @@
+{% assign items = site.items | where: "source", page.title %}
+{% for item in items %}
+  <h2 id="{{ item.title | slugify }}">{{ item.title }}</h2>
+  {% include page_content.html page=item %}
+{% endfor %}

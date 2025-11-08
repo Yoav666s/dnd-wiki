@@ -122,3 +122,8 @@ With magic being illegal under the authority of the Arcane Dictum, the people of
 The people of Morgenfell have adapted to a different way of living than the rest of Nornfeld, what with their technology and lack of magic. To reflect that there are feats that compliment the setting.
 
 {% include expansion_feats.html %}
+
+# Chapter 6: Items
+The following are items that are essential to running a campaign in the setting of Morgenfell.
+
+{% include expansion_items.html %}
