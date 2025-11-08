@@ -15,7 +15,7 @@ Three kingdoms agree on one thing: magic is the ruin of society. Since the Arcan
 ## A Low-Fantasy Setting
 > By order of the sovereign rulers of the Three Kingdoms, and under the authority of the Arcane Dictum, the practice of magic in any and all of its forms is hereby declared strictly and absolutely forbidden. The possession, trade, or use of magical artifacts, spell scrolls, tomes, or any other enchanted instruments is likewise prohibited throughout all territories and dominions of Morgenfell, whether by land or sea.
 >
-> --The Arcane Dictum, 217 (A.GM)
+> --The Arcane Dictum, 217 A.GM
 
 As previously mentioned, magic is illegal in the realms of Morgenfell. This does not mean that it doesn't exist, but it's rare and usually practiced only in secret or in forests, where patrols are limited and few. The forests of Morgenfell are dangerous and filled with all kinds of strange creatures. Few can survive there, with or without magic, and guards only enter there when absolutely necessary. The cities themselves are well protected, but villages are exposed to terrible threats such as vampires, werewolves, and eldritch horrors.
 
@@ -91,12 +91,17 @@ A major scientific breakthrough, the telecommunicator allows for sending coded m
 # Chapter 1: History of Morgenfell
 > "And that which we call the 'Great Massacre' has proven to us the dangerous and reckless nature of magic. Over two hundred years it took us to restore and even surpass our previous greatness which has been sullied and destroyed by magic. To that we say: never again!"
 >
-> --from the Official Decree of the Arcane Dictum, 217 (A.GM)
+> --from the Official Decree of the Arcane Dictum, 217 A.GM
 
 ## The Great Massacre
 In the year 3 B.C an infamous gnome wizard in Wedland who went by the name Gregorous Victus was unceasingly studying other planes of existence. He was trying to establish a steady form of communication with beings of other planes, among them a devil from the Nine Hells. The devil seemed to be fascinated with Victus's work, and said he was always curious about the Feywild. Victus was studying a spell that would allow him to travel to another plane of existence, and he offered the devil to bring him there. The devil happily agreed and said some of his friends are also fascinated with Victus's work and want to meet him, if he could open a portal to his plane so they could travel together to the Feywild. And so he did.
 
-When the portal opened, an army of devils and imps rushed through, and proceeded to kill Victus and anyone who stood in their path. The devil army was defeated, but at the cost of many innocent lives.
+When the portal opened, an army of devils and imps rushed through, and proceeded to kill Victus and anyone who stood in their path. The devil army was defeated, but at the cost of many innocent lives all over Morgenfell. This terrible incident has been since referred to as the Great Massacre, and it has led the rulers to eventually ban anything and everything that has to do with magic altogether, under the authority of the Arcane Dictum.
+
+## The Arcane Dictum
+The Arcane Dictum is the decree that effectively forbids the use and study of magic and magical items. It has been ruled in the year 217 A.GM (After the Great Massacre) in order to prevent another incident such as the Great Massacre and avoid unnecessary deaths.
+
+It took 217 years to fully implement the Arcane Dictum because it would've been unwise to do so with the technological state at the time of the Great Massacre, when magic was still an integral part of the kingdoms' defenses, long distance travel, and communication. 
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
