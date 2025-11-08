@@ -1,3 +1,11 @@
+---
+title: "First Aid Provider"
+index:
+  - first-aid-provider
+permalink: /feats/first-aid-provider/
+excerpt: "You have learned methods to provide first aid to humanoids in a critical state."
+source: "Survivor's Guide to Morgenfell"
+---
 *Origin Feat*
 
 You have learned methods to provide first aid to humanoids in a critical state.  You gain the following benefits.
