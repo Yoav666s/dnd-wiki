@@ -97,7 +97,7 @@ The study of medicine was a crucial part in the implementation of the Arcane Dic
 It has been discovered that sanitizing wounds can help prevent inflammation. By fermenting grains and distilling the product, the apothecary creates an undrinkable substance that can help sanitize wounds. This substance is called rubbing alcohol and is present in all modern healer's kits.
 
 ### First Aid
-Methods to provide first aid to a wounded individual have been developed by physicians in Auberfield and are taught to medics all throughout Morgenfell. 
+Methods to provide first aid to a wounded individual have been developed by physicians in Auberfield and are taught to medics all throughout Morgenfell.
 
 # Chapter 1: History of Morgenfell
 > "And that which we call the 'Great Massacre' has proven to us the dangerous and reckless nature of magic. Over two hundred years it took us to restore and even surpass our previous greatness which has been sullied and destroyed by magic. To that we say: never again!"
@@ -114,7 +114,7 @@ The Arcane Dictum is the decree that effectively forbids the use and study of ma
 
 It took 217 years to fully implement the Arcane Dictum because it would've been unwise to do so with the technological state at the time of the Great Massacre, when magic was still an integral part of the kingdoms' defenses, long distance travel, and communication.
 
-During the time that took to implement the Arcane Dictum, magic was still being used but it was socially frowned upon, as society attempted to transition to a lifestyle that relies on magic less and less, if at all. Avoiding the use of magic in everyday life was encouraged even though magic was still fully legal at that period. People would take a carriage rather than rely on teleportation circles despite the distance of their destination from their starting point; .
+During the time that took to implement the Arcane Dictum, magic was still being used but it was socially frowned upon, as society attempted to transition to a lifestyle that relies on magic less and less, if at all. Avoiding the use of magic in everyday life was encouraged even though magic was still fully legal at that period. Citizens would take a carriage rather than rely on teleportation circles despite the distance of their destination from their starting point; physicians and alchemists would provide non-magical healing methods.
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
