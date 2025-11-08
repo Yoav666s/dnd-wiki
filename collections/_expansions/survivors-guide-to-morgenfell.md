@@ -96,6 +96,9 @@ The study of medicine was a crucial part in the implementation of the Arcane Dic
 ### Rubbing Alcohol
 It has been discovered that sanitizing wounds can help prevent inflammation. By fermenting grains and distilling the product, the apothecary creates an undrinkable substance that can help sanitize wounds. This substance is called rubbing alcohol and is present in all modern healer's kits.
 
+### First Aid
+Methods to provide first aid to a wounded individual have been developed by physicians in Auberfield and are taught to medics all throughout Morgenfell. 
+
 # Chapter 1: History of Morgenfell
 > "And that which we call the 'Great Massacre' has proven to us the dangerous and reckless nature of magic. Over two hundred years it took us to restore and even surpass our previous greatness which has been sullied and destroyed by magic. To that we say: never again!"
 >
