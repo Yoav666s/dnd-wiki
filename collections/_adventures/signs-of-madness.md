@@ -35,3 +35,71 @@ Mirtenville is a small village near Harkstone in the center of Thortmere,
 ## Momentary Madness
 
 {% include spell_details.html index="momentary-madness" %}
+
+## Notion
+
+{% include spell_details.html index="notion" %}
+
+## Intrude Thoughts
+
+{% include spell_details.html index="intrude-thoughts" %}
+
+## Searing Pain
+
+{% include spell_details.html index="searing-pain" %}
+
+## Suggestion
+
+{% include spell_details.html index="suggestion" %}
+
+## Fear
+
+{% include spell_details.html index="fear" %}
+
+## Mistrust
+
+{% include spell_details.html index="mistrust" %}
+
+## Voices
+
+{% include spell_details.html index="voices" %}
+
+## Delusion
+
+{% include spell_details.html index="delusion" %}
+
+## Paranoia
+
+{% include spell_details.html index="paranoia" %}
+
+## Phantasmal Killer
+
+{% include spell_details.html index="phantasmal-killer" %}
+
+## Control Thoughts
+
+{% include spell_details.html index="control-thoughts" %}
+
+## Modify Memory
+
+{% include spell_details.html index="modify-memory" %}
+
+## Delirious Whispers
+
+{% include spell_details.html index="delirious-whispers" %}
+
+## Mass Suggestion
+
+{% include spell_details.html index="mass-suggestion" %}
+
+## Switch Minds
+
+{% include spell_details.html index="switch-minds" %}
+
+## Dominate Thoughts
+
+{% include spell_details.html index="dominate-thoughts" %}
+
+## Delirium
+
+{% include spell_details.html index="delirium" %}
