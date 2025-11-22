@@ -11,10 +11,15 @@ header:
 ---
 
 # Introduction
-This adventure can take place in any village or settlement, and at the end of this adventure the party will potentially gain access to the [[Tome of Fey Secrets]], a cursed book full of forbidden spells that slowly drives its owner insane. This book contains spells that trifle with the subject's mind, as [[listed in Appendix B]].
+This adventure can take place in any village or settlement, and at the end of this adventure the party will potentially gain access to the [[Tome of Fey Secrets]], a cursed book full of forbidden spells that slowly drives its owner insane. This book contains spells that trifle with the subject's mind, as listed in [[Appendix B]].
 
 ## Running the Adventure
-Signs of Madness is a short adventure intended for a party of 3-5 players of 3rd to 5th level. This adventure assumes the PCs are passing through the village of Mirtenville in Thortmere, but it can take place in any village or settlement.
+Signs of Madness is a short adventure intended for a party of 3-5 players of 3rd to 5th level. This adventure assumes the PCs are passing through the village of [[Mirtenville]] in Thortmere, but it can take place in any village or settlement. If you decide to run this adventure in a different setting or a different place, NPCs
+
+# Appendix A
+
+## Mirtenville
+Mirtenville is a small village near Harkstone in the center of Thortmere,
 
 # Appendix B
 
@@ -25,10 +30,8 @@ Signs of Madness is a short adventure intended for a party of 3-5 players of 3rd
 
 ## Hideous Laughter
 
-{% assign hl = site.spells | where: "index", "hideous-laughter" | first %}
-{% include page_content.html page=hl %}
+{% include spell_details.html index="hideous-laughter" %}
 
 ## Momentary Madness
 
-{% assign mm = site.spells | where: "index", "momentary-madness" | first %}
-{% include page_content.html page=mm %}
+{% include spell_details.html index="momentary-madness" %}

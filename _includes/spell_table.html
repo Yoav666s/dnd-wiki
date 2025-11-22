@@ -1,5 +1,5 @@
-{% if include.title %}
-  {% assign spell = site.spells | where: "title", include.title | first %}
+{% if include.index %}
+  {% assign spell = site.spells | where: "index", include.index | first %}
 {% else %}
   {% assign spell = site.spells | where: "title", page.title | first %}
 {% endif %}
