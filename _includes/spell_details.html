@@ -2,7 +2,7 @@
 {% assign note_style = "font-size: 14px;" %}
 
 {% include spell_table.html index=include.index %}
-{% include render_tooltips.html content=spell.description %}
+{{ spell.description }}
 {% if spell.material %}<p style="{{ note_style }}"><i>* - ({{ spell.material }})</i></p>{% endif %}
 {% if spell.reaction %}<p style="{{ note_style }}"><i>** - ({{ spell.reaction }})</i></p>{% endif %}
 <p style="{{ note_style }}"><i>{{ spell.notes }}</i></p>
