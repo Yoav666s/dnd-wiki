@@ -25,10 +25,10 @@ Signs of Madness is a short adventure intended for a party of 3-5 players of 3rd
 
 ## Hideous Laughter
 
-{% assign hl = site.items | where: "index", "hideous-laughter" | first %}
+{% assign hl = site.spells | where: "index", "hideous-laughter" | first %}
 {% include page_content.html page=hl %}
 
 ## Momentary Madness
 
-{% assign mm = site.items | where: "index", "momentary-madness" | first %}
+{% assign mm = site.spells | where: "index", "momentary-madness" | first %}
 {% include page_content.html page=mm %}
