@@ -67,13 +67,13 @@ In a village where eldritch horrors could show up at any time, a gun is man's be
 Top hats, walking canes, and elegant suits. Factories and railroads, advanced sewer systems, and everything modern (relatively, at least). Wedland is the prime, living and breathing example of the industrial revolution. The shrinking forests pose little threat, but not all danger is obsolete when shapeshifting devils slowly and insidiously infiltrate society's higher classes.
 
 ## Dwarven Technology
-The the industrial advancements of Morgenfell are based on technology developed by dawrven engineers. They've invented firearms which help defend citizens from the horrors of the forests, the steam engine which powers trains and carriages, and the electric telecommunicator which allows the transmission of coded messages.
+The industrial advancements of Morgenfell are based on technology developed by dawrven engineers. They've invented firearms which help defend citizens from the horrors of the forests, the steam engine which powers trains and carriages, and the electric telecommunicator which allows the transmission of coded messages.
 
 ### Firearms
-The invention of firearms was a revolutionary milestone in the history of Wedland, and one of the crucial steps leading to the implementation of the Arcane Dictum. Firearms are now commonplace in villages and cities, but owning and using them is regulated by the requirement of an official lisence.
+The invention of firearms was a revolutionary milestone in the history of Wedland, and one of the crucial steps leading to the implementation of the Arcane Dictum. Firearms are now commonplace in villages and cities, but owning and using them is regulated by the requirement of an official license.
 
-#### Firearm Lisence
-To get a lisence for owning and using a firearm, a citizen must file an official request to the department of safety, after which they'll be summoned for an interview to assess the necessity of such a lisence and suitability of the citizen to own a firearm. Soldiers and guards get a similar lisence at the end of their training. A firearm carrier must have a lisence on their person at all times in case of an inspection.
+#### Firearm License
+To get a license for owning and using a firearm, a citizen must file an official request to the department of safety, after which they'll be summoned for an interview to assess the necessity of such a license and suitability of the citizen to own a firearm. Soldiers and guards get a similar license at the end of their training. A firearm carrier must have a license on their person at all times in case of an inspection.
 
 ### The Steam Engine
 Yet another revolutionary invention that allowed the Arcane Dictum to become a reality, the steam engine allows for expediency in transportation without relying on magic. The steam powered train and the steam carriage allow for travel both inside and outside of the city, respectively.
@@ -119,9 +119,13 @@ During the time that took to implement the Arcane Dictum, magic was still being 
 ### Implementation
 In the year 200 A.GM, it was announced that thanks to the technological advancements the kingdoms have managed to reach, life without magic would soon become a reality. There were working trains on a functional railway system that connected most of Morgenfell's major cities; capable and professional physicians that could treat wounds, diagnose illnesses, and prescribe medicine have opened pharmacies in which special medication, ointments, and modern healing kits were sold; firearms were being manufactured in factories, along with textiles, steam engines, locomotives, ships, and more. People were excited about the announcement, but there was more to be done.
 
-In the following 17 years, the monarchies worked to eliminate the presence of magic in Morgenfell. The Ministry of Magical Affairs (M.M.A) had announced that all items that are magical or relate to the study of magic would be confiscated by the year 206 A.GM. Until then, citizens were encouraged to hand them over and receive a compensation fee for each item. During that time, the M.M.A has proceeded to export those items and sell them to other continents which paid handsomely for them. Many mages, druids, and healers who didn't want to give up their magic or magical possessions have emigrated from Morgenfell during this period, though some had decided to stay.
+#### Magical Possessions
+In the following 17 years, the monarchies worked to eliminate the presence of magic in Morgenfell. The Ministry of Magical Affairs (M.M.A) had announced that all items that are magical or relate to the study or practice of magic would be confiscated by the year 206 A.GM. Until then, citizens were encouraged to hand them over and receive a compensation fee for each item. During that time, the M.M.A has proceeded to export those items and sell them to other continents which paid handsomely for them. Many mages, druids, and healers who didn't want to give up their magic or magical possessions have emigrated from Morgenfell during this period, though some had decided to stay.
 
 At 206 A.GM, the first order of the Arcane Dictum was ruled: it was then illegal to own, sell, or trade items related to magic. The M.M.A had dispatched agents who went door to door and searched every house and establishment for any items related to magic. They hand confiscated their findings (which were then exported and sold) under the authority of official warrants. Establishments that related to magic were closed and put out of business, including but not limited to shops, archives, and universities.
+
+#### Magical Lineages
+In the year 207 A.GM, it was announced that members of races that were related to the Feywild or the Nine Hells were to be exiled from the territories of the monarchies by the year 212 A.GM. In the following 5 years, most tieflings and elves had left Morgenfell and emigrated with assistance from the monarchies; ships sailed back and forth from Morgenfell to the surrounding continents.
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
