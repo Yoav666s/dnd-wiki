@@ -14,7 +14,7 @@ dex_score: 16
 con_score: 12
 int_score: 11
 wis_score: 13
-cha_score: 18
+cha_score: 16
 saving_throws: "CON +4, CHA +7"
 skills: "Arcana +3, Deception +7"
 damage_vulnerabilities: "Psychic"
@@ -36,7 +36,7 @@ bonus_actions: |
 actions: |
   **Dagger.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) piercing damage.
 
-  **Spellcasting.** Jasper casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 15, +7 to hit with spell attacks):
+  **Spellcasting.** Jasper casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):
 
   At will: fire bolt, fling, mage hand, message, prestidigitation
 
