@@ -127,6 +127,8 @@ At 206 A.GM, the first order of the Arcane Dictum was ruled: it was then illegal
 #### Magical Lineages
 In the year 207 A.GM, it was announced that members of races that were related to the Feywild or the Nine Hells were to be exiled from the territories of the monarchies by the year 212 A.GM. In the following 5 years, most tieflings and elves had left Morgenfell and emigrated with assistance from the monarchies; ships sailed back and forth from Morgenfell to the surrounding continents.
 
+Some, however, had decided not to leave Morgenfell. Many elves and some tieflings had decided to go rogue and live in the forests, where the monarchies don't enforce the law due to the dangers that reside within. That's how the resistance was formed right under the noses of the monarchies.
+
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
 
