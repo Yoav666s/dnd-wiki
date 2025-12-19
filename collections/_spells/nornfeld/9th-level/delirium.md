@@ -11,6 +11,8 @@ range: "120 ft"
 comp:
   - V
   - S
+  - M
+material: "a mushroom."
 duration: "1 Hour"
 concentration: true
 cast_time: "1 Action"
