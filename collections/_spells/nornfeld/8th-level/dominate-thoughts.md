@@ -11,6 +11,8 @@ range: "30 ft"
 comp:
   - V
   - S
+  - M
+material: "a knife that is pressed against the target's throat."
 duration: "1 Hour"
 concentration: true
 cast_time: "1 Action"
