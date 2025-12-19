@@ -11,6 +11,8 @@ range: "30 ft"
 comp:
   - V
   - S
+  - M
+material: "a pendulum that swings from side to side."
 duration: "1 Minute"
 concentration: true
 cast_time: "1 Action"
