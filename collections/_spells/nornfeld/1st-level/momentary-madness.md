@@ -11,6 +11,8 @@ range: "60 ft"
 comp:
   - V
   - S
+  - M
+material: "a gold coin."
 duration: "1 Round"
 concentration: false
 cast_time: "1 Action"
