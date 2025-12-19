@@ -12,7 +12,7 @@ comp:
   - V
   - S
   - M
-material: "a small needle, which must pierce into the flesh of the caster just deep enough to draw blood"
+material: "a small needle, which must pierce into the flesh of the caster just deep enough to draw blood."
 duration: "1 Minute"
 concentration: true
 cast_time: "1 Action"
