@@ -11,7 +11,7 @@ range: "120 ft"
 comp:
   - V
   - M
-material: "a small seed"
+material: "a small seed of mustard."
 duration: "1 Round"
 concentration: false
 cast_time: "1 Action"
