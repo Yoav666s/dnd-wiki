@@ -12,7 +12,7 @@ comp:
   - V
   - S
   - M
-material: "a dry raisin cookie"
+material: "a dry raisin cookie."
 duration: "1 Hour"
 concentration: true
 cast_time: "1 Action"
