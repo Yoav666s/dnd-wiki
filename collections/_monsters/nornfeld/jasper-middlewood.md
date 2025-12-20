@@ -33,6 +33,8 @@ traits: |
   **Tome of Delirium.** Whenever a creature succeeds on an Intelligence, Wisdom, or Charisma saving throw against one of his spells, Jasper takes 1d4 psychic damage.
 bonus_actions: |
   **Artful Magic.** Immediately before or after Jasper casts a spell of 1st level or higher, he can use his bonus action to teleport up to 15 feet to an unoccupied space he can see.
+
+  **Hide and Seek.** Immediately after Jasper casts a spell of 1st level or higher, he can use his bonus action to become invisible for 1 minute, or until he attacks or casts a spell.
 actions: |
   **Dagger.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) piercing damage.
 
