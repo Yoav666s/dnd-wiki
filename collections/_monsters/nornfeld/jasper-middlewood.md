@@ -28,7 +28,7 @@ traits: |
 
   **Heightened Spell (1/day).** When a spell cast by Jasper forces a target to make a saving throw to resist its effects, he may cause one target to have disadvantage on its first saving throw made against the spell.
 
-  **Subtle Spell (3/day).** When Jasper casts a spell, he may cast it without any verbal or somatic components.
+  **Subtle Spell (4/day).** When Jasper casts a spell, he may cast it without any verbal or somatic components.
 
   **Tome of Delirium.** Whenever a creature succeeds on an Intelligence, Wisdom, or Charisma saving throw against one of his spells, Jasper takes 1d4 psychic damage.
 bonus_actions: |
