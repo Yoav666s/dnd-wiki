@@ -29,7 +29,7 @@ For about a month now, numerous the people of the court have been hearing voices
 Mirtenville is a small village near Harkstone around the center of Thortmere. It's snowy in the winter and still a bit rainy in the summer, creating a nurturing ground for crops most of the year.
 
 ## Jasper Middlewood
-Jasper is the Master of Whispers in the court of Sun Rock Castle. He is a strange individual who seems constantly on edge, always muttering to himself and getting lost in thought, but he's useful to king Krad. He is a fey sorcerer,
+Jasper is the Master of Whispers in the court of Sun Rock Castle. He is a strange individual who seems constantly on edge, always muttering to himself and getting lost in thought, but he's useful to king Krad. He is a fey sorcerer by trade, his magical powers originate from an interaction with the fey in his early life. When he was younger, he was romantically involved with a wood faery called  from a forest near Mirtenville, the village in which he grew up. She tricked him into saying that his heart belongs to her and her only, then she disappeared. Shortly thereafter, he started manifesting magic whenever he thought of her. His eyes would well up with silvery tears of longing and 
 
 {% include stat_block.html index="jasper-middlewood" %}
 
