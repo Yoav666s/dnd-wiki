@@ -42,7 +42,7 @@ actions: |
 
   2/day each: momentary madness, voices
 
-  1/day each: intrude thoughts, mage armor, notion, searing pain, detect thoughts, counterspell, delusion
+  1/day each: counterspell, delusion, detect thoughts, intrude thoughts, mage armor, notion, searing pain 
 excerpt: "Medium Human (Sorcerer), Neutral"
 header:
   overlay_image: /assets/images/monsters/jasper-middlewood/header.png
