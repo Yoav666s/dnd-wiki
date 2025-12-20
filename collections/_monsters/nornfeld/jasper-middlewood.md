@@ -20,8 +20,8 @@ skills: "Arcana +3, Deception +7"
 damage_vulnerabilities: "Psychic"
 senses: "Passive Perception 11"
 languages: "Common, Sylvan"
-challenge_rating: 2
-xp: 450
+challenge_rating: 4
+xp: 1100
 proficiency_bonus: "+3"
 traits: |
   **Fey Mind.** Jasper has advantage on saving throws made to avoid or end the Charm condition, and magic can't put him to sleep.
