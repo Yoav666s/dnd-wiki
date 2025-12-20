@@ -1,0 +1,55 @@
+{% assign monster = site.monsters | where: "index", include.index | first %}
+
+{% assign str_mod = monster.str_score | minus: 10 | divided_by: 2 %}
+{% assign dex_mod = monster.dex_score | minus: 10 | divided_by: 2 %}
+{% assign con_mod = monster.con_score | minus: 10 | divided_by: 2 %}
+{% assign int_mod = monster.int_score | minus: 10 | divided_by: 2 %}
+{% assign wis_mod = monster.wis_score | minus: 10 | divided_by: 2 %}
+{% assign cha_mod = monster.cha_score | minus: 10 | divided_by: 2 %}
+
+<p><strong>Armor Class</strong> {{ monster.armor_class }}</p>
+<p><strong>Hit Points</strong> {{ monster.hit_points }}</p>
+<p><strong>Speed</strong> {{ monster.speed }}</p>
+<table>
+  <tr>
+    <td><strong>STR</strong></td>
+    <td><strong>DEX</strong></td>
+    <td><strong>CON</strong></td>
+  </tr>
+  <tr>
+    <td>{{ monster.str_score }} ({% if str_mod > 0 %}+{% endif %}{{ str_mod }})</td>
+    <td>{{ monster.dex_score }} ({% if dex_mod > 0 %}+{% endif %}{{ dex_mod }})</td>
+    <td>{{ monster.con_score }} ({% if con_mod > 0 %}+{% endif %}{{ con_mod }})</td>
+  </tr>
+  <tr>
+    <td><strong>INT</strong></td>
+    <td><strong>WIS</strong></td>
+    <td><strong>CHA</strong></td>
+  </tr>
+  <tr>
+    <td>{{ monster.int_score }} ({% if int_mod > 0 %}+{% endif %}{{ int_mod }})</td>
+    <td>{{ monster.wis_score }} ({% if wis_mod > 0 %}+{% endif %}{{ wis_mod }})</td>
+    <td>{{ monster.cha_score }} ({% if cha_mod > 0 %}+{% endif %}{{ cha_mod }})</td>
+  </tr>
+</table>
+<p><strong>Saving Throws</strong> {{ monster.saving_throws }}</p>
+<p><strong>Skills</strong> {{ monster.skills }}</p>
+{% if monster.damage_vulnerabilities %}<p><strong>Damage Vulnerabilities</strong> {{ monster.damage_vulnerabilities }}</p>{% endif %}
+{% if monster.damage_resistances %}<p><strong>Damage Resistances</strong> {{ monster.damage_resistances }}</p>{% endif %}
+{% if monster.damage_immunities %}<p><strong>Damage Immunities</strong> {{ monster.damage_immunities }}</p>{% endif %}
+{% if monster.condition_immunities %}<p><strong>Condition Immunities</strong> {{ monster.condition_immunities }}</p>{% endif %}
+<p><strong>Senses</strong> {{ monster.senses }}</p>
+<p><strong>Languages</strong> {{ monster.languages }}</p>
+<p><strong>Challenge</strong> {{ monster.challenge_rating }} ({{ monster.xp }} XP)</p>
+<p><strong>Proficiency Bonus</strong> {{ monster.proficiency_bonus }}</p>
+{% if monster.traits %}<h2>Traits</h2>
+<p>{{ monster.traits | markdownify }}</p>{% endif %}
+{% if monster.bonus_actions %}<h2>Bonus Actions</h2>
+<p>{{ monster.bonus_actions | markdownify }}</p>{% endif %}
+<h2>Actions</h2>
+<p>{{ monster.actions | markdownify }}</p>
+{% if monster.reactions %}<h2>Reactions</h2>
+<p>{{ monster.reactions | markdownify }}</p>{% endif %}
+{% if monster.legendary_actions %}<h2>Legendary Actions</h2>
+<p>{{ monster.legendary_actions | markdownify }}</p>{% endif %}
+{% include render_tooltips.html content=monster.content %}
