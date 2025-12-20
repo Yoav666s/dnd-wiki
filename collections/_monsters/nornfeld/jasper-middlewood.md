@@ -42,9 +42,9 @@ actions: |
 
   2/day each: momentary madness, voices
 
-  1/day each: counterspell, delusion, detect thoughts, intrude thoughts, mage armor, notion, searing pain
+  1/day each: counterspell, delusion, detect thoughts, intrude thoughts, mage armor, notion, invisibility
 
-  Silvery tears slowly come down from Jasper's eyes whenever he casts a spell. 
+  Silvery tears slowly come down from Jasper's eyes whenever he casts a spell.
 excerpt: "Medium Human (Sorcerer), Neutral"
 header:
   overlay_image: /assets/images/monsters/jasper-middlewood/header.png
