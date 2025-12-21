@@ -29,8 +29,6 @@ traits: |
   **Heightened Spell (2/day).** When a spell cast by Jasper forces a target to make a saving throw to resist its effects, he may cause one target to have disadvantage on its first saving throw made against the spell.
 
   **Subtle Spell (1/day).** When Jasper casts a spell, he may cast it without any verbal or somatic components.
-
-  **Tome of Fey Secrets.** Whenever a creature succeeds on an Intelligence, Wisdom, or Charisma saving throw against one of his spells or effects, Jasper takes 1d4 psychic damage.
 bonus_actions: |
   **Artful Magic.** Immediately before or after Jasper casts a spell of 1st level or higher (that he can't cast at will), he can use his bonus action to teleport up to 15 feet to an unoccupied space he can see.
 
@@ -38,11 +36,11 @@ bonus_actions: |
 
   **Misty Step (2/day).** Jasper casts Misty Step, using the same spellcasting ability as Spellcasting.
 actions: |
-  **Multiattack.** Jasper makes one psychic strike and casts Momentary Madness.
+  **Multiattack.** Jasper makes one psychic strike and casts Momentary Madness if available.
 
-  **Psychic Strike.** Wisdom Saving Throw: DC 16, one creature within 90 feet. Failure: 9 (2d6 + 2) Psychic damage.
+  **Psychic Strike.** Wisdom Saving Throw: DC 16, one creature within 90 feet. Failure: 14 (3d6 + 3) Psychic damage.
 
-  **Momentary Madness.** Wisdom Saving Throw: DC 16, one creature within 60 feet. Failure: The target has the Charmed condition for 1 round. While charmed in this way, the target's eyes glow a sickly shade of purple. The charmed target must use its action before or after moving to make a melee attack against a creature other than itself that Jasper mentally chooses. If you choose no creature or if none are within its reach, the charmed target acts normally.
+  **Momentary Madness. (Recharge 5-6)** Wisdom Saving Throw: DC 16, one creature within 60 feet. Failure: The target has the Charmed condition for 1 round. While charmed in this way, the target's eyes glow a sickly shade of purple. The charmed target must use its action before or after moving to make a melee attack against a creature other than itself that Jasper mentally chooses. If you choose no creature or if none are within its reach, the charmed target acts normally.
 
   **Spellcasting.** Jasper casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 16, +8 to hit with spell attacks):
 
