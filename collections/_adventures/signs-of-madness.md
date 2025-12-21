@@ -29,7 +29,7 @@ For about a month now, numerous the people of the court have been hearing voices
 Mirtenville is a small village near Harkstone around the center of Thortmere. It's snowy in the winter and still a bit rainy in the summer, creating a nurturing ground for crops most of the year.
 
 ## Jasper Middlewood
-Jasper is the Master of Whispers in the court of Sun Rock Castle. He is a strange individual who seems constantly on edge, always muttering to himself and getting lost in thought, but he's useful to king Krad. He is a fey sorcerer by trade, his magical powers originate from a secret interaction with the fey in his early life. When he was younger, he was romantically involved with a wood faery called Sypharia from a forest near Mirtenville, the village in which he grew up. She tricked him into saying that his heart belongs to her and her only, and then she disappeared. Shortly thereafter, he found that he could manifest magic when he thought of her. His eyes would well up with silvery tears of longing and he could affect simple spells. As his heartache grew more and more unbearable, his powers became stronger.
+Jasper is the spymaster's assistant in the court of Sun Rock Castle. He is a strange individual who seems constantly on edge, always muttering to himself and getting lost in thought, but he's useful to king Krad. He is a fey sorcerer by trade, his magical powers originate from a secret interaction with the fey in his early life. When he was younger, he was romantically involved with a wood faery called Sypharia from a forest near Mirtenville, the village in which he grew up. She tricked him into saying that his heart belongs to her and her only, and then she disappeared. Shortly thereafter, he found that he could manifest magic when he thought of her. His eyes would well up with silvery tears of longing and he could affect simple spells. As his heartache grew more and more unbearable, his powers became stronger.
 
 Word has begun to spread: the son of a farmer had somehow acquired sorcerous powers. Nobody knew how--Jasper refused to tell the full story; he still yearned for Sypharia, missing her presence and grace. The king's spymaster dispatched a carriage to Mirtenville. A sorcerer from a common bloodline was rare--and dangerous. He was brought in for questioning disguised as a feast in his honor. During the feast he was subtly interrogated by the spymaster, the king and his advisor, the court wizard, the high cleric who casted [[zone of truth]], and the captain of the royal guard. They wanted to find out how he got his powers, whether or not he was a threat, and if he could be useful to them. He revealed that his powers come from the feywild but remained evasive around the topic of Sypharia. After the meal he was offered a room for the night. The king and his court had decided that it's best to keep him close, so they offered him a position as the spymaster's assistant.
 
@@ -44,10 +44,6 @@ One day, Sypharia returned with a gift, a magical tome (See [[Tome of Fey Secret
 {% assign tofs = site.items | where: "index", "tome-of-fey-secrets" | first %}
 {% include page_content.html page=tofs %}
 
-## Hideous Laughter
-
-{% include spell_details.html index="hideous-laughter" %}
-
 ## Momentary Madness
 
 {% include spell_details.html index="momentary-madness" %}
@@ -60,22 +56,6 @@ One day, Sypharia returned with a gift, a magical tome (See [[Tome of Fey Secret
 
 {% include spell_details.html index="intrude-thoughts" %}
 
-## Searing Pain
-
-{% include spell_details.html index="searing-pain" %}
-
-## Suggestion
-
-{% include spell_details.html index="suggestion" %}
-
-## Fear
-
-{% include spell_details.html index="fear" %}
-
-## Mistrust
-
-{% include spell_details.html index="mistrust" %}
-
 ## Voices
 
 {% include spell_details.html index="voices" %}
@@ -83,39 +63,3 @@ One day, Sypharia returned with a gift, a magical tome (See [[Tome of Fey Secret
 ## Delusion
 
 {% include spell_details.html index="delusion" %}
-
-## Paranoia
-
-{% include spell_details.html index="paranoia" %}
-
-## Phantasmal Killer
-
-{% include spell_details.html index="phantasmal-killer" %}
-
-## Control Thoughts
-
-{% include spell_details.html index="control-thoughts" %}
-
-## Modify Memory
-
-{% include spell_details.html index="modify-memory" %}
-
-## Delirious Whispers
-
-{% include spell_details.html index="delirious-whispers" %}
-
-## Mass Suggestion
-
-{% include spell_details.html index="mass-suggestion" %}
-
-## Switch Minds
-
-{% include spell_details.html index="switch-minds" %}
-
-## Dominate Thoughts
-
-{% include spell_details.html index="dominate-thoughts" %}
-
-## Delirium
-
-{% include spell_details.html index="delirium" %}
