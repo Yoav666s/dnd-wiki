@@ -1,8 +1,8 @@
 ---
-title: "Fey Spirit"
-index: 
-  - fey-spirit
-permalink: /classes/sorcerer/fey-spirit/
+title: "Fey Soul"
+index:
+  - fey-soul
+permalink: /classes/sorcerer/fey-soul/
 excerpt: "Your innate magic comes from the distant realms of the Feywild."
 subclass: sorcerer
 # header:
@@ -26,7 +26,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | 7th | [[!Confusion]], [[!Greater Invisibility]] |
 | 9th | [[!Dream]], [[!Modify Memory]] |
 
-Consult the Fey Magic Oddities table and choose or randomly determine a way your connection to the Feywild manifests itself whenever you cast any of your sorcerer spells. 
+Consult the Fey Magic Oddities table and choose or randomly determine a way your connection to the Feywild manifests itself whenever you cast any of your sorcerer spells.
 
 ## Fey Magic Oddities
 
