@@ -21,11 +21,13 @@ For about a month now, numerous the people of the court have been hearing voices
 
 # Appendix A
 
-## Thortmere
+## Geography
+
+### Thortmere
 {% assign thortmere = site.lore | where: "index", "thortmere" | first %}
 {% include page_content.html page=thortmere %}
 
-## Mirtenville
+#### Mirtenville
 Mirtenville is a small village near Harkstone around the center of Thortmere. It's snowy in the winter and still a bit rainy in the summer, creating a nurturing ground for crops most of the year.
 
 ## Jasper Middlewood
