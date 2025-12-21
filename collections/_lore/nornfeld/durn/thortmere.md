@@ -13,6 +13,8 @@ Thortmere is a cold country in the north of [[Durn]], mostly inhabited by humans
 # Sun Rock Castle
 Built on the Trest mountain range in the east side of Corodill, Sun Rock Castle is named this way because the Trest mountains block the sunrise, which can be seen from the castle.
 
+# Other Cities
+
 - Harkstone
 - Thoroughmill
 - Falkenshire
