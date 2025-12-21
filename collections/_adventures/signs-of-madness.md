@@ -24,6 +24,7 @@ For about a month now, numerous the people of the court have been hearing voices
 ## Geography
 
 ### Thortmere
+
 {% assign thortmere = site.lore | where: "index", "thortmere" | first %}
 {% include page_content.html page=thortmere %}
 
