@@ -36,7 +36,7 @@ bonus_actions: |
 
   **Misty Step (2/day).** Jasper casts Misty Step, using the same spellcasting ability as Spellcasting.
 actions: |
-  **Multiattack.** Jasper makes one psychic strike and casts Momentary Madness if available.
+  **Multiattack.** Jasper makes one Psychic Strike and casts Momentary Madness if available.
 
   **Psychic Strike.** Wisdom Saving Throw: DC 16, one creature within 90 feet. Failure: 12 (2d6 + 5) Psychic damage.
 
