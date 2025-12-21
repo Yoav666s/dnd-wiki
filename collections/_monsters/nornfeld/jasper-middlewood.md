@@ -30,7 +30,7 @@ traits: |
 
   **Subtle Spell (1/day).** When Jasper casts a spell, he may cast it without any verbal or somatic components.
 
-  **Tome of Delirium.** Whenever a creature succeeds on an Intelligence, Wisdom, or Charisma saving throw against one of his spells or effects, Jasper takes 1d4 psychic damage.
+  **Tome of Fey Secrets.** Whenever a creature succeeds on an Intelligence, Wisdom, or Charisma saving throw against one of his spells or effects, Jasper takes 1d4 psychic damage.
 bonus_actions: |
   **Artful Magic.** Immediately before or after Jasper casts a spell of 1st level or higher (that he can't cast at will), he can use his bonus action to teleport up to 15 feet to an unoccupied space he can see.
 
@@ -38,19 +38,23 @@ bonus_actions: |
 
   **Misty Step (2/day).** Jasper casts Misty Step, using the same spellcasting ability as Spellcasting.
 actions: |
+  **Multiattack.** Jasper makes one psychic strike and casts Momentary Madness.
+
   **Psychic Strike.** Wisdom Saving Throw: DC 16, one creature within 90 feet. Failure: 9 (2d6 + 2) Psychic damage.
+
+  **Momentary Madness.** Wisdom Saving Throw: DC 16, one creature within 60 feet. Failure: The target has the Charmed condition for 1 round. While charmed in this way, the target's eyes glow a sickly shade of purple. The charmed target must use its action before or after moving to make a melee attack against a creature other than itself that Jasper mentally chooses. If you choose no creature or if none are within its reach, the charmed target acts normally.
 
   **Spellcasting.** Jasper casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 16, +8 to hit with spell attacks):
 
   At will: dancing lights, mage armor (included in AC), mage hand, message, notion, prestidigitation
 
-  2/day each: momentary madness, fly
+  2/day each: fly
 
-  1/day each: blink, dimension door, invisibility
+  1/day each: blink, dimension door, fog cloud, invisibility
 
   Silvery tears slowly come down from Jasper's eyes whenever he casts a spell.
 reactions: |
-  **Shield (2/day).** Jasper casts shield in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.
+  **Shield (3/day).** Jasper casts shield in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.
 excerpt: "Medium Human (Sorcerer), Neutral"
 header:
   overlay_image: /assets/images/monsters/jasper-middlewood/header.png
