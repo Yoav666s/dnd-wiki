@@ -40,7 +40,7 @@ actions: |
 
   **Psychic Strike.** Wisdom Saving Throw: DC 16, one creature within 90 feet. Failure: 12 (2d6 + 5) Psychic damage.
 
-  **Momentary Madness (Recharge 5-6).** Wisdom Saving Throw: DC 16, one creature within 60 feet. Failure: The target has the Charmed condition for 1 round. While charmed in this way, the target's eyes glow a sickly shade of purple. The charmed target must use its action before or after moving to make a melee attack against a creature other than itself that Jasper mentally chooses. If you choose no creature or if none are within its reach, the charmed target acts normally.
+  **Momentary Madness (Recharge 5-6).** Wisdom Saving Throw: DC 16, one creature within 60 feet. Failure: The target has the Charmed condition for 1 round. While charmed in this way, the target's eyes glow a sickly shade of purple. The charmed target must use its action before or after moving to make a melee attack against a creature other than itself that Jasper mentally chooses. If Jasper chooses no creature or if none are within the charmed target's reach, it acts normally.
 
   **Spellcasting.** Jasper casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 16, +8 to hit with spell attacks):
 
