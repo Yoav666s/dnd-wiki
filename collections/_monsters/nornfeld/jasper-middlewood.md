@@ -38,7 +38,7 @@ bonus_actions: |
 actions: |
   **Multiattack.** Jasper makes one psychic strike and casts Momentary Madness if available.
 
-  **Psychic Strike.** Wisdom Saving Throw: DC 16, one creature within 90 feet. Failure: 14 (3d6 + 3) Psychic damage.
+  **Psychic Strike.** Wisdom Saving Throw: DC 16, one creature within 90 feet. Failure: 12 (2d6 + 5) Psychic damage.
 
   **Momentary Madness (Recharge 5-6).** Wisdom Saving Throw: DC 16, one creature within 60 feet. Failure: The target has the Charmed condition for 1 round. While charmed in this way, the target's eyes glow a sickly shade of purple. The charmed target must use its action before or after moving to make a melee attack against a creature other than itself that Jasper mentally chooses. If you choose no creature or if none are within its reach, the charmed target acts normally.
 
@@ -46,13 +46,13 @@ actions: |
 
   At will: dancing lights, mage armor (included in AC), mage hand, message, notion, prestidigitation
 
-  2/day each: fly
+  2/day each: fog cloud, fly
 
-  1/day each: blink, dimension door, fog cloud, invisibility
+  1/day each: blink, dimension door, invisibility
 
   Silvery tears slowly come down from Jasper's eyes whenever he casts a spell.
 reactions: |
-  **Shield (3/day).** Jasper casts shield in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.
+  **Shield (2/day).** Jasper casts shield in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.
 excerpt: "Medium Human (Sorcerer), Neutral"
 header:
   overlay_image: /assets/images/monsters/jasper-middlewood/header.png
