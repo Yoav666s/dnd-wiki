@@ -32,19 +32,19 @@ traits: |
 
   **Tome of Delirium.** Whenever a creature succeeds on an Intelligence, Wisdom, or Charisma saving throw against one of his spells, Jasper takes 1d4 psychic damage.
 bonus_actions: |
-  **Artful Magic.** Immediately before or after Jasper casts a spell of 1st level or higher, he can use his bonus action to teleport up to 15 feet to an unoccupied space he can see.
+  **Artful Magic.** Immediately before or after Jasper casts a spell of 1st level or higher (that he can't cast at will), he can use his bonus action to teleport up to 15 feet to an unoccupied space he can see.
 
-  **Hide and Seek.** Immediately after Jasper casts a spell of 1st level or higher, he can use his bonus action to become invisible for 1 minute, or until he attacks or casts a spell.
+  **Hide and Seek.** Immediately after Jasper casts a spell of 1st level or higher (that he can't cast at will), he can use his bonus action to become invisible for 1 minute, or until he attacks or casts a spell.
 actions: |
   **Dagger.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) piercing damage.
 
   **Spellcasting.** Jasper casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):
 
-  At will: fire bolt, fling, mage hand, message, prestidigitation
+  At will: dancing lights, disguise self, fling, message, notion, prestidigitation
 
   2/day each: momentary madness, voices
 
-  1/day each: counterspell, delusion, detect thoughts, intrude thoughts, mage armor, notion, invisibility
+  1/day each: blink, delusion, detect thoughts, intrude thoughts, invisibility, mage armor
 
   Silvery tears slowly come down from Jasper's eyes whenever he casts a spell.
 excerpt: "Medium Human (Sorcerer), Neutral"
