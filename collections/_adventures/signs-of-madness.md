@@ -16,8 +16,8 @@ This adventure takes place in the royal court of Corodill, the capital of Thortm
 ## Running the Adventure
 Signs of Madness is a short adventure intended for a party of 3-5 players of 4th to 5th level. This adventure assumes the PCs are passing through the royal court of Corodill in Thortmere, but it can take place in any royal court. If you do decide to run this adventure in a different setting or a different place, some NPCs introduced in this adventure may or may not be relevant to you. You may use different NPCs to run this adventure.
 
-# Part 1: Whispers Around the Court
-For about a month now, numerous the people of the court have been hearing voices telling them strange things. No one wants to sound crazy, so they keep it to themselves.
+# Part 1: An Unjustified Execution 
+In the past few months, numerous the people of the court have been executed for treason. One of them was Lord Oderus Fritston, a beloved member of the court. His wife Mina still can't believe that is true. She refuses to believe that her husband, the man she knew and loved, would do such a terrible thing. It wasn't just that she missed him, the idea of him conspiring against the king is outright ridiculous to her. Of course, she accepted the king's decision to execute her husband and didn't confront him about it. That would be suicide. But she is determined to get to the root of this and find out what actually happened.
 
 # Appendix A
 
