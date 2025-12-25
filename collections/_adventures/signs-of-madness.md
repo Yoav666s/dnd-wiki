@@ -21,6 +21,9 @@ In the past few months, numerous the people of the court have been executed for 
 
 # Appendix A
 
+## Oderus Fritston
+Lord Oderus Fritston was a courtier in Sun Rock Castle. He had no enemies, 
+
 ## Mirtenville
 Mirtenville is a small village near Harkstone around the center of Thortmere. It's snowy in the winter and still a bit rainy in the summer, creating a nurturing ground for crops most of the year.
 
