@@ -16,13 +16,10 @@ This adventure takes place in the royal court of Corodill, the capital of Thortm
 ## Running the Adventure
 Signs of Madness is a short adventure intended for a party of 3-5 players of 4th to 5th level. This adventure assumes the PCs are passing through the royal court of Corodill in Thortmere, but it can take place in any royal court. If you do decide to run this adventure in a different setting or a different place, some NPCs introduced in this adventure may or may not be relevant to you. You may use different NPCs to run this adventure.
 
-# Part 1: An Unjustified Execution 
-In the past few months, numerous the people of the court have been executed for treason. One of them was Lord Oderus Fritston, a beloved member of the court. His wife Mina still can't believe that is true. She refuses to believe that her husband, the man she knew and loved, would do such a terrible thing. It wasn't just that she missed him, the idea of him conspiring against the king is outright ridiculous to her. Of course, she accepted the king's decision to execute her husband and didn't confront him about it. That would be suicide. But she is determined to get to the root of this and find out what actually happened.
+# Part 1: An Unjustified Execution
+In the past few months, numerous the people of the court have been executed for treason. One of them was lord Oderus Fritston, a beloved member of the court. His wife Minara still can't believe that is true. She refuses to believe that her husband, the man she knew and loved, would do such a terrible thing. It wasn't just that she missed him, the idea of him conspiring against the king is outright ridiculous to her. Of course, she accepted the king's decision to execute her husband and didn't confront him about it. That would be suicide. But she is determined to get to the root of this and find out what actually happened.
 
 # Appendix A
-
-## Oderus Fritston
-Lord Oderus Fritston was a courtier in Sun Rock Castle. He had no enemies, 
 
 ## Mirtenville
 Mirtenville is a small village near Harkstone around the center of Thortmere. It's snowy in the winter and still a bit rainy in the summer, creating a nurturing ground for crops most of the year.
@@ -37,6 +34,9 @@ One night at the court garden, Sypharia returned with a gift, a magical tome (Se
 Ever since, he's been secretly using spells from the tome in order to subtly sow confusion and chaos in the court. The tome has been telling him things, feeding him tales of his greatness, causing him to mistrust his superiors, and encouraging him to infect others with madness. Using metamagic, he'd subtly cast spells like [[detect thoughts]] in order to find out what other courtiers are thinking, then he would cast [[notion]] or [[intrude thoughts]] to try and plant strange ideas in their minds. On his ostensible path to the top, whenever he'd like to get rid of or neutralize another courtier, he'd use [[delusion]] to cause him or her to believe that the crown is investigating them due to suspicion of treason. They would start acting suspicious, trying too hard to prove their innocence and loyalty. Then the king would actually grow suspicious of them which would result in a real investigation. Regardless of whether the king had found anything to convict the courtier, they would lose favor and be subjected to torture. The interrogation would always end in a confession of some sort, sincere or otherwise, and an execution would follow.
 
 {% include stat_block.html index="jasper-middlewood" %}
+
+## Oderus Fritston
+Lord Oderus Fritston was the court auditor in Sun Rock Castle. He was the person who ensured that the crown's laws and procedures are exercised properly and cleanly. He didn't initiate arrests or inquiries, but examined completed investigations for procedural irregularities. This had made him a threat to Jasper, as he started noticing a pattern in the recent executions: the subjects started acting paranoid for no apparent reason, there was very little physical evidence if at all, and the confessions didn't make sense. Jasper had learned this through the [[detect thoughts]] spell, before Oderus had the chance to talk to anyone about it. He then casted [[delusion]] on him and made him believe that the king has already started investigating him as well, and he is convinced that Oderus is conspiring against him. Without realizing that he's repeating the pattern that he'd just figured out, he started compulsively searching for hidden signs that he's being investigated in the documents he received, the way the king talked to and looked at him, and parts of overheard conversations around the court.
 
 # Appendix B
 
