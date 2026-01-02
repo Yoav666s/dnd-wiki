@@ -50,7 +50,7 @@ actions: |
 
   1/day each: blink, dimension door, invisibility
 
-  Silvery tears slowly come down from Jasper's eyes whenever he casts a spell.
+  Silvery tears slowly come down from Jasper's eyes whenever he casts a spell or uses a magical ability.
 reactions: |
   **Shield (2/day).** Jasper casts shield in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.
 excerpt: "Medium Human (Sorcerer), Neutral"
