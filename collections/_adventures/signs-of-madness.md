@@ -3,7 +3,7 @@ title: "Signs of Madness"
 index:
   - signs-of-madness
 permalink: /adventures/signs-of-madness/
-excerpt: "This adventure takes place in the royal court of Corodill, the capital of Thortmere, and at the end of this adventure the party will gain access to the Tome of Fey Secrets, a cursed book full of forbidden spells that slowly drives its owner insane."
+excerpt: "This solo adventure takes place in the royal court of Corodill, the capital of Thortmere, and at the end of this adventure the player will gain access to the Tome of Fey Secrets, a cursed book full of forbidden spells that slowly drives its owner insane."
 wip: true
 header:
   overlay_image: /assets/images/items/tome-of-fey-secrets/header.png
@@ -11,10 +11,16 @@ header:
 ---
 
 # Introduction
-This adventure takes place in the royal court of Corodill, the capital of Thortmere, and by the end of this adventure the party could potentially gain access to the [[Tome of Fey Secrets]], a cursed book full of forbidden spells that slowly drives its owner insane. This book contains spells that trifle with the subject's mind, as listed in [[Appendix B]].
+This solo adventure takes place in the royal court of Corodill, the capital of Thortmere, and by the end of this adventure the player could potentially gain access to the [[Tome of Fey Secrets]], a cursed book full of forbidden spells that slowly drives its owner insane. This book contains spells that trifle with the subject's mind, as listed in [[Appendix B]].
 
 ## Running the Adventure
-Signs of Madness is a short adventure intended for a party of 3-5 players of 4th to 5th level. This adventure assumes the PCs are passing through the royal court of Corodill in Thortmere, but it can take place in any royal court. If you do decide to run this adventure in a different setting or a different place, some NPCs introduced in this adventure may or may not be relevant to you. You may modify existing or use different NPCs to run this adventure.
+Signs of Madness is a mystery adventure intended for one 5th level PC and one DM. This adventure assumes the PC is a member of the royal court of Corodill in Thortmere, but it can take place in any royal court. If you do decide to run this adventure in a different setting or a different place, some NPCs introduced in this adventure may or may not be relevant to you. You may modify existing or use different NPCs to run this adventure.
+
+## Backgrounds
+A number of pre-made backgrounds are provided for the PC, but you may use any background that makes sense within the context of the adventure and make adjustments as necessary.
+
+### The Court Auditor's Assistant
+The player is the court auditor's assistant.
 
 # Part 1: An Unjustified Execution
 In the past few months, numerous the people of the court of Sun Rock Castle have been executed for treason. One of them was lord [[Oderus Fritston]], a beloved member of the court who was allegedly conspiring against the king. His wife Minara still can't believe that it's true. She refuses to believe that her husband, the man she knew and loved, would do such a terribly stupid thing. It wasn't just that she missed him, the idea of him conspiring against the king is outright preposterous to her. Of course, she accepted the king's decision to execute her husband and didn't confront him about it. That would be suicide. But she is determined to get to the root of this and find out what had actually happened.
