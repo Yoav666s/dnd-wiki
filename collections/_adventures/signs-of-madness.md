@@ -17,10 +17,10 @@ This solo adventure takes place in the royal court of Corodill, the capital of T
 Signs of Madness is a mystery adventure intended for one 5th level PC and one DM. This adventure assumes the PC is a member of the royal court of Corodill in Thortmere, but it can take place in any royal court. If you do decide to run this adventure in a different setting or a different place, some NPCs introduced in this adventure may or may not be relevant to you. You may modify existing or use different NPCs to run this adventure.
 
 ## Backgrounds
-A number of pre-made backgrounds are provided for the PC, but you may use any background that makes sense within the context of the adventure and make adjustments as necessary.
+A number of pre-made backgrounds are provided for the player to choose from, but you may use any background that makes sense within the context of the adventure and make adjustments as necessary.
 
 ### The Court Auditor's Assistant
-The player is the court auditor's assistant.
+The player was initially the court auditor's assistant, helping Oderus to process records related to royal investigations, transcripts of meetings, and legal documents. They'd spend long hours reading, copying, and indexing these documents that few others in the court have ever touched. Their task was to process arrest warrants, interrogation records, confessions, witness statements, and execution orders after the fact, often days and weeks after the events themselves. They were expected to notice any inconsistencies and report them to Oderus, and to prepare the documents for his review, arranging them chronologically and flagging any important or missing details.
 
 # Part 1: An Unjustified Execution
 In the past few months, numerous the people of the court of Sun Rock Castle have been executed for treason. One of them was lord [[Oderus Fritston]], a beloved member of the court who was allegedly conspiring against the king. His wife Minara still can't believe that it's true. She refuses to believe that her husband, the man she knew and loved, would do such a terribly stupid thing. It wasn't just that she missed him, the idea of him conspiring against the king is outright preposterous to her. Of course, she accepted the king's decision to execute her husband and didn't confront him about it. That would be suicide. But she is determined to get to the root of this and find out what had actually happened.
