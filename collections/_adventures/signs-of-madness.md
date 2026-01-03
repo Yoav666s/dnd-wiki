@@ -3,7 +3,7 @@ title: "Signs of Madness"
 index:
   - signs-of-madness
 permalink: /adventures/signs-of-madness/
-excerpt: "This solo adventure takes place in the royal court of Corodill, the capital of Thortmere, and at the end of this adventure the player will gain access to the Tome of Fey Secrets, a cursed book full of forbidden spells that slowly drives its owner insane."
+excerpt: "Signs of madness is solo adventure that takes place in the royal court of Corodill, the capital of Thortmere, and at the end of this adventure the player will gain access to the Tome of Fey Secrets, a cursed book full of forbidden spells that slowly drives its owner insane."
 wip: true
 header:
   overlay_image: /assets/images/items/tome-of-fey-secrets/header.png
@@ -11,10 +11,10 @@ header:
 ---
 
 # Introduction
-This solo adventure takes place in the royal court of Corodill, the capital of Thortmere, and by the end of this adventure the player could potentially gain access to the [[Tome of Fey Secrets]], a cursed book full of forbidden spells that slowly drives its owner insane. This book contains spells that trifle with the subject's mind, as listed in [[Appendix B]].
+Signs of madness is solo adventure that takes place in the royal court of Corodill, the capital of Thortmere, and by the end of this adventure the player could potentially gain access to the [[Tome of Fey Secrets]], a cursed book full of forbidden spells that slowly drives its owner insane. This book contains spells that trifle with the subject's mind, as listed in [[Appendix B]]. This adventure is intended for one character of 5th level or higher.
 
 ## Running the Adventure
-Signs of Madness is a mystery adventure intended for one 5th level PC and one DM. This adventure assumes the PC is a member of the royal court of Corodill in Thortmere, but it can take place in any royal court. If you do decide to run this adventure in a different setting or a different place, some NPCs introduced in this adventure may or may not be relevant to you. You may modify existing or use different NPCs to run this adventure.
+Signs of Madness is a mystery adventure intended for one player one DM. This adventure assumes the PC is a member of the royal court of Corodill in Thortmere, but it can take place in any royal court. If you do decide to run this adventure in a different setting or a different place, some NPCs introduced in this adventure may or may not be relevant to you. You may modify existing or use different NPCs to run this adventure.
 
 Before starting this adventure, ensure that the player is an accepted member of the royal court of Sun Rock Castle (or any royal court you choose to set this adventure in), or alternatively, that they have been granted entry through favors or successfully completing bounties and missions for the crown. Alternatively, you may have the player create a brand new character for the purposes of this adventure.
 
@@ -22,7 +22,9 @@ Before starting this adventure, ensure that the player is an accepted member of 
 A number of pre-made backgrounds are provided for the player to choose from, but you may use any background that makes sense within the context of the adventure and make adjustments as necessary.
 
 ### The Court Auditor's Assistant
-The player was initially the court auditor's assistant, helping Oderus to process records related to royal investigations, transcripts of meetings, and legal documents. They'd spend long hours reading, copying, and indexing these documents that few others in the court have ever touched. Their task was to process arrest warrants, interrogation records, confessions, witness statements, and execution orders after the fact, often days and weeks after the events themselves. They were expected to notice any inconsistencies and report them to Oderus, and to prepare the documents for his review, arranging them chronologically and flagging any important or missing details.
+The player was initially the court auditor's assistant, helping [[Oderus Fritston]] to process records related to royal investigations, transcripts of meetings, and legal documents. They'd spend long hours reading, copying, and indexing these documents that few others in the court have ever touched. Their task was to process arrest warrants, interrogation records, confessions, witness statements, and execution orders after the fact, often days and weeks after the events themselves. They were expected to notice any inconsistencies and report them to Oderus, and to prepare the documents for his review, arranging them chronologically and flagging any important or missing details.
+
+After the
 
 # Part 1: An Unjustified Execution
 In the past few months, numerous the people of the court of Sun Rock Castle have been executed for treason. One of them was lord [[Oderus Fritston]], a beloved member of the court who was allegedly conspiring against the king. His wife Minara still can't believe that it's true. She refuses to believe that her husband, the man she knew and loved, would do such a terribly stupid thing. It wasn't just that she missed him, the idea of him conspiring against the king is outright preposterous to her. Of course, she accepted the king's decision to execute her husband and didn't confront him about it. That would be suicide. But she is determined to get to the root of this and find out what had actually happened.
