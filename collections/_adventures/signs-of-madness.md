@@ -13,6 +13,9 @@ header:
 # Introduction
 Signs of madness is solo adventure that takes place in the royal court of Corodill, the capital of Thortmere, and by the end of this adventure the player could potentially gain access to the [[Tome of Fey Secrets]], a cursed book full of forbidden spells that slowly drives its owner insane. This book contains spells that trifle with the subject's mind, as listed in [[Appendix B]]. This adventure is intended for one character of 5th level or higher.
 
+## Adventure Background
+In the past few months, numerous the people of the court of Sun Rock Castle have been executed for treason. One of them was lord [[Oderus Fritston]], a beloved member of the court who was allegedly conspiring against the king. His wife Minara still can't believe that it's true. She refuses to believe that her husband, the man she knew and loved, would do such a terribly stupid thing. It wasn't just that she missed him, the idea of him conspiring against the king is outright preposterous to her. Of course, she accepted the king's decision to execute her husband and didn't confront him about it. That would be suicide. But she is determined to get to the root of this and find out what had actually happened.
+
 ## Running the Adventure
 Signs of Madness is a mystery adventure intended for one player one DM. This adventure assumes the PC is a member of the royal court of Corodill in Thortmere, but it can take place in any royal court. If you do decide to run this adventure in a different setting or a different place, some NPCs introduced in this adventure may or may not be relevant to you. You may modify existing or use different NPCs to run this adventure.
 
@@ -27,8 +30,6 @@ The player was initially the court auditor's assistant, helping [[Oderus Fritsto
 After the
 
 # Part 1: An Unjustified Execution
-In the past few months, numerous the people of the court of Sun Rock Castle have been executed for treason. One of them was lord [[Oderus Fritston]], a beloved member of the court who was allegedly conspiring against the king. His wife Minara still can't believe that it's true. She refuses to believe that her husband, the man she knew and loved, would do such a terribly stupid thing. It wasn't just that she missed him, the idea of him conspiring against the king is outright preposterous to her. Of course, she accepted the king's decision to execute her husband and didn't confront him about it. That would be suicide. But she is determined to get to the root of this and find out what had actually happened.
-
 > "I had never seem him like this. He was so sure that the king was after him for some reason and he told me that the only way to get out of this was to escape the castle. I don't know what had got into him, but it wasn't the Oderus I knew. He didn't tell me the real reason he thought he was under investigation, only these signs; like, the way that the king looked at him, masked threats within the documents he received, coded messages he overheard around the court. He was completely paranoid. Delusional, even. He told me he noticed a pattern in recent executions. Courtiers acting paranoid all of a sudden prompting investigations and interrogations. Very little evidence, if at all. Strange confessions that seemed out of character. It's the same thing that happened to him."
 
 # Appendix A
