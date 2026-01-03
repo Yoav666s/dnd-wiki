@@ -16,6 +16,8 @@ This solo adventure takes place in the royal court of Corodill, the capital of T
 ## Running the Adventure
 Signs of Madness is a mystery adventure intended for one 5th level PC and one DM. This adventure assumes the PC is a member of the royal court of Corodill in Thortmere, but it can take place in any royal court. If you do decide to run this adventure in a different setting or a different place, some NPCs introduced in this adventure may or may not be relevant to you. You may modify existing or use different NPCs to run this adventure.
 
+Before starting this adventure, ensure that the player is an accepted member of the royal court of Sun Rock Castle (or any royal court you choose to set this adventure in), or alternatively, that they have been granted entry through favors or successfully completing bounties and missions for the crown. Alternatively, you may have the player create a brand new character for the purposes of this adventure.
+
 ## Backgrounds
 A number of pre-made backgrounds are provided for the player to choose from, but you may use any background that makes sense within the context of the adventure and make adjustments as necessary.
 
