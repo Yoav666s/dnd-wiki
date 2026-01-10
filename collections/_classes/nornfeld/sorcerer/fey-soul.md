@@ -59,6 +59,6 @@ Starting at 18th level, as an action, you can expend one 9th level spell slot to
 | d20  | Phrasing | Terms |
 | :--: | :------: | :---: |
 | 1 | "May I have your name?" or, "Can you give me your name?" | The target cannot use or write down its own name for any purpose, and must choose another. The caster can then use the target's name for any purpose. |
-| 2 | "Listen to me." | |
+| 2 | "Listen to me." | The target must obey the caster's instructions. |
 
 A remove curse, greater restoration, or wish spell end this effect.
