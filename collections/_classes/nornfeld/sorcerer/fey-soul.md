@@ -54,4 +54,4 @@ Beginning at 6th level, you can use your bonus action to become invisible immedi
 Starting at 14th level, whenever you end the invisible condition early by casting a spell, you can expend 1 sorcery point to resume invisibility for the rest of the duration.
 
 # Binding Contract
-Starting at 18th level, as an action, you can expend a 9th level spell slot to offer another creature a binding fey contract. The contract must be phrased clearly in a language the creature understands, although you're not required to clarify that it is actually a contract. If the creature willingly (but not necessarily knowingly) agrees, it is bound by the contract.
+Starting at 18th level, as an action, you can expend one 9th level spell slot to offer another creature a binding fey contract. The contract must be phrased clearly in a language the creature understands, although you're not required to clarify that it is actually a contract. If it's not obvious that it's a contract, a successful Intelligence saving throw will reveal that it is. If the creature willingly (but not necessarily knowingly) agrees, it is bound by the contract.
