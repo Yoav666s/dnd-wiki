@@ -53,5 +53,5 @@ Beginning at 6th level, you can use your bonus action to become invisible immedi
 # Element of Surprise
 Starting at 14th level, whenever you end the invisible condition early by casting a spell, you can expend 1 sorcery point to resume invisibility for the rest of the duration.
 
-# Mesmerizing Presence
-Starting at 18th level, whenever you cast an Enchantment spell that requires one or more targets to make a saving throw, you can expend 1 sorcery point per target to impose disadvantage on its saving throw.
+# Binding Contract
+Starting at 18th level, as an action, you can expend a 9th level spell slot to offer another creature a binding fey contract. The contract must be phrased clearly in a language the creature understands, although you're not required to clarify that it is actually a contract. If the creature willingly (but not necessarily knowingly) agrees, it is bound by the contract.
