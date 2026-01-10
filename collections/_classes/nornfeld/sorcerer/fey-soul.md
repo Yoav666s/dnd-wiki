@@ -48,7 +48,7 @@ Additionally, you have advantage on saving throws you make to avoid or end the C
 Starting at 1st level, you can use your bonus action on your turn to teleport up to 15 feet to an unoccupied space you can see, immediately before or after you cast a spell of 1st level or higher.
 
 # Hide and Seek
-Beginning at 6th level, you can use your bonus action to become invisible immediately after you cast a spell of 1st level or higher. You stay invisible for 1 round, or until you attack or cast a spell.
+Beginning at 6th level, you can use your bonus action to become invisible immediately after you cast a spell of 1st level or higher. You stay invisible until the start of your next turn, or until you attack or cast a spell.
 
 # Element of Surprise
 Starting at 14th level, whenever you end the invisible condition early by casting a spell, you can expend 1 sorcery point to resume invisibility for the rest of the duration.
