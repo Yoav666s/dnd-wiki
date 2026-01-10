@@ -65,4 +65,4 @@ A contract can contain one term, which can be phrased innocuously. In the follow
 | 3 | "May I have a minute of your time?" | The target forgets a chosen minute from their past and  you remember it instead. You must specify to the DM a minute you'd like to steal, which can be a memory you know of or one you describe in general terms. If the memory you specify doesn't exist, the DM chooses another memory instead. |
 | 4 | "May I have your attention, please?" | While you're within 100 feet of the target, you can use your action to see and hear through its eyes and ears. During this time, you are deaf and blind with regard to your own senses, and the target is distracted, seemingly lost in thought. |
 
-This effect ends on a creature if you use this feature again or if you dismiss it as an action. A remove curse, greater restoration, or wish spell also end this effect.
+This effect ends on a creature if you use this feature again or if you dismiss it as an action. A remove curse, greater restoration, or wish spell will also end this effect.
