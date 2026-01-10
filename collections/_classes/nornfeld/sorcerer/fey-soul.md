@@ -61,7 +61,7 @@ A contract can contain one term, which can be phrased innocuously. In the follow
 | d20  | Phrasing | Terms |
 | :--: | :------: | :---: |
 | 1 | "May I have your name?" | The target cannot use or write down its own name for any purpose, and must use another. You can then use the target's name for any purpose. |
-| 2 | "Will you listen to me for a moment?" | The target must obey your instructions. You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the effect ends. |
+| 2 | "Will you listen to me for a moment?" | You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the effect ends. |
 | 3 | "May I have a minute of your time?" | The target forgets a chosen minute from their past and  you remember it instead. You must specify to the DM a minute you'd like to steal, which can be a memory you know of or one you describe in general terms. If the memory you specify doesn't exist, the DM chooses another memory instead. |
 | 4 | "May I have your attention, please?" | While you're within 100 feet of the target, you can use your action to see and hear through its eyes and ears. During this time, you are deaf and blind with regard to your own senses, and the target is distracted, seemingly lost in thought. |
 
