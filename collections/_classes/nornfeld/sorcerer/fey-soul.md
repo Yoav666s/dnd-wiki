@@ -58,7 +58,7 @@ Starting at 18th level, as an action, you can expend one 9th level spell slot to
 
 A contract can contain one term, which can be phrased innocuously. In the following Term Table is a non-exhaustive list of terms and their respective phrasings.
 
-| d20  | Phrasing | Terms |
+| d4  | Phrasing | Terms |
 | :--: | :------: | :---: |
 | 1 | "May I have your name?" | The target cannot use or write down its own name for any purpose, and must use another. You can then use the target's name for any purpose. |
 | 2 | "Will you listen to me for a moment?" | You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the effect ends. |
