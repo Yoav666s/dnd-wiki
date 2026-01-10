@@ -54,7 +54,7 @@ Beginning at 6th level, you can use your bonus action to become invisible immedi
 Starting at 14th level, whenever you end the invisible condition early by casting a spell, you can expend 1 sorcery point to resume invisibility for the rest of the duration.
 
 # Binding Contract
-Starting at 18th level, as an action, you can expend one 9th level spell slot to offer another creature a binding fey contract. The creature must be able to hear you, and the contract must be phrased clearly in a language the creature understands, although you're not required to clarify that it is actually a contract. If it's not obvious that it's a contract, a successful Intelligence saving throw will reveal that it is. If the creature willingly (but not necessarily knowingly) agrees, it is bound by the contract. While bound in this way, the creature takes 5d10 psychic damage whenever it defies the terms of your contract.
+Starting at 18th level, as an action, you can expend one 9th level spell slot to offer another creature a binding fey contract. The creature must be able to hear you, and the contract must be phrased clearly in a language the creature understands, although you're not required to clarify that it is actually a contract. If it's not obvious that it's a contract, a successful Intelligence saving throw will reveal that it is. If the creature willingly (but not necessarily knowingly) agrees, it is bound by the contract. While bound in this way, the creature takes 5d10 psychic damage whenever it deliberately defies the terms of your contract (defying the terms of the contract requires conscious effort). 
 
 A contract can contain one term, which can be phrased innocuously. In the following Term Table is a non-exhaustive list of terms and their respective phrasings.
 
@@ -63,6 +63,6 @@ A contract can contain one term, which can be phrased innocuously. In the follow
 | 1 | "May I have your name?" | The target cannot use or write down its own name for any purpose, and must use another. You can then use the target's name for any purpose. |
 | 2 | "Will you listen to me?" | The target must obey your instructions while you're present. |
 | 3 | "May I have a minute of your time?" | The target forgets a chosen minute from their past and  you remember it instead. You must specify to the DM a minute you'd like to steal, which can be a memory you know of or one you describe in general terms. If the memory you specify doesn't exist, the DM chooses another memory instead. |
-| 4 | "May I have your attention, please?" | While you're within 100 feet of the target, you can take your action to see and hear through its eyes and ears. During this time, you are deaf and blind with regard to your own senses, and the target is distracted, seemingly lost in thought. |
+| 4 | "May I have your attention, please?" | While you're within 100 feet of the target, you can use your action to see and hear through its eyes and ears. During this time, you are deaf and blind with regard to your own senses, and the target is distracted, seemingly lost in thought. |
 
 A remove curse, greater restoration, or wish spell end this effect.
