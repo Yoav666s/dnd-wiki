@@ -1,0 +1,9 @@
+{% assign all_spells = site.spells | where: "source", page.title | sort: "level" %}
+{% assign classes = all_subclasses | map: "subclass" | uniq %}
+{% for class in classes %}
+  <h2 id="{{ class | slugify }}">{{ class | capitalize }}</h2>
+  The following are {{ class }} subclasses.
+  {% assign subclasses = all_subclasses | where: "subclass", class %}
+  {% for subclass in subclasses %}<h3 id="{{ subclass.title | slugify }}">{{ subclass.title }}</h3>{% include page_content.html page=subclass %}
+  {% endfor %}
+{% endfor %}
