@@ -23,6 +23,7 @@ description: |
 
   The target is not initially aware of your presence in its mind. The target makes a Wisdom saving throw if the content of your thoughts or imagination conflicts with its own, contradicts strongly held beliefs, or is inconsistent with its knowledge. If it succeeds, the spell ends. On failure, it believes that your planted thoughts or imagery originate from its own mind. If the target is not a player, the DM decides the consequences of this.
 excerpt: "You control the thoughts of a creature you choose."
+source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
