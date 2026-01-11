@@ -22,6 +22,7 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage dealt by this spell increases by 1d6 for every slot level above 2nd. 
 excerpt: "One creature you choose must succeed a Wisdom saving throw or feel immense pain."
+source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
