@@ -5,6 +5,7 @@ index:
 permalink: /adventures/signs-of-madness/
 excerpt: "Signs of madness is solo adventure that takes place in the royal court of Corodill, the capital of Thortmere, and at the end of this adventure the player will gain access to the Tome of Fey Secrets, a cursed book full of forbidden spells that slowly drives its owner insane."
 wip: true
+source: "Fillumir's Guide to the Feywild"
 header:
   overlay_image: /assets/images/items/tome-of-fey-secrets/header.png
   teaser: /assets/images/items/tome-of-fey-secrets/header.jpg
