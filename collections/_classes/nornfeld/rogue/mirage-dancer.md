@@ -5,6 +5,7 @@ index:
 permalink: /classes/rogue/mirage-dancer/
 excerpt: "Mirage Dancers are trained in subtle magic, using illusions to enhance their roguish abilities."
 subclass: rogue
+source: "Fillumir's Guide to the Feywild"
 header:
   overlay_image: /assets/images/classes/rogue/mirage-dancer/header.png
   teaser: /assets/images/classes/rogue/mirage-dancer/header.jpg
