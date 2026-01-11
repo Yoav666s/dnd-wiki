@@ -29,5 +29,5 @@ actions: |
 
   **Invisibility.** The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
 excerpt: "Tiny Fey, Chaotic Neutral"
-source: "Basic Rules"
+source: "Fillumir's Guide to the Feywild"
 ---
