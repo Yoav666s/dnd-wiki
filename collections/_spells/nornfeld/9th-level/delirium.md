@@ -23,6 +23,7 @@ description: |
 
   If you concentrate on this spell for the full duration, it lasts until dispelled. A greater restoration or heal spell cast on the target ends the effects of this spell.
 excerpt: "One humanoid you choose must succeed on an Intelligence saving throw or become delirious for the duration."
+source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
