@@ -3,7 +3,7 @@
 {% for level in levels %}
   <h2 id="{{ level | slugify }}">{{ level | capitalize }}</h2>
   The following are {{ level }} spells.
-  {% assign subclasses = all_subclasses | where: "subclass", class %}
-  {% for subclass in subclasses %}<h3 id="{{ subclass.title | slugify }}">{{ subclass.title }}</h3>{% include page_content.html page=subclass %}
+  {% assign spells = all_spells | where: "level", level %}
+  {% for spell in spells %}<h3 id="{{ spell.title | slugify }}">{{ spell.title }}</h3>{% include page_content.html page=spell %}
   {% endfor %}
 {% endfor %}
