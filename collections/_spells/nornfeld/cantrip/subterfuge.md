@@ -21,6 +21,7 @@ description: |
   - You teleport an item that you're visibly carrying to your hand, or from your hand to a visible place on your person such as your belt. The item can weigh no more than 5 lbs.
   - You instantaneously light or snuff out a small flame such as that of a candle or a torch.
 excerpt: "You create a magical distraction within range."
+source: "Fillumir's Guide to the Feywild"
 header:
   overlay_image: /assets/images/spells/subterfuge/header.png
   teaser: /assets/images/spells/subterfuge/header.jpg
