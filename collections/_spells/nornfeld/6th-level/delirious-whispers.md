@@ -29,6 +29,7 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 8th level or higher, it lasts until dispelled if you concentrate on it for the full duration.
 excerpt: "One humanoid you choose must succeed on a Wisdom saving throw or hear whispers for the duration."
+source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
