@@ -39,7 +39,7 @@ It’s hard to make generalizations about metamorphes, but your metamorphe chara
 When determining your character’s ability scores, increase one ability score of your choice by 2 and another one by 1. You can't raise any of your scores above 20.
 
 ## Creature Type
-You are a fey.
+You are a Fey.
 
 ## Age
 Metamorphes reach adulthood in their late teens and live less than a century.
