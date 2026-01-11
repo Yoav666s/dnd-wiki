@@ -6,6 +6,7 @@ permalink: /items/tome-of-fey-secrets/
 excerpt: "This book contains forbidden knowledge of spells and incantations that mess with the subjects' minds."
 tags:
   - Item
+source: "Fillumir's Guide to the Feywild"
 header:
   overlay_image: /assets/images/items/tome-of-fey-secrets/header.png
   teaser: /assets/images/items/tome-of-fey-secrets/header.jpg
