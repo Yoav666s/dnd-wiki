@@ -4,6 +4,6 @@
   <h2 id="{{ level | slugify }}">{{ level | capitalize }}</h2>
   The following are {{ level }} spells.
   {% assign spells = all_spells | where: "level", level %}
-  {% for spell in spells %}<h3 id="{{ spell.title | slugify }}">{{ spell.title }}</h3>{% include page_content.html page=spell %}
+  {% for spell in spells %}<h3 id="{{ spell.title | slugify }}">{{ spell.title }}</h3>{% include spell_details.html page=spell %}
   {% endfor %}
 {% endfor %}
