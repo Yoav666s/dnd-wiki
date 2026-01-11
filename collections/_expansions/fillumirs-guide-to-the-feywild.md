@@ -12,3 +12,5 @@ excerpt: "All you need to know about the Feywild!"
 # Welcome to the Feywild
 
 ## The Feywild Reimagined 
+
+{% include expansion_spells.html %}
