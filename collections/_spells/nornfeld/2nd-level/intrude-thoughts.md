@@ -23,6 +23,7 @@ description: |
 
   The target is not initially aware of your presence in its mind, but it becomes aware of it if the content of your thoughts or imagination conflicts with its own, contradicts strongly held beliefs, or is inconsistent with its knowledge. If the target is or becomes unwilling, it makes a Wisdom saving throw. If it succeeds, the spell ends. 
 excerpt: "You intrude the thoughts of a creature you can see within range."
+source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
