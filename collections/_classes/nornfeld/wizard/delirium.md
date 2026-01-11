@@ -6,6 +6,7 @@ index:
 permalink: /classes/wizard/delirium/
 excerpt: "As a member of the School of Delirium, you have learned to contain the knowledge inside the Tome of Fey Secrets without going mad."
 subclass: wizard
+source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/classes/wizard/header.png
 #   teaser: /assets/images/classes/wizard/header.jpg
