@@ -27,7 +27,7 @@ Metamorphes are known for their unsettling form. Their skin is tight on their sl
 
 [:races/metamorphe/alt;header:]
 
-Their skin has a sickly grey-ish purple tone, and their eyes are pitch black. They can change shape, and they prefer to do so around other people, or mirors.
+Their skin has a sickly grey-ish purple tone, and their eyes are pitch black. They can change shape, and they prefer to do so around other people, or mirrors.
 
 # Blend In
 Metamorphes like to blend in with other races in society, hiding their true form under the guise of other humanoids. They're good at passing themselves off as other people, and use that ability to their greatest advantage.
