@@ -21,6 +21,7 @@ description: |
   
   **At higher levels.** When you cast this spell using a spell slot of 6th level or higher, it lasts until dispelled if you concentrate on it for the full duration. A remove curse or greater restoration spell cast on the target ends the lasting effects of this spell.
 excerpt: "A creature you choose starts hallucinating voices for the duration."
+source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
