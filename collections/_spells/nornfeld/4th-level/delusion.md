@@ -23,6 +23,7 @@ description: |
 
   When presented with contrary evidence, the target repeats the saving throw. On success, the delusion ends. A remove curse or greater restoration spell cast on the target also ends the delusion. Although, the target may not necessarily remember the source of it.
 excerpt: "You attempt to delude another creature."
+source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/delusion/header.png
 #   teaser: /assets/images/delusion/header.jpg
