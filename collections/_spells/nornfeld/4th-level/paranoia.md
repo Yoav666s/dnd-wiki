@@ -22,6 +22,7 @@ description: |
 
   A remove curse or greater restoration spell cast on the target ends the paranoia.
 excerpt: "You attempt to make another creature paranoid."
+source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
