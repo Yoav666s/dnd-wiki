@@ -25,6 +25,7 @@ description: |
 
   When the spell ends, the target's opinions, desires, and feelings revert to what they originally were unless you concentrated on this spell for the full duration. A greater restoration or heal spell cast on the target will also revert these back to normal.
 excerpt: "You dominate the thoughts of a creature you choose."
+source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
