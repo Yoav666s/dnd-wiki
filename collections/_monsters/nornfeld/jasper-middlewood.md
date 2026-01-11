@@ -54,6 +54,7 @@ actions: |
 reactions: |
   **Shield (2/day).** Jasper casts shield in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.
 excerpt: "Medium Human (Sorcerer), Neutral"
+source: "Fillumir's Guide to the Feywild"
 header:
   overlay_image: /assets/images/monsters/jasper-middlewood/header.png
   teaser: /assets/images/monsters/jasper-middlewood/header.jpg
