@@ -6,6 +6,7 @@ permalink: /races/metamorphe/
 excerpt: "Metamorphes are creatures who can change shape."
 tags:
   - Race
+source: "Fillumir's Guide to the Feywild"
 header:
   overlay_image: /assets/images/races/metamorphe/header.png
   teaser: /assets/images/races/metamorphe/header.jpg
@@ -36,6 +37,9 @@ It’s hard to make generalizations about metamorphes, but your metamorphe chara
 
 ## Ability Score Increase
 When determining your character’s ability scores, increase one ability score of your choice by 2 and another one by 1. You can't raise any of your scores above 20.
+
+## Creature Type
+You are a fey.
 
 ## Age
 Metamorphes reach adulthood in their late teens and live less than a century.
