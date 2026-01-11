@@ -25,6 +25,7 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 excerpt: "One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration."
+source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
