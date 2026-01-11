@@ -13,4 +13,7 @@ excerpt: "All you need to know about the Feywild!"
 
 ## The Feywild Reimagined 
 
+# Chapter ?: Spells
+Feywild spells.
+
 {% include expansion_spells.html %}
