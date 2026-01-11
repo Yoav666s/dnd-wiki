@@ -24,6 +24,7 @@ description: |
 
   If one creature would die while under the effects of this spell, this spell cannot be dispelled for the other unless it is resurrected.
 excerpt: "Two creatures you touch switch minds."
+source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
