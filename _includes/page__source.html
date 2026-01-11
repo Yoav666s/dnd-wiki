@@ -6,7 +6,7 @@
   {% endif %}
   {% assign index = source | remove: "'" | slugify %}
   {% assign expansion = site.expansions | where: "index", index | first %}
-  <div class="notice{% if source == "Survivor's Guide to Morgenfell" %}--danger{% elsif source == "Untold Legends of Nornfeld" %}--info{% elsif source == "Fillumir's Guide to the Feywild" %}--success{% elsif source != "Basic Rules" %}--success{% endif %}">
+  <div class="notice{% if source == "Survivor's Guide to Morgenfell" %}--danger{% elsif source == "Untold Legends of Nornfeld" %}--info{% elsif source == "Fillumir's Guide to the Feywild" %}--success{% elsif source != "Basic Rules" %}--primary{% endif %}">
     <i><a {% if expansion %}href="{{ expansion.url | relative_url }}" {% endif %}class="btn">{{ source }}</a></i>
   </div>
 {% endif %}
