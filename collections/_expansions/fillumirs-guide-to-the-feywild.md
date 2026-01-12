@@ -13,7 +13,17 @@ excerpt: "All you need to know about the Feywild!"
 
 ## The Feywild Reimagined 
 
+# Chapter?: Subclasses
+Feywild related subclasses.
+
+{% include expansion_subclasses.html %}
+
 # Chapter ?: Spells
 Feywild spells.
 
 {% include expansion_spells.html %}
+
+# Chapter?: Items
+Feywild items.
+
+{% include expansion_items.html %}
