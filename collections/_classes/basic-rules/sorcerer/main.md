@@ -93,7 +93,7 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 | Origin                  | Source      |
 | :---------------------- | :---------- |
 | [[!Draconic Bloodline]] | Basic Rules |
-| [[!Fey Spirit]] | Untold Legends of Nornfeld |
+| [[!Fey Soul]] | Fillumir's Guide to the Feywild |
 | [[!Poltergeist Soul]] | Untold Legends of Nornfeld |
 
 ## Font of Magic
