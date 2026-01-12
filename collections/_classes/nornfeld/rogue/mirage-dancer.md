@@ -33,3 +33,5 @@ Additionally, when you create an Illusory Double with [[Minor Illusion]], for th
 
 # Supreme Illusionist
 Starting at 17th level, when you roll for initiative and have no remaining Mirage Points, you regain a number of Mirage Points equal to your Charisma modifier (minimum of 1).
+
+[:classes/rogue/mirage-dancer:]
