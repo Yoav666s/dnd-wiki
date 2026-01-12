@@ -87,7 +87,7 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 | [[!Academic]]                  | Survivor's Guide to Morgenfell |
 | [[!Buccaneer]]                 | Untold Legends of Nornfeld     |
 | [[!Hitman]]                    | Survivor's Guide to Morgenfell |
-| [[!Mirage Dancer]]             | Untold Legends of Nornfeld     |
+| [[!Mirage Dancer]]             | Fillumir's Guide to the Feywild |
 | [[!Thief]]                     | Basic Rules                    |
 
 ## Ability Score Improvement
