@@ -1,6 +1,7 @@
 ---
 title: "Fey Warrior"
-index: "fey-warrior"
+index: 
+  - fey-warrior
 permalink: /classes/fighter/fey-warrior/
 excerpt: "Where others rely on brute force or rigid discipline, the Fey Warrior takes a different approach."
 subclass: fighter
