@@ -4,14 +4,14 @@ index:
   - trickster
   - way-of-the-trickster
 permalink: /classes/monk/trickster/
-excerpt: ""
+excerpt: "Monks of the Way of the Trickster are deviously cunning."
 subclass: monk
 source: "Fillumir's Guide to the Feywild"
 header:
   overlay_image: /assets/images/classes/monk/trickster/header.png
   teaser: /assets/images/classes/monk/trickster/header.jpg
 ---
-
+Monks of the Way of the Trickster are deviously cunning. They embed the magic and confusing nature of the Feywild in their techniques, beguiling their foes and dazzling their allies. They can change shape, turn invisible, and even teleport effortlessly around the battlefield.
 
 # Fey Trickery 
 Starting when you choose this tradition at 3rd level, you can use your ki to duplicate the effects of certain spells. As an action (or bonus action, depending on the spell), you can spend 2 ki points to cast on yourself [[alter self]], [[invisibility]], or [[misty step]], without providing material components. You also learn the [[Subterfuge]] cantrip if you don't already know it.
