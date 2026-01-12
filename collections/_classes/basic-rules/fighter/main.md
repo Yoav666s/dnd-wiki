@@ -85,7 +85,7 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 | Archetype        | Source                     |
 | :--------------- | :------------------------- |
 | [[!Champion]]    | Basic Rules                |
-| [[!Fey Warrior]] | Untold Legends of Nornfeld |
+| [[!Fey Warrior]] | Fillumir's Guide to the Feywild |
 | [[!Medic]]       | Survivor's Guide to Morgenfell |
 | [[!Triggerman]]  | Survivor's Guide to Morgenfell |
 
