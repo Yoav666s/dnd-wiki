@@ -62,3 +62,5 @@ As an action, you magically become a Fey for 1 minute, and you gain the followin
 - Your melee attacks deal additional psychic damage equal to your Charisma modifier.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
+
+[:classes/paladin/covenant:]
