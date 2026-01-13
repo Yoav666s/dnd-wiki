@@ -16,11 +16,11 @@ The Oath of the Covenant is about Fey deals and bargains. It may seem paradoxica
 # Tenets of Covenant
 A paladin who assumes the Oath of Covenant must adhere to the laws of the Feywild. 
 
-*Words are Contracts.* Watch your tongue, for you must keep your word no matter what.
+**Words are Contracts.** Watch your tongue, for you must keep your word no matter what.
 
-*Honor the Deal.* If you make a contract with someone, there is no going back. You must see it through.
+**Honor the Deal.** If you make a contract with someone, there is no going back. You must see it through.
 
-*Demand Retribution.* It is up to you to enforce your terms. If someone doesn't keep their end of a deal, it is up to you to make them pay. 
+**Demand Retribution.** It is up to you to enforce your terms. If someone doesn't keep their end of a deal, it is up to you to make them pay. 
 
 # Oath Spells
 You gain oath spells at the paladin levels listed.
@@ -38,11 +38,11 @@ You gain oath spells at the paladin levels listed.
 # Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-*Illusory Flames.* You can use your Channel Divinity to cause illusory flames to envelope creatures around you. As an action, you force each hostile creature in a 15-foot cube centered on you to make a Dexterity saving throw. On failure, a creature is outlined in blue, green, or violet light (your choice) for 1 minute. For the duration, affected creatures shed dim light in a 10-foot radius.
+**Illusory Flames.** You can use your Channel Divinity to cause illusory flames to envelope creatures around you. As an action, you force each hostile creature in a 15-foot cube centered on you to make a Dexterity saving throw. On failure, a creature is outlined in blue, green, or violet light (your choice) for 1 minute. For the duration, affected creatures shed dim light in a 10-foot radius.
 
 Any attack roll against an affected creature has advantage if the attacker can see it, and the affected creature can’t benefit from being invisible. Every time an affected creature takes damage, it repeats the Dexterity saving throw to end this effect.
 
-*Outwit.* You can use your Channel Divinity to twist your words with wit and enhance your insight. As a bonus action, you grant yourself a +5 bonus to Charisma (Deception) checks and Wisdom (Insight) checks for the next 10 minutes.
+**Outwit.** You can use your Channel Divinity to twist your words with wit and enhance your insight. As a bonus action, you grant yourself a +5 bonus to Charisma (Deception) checks and Wisdom (Insight) checks for the next 10 minutes.
 
 # Aura of Covenant 
 Beginning at 7th level, the magic of the Feywild is so infused in you that it protects you from mind altering effects. You and friendly creatures within 10 feet of you have advantage against being charmed or frightened, and magic can't put you to sleep.
