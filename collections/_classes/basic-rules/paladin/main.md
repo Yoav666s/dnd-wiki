@@ -114,7 +114,7 @@ When you reach 3rd level, you swear the oath that binds you as a paladin forever
 
 | Oath | Source |
 | :--: | :----: |
-|||
+| [[!Covenant]] | Fillumir's Guide to the Feywild |
 
 ### Oath Spells
 Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.
