@@ -98,7 +98,7 @@ When you reach 3rd level, you commit yourself to a monastic tradition. Your trad
 | Tradition       | Source                     |
 | :-------------- | :------------------------- |
 | [[!Open Hand]]  | Basic Rules                |
-| [[!Zen Master]] | Untold Legends of Nornfeld |
+| [[!Trickster]]  | Fillumir's Guide to the Feywild |
 
 
 ## Deflect Missiles
