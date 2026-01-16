@@ -43,7 +43,7 @@ Starting at 7th level, you learn additional spells as detailed below.
 **Invisibility.** You can cast the [[Invisibility]] spell on yourself without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 2 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
 
 # Otherworldly Dance
-Starting at 10th level, you can step in and out of the Feywild. As a bonus action, you can give yourself extra movement equal to your speed. For the rest of the turn, at the cost of your movement, you can teleport to an unoccupied space you can see, a distance equal up to the movement spent (no action required). You can do so as many times as your movement allows.
+Starting at 10th level, you can step in and out of the Feywild. As a bonus action, you can give yourself extra movement equal to your speed. For the rest of the turn, at the cost of your movement, you can magically teleport to an unoccupied space you can see, a distance equal up to the movement spent (no action required). You can do so as many times as your movement allows.
 
 Once you take this bonus action, you can’t do so again until you finish a Long Rest unless you expend 2 Fey Energy Points (no action required) to restore your use of it.
 
