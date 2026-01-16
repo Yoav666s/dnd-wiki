@@ -1,4 +1,4 @@
-{% assign all_subclasses = site.classes | where: "source", page.title | sort: "subclass" %}
+{% assign all_subclasses = site.classes | where: "source", page.title | where_exp: "item", "item.v_2024 == nil" | sort: "subclass" %}
 {% assign classes = all_subclasses | map: "subclass" | uniq %}
 {% for class in classes %}
   <h2 id="{{ class | slugify }}">{{ class | capitalize }}</h2>
