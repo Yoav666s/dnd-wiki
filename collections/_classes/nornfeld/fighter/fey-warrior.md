@@ -33,7 +33,7 @@ Once you take this bonus action, you can’t do so again until you finish a Long
 
 Once you take this reaction, you can’t do so again until you finish a Long Rest unless you expend a Fey Energy Point (no action required) to restore your use of it.
 
-**Subterfuge.** You learn the [[Subterfuge]] cantrip. Your spellcasting ability for it is Charisma.
+**Subterfuge.** You learn the [[Subterfuge]] cantrip. Your spellcasting ability for it is Charisma. You can cast [[Subterfuge]] as part of drawing or sheathing a weapon of the light property to teleport it to or from your hand. This doesn't require an action, but it takes as much time as it would normally take to draw or sheath a weapon.
 
 # Marvelous Abilities
 Starting at 7th level, you learn additional spells as detailed below.
