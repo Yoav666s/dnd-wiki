@@ -23,7 +23,7 @@ If you're at the same position as your illusion when this effect ends, you can a
 If a creature uses its action to examine the duplicate, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against a DC of 8 + your proficiency bonus + your Charisma modifier.
 
 # Illusory Mischief
-Also starting at 3rd level, you learn the [[Minor Illusion]] cantrip. Additionally, you learn the [[Silent Image]] spell and you can cast it without expending a spell slot or providing material components. Once you do so, you can't do it again until you finish a long rest or expend 1 Mirage Point. Charisma is your spellcasting ability for these spells.
+Also starting at 3rd level, you learn the [[Minor Illusion]] and [[Subterfuge]] cantrips. Additionally, you learn the [[Silent Image]] spell and you can cast it without expending a spell slot or providing material components. Once you do so, you can't do it again until you finish a long rest or expend 1 Mirage Point. Charisma is your spellcasting ability for these spells.
 
 # Trick of the Light
 Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it without expending a spell slot or providing material components. Once you do so, you can't do it again until you finish a long rest or expend 2 Mirage Points. Charisma is your spellcasting ability for this spell.
