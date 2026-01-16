@@ -19,7 +19,7 @@ Starting when you choose this tradition at 3rd level, you have learned to draw o
 
 **Shapechanger.** You can expend 1 Focus Point to cast the [[Alter Self]] spell without spell components. You can only choose the "Change Appearance" option.
 
-**Misty Step.** You can expend 1 Focus Point to cast the Misty Step spell without spell components.
+**Misty Step.** You can expend 1 Focus Point to cast the [[Misty Step]] spell without spell components.
 
 **Subterfuge.** You know the [[Subterfuge]] spell. Wisdom is your spellcasting ability for it.
 
