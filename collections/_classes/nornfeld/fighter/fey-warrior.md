@@ -47,10 +47,8 @@ Starting at 10th level, you can step in and out of the Feywild. As a bonus actio
 
 Once you take this bonus action, you can’t do so again until you finish a Long Rest unless you expend 2 Fey Energy Points (no action required) to restore your use of it.
 
-# The Best Defense
-Starting at 15th level, you learn that the best defense is to not be there when it happens. When you're targeted with a melee attack, you can use your reaction to teleport up to 30 feet to an unoccupied space you can see, potentially negating the attack.
-
-Once you take this reaction, you can’t do so again until you finish a Long Rest unless you expend 2 Fey Energy Points (no action required) to restore your use of it.
+# Fey Energy Sustainability
+Starting at 15th level, when you finish a short rest, you regain a number of your expended Fey Energy Points equal to your Charisma modifier instead of one.
 
 # Glamorous Abilities
 Starting at 18th level, you learn additional spells as detailed below.
