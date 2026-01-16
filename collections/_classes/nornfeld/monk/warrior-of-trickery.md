@@ -6,7 +6,8 @@ index:
 permalink: /classes/monk/trickery/
 excerpt: "Monks of the Way of the Trickster are deviously cunning."
 subclass: monk
-v_2024: way-of-the-trickster
+v_2024: true
+alt_version: trickster
 source: "Fillumir's Guide to the Feywild"
 header:
   overlay_image: /assets/images/classes/monk/trickster/header.png

@@ -9,4 +9,7 @@
   <div class="notice{% if source == "Survivor's Guide to Morgenfell" %}--danger{% elsif source == "Untold Legends of Nornfeld" %}--info{% elsif source == "Fillumir's Guide to the Feywild" %}--success{% elsif source != "Basic Rules" %}--primary{% endif %}">
     <i><a {% if expansion %}href="{{ expansion.url | relative_url }}" {% endif %}class="btn">{{ source }}{% if page.v_2024 %} (2024){% endif %}</a></i>
   </div>
+  {% if page.alt_version %}
+    {% capture button %}[20{%if page.v_2024%}2{% else %}1{%endif%}4 Version]({{ site.baseurl }}{{ page.permalink | replace: page.index[0], page.alt_version }}){: .btn .btn--light-outline .btn--small}{% endcapture %}{{ button | markdownify }}
+  {% endif %}
 {% endif %}
