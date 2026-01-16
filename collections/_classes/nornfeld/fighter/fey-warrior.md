@@ -12,36 +12,51 @@ header:
 ---
 Where others rely on brute force or rigid discipline, the Fey Warrior takes a different approach. With a flash of light or a flourish of motion, they become elusive targets and masters of deception. Their presence on the battlefield is as unsettling as it is graceful, never where the enemy expects, never still, and never quite within reach.
 
-# Dazzling Demonstration
-Beginning when you choose this archetype at 3rd level, you learn the [[Dancing Lights]] and [[Subterfuge]] cantrips, and gain proficiency in [[Deception]] if you don't already have it.
+# Fey Energy
+Also starting at 3rd level, you possess a wellspring of Fey Energy within yourself. It is represented by your Fey Energy Points, which fuel powers you gain in this subclass. The Fey Energy Points table shows the number of these points you have when you reach certain Fighter levels.
 
-You can cast [[Subterfuge]] as part of drawing or sheathing a weapon of the light property to teleport it to or from your hand. This doesn't require an action, but it takes as much time as it would normally take to draw or sheath a weapon.
+| Fighter level | Fey Energy Points |
+| :---: | :---: |
+| 3rd | 4 |
+| 5th | 6 |
+| 9th | 8 |
+| 13th | 10 |
+| 17th | 12 |
 
-# Fey Step
-Starting at 3rd level, immediately before you make a melee attack, you can teleport up to 15 feet to an unoccupied space you can see within range of the target, and you have advantage on the attack.
+Some features in this subclass require you to expend Fey Energy Points. You regain one of your expended Fey Energy Points when you finish a Short Rest, and you regain all of them when you finish a Long Rest.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses after you finish a short or long rest.
+**Flicker.** You can use your bonus action to take the [[Dodge]] action, causing your form to blink and flicker.
 
-# Double Vision
-At 7th level, you can use your bonus action to create an illusory duplicate of yourself in an unoccupied space you can see within 5 feet of you. It moves with you and mimics your actions, and it lasts for 1 minute or until you dismiss it (no action required). You can't use this feature if you already have an active duplicate.
+Once you take this bonus action, you can’t do so again until you finish a Long Rest unless you expend a Fey Energy Point (no action required) to restore your use of it.
 
-Each time a creature targets you while you have the duplicate, roll a d20 to determine if the attack hits your duplicate instead of you. On a roll of 11 or higher, the attack targets the duplicate. Its AC equals 10 + your Dexterity modifier. If an attack hits it, the duplicate is destroyed.
+**Disappear.** When an attack misses you, you can use your reaction to become invisible until the start of your next turn or until you take damage.
 
-A creature is unaffected by this feature if it can’t see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.
+Once you take this reaction, you can’t do so again until you finish a Long Rest unless you expend a Fey Energy Point (no action required) to restore your use of it.
 
-You can use this feature a number of times equal to your proficiency bonus and you regain all expended uses when you finish a short or long rest.
+**Subterfuge.** You learn the [[Subterfuge]] cantrip. Your spellcasting ability for it is Charisma.
 
-# Disappearing Act
-Starting at 10th level, when an attack misses you, you can use your reaction to become invisible until the start of your next turn or until you take damage.
+# Marvelous Abilities
+Starting at 7th level, you learn additional spells as detailed below.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
+**Alter Self.** You can cast the [[Alter Self]] spell without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 2 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
 
-# Flicker
-Starting at 15th level, you can use your bonus action to take the [[dodge]] action, causing your image to shift and flicker. 
+**Invisibility.** You can cast the [[Invisibility]] spell on yourself without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 2 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
+# Otherworldly Dance
+Starting at 10th level, you can step in and out of the Feywild. As a bonus action, you can give yourself extra movement equal to your speed. For the rest of the turn, at the cost of your movement, you can teleport to an unoccupied space you can see, a distance equal up to the movement spent (no action required). You can do so as many times as your movement allows.
 
-# Fey Invisibility
-Starting at 18th level, you learn the [[Greater Invisibility]] spell and you can cast it on yourself without expending a spell slot or requiring material components. Once you do so, you can't do it again until you finish a short or long rest.
+Once you take this bonus action, you can’t do so again until you finish a Long Rest unless you expend 2 Fey Energy Points (no action required) to restore your use of it.
+
+# The Best Defense 
+Starting at 15th level, you learn that the best defense is to not be there when it happens. When you're targeted with a melee attack, you can use your reaction to teleport up to 30 feet to an unoccupied space you can see, potentially negating the attack.
+
+Once you take this reaction, you can’t do so again until you finish a Long Rest unless you expend 2 Fey Energy Points (no action required) to restore your use of it.
+
+# Glamorous Abilities
+Starting at 18th level, you learn additional spells as detailed below.
+
+**Greater Invisibility.** You can expend 3 Fey Energy Points to cast the [[Greater Invisibility]] spell on yourself without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 3 Fey Energy Points (no action required) to restore your use of it.  Your spellcasting ability for it is Charisma.
+
+**Polymorph.** You can cast the [[Polymorph]] spell on yourself without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 3 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
 
 [:classes/fighter/fey-warrior:]
