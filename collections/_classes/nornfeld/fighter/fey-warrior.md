@@ -53,7 +53,7 @@ Starting at 15th level, when you finish a short rest, you regain a number of you
 # Glamorous Abilities
 Starting at 18th level, you learn additional spells as detailed below.
 
-**Greater Invisibility.** You can expend 3 Fey Energy Points to cast the [[Greater Invisibility]] spell on yourself without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 3 Fey Energy Points (no action required) to restore your use of it.  Your spellcasting ability for it is Charisma.
+**Greater Invisibility.** You cast the [[Greater Invisibility]] spell on yourself without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 3 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
 
 **Polymorph.** You can cast the [[Polymorph]] spell on yourself without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 3 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
 
