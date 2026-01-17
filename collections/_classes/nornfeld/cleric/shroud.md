@@ -28,10 +28,10 @@ When you choose this domain at 1st level, you gain proficiency in [[Stealth]] if
 # Veil of Shadows
 Starting at 1st level, you can use your bonus action to take the [[hide]] action.
 
-# Channel Divinity: Shadow Form
-Starting at 2nd level, you can use your Channel Divinity to allow yourself or another creature to enter shadow form.
+# Channel Divinity: Shroud of Shadows
+Starting at 2nd level, you can use your Channel Divinity to bestow a shroud of shadows on a creature.
 
-As an action, you touch a creature (possibly yourself) and for 1 minute, it has a bonus to Dexterity (Stealth) checks equal to your Wisdom modifier and it can attempt to [[hide]] even when only lightly obscured by dim light or regular or magical darkness.
+As an action, a willing creature you touch (possibly yourself) has the invisible condition for a number of rounds equal to your cleric level (to a maximum of 10 rounds), or until it attacks or casts a spell. This effect ends early if you lose concentration (as if you were concentrating on a spell).
 
 # Shadow Slip
 Starting at 6th level, you learn how to slip in and out of the Shadowfell. Immediately after you successfully take the [[hide]] action, you can teleport up to 30 feet to an unoccupied space you can see that would give you full cover, or is in dim light or darkness. 
