@@ -24,7 +24,7 @@ While attuned to this book, you can use it as a spellcasting focus, and you gain
 | 5th   | [[!Control Thoughts]], [[!Geas]], [[!Modify Memory]] |
 | 6th   | [[!Delirious Whispers]], [[!Irresistible Dance]], [[!Mass Suggestion]] |
 | 7th   | [[!Switch Minds]] |
-| 8th   | [[!Dominate Thoughts]] |
+| 8th   | [[!Dominate Thoughts]], [[!Feeblemind]] |
 | 9th   | [[!Delirium]] |
 
 **Curse.** This tome is cursed. Attuning to it curses you until you are targeted by a [[Remove Curse]] spell or similar magic. While cursed, you have vulnerability to psychic damage.
