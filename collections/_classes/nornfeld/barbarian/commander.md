@@ -24,7 +24,7 @@ Your Inspiring Command die changes when you reach certain levels in this class. 
 Starting at 3rd level, you add your Charisma modifier to your initiative rolls.
 
 # Word of Command
-Starting at 6th level, once per turn when you take the attack action, you can expend one Inspiring Command die and forgo one attack in order to command one ally that can hear you within 60 feet to make an attack against a creature you choose. That ally can use his or her reaction to make an attack against that creature, rolling the Inspiring Command die and adding the number rolled to their attack or damage roll.
+Starting at 6th level, once per turn when you take the attack action, you can expend one Inspiring Command die and forgo one attack in order to command one ally that can hear you within 60 feet to make an attack against a creature you choose. That ally can use its reaction to make an attack against that creature, rolling the Inspiring Command die and adding the number rolled to their attack or damage roll.
 
 # Valiant Redirection
 Starting at 10th level, when a creature targets one of your allies with a melee attack, you can expend one Inspiring Command die and use your reaction to redirect that attack to you, given that you are within reach of that creature. Roll the Inspiring Command die and subtract the number rolled from the attack roll.
