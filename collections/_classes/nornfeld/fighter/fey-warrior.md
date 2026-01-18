@@ -25,13 +25,9 @@ Beginning at 3rd level, you possess a wellspring of Fey Energy within yourself. 
 
 Some features in this subclass require you to expend Fey Energy Points. You regain one of your expended Fey Energy Points when you finish a Short Rest, and you regain all of them when you finish a Long Rest.
 
-**Flicker.** You can use your bonus action to take the [[Dodge]] action, causing your form to blink and flicker.
+**Flicker.** You can expend a Fey Energy Point to take the [[Dodge]] action as a bonus action, causing your form to blink and flicker.
 
-Once you take this bonus action, you can’t do so again until you finish a Long Rest unless you expend a Fey Energy Point (no action required) to restore your use of it.
-
-**Disappear.** When an attack misses you, you can use your reaction to become invisible until the start of your next turn or until you take damage.
-
-Once you take this reaction, you can’t do so again until you finish a Long Rest unless you expend a Fey Energy Point (no action required) to restore your use of it.
+**Disappear.** When an attack misses you, you can expend a Fey Energy Point to use your reaction to become invisible until the start of your next turn or until you take damage.
 
 # Wondrous Magic
 Also starting at 3rd level, you learn a few spells as detailed below.
@@ -60,8 +56,8 @@ Starting at 15th level, when you finish a short rest, you regain a number of you
 # Glamorous Magic
 Starting at 18th level, you learn additional spells as detailed below.
 
-**Greater Invisibility.** You cast the [[Greater Invisibility]] spell on yourself without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 3 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
+**Greater Invisibility.** You cast the [[Greater Invisibility]] spell on yourself without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 4 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
 
-**Polymorph.** You can cast the [[Polymorph]] spell without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 3 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
+**Polymorph.** You can cast the [[Polymorph]] spell without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 4 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
 
 [:classes/fighter/fey-warrior:]
