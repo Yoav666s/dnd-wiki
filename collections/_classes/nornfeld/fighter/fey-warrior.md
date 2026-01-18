@@ -40,6 +40,8 @@ Also starting at 3rd level, you learn a few spells as detailed below.
 
 **Charm Person.** You can cast the [[Charm Person]] spell without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend a Fey Energy Point (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
 
+**Faerie Fire.** You can cast the [[Faerie Fire]] spell without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend a Fey Energy Point (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
+
 # Marvelous Magic
 Starting at 7th level, you learn additional spells as detailed below.
 
