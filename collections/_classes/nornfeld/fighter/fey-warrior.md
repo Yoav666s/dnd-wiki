@@ -25,30 +25,25 @@ Beginning at 3rd level, you possess a wellspring of Fey Energy within yourself. 
 
 Some features in this subclass require you to expend Fey Energy Points. You regain one of your expended Fey Energy Points when you finish a Short Rest, and you regain all of them when you finish a Long Rest.
 
-**Flicker.** You can expend a Fey Energy Point to take the [[Dodge]] action as a bonus action, causing your form to blink and flicker.
+**Change Shape.** As an action, you can expend a Fey Energy Point to transform your appearance for 1 hour or until you lose concentration (as if you were concentrating on a spell). You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can’t appear as a creature of a different size than you, and your basic shape stays the same; if you’re bipedal, you can’t use this spell to become quadrupedal, for instance. Your clothing and equipment are not affected by this.
 
-**Disappear.** When an attack misses you, you can expend a Fey Energy Point to use your reaction to become invisible until the start of your next turn or until you take damage.
-
-# Wondrous Magic
-Also starting at 3rd level, you learn a few spells as detailed below.
+**Charm Person.** You can expend a Fey Energy Point to cast the [[Charm Person]] spell without a spell slot or components. Your spellcasting ability for it is Charisma.
 
 **Subterfuge.** You learn the [[Subterfuge]] cantrip. Your spellcasting ability for it is Charisma. You can cast [[Subterfuge]] as part of drawing or sheathing a weapon of the light property to teleport it to or from your hand. This doesn't require an action, but it takes as much time as it would normally take to draw or sheath a weapon.
 
-**Charm Person.** You can cast the [[Charm Person]] spell without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend a Fey Energy Point (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
+# Fey Adept
+Starting at 7th level, you learn new ways to use your Fey abilities as detailed below.
 
-**Faerie Fire.** You can cast the [[Faerie Fire]] spell without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend a Fey Energy Point (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
+**Enlarge/Reduce.** You can expend 2 Fey Energy Points to cast the [[Enlarge/Reduce]] spell without a spell slot or components. Your spellcasting ability for it is Charisma.
 
-# Marvelous Magic
-Starting at 7th level, you learn additional spells as detailed below.
+**Vanish.** You can expend a Fey Energy Point to vanish as a bonus action, gaining the invisible condition until the start of your next turn or until you attack or cast a spell.
 
-**Alter Self.** You can cast the [[Alter Self]] spell without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 2 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
+# Wondrous Abilities
+Starting at 10th level, you learn new ways to use your Fey abilities as detailed below.
 
-**Invisibility.** You can cast the [[Invisibility]] spell on yourself without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 2 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
+**Major Image.** You can expend 3 Fey Energy Points to cast the [[Major Image]] spell without a spell slot or components. Your spellcasting ability for it is Charisma.
 
-# Otherworldly Dance
-Starting at 10th level, you can step in and out of the Feywild. As a bonus action, you can give yourself extra movement equal to your speed. For the rest of the turn, at the cost of your movement, you can magically teleport to an unoccupied space you can see, a distance equal up to the movement spent (no action required). You can do so as many times as your movement allows.
-
-Once you take this bonus action, you can’t do so again until you finish a Long Rest unless you expend 2 Fey Energy Points (no action required) to restore your use of it.
+**Otherworldly Dance.** you can step in and out of the Feywild. As a bonus action you can expend a Fey Energy Point and for the rest of the turn, at the cost of up to 15 feet of your movement, you can magically teleport to an unoccupied space you can see, a distance equal up to the movement spent (no action required). You can do so as many times as your movement allows.
 
 # Fey Energy Sustainability
 Starting at 15th level, when you finish a short rest, you regain a number of your expended Fey Energy Points equal to your Charisma modifier instead of one.
@@ -56,8 +51,8 @@ Starting at 15th level, when you finish a short rest, you regain a number of you
 # Glamorous Magic
 Starting at 18th level, you learn additional spells as detailed below.
 
-**Greater Invisibility.** You cast the [[Greater Invisibility]] spell on yourself without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 4 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
+**Greater Invisibility.** You can expend 4 Fey Energy Points to cast the [[Greater Invisibility]] spell on yourself without a spell slot or components. Your spellcasting ability for it is Charisma.
 
-**Polymorph.** You can cast the [[Polymorph]] spell without a spell slot or components. Once you do, you can't do so again until you finish a long rest unless you expend 4 Fey Energy Points (no action required) to restore your use of it. Your spellcasting ability for it is Charisma.
+**Dimension Door.** You can expend 4 Fey Energy Points to cast the [[Dimension Door]] spell without a spell slot or components. Your spellcasting ability for it is Charisma.
 
 [:classes/fighter/fey-warrior:]
