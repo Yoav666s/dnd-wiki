@@ -18,7 +18,7 @@ comp:
 material: "a small glass bottle containing a mist from a cloud."
 duration: "24 Hours"
 concentration: false
-cast_time: "10 Minutes"
+cast_time: "1 Minute"
 ritual: false
 description: |
   A 50-foot-radius immobile sphere of force springs into existence around you and remains stationary for the duration. The area is a sphere that can be as small as 5 feet in radius to as large as 50 feet in radius. 
@@ -29,6 +29,6 @@ description: |
 excerpt: "A 50-foot-radius immobile sphere of force springs into existence around you and remains stationary for the duration."
 source: "Astronomer's Guide to Extraterrestrial Travel"
 # header:
-#   overlay_image: /assets/images/spells/name/header.png
-#   teaser: /assets/images/spells/name/header.jpg
+#   overlay_image: /assets/images/spells/miniature-atmosphere/header.png
+#   teaser: /assets/images/spells/miniature-atmosphere/header.jpg
 ---
