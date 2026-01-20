@@ -8,3 +8,6 @@ excerpt: "All you need to know about extraterrestrial travel!"
 #   overlay_image: /assets/images/expansions/astronomers-guide-to-extraterrestrial-travel/header.png
 #   teaser: /assets/images/expansions/astronomers-guide-to-extraterrestrial-travel/header.jpg
 ---
+
+# Introduction
+Astronomy is the study of celestial bodies, space, and everything beyond planet Terrus.
