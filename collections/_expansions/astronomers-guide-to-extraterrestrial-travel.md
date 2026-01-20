@@ -10,4 +10,4 @@ excerpt: "All you need to know about extraterrestrial travel!"
 ---
 
 # Introduction
-Astronomy is the study of celestial bodies, space, and everything beyond planet Terrus.
+Astronomy is the study of celestial bodies, space, and everything beyond planet Terrus. It concerns itself not only with stars, moons, and planets, but also with the invisible forces that bind them together.
