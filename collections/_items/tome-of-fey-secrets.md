@@ -4,6 +4,7 @@ index:
   - tome-of-fey-secrets
 permalink: /items/tome-of-fey-secrets/
 excerpt: "This book contains forbidden knowledge of spells and incantations that mess with the subjects' minds."
+rarity: "Legendary"
 tags:
   - Item
 source: "Fillumir's Guide to the Feywild"
