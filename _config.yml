@@ -517,6 +517,7 @@ defaults:
       sidebar:
         nav:
           - items
+      rarity: "Common"
       header:
         overlay_image: /assets/images/items/header.png
         overlay_filter: 0.375
