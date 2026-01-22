@@ -6,6 +6,7 @@ index:
   - sentinels-amulet
 permalink: /items/sentinel-amulet/
 excerpt: "When the sentinel is defeated, his soul becomes contained in this amulet."
+rarity: "Legendary"
 tags:
   - Magical Item
   - Mythical Emblem
