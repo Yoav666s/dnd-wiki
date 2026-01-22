@@ -5,6 +5,7 @@ index:
   - the-locket
 permalink: /items/the-locket/
 excerpt: "When the thing's heart is destroyed, its essence becomes stored in this locket."
+rarity: "Legendary"
 tags:
   - Magical Item
   - Mythical Emblem
