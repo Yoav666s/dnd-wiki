@@ -15,6 +15,12 @@ Astronomy is the study of celestial bodies, space, and everything beyond planet 
 ## Observation of Other Planets
 Other planets have been observed using a revolutionary invention called the [[magniscope]].
 
+# Chapter ?: Spells 
+The following are spells that are essential to extraterrestrial travel.
+
+{% include expansion_spells.html %}
+
+
 # Chapter ?: Items
 The following are items that are essential to extraterrestrial travel.
 
