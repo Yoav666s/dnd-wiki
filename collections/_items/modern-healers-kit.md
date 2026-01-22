@@ -12,3 +12,5 @@ header:
 source: "Survivor's Guide to Morgenfell"
 ---
 This modern kit is a leather pouch containing bandages, salves, splints, and rubbing alcohol. The kit has 20 uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
+
+[:items/modern-healers-kit:]
