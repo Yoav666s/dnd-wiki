@@ -43,7 +43,7 @@ Starting at 10th level, you learn new ways to use your Fey abilities as detailed
 
 **Major Image.** You can expend 3 Fey Energy Points to cast the [[Major Image]] spell without a spell slot or components. Your spellcasting ability for it is Charisma.
 
-**Otherworldly Dance.** you can step in and out of the Feywild. As a bonus action you can expend a Fey Energy Point and for the rest of the turn, at the cost of up to 15 feet of your movement, you can magically teleport to an unoccupied space you can see, a distance equal up to the movement spent (no action required). You can do so as many times as your movement allows.
+**Otherworldly Dance.** You can step in and out of the Feywild. As a bonus action you can expend a Fey Energy Point and for the rest of the turn, at the cost of up to 15 feet of your movement, you can magically teleport to an unoccupied space you can see, a distance equal up to the movement spent (no action required). You can do so as many times as your movement allows.
 
 # Fey Energy Sustainability
 Starting at 15th level, when you finish a short rest, you regain a number of your expended Fey Energy Points equal to your Charisma modifier instead of one.
