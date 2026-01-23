@@ -67,8 +67,12 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 
 **Moons.** Terrus has one moon, called Selene. It conpletes a full orbit approximately every 30 days.
 
+**The Terrestrial Calendar.** Since a "year" on Terrus takes 2,630 days, people don't tend to measure years by the time it takes Terrus to orbit the sun. Instead, they measure the passage of time by the time it takes Selene to orbit Terrus. They divide the year to twelve 30-day months, resulting in a 360-day year.
+
+**Seasons.** The seasons on Terrus are long.
+
 ### Untitled
-**The sixth planet from Ausaria.** It completes an orbit around Ausaria approximately every 3,830 Terrus days.
+**The sixth planet from Ausaria.** It completes an orbit around Ausaria approximately every 3,830 Terrestrial days.
 
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
