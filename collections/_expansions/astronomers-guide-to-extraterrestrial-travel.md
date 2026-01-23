@@ -25,7 +25,9 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 **The third planet from Ausaria.** It's a comparatively tiny bundle of asteroids that crushed together to form a dwarf planet.
 
 ### Albaxia
-**The fourth planet from Ausaria.** It seems blue from space, and is considered a habitable planet. From its surface, the sunlight has a pink, reddish hue to it, as a result of the thick and hazy atmosphere's blue tint which filters out much of the shorter-wavelength light. Shadows have a warmer, amber tone, and the plants and foliage are mostly red, purple, and black in color.
+**The fourth planet from Ausaria.** It seems blue from space, and is considered a habitable planet. From its surface, the sunlight has a pink, reddish hue to it, as a result of the thick and hazy atmosphere's blue tint which filters out much of the shorter-wavelength light. Shadows have a warm, amber tone, and the plants and foliage are mostly red, purple, and black in color.
+
+[:extraterrestrial/planets/albaxia:]
 
 The atmosphere there consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust, which is breathable for terrestrial creatures without requiring significant adaptation. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable.
 
