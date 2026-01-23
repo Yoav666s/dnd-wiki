@@ -18,14 +18,14 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 ### Igneus
 **The first planet from Ausaria.** It's made from black rock and molten magma and is completely inhabitable. It is believed that devils could possibly survive there if they had air to breathe.
 
-### Roseus
+### Rosea
 **The second planet from Ausaria.** It's a pink gas giant with four moons orbiting it.
 
 ### Nodus
 **The third planet from Ausaria.** It's a comparatively tiny bundle of asteroids that crushed together to form a dwarf planet.
 
 ### Albastus
-**The fourth planet from Ausaria.** 
+**The fourth planet from Ausaria.** Considered a habitable planet, its atmosphere has a blue tint to it. The sunlight seems almost green, as a result.
 
 ### Terrus 
 **The fifth planet from Ausaria.**
