@@ -15,6 +15,9 @@ Astronomy is the study of celestial bodies, space, and everything beyond planet 
 ## The Ausarian Expanse
 The Ausarian Expanse is a solar system in which Terrus is the fifth planet from Ausaria, the sun. It has one moon called Selene, and it otherwise resembles Earth as we know it. The fourth and sixth planets are also believed to be habitable.
 
+### Ausaria
+**The sun.** Ausaria is 
+
 ### Igneus
 **The first planet from Ausaria.** It is completely uninhabitable. It is tidally locked, meaning that one side is always facing the sun while the other remains in darkness. The dark side consists of mountains of black rock, while the other side harbors oceans of magma with ever changing continents that clash against each other, forming and crumbling mountains and valleys. Moreover, the atmosphere of Igneus is toxic, consisting of a high percentage of sulfur, which results in a hazy yellow sky.
 
