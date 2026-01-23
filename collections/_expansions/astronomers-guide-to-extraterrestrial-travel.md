@@ -25,11 +25,11 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 **The third planet from Ausaria.** It's a comparatively tiny bundle of asteroids that crushed together to form a dwarf planet.
 
 ### Albaxia
-**The fourth planet from Ausaria.** It seems blue from space, and is considered a habitable planet. From its surface, the sunlight has a pink, reddish hue to it, as a result of the thick and hazy atmosphere's blue tint which filters out much of the shorter-wavelength light. Shadows have a warm, amber tone, and the plants and foliage are mostly red, purple, and black in color.
+**The fourth planet from Ausaria.** It seems blue from space, and is considered a habitable planet. From its surface, the sunlight has a pink, reddish hue to it, as a result of the thick and hazy atmosphere's blue tint which filters out much of the shorter-wavelength light. Shadows have a warm, amber tone, and the plants and foliage are mostly red, purple, and black in color. 
 
 [:extraterrestrial/planets/albaxia:]
 
-The atmosphere there is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable.
+The atmosphere there is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable. It completes an orbit around Ausaria approximately every 
 
 **Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit every seven Albaxian days (almost 43 Terrus days), while Orbis Minor completes one orbit every 2.3 Albaxian days (approximately one fortnight on Terrus).
 
@@ -63,7 +63,7 @@ One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. Th
 Some prefer to wake up in the early morning, taking rests at the same \~12.5 hour intervals. It doesn't matter since the day is so long, and you have to sleep during daytime and stay awake during nighttime, anyway.
 
 ### Terrus 
-**The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there.
+**The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there. It completes an orbit around Ausaria approximately every 365.25 days.
 
 **Moons.** Terrus has one moon, called Selene. It conpletes a full orbit approximately every 30 days.
 
