@@ -21,8 +21,11 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 ### Rosalia
 **The second planet from Ausaria.** It's a pink gas giant.
 
+### Nodus
+**The third planet from Ausaria.** It's a comparatively tiny bundle of asteroids that crushed together to form a dwarf planet.
+
 ### Saelus
-**The third planet from Ausaria.** It's a comparatively tiny bundle of asteroids that crushed together to form a planet.
+**The fourth planet from Ausaria.** 
 
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of other planets in the Ausarian Expanse.
