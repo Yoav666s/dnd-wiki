@@ -65,10 +65,10 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 ### Terrus 
 **The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there.
 
-**Moons.** Terrus has one moon, called Selene.
+**Moons.** Terrus has one moon, called Selene. It conpletes a full orbit approximately every 30 days.
 
 ## Observation of Moons and Other Planets
-Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of other planets in the Ausarian Expanse.
+Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
 
 # Chapter ?: Spells 
 The following are spells that are essential to extraterrestrial travel.
