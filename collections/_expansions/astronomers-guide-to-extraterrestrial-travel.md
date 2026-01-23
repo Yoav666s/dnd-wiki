@@ -27,7 +27,7 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 ### Albaxia
 **The fourth planet from Ausaria.** It seems blue from space, and is considered a habitable planet. From its surface, the sunlight has a pink, reddish hue to it, as a result of the thick and hazy atmosphere's blue tint which filters out much of the shorter-wavelength light. Shadows have a warmer, amber tone, and the plants and foliage are mostly red, purple, and black in color.
 
-The atmosphere consists of Neon (\~50%), Oxygen (\~21%), and Krypton (\~28%), as well as vapors and dust, which is breathable for the creatures of Terrus without requiring significant adaptation. However, 
+The atmosphere there consists of Neon (\~50%), Oxygen (\~21%), and Krypton (\~28%), as well as vapors and dust, which is breathable for terrestrial creatures without requiring significant adaptation. Neon causes the blue tint, while Oxygen makes this planet habitable for terrestrial creatures.
 
 ### Terrus 
 **The fifth planet from Ausaria.**
