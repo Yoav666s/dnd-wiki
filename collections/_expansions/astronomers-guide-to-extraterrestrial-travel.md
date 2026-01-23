@@ -31,9 +31,10 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 The atmosphere there is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable.
 
+#### The Albaxian Day
 One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. This results in very hot afternoons and very cold nights, as the sun shines or is absent for over 70 hours each time. The day is divided to twelve 12.25-hour periods by terrestrial creatures, who are used to 24 hour days.
 
-**Morning.** The morning is equivalent to a normal day on Terrus in temperature and weather. The first hours of light are cool and comfortable, and it starts getting hot after about six hours from first light.
+**Morning.** The morning is equivalent to a normal day on Terrus in temperature and weather. The first hours of light are still cool and comfortable from the early morning, and it starts getting hot after about six hours.
 
 **Noon.** The noon is hot, and it's usually a good time to find cover and rest. It is not recommended to sleep in the sun, even though the thick atmosphere provides some protection from ultraviolet radiation.
 
@@ -47,15 +48,15 @@ One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. Th
 
 **Mornight.** The mornight is the first dark morning. It's still warm outside due to the thick atmosphere that traps the heat and prevents the planet from freezing.
 
-**Night.**
+**Night.** The first night is cold, but not freezing. It's a good time to take a rest.
 
-**Midnight.**
+**Midnight.** The midnight is the second dark morning. It's the coldest period of the Albaxian day, reaching a temperature of around 10°C.
 
-**Afternight.**
+**Afternight.** The afternight, or second night, is initially very cold, bit it gets warmer towards the end. It's a good time to take a rest.
 
-**Dawn.**
+**Dawn.** The dawn is when you can see first hints of light. It's beginning to be cool and comfortable outside.
 
-**Early Morning.**
+**Early Morning.** 
 
 ### Terrus 
 **The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there.
