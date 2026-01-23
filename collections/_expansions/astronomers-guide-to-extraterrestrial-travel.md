@@ -31,6 +31,8 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 The atmosphere there is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable.
 
+**Moons.** Albaxia has two moons, called 
+
 #### The Albaxian Day
 One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. This results in very hot afternoons and very cold nights, as the sun shines or is absent for over 70 hours each time. The day is divided to twelve 12.25-hour periods by terrestrial creatures, who are used to 24 hour days.
 
@@ -63,7 +65,7 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 ### Terrus 
 **The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there.
 
-**Selene.** Terrus has one moon, called Selene.
+**Moons.** Terrus has one moon, called Selene.
 
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of other planets in the Ausarian Expanse.
