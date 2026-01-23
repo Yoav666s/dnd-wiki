@@ -34,7 +34,7 @@ The atmosphere there is breathable for terrestrial creatures without requiring m
 **Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit every seven Albaxian days (almost 43 Terrus days), while Orbis Minor completes one orbit every 2.3 Albaxian days (approximately one fortnight on Terrus).
 
 #### The Albaxian Day
-One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. This results in very hot afternoons and very cold nights, as the sun shines or is absent for over 70 hours at a time. The day is divided to twelve 12.25-hour periods by terrestrial creatures, who are used to 24 hour days.
+One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. This results in very hot afternoons and very cold nights, as the sun shines or is absent for over 70 hours at a time. The day is divided to twelve 12.25-hour periods by terrestrial creatures, who are used to 24-hour days.
 
 **Morning.** The morning is equivalent to a normal day on Terrus in temperature and weather. The first hours of light are still cool and comfortable from the early morning, and it starts getting hot after about six hours.
 
