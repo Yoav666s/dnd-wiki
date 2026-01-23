@@ -31,7 +31,19 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 The atmosphere there is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable.
 
-One day on Albaxia is approximately 127 hours, or just over five days on Terrus. 
+One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. This results in very hot afternoons and very cold nights, as the sun shines or is absent for over 70 hours each time. The day is divided to twelve 12.25-hour periods by terrestrial creatures, who are used to 24 hour days.
+
+**Morning.** The morning is equivalent to a normal day on Terrus in temperature and weather. The first hours of light are cool and comfortable, and it starts getting hot after about six hours from first light.
+
+**Noon.** The noon is hot, and it's usually a good time to find cover and rest. It is not recommended to sleep in the sun, even though the thick atmosphere provides some protection from ultraviolet radiation.
+
+**Midday.** The midday is the hottest period of the day, especially towards the end. It is recommended to stay hydrated and remain under cover as much as possible.
+
+**Afternoon.** During the late afternoon hours the heat starts to subside. It's a good time to find cover and rest.
+
+**Twilight.** During twilight, the sky has beautiful shades of pink and orange, and cooler breeze starts to blow. It is similar to the morning in terms of temperature and weather.
+
+**Evening.** The evening is when it starts getting colder, and towards the end the sun begins to set, resulting in a marvelous near 20-minute sunset.
 
 ### Terrus 
 **The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there.
