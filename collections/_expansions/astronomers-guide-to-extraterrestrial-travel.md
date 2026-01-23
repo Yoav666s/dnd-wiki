@@ -54,9 +54,11 @@ One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. Th
 
 **Afternight.** The afternight, or second night, is initially very cold, bit it gets warmer towards the end. It's a good time to take a rest.
 
-**Dawn.** The dawn is when you can see first hints of light. It's beginning to be cool and comfortable outside.
+**Dawn.** The dawn is when you can see first hints of light. It's beginning to be cool and comfortable outside. By the end of it, the sun rises in a marvelous near 20-minute sunrise.
 
-**Early Morning.** 
+**Early Morning.** The early morning is still cool and comfortable from the night before, and is a great time to take a rest.
+
+Some prefer to wake up in the early morning, taking rests at the same \~12.5 hour intervals. It doesn't matter since the day is so long, and you have to sleep during daytime and stay awake during nighttime, anyway.
 
 ### Terrus 
 **The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there.
