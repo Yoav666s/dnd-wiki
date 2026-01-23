@@ -10,10 +10,15 @@ excerpt: "All you need to know about extraterrestrial travel!"
 ---
 
 # Introduction: Astronomy and the Universe Beyond
-Astronomy is the study of celestial bodies, space, and everything beyond planet Terrus. It concerns itself not only with stars, moons, and planets, but also with the invisible forces that bind them together. It is a science that explores gravity, light, the vacuum of space, and the vast galaxy that lies beyond man's grasp. Taking advantage of gnomish inventions and clever use of magic, it studies other planets and aims to make them habitable.
+Astronomy is the study of celestial bodies, space, and everything beyond planet Terrus. It concerns itself not only with stars, moons, and planets, but also with the invisible forces that bind them together. It is a science that explores gravity, light, the vacuum of space, and the vast galaxy that lies beyond the Ausarian Expanse. Taking advantage of gnomish inventions and clever use of magic, it studies other planets and aims to make them habitable.
+
+## The Ausarian Expanse
+The Ausarian Expanse is a solar system in which Terrus is the fifth planet from the sun. It has one moon called Selene, and it otherwise resembles Earth as we know it. The fourth and sixth planets are also believed to be habitable, but their atmospheres are different than Terrus's and thus creatures from Terrus are not adapted to breathe there.
+
+### 
 
 ## Observation of Moons and Other Planets
-Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surfaces of Selene (Terrus's moon) and of other planets in the Ausarian Expanse.
+Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of other planets in the Ausarian Expanse.
 
 # Chapter ?: Spells 
 The following are spells that are essential to extraterrestrial travel.
