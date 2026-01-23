@@ -19,13 +19,15 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 **The first planet from Ausaria.** It's made from black rock and molten magma and is completely inhabitable. It is believed that devils could possibly survive there if they had air to breathe.
 
 ### Rosalia
-**The second planet from Ausaria.** It's a pink gas giant.
+**The second planet from Ausaria.** It's a pink gas giant with four moons orbiting it.
 
 ### Nodus
 **The third planet from Ausaria.** It's a comparatively tiny bundle of asteroids that crushed together to form a dwarf planet.
 
 ### Saelus
 **The fourth planet from Ausaria.** 
+
+### Terrus 
 
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of other planets in the Ausarian Expanse.
