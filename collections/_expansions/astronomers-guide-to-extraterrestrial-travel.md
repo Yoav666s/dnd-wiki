@@ -13,7 +13,7 @@ excerpt: "All you need to know about extraterrestrial travel!"
 Astronomy is the study of celestial bodies, space, and everything beyond planet Terrus. It concerns itself not only with stars, moons, and planets, but also with the invisible forces that bind them together. It is a science that explores gravity, light, the vacuum of space, and the vast galaxy that lies beyond the Ausarian Expanse. Taking advantage of gnomish inventions and clever use of magic, it studies other planets and aims to make them habitable.
 
 ## The Ausarian Expanse
-The Ausarian Expanse is a solar system in which Terrus is the fifth planet from Ausaria, the sun. It has one moon called Selene, and it otherwise resembles Earth as we know it. The fourth and sixth planets are also believed to be habitable, but their atmospheres are different from Terrus's and thus creatures from Terrus are not adapted to breathe there.
+The Ausarian Expanse is a solar system in which Terrus is the fifth planet from Ausaria, the sun. It has one moon called Selene, and it otherwise resembles Earth as we know it. The fourth and sixth planets are also believed to be habitable.
 
 ### Igneus
 **The first planet from Ausaria.** It is completely uninhabitable. It is tidally locked, meaning that one side is always facing the sun while the other remains in darkness. The dark side consists of mountains of black rock, while the other side harbors oceans of magma with ever changing continents that clash against each other, forming and crumbling mountains and valleys. Moreover, the atmosphere of Igneus is toxic, consisting of a high percentage of sulfur, which results in a hazy yellow sky.
