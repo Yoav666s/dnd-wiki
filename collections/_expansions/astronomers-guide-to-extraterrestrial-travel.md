@@ -29,7 +29,7 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 [:extraterrestrial/planets/albaxia:]
 
-The atmosphere there consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust, which is breathable for terrestrial creatures without requiring significant adaptation. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable.
+The atmosphere there is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable.
 
 ### Terrus 
 **The fifth planet from Ausaria.**
