@@ -31,7 +31,7 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 The atmosphere there is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable.
 
-**Moons.** Albaxia has two moons, called 
+**Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit
 
 #### The Albaxian Day
 One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. This results in very hot afternoons and very cold nights, as the sun shines or is absent for over 70 hours each time. The day is divided to twelve 12.25-hour periods by terrestrial creatures, who are used to 24 hour days.
