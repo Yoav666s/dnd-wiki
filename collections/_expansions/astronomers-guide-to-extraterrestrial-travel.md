@@ -72,7 +72,7 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 
 **The Terrestrial Calendar.** Since a "year" on Terrus takes 950 days, people don't tend to measure years by the time it takes Terrus to orbit the sun. Instead, they measure the passage of time by the time it takes Selene to orbit Terrus. They divide the year to twelve 30-day months, resulting in a 360-day year.
 
-**Seasons.** The seasons on Terrus are long.
+**Seasons.** The seasons on Terrus are long, each taking approximately 8 months.
 
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
