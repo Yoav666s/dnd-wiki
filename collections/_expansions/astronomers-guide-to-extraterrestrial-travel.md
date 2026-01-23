@@ -16,7 +16,7 @@ Astronomy is the study of celestial bodies, space, and everything beyond planet 
 The Ausarian Expanse is a solar system in which Terrus is the fifth planet from Ausaria, the sun. It has one moon called Selene, and it otherwise resembles Earth as we know it. The fourth and sixth planets are also believed to be habitable, but their atmospheres are different from Terrus's and thus creatures from Terrus are not adapted to breathe there.
 
 ### Igneus
-**The first planet from Ausaria.** It's made from black rock and molten magma and is completely inhabitable. It is believed that devils could possibly survive there if they had air to breathe.
+**The first planet from Ausaria.** It consists of plates of black rock floating on molten magma and is completely inhabitable. It is believed that devils could possibly survive there if they had air to breathe. Unfortunately, the atmosphere of Igneus is toxic, consisting of a high percentage of sulfur.
 
 ### Rosea
 **The second planet from Ausaria.** It's a pink gas giant with four moons orbiting it.
