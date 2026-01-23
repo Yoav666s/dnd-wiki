@@ -52,7 +52,7 @@ One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. Th
 
 **Midnight.** The midnight is the second dark morning. It's the coldest period of the Albaxian day, reaching a temperature of around 7-10°C in summer and 0-6°C in winter.
 
-**Afternight.** The afternight, or second night, is initially very cold, bit it gets warmer towards the end. It's a good time to take a rest.
+**Afternight.** The afternight, or second night, is initially very cold, but it gets warmer towards the end. It's a good time to take a rest.
 
 **Dawn.** The dawn is when you can see first hints of light. It's beginning to be cool and comfortable outside. By the end of it, the sun rises in a marvelous near 20-minute sunrise.
 
