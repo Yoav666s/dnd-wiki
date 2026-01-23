@@ -15,9 +15,6 @@ Astronomy is the study of celestial bodies, space, and everything beyond planet 
 ## The Ausarian Expanse
 The Ausarian Expanse is a solar system in which Terrus is the fifth planet from Ausaria, the sun. It has one moon called Selene, and it otherwise resembles Earth as we know it.
 
-### Ausaria
-**The sun.** Ausaria is 
-
 ### Igneus
 **The first planet from Ausaria.** It is completely uninhabitable. It is tidally locked, meaning that one side is always facing the sun while the other remains in darkness. The dark side consists of mountains of black rock, while the other side harbors oceans of magma with ever changing continents that clash against each other, forming and crumbling mountains and valleys. Moreover, the atmosphere of Igneus is toxic, consisting of a high percentage of sulfur, which results in a hazy yellow sky.
 
@@ -72,7 +69,7 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 
 **The Terrestrial Calendar.** Since a "year" on Terrus takes 950 days, people don't tend to measure years by the time it takes Terrus to orbit the sun. Instead, they measure the passage of time by the time it takes Selene to orbit Terrus. They divide the year to twelve 30-day months, resulting in a 360-day year.
 
-**Seasons.** The seasons on Terrus are long, each taking approximately 8 months.
+**Seasons.** The seasons on Terrus are long, each taking approximately 8 months. (This affects agriculture, but how?)
 
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
