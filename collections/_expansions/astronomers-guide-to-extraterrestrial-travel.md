@@ -25,7 +25,7 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 **The third planet from Ausaria.** It's a comparatively tiny bundle of asteroids that crushed together to form a dwarf planet.
 
 ### Albastus
-**The fourth planet from Ausaria.** It seems blue from spaces, and is considered a habitable planet. The sunlight has a pink, reddish hue to it, as a result of the atmosphere's blue tint.
+**The fourth planet from Ausaria.** It seems blue from spaces, and is considered a habitable planet. From its surface, the sunlight has a pink, reddish hue to it, as a result of the hazy atmosphere's blue tint.
 
 ### Terrus 
 **The fifth planet from Ausaria.**
