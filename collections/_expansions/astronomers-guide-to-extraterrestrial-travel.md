@@ -13,7 +13,7 @@ excerpt: "All you need to know about extraterrestrial travel!"
 Astronomy is the study of celestial bodies, space, and everything beyond planet Terrus. It concerns itself not only with stars, moons, and planets, but also with the invisible forces that bind them together. It is a science that explores gravity, light, the vacuum of space, and the vast galaxy that lies beyond the Ausarian Expanse. Taking advantage of gnomish inventions and clever use of magic, it studies other planets and aims to make them habitable.
 
 ## The Ausarian Expanse
-The Ausarian Expanse is a solar system in which Terrus is the fifth planet from Ausaria, the sun. It has one moon called Selene, and it otherwise resembles Earth as we know it. The fourth and sixth planets are also believed to be habitable.
+The Ausarian Expanse is a solar system in which Terrus is the fifth planet from Ausaria, the sun. It has one moon called Selene, and it otherwise resembles Earth as we know it.
 
 ### Ausaria
 **The sun.** Ausaria is 
@@ -32,9 +32,9 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 [:extraterrestrial/planets/albaxia:]
 
-The atmosphere there is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable. It completes an orbit around Ausaria approximately every 267 Albaxian days (or 1,640 Terrus days).
+The atmosphere there is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable. Albaxia completes an orbit around Ausaria every 104.5 Albaxian days (or approximately 640 Terrestrial days).
 
-**Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit every seven Albaxian days (almost 43 Terrus days), while Orbis Minor completes one orbit every 2.3 Albaxian days (approximately one fortnight on Terrus).
+**Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit every seven Albaxian days (almost 43 Terrestrial days), while Orbis Minor completes one orbit every 2.3 Albaxian days (approximately one fortnight on Terrus).
 
 #### The Albaxian Day
 One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. This results in very hot afternoons and very cold nights, as the sun shines or is absent for over 70 hours at a time. The day is divided to twelve 12.25-hour periods by terrestrial creatures, who are used to 24-hour days.
@@ -66,16 +66,13 @@ One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. Th
 Some prefer to wake up in the early morning, taking rests at the same \~12.5 hour intervals. It doesn't matter since the day is so long, and you have to sleep during daytime and stay awake during nighttime, anyway.
 
 ### Terrus 
-**The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there. It completes an orbit around Ausaria approximately every 2,630 days.
+**The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there. It completes an orbit around Ausaria approximately every 950 days.
 
 **Moons.** Terrus has one moon, called Selene. It conpletes a full orbit approximately every 30 days.
 
-**The Terrestrial Calendar.** Since a "year" on Terrus takes 2,630 days, people don't tend to measure years by the time it takes Terrus to orbit the sun. Instead, they measure the passage of time by the time it takes Selene to orbit Terrus. They divide the year to twelve 30-day months, resulting in a 360-day year.
+**The Terrestrial Calendar.** Since a "year" on Terrus takes 950 days, people don't tend to measure years by the time it takes Terrus to orbit the sun. Instead, they measure the passage of time by the time it takes Selene to orbit Terrus. They divide the year to twelve 30-day months, resulting in a 360-day year.
 
 **Seasons.** The seasons on Terrus are long.
-
-### Untitled
-**The sixth planet from Ausaria.** It completes an orbit around Ausaria approximately every 3,830 Terrestrial days.
 
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
