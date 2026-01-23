@@ -15,7 +15,7 @@ comp:
   - V
   - S
   - M
-material: "a small glass bottle containing a mist from a cloud."
+material: "a small glass bottle containing mist from a cloud."
 duration: "24 Hours"
 concentration: false
 cast_time: "10 Minutes"
