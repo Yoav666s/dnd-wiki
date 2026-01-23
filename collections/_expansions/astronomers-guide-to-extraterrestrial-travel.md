@@ -43,7 +43,19 @@ One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. Th
 
 **Twilight.** During twilight, the sky has beautiful shades of pink and orange, and cooler breeze starts to blow. It is similar to the morning in terms of temperature and weather.
 
-**Evening.** The evening is when it starts getting colder, and towards the end the sun begins to set, resulting in a marvelous near 20-minute sunset.
+**Evening.** The evening is when it starts getting colder, and towards the end the sun begins to set, resulting in a marvelous near 20-minute sunset. It's a good time to take a rest.
+
+**Mornight.** The mornight is the first dark morning. It's still warm outside due to the thick atmosphere that traps the heat and prevents the planet from freezing.
+
+**Night.**
+
+**Midnight.**
+
+**Afternight.**
+
+**Dawn.**
+
+**Early Morning.**
 
 ### Terrus 
 **The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there.
