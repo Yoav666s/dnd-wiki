@@ -29,7 +29,7 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 [:extraterrestrial/planets/albaxia:]
 
-**Atmosphere.** The atmosphere there is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable. 
+**Atmosphere.** The atmosphere on Albaxia is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~49%), Oxygen (\~21%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable. 
 
 **Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit every seven Albaxian days (almost 43 Terrestrial days), while Orbis Minor completes one orbit every 2.3 Albaxian days (approximately one fortnight on Terrus).
 
@@ -72,9 +72,13 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 **Seasons.** The seasons on Terrus are long, each taking approximately a year. Summers yield plentiful harvest, resulting in 3 full rotations of crops, which are necessary to hoard for the long winters.
 
 ### Ghelus
-**The sixth planet from Ausaria.** It is composed of brown rock, orange soil, and is completely frozen. It has lakes, rivers, and seas of liquid ethane. Ghelus completes an orbit around Ausaria every 2,095 terrestrial days.
+**The sixth planet from Ausaria.** It is composed of brown rock, orange soil, and is completely frozen (\~-112°C). It has lakes, rivers, and seas of liquid Ethane. Ghelus completes an orbit around Ausaria every 2,095 terrestrial days.
 
-**Atmosphere.** Ghelus's atmosphere is composed of Argon (\~82%), Carbon Tetrafluoride (\~15%), Carbon Monoxide (\~2%), and Ethane vapor (<1%).
+**Atmosphere.** Ghelus's atmosphere is composed of Argon (\~82%), Carbon Tetrafluoride (\~15%), Carbon Monoxide (\~2%), and Ethane vapor (<1%). This air isn't breathable for terrestrial creatures by any means.
+
+**Moons.** Ghelus has no moons.
+
+**Visiting Ghelus.** Seriously not recommended.
 
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
