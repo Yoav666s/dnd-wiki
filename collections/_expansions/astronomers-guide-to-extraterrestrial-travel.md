@@ -63,7 +63,7 @@ One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. Th
 Some prefer to wake up in the early morning, taking rests at the same \~12.5 hour intervals. It doesn't matter since the day is so long, and you have to sleep during daytime and stay awake during nighttime, anyway.
 
 ### Terrus 
-**The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there. It completes an orbit around Ausaria approximately every 950 days.
+**The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there. It completes an orbit around Ausaria approximately every 950 days. One day on Terrus is approximately 24 hours.
 
 **Moons.** Terrus has one moon, called Selene. It conpletes a full orbit approximately every 19.75 days.
 
@@ -72,7 +72,7 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 **Seasons.** The seasons on Terrus are long, each taking approximately a year. Summers yield plentiful harvest, resulting in 3 full rotations of crops, which are necessary to hoard for the long winters.
 
 ### Gelus
-**The sixth planet from Ausaria.** 
+**The sixth planet from Ausaria.** It is composed of brown rock, [some sort] of orange soil, and is completely frozen. It has lakes, rivers, and seas of [some liquid with an incredibly low freezing point, maybe something that would normally be a gas on earth].
 
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
