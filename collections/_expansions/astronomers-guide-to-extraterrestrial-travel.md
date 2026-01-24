@@ -65,11 +65,11 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 ### Terrus 
 **The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there. It completes an orbit around Ausaria approximately every 950 days.
 
-**Moons.** Terrus has one moon, called Selene. It conpletes a full orbit approximately every 30 days.
+**Moons.** Terrus has one moon, called Selene. It conpletes a full orbit approximately every 19.75 days.
 
-**The Terrestrial Calendar.** Since a "year" on Terrus takes 950 days, people don't tend to measure years by the time it takes Terrus to orbit the sun. Instead, they measure the passage of time by the time it takes Selene to orbit Terrus. They divide the year to twelve 30-day months, resulting in a 360-day year. With that said, the solar phase is still measured for the purpose of tracking the seasons.
+**The Terrestrial Calendar.** Since a "year" on Terrus takes 950 days, people don't tend to measure years by the time it takes Terrus to orbit the sun. Instead, they measure the passage of time by the time it takes Selene to orbit Terrus. They divide the year to 3 19-day and nine 20-day months, resulting in a 237-day year. The summer year is 2 days longer, having only one 19-day month.
 
-**Seasons.** The seasons on Terrus are long, each taking approximately 8 months. (This affects agriculture, but how?)
+**Seasons.** The seasons on Terrus are long, each taking approximately a year. Summers yield plentiful harvest, which is necessary to hoard for the long winters.
 
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
