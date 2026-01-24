@@ -29,7 +29,7 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 [:extraterrestrial/planets/albaxia:]
 
-**Atmosphere.** The atmosphere on Albaxia is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~56%), Oxygen (\~14%), Krypton (\~26%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable. 
+**Atmosphere.** The atmosphere on Albaxia is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~74%), Oxygen (\~14%), Krypton (\~9%), and Methane (\~2-3%), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable.
 
 **Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit every seven Albaxian days (almost 43 Terrestrial days), while Orbis Minor completes one orbit every 2.3 Albaxian days (approximately one fortnight on Terrus).
 
