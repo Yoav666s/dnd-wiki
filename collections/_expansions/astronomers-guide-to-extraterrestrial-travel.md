@@ -67,7 +67,7 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 
 **Moons.** Terrus has one moon, called Selene. It conpletes a full orbit approximately every 30 days.
 
-**The Terrestrial Calendar.** Since a "year" on Terrus takes 950 days, people don't tend to measure years by the time it takes Terrus to orbit the sun. Instead, they measure the passage of time by the time it takes Selene to orbit Terrus. They divide the year to twelve 30-day months, resulting in a 360-day year.
+**The Terrestrial Calendar.** Since a "year" on Terrus takes 950 days, people don't tend to measure years by the time it takes Terrus to orbit the sun. Instead, they measure the passage of time by the time it takes Selene to orbit Terrus. They divide the year to twelve 30-day months, resulting in a 360-day year. With that said, the solar phase is still measured for the purpose of tracking the seasons.
 
 **Seasons.** The seasons on Terrus are long, each taking approximately 8 months. (This affects agriculture, but how?)
 
