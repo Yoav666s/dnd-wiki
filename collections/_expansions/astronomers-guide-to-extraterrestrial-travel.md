@@ -72,7 +72,7 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 **Seasons.** The seasons on Terrus are long, each taking approximately a year. Summers yield plentiful harvest, resulting in 3 full rotations of crops, which are necessary to hoard for the long winters.
 
 ### Gelus
-**The sixth planet from Ausaria.** It is composed of brown rock, [some sort] of orange soil, and is completely frozen. It has lakes, rivers, and seas of [some liquid with an incredibly low freezing point, maybe something that would normally be a gas on earth]. It completes an orbit around Ausaria every 2,095 days.
+**The sixth planet from Ausaria.** It is composed of brown rock, [some sort] of orange soil, and is completely frozen. It has lakes, rivers, and seas of [some liquid with an incredibly low freezing point, maybe something that would normally be a gas on earth]. It completes an orbit around Ausaria every 2,095 terrestrial days.
 
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[magniscope]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
