@@ -29,11 +29,13 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 [:extraterrestrial/planets/albaxia:]
 
-**Atmosphere.** The atmosphere on Albaxia is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~56%), Oxygen (\~14%), Krypton (\~26%), and Methane (\~2-3%, in the upper layers), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable, but are generally safe because Methane tends to concentrate at the higher layers where oxygen is low.
+**Atmosphere.** The atmosphere on Albaxia consists of Neon (\~56%), Oxygen (\~14%), Krypton (\~26%), and Methane (\~2-3%, in the upper layers), as well as vapors and dust. The atmospheric pressure is higher than on Terrus, so even though the percentage of Oxygen is lower, the air is still breathable for terrestrial creatures.
 
-**Sound.** Because of the high concentration of Krypton in the air, creatures' voices would sound significantly deeper than they are on Terrus. Whispers, footsteps, and the rustle of leaves can be heard from greater distances, while high pitched noises are muffled. Sound travels more slowly on Albaxia, meaning there would be a slight delay over distances greater than 60 feet.
+**Methane.** Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable, but are generally safe because Methane tends to concentrate at the higher layers where oxygen is low.
 
 **Inert Gas Narcosis.** Krypton is a potent anesthetic. Upon arriving on Albaxia, terrestrial creatures would feel a wave of euphoria and giddiness, finding things much funnier than they actually are. This lasts for the first 48-96 hours on Albaxia. Mental abilities slow down as well, and dexterity is hindered, causing a lack of coordination similar to alcohol intoxication. After at least a month of exposure to the Albaxian atmosphere, terrestrial creatures grow complacent. Their short-term memory is impaired, and some become paranoid.
+
+**Sound.** Because of the high concentration of Krypton in the air, creatures' voices would sound significantly deeper than they are on Terrus. Whispers, footsteps, and the rustle of leaves can be heard from greater distances, while high pitched noises are muffled. Sound travels more slowly on Albaxia, meaning there would be a slight delay over distances greater than 60 feet.
 
 **Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit every seven Albaxian days (almost 43 Terrestrial days), while Orbis Minor completes one orbit every 2.3 Albaxian days (approximately one fortnight on Terrus).
 
