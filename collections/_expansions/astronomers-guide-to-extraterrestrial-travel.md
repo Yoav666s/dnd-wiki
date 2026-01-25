@@ -29,7 +29,7 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 [:extraterrestrial/planets/albaxia:]
 
-**Atmosphere.** The atmosphere on Albaxia is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~56%), Oxygen (\~14%), Krypton (\~26%), and Methane (\~2-3%, in the upper layers), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable, and they cause dangerous explosions at the upper layers where Methane is naturally concentrated.
+**Atmosphere.** The atmosphere on Albaxia is breathable for terrestrial creatures without requiring much adaptation as it consists of Neon (\~56%), Oxygen (\~14%), Krypton (\~26%), and Methane (\~2-3%, in the upper layers), as well as vapors and dust. Methane causes the blue tint, but is also highly flammable. As a result, flames are more volatile and unpredictable, but are generally safe because Methane tends to concentrate at the higher layers where oxygen is low.
 
 **Sound.** Because of the high concentration of Krypton in the air, creatures' voices would sound significantly deeper than they are on Terrus. Whispers, footsteps, and the rustle of leaves can be heard from greater distances, while high pitched noises are muffled. Sound travels more slowly on Albaxia, meaning there would be a slight delay over distances greater than 60 feet.
 
