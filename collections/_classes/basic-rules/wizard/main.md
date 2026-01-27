@@ -63,7 +63,7 @@ A spellbook
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
 
 ### Cantrips
-At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
+At 1st level, you know three cantrips of your choice from the [[rules:wizard spell list]]. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
 
 ### Spellbook
 At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
@@ -118,7 +118,7 @@ When you reach 2nd level, you choose an arcane tradition, shaping your practice 
 | School           | Source                    |
 | :--------------- | :------------------------ |
 | [[!Evocation]]   | Basic Rules               |
-| [[!Delirium]] | Fillumir's Guide to the Feywild |
+| [[!classes:Delirium]] | Fillumir's Guide to the Feywild |
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
