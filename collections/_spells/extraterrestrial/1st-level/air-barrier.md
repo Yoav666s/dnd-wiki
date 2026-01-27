@@ -11,7 +11,7 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "1 Hour"
+duration: "8 Hours"
 concentration: false
 cast_time: "1 Action"
 ritual: false
