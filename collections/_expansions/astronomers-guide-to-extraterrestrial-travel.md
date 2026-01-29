@@ -37,7 +37,7 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 **Sound.** Because of the high concentration of Krypton in the air, creatures' voices would sound significantly deeper than they are on Terrus. Whispers, footsteps, and the rustle of leaves can be heard from greater distances, while high pitched noises are muffled. Sound travels more slowly on Albaxia, meaning there would be a slight delay over distances greater than 60 feet.
 
-**Methanol.** The primary liquid on Albaxia is Methanol, which is highly flammable. When burns, it produces Carbon Dioxide and water, and its flame is blue and barely visible in the daylight. It's not uncommon to encounter burning puddles, which are highly dangerous.
+**Methanol.** The primary liquid on Albaxia is Methanol, which is highly flammable. When burns, it produces Carbon Dioxide and water, and its flame is blue and barely visible in the daylight. There aren't any seas or lakes as the methanol quickly sinks into the ground, but there are puddles and rivers when it rains. It's not uncommon to encounter burning puddles, which are highly dangerous.
 
 **Ground.** The ground is made of Limestone which releases Carbon Dioxide when heated, immediately extinguishing any Methanol flames that might arise.
 
