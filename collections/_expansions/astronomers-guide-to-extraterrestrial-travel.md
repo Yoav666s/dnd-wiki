@@ -37,7 +37,7 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 **Sound.** Because of the high concentration of Krypton in the air, creatures' voices would sound significantly deeper than they are on Terrus. Whispers, footsteps, and the rustle of leaves can be heard from greater distances, while high pitched noises are muffled. Sound travels more slowly on Albaxia, meaning there would be a slight delay over distances greater than 60 feet.
 
-**Methanol.** The primary liquid on Albaxia is Methanol, which is highly flammable. When burns, it produces Carbon Dioxide and water, and its flame is blue and barely visible.
+**Methanol.** The primary liquid on Albaxia is Methanol, which is highly flammable. When burns, it produces Carbon Dioxide and water, and its flame is blue and barely visible in the daylight. It's not uncommon to encounter burning lakes and rivers, which is highly dangerous.
 
 **Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit every seven Albaxian days (almost 43 Terrestrial days), while Orbis Minor completes one orbit every 2.3 Albaxian days (approximately one fortnight on Terrus).
 
