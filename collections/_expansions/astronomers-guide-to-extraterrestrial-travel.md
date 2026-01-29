@@ -25,7 +25,7 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 **The third planet from Ausaria.** It's a comparatively tiny bundle of asteroids that crushed together to form a dwarf planet.
 
 ### Albaxia
-**The fourth planet from Ausaria.** It seems blue from space, and is considered a habitable planet. From its surface, the sunlight has a pink, reddish hue to it, as a result of the thick and hazy atmosphere's blue tint which filters out much of the shorter-wavelength light. Shadows have a warm, amber tone, and the plants and foliage are mostly red, purple, and black in color. Albaxia completes an orbit around Ausaria every 104.5 Albaxian days (or approximately 640 Terrestrial days).
+**The fourth planet from Ausaria.** It seems blue from space, and is considered a habitable planet. From its surface, the sunlight has a pink, reddish hue to it, as a result of the thick and hazy atmosphere's blue tint which filters out much of the shorter-wavelength light. Shadows have a warm, amber tone, and the plants and foliage are mostly purple and black in color. Albaxia completes an orbit around Ausaria every 104.5 Albaxian days (or approximately 640 Terrestrial days).
 
 [:extraterrestrial/planets/albaxia:]
 
@@ -35,7 +35,7 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 **Nectar Seas.** The primary liquid on Albaxia is a Deep Eutectic Solvent composed of Choline Chloride and Urea, commonly referred to as Nectar. It's an amber colored, viscous substance resembling maple syrup. It's slightly tacky and smells a faintly sweet, but drinking it would cause a terrestrial creature amonia poisoning. By boiling this liquid the water inside it would evaporate, leaving the toxic sludge behind. The captured steam would condense into fresh, drinkable water.
 
-**Marine Creatures.** There are no "fish" in the Nectar seas of Albaxia, but there are marine creatures. Their skin is leathery and thick to protect them from the liquid, and they generally move using jet propulsion (like squids). They have no gills, they instead surface to breath the oxygen-rich air (like whales and dolphins).
+**Marine Creatures.** There are no "fish" in the Nectar seas of Albaxia, but there are marine creatures. Their skin is leathery and thick to protect them from the liquid, and they generally move using undulation (like eels). They have no gills, they instead surface to breath the oxygen-rich air (like whales and dolphins).
 
 **Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit every seven Albaxian days (almost 43 Terrestrial days), while Orbis Minor completes one orbit every 2.3 Albaxian days (approximately one fortnight on Terrus).
 
