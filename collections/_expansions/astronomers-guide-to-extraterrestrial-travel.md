@@ -39,7 +39,7 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 **Methanol.** The primary liquid on Albaxia is Methanol, which is highly flammable. When burns, it produces Carbon Dioxide and water, and its flame is blue and barely visible in the daylight. There aren't any seas or lakes as the methanol quickly sinks into the ground, but there are puddles and rivers when it rains. It's not uncommon to encounter burning puddles, which are highly dangerous.
 
-**Ground.** The ground is made of Sodium Bicarbonate (baking soda) which releases Carbon Dioxide and water vapor when heated, immediately extinguishing any Methanol flames that might arise.
+**Ground.** The ground is made of powdered Sodium Bicarbonate (baking soda) which releases Carbon Dioxide and water vapor when heated, immediately extinguishing any Methanol flames that might arise.
 
 **Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit every seven Albaxian days (almost 43 Terrestrial days), while Orbis Minor completes one orbit every 2.3 Albaxian days (approximately one fortnight on Terrus).
 
