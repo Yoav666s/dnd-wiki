@@ -115,6 +115,8 @@ races:
     url: /races/halfling/
   - title: "Human"
     url: /races/human/
+  - title: "Mauvian"
+    url: /races/mauvian/
   - title: "Metamorphe"
     url: /races/metamorphe/
   - title: "Tiefling"
