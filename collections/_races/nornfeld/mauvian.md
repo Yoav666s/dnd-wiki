@@ -3,7 +3,7 @@ title: "Mauvian"
 index:
   - mauvian
 permalink: /races/mauvian/
-excerpt: ""
+excerpt: "Mauvians have a short, broad build. Their skin is leathery, almost hide-like, and its color ranges from deep indigo to slate grey, matching the flora and fauna on Albaxia."
 tags:
   - Race
 source: "Astronomer's Guide to Extraterrestrial Travel"
@@ -11,6 +11,18 @@ header:
   overlay_image: /assets/images/races/mauvian/header.png
   teaser: /assets/images/races/mauvian/header.jpg
 ---
+> Hum, hum, low and calm,
+>
+> Slowly, feel the beating drum;
+>
+> Listen, each and every pound,
+>
+> Hear the rumbling, heavy sound,
+>
+> Feel it coursing through your blood,
+>
+> See the ripples in the mud;
+> 
 > 
 
 # Squat and Strong
