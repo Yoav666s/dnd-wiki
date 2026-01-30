@@ -37,6 +37,8 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 **Marine Creatures.** There are no "fish" in the Nectar seas of Albaxia, but there are marine creatures. Their skin is leathery and thick to protect them from the liquid, and they generally move using undulation (like eels). They have no gills, they instead surface to breath the oxygen-rich air (like whales and dolphins).
 
+**Mauvians.** Mauvians are humanoids that have a short, broad build. Their skin is leathery, almost hide-like, and its color ranges from deep indigo to slate grey, matching the flora and fauna on Albaxia. Their hair grows in dark violet or jet black dreadlocks, and their eyes have slit-shaped, feline pupils and amber colored irises. Their ears are large and cupped forward, capable of capturing vibrations in the ground, and they have no visible nose bridge, just wide slit nostrils.
+
 **Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit every seven Albaxian days (almost 43 Terrestrial days), while Orbis Minor completes one orbit every 2.3 Albaxian days (approximately one fortnight on Terrus).
 
 #### The Albaxian Day
