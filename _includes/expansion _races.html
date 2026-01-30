@@ -1,0 +1,5 @@
+{% assign races = site.races | where: "source", page.title %}
+{% for race in races %}
+  <h2 id="{{ race.title | slugify }}">{{ race.title }}</h2>
+  {% include page_content.html page=race %}
+{% endfor %}
