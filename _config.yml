@@ -535,7 +535,4 @@ defaults:
       header:
         overlay_image: /assets/images/expansions/header.png
         overlay_filter: 0.375
-      toc: true
-      toc_label: "Contents"
-      toc_sticky: true
-      wip: false
+      classes: wide
