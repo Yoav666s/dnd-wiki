@@ -46,13 +46,13 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 **Moons.** Albaxia has two moons, called Orbis Major and Orbis Minor. Orbis Major is the bigger one, but it's further from Albaxia than Orbis Minor, which is considerably smaller. It's quite easy to discern between them by their size and speed. Orbis Major conpletes a full orbit every seven Albaxian days (almost 43 Terrestrial days), while Orbis Minor completes one orbit every 2.3 Albaxian days (approximately one fortnight on Terrus).
 
 #### The Albaxian Day
-One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. This results in very hot afternoons and very cold nights, as the sun shines or is absent for over 70 hours at a time. The day is divided to twelve 12.25-hour periods by terrestrial creatures, who are used to 24-hour days.
+One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. This results in very hot afternoons and very cold nights, as the sun shines or is absent for over 70 hours at a time. The day is divided to twelve 12.25-hour periods by terrestrial creatures, who are used to 24-hour days. Mauvians, on the other hand, divide one full rotation into two distinct 70-hour days, their sleep cycle revolving around the temperature rather than daylight.
 
 **Morning.** The morning is equivalent to a normal day on Terrus in temperature and weather. The first hours of light are still cool and comfortable from the early morning, and it starts getting hot after about six hours.
 
 **Noon.** The noon is hot, and it's usually a good time to find cover and rest. It is not recommended to sleep in the sun, even though the thick atmosphere provides some protection from ultraviolet radiation.
 
-**Midday.** The midday is the hottest period of the day, especially towards the end. It is recommended to stay hydrated and remain under cover as much as possible.
+**Midday.** The midday is the hottest period of the day, especially towards the end. It is recommended to stay hydrated and remain under cover as much as possible. During this time, mauvians usually sleep.
 
 **Afternoon.** During the late afternoon hours the heat starts to subside. It's a good time to find cover and rest.
 
@@ -64,7 +64,7 @@ One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. Th
 
 **Night.** The first night is cold, but not freezing. It's a good time to take a rest.
 
-**Midnight.** The midnight is the second dark morning. It's the coldest period of the Albaxian day, reaching a temperature of around 7-10°C in summer and 0-6°C in winter.
+**Midnight.** The midnight is the second dark morning. It's the coldest period of the Albaxian day, reaching a temperature of around 7-10°C in summer and 0-6°C in winter. During this time, mauvians usually sleep.
 
 **Afternight.** The afternight, or second night, is initially very cold, but it gets warmer towards the end. It's a good time to take a rest.
 
@@ -72,7 +72,7 @@ One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. Th
 
 **Early Morning.** The early morning is still cool and comfortable from the night before, and is a great time to take a rest.
 
-Some prefer to wake up in the early morning, taking rests at the same \~12.5 hour intervals. It doesn't matter since the day is so long, and you have to sleep during daytime and stay awake during nighttime, anyway.
+Some prefer to wake up in the early morning, taking rests at the same \~12.5 hour intervals. This is in order to sleep during the midnight and midday periods, avoiding extreme temperature.
 
 ### Terrus
 **The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there. Terrus completes an orbit around Ausaria approximately every 950 days. One day on Terrus is approximately 24 hours.
