@@ -19,11 +19,15 @@ header:
 >
 > Hear the rumbling, heavy sound,
 >
+> 
+>
 > Feel it coursing through your blood,
 >
 > See the ripples in the mud;
 > 
+> The sun is rising, time has come.
 > 
+> Feel the beating of the drum!
 
 # Squat and Strong
 Mauvians have a short, broad build. Their skin is leathery, almost hide-like, and its color ranges from deep indigo to slate grey, matching the flora and fauna on Albaxia. Their hair grows in dark violet or jet black dreadlocks, and their eyes have slit-shaped, feline pupils and amber colored irises. Their ears are large and cupped forward, capable of capturing vibrations in the ground, and they have no visible nose bridge, just wide slit nostrils.
