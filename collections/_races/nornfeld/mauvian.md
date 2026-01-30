@@ -47,3 +47,11 @@ You can use this reaction a number of times equal to your proficiency bonus, and
 As a bonus action, you gain Tremorsense with a range of 60 feet for 1 minute.
 
 You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+# Variant Mauvian 
+If your campaign uses the 2024 ruleset, your Dungeon Master might allow this variant trait which replaces the Ability Score Increase trait.
+
+## Variant Mauvian Traits
+
+### Mauvian Resilience
+You have resistance to poison damage. You also have advantage on saving throws you make to avoid or end the poisoned condition.
