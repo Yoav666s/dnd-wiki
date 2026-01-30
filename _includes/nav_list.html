@@ -20,12 +20,19 @@
           {% endif %}
 
           {% if navname == "expansions" %}
-            {% assign subclasses = site.subclasses | where: "source", nav.title | sort: "title" %}
-            {% assign races = site.races | where: "source", nav.title | sort: "title" %}
-            {% assign level_spells = site.spells | where: "source", nav.title | sort: "title" %}
-            {% assign items = site.items | where: "source", nav.title | sort: "title" %}
-            {% assign monsters = site.monsters | where: "source", nav.title | sort: "title" %}
-            {% assign adventures = site.adventures | where: "source", nav.title | sort: "title" %}
+            {% assign subclasses = site.subclasses | where: "source", nav.title %}
+            {% assign races = site.races | where: "source", nav.title %}
+            {% assign level_spells = site.spells | where: "source", nav.title %}
+            {% assign items = site.items | where: "source", nav.title %}
+            {% assign monsters = site.monsters | where: "source", nav.title %}
+            {% assign adventures = site.adventures | where: "source", nav.title %}
+
+            {% if subclasses %}{% assign subclasses = subclasses | sort: "title" %}{% endif %}
+            {% if races %}{% assign races = races | sort: "title" %}{% endif %}
+            {% if level_spells %}{% assign level_spells = level_spells | sort: "title" %}{% endif %}
+            {% if items %}{% assign items = items | sort: "title" %}{% endif %}
+            {% if monsters %}{% assign monsters = monsters | sort: "title" %}{% endif %}
+            {% if adventures %}{% assign adventures = adventures | sort: "title" %}{% endif %}
           {% endif %}
 
           {% if nav.url %}
