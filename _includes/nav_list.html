@@ -27,7 +27,7 @@
             {% assign monsters = site.monsters | where: "source", nav.title %}
             {% assign adventures = site.adventures | where: "source", nav.title %}
 
-            {% if subclasses %}{% assign subclasses = subclasses | sort: "title" %}{% endif %}
+            {% if subclasses %}{% assign subclasses = subclasses | sort: "subclass" %}{% endif %}
             {% if races %}{% assign races = races | sort: "title" %}{% endif %}
             {% if level_spells %}{% assign level_spells = level_spells | sort: "title" %}{% endif %}
             {% if items %}{% assign items = items | sort: "title" %}{% endif %}
