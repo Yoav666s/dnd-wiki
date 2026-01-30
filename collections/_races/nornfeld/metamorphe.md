@@ -64,7 +64,5 @@ You can speak, read, and write Common and one other language of your choice.
 # Variant Metamorphe
 If your campaign uses the 2024 ruleset, your Dungeon Master might allow this variant trait which replaces the Ability Score Increase trait.
 
-## Variant Metamorphe Traits
-
-### Darkvision
+## Darkvision
 You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
