@@ -4,9 +4,9 @@ index:
   - astronomers-guide-to-extraterrestrial-travel
 permalink: /expansions/astronomers-guide-to-extraterrestrial-travel/
 excerpt: "All you need to know about extraterrestrial travel!"
-# header:
-#   overlay_image: /assets/images/expansions/astronomers-guide-to-extraterrestrial-travel/header.png
-#   teaser: /assets/images/expansions/astronomers-guide-to-extraterrestrial-travel/header.jpg
+header:
+  overlay_image: /assets/images/expansions/astronomers-guide-to-extraterrestrial-travel/header.png
+  teaser: /assets/images/expansions/astronomers-guide-to-extraterrestrial-travel/header.jpg
 ---
 
 # Introduction: Astronomy and the Universe Beyond
@@ -72,7 +72,7 @@ One day on Albaxia is approximately 147 hours, or just over 6 days on Terrus. Th
 
 Some prefer to wake up in the early morning, taking rests at the same \~12.5 hour intervals. It doesn't matter since the day is so long, and you have to sleep during daytime and stay awake during nighttime, anyway.
 
-### Terrus 
+### Terrus
 **The fifth planet from Ausaria.** It consists of vast continents, large bodies of water, plants, and an atmosphere composition that's perfect for terrestrial life. It is home for countless civilizations that live in forests, jungles, deserts, and other biomes, and most adventures take place there. Terrus completes an orbit around Ausaria approximately every 950 days. One day on Terrus is approximately 24 hours.
 
 **Moons.** Terrus has one moon, called Selene. It conpletes a full orbit approximately every 19.75 days.
@@ -98,7 +98,7 @@ The following are races of creatures that live on other planets.
 
 {% include expansion_races.html %}
 
-# Chapter ?: Spells 
+# Chapter ?: Spells
 The following are spells that are essential to extraterrestrial travel.
 
 {% include expansion_spells.html %}
