@@ -35,6 +35,8 @@ The Ausarian Expanse is a solar system in which Terrus is the fifth planet from 
 
 **Nectar Seas.** The primary liquid on Albaxia is a Deep Eutectic Solvent composed of Choline Chloride and Urea, commonly referred to as Nectar. It's an amber colored, viscous substance resembling maple syrup. It's slightly tacky and smells a faintly sweet, but drinking it would cause a terrestrial creature amonia poisoning. By boiling this liquid the water inside it would evaporate, leaving the toxic sludge behind. The captured steam would condense into fresh, drinkable water.
 
+[:extraterrestrial/planets/albaxia/nectar-sea;header:]
+
 **Marine Creatures.** There are no "fish" in the Nectar seas of Albaxia, but there are marine creatures. Their skin is leathery and thick to protect them from the liquid, and they generally move using undulation (like eels). They have no gills, they instead surface to breath the oxygen-rich air (like whales and dolphins).
 
 **Mauvians.** Mauvians are humanoids that have a short, broad build. Their skin is leathery, almost hide-like, and its color ranges from deep indigo to slate grey, matching the flora and fauna on Albaxia. Their hair grows in dark violet or jet black dreadlocks, and their eyes have slit-shaped, feline pupils and amber colored irises. Their ears are large and cupped forward, capable of capturing vibrations in the ground, and they have no visible nose bridge, just wide slit nostrils.
