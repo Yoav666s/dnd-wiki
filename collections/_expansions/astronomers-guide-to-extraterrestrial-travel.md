@@ -91,6 +91,11 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[teleseer]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
 
+# Chapter ?: Items
+The following are races of creatures that live on other planets.
+
+{% include expansion_races.html %}
+
 # Chapter ?: Spells 
 The following are spells that are essential to extraterrestrial travel.
 
