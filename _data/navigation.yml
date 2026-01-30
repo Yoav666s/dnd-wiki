@@ -66,6 +66,14 @@ classes:
     class: wizard
     url: /classes/wizard/
 
+expansions:
+  - title: "Astronomer's Guide to Extraterrestrial Travel"
+    url: /expansions/astronomers-guide-to-extraterrestrial-travel/
+  - title: "Fillumir's Guide to the Feywild"
+    url: /expansions/fillumirs-guide-to-the-feywild/
+  - title: "Survivor's Guide to Morgenfell"
+    url: /expansions/survivors-guide-to-morgenfell/
+
 lore:
   - title: "Cortenmaas"
     url: /lore/cortenmaas/
