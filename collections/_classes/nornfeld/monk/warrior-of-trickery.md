@@ -4,7 +4,7 @@ index:
   - trickery
   - warrior-of-trickery
 permalink: /classes/monk/trickery/
-excerpt: "Monks of the Way of the Trickster are deviously cunning."
+excerpt: "Warriors of Trickery are deviously cunning."
 subclass: monk
 v_2024: true
 alt_version: trickster
