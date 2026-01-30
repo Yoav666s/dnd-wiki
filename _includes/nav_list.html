@@ -20,7 +20,7 @@
           {% endif %}
 
           {% if navname == "expansions" %}
-            {% assign subclasses = site.subclasses | where: "source", nav.title %}
+            {% assign subclasses = site.classes | where: "source", nav.title %}
             {% assign races = site.races | where: "source", nav.title %}
             {% assign level_spells = site.spells | where: "source", nav.title %}
             {% assign items = site.items | where: "source", nav.title %}
