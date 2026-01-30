@@ -51,7 +51,5 @@ You can use this bonus action a number of times equal to your proficiency bonus,
 # Variant Mauvian 
 If your campaign uses the 2024 ruleset, your Dungeon Master might allow this variant trait which replaces the Ability Score Increase trait.
 
-## Variant Mauvian Traits
-
-### Mauvian Resilience
+## Mauvian Resilience
 You have resistance to poison damage. You also have advantage on saving throws you make to avoid or end the poisoned condition.
