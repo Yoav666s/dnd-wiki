@@ -34,12 +34,12 @@ Starting at 2nd level, you can use your Channel Divinity to bestow a shroud of s
 As an action, a willing creature you touch (possibly yourself) has the invisible condition for a number of rounds equal to your cleric level (to a maximum of 10 rounds), or until it attacks or casts a spell. This effect ends early if you lose concentration (as if you were concentrating on a spell).
 
 # Shadow Slip
-Starting at 6th level, you learn how to slip in and out of the Shadowfell. Immediately after you successfully take the [[hide]] action, you can teleport up to 30 feet to an unoccupied space you can see that would give you full cover, or is in dim light or darkness. 
+Starting at 6th level, you learn how to slip in and out of the Shadowfell. Immediately after you successfully take the [[hide]] action, you can teleport up to 30 feet to an unoccupied space you can see that would give you full cover, or is in dim light or darkness.
 
 # Umbral Strike
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-# Improved Shadow Slip 
-Starting at 17th level, when you use your Shadow Slip feature, the range is increased to 60 feet, and you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
+# Improved Shroud of Shadows
+Starting at 17th level, when you use your Shroud of Shadows channel divinity option on yourself, you can create an illusory double that appears where you are standing and lasts for the duration. You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.
 
 [:classes/cleric/shroud:]
