@@ -58,8 +58,6 @@ Accustomed to life on Albaxia, you have superior vision in dark and dim conditio
 ## Thick Hide
 As a reaction when you are hit with an attack that deals nonmagical bludgeoning, piercing, or slashing damage, you can add your constitution modifier to your AC, possibly causing the attack to miss you. You gain this bonus to your AC against this kind of attacks until the start of your next turn.
 
-You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
 ## Tremorsense
 As a bonus action, you gain Tremorsense with a range of 60 feet for 1 minute.
 
