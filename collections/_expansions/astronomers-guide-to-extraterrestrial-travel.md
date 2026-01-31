@@ -99,7 +99,7 @@ Moons and other planets have been observed using a revolutionary invention calle
 Astronomy has been around since man first gazed at the starry night sky. It began as a way to count the days on a calendar, and slowly evolved from being a religious endeavor into a science.
 
 ## Astronomy as a Religious Endeavor
-At first, it was believed that the stars in the night sky 
+At first, it was believed that the stars in the night sky are celestial angels, deities, and beasts, and their movements were closely watched and interpreted for omens and predictions.
 
 ## Going to the Moon
 The elven wizard who created the first teleseer is called Saelethil Miatris. He had the telescope specially made by his gnomish friend Guila Horsentuth, and then he enchanted it himself. He used it to scry on the surface of Selene and found no life forms there. After many months of research, he decided to send a raven familiar there, using the [[Teleport]] spell. This initially worked, but the familiar died. Upon resummoning it, he learned that it died of terrible suffocation.
