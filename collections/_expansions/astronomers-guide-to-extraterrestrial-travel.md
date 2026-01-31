@@ -93,7 +93,9 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 **Visiting Ghelus.** Seriously not recommended.
 
 ## Observation of Moons and Other Planets
-Moons and other planets have been observed using a revolutionary invention called the [[teleseer]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse. The elven wizard who created the first teleseer is called Durumir 
+Moons and other planets have been observed using a revolutionary invention called the [[teleseer]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
+
+The elven wizard who created the first teleseer is called Saelethil Miatris. He had the telescope specially made by his gnomish friend Guila Horsentuth, and then he enchanted it himself. He used it to scry on the surface of Selene and found no life forms there.
 
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
