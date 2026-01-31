@@ -95,7 +95,13 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 ## Observation of Moons and Other Planets
 Moons and other planets have been observed using a revolutionary invention called the [[teleseer]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
 
+# Chapter 1: History of Astronomy 
+Astronomy has been around since man first gazed at the starry night sky. It began as a way to count the days on a calendar, and slowly evolved from being a religious endeavor into a science.
+
+## Going to the Moon
 The elven wizard who created the first teleseer is called Saelethil Miatris. He had the telescope specially made by his gnomish friend Guila Horsentuth, and then he enchanted it himself. He used it to scry on the surface of Selene and found no life forms there. After many months of research, he decided to send a familiar there, using the [[Teleport]] spell. This initially worked, but the familiar died. Upon resummoning it, he learned that it died of terrible suffocation.
+
+Saelethil got to work on a spell that would allow him to breathe on the surface of Selene. He managed to create a personal barrier that blocked the air around the target from dispersing. However, the frist renditions weren't usable, because the air within the barrier became unbreathable after a few minutes. Using transmutation magic, Saelethil managed to fix this issue, designing a spell that would also refresh the air inside the barrier. The final 
 
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
