@@ -103,6 +103,8 @@ The elven wizard who created the first teleseer is called Saelethil Miatris. He 
 
 Saelethil got to work on a spell that would allow him to breathe on the surface of Selene. He managed to create a personal barrier that blocked the air around the target from dispersing. However, the frist renditions weren't usable, because the air within the barrier became unbreathable after a few minutes. Using transmutation magic, Saelethil managed to fix this issue, designing a spell that would also refresh the air inside the barrier. The final version of the spell is called [[Air Barrier]], and is still widely used to this day in exploration of moons and alien planets.
 
+After months of designing this spell and finally achieving a result he was happy with, Saelethil had decided to attempt to send his familiar to Selene once again. He casted the spell on 
+
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
 
