@@ -109,7 +109,10 @@ After months of designing this spell and finally achieving a result he was happy
 
 While on the moon, he decided to test something out: he casted the ritual spell [[Tiny Hut]] and dismissed his air barrier from inside it. He could breathe. He teleported back home and started researching the nature of this spell. He found the component which is responsible for the breathable atmosphere and started designing a more permanent one, utilizing his air refreshment formula from [[Air Barrier]]. After months of work, he ended up with the [[Miniature Atmosphere]] spell.
 
-When the spell was complete, Saelethil then hired construction workers to build a house on Selene. He would cast [[Air Barrier]] on all of them, including himself, teleport the materials to the moon, and then teleport the group. Then he'd cast [[Miniature Atmosphere]] on a spot he liked and the crew started their work. At the end of their work day he would teleport everyone back to his study by casting [[Teleportation Circle]] on the same spot. After doing this every day for a year, he had a house with a breathable atmosphere on the moon, along with a permanent teleportation circle. 
+When the spell was complete, Saelethil then hired construction workers to build a house on Selene. He would cast [[Air Barrier]] on all of them, including himself, teleport the materials to the moon, and then teleport the group. Then he'd cast [[Miniature Atmosphere]] on a spot he liked and the crew started their work. At the end of their work day he would teleport everyone back to his study by casting [[Teleportation Circle]] on the same spot. After doing this every day for a year, he had a house with a breathable atmosphere on the moon, along with a permanent teleportation circle.
+
+### Colonizing the Moon
+Saelethil had passed down his knowledge and research, and he had many students. Over the years, a large section of the light side of Selene was colonized in a collective effort of astronomers. There are now large areas of overlapping miniature atmospheres with houses, shrines, and shops. There are multiple colonies on Selene, and there's a permanent teleportation circle for each one.
 
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
