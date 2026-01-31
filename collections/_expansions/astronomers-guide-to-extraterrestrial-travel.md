@@ -101,7 +101,7 @@ Astronomy has been around since man first gazed at the starry night sky. It bega
 ## Going to the Moon
 The elven wizard who created the first teleseer is called Saelethil Miatris. He had the telescope specially made by his gnomish friend Guila Horsentuth, and then he enchanted it himself. He used it to scry on the surface of Selene and found no life forms there. After many months of research, he decided to send a familiar there, using the [[Teleport]] spell. This initially worked, but the familiar died. Upon resummoning it, he learned that it died of terrible suffocation.
 
-Saelethil got to work on a spell that would allow him to breathe on the surface of Selene. He managed to create a personal barrier that blocked the air around the target from dispersing. However, the frist renditions weren't usable, because the air within the barrier became unbreathable after a few minutes. Using transmutation magic, Saelethil managed to fix this issue, designing a spell that would also refresh the air inside the barrier. The final 
+Saelethil got to work on a spell that would allow him to breathe on the surface of Selene. He managed to create a personal barrier that blocked the air around the target from dispersing. However, the frist renditions weren't usable, because the air within the barrier became unbreathable after a few minutes. Using transmutation magic, Saelethil managed to fix this issue, designing a spell that would also refresh the air inside the barrier. The final version of the spell is called [[Air Barrier]], and is still widely used to this day in exploration of moons and alien planets.
 
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
