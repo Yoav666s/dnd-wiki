@@ -92,13 +92,13 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 
 **Visiting Ghelus.** Seriously not recommended.
 
-## Observation of Moons and Other Planets
-Moons and other planets have been observed using a revolutionary invention called the [[teleseer]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
-
 # Chapter 1: History of Astronomy 
 Astronomy has been around since man first gazed at the starry night sky. It began as a way to count the days on a calendar, and slowly evolved from being a religious endeavor into a science.
 
-**Astronomy as a Religious Endeavor.** At first, it was believed that the stars in the night sky are celestial angels, deities, and beasts, and their movements were closely watched and interpreted for omens and predictions. Later, after it was established that earth has curvature and isn't flat, the telescope was invented. This had allowed astronomers to learn that there are other planets with their own moons.
+**Astronomy as a Religious Endeavor.** At first, it was believed that the stars in the night sky are celestial angels, deities, and beasts, and their movements were closely watched and interpreted for omens and predictions. Later, after it was established that the earth has curvature and isn't flat, the telescope was invented. This had allowed astronomers to learn that there are other planets with their own moons.
+
+## Observation of Moons and Other Planets
+Moons and other planets have been observed using a revolutionary invention called the [[teleseer]], a large enchanted telescope which allows the operator to cast [[Scrying]] on the location it is focused on. This has allowed astronomers to see the surface of Selene and of the other planets in the Ausarian Expanse.
 
 ## Going to the Moon
 The elven wizard who created the first teleseer is called Saelethil Miatris. He had a telescope specially made by his gnomish friend Guila Horsentuth, and then he enchanted it himself. He used it to scry on the surface of Selene and found no life forms there. After many months of research, he decided to teleport to the Selene using the [[Teleport]] spell. To his horror, he quickly realized that there was no air on the moon, and no sound as well. [[Teleport]] has a verbal component, so he couldn't cast it normally to return home. Thankfully, he had dabbled in metamagic before and knew the Subtle Spell metamagic. Using what little time he had, he teleported back.
