@@ -63,6 +63,12 @@ As a bonus action, you gain Tremorsense with a range of 60 feet for 1 minute.
 
 You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
+## Extended Wakefulness
+
+
+## Languages
+You can speak, read, and write Mauvish.
+
 [:races/mauvian:]
 
 # Variant Mauvian
