@@ -53,10 +53,10 @@ Mauvians stand between 4 and 5 feet tall. Your size is Medium.
 Your base walking speed is 30 feet.
 
 ## Darkvision
-Accustomed to life on Albaxia, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Accustomed to life on Albaxia, you have superior vision in dark and dim conditions. You can see in dim light within 60 of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
 ## Thick Hide
-As a reaction when you are hit with an attack that deals nonmagical bludgeoning, piercing, or slashing damage, you can add your constitution modifier to your AC, possibly causing the attack to miss you. You gain this bonus to your AC against this kind of attacks until the start of your next turn.
+As a reaction when you are hit with an attack you can see that deals nonmagical bludgeoning, piercing, or slashing damage, you can add your constitution modifier to your AC, possibly causing the attack to miss you. You gain this bonus to your AC against this kind of attacks until the start of your next turn.
 
 You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
