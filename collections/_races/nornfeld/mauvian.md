@@ -64,7 +64,7 @@ As a bonus action, you gain Tremorsense with a range of 60 feet for 1 minute.
 You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## Extended Wakefulness
-
+Mauvians only need to sleep every 60 hours or so. Provided you sleep at the end of every third terrestrial day, you can benefit from a long rest even if you don't sleep, as long as you take at least 8 hours of downtime performing only light activity like reading, talking, eating, or standing watch.
 
 ## Languages
 You can speak, read, and write Mauvish.
