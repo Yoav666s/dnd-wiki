@@ -24,17 +24,19 @@ The Wind domain focuses on the ever-changing nature of wind, drawing power from 
 | 9th | [[!Mass Cure Wounds]], [[!Telekinesis]]         |
 
 # Quick Feet
-When you choose this domain at 1st level, your walking speed is increased by 10 ft.
+When you choose this domain at 1st level, your walking speed is increased by 5 ft.
+
+Your walking speed is increased by an additional 5 feet when you reach 6th level, and by an additional 10 feet when you reach 17th level.
 
 # Wind Lash
-Also starting at 1st level, you can summon wind to ward off a melee attacker. When you're targeted by a melee attack, you can use your reaction to summon a burst of strong wind towards the attacking creature. It must succeed a Strength saving throw against your spell save DC or be pushed away 10 feet from you, canceling the attack.
+Also starting at 1st level, you can summon wind to ward off a melee attacker. When you're targeted by a melee attack, you can use your reaction to unleash a burst of strong wind towards the attacking creature. It must succeed a Strength saving throw against your spell save DC or be pushed away 10 feet from you, possibly canceling the attack.
 
 You can use this feature a number of times equal to your proficiency bonus, and you gain all expended uses when you finish a long rest. A use is expended only if a target fails its saving throw.
 
 # Channel Divinity: Havoc
 Starting at 2nd level, you can use your Channel Divinity to cause havoc throughout the battlefield.
 
-As an action, your movement doesn't provoke opportunity attacks. Each hostile creature you move within 5 feet of must make a Dexterity saving throw once per turn, if it's on the ground. On failure, it falls prone and takes bludgeoning damage equal to 2d4 plus your cleric level. This can only affect a number of creatures equal to up to your proficiency bonus.
+As an action, your movement doesn't provoke opportunity attacks. Each hostile creature you move within 5 feet of must make a Dexterity saving throw once per turn. On failure, it has the prone condition and takes bludgeoning damage equal to 2d4 plus your cleric level. This can only affect a number of creatures equal to up to your proficiency bonus.
 
 # Fleeting Soar
 Beginning at 6th level, you can command the wind to sweep you off the ground. When you take the [[dash]] action on your turn, you can grant yourself a flying speed equal to your walking speed until the end of that turn. If you are still airborne when this effect ends, you fall unless you have another means of staying aloft.
