@@ -36,7 +36,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 # Channel Divinity: Havoc
 Starting at 2nd level, you can use your Channel Divinity to cause havoc throughout the battlefield.
 
-As an action, your movement doesn't provoke opportunity attacks. Each hostile creature you move within 5 feet of must make a Dexterity saving throw once per turn. On failure, it has the prone condition and takes bludgeoning damage equal to 2d4 plus your cleric level. This can only affect a number of creatures equal to up to your proficiency bonus.
+As an action, your movement doesn't provoke opportunity attacks. Each hostile creature you move within 5 feet of must make a Dexterity saving throw once per turn. On failure, it has the prone condition and takes bludgeoning damage equal to 2d4 plus your Wisdom Modifier. This can only affect a number of creatures equal to up to your proficiency bonus.
 
 # Fleeting Soar
 Beginning at 6th level, you can command the wind to sweep you off the ground. When you take the [[dash]] action on your turn, you can grant yourself a flying speed equal to your walking speed until the end of that turn. If you are still airborne when this effect ends, you fall unless you have another means of staying aloft.
