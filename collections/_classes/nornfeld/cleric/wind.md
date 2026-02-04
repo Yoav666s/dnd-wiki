@@ -47,6 +47,6 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 At 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 # Wind Walker
-Starting at 17th level, you learn the [[Wind Walk]] spell, and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a long rest.
+Starting at 17th level, you always benefit from the effects of the [[Wind Walk]] spell, and you always have it prepared. You can cast it using any appropriate spell slots you have.
 
 [:classes/cleric/wind:]
