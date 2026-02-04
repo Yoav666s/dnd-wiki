@@ -26,7 +26,7 @@ You know the [[Fling]] cantrip and it doesn't count against your cantrips known.
 | 7th | [[Confusion]], [[Freedom of Movement]] |
 | 9th | [[Animate Objects]], [[Telekinesis]] |
 
-In addition, consult the Poltergeist Manifestations table and choose or randomly determine a way your connection to the ethereal realm manifests while you are casting any of your sorcerer spells.
+In addition, consult the Poltergeist Manifestations table and choose or randomly determine a way your connection to the ethereal plane manifests while you are casting any of your sorcerer spells.
 
 ## Poltergeist Manifestations
 
