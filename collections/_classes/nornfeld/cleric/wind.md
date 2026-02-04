@@ -4,8 +4,9 @@ index:
   - wind
   - wind-domain
 permalink: /classes/cleric/wind/
-excerpt: "The Wind domain focuses on the ever-changing nature of wind, drawing power from the mythical dragon Elmersodus."
+excerpt: "The Wind domain focuses on the ever-changing nature of wind, drawing power from deities of nature or storm."
 subclass: cleric
+alt_version: wind-2024
 header:
   overlay_image: /assets/images/classes/cleric/wind/header.png
   teaser: /assets/images/classes/cleric/wind/header.jpg
