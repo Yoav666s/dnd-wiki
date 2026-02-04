@@ -9,7 +9,7 @@ subclass: sorcerer
 #   overlay_image: /assets/images/classes/sorcerer/header.png
 #   teaser: /assets/images/classes/sorcerer/header.jpg
 ---
-You are a ghostly creature, your innate magic coming from the ethereal realm. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.
+You are a ghostly creature, your innate magic coming from the ethereal plane. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.
 
 The power of ethereal magic casts a strange aura over your physical presence. Your body is still adjusting to the material plane, as if it struggles to remain physical and yearns to return to its ethereal form.
 
