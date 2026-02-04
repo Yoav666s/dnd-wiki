@@ -21,7 +21,7 @@ The Wind domain focuses on the ever-changing nature of wind, drawing power from 
 | 3rd | [[!Gust of Wind]], [[!Levitate]] |
 | 5th |	[[!Fly]], [[!Wind Wall]]             |
 | 7th | [[!Divination]], [[!Freedom of Movement]]        |
-| 9th | [[!Mass Cure Wounds]], [[!Telekinesis]]         |
+| 9th | [[!Commune]], [[!Mass Cure Wounds]]         |
 
 # Quick Feet
 When you choose this domain at 1st level, your walking speed is increased by 5 ft.
