@@ -43,7 +43,7 @@ In addition, consult the Poltergeist Manifestations table and choose or randomly
 Starting at 1st level, after you cast a spell of 1st level or higher, you can use your bonus action to cast the [[Fling]] cantrip.
 
 # Animate Object
-Starting at 6th level, you can use your action to animate one tiny or small object for 1 minute or until you lose concentration, as per the [[Animate Objects]] spell.
+Starting at 6th level, you can use your action to animate one Large or smaller object for 1 minute or until you lose concentration, as per the [[Animate Objects]] spell.
 
 Once you use this feature, you can't use it again until you finish a long rest or expend 2 sorcery points to do so.
 
@@ -52,7 +52,7 @@ Beginning at 14th level, some of your Poltergeist spells gain the following bene
 
 **Invisibility.** You can cast [[Invisibility]] on yourself without expending a spell slot. It doesn't end early when you cast or deal damage with spells from your Poltergeist Spells feature.
 
-**Levitate.** You can cast [[Levitate]] without expending a spell slot.
+**Levitate.** You can cast [[Levitate]] without expending a spell slot. It doesn't require your concentration, but it ends on a target if you cast it on a different one.
 
 # Effortless Haunting 
-By 18th level, when you cast a spell from your Poltergeist Spells feature that requires concentration, you can expend sorcery points equal to half the spell's level (rounded up) in order for it to not require concentration. The spell ends if you use this feature again.
+By 18th level, when you cast a spell from your Poltergeist Spells feature that requires concentration, you can expend sorcery points equal to half the spell's level (rounded up) in order for it to not require concentration. The spell ends if you dismiss it as an action or use this feature again.
