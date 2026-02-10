@@ -61,3 +61,5 @@ When you finish a short rest, you regain a number of your expended Fey Energy Po
 You always have the [[Mislead]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
 
 Once you cast the spell with this feature, you can’t do so in this way again until you finish a Long Rest unless you expend a Fey Energy Die (no action required) to restore your use of it.
+
+[:classes/fighter/fey-warrior:]
