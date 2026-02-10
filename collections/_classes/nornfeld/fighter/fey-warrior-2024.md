@@ -14,18 +14,18 @@ header:
 ---
 Where others rely on brute force or rigid discipline, the Fey Warrior takes a different approach. With a flash of light or a flourish of motion, they become elusive targets and masters of deception. Their presence on the battlefield is as unsettling as it is graceful, never where the enemy expects, never still, and never quite within reach.
 
-Level 3: Fey Energy
+# Level 3: Fey Energy
 You possess a wellspring of Fey Energy within yourself. It is represented by your Fey Energy Dice, which fuel powers you gain in this subclass. The Fey Energy Dice table shows the size and number of these dice you have when you reach certain Fighter levels.
 
 ## Fey Warrior Energy Dice
 
 | Fighter level | Number | Die Size |
 | :---: | :---: | :---: |
-| 3rd | 4 | d4 |
-| 5th | 6 | d6 |
-| 9th | 8 | d8 |
-| 13th | 10 | d10 |
-| 17th | 12 | d12 |
+| 3 | 4 | d4 |
+| 5 | 6 | d6 |
+| 9 | 8 | d8 |
+| 13 | 10 | d10 |
+| 17 | 12 | d12 |
 
 Some features in this subclass require you to use Fey Energy Dice. You cannot use these abilities if all of your Fey Energy Dice are expended. You regain one of your expended Fey Energy Die when you finish a Short Rest, and you regain all of them when you finish a Long Rest.
 
@@ -50,7 +50,7 @@ You've found new ways to utilize your Fey Energy, detailed below.
 **Vanish.** As a bonus action, you can expend a Fey Energy Die, rolling it and magically giving yourself the invisible condition for a number of rounds equal to the number rolled. Your invisibility ends early if you attack or cast a spell.
 
 # Level 10: Fey Aptitude
-When you roll a number lower than your Charisma modifier on a Fey Energy Die, you can use you Charisma modifier instead.
+When you roll a number lower than your Charisma modifier on a Fey Energy Die, you can use your Charisma modifier instead.
 
 You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest.
 
