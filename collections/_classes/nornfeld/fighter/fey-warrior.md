@@ -35,7 +35,7 @@ Some features in this subclass require you to use Fey Energy Dice. You cannot us
 # Fey Magic
 Also starting at 3rd level, you learn the following spells.
 
-**Find Familiar.** You always have the [[Find Familiar]] spell prepared, and you can cast it without expending a spell slot. The familiar must be a fey, and it can take the form of a [[monsters:Sprite]]. When you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
+**Find Familiar.** You always have the [[Find Familiar]] spell prepared, and you can cast it without expending a spell slot. The familiar must be a fey, and it can take the form of a [[monsters:Sprite]].
 
 **Minor Illusion.** You learn the [[Minor Illusion]] cantrip. Your spellcasting ability for it is Charisma.
 
