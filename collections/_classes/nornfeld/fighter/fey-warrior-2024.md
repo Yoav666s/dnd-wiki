@@ -55,7 +55,7 @@ When you roll a number lower than your Charisma modifier on a Fey Energy Die, yo
 You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest.
 
 # Level 15: Fey Mastery
-When you finish a short rest, you regain a number of your expended Fey Energy Points equal to your Charisma modifier instead of one.
+When you roll for initiative and have no remaining Fey Energy Dice left, you regain one use.
 
 # Level 18: Major Trickery
 You always have the [[Mislead]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
