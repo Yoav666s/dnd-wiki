@@ -49,7 +49,7 @@ Starting at 7th level, you've found new ways to utilize your Fey Energy, detaile
 **Vanish.** As a bonus action, you can expend a Fey Energy Die, rolling it and magically giving yourself the invisible condition for a number of rounds equal to the number rolled. Your invisibility ends early if you attack or cast a spell.
 
 # Fey Aptitude
-Starting at 10th level, when you roll a number lower than your Charisma modifier on a Fey Energy Die, you can use you Charisma modifier instead.
+Starting at 10th level, when you roll a number lower than your Charisma modifier on a Fey Energy Die, you can use your Charisma modifier instead.
 
 You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest.
 
