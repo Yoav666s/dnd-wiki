@@ -8,7 +8,7 @@ source: "Fillumir's Guide to the Feywild"
 ---
 *General Feat (Perquisite: level 4+)*
 
-Your exposure to the Feywild's magic grants you the following benefits.
+Your connection to the Feywild grants you the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
