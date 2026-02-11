@@ -6,7 +6,7 @@ permalink: /feats/dwarven-engineering/
 excerpt: "You're well studied in the development of dwarven technology."
 source: "Survivor's Guide to Morgenfell"
 ---
-*General Feat (Perquisite: Dwarf)*
+*General Feat (Perquisite: Level 4+, Intelligence 13+)*
 
 You're well studied in the development of dwarven technology. You gain the following benefits:
 
