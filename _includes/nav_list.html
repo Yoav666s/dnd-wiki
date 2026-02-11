@@ -11,6 +11,8 @@
             {% assign rule_chapters = site.rules | where: "part", nav.part | sort: "chapter" %}
           {% elsif nav.class %}
             {% assign subclasses = site.classes | where: "subclass", nav.class | sort: "title" %}
+          {% elsif navname == "feats" %}
+            {% assign feats = site.feats | sort: "source" %}
           {% elsif nav.wip != nil %}
             {% assign adventures = site.adventures | where: "wip", nav.wip | sort: "title" %}
           {% elsif navname == "monsters" %}
@@ -23,6 +25,7 @@
             {% assign subclasses = site.classes | where: "source", nav.title %}
             {% assign races = site.races | where: "source", nav.title %}
             {% assign level_spells = site.spells | where: "source", nav.title %}
+            {% assign feats = site.feats | where: "source", nav.title %}
             {% assign items = site.items | where: "source", nav.title %}
             {% assign monsters = site.monsters | where: "source", nav.title %}
             {% assign adventures = site.adventures | where: "source", nav.title %}
@@ -30,6 +33,7 @@
             {% if subclasses %}{% assign subclasses = subclasses | sort: "subclass" %}{% endif %}
             {% if races %}{% assign races = races | sort: "title" %}{% endif %}
             {% if level_spells %}{% assign level_spells = level_spells | sort: "title" %}{% endif %}
+            {% if feats %}{% assign feats = feats | sort: "title" %}{% endif %}
             {% if items %}{% assign items = items | sort: "title" %}{% endif %}
             {% if monsters %}{% assign monsters = monsters | sort: "title" %}{% endif %}
             {% if adventures %}{% assign adventures = adventures | sort: "title" %}{% endif %}
@@ -69,6 +73,14 @@
           <ul>
             {% for spell in level_spells %}
               <li><a href="{{ spell.url | relative_url }}"{% if spell.url == page.url %} class="active"{% endif %}>{{ spell.title }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+
+          {% if feats %}
+          <ul>
+            {% for feat in feats %}
+              <li><a href="{{ feat.url | relative_url }}"{% if feat.url == page.url %} class="active"{% endif %}>{{ feat.title }}</a></li>
             {% endfor %}
           </ul>
           {% endif %}
