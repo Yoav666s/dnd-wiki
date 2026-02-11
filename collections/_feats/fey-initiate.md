@@ -4,6 +4,7 @@ index:
   - fey-initiate
 permalink: /feats/fey-initiate/
 excerpt: "Your exposure to the Feywild's magic grants you the following benefits."
+source: "Fillumir's Guide to the Feywild"
 ---
 *General Feat (Perquisite: level 4+)*
 
