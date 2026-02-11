@@ -47,7 +47,7 @@ Your mauvian character has the following traits.
 Your Constitution score increases by 2 and your Wisdom score increases by 1.
 
 ## Size
-Mauvians stand between 4 and 5 feet tall. Your size is Medium.
+Mauvians stand between 3 and 5 feet tall. Your size is Medium or Small.
 
 ## Speed
 Your base walking speed is 30 feet.
