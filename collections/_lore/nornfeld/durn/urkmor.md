@@ -26,7 +26,7 @@ the capital of Urk'mor.
 
 # Other Cities
 
-- Horkstane
+- Hortfell
 - Grondall
 - Restforne
 - Kruette
