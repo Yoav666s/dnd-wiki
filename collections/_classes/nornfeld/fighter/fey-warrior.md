@@ -32,15 +32,6 @@ Some features in this subclass require you to use Fey Energy Dice. You cannot us
 
 **Feywild Slip.** You can step in and out of the Feywild. As a bonus action, you can expend a Fey Energy Die, rolling it and multiplying the number rolled by 5 feet. You can magically teleport to an unoccupied space you can see, a distance equal up to the result.
 
-# Fey Magic
-Also starting at 3rd level, you learn the following spells.
-
-**Find Familiar.** You always have the [[Find Familiar]] spell prepared, and you can cast it without expending a spell slot. The familiar must be a fey, and it can take the form of a [[monsters:Sprite]] or a [[monsters:Blink Dog]].
-
-**Minor Illusion.** You learn the [[Minor Illusion]] cantrip. Your spellcasting ability for it is Charisma.
-
-**Subterfuge.** You learn the [[Subterfuge]] cantrip. Your spellcasting ability for it is Charisma. You can cast [[Subterfuge]] as part of drawing or sheathing a weapon of the light property to teleport it to or from your hand. This doesn't require an action, but it takes as much time as it would normally take to draw or sheath a weapon.
-
 # Fey Adept
 Starting at 7th level, you've found new ways to utilize your Fey Energy, detailed below.
 
