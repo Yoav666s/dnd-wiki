@@ -74,6 +74,10 @@ expansions:
   - title: "Survivor's Guide to Morgenfell"
     url: /expansions/survivors-guide-to-morgenfell/
 
+feats:
+  - title: "Feats"
+    url: /feats/
+
 lore:
   - title: "Cortenmaas"
     url: /lore/cortenmaas/
