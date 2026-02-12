@@ -38,7 +38,7 @@ Some features in this subclass require you to use Fey Energy Dice. You cannot us
 # Level 7: Fey Adept
 You've found new ways to utilize your Fey Energy, detailed below.
 
-**Charm Person.** You always have the [[Charm Person]] spell prepared, and you can cast it without expending a spell slot. Once you cast it this way with this feature, you can't do so again until you finish a Long Rest unless you expend a Fey Energy Die to restore your use of it.
+**Charm Person.** You always have the [[Charm Person]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it this way with this feature, you can't do so again until you finish a Long Rest unless you expend a Fey Energy Die to restore your use of it.
 
 **Vanish.** As a bonus action, you can expend a Fey Energy Die, rolling it and magically giving yourself the invisible condition for a number of rounds equal to the number rolled. Your invisibility ends early if you attack or cast a spell.
 
