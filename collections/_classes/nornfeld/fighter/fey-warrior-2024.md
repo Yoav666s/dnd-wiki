@@ -47,8 +47,10 @@ When you roll a number lower than your Charisma modifier on a Fey Energy Die, yo
 
 You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest.
 
-# Level 15: Fey Mastery
-When you roll for initiative and have no remaining Fey Energy Dice left, you regain one use.
+# Level 15: Mischievous Illusions
+You always have the [[Major Image]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
+
+Once you cast the spell with this feature, you can’t do so in this way again until you finish a Long Rest unless you expend a Fey Energy Die (no action required) to restore your use of it.
 
 # Level 18: Major Trickery
 You always have the [[Mislead]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
