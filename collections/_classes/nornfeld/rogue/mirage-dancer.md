@@ -23,15 +23,15 @@ If you're at the same position as your illusion when this effect ends, you can a
 If a creature uses its action to examine the duplicate, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against a DC of 8 + your proficiency bonus + your Charisma modifier.
 
 # Illusory Mischief
-Also starting at 3rd level, you learn the [[Minor Illusion]] and [[Subterfuge]] cantrips. Additionally, you learn the [[Silent Image]] spell and you can cast it without expending a spell slot or providing material components. Once you do so, you can't do it again until you finish a long rest or expend 1 Mirage Point. Charisma is your spellcasting ability for these spells.
+Also starting at 3rd level, you learn the [[Minor Illusion]] and [[Subterfuge]] cantrips. Additionally, you learn the [[Silent Image]] spell and you can cast it without expending a spell slot or providing material components. Once you do so, you can't do it again until you finish a long rest or expend a Mirage Point. Charisma is your spellcasting ability for these spells.
 
 # Trick of the Light
 Starting at 9th level, you learn the [[Invisibility]] spell and you can cast it without expending a spell slot or providing material components. Once you do so, you can't do it again until you finish a long rest or expend 2 Mirage Points. Charisma is your spellcasting ability for this spell.
 
 # Greater Misdirection
-Starting at 13th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a long rest or expend 3 Mirage Points. Charisma is your spellcasting ability for this spell.
+Starting at 13th level, you learn the [[Mislead]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a long rest or expend 5 Mirage Points. Charisma is your spellcasting ability for this spell.
 
-# Supreme Illusionist
-Starting at 17th level, when you roll for initiative and have no remaining Mirage Points, you regain a number of Mirage Points equal to your Charisma modifier (minimum of 1).
+# Master of Mischief
+Starting at 17th level, you learn the [[Project Image]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a long rest or expend 7 Mirage Points. Charisma is your spellcasting ability for this spell.
 
 [:classes/rogue/mirage-dancer:]
