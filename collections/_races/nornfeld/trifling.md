@@ -51,7 +51,7 @@ Your Dexterity score increases by 2 and your Constitution score is increased by 
 Triflings can live for hundreds of years, and don't have much of a grasp on maturity or elders.
 
 ## Size
-Triflings are about the same size and build as goblins. Your size is Small.
+Triflings are about the same size and build as imps. Your size is Small.
 
 ## Speed
 Your base walking speed is 25 feet.
@@ -59,20 +59,25 @@ Your base walking speed is 25 feet.
 ## Darkvision
 Thanks to your infernal bloodline, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-## Hellish Affinity
-You have resistance to fire damage.
+## Hellish Resistance
+You are resistant to fire damage.
 
 ## Infernal Invocations
-You know the [[Produce Flame]] cantrip. At 3rd level you can cast the [[Disguise Self]] once without expending a spell slot. At 5th level, you can cast the [[Invisibility]] spell once without expending a spell slot or requiring material components. Charisma is your spellcasting ability for these spells, and you regain all expended uses when you finish a long rest. 
+You know the [[Produce Flame]] and [[Thaumaturgy]] cantrips. Charisma is your spellcasting ability for these spells.
 
-## Devil's Sight
-Magical darkness doesn't impede your darkvision.
+## Trickery and Deceit
+You have proficiency in the Deception, Sleight of Hand, or Stealth skill.
 
 ## Languages
 You can speak, read, and write Common and Infernal.
 
 # Variant Trifling
-If your campaign uses the 2024 ruleset, your Dungeon Master might allow this variant trait which replaces the Ability Score Increase trait.
+If your campaign uses the 2024 ruleset, your Dungeon Master might allow these variant traits which replace the Ability Score Increase trait and other traits of the same names.
 
 ## Magic Resistance
-You have advantage on saving throws against spells and other magical effects.
+When you make an Intelligence, Wisdom, or Charisma saving throw, you can give yourself advantage on the roll.
+
+You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+## Infernal Invocations
+You know the [[Produce Flame]] and [[Thaumaturgy]] cantrips. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells.
