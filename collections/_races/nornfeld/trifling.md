@@ -71,6 +71,8 @@ You have proficiency in the Deception, Sleight of Hand, or Stealth skill.
 ## Languages
 You can speak, read, and write Common and Infernal.
 
+[:races/trifling/alt:]
+
 # Variant Trifling
 If your campaign uses the 2024 ruleset, your Dungeon Master might allow these variant traits which replace the Ability Score Increase trait and other traits of the same names.
 
