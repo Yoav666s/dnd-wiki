@@ -13,7 +13,7 @@ header:
 Mirage Dancers are trained in subtle magic, using illusions to enhance their roguish abilities. They are masters of misdirection, beguiling both friend, foe, and everything in between. The source of their magic is likely tied to the Feywild.
 
 # Illusory Powers
-Beginning when you choose this archetype at 3rd level, harbor a wellspring of Fey energy within yourself. It is represented by your Mirage Dice, which fuel certain powers you have from this subclass. The Mirage Dancer Dice table shows the number of these dice you have when you reach certain Rogue levels, and the table shows the die size.
+Beginning when you choose this archetype at 3rd level, you harbor a wellspring of Fey energy within yourself. It is represented by your Mirage Dice, which fuel certain powers you have from this subclass. The Mirage Dancer Dice table shows the number of these dice you have when you reach certain Rogue levels, and the table shows the die size.
 
 | Rogue Level | Die Size | Number |
 | :---: | :---: | :---: |
