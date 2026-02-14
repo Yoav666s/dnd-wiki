@@ -48,6 +48,10 @@ Starting at 13th level, you learn new ways to use your abilities, detailed below
 **Mislead.** You always have [[Mislead]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast this spell with this feature, you can't do it again until you finish a long rest unless you expend 5 Mirage Dice to restore your use of it.
 
 # Master of Mischief
-Starting at 17th level, you always have [[Project Image]] prepared. With this feature, you can expend 7 Mirage Dice to cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
+Starting at 17th level, you learn new ways to use your abilities, detailed below.
+
+**Illusory Army.** When you cast [[Silent Image]] or [[Major Image]] to create an illusory duplicate of yourself, you can concentrate on a number of illusory duplicates created this way equal to your Charisma modifier.
+
+**Project Image.** You always have [[Project Image]] prepared. With this feature, you can expend 7 Mirage Dice to cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
 
 [:classes/rogue/mirage-dancer:]
