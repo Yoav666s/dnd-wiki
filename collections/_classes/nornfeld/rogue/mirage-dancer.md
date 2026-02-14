@@ -22,7 +22,7 @@ Beginning when you choose this archetype at 3rd level, you gain new abilities, d
 **Minor Illusion.** You know the Minor Illusion cantrip. Your spellcasting ability for it is Charisma.
 
 # Smooth Talker
-Also starting at 3rd level, you gain proficiency in the Deception, Intimidation, Performance, or Persuasion skill.
+Also starting at 3rd level, you gain proficiency in the Deception skill, and in the Intimidation, Performance, or Persuasion skill.
 
 # Agent of Chaos
 Starting at 9th level, you learn new ways to enhance your Illusory Duplicate ability.
