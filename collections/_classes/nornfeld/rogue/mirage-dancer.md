@@ -12,8 +12,17 @@ header:
 ---
 Mirage Dancers are trained in subtle magic, using illusions to enhance their roguish abilities. They are masters of misdirection, beguiling both friend, foe, and everything in between. The source of their magic is likely tied to the Feywild.
 
-# Mirage Points
-Beginning when you choose this archetype at 3rd level, you gain Mirage Points equal to your half your rogue level (rounded up). They are used to fuel your Mirage Dancer abilities, and you regain your expended Mirage Points when you finish a short or long rest.
+# Illusory Powers
+Beginning when you choose this archetype at 3rd level, harbor a wellspring of Fey energy within yourself. It is represented by your Mirage Dice, which fuel certain powers you have from this subclass. The Mirage Dancer Dice table shows the number of these dice you have when you reach certain Rogue levels, and the table shows the die size.
+
+| Rogue Level | Die Size | Number |
+| :---: | :---: | :---: |
+| 3 | d6 | 4 |
+| 5 | d8 | 6 |
+| 9 | d8 | 8 |
+| 11 | d10 | 8 |
+| 13 | d10 | 10 |
+| 17 | d12 | 12 |
 
 # Mirage
 Starting at 3rd level, you can use your bonus action to expend 1 Mirage Point and turn invisible at the same time as an illusory duplicate of yourself appears instead of you. This lasts until the start of your next turn, or until you attack, cast a spell, or lose concentration (as if you were concentrating on a spell). This effect also ends early if another creature touches you or your illusion.
