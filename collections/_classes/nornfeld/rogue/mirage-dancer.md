@@ -29,9 +29,9 @@ You regain one of your expended Mirage Dice when you finish a Short Rest, and yo
 
 **Mirage.** You can use your bonus action to expend a Mirage Die, rolling it, and turn invisible at the same time as an illusory duplicate of yourself appears instead of you. This lasts for a number of rounds equal to the number rolled on the Mirage Die, or until you attack, cast a spell, or lose concentration (as if you were concentrating on a spell). This effect also ends early if another creature touches you or your illusion. If you're at the same position as your illusion when this effect ends, you can assume the same pose of your illusion to appear like you've been there all along. Otherwise, it would seem like you've teleported to your current position. If a creature uses its action to examine the duplicate, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against a DC of 8 + your proficiency bonus + your Charisma modifier.
 
-**Silent Image.** You always have [[Silent Image]] prepared. With this feature, you can cast it without a spell slot or components to create an illusory duplicate of yourself. If you use this spell to create anything else, you must expend a Mirage Die (or a spell slot) to do so. Your spellcasting ability for it is Charisma.
+**Disguise Self.** You always have [[Disguise Self]] prepared, and your spellcasting ability for it is Charisma. With this feature, you can cast it without a spell slot or components. If you have an illusory duplicate while disguised in this way, it looks like your disguise.
 
-**Minor Illusion.** You know the [[Minor Illusion]] cantrip, and your spellcasting ability for it is Charisma.
+**Silent Image.** You always have [[Silent Image]] prepared. With this feature, you can cast it without a spell slot or components to create an illusory duplicate of yourself. If you use this spell to create anything else, you must expend a Mirage Die (or a spell slot) to do so. Your spellcasting ability for it is Charisma.
 
 # Trick of the Light
 Starting at 9th level, you learn new ways to use your abilities, detailed below.
