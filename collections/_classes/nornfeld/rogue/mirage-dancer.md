@@ -24,6 +24,10 @@ Beginning when you choose this archetype at 3rd level, harbor a wellspring of Fe
 | 13 | d10 | 10 |
 | 17 | d12 | 12 |
 
+Any features in this subclass that use a Mirage Die use only the dice from this subclass. Some of your powers expend a Mirage Die, as specified in the power's description, and you can't use the power if it requires you to use a die when your Mirage Dice are all expended.
+
+You regain one of your expended Mirage Dice when you finish a Short Rest, and you regain all of them when you finish a Long Rest.
+
 # Mirage
 Starting at 3rd level, you can use your bonus action to expend 1 Mirage Point and turn invisible at the same time as an illusory duplicate of yourself appears instead of you. This lasts until the start of your next turn, or until you attack, cast a spell, or lose concentration (as if you were concentrating on a spell). This effect also ends early if another creature touches you or your illusion.
 
