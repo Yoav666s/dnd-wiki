@@ -50,7 +50,7 @@ Starting at 13th level, you learn new ways to use your abilities, detailed below
 # Master of Mischief
 Starting at 17th level, you learn new ways to use your abilities, detailed below.
 
-**Illusory Army.** When you cast [[Silent Image]] or [[Major Image]] to create an illusory duplicate of yourself, you can concentrate on a number of illusory duplicates created this way equal to your Charisma modifier.
+**Illusory Army.** When you cast [[Silent Image]] or [[Major Image]] to create an illusory duplicate of yourself, you can concentrate on a number of illusory duplicates created this way equal to your Charisma modifier simultaneously.
 
 **Project Image.** You always have [[Project Image]] prepared. With this feature, you can expend 7 Mirage Dice to cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
 
