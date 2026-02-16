@@ -5,6 +5,7 @@ index:
 permalink: /classes/sorcerer/fey-soul/
 excerpt: "Your innate magic comes from the distant realms of the Feywild."
 subclass: sorcerer
+alt_version: fey-sorcery
 source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/classes/sorcerer/header.png
