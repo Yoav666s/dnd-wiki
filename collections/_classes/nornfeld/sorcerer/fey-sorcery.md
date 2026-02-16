@@ -57,9 +57,9 @@ You learn new ways to enhance your Illusory Duplicate ability.
 
 **Illusory Army.** You can concentrate on a number of illusory duplicates equal to your Charisma modifier, but you can only create one at a time with your bonus action.
 
-**Sly Swap.** You can use your bonus action to switch places with an illusory duplicate if you are within 30 feet of it. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it.
-
 **Misleading Maneuver.** When you create an illusory duplicate in your space, you can turn invisible at the same time for the duration. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it.
+
+**Sly Swap.** You can use your bonus action to switch places with an illusory duplicate if you are within 30 feet of it. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it.
 
 # Level 14: Distant Projection 
 You always have [[Project Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Long Rest unless you expend 7 Sorcery Points to restore your use of it.
