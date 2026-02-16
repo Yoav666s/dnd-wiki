@@ -64,9 +64,9 @@ You learn new ways to enhance your Illusory Duplicate ability.
 # Level 14: Distant Projection 
 You learn new ways to use your sorcereous abilities, detailed below.
 
-**Project Image.** You always have [[Project Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Long Rest unless you expend 7 Sorcery Points to restore your use of it.
-
 **Illusory Casting.** While maintaining an illusion of yourself, you can cast spells as though you were in the illusion's space, but you must still rely on your senses.
+
+**Project Image.** You always have [[Project Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Long Rest unless you expend 7 Sorcery Points to restore your use of it.
 
 # Level 18: Binding Contract
 As an action, you can expend one 9th level spell slot to offer another creature a binding fey contract. The creature must be able to hear you, and the contract must be phrased clearly in a language the creature understands, although you're not required to clarify that it is actually a contract. If it's not obvious that it's a contract, a successful Intelligence saving throw will reveal that it is. If the creature willingly (but not necessarily knowingly) agrees, it is bound by the contract. While bound in this way, the creature takes 5d10 psychic damage whenever it deliberately defies the terms of your contract (defying the terms of the contract requires conscious effort), but no more than once each day. 
