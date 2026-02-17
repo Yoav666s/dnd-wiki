@@ -62,7 +62,7 @@ You learn new ways to enhance your Illusory Duplicate ability.
 **Sly Swap.** You can use your bonus action to switch places with an illusory duplicate if you are within 30 feet of it. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it.
 
 # Level 14: Distant Projection 
-You learn new ways to use your sorcereous abilities, detailed below.
+You learn new ways to use your sorcerous abilities, detailed below.
 
 **Illusory Casting.** While maintaining an illusion of yourself, you can cast spells as though you were in the illusion's space, but you must still rely on your senses.
 
