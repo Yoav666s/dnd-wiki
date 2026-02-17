@@ -34,3 +34,5 @@ You always have [[Mislead]] prepared. With this feature, you can cast it without
 
 # Level 17: Dance Master
 After a creature makes a melee attack against you, you can use your reaction to make an Opportunity Attack against that creature.
+
+[:classes/rogue/mirage-dancer/2024:]
