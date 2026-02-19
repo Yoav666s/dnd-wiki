@@ -29,6 +29,8 @@ You can use this feature a number of times equal to your Charisma modifier, and 
 # Level 9: Dance of Deceit
 You always have [[Mirror Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Short or Long Rest.
 
+If you use your Mirage feature while [[Mirror Image]] is active, the illusory duplicates created by this spell stay in the illusion's space instead of moving with you until you become visible.
+
 # Level 13: Greater Misdirection 
 You always have [[Mislead]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Short or Long Rest.
 
