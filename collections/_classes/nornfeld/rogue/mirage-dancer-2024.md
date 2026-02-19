@@ -20,7 +20,7 @@ You can use the mastery property of Scimitars. Additionally, when you make an at
 You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll if you move at least 10 feet while staying within 5 feet of the target before making the attack and you don't have disadvantage on the attack roll.
 
 # Level 3: Mirage
-When you take the Disengage action, you can give yourself the invisible condition until the start of your next turn and create an illusory duplicate of yourself that appears in your space and lasts for the duration. This effect ends early if you attack or cast a spell.
+When you take the Disengage action, you can give yourself the invisible condition until the start of your next turn and create an illusory duplicate of yourself that appears in your space and lasts for the duration. This effect ends early if you attack or cast a spell or lose concentration (as if you were concentrating on a spell).
 
 The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. Your invisibility ends early if the duplicate is destroyed.
 
