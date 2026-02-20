@@ -11,6 +11,14 @@ header:
   overlay_image: /assets/images/races/metamorphe/header.png
   teaser: /assets/images/races/metamorphe/header.jpg
 ---
+> Never trust a stranger's face,
+>
+> for there's a price to pay.
+>
+> Don't stray too far from the path
+>
+> or you will lose your way.
+>
 > A beautiful flower is deadly poison,
 >
 > and sharp teeth mask fear.
