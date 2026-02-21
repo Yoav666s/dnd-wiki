@@ -15,6 +15,9 @@ excerpt: "The Dollmaker, also known as the Puppeteer, is a scarcely known deity,
 ---
 The Dollmaker, also known as the Puppeteer, is a scarcely known deity, responsible for everything that is abandoned and forgotten. She is commonly depicted as a beautiful woman with greying black hair, adept bony fingers, and buttons for eyes. She is the matron of orphans, who would often find a doll connected to her which they may keep.
 
+# Orphans of the Dollmaker
+Orphans who choose to keep their doll are often granted magical powers centered around concealment, illusion, and darkness.
+
 # Curse of the Dollmaker 
 The Dollmaker marks her victims with an occasional button falling out of their pocket, thin threads coming out of their shirt, and stitches appearing on their clothes. This is barely noticeable, but these symbols seep into the victim's unconscious and they get more and more prominent in time. The victim slowly begins to forget the recent past, and revert to childhood memories.
 
