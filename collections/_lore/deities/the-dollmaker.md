@@ -25,4 +25,6 @@ Orphans who choose to keep their doll are often granted magical powers centered 
 # Curse of the Dollmaker 
 The Dollmaker marks her victims with an occasional button falling out of their pocket, thin threads coming out of their shirt, and stitches appearing on their clothes. This is barely noticeable, but these symbols seep into the victim's unconscious and they get more and more prominent in time. The victim slowly begins to forget the recent past, and revert to childhood memories.
 
+[:lore/the-dollmaker/curse;header:]
+
 She punishes those who abandon things they used to care about, those who forget what they once stood for, and those who betray their loved ones.
