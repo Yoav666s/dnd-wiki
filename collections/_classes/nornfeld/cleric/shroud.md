@@ -20,7 +20,7 @@ The Shroud Domain draws upon the aspects of concealment, illusion, and the unsee
 | 3rd | [[!Invisibility]], [[!Pass Without Trace]] |
 | 5th |	[[!Nondetection]], [[!Fear]]             |
 | 7th | [[!Greater Invisibility]], [[!Dimension Door]]        |
-| 9th | [[!Seeming]], [[!Mislead]]         |
+| 9th | [[!Mislead]], [[!Modify Memory]]         |
 
 # Bonus Proficiency
 When you choose this domain at 1st level, you gain proficiency in [[Stealth]] if you don't already have it.
