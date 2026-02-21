@@ -10,8 +10,8 @@ v_2024: true
 alt_version: trickster
 source: "Fillumir's Guide to the Feywild"
 header:
-  overlay_image: /assets/images/classes/monk/trickster/header.png
-  teaser: /assets/images/classes/monk/trickster/header.jpg
+  overlay_image: /assets/images/classes/monk/trickster/2024/header.png
+  teaser: /assets/images/classes/monk/trickster/2024/header.jpg
 ---
 Warriors of Trickery are deviously cunning. They embed the magic and confusing nature of the Feywild in their techniques, beguiling their foes and dazzling their allies. They can change shape and teleport effortlessly around the battlefield.
 
@@ -32,3 +32,5 @@ You learn to turn a missed attack into a distraction. Whenever you miss a creatu
 
 # Level 17: Improved Misty Step
 When you cast the [[Misty Step]] spell, you can bring along one willing or grappled creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space. An unwilling grappled creature must succeed a Dexterity saving throw to avoid being teleported with you.
+
+[:classes/monk/trickster/2024:]
