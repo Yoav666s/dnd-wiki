@@ -4,16 +4,20 @@ index:
   - the-dollmaker
   - dollmaker 
   - dollmakers
+  - the-dollmakers
   - the-puppeteer
   - puppeteer 
   - puppeteers
+  - the-puppeteers
 permalink: /lore/the-dollmaker/
 excerpt: "The Dollmaker, also known as the Puppeteer, is a scarcely known deity, responsible for everything that is abandoned and forgotten."
-# header:
-#  overlay_image: /assets/images/lore/the-dollmaker/header.png
-#  teaser: /assets/images/lore/the-dollmaker/header.jpg
+header:
+  overlay_image: /assets/images/lore/the-dollmaker/header.png
+  teaser: /assets/images/lore/the-dollmaker/header.jpg
 ---
-The Dollmaker, also known as the Puppeteer, is a scarcely known deity, responsible for everything that is abandoned and forgotten. She is commonly depicted as a beautiful woman with greying black hair, adept bony fingers, and buttons for eyes. She is the matron of orphans, who would often find a doll connected to her which they may keep.
+The Dollmaker, also known as the Puppeteer, is a scarcely known deity, responsible for everything that is abandoned and forgotten. She is commonly depicted as a woman with greying black hair, adept bony fingers, and buttons for eyes. She is the matron of orphans, who would often find a doll connected to her which they may keep.
+
+[:lore/the-dollmaker:]
 
 # Orphans of the Dollmaker
 Orphans who choose to keep their doll are often granted magical powers centered around concealment, illusion, and darkness.
