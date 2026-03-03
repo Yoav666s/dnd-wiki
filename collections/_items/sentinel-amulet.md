@@ -16,15 +16,21 @@ header:
   teaser: /assets/images/items/emblems/elmersodus/header.jpg
 ---
 
-The emblem of [[lore:the weathered sentinel]]. When he is defeated, his soul becomes contained in this amulet. You may use this amulet as an arcane focus or a holy symbol. While you wear this amulet while attuned to it:
+This emblem of [[lore:The Weathered Sentinel]] has 20 charges. When he is defeated, this amulet appears and his soul becomes contained in it. You may use this amulet as an arcane focus or a holy symbol. While attuned to it, you gain the following benefits.
 
-- You have a flying speed equal to your walking speed.
-- You can cast the [[wind blast]] cantrip without requiring material components.
-- You can expend 1 charge to cast the [[fog cloud]] spell.
-- You can expend 2 charges to cast the [[gust of wind]] spell.
-- You can expend 3 charges to cast the [[wind wall]] spell.
-- You can expend 6 charges to cast the [[storm of vengeance]] spell.
+**Spells.** While wearing this amulet, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.
 
-The amulet has 6 charges, and regains 1d6 expended charges daily at dawn. If it overcharges, roll a d20. On 4-7 the charges deplete completely for the rest of the day. On 3 or less, the amulet disappears and Elmersodus is resurrected.
+| Spell | Charge Cost |
+| :---- | :---------: |
+| [[!Call Lightning]] | 3 |
+| [[!Cone of Cold]] | 5 |
+| [[!Control Weather]] | 8 |
+| [[!Control Winds]] | 5 |
+| [[!Gust of Wind]] | 2 |
+| [[!Storm of Vengeance]] | 9 |
+| [[!Wind Wall]] | 3 |
+| [[!Whirlwind]] | 7 |
+
+**Regaining Charges.** The amulet regains 2d8 + 4 expended charges daily at dawn. If it overcharges, roll a d20. On 4-7 the charges deplete completely for the rest of the day. On 3 or less, the amulet disappears and [[lore:The Weathered Sentinel]] is resurrected in his lair.
 
 [:items/emblems/elmersodus;normal:]
