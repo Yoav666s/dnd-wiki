@@ -26,6 +26,7 @@ This emblem of [[lore:The Weathered Sentinel]] has 20 charges. When he is defeat
 | [[!Cone of Cold]] | 5 |
 | [[!Control Weather]] | 8 |
 | [[!Control Winds]] | 5 |
+| [[!Fly]] | 3 |
 | [[!Gust of Wind]] | 2 |
 | [[!Storm of Vengeance]] | 9 |
 | [[!Wind Wall]] | 3 |
