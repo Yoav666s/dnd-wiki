@@ -32,6 +32,6 @@ This emblem of [[lore:The Weathered Sentinel]] has 20 charges. When he is defeat
 | [[!Wind Wall]] | 3 |
 | [[!Whirlwind]] | 7 |
 
-**Regaining Charges.** The amulet regains 2d8 + 4 expended charges daily at dawn. If it overcharges, roll a d20. On 4-7 the charges deplete completely for the rest of the day. On 3 or less, the amulet disappears and [[lore:The Weathered Sentinel]] is resurrected in his lair.
+**Regaining Charges.** The amulet regains 2d8 + 4 expended charges daily at dawn. If it overcharges, roll a d20. On 2-5 the charges deplete completely for the rest of the day. On a 1, the amulet disappears and [[lore:The Weathered Sentinel]] is resurrected in his lair.
 
 [:items/emblems/elmersodus;normal:]
