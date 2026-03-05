@@ -25,12 +25,12 @@ This emblem of [[lore:The Weathered Sentinel]] has 20 charges. When he is defeat
 | [[!Call Lightning]] | 3 |
 | [[!Cone of Cold]] | 5 |
 | [[!Control Weather]] | 8 |
-| [[!Control Winds]] | 5 |
+| Control Winds | 5 |
 | [[!Fly]] | 3 |
 | [[!Gust of Wind]] | 2 |
 | [[!Storm of Vengeance]] | 9 |
 | [[!Wind Wall]] | 3 |
-| [[!Whirlwind]] | 7 |
+| Whirlwind | 7 |
 
 **Regaining Charges.** The amulet regains 2d8 + 4 expended charges daily at dawn. If it overcharges, roll a d20. On 2-5 the charges deplete completely for the rest of the day. On a 1, the amulet disappears and [[lore:The Weathered Sentinel]] is resurrected in his lair.
 
