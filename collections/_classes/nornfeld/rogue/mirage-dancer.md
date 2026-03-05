@@ -23,7 +23,7 @@ When you take the Disengage action, you can give yourself the invisible conditio
 
 The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. Your invisibility ends early if the duplicate is destroyed.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Short or Long Rest 
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Short or Long Rest. 
 
 # Level 9: Greater Misdirection
 You always have [[Mirror Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Short or Long Rest.
