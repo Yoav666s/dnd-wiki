@@ -42,7 +42,7 @@ You've found new ways to utilize your Fey Energy, detailed below.
 
 **Frightening Strike.** When you use your Augmented Strike, you can force the target to make a Wisdom saving throw (DC equal to 8 + your Charisma modifier and proficiency bonus). On failure, the target is Frightened of you until the start of your next turn.
 
-**Vanish.** As a bonus action, you can expend a Fey Energy Die, rolling it and magically giving yourself the invisible condition for a number of rounds equal to the number rolled. Your invisibility ends early if you attack or cast a spell.
+**Vanish.** As a bonus action, you can expend a Fey Energy Die, rolling it and magically giving yourself the invisible condition for a number of rounds equal to the number rolled. Your invisibility ends early if you attack, cast a spell, or lose concentration (as if you were concentrating on a spell).
 
 # Level 10: Fey Aptitude
 When you roll a number lower than your Charisma modifier on a Fey Energy Die, you can use your Charisma modifier instead.
@@ -61,7 +61,7 @@ You've found new ways to utilize your Fey Energy, detailed below.
 # Level 18: Might and Trickery
 You've found new ways to utilize your Fey Energy, detailed below.
 
-**Deadly Strike.** When you use your Augmented Strike, you can expend and roll any number of Fey Energy Dice you have available.
+**Deadly Strike.** When you use your Augmented Strike, you can expend and roll any number of Fey Energy Dice you have available. You only add your Charisma modifier to the total damage once.
 
 **Mislead.** You always have [[Mislead]] prepared. With this feature, you can expend a Fey Energy Die to cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
 
