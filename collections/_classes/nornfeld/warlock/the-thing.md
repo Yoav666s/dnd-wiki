@@ -4,7 +4,7 @@ index:
   - thing
   - the-thing
 permalink: /classes/warlock/the-thing/
-excerpt: "Monks of the Way of the Trickster are deviously cunning."
+excerpt: "Deep beneath the world’s skin, where stone remembers every footfall and darkness swallows sound, something vast and patient waits."
 subclass: warlock 
 alt_version: thing-of-the-hollow-patron
 # header:
