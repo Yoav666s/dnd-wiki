@@ -33,7 +33,7 @@ Some features in this subclass require you to use Fey Energy Dice. You cannot us
 
 **Feywild Slip.** You can step in and out of the Feywild. As a bonus action, you can expend a Fey Energy Die, rolling it and multiplying the number rolled by 5 feet. You can magically teleport to an unoccupied space you can see, a distance equal up to the result.
 
-**Silver Tongue.** When you make a Charisma (Deception or Persuasion) check, you can expend a Fey Energy Die, rolling it and adding the number rolled to the result. You can do so after rolling the d20, but before the DM decides the consequences of the roll.
+**Silver Tongue.** You can charm others with your words. As an action, you can expend a Fey Energy Die to force another humanoid to make a Wisdom saving throw (DC equal to 8 + your Charisma modifier and proficiency bonus). On failure, roll the Fey Energy Die. The creature has the Charmed condition for a number of minutes equal to the number rolled. 
 
 # Level 7: Fey Adept
 You've found new ways to utilize your Fey Energy, detailed below.
