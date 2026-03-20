@@ -16,13 +16,14 @@ Deep beneath the world’s skin, where stone remembers every footfall and darkne
 # Level 3: Thing of the Hollow Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Archfey Spells table, you thereafter always have the listed spells prepared.
 
-| Spell Level | Spells |
+## Thing of the Hollow Spells
+
+| Warlock Level | Spells |
 | :---: | :---- |
-| 1st | [[!Command]], [[!Entangle]] |
-| 2nd | [[!Blur]], [[!Detect Thoughts]] |
-| 3rd | [[!Meld Into Stone]], [[!Slow]] |
-| 4th | [[!Confusion]], [[!Phantasmal Killer]] |
-| 5th | [[!Dominate Person]], [[!Modify Memory]] |
+| 3 | [[!Command]], [[!Entangle]] |
+| 5 | [[!Blur]], [[!Detect Thoughts]] |
+| 7 | [[!Meld Into Stone]], [[!Slow]] |
+| 9 | [[!Confusion]], [[!Phantasmal Killer]] |
 
 # Level 3: Hollow Sense
 You can take your bonus action to gain Tremorsense with a range of 30 feet for 10 minutes.
