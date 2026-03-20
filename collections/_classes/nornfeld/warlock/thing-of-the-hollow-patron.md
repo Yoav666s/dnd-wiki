@@ -24,16 +24,16 @@ The Thing lets you choose from an expanded list of spells when you learn a warlo
 | 4th | [[!Confusion]], [[!Phantasmal Killer]] |
 | 5th | [[!Dominate Person]], [[!Modify Memory]] |
 
-# Hollow Sense
-Starting at 1st level, your senses are heightened. You can take your bonus action to gain Tremorsense with a range of 30 feet for 10 minutes.
+# Level 3: Hollow Sense
+You can take your bonus action to gain Tremorsense with a range of 30 feet for 10 minutes.
 
 You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest.
 
-# One With Stone
-Starting at 6th level, you know the [[Meld Into Stone]] spell and you always have it prepared. While merged with the stone, you can move through it with a speed of 10 feet, and you can leave the stone if there's an unoccupied space for you to step into within 5 feet of you.
+# Level 6: One With Stone
+While merged with the stone via [[Meld Into Stone]], you can move through it with a speed of 10 feet, and you can leave the stone if there's an unoccupied space for you to step into within 5 feet of you.
 
-# Nightmare Fuel
-Starting at 10th level, you know the [[Dream]] spell and you always have it prepared. When you cast this spell, if you are the messenger and choose to appear terrifying to the target, you can target a number of additional creatures equal to your Charisma modifier (minimum of 1).
+# Level 10: Nightmare Fuel
+When you cast [[Dream]], if you are the messenger and choose to appear terrifying to the target, you can target a number of additional creatures equal to your Charisma modifier (minimum of 1).
 
-# Earth Shaper
-Starting at 14th level, you know the [[Move Earth]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest. When you reshape dirt, sand, or clay using this spell, the transformation occurs within 1 round, resolving at the start of your next turn.
+# Level 14: Earth Shaper
+You know the [[Move Earth]] spell and you can cast it without a spell slot or components. Once you do so, you can't do it again until you finish a Short or Long Rest. When you reshape dirt, sand, or clay using this spell, the transformation occurs within 1 round, resolving at the start of your next turn.
