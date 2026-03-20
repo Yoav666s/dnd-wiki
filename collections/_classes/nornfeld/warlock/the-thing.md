@@ -35,4 +35,4 @@ Starting at 6th level, you know the [[Meld Into Stone]] spell and you always hav
 Starting at 10th level, you know the [[Dream]] spell and you always have it prepared. When you cast this spell, if you are the messenger and choose to appear terrifying to the target, you can target a number of additional creatures equal to your Charisma modifier (minimum of 1).
 
 # Earth Shaper
-Starting at 14th level, you know the [[Move Earth]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest. When you reshape dirt, sand, or clay using this spell, the transformation occurs within 1 round, resolving at the start of your next turn.
+Starting at 14th level, you know the [[Move Earth]] spell and you can cast it without expending a spell slot. Once you do so, you can't do it again until you finish a short or long rest. When you reshape dirt, sand, or clay using this spell, the transformation occurs within 1 round, resolving at the start of your next turn, at which point you can choose another area to affect within range.
