@@ -20,10 +20,10 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 | :---: | :---- |
-| 3 | [[!Command]], [[!Entangle]] |
-| 5 | [[!Blur]], [[!Detect Thoughts]] |
-| 7 | [[!Meld Into Stone]], [[!Slow]] |
-| 9 | [[!Confusion]], [[!Phantasmal Killer]] |
+| 3 | [[!Blur]], [[!Command]], [[!Detect Thoughts]], [[!Entangle]] |
+| 5 | [[!Meld Into Stone]], [[!Slow]] |
+| 7 | [[!Confusion]], [[!Phantasmal Killer]] |
+| 9 |  |
 
 # Level 3: Hollow Sense
 You can take your bonus action to gain Tremorsense with a range of 30 feet for 10 minutes.
