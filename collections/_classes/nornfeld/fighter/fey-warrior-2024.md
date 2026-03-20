@@ -49,7 +49,7 @@ When you roll a number lower than your Charisma modifier on a Fey Energy Die, yo
 
 You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest.
 
-# Level 15: Mischievous Nature
+# Level 15: Mischief and Fright
 You've found new ways to utilize your Fey Energy, detailed below.
 
 **Freezing Fear.** While a creature is Frightened of you, its speed is reduced to 0.
@@ -58,7 +58,7 @@ You've found new ways to utilize your Fey Energy, detailed below.
 
 **Undetectable Charm.** When you successfully charm a creature, it doesn't know it was charmed by you after the effect ends.
 
-# Level 18: Major Trickery
+# Level 18: Might and Trickery
 You've found new ways to utilize your Fey Energy, detailed below.
 
 **Deadly Strike.** When you use your Augmented Strike, you can expend and roll any number of Fey Energy Dice you have available.
