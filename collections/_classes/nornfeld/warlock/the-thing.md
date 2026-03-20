@@ -1,7 +1,6 @@
 ---
 title: "The Thing"
 index:
-  - thing
   - the-thing
 permalink: /classes/warlock/the-thing/
 excerpt: "Deep beneath the world’s skin, where stone remembers every footfall and darkness swallows sound, something vast and patient waits."
