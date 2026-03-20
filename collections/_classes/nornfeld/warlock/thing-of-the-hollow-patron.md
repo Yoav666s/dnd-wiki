@@ -4,7 +4,8 @@ index:
   - thing-of-the-hollow-patron
 permalink: /classes/warlock/thing-of-the-hollow-patron/
 excerpt: "Deep beneath the world’s skin, where stone remembers every footfall and darkness swallows sound, something vast and patient waits."
-subclass: warlock 
+subclass: warlock
+v_2024: true
 alt_version: the-thing
 # header:
 #  overlay_image: /assets/images/classes/monk/trickster/header.png
