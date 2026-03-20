@@ -61,7 +61,7 @@ You've found new ways to utilize your Fey Energy, detailed below.
 # Level 18: Might and Trickery
 You've found new ways to utilize your Fey Energy, detailed below.
 
-**Deadly Strike.** When you use your Augmented Strike, you can expend and roll any number of Fey Energy Dice you have available. You only add your Charisma modifier to the total damage once.
+**Deadly Strike.** When you use your Augmented Strike, you can expend and roll a number of Fey Energy Dice equal to your Charisma modifier (minimum of 1). You only add your Charisma modifier to the total damage once.
 
 **Mislead.** You always have [[Mislead]] prepared. With this feature, you can expend a Fey Energy Die to cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
 
