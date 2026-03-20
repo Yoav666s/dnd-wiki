@@ -65,6 +65,4 @@ You've found new ways to utilize your Fey Energy, detailed below.
 
 **Mislead.** You always have [[Mislead]] prepared. With this feature, you can expend a Fey Energy Die to cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
 
-**.**
-
 [:classes/fighter/fey-warrior:]
