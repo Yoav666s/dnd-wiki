@@ -22,7 +22,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | :---: | :---- |
 | 3 | [[!Blur]], [[!Command]], [[!Detect Thoughts]], [[!Entangle]] |
 | 5 | [[!Meld Into Stone]], [[!Slow]] |
-| 7 | [[!Confusion]], [[!Phantasmal Killer]] |
+| 7 | [[!Phantasmal Killer]], [[!Stone Shape]] |
 | 9 | [[!Dominate Person]], [[!Dream]] |
 
 # Level 3: Hollow Sense
