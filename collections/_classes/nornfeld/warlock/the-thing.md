@@ -21,7 +21,7 @@ The Thing lets you choose from an expanded list of spells when you learn a warlo
 | 1st | [[!Command]], [[!Entangle]] |
 | 2nd | [[!Blur]], [[!Detect Thoughts]] |
 | 3rd | [[!Meld Into Stone]], [[!Slow]] |
-| 4th | [[!Confusion]], [[!Phantasmal Killer]] |
+| 4th | [[!Phantasmal Killer]], [[!Stone Shape]] |
 | 5th | [[!Dominate Person]], [[!Modify Memory]] |
 
 # Hollow Sense
