@@ -23,7 +23,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 3 | [[!Blur]], [[!Command]], [[!Detect Thoughts]], [[!Entangle]] |
 | 5 | [[!Meld Into Stone]], [[!Slow]] |
 | 7 | [[!Confusion]], [[!Phantasmal Killer]] |
-| 9 |  |
+| 9 | [[!Dominate Person]], [[!Dream]] |
 
 # Level 3: Hollow Sense
 You can take your bonus action to gain Tremorsense with a range of 30 feet for 10 minutes.
