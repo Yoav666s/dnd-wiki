@@ -32,7 +32,7 @@ In addition, consult the Fey Magic Oddities table and choose or randomly determi
 
 ## Fey Magic Oddities
 
-| d6    | Oddity |
+| 1d6    | Oddity |
 | :---: | :----- |
 | 1 | Various shadows appear around you and silently cheer. |
 | 2 | Seasonal flowers sprout on the ground at your feet. |
@@ -73,7 +73,7 @@ As an action, you can expend one 9th level spell slot to offer another creature 
 
 A contract can contain up to one term, which can be phrased innocuously. In the following Term Table is a non-exhaustive list of terms and their respective phrasings. You can come up with different terms and phrasings at your DM's discretion.
 
-| d4  | Phrasing | Terms |
+| 1d4  | Phrasing | Terms |
 | :--: | :------: | :---: |
 | 1 | "May I have your name?" | The target cannot use or write down its own name for any purpose, and must use another. You can then use the target's name for any purpose, with all the weight that it carries. |
 | 2 | "Will you listen to me for a moment?" | You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the effect ends. |
