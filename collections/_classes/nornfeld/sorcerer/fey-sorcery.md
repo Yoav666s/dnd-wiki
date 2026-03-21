@@ -23,10 +23,10 @@ You learn additional spells when you reach certain levels in this class, as show
 
 | Sorcerer Level | Spells |
 | :------------: | :----- |
-| 3rd | [[!Charm Person]], [[!Silent Image]], [[!Invisibility]], [[!Misty Step]] |
-| 5th | [[!Blink]], [[!Major Image]] |
-| 7th | [[!Confusion]], [[!Greater Invisibility]] |
-| 9th | [[!Dream]], [[!Mislead]] |
+| 3 | [[!Charm Person]], [[!Silent Image]], [[!Invisibility]], [[!Misty Step]] |
+| 5 | [[!Blink]], [[!Major Image]] |
+| 7 | [[!Confusion]], [[!Greater Invisibility]] |
+| 9 | [[!Dream]], [[!Mislead]] |
 
 In addition, consult the Fey Magic Oddities table and choose or randomly determine a way your connection to the Feywild manifests itself whenever you cast any of your sorcerer spells.
 
