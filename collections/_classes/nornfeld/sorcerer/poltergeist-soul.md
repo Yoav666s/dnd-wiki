@@ -39,7 +39,7 @@ In addition, consult the Poltergeist Manifestations table and choose or randomly
 | 5 | Your skin gets a blue tint to it, and it's almost see-through. |
 | 6 | Objects around you rattle or tilt without being touched. |
 
-# Potent Cantrip
+# Potent Incantations
 Starting at 1st level, your sorcerer cantrips deal additional damage equal to your Charisma modifier.
 
 # Animate Object
