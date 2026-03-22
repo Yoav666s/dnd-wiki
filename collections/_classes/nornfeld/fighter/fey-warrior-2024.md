@@ -19,14 +19,14 @@ You possess a wellspring of Fey Energy within yourself. It is represented by you
 
 ## Fey Warrior Energy Dice
 
-| Fighter level | Number | Die Size |
+| Fighter level | Die Size | Number |
 | :---: | :---: | :---: |
-| 3 | 4 | d4 |
-| 5 | 6 | d6 |
-| 9 | 8 | d8 |
-| 11 | 8 | d10 |
-| 13 | 10 | d10 |
-| 17 | 12 | d12 |
+| 3 | d6 | 4 |
+| 5 | d8 | 6 |
+| 9 | d8 | 8 |
+| 11 | d10 | 8 |
+| 13 | d10 | 10 |
+| 17 | d12 | 12 |
 
 Some features in this subclass require you to use Fey Energy Dice. You cannot use these abilities if all of your Fey Energy Dice are expended. You regain one of your expended Fey Energy Die when you finish a Short Rest, and you regain all of them when you finish a Long Rest.
 
