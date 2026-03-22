@@ -25,15 +25,15 @@ The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits a du
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Short or Long Rest. 
 
-# Level 9: Greater Misdirection
-You always have [[Mirror Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Short or Long Rest.
+# Level 9: Artful Maneuvers
+You can take the Dodge action as a bonus action. You can use this feature a number of times equal to your Dexterity modifier, and you regain all expended uses when you finish a short rest.
 
-If you use your Mirage feature while [[Mirror Image]] is active, the illusory duplicates created by this spell stay in the illusion's space instead of moving with you until you become visible.
-
-# Level 13: Dance of Death
-After you make an Opportunity Attack, you can immediately make another attack with a different weapon you're holding that has the light property, as part of the same reaction.
+# Level 13: Swift Strike
+Once per turn, after you make an Opportunity Attack, you can immediately make another Opportunity Attack of the light property with a different weapon you're holding that has the light property, as part of the same reaction.
 
 # Level 17: Dance Master
 After a creature misses you with a melee attack, you can use your reaction to make an Opportunity Attack against that creature.
+
+You can use this feature a number of times equal to your Dexterity modifier, and you regain all expended uses when you finish a short rest.
 
 [:classes/rogue/mirage-dancer:]
