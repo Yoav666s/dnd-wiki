@@ -29,9 +29,9 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 # Level 9: Dance of Death
 You gain the following Cunning Strike options.
 
-**Evasive Maneuver (3d6).** All attacks the target makes against you until the start of your next turn have disadvantage.
+**Evasive Maneuver (Cost: 3d6).** All attacks the target makes against you until the start of your next turn have disadvantage.
 
-# Level 13: 
+# Level 13: Swift Strike
 Once per turn, after you make an Opportunity Attack with a weapon, you can immediately make a second Opportunity Attack of the light property with a different weapon you're holding that has the Nick property, as part of the same reaction.
 
 # Level 17: Dance Master
