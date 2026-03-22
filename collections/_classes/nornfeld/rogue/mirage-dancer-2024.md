@@ -26,10 +26,12 @@ The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits a du
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Short or Long Rest. 
 
-# Level 9: Dance of Death
-You gain the following Cunning Strike option.
+# Level 9: Evasive Dance
+You gain the following Cunning Strike options.
 
 **Elude (Cost: 3d6).** All attacks the target makes against you until the start of your next turn have disadvantage.
+
+**(Cost: 1d6).** If you have the Invisible condition from your Mirage feature, you don't lose it 
 
 # Level 13: Swift Strike
 Once per turn, after you make an Opportunity Attack with a weapon, you can immediately make a second Opportunity Attack of the light property with a different weapon you're holding that has the Nick property, as part of the same reaction.
