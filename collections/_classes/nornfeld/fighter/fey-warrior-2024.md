@@ -24,6 +24,7 @@ You possess a wellspring of Fey Energy within yourself. It is represented by you
 | 3 | 4 | d4 |
 | 5 | 6 | d6 |
 | 9 | 8 | d8 |
+| 11 | 8 | d10 |
 | 13 | 10 | d10 |
 | 17 | 12 | d12 |
 
@@ -31,7 +32,7 @@ Some features in this subclass require you to use Fey Energy Dice. You cannot us
 
 **Augmented Strike.** You can imbue your strike with fey magic. Once per turn, immediately after you hit a creature with an weapon attack, you can expend  a Fey Energy Die, rolling it and and dealing additional Psychic damage equal to the number rolled plus your Charisma modifier.
 
-**Feywild Slip.** You can step in and out of the Feywild. As a bonus action, you can expend a Fey Energy Die, rolling it and multiplying the number rolled by 5 feet. You can magically teleport to an unoccupied space you can see, a distance equal up to 10 feet plus the result.
+**Feywild Slip.** You can step in and out of the Feywild. As a bonus action, you can expend a Fey Energy Die, rolling it and multiplying the number rolled by 5 feet. You can magically teleport to an unoccupied space you can see, a distance equal up to the result.
 
 **Silver Tongue.** You know the Friends cantrip, and your spellcasting ability for it is Charisma. When you cast it, you can expend a Fey Energy Die, rolling it and subtracting the number rolled from the target's saving throw.
 
