@@ -26,12 +26,12 @@ The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits a du
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Short or Long Rest. 
 
-# Level 9: Evasive Dance
+# Level 9: Artful Maneuvers
 You gain the following Cunning Strike options.
 
-**Elude (Cost: 3d6).** All attacks the target makes against you until the start of your next turn have disadvantage.
+**Evasive Dance (Cost: 3d6).** All attacks the target makes against you until the start of your next turn have disadvantage.
 
-**(Cost: 1d6).** If you have the Invisible condition from your Mirage feature, you don't lose it 
+**Trick of the Light (Cost: 2d6).** If you have the Mirage feature's Invisible condition, this attack doesn't end that condition, and your duplicate teleports to your current position.
 
 # Level 13: Swift Strike
 Once per turn, after you make an Opportunity Attack with a weapon, you can immediately make a second Opportunity Attack of the light property with a different weapon you're holding that has the Nick property, as part of the same reaction.
@@ -39,6 +39,6 @@ Once per turn, after you make an Opportunity Attack with a weapon, you can immed
 # Level 17: Dance Master
 You gain the following Cunning Strike option.
 
-**Counterattack (Cost: 3d6).** After the target misses you with a melee attack, you can use your reaction to make an Opportunity Attack against it.
+**Riposte (Cost: 3d6).** After the target misses you with a melee attack, you can use your reaction to make an Opportunity Attack against it.
 
 [:classes/rogue/mirage-dancer/2024:]
