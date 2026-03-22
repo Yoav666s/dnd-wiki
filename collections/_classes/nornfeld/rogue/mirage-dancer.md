@@ -14,7 +14,7 @@ header:
 Mirage Dancers are trained in subtle magic, using illusions to enhance their roguish abilities. They are masters of misdirection, beguiling friend, foe, and everything in between. The source of their magic is likely tied to the Feywild.
 
 # Dancer's Grace
-Starting when you choose this archetype at 3rd level, when you hit a target with a weapon attack using a Scimitar that isn't a result of the light property, you have advantage on the next attack you make against the same target until the end of your next turn.
+Starting when you choose this archetype at 3rd level, you have proficiency in the Performance skill. Additionally, when you hit a target with a weapon attack using a Scimitar that isn't a result of the light property, you have advantage on the next attack you make against the same target until the end of your next turn.
 
 You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll if you move at least 10 feet while staying within 5 feet of the target before making the attack and you don't have disadvantage on the attack roll.
 
