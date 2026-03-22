@@ -39,6 +39,6 @@ Once per turn, after you make an Opportunity Attack with a weapon, you can immed
 # Level 17: Dance Master
 You gain the following Cunning Strike option.
 
-**Riposte (Cost: 4d6).** After the target misses you with a melee attack, you can use your reaction to make an Opportunity Attack against it.
+**Riposte (Cost: 4d6).** Until the start of your next turn, after the target misses you with a melee attack, you can use your reaction to make an Opportunity Attack against it.
 
 [:classes/rogue/mirage-dancer/2024:]
