@@ -15,7 +15,7 @@ header:
 Mirage Dancers are trained in subtle magic, using illusions to enhance their roguish abilities. They are masters of misdirection, beguiling friend, foe, and everything in between. The source of their magic is likely tied to the Feywild.
 
 # Level 3: Dancer's Grace
-You can use the mastery property of Scimitars. Additionally, when you make an attack with a Scimitar that isn't a result of the light property, you can treat it as though the Scimitar has the Vex property for that attack.
+You have proficiency in the Performance skill and you can use the mastery property of Scimitars. Additionally, when you make an attack with a Scimitar that isn't a result of the light property, you can treat it as though the Scimitar has the Vex property for that attack.
 
 You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll if you move at least 10 feet while staying within 5 feet of the target before making the attack and you don't have disadvantage on the attack roll.
 
