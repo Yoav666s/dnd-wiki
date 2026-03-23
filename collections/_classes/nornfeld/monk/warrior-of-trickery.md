@@ -18,7 +18,7 @@ Warriors of Trickery are deviously cunning. They embed the magic and confusing n
 # Level 3: Fey Trickery
 You have learned to draw on the power of the Feywild, gaining the following benefits.
 
-**Otherworldly Guile.** You gain a bonus to Charisma skill checks equal to your Wisdom modifier. Additionally, you gain proficiency in the Deception, Intimidation, or Persuasion skill.
+**Otherworldly Guile.** You gain a bonus to Charisma checks equal to your Wisdom modifier. Additionally, you gain proficiency in the Deception, Intimidation, or Persuasion skill.
 
 **Misty Step.** You can expend 1 Focus Point to cast the [[Misty Step]] spell without spell components. Wisdom is your spellcasting ability for it.
 
