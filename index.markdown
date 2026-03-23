@@ -1,5 +1,7 @@
 ---
 layout: splash
+header:
+  overlay_image: /assets/images/home/header.png
 ---
 
 # Untold Legends of Nornfeld
