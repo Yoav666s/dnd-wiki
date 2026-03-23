@@ -13,14 +13,14 @@ header:
   overlay_image: /assets/images/classes/monk/trickster/2024/header.png
   teaser: /assets/images/classes/monk/trickster/2024/header.jpg
 ---
-Warriors of Trickery are deviously cunning. They embed the magic and confusing nature of the Feywild in their techniques, beguiling their foes and dazzling their allies. They can change shape and teleport effortlessly around the battlefield.
+Warriors of Trickery are deviously cunning. They embed the magic and confusing nature of the Feywild in their techniques, beguiling their foes and dazzling their allies.
 
 # Level 3: Fey Trickery
 You have learned to draw on the power of the Feywild, gaining the following benefits.
 
-**Shapechanger.** You can expend 1 Focus Point to cast the [[Alter Self]] spell without spell components. You can only choose the "Change Appearance" option.
+**Otherworldly Guile.** You gain a bonus to 
 
-**Misty Step.** You can expend 1 Focus Point to cast the [[Misty Step]] spell without spell components.
+**Misty Step.** You can expend 1 Focus Point to cast the [[Misty Step]] spell without spell components. Wisdom is your spellcasting ability for it.
 
 **Subterfuge.** You know the [[Subterfuge]] spell. Wisdom is your spellcasting ability for it.
 
