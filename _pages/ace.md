@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "ACE: Alignment Chart Expansion"
 permalink: /ace/
 toc: true
@@ -82,7 +82,7 @@ How orderly or chaotic your character tends to be.
 To determine your character's personality traits, you first generate five numbers and then assign them to your five traits.
 
 ## Generate Your Values
-Determine your traits by using one of the following methods. 
+Determine your traits by using one of the following methods.
 
 **Standard Array.** Choose one standard array from the following:
 
