@@ -39,13 +39,13 @@ In addition, consult the Poltergeist Manifestations table and choose or randomly
 | 5 | Your skin gets a blue tint to it, and it's almost see-through. |
 | 6 | Objects around you rattle or tilt without being touched. |
 
-# Potent Cantrip
+# Potent Incantations
 Starting at 1st level, your sorcerer cantrips deal additional damage equal to your Charisma modifier.
 
 # Animate Object
 Starting at 6th level, you can use your action to animate one Large or smaller object for 1 minute or until you lose concentration, as per the [[Animate Objects]] spell.
 
-Once you use this feature, you can't use it again until you finish a long rest or expend 2 sorcery points to do so.
+Once you use this feature, you can't use it again until you finish a long rest or expend 2 sorcery points to do so (no action required).
 
 # Unseen Spectre 
 Beginning at 14th level, some of your Poltergeist spells gain the following benefits.

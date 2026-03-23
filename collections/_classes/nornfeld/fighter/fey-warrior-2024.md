@@ -19,13 +19,14 @@ You possess a wellspring of Fey Energy within yourself. It is represented by you
 
 ## Fey Warrior Energy Dice
 
-| Fighter level | Number | Die Size |
+| Fighter level | Die Size | Number |
 | :---: | :---: | :---: |
-| 3 | 4 | d4 |
-| 5 | 6 | d6 |
-| 9 | 8 | d8 |
-| 13 | 10 | d10 |
-| 17 | 12 | d12 |
+| 3 | d6 | 4 |
+| 5 | d8 | 6 |
+| 9 | d8 | 8 |
+| 11 | d10 | 8 |
+| 13 | d10 | 10 |
+| 17 | d12 | 12 |
 
 Some features in this subclass require you to use Fey Energy Dice. You cannot use these abilities if all of your Fey Energy Dice are expended. You regain one of your expended Fey Energy Die when you finish a Short Rest, and you regain all of them when you finish a Long Rest.
 
@@ -33,28 +34,36 @@ Some features in this subclass require you to use Fey Energy Dice. You cannot us
 
 **Feywild Slip.** You can step in and out of the Feywild. As a bonus action, you can expend a Fey Energy Die, rolling it and multiplying the number rolled by 5 feet. You can magically teleport to an unoccupied space you can see, a distance equal up to the result.
 
-**Silver Tongue.** When you make a Charisma (Deception or Persuasion) check, you can expend a Fey Energy Die, rolling it and adding the number rolled to the result. You can do so after rolling the d20, but before the DM decides the consequences of the roll.
+**Silver Tongue.** You know the Friends cantrip, and your spellcasting ability for it is Charisma. When you cast it, you can expend a Fey Energy Die, rolling it and subtracting the number rolled from the target's saving throw.
 
 # Level 7: Fey Adept
 You've found new ways to utilize your Fey Energy, detailed below.
 
-**Charm Person.** You always have the [[Charm Person]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it this way with this feature, you can't do so again until you finish a Long Rest unless you expend a Fey Energy Die to restore your use of it.
+**Friendly Facade.** When you successfully charm a creature, the creature regards you as a friendly acquaintance.
 
-**Vanish.** As a bonus action, you can expend a Fey Energy Die, rolling it and magically giving yourself the invisible condition for a number of rounds equal to the number rolled. Your invisibility ends early if you attack or cast a spell.
+**Frightening Strike.** When you use your Augmented Strike, you can force the target to make a Wisdom saving throw (DC equal to 8 + your Charisma modifier and proficiency bonus). On failure, the target is Frightened of you until the start of your next turn.
+
+**Vanish.** As a bonus action, you can expend a Fey Energy Die, rolling it and magically giving yourself the invisible condition for a number of rounds equal to the number rolled. Your invisibility ends early if you attack, cast a spell, or lose concentration (as if you were concentrating on a spell).
 
 # Level 10: Fey Aptitude
 When you roll a number lower than your Charisma modifier on a Fey Energy Die, you can use your Charisma modifier instead.
 
 You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest.
 
-# Level 15: Mischievous Illusions
-You always have the [[Major Image]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
+# Level 15: Mischief and Fright
+You've found new ways to utilize your Fey Energy, detailed below.
 
-Once you cast the spell with this feature, you can’t do so in this way again until you finish a Long Rest unless you expend a Fey Energy Die (no action required) to restore your use of it.
+**Freezing Fear.** While a creature is Frightened of you, its speed is reduced to 0.
 
-# Level 18: Major Trickery
-You always have the [[Mislead]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
+**Major Image.** You always have [[Major Image]] prepared. With this feature, you can expend a Fey Energy Die to cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
 
-Once you cast the spell with this feature, you can’t do so in this way again until you finish a Long Rest unless you expend a Fey Energy Die (no action required) to restore your use of it.
+**Undetectable Charm.** When you successfully charm a creature, it doesn't know it was charmed by you after the effect ends.
+
+# Level 18: Might and Trickery
+You've found new ways to utilize your Fey Energy, detailed below.
+
+**Deadly Strike.** When you use your Augmented Strike, you can expend and roll a number of Fey Energy Dice equal to your Charisma modifier (minimum of 1). You only add your Charisma modifier to the total damage once.
+
+**Mislead.** You always have [[Mislead]] prepared. With this feature, you can expend a Fey Energy Die to cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
 
 [:classes/fighter/fey-warrior:]

@@ -23,16 +23,16 @@ You learn additional spells when you reach certain levels in this class, as show
 
 | Sorcerer Level | Spells |
 | :------------: | :----- |
-| 3rd | [[!Charm Person]], [[!Silent Image]], [[!Invisibility]], [[!Misty Step]] |
-| 5th | [[!Blink]], [[!Major Image]] |
-| 7th | [[!Confusion]], [[!Greater Invisibility]] |
-| 9th | [[!Dream]], [[!Mislead]] |
+| 3 | [[!Charm Person]], [[!Silent Image]], [[!Invisibility]], [[!Misty Step]] |
+| 5 | [[!Blink]], [[!Major Image]] |
+| 7 | [[!Confusion]], [[!Greater Invisibility]] |
+| 9 | [[!Dream]], [[!Mislead]] |
 
 In addition, consult the Fey Magic Oddities table and choose or randomly determine a way your connection to the Feywild manifests itself whenever you cast any of your sorcerer spells.
 
 ## Fey Magic Oddities
 
-| d6    | Oddity |
+| 1d6    | Oddity |
 | :---: | :----- |
 | 1 | Various shadows appear around you and silently cheer. |
 | 2 | Seasonal flowers sprout on the ground at your feet. |
@@ -57,27 +57,27 @@ You learn new ways to enhance your Illusory Duplicate ability.
 
 **Illusory Army.** You can concentrate on a number of illusory duplicates equal to your Charisma modifier, but you can only create one at a time with your bonus action.
 
-**Misleading Maneuver.** When you create an illusory duplicate in your space, you can turn invisible at the same time for the duration. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it.
+**Misleading Maneuver.** When you create an illusory duplicate in your space, you can turn invisible at the same time for the duration. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it (no action required).
 
-**Sly Swap.** You can use your bonus action to switch places with an illusory duplicate if you are within 30 feet of it. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it.
+**Sly Swap.** You can use your bonus action to switch places with an illusory duplicate if you are within 30 feet of it. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it (no action required).
 
 # Level 14: Distant Projection 
 You learn new ways to use your sorcerous abilities, detailed below.
 
 **Illusory Casting.** While maintaining an illusion of yourself, you can cast spells as though you were in the illusion's space, but you must still rely on your senses.
 
-**Project Image.** You always have [[Project Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Long Rest unless you expend 7 Sorcery Points to restore your use of it.
+**Project Image.** You always have [[Project Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Long Rest unless you expend 7 Sorcery Points to restore your use of it (no action required).
 
 # Level 18: Binding Contract
 As an action, you can expend one 9th level spell slot to offer another creature a binding fey contract. The creature must be able to hear you, and the contract must be phrased clearly in a language the creature understands, although you're not required to clarify that it is actually a contract. If it's not obvious that it's a contract, a successful Intelligence saving throw will reveal that it is. If the creature willingly (but not necessarily knowingly) agrees, it is bound by the contract. While bound in this way, the creature takes 5d10 psychic damage whenever it deliberately defies the terms of your contract (defying the terms of the contract requires conscious effort), but no more than once each day. 
 
 A contract can contain up to one term, which can be phrased innocuously. In the following Term Table is a non-exhaustive list of terms and their respective phrasings. You can come up with different terms and phrasings at your DM's discretion.
 
-| d4  | Phrasing | Terms |
+| 1d4  | Phrasing | Terms |
 | :--: | :------: | :---: |
 | 1 | "May I have your name?" | The target cannot use or write down its own name for any purpose, and must use another. You can then use the target's name for any purpose, with all the weight that it carries. |
 | 2 | "Will you listen to me for a moment?" | You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the effect ends. |
 | 3 | "May I have a minute of your time?" | The target forgets a chosen minute from their past and  you remember it instead. You must specify to the DM a minute you'd like to steal, which can be a memory you know of or one you describe in general terms. If the memory you specify doesn't exist, the DM chooses another memory instead. |
-| 4 | "May I have your attention, please?" | While you're within 100 feet of the target, you can use your action to see and hear through its eyes and ears. During this time, you are deaf and blind with regard to your own senses, and the target is distracted, seemingly lost in thought. |
+| 4 | "May I have your attention, please?" | While you're within 100 feet of the target, you can use your action to see and hear through its eyes and ears. During this time, the target is distracted, seemingly lost in thought. |
 
 This effect ends on a creature if you use this feature again or if you dismiss it as an action. A remove curse, greater restoration, or wish spell will also end this effect.
