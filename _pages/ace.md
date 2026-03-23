@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "ACE: Alignment Chart Expansion"
 permalink: /ace/
 toc: true
