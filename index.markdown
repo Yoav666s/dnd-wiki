@@ -8,14 +8,14 @@ feature_row:
     excerpt: "Astronomy is the study of celestial bodies, space, and everything beyond planet Terrus. It concerns itself not only with stars, moons, and planets, but also with the invisible forces that bind them together. It is a science that explores gravity, light, the vacuum of space, and the vast galaxy that lies beyond the Ausarian Expanse."
     url: "/expansions/astronomers-guide-to-extraterrestrial-travel/"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
   - image_path: /assets/images/expansions/survivors-guide-to-morgenfell/normal.jpg
     alt: "Survivor's Guide to Morgenfell"
     title: "Survivor's Guide to Morgenfell"
     excerpt: "Three kingdoms agree on one thing: magic is the ruin of society. Since the Arcane Dictum has been issued in the year 217 after the great massacre, magic and everything related to it is strictly prohibited anywhere and everywhere across the vast lands of Morgenfell."
     url: "/expansions/survivors-guide-to-morgenfell/"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
 header:
   overlay_image: /assets/images/home/header.png
 ---
