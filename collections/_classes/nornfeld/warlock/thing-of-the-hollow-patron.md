@@ -7,9 +7,9 @@ excerpt: "Deep beneath the world’s skin, where stone remembers every footfall 
 subclass: warlock
 v_2024: true
 alt_version: the-thing
-# header:
-#  overlay_image: /assets/images/classes/monk/trickster/header.png
-#  teaser: /assets/images/classes/monk/trickster/header.jpg
+header:
+ overlay_image: /assets/images/classes/warlock/the-thing/2024/header.png
+ teaser: /assets/images/classes/warlock/the-thing/2024/header.jpg
 ---
 Deep beneath the world’s skin, where stone remembers every footfall and darkness swallows sound, something vast and patient waits. The Thing of the Hollow is not a distant cosmic will, but a living presence that coils through caverns, roots itself in mountain bones, and listens through the trembling earth. It knows the fear of those who tread above, and it teaches its servants to hunt as it does — sensing through stone, slipping through the bones of the world, and seeping into the dreams of the unwary. Its gifts are not whispers from the stars, but the slow, suffocating embrace of the deep places where no light reaches and no cry escapes.
 
@@ -38,3 +38,5 @@ When you cast [[Dream]], if you are the messenger and choose to appear terrifyin
 
 # Level 14: Earth Shaper
 You know the [[Move Earth]] spell and you can cast it without a spell slot or components. Once you do so, you can't do it again until you finish a Short or Long Rest. When you reshape dirt, sand, or clay using this spell, the transformation occurs within 1 round, resolving at the start of your next turn, at which point you can choose another area to affect within range.
+
+[:classes/warlock/the-thing/2024:]
