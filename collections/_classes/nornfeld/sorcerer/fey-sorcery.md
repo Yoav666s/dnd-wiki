@@ -55,7 +55,7 @@ Physical interaction with the image reveals it to be an illusion, for things can
 # Level 6: Agent of Chaos
 You learn new ways to enhance your Illusory Duplicate ability.
 
-**Illusory Army.** You can concentrate on a number of illusory duplicates equal to your Charisma modifier, but you can only create one at a time with your bonus action.
+**Illusory Army.** You can create and concentrate on a number of illusory duplicates equal to your Charisma modifier.
 
 **Misleading Maneuver.** When you create an illusory duplicate in your space, you can turn invisible at the same time for the duration. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it (no action required).
 
