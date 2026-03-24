@@ -57,7 +57,7 @@ Multiple expansions are available, bundling these settings and subclasses into c
 {% include feature_row id="expansions" %}
 
 # 2024 Subclasses
-While the content of Nornfeld is primarily designed for compatibility with Dungeons & Dragons 5th Edition, care has been taken to ensure that portions of the material remain usable for groups adopting updated rulesets. Select classes and character options have been revised to align with the mechanical changes and design philosophy introduced in Dungeons & Dragons 2024 revision, allowing players to integrate newer character builds without sacrificing balance or thematic cohesion.
+While the content of Nornfeld is primarily designed for compatibility with Dungeons & Dragons 5th Edition, care has been taken to ensure that portions of the material remain usable for groups adopting updated rulesets. Select subclasses have been revised to align with the mechanical changes and design philosophy introduced in Dungeons & Dragons 2024 revision, allowing players to integrate newer character builds without sacrificing balance or thematic cohesion.
 
 These adaptations focus on preserving the spirit and narrative identity of each class while refining features, progression paths, and subclass structures to match the updated system standards. Where necessary, terminology and rule interactions have been clarified to reduce ambiguity at the table, ensuring smoother gameplay for both players and Dungeon Masters.
 
