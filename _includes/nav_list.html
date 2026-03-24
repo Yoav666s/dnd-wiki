@@ -56,7 +56,9 @@
           {% if subclasses %}
           <ul>
             {% for subclass in subclasses %}
-              <li><a href="{{ subclass.url | relative_url }}"{% if subclass.url == page.url %} class="active"{% endif %}>{{ subclass.title }}</a></li>
+              {% if subclass.v_2024 == nil or subclass.v_2024 == false %}
+                <li><a href="{{ subclass.url | relative_url }}"{% if subclass.url == page.url %} class="active"{% endif %}>{{ subclass.title }}</a></li>
+              {% endif %}
             {% endfor %}
           </ul>
           {% endif %}
