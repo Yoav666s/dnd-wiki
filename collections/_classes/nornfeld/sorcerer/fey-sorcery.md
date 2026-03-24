@@ -8,13 +8,13 @@ subclass: sorcerer
 v_2024: true
 alt_version: fey-soul
 source: "Fillumir's Guide to the Feywild"
-# header:
-#   overlay_image: /assets/images/classes/sorcerer/header.png
-#   teaser: /assets/images/classes/sorcerer/header.jpg
+header:
+  overlay_image: /assets/images/classes/sorcerer/fey-soul/2024/header.png
+  teaser: /assets/images/classes/sorcerer/fey-soul/2024/header.jpg
 ---
 Your innate magic comes from the distant realms of the Feywild. You might trace your lineage to an entity from that place, or perhaps you were exposed to its energy and transformed by it.
 
-The power of the Feywild has a noticable effect over your physical presence. The playful aura of magic and trickery is all too present, frustrating and infuriating both friend and foe.
+The power of the Feywild has a noticeable effect over your physical presence. The playful aura of magic and trickery is all too present, frustrating and infuriating both friend and foe.
 
 # Level 3: Fey Magic
 You learn additional spells when you reach certain levels in this class, as shown on the Feywild Spells table. Each spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. These spells can’t be replaced when you gain a level in this class.
@@ -61,7 +61,7 @@ You learn new ways to enhance your Illusory Duplicate ability.
 
 **Sly Swap.** You can use your bonus action to switch places with an illusory duplicate if you are within 30 feet of it. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it (no action required).
 
-# Level 14: Distant Projection 
+# Level 14: Distant Projection
 You learn new ways to use your sorcerous abilities, detailed below.
 
 **Illusory Casting.** While maintaining an illusion of yourself, you can cast spells as though you were in the illusion's space, but you must still rely on your senses.
@@ -69,7 +69,7 @@ You learn new ways to use your sorcerous abilities, detailed below.
 **Project Image.** You always have [[Project Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Long Rest unless you expend 7 Sorcery Points to restore your use of it (no action required).
 
 # Level 18: Binding Contract
-As an action, you can expend one 9th level spell slot to offer another creature a binding fey contract. The creature must be able to hear you, and the contract must be phrased clearly in a language the creature understands, although you're not required to clarify that it is actually a contract. If it's not obvious that it's a contract, a successful Intelligence saving throw will reveal that it is. If the creature willingly (but not necessarily knowingly) agrees, it is bound by the contract. While bound in this way, the creature takes 5d10 psychic damage whenever it deliberately defies the terms of your contract (defying the terms of the contract requires conscious effort), but no more than once each day. 
+As an action, you can expend one 9th level spell slot to offer another creature a binding fey contract. The creature must be able to hear you, and the contract must be phrased clearly in a language the creature understands, although you're not required to clarify that it is actually a contract. If it's not obvious that it's a contract, a successful Intelligence saving throw will reveal that it is. If the creature willingly (but not necessarily knowingly) agrees, it is bound by the contract. While bound in this way, the creature takes 5d10 psychic damage whenever it deliberately defies the terms of your contract (defying the terms of the contract requires conscious effort), but no more than once each day.
 
 A contract can contain up to one term, which can be phrased innocuously. In the following Term Table is a non-exhaustive list of terms and their respective phrasings. You can come up with different terms and phrasings at your DM's discretion.
 
