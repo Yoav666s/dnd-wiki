@@ -30,7 +30,7 @@ You possess a wellspring of Fey Energy within yourself. It is represented by you
 
 Some features in this subclass require you to use Fey Energy Dice. You cannot use these abilities if all of your Fey Energy Dice are expended. You regain one of your expended Fey Energy Die when you finish a Short Rest, and you regain all of them when you finish a Long Rest.
 
-**Augmented Strike.** You can imbue your strike with fey magic. Once per turn, immediately after you hit a creature with an weapon attack, you can expend  a Fey Energy Die, rolling it and and dealing additional Psychic damage equal to the number rolled plus your Charisma modifier.
+**Augmented Strike.** You can imbue your strike with fey magic. Once per turn, immediately after you hit a creature with an weapon attack, you can expend  a Fey Energy Die, rolling it and dealing additional Psychic damage equal to the number rolled plus your Charisma modifier.
 
 **Feywild Slip.** You can step in and out of the Feywild. Immediately before you make an attack, you can expend a Fey Energy Die to magically teleport to an unoccupied space you can see, a distance equal up to 5 times your proficiency modifier.
 
