@@ -16,6 +16,13 @@ feature_row:
     url: "/expansions/survivors-guide-to-morgenfell/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
+  - image_path: /assets/images/expansions/fillumirs-guide-to-the-feywild/normal.jpg
+    alt: "Fillumir's Guide to the Feywild"
+    title: "Fillumir's Guide to the Feywild"
+    excerpt: "The Feywild is a bewildering and vibrant reflection of the Material Plane, a realm where emotion, magic, and imagination shape reality itself. Landscapes shift with whim and wonder--towering crystal-clear rivers wind through endless emerald forests, twilight meadows glow beneath perpetual sunsets, and ancient groves whisper secrets older than mortal memory."
+    url: "/expansions/fillumirs-guide-to-the-feywild/"
+    btn_label: "Read More"
+    btn_class: "btn--light-outline"
 header:
   overlay_image: /assets/images/home/header.png
 ---
