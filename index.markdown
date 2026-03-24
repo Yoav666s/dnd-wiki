@@ -50,10 +50,13 @@ header:
   overlay_image: /assets/images/home/header.png
   overlay_filter: 0.375
 ---
-Nornfeld offers a variety of new subclasses, each with distinct abilities, lore, and thematic depth, allowing characters to grow in specialized and imaginative ways. To enhance the experience, multiple expansions are available, bundling these settings and subclasses into cohesive packages that seamlessly integrate with existing campaigns. Each setting introduces rich continents teeming with diverse cultures, unique ecosystems, and intricate histories waiting to be explored. Players can delve into compelling storylines, encounter formidable creatures, and navigate complex political landscapes that bring the world to life. Whether you are seeking epic quests, detailed worldbuilding, or innovative character options, Nornfeld provides a rich foundation for limitless adventure.
+
+# Expansions
+Multiple expansions are available, bundling these settings and subclasses into cohesive packages that seamlessly integrate with existing campaigns. Each setting introduces rich continents teeming with diverse cultures, unique ecosystems, and intricate histories waiting to be explored. Players can delve into compelling storylines, encounter formidable creatures, and navigate complex political landscapes that bring the world to life. Whether you are seeking epic quests, detailed worldbuilding, or innovative character options, Nornfeld provides a rich foundation for limitless adventure.
 
 {% include feature_row id="expansions" %}
 
+# 2024 Subclasses
 While the content of Nornfeld is primarily designed for compatibility with Dungeons & Dragons 5th Edition, care has been taken to ensure that portions of the material remain usable for groups adopting updated rulesets. Select classes and character options have been revised to align with the mechanical changes and design philosophy introduced in Dungeons & Dragons 2024 revision, allowing players to integrate newer character builds without sacrificing balance or thematic cohesion.
 
 These adaptations focus on preserving the spirit and narrative identity of each class while refining features, progression paths, and subclass structures to match the updated system standards. Where necessary, terminology and rule interactions have been clarified to reduce ambiguity at the table, ensuring smoother gameplay for both players and Dungeon Masters.
