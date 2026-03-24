@@ -9,8 +9,8 @@ v_2024: true
 alt_version: "fey-warrior"
 source: "Fillumir's Guide to the Feywild"
 header:
-  overlay_image: /assets/images/classes/fighter/fey-warrior/header.png
-  teaser: /assets/images/classes/fighter/fey-warrior/header.jpg
+  overlay_image: /assets/images/classes/fighter/fey-warrior/2024/header.png
+  teaser: /assets/images/classes/fighter/fey-warrior/2024/header.jpg
 ---
 Where others rely on brute force or rigid discipline, the Fey Warrior takes a different approach. With a flash of light or a flourish of motion, they become elusive targets and masters of deception. Their presence on the battlefield is as unsettling as it is graceful, never where the enemy expects, never still, and never quite within reach.
 
@@ -32,7 +32,7 @@ Some features in this subclass require you to use Fey Energy Dice. You cannot us
 
 **Augmented Strike.** You can imbue your strike with fey magic. Once per turn, immediately after you hit a creature with an weapon attack, you can expend  a Fey Energy Die, rolling it and and dealing additional Psychic damage equal to the number rolled plus your Charisma modifier.
 
-**Feywild Slip.** You can step in and out of the Feywild. As a bonus action, you can expend a Fey Energy Die, rolling it and multiplying the number rolled by 5 feet. You can magically teleport to an unoccupied space you can see, a distance equal up to the result.
+**Feywild Slip.** You can step in and out of the Feywild. Immediately before you make an attack, you can expend a Fey Energy Die to magically teleport to an unoccupied space you can see, a distance equal up to 5 times your proficiency modifier.
 
 **Silver Tongue.** You know the Friends cantrip, and your spellcasting ability for it is Charisma. When you cast it, you can expend a Fey Energy Die, rolling it and subtracting the number rolled from the target's saving throw.
 
@@ -66,4 +66,4 @@ You've found new ways to utilize your Fey Energy, detailed below.
 
 **Mislead.** You always have [[Mislead]] prepared. With this feature, you can expend a Fey Energy Die to cast it without a spell slot or components, and your spellcasting ability for it is Charisma.
 
-[:classes/fighter/fey-warrior:]
+[:classes/fighter/fey-warrior/2024:]
