@@ -1,5 +1,5 @@
 ---
-title: "Sending
+title: "Sending"
 index: 
   - sending-2024
 permalink: /spells/sending-2024/
@@ -15,8 +15,8 @@ comp:
   - S
   - M
 material: "a copper wire"
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You send a short message of 25 words or fewer to a creature you have met or a creature described to you by someone who has met it. The target hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables targets to understand the meaning of your message.   
 

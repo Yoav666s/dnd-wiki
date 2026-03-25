@@ -1,5 +1,5 @@
 ---
-title: "Eyebite
+title: "Eyebite"
 index: 
   - eyebite-2024
 permalink: /spells/eyebite-2024/
@@ -13,9 +13,9 @@ school: "Necromancy"
 comp:
   - V
   - S
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   For the duration, your eyes become an inky void. One creature of your choice within 60 feet of you that you can see must succeed on a Wisdom saving throw or be affected by one of the following effects of your choice for the duration.   
 

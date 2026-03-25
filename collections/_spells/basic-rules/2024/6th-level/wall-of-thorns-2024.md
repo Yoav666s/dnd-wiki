@@ -1,5 +1,5 @@
 ---
-title: "Wall of Thorns
+title: "Wall of Thorns"
 index: 
   - wall-of-thorns-2024
 permalink: /spells/wall-of-thorns-2024/
@@ -13,9 +13,9 @@ comp:
   - S
   - M
 material: "a handful of thorns"
-duration: "10 Minutes
+duration: "10 Minutes"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You create a wall of tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 feet long, 10 feet high, and 5 feet thick or a circle that has a 20-foot diameter and is up to 20 feet high and 5 feet thick. The wall blocks line of sight.   
 

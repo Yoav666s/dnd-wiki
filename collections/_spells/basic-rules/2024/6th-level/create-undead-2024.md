@@ -1,5 +1,5 @@
 ---
-title: "Create Undead
+title: "Create Undead"
 index: 
   - create-undead-2024
 permalink: /spells/create-undead-2024/
@@ -15,8 +15,8 @@ comp:
   - S
   - M
 material: "one 150+ gp black onyx stone for each corpse"
-duration: "Instantaneous
-cast_time: "1 Minute
+duration: "Instantaneous"
+cast_time: "1 Minute"
 description: |
   You can cast this spell only at night. Choose up to three corpses of Medium or Small Humanoids within range. Each one becomes a Ghoul under your control. As a Bonus Action on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to them). You decide what action the creature will take and where it will move on its next turn, or you can issue a general command, such as to guard a particular place. If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. Once given an order, the creature continues to follow the order until its task is complete.   
 

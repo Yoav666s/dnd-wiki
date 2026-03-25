@@ -1,5 +1,5 @@
 ---
-title: "Blindness/Deafness
+title: "Blindness/Deafness"
 index: 
   - blindness/deafness-2024
 permalink: /spells/blindness/deafness-2024/
@@ -10,8 +10,8 @@ school: "Transmutation"
 range: "120 ft"
 comp:
   - V
-duration: "1 Minute
-cast_time: "Action
+duration: "1 Minute"
+cast_time: "Action"
 description: |
   One creature that you can see within range must succeed on a Constitution saving throw, or it has the Blinded or Deafened condition (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 excerpt: "One creature that you can see within range must succeed on a Constitution saving throw, or it has the Blinded or Deafened condition (your choice) for the duration."

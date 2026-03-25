@@ -1,5 +1,5 @@
 ---
-title: "Conjure Celestial
+title: "Conjure Celestial"
 index: 
   - conjure-celestial-2024
 permalink: /spells/conjure-celestial-2024/
@@ -11,9 +11,9 @@ range: "90 ft"
 comp:
   - V
   - S
-duration: "10 Minutes
+duration: "10 Minutes"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You conjure a spirit from the Upper Planes, which manifests as a pillar of light in a 10-foot-radius, 40-foot-high Cylinder centered on a point within range. For each creature you can see in the Cylinder, choose which of these lights shines on it:   
 

@@ -1,5 +1,5 @@
 ---
-title: "Power Word Kill
+title: "Power Word Kill"
 index: 
   - power-word-kill-2024
 permalink: /spells/power-word-kill-2024/
@@ -13,8 +13,8 @@ school: "Enchantment"
 range: "60 ft"
 comp:
   - V
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You compel one creature you can see within range to die. If the target has 100 Hit Points or fewer, it dies. Otherwise, it takes 12d12 Psychic damage.
 excerpt: "You compel one creature you can see within range to die."

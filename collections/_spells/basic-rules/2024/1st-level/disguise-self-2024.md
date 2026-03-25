@@ -1,5 +1,5 @@
 ---
-title: "Disguise Self
+title: "Disguise Self"
 index: 
   - disguise-self-2024
 permalink: /spells/disguise-self-2024/
@@ -12,8 +12,8 @@ school: "Illusion"
 comp:
   - V
   - S
-duration: "1 Hour
-cast_time: "Action
+duration: "1 Hour"
+cast_time: "Action"
 description: |
   You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.   
 

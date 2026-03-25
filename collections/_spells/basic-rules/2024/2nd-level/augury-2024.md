@@ -1,5 +1,5 @@
 ---
-title: "Augury
+title: "Augury"
 index: 
   - augury-2024
 permalink: /spells/augury-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "special marked sticks, bones, cards, or other divinatory tokens worth 25+ gp"
-duration: "Instantaneous
-cast_time: "1 Minute
+duration: "Instantaneous"
+cast_time: "1 Minute"
 ritual: true
 description: |
   You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The DM chooses the omen from the Omens table.   

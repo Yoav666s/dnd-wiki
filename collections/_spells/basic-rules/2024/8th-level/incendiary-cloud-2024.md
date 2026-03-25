@@ -1,5 +1,5 @@
 ---
-title: "Incendiary Cloud
+title: "Incendiary Cloud"
 index: 
   - incendiary-cloud-2024
 permalink: /spells/incendiary-cloud-2024/
@@ -13,9 +13,9 @@ range: "150 ft"
 comp:
   - V
   - S
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud's area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by Gust of Wind) disperses it.   
 

@@ -1,5 +1,5 @@
 ---
-title: "Shield of Faith
+title: "Shield of Faith"
 index: 
   - shield-of-faith-2024
 permalink: /spells/shield-of-faith-2024/
@@ -14,9 +14,9 @@ comp:
   - S
   - M
 material: "a prayer scroll"
-duration: "10 Minutes
+duration: "10 Minutes"
 concentration: true
-cast_time: "Bonus Action
+cast_time: "Bonus Action"
 description: |
   A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 excerpt: "A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration."

@@ -1,5 +1,5 @@
 ---
-title: "Arcane Sword
+title: "Arcane Sword"
 index: 
   - arcane-sword-2024
 permalink: /spells/arcane-sword-2024/
@@ -14,9 +14,9 @@ comp:
   - S
   - M
 material: "a miniature sword worth 250+ gp"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You create a spectral sword that hovers within range. It lasts for the duration.   
 

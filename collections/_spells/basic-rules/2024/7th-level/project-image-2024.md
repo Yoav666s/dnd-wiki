@@ -1,5 +1,5 @@
 ---
-title: "Project Image
+title: "Project Image"
 index: 
   - project-image-2024
 permalink: /spells/project-image-2024/
@@ -14,9 +14,9 @@ comp:
   - S
   - M
 material: "a statuette of yourself worth 5+ gp"
-duration: "1 Day
+duration: "1 Day"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you, but it is intangible. If the illusion takes any damage, it disappears, and the spell ends.   
 

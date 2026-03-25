@@ -1,5 +1,5 @@
 ---
-title: "Telekinesis
+title: "Telekinesis"
 index: 
   - telekinesis-2024
 permalink: /spells/telekinesis-2024/
@@ -12,9 +12,9 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "10 Minutes
+duration: "10 Minutes"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell and as a Magic action on your later turns before the spell ends, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.   
 

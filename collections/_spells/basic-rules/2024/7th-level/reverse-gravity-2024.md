@@ -1,5 +1,5 @@
 ---
-title: "Reverse Gravity
+title: "Reverse Gravity"
 index: 
   - reverse-gravity-2024
 permalink: /spells/reverse-gravity-2024/
@@ -15,9 +15,9 @@ comp:
   - S
   - M
 material: "a lodestone and iron filings"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   This spell reverses gravity in a 50-foot-radius, 100-foot high Cylinder centered on a point within range. All creatures and objects in that area that aren't anchored to the ground fall upward and reach the top of the Cylinder. A creature can make a Dexterity saving throw to grab a fixed object it can reach, thus avoiding the fall upward.   
 

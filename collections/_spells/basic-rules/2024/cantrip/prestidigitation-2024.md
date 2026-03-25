@@ -1,5 +1,5 @@
 ---
-title: "Prestidigitation
+title: "Prestidigitation"
 index: 
   - prestidigitation-2024
 permalink: /spells/prestidigitation-2024/
@@ -14,8 +14,8 @@ range: "10 ft"
 comp:
   - V
   - S
-duration: "Up To 1 Hour
-cast_time: "Action
+duration: "Up To 1 Hour"
+cast_time: "Action"
 description: |
   You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.   
 

@@ -1,5 +1,5 @@
 ---
-title: "Earthquake
+title: "Earthquake"
 index: 
   - earthquake-2024
 permalink: /spells/earthquake-2024/
@@ -15,9 +15,9 @@ comp:
   - S
   - M
 material: "a fractured rock"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100- foot-radius circle centered on that point. The ground there is Difficult Terrain.   
 

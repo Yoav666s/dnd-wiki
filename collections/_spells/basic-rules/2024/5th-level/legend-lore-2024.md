@@ -1,5 +1,5 @@
 ---
-title: "Legend Lore
+title: "Legend Lore"
 index: 
   - legend-lore-2024
 permalink: /spells/legend-lore-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "incense worth 250+ gp, which the spell consumes, and four ivory strips worth 50+ gp each"
-duration: "Instantaneous
-cast_time: "10 Minutes
+duration: "Instantaneous"
+cast_time: "10 Minutes"
 description: |
   Name or describe a famous person, place, or object. The spell brings to your mind a brief summary of the significant lore about that famous thing, as described by the DM.   
 

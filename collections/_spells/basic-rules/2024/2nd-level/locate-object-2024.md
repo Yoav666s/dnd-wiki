@@ -1,5 +1,5 @@
 ---
-title: "Locate Object
+title: "Locate Object"
 index: 
   - locate-object-2024
 permalink: /spells/locate-object-2024/
@@ -17,9 +17,9 @@ comp:
   - S
   - M
 material: "a forked twig"
-duration: "10 Minutes
+duration: "10 Minutes"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   Describe or name an object that is familiar to you. You sense the direction to the object's location if that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.   
 

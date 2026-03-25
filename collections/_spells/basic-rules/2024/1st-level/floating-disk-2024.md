@@ -1,5 +1,5 @@
 ---
-title: "Floating Disk
+title: "Floating Disk"
 index: 
   - floating-disk-2024
 permalink: /spells/floating-disk-2024/
@@ -13,8 +13,8 @@ comp:
   - S
   - M
 material: "a drop of mercury"
-duration: "1 Hour
-cast_time: "Action
+duration: "1 Hour"
+cast_time: "Action"
 ritual: true
 description: |
   This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.   

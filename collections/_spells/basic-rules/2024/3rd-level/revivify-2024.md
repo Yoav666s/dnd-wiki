@@ -1,5 +1,5 @@
 ---
-title: "Revivify
+title: "Revivify"
 index: 
   - revivify-2024
 permalink: /spells/revivify-2024/
@@ -16,8 +16,8 @@ comp:
   - S
   - M
 material: "diamonds worth 300+ gp, which the spell consumes"
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You touch a creature that has died within the last minute. That creature revives with 1 Hit Point. This spell can't revive a creature that has died of old age, nor does it restore any missing body parts.
 excerpt: "You touch a creature that has died within the last minute."

@@ -1,5 +1,5 @@
 ---
-title: "Inflict Wounds
+title: "Inflict Wounds"
 index: 
   - inflict-wounds-2024
 permalink: /spells/inflict-wounds-2024/
@@ -11,8 +11,8 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.
 excerpt: "A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one."

@@ -1,5 +1,5 @@
 ---
-title: "Mage Armor
+title: "Mage Armor"
 index: 
   - mage-armor-2024
 permalink: /spells/mage-armor-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "a piece of cured leather"
-duration: "8 Hours
-cast_time: "Action
+duration: "8 Hours"
+cast_time: "Action"
 description: |
   You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
 excerpt: "You touch a willing creature who isn't wearing armor."

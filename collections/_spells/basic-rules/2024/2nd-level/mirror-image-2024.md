@@ -1,5 +1,5 @@
 ---
-title: "Mirror Image
+title: "Mirror Image"
 index: 
   - mirror-image-2024
 permalink: /spells/mirror-image-2024/
@@ -13,8 +13,8 @@ school: "Illusion"
 comp:
   - V
   - S
-duration: "1 Minute
-cast_time: "Action
+duration: "1 Minute"
+cast_time: "Action"
 description: |
   Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.   
 

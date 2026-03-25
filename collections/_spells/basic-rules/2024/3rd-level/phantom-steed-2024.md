@@ -1,5 +1,5 @@
 ---
-title: "Phantom Steed
+title: "Phantom Steed"
 index: 
   - phantom-steed-2024
 permalink: /spells/phantom-steed-2024/
@@ -11,8 +11,8 @@ range: "30 ft"
 comp:
   - V
   - S
-duration: "1 Hour
-cast_time: "1 Minute
+duration: "1 Hour"
+cast_time: "1 Minute"
 ritual: true
 description: |
   A Large, quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range. You decide the creature's appearance, and it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is carried more than 10 feet away from the steed.   

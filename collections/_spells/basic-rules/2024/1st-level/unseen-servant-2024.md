@@ -1,5 +1,5 @@
 ---
-title: "Unseen Servant
+title: "Unseen Servant"
 index: 
   - unseen-servant-2024
 permalink: /spells/unseen-servant-2024/
@@ -15,8 +15,8 @@ comp:
   - S
   - M
 material: "a bit of string and of wood"
-duration: "1 Hour
-cast_time: "Action
+duration: "1 Hour"
+cast_time: "Action"
 ritual: true
 description: |
   This spell creates an Invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 Hit Point, and a Strength of 2, and it can't attack. If it drops to 0 Hit Points, the spell ends.   

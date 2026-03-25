@@ -1,5 +1,5 @@
 ---
-title: "Ensnaring Strike
+title: "Ensnaring Strike"
 index: 
   - ensnaring-strike-2024
 permalink: /spells/ensnaring-strike-2024/
@@ -9,9 +9,9 @@ level: "1st Level"
 school: "Conjuration"
 comp:
   - V
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Bonus Action
+cast_time: "Bonus Action"
 description: |
   As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has Advantage on this save. On a failed save, the target has the Restrained condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.  
 

@@ -1,5 +1,5 @@
 ---
-title: "Flesh to Stone
+title: "Flesh to Stone"
 index: 
   - flesh-to-stone-2024
 permalink: /spells/flesh-to-stone-2024/
@@ -15,9 +15,9 @@ comp:
   - S
   - M
 material: "a cockatrice feather"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You attempt to turn one creature that you can see within range into stone. The target makes a Constitution saving throw. On a failed save, it has the Restrained condition for the duration. On a successful save, its Speed is 0 until the start of your next turn. Constructs automatically succeed on the save.   
 

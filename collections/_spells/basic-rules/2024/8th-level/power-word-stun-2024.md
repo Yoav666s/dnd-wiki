@@ -1,5 +1,5 @@
 ---
-title: "Power Word Stun
+title: "Power Word Stun"
 index: 
   - power-word-stun-2024
 permalink: /spells/power-word-stun-2024/
@@ -13,8 +13,8 @@ school: "Enchantment"
 range: "60 ft"
 comp:
   - V
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You overwhelm the mind of one creature you can see within range. If the target has 150 Hit Points or fewer, it has the Stunned condition. Otherwise, its Speed is 0 until the start of your next turn.   
 

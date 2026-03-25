@@ -1,5 +1,5 @@
 ---
-title: "Sleep
+title: "Sleep"
 index: 
   - sleep-2024
 permalink: /spells/sleep-2024/
@@ -15,9 +15,9 @@ comp:
   - S
   - M
 material: "a pinch of sand or rose petals"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.  
 

@@ -1,5 +1,5 @@
 ---
-title: "Hypnotic Pattern
+title: "Hypnotic Pattern"
 index: 
   - hypnotic-pattern-2024
 permalink: /spells/hypnotic-pattern-2024/
@@ -15,9 +15,9 @@ comp:
   - S
   - M
 material: "a pinch of confetti"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You create a twisting pattern of colors in a 30-foot Cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the Charmed condition for the duration. While Charmed, the creature has the Incapacitated condition and a Speed of 0.   
 

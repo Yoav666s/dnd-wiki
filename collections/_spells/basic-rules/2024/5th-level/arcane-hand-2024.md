@@ -1,5 +1,5 @@
 ---
-title: "Arcane Hand
+title: "Arcane Hand"
 index: 
   - arcane-hand-2024
 permalink: /spells/arcane-hand-2024/
@@ -14,9 +14,9 @@ comp:
   - S
   - M
 material: "an eggshell and a glove"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You create a Large hand of shimmering magical energy in an unoccupied space that you can see within range. The hand lasts for the duration, and it moves at your command, mimicking the movements of your own hand. The hand is an object that has AC 20 and Hit Points equal to your Hit Point maximum. If it drops to 0 Hit Points, the spell ends. The hand doesn't occupy its space. When you cast the spell and as a Bonus Action on your later turns, you can move the hand up to 60 feet and then cause one of the following effects:   
 

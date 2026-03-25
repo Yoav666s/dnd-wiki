@@ -1,5 +1,5 @@
 ---
-title: "Raise Dead
+title: "Raise Dead"
 index: 
   - raise-dead-2024
 permalink: /spells/raise-dead-2024/
@@ -15,8 +15,8 @@ comp:
   - S
   - M
 material: "a diamond worth 500+ gp, which the spell consumes"
-duration: "Instantaneous
-cast_time: "1 Hour
+duration: "Instantaneous"
+cast_time: "1 Hour"
 description: |
   With a touch, you revive a dead creature if it has been dead no longer than 10 days and it wasn't Undead when it died. The creature returns to life with 1 Hit Point. This spell also neutralizes any poisons that affected the creature at the time of death.   
 

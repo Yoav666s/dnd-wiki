@@ -1,5 +1,5 @@
 ---
-title: "False Life
+title: "False Life"
 index: 
   - false-life-2024
 permalink: /spells/false-life-2024/
@@ -13,8 +13,8 @@ comp:
   - S
   - M
 material: "a drop of alcohol"
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You gain 2d4 + 4 Temporary Hit Points.
 excerpt: "You gain 2d4 + 4 Temporary Hit Points."

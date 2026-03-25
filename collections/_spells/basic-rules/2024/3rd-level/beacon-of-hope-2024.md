@@ -1,5 +1,5 @@
 ---
-title: "Beacon of Hope
+title: "Beacon of Hope"
 index: 
   - beacon-of-hope-2024
 permalink: /spells/beacon-of-hope-2024/
@@ -11,9 +11,9 @@ range: "30 ft"
 comp:
   - V
   - S
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   Choose any number of creatures within range. For the duration, each target has Advantage on Wisdom saving throws and Death Saving Throws and regains the maximum number of Hit Points possible from any healing.
 excerpt: "Choose any number of creatures within range."

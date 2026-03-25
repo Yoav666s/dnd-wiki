@@ -1,5 +1,5 @@
 ---
-title: "Find Familiar
+title: "Find Familiar"
 index: 
   - find-familiar-2024
 permalink: /spells/find-familiar-2024/
@@ -13,8 +13,8 @@ comp:
   - S
   - M
 material: "burning incense worth 10+ gp, which the spell consumes"
-duration: "Instantaneous
-cast_time: "1 Hour
+duration: "Instantaneous"
+cast_time: "1 Hour"
 ritual: true
 description: |
   You gain the service of a familiar, a spirit that takes an animal form you choose: B**at, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel,** or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands. Telepathic Connection. While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.   

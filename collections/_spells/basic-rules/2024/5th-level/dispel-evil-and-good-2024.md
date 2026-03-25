@@ -1,5 +1,5 @@
 ---
-title: "Dispel Evil and Good
+title: "Dispel Evil and Good"
 index: 
   - dispel-evil-and-good-2024
 permalink: /spells/dispel-evil-and-good-2024/
@@ -13,9 +13,9 @@ comp:
   - S
   - M
 material: "powdered silver and iron"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvantage on attack rolls against you. You can end the spell early by using either of the following special functions.   
 

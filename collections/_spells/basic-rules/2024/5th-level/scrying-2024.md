@@ -1,5 +1,5 @@
 ---
-title: "Scrying
+title: "Scrying"
 index: 
   - scrying-2024
 permalink: /spells/scrying-2024/
@@ -16,9 +16,9 @@ comp:
   - S
   - M
 material: "a focus worth 1,000+ gp, such as a crystal ball, mirror, or water-filled font"
-duration: "10 Minutes
+duration: "10 Minutes"
 concentration: true
-cast_time: "10 Minutes
+cast_time: "10 Minutes"
 description: |
   You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn’t know what it is making the save against, only that it feels uneasy.   
 

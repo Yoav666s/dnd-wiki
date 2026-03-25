@@ -1,5 +1,5 @@
 ---
-title: "Finger of Death
+title: "Finger of Death"
 index: 
   - finger-of-death-2024
 permalink: /spells/finger-of-death-2024/
@@ -13,8 +13,8 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You unleash negative energy toward a creature you can see within range. The target makes a Constitution saving throw, taking 7d8 + 30 Necrotic damage on a failed save or half as much damage on a successful one.   
 

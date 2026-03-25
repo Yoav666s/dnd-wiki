@@ -1,5 +1,5 @@
 ---
-title: "Programmed Illusion
+title: "Programmed Illusion"
 index: 
   - programmed-illusion-2024
 permalink: /spells/programmed-illusion-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "jade dust worth 25+ gp"
-duration: "Until Dispelled
-cast_time: "Action
+duration: "Until Dispelled"
+cast_time: "Action"
 description: |
   You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific trigger occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot Cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.  
 

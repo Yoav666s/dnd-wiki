@@ -1,5 +1,5 @@
 ---
-title: "Hellish Rebuke
+title: "Hellish Rebuke"
 index: 
   - hellish-rebuke-2024
 permalink: /spells/hellish-rebuke-2024/
@@ -11,8 +11,8 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Reaction
+duration: "Instantaneous"
+cast_time: "Reaction"
 description: |
   The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
 excerpt: "The creature that damaged you is momentarily surrounded by green flames."

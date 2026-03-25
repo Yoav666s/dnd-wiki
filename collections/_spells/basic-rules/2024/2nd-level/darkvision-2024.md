@@ -1,5 +1,5 @@
 ---
-title: "Darkvision
+title: "Darkvision"
 index: 
   - darkvision-2024
 permalink: /spells/darkvision-2024/
@@ -16,8 +16,8 @@ comp:
   - S
   - M
 material: "a dried carrot"
-duration: "8 Hours
-cast_time: "Action
+duration: "8 Hours"
+cast_time: "Action"
 description: |
   For the duration, a willing creature you touch has Darkvision with a range of 150 feet.
 excerpt: "For the duration, a willing creature you touch has Darkvision with a range of 150 feet."

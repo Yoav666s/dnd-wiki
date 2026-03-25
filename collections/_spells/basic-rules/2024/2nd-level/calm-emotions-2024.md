@@ -1,5 +1,5 @@
 ---
-title: "Calm Emotions
+title: "Calm Emotions"
 index: 
   - calm-emotions-2024
 permalink: /spells/calm-emotions-2024/
@@ -12,9 +12,9 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):   
 

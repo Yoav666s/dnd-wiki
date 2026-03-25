@@ -1,5 +1,5 @@
 ---
-title: "Faerie Fire
+title: "Faerie Fire"
 index: 
   - faerie-fire-2024
 permalink: /spells/faerie-fire-2024/
@@ -11,9 +11,9 @@ school: "Evocation"
 range: "60 ft"
 comp:
   - V
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   Objects in a 20-foot Cube within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed Dim Light in a 10-foot radius and can't benefit from the Invisible condition.   
 

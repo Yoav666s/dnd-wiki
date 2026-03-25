@@ -1,5 +1,5 @@
 ---
-title: "Arcane Eye
+title: "Arcane Eye"
 index: 
   - arcane-eye-2024
 permalink: /spells/arcane-eye-2024/
@@ -13,9 +13,9 @@ comp:
   - S
   - M
 material: "a bit of bat fur"
-duration: "1 Hour
+duration: "1 Hour"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You create an Invisible, invulnerable eye within range that hovers for the duration. You mentally receive visual information from the eye, which can see in every direction. It also has Darkvision with a range of 30 feet.   
 

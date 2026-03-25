@@ -1,5 +1,5 @@
 ---
-title: "Hallow
+title: "Hallow"
 index: 
   - hallow-2024
 permalink: /spells/hallow-2024/
@@ -13,8 +13,8 @@ comp:
   - S
   - M
 material: "incense worth 1,000+ gp, which the spell consumes"
-duration: "Until Dispelled
-cast_time: "24 Hours
+duration: "Until Dispelled"
+cast_time: "24 Hours"
 description: |
   You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow. The affected area has the following effects.   
 

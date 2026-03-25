@@ -1,5 +1,5 @@
 ---
-title: "Magic Circle
+title: "Magic Circle"
 index: 
   - magic-circle-2024
 permalink: /spells/magic-circle-2024/
@@ -16,8 +16,8 @@ comp:
   - S
   - M
 material: "salt and powdered silver worth 100+ gp, which the spell consumes"
-duration: "1 Hour
-cast_time: "1 Minute
+duration: "1 Hour"
+cast_time: "1 Minute"
 description: |
   You create a 10-foot-radius, 20-foot-tall Cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the Cylinder intersects with the floor or other surface.   
 

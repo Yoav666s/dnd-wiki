@@ -1,5 +1,5 @@
 ---
-title: "Spare the Dying
+title: "Spare the Dying"
 index: 
   - spare-the-dying-2024
 permalink: /spells/spare-the-dying-2024/
@@ -12,8 +12,8 @@ range: "15 ft"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.
 excerpt: "Choose a creature within range that has 0 Hit Points and isn't dead."

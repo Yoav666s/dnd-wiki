@@ -1,5 +1,5 @@
 ---
-title: "Locate Animals or Plants
+title: "Locate Animals or Plants"
 index: 
   - locate-animals-or-plants-2024
 permalink: /spells/locate-animals-or-plants-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "fur from a bloodhound"
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 ritual: true
 description: |
   Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. You learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.

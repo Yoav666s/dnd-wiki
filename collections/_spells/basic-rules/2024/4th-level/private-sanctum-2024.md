@@ -1,5 +1,5 @@
 ---
-title: "Private Sanctum
+title: "Private Sanctum"
 index: 
   - private-sanctum-2024
 permalink: /spells/private-sanctum-2024/
@@ -13,8 +13,8 @@ comp:
   - S
   - M
 material: "a thin sheet of lead"
-duration: "24 Hours
-cast_time: "10 Minutes
+duration: "24 Hours"
+cast_time: "10 Minutes"
 description: |
   You make an area within range magically secure. The area is a Cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.   
 

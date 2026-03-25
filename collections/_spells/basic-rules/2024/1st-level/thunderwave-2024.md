@@ -1,5 +1,5 @@
 ---
-title: "Thunderwave
+title: "Thunderwave"
 index: 
   - thunderwave-2024
 permalink: /spells/thunderwave-2024/
@@ -13,8 +13,8 @@ school: "Evocation"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You unleash a wave of thunderous energy. Each creature in a 15- foot Cube originating from you makes a Constitution saving throw. On a failed save, a creature takes 2d8 Thunder damage and is pushed 10 feet away from you. On a successful save, a creature takes half as much damage only.   
 

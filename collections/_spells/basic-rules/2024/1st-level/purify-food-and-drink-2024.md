@@ -1,5 +1,5 @@
 ---
-title: "Purify Food and Drink
+title: "Purify Food and Drink"
 index: 
   - purify-food-and-drink-2024
 permalink: /spells/purify-food-and-drink-2024/
@@ -13,8 +13,8 @@ range: "10 ft"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 ritual: true
 description: |
   You remove poison and rot from nonmagical food and drink in a 5- foot-radius Sphere centered on a point within range.

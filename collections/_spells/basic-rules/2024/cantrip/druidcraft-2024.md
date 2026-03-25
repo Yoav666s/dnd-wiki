@@ -1,5 +1,5 @@
 ---
-title: "Druidcraft
+title: "Druidcraft"
 index: 
   - druidcraft-2024
 permalink: /spells/druidcraft-2024/
@@ -11,8 +11,8 @@ range: "30 ft"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   **Weather Sensor.** You create a Tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.   
 

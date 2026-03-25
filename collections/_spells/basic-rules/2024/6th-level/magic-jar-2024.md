@@ -1,5 +1,5 @@
 ---
-title: "Magic Jar
+title: "Magic Jar"
 index: 
   - magic-jar-2024
 permalink: /spells/magic-jar-2024/
@@ -12,8 +12,8 @@ comp:
   - S
   - M
 material: "a gem, crystal, or reliquary worth 500+ gp"
-duration: "Until Dispelled
-cast_time: "1 Minute
+duration: "Until Dispelled"
+cast_time: "1 Minute"
 description: |
   Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or take Reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a Humanoid's body.   
 

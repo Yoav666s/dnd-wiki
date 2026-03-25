@@ -1,5 +1,5 @@
 ---
-title: "Hallucinatory Terrain
+title: "Hallucinatory Terrain"
 index: 
   - hallucinatory-terrain-2024
 permalink: /spells/hallucinatory-terrain-2024/
@@ -16,8 +16,8 @@ comp:
   - S
   - M
 material: "a mushroom"
-duration: "24 Hours
-cast_time: "10 Minutes
+duration: "24 Hours"
+cast_time: "10 Minutes"
 description: |
   You make natural terrain in a 150-foot Cube in range look, sound, and smell like another sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock- strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren't changed.   
 

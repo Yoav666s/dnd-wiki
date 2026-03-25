@@ -1,5 +1,5 @@
 ---
-title: "Guidance
+title: "Guidance"
 index: 
   - guidance-2024
 permalink: /spells/guidance-2024/
@@ -12,9 +12,9 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
 excerpt: "You touch a willing creature and choose a skill."

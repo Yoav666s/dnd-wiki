@@ -1,5 +1,5 @@
 ---
-title: "Wall of Ice
+title: "Wall of Ice"
 index: 
   - wall-of-ice-2024
 permalink: /spells/wall-of-ice-2024/
@@ -13,9 +13,9 @@ comp:
   - S
   - M
 material: "a piece of quartz"
-duration: "10 Minutes
+duration: "10 Minutes"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot- square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for the duration.   
 

@@ -1,5 +1,5 @@
 ---
-title: "Clairvoyance
+title: "Clairvoyance"
 index: 
   - clairvoyance-2024
 permalink: /spells/clairvoyance-2024/
@@ -16,9 +16,9 @@ comp:
   - S
   - M
 material: "a focus worth 100+ gp, either a jeweled horn for hearing or a glass eye for seeing"
-duration: "10 Minutes
+duration: "10 Minutes"
 concentration: true
-cast_time: "10 Minutes
+cast_time: "10 Minutes"
 description: |
   You create an Invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The intangible, invulnerable sensor remains in place for the duration.   
 

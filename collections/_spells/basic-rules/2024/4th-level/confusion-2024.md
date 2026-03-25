@@ -1,5 +1,5 @@
 ---
-title: "Confusion
+title: "Confusion"
 index: 
   - confusion-2024
 permalink: /spells/confusion-2024/
@@ -16,9 +16,9 @@ comp:
   - S
   - M
 material: "three nut shells"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll 1d10 at the start of each of its turns to determine its behavior for that turn, consulting the table below.   
 

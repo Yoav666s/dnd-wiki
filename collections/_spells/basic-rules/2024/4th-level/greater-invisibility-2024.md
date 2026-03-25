@@ -1,5 +1,5 @@
 ---
-title: "Greater Invisibility
+title: "Greater Invisibility"
 index: 
   - greater-invisibility-2024
 permalink: /spells/greater-invisibility-2024/
@@ -13,9 +13,9 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   A creature you touch has the Invisible condition until the spell ends.
 excerpt: "A creature you touch has the Invisible condition until the spell ends."

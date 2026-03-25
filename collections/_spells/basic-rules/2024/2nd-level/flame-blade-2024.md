@@ -1,5 +1,5 @@
 ---
-title: "Flame Blade
+title: "Flame Blade"
 index: 
   - flame-blade-2024
 permalink: /spells/flame-blade-2024/
@@ -13,9 +13,9 @@ comp:
   - S
   - M
 material: "a sumac leaf"
-duration: "10 Minutes
+duration: "10 Minutes"
 concentration: true
-cast_time: "Bonus Action
+cast_time: "Bonus Action"
 description: |
   You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a Bonus Action.   
 

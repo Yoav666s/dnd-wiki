@@ -1,5 +1,5 @@
 ---
-title: "Spiritual Weapon
+title: "Spiritual Weapon"
 index: 
   - spiritual-weapon-2024
 permalink: /spells/spiritual-weapon-2024/
@@ -11,9 +11,9 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Bonus Action
+cast_time: "Bonus Action"
 description: |
   You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration.   
 

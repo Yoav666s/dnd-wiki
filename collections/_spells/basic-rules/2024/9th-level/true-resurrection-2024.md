@@ -1,5 +1,5 @@
 ---
-title: "True Resurrection
+title: "True Resurrection"
 index: 
   - true-resurrection-2024
 permalink: /spells/true-resurrection-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "diamonds worth 25,000+ gp, which the spell consumes"
-duration: "Instantaneous
-cast_time: "1 Hour
+duration: "Instantaneous"
+cast_time: "1 Hour"
 description: |
   You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. The creature is revived with all its Hit Points.   
 

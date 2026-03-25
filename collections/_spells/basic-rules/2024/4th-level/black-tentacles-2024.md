@@ -1,5 +1,5 @@
 ---
-title: "Black Tentacles
+title: "Black Tentacles"
 index: 
   - black-tentacles-2024
 permalink: /spells/black-tentacles-2024/
@@ -13,9 +13,9 @@ comp:
   - S
   - M
 material: "a tentacle"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in that area into Difficult Terrain.   
 

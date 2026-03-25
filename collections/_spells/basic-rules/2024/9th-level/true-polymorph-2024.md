@@ -1,5 +1,5 @@
 ---
-title: "True Polymorph
+title: "True Polymorph"
 index: 
   - true-polymorph-2024
 permalink: /spells/true-polymorph-2024/
@@ -15,9 +15,9 @@ comp:
   - S
   - M
 material: "a drop of mercury, a dollop of gum arabic, and a wisp of smoke"
-duration: "1 Hour
+duration: "1 Hour"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   Choose one creature or nonmagical object that you can see within range. The creature shape-shifts into a different creature or a nonmagical object, or the object shape-shifts into a creature (the object must be neither worn nor carried). The transformation lasts for the duration or until the target dies or is destroyed, but if you maintain Concentration on this spell for the full duration, the spell lasts until dispelled.   
 

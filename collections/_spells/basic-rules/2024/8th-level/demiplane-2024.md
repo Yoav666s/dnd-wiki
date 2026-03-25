@@ -1,5 +1,5 @@
 ---
-title: "Demiplane
+title: "Demiplane"
 index: 
   - demiplane-2024
 permalink: /spells/demiplane-2024/
@@ -12,8 +12,8 @@ school: "Conjuration"
 range: "60 ft"
 comp:
   - S
-duration: "1 Hour
-cast_time: "Action
+duration: "1 Hour"
+cast_time: "Action"
 description: |
   You create a shadowy Medium door on a flat solid surface that you can see within range. This door can be opened and closed, and it leads to a demiplane that is an empty room 30 feet in each dimension, made of wood or stone (your choice).   
 

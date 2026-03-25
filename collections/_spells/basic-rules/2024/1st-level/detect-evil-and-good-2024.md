@@ -1,5 +1,5 @@
 ---
-title: "Detect Evil and Good
+title: "Detect Evil and Good"
 index: 
   - detect-evil-and-good-2024
 permalink: /spells/detect-evil-and-good-2024/
@@ -11,9 +11,9 @@ school: "Divination"
 comp:
   - V
   - S
-duration: "10 Minutes
+duration: "10 Minutes"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the Hallow spell is active there and, if so, where.   
 

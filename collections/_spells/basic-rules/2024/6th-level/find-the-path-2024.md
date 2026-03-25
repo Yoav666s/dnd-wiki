@@ -1,5 +1,5 @@
 ---
-title: "Find the Path
+title: "Find the Path"
 index: 
   - find-the-path-2024
 permalink: /spells/find-the-path-2024/
@@ -14,9 +14,9 @@ comp:
   - S
   - M
 material: "a set of divination tools-such as cards or runes-worth 100+ gp"
-duration: "1 Day
+duration: "1 Day"
 concentration: true
-cast_time: "1 Minute
+cast_time: "1 Minute"
 description: |
   You magically sense the most direct physical route to a location you name. You must be familiar with the location, and the spell fails if you name a destination on another plane of existence, a moving destination (such as a mobile fortress), or an unspecific destination (such as “a green dragon's lair”).   
 

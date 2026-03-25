@@ -1,5 +1,5 @@
 ---
-title: "Stoneskin
+title: "Stoneskin"
 index: 
   - stoneskin-2024
 permalink: /spells/stoneskin-2024/
@@ -16,9 +16,9 @@ comp:
   - S
   - M
 material: "diamond dust worth 100+ gp, which the spell consumes"
-duration: "1 Hour
+duration: "1 Hour"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.
 excerpt: "Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage."

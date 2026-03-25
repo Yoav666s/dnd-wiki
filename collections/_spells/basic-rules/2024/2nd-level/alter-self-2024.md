@@ -1,5 +1,5 @@
 ---
-title: "Alter Self
+title: "Alter Self"
 index: 
   - alter-self-2024
 permalink: /spells/alter-self-2024/
@@ -11,9 +11,9 @@ school: "Transmutation"
 comp:
   - V
   - S
-duration: "1 Hour
+duration: "1 Hour"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a Magic action to replace the option you chose with a different one.   
 

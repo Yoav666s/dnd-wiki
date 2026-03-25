@@ -1,5 +1,5 @@
 ---
-title: "Protection from Energy
+title: "Protection from Energy"
 index: 
   - protection-from-energy-2024
 permalink: /spells/protection-from-energy-2024/
@@ -15,9 +15,9 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "1 Hour
+duration: "1 Hour"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   For the duration, the willing creature you touch has Resistance to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
 excerpt: "For the duration, the willing creature you touch has Resistance to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder."

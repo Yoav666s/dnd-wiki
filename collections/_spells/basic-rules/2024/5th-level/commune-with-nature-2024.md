@@ -1,5 +1,5 @@
 ---
-title: "Commune with Nature
+title: "Commune with Nature"
 index: 
   - commune-with-nature-2024
 permalink: /spells/commune-with-nature-2024/
@@ -11,8 +11,8 @@ school: "Divination"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "1 Minute
+duration: "Instantaneous"
+cast_time: "1 Minute"
 ritual: true
 description: |
   You commune with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in castles and settlements.   

@@ -1,5 +1,5 @@
 ---
-title: "Hunter's Mark
+title: "Hunter's Mark"
 index: 
   - hunters-mark-2024
 permalink: /spells/hunters-mark-2024/
@@ -10,9 +10,9 @@ school: "Divination"
 range: "90 ft"
 comp:
   - V
-duration: "1 Hour
+duration: "1 Hour"
 concentration: true
-cast_time: "Bonus Action
+cast_time: "Bonus Action"
 description: |
   You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it.   
 

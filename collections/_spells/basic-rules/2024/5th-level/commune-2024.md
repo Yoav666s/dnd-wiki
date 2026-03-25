@@ -1,5 +1,5 @@
 ---
-title: "Commune
+title: "Commune"
 index: 
   - commune-2024
 permalink: /spells/commune-2024/
@@ -12,8 +12,8 @@ comp:
   - S
   - M
 material: "incense"
-duration: "1 Minute
-cast_time: "1 Minute
+duration: "1 Minute"
+cast_time: "1 Minute"
 ritual: true
 description: |
   You contact a deity or a divine proxy and ask up to three questions that can be answered with yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.   

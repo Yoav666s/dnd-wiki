@@ -1,5 +1,5 @@
 ---
-title: "Elementalism
+title: "Elementalism"
 index: 
   - elementalism-2024
 permalink: /spells/elementalism-2024/
@@ -13,8 +13,8 @@ range: "30 ft"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You exert control over the elements, creating one of the following effects within range:   
 

@@ -1,5 +1,5 @@
 ---
-title: "Foresight
+title: "Foresight"
 index: 
   - foresight-2024
 permalink: /spells/foresight-2024/
@@ -16,8 +16,8 @@ comp:
   - S
   - M
 material: "a hummingbird feather"
-duration: "8 Hours
-cast_time: "1 Minute
+duration: "8 Hours"
+cast_time: "1 Minute"
 description: |
   You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has Advantage on D20 Tests, and other creatures have Disadvantage on attack rolls against it. The spell ends early if you cast it again.
 excerpt: "You touch a willing creature and bestow a limited ability to see into the immediate future."

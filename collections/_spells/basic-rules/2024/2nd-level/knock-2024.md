@@ -1,5 +1,5 @@
 ---
-title: "Knock
+title: "Knock"
 index: 
   - knock-2024
 permalink: /spells/knock-2024/
@@ -12,8 +12,8 @@ school: "Transmutation"
 range: "60 ft"
 comp:
   - V
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access. A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.   
 

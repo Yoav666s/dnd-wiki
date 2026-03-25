@@ -1,5 +1,5 @@
 ---
-title: "Cure Wounds
+title: "Cure Wounds"
 index: 
   - cure-wounds-2024
 permalink: /spells/cure-wounds-2024/
@@ -15,8 +15,8 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
 excerpt: "A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier."

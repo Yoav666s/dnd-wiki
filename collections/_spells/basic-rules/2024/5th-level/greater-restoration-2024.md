@@ -1,5 +1,5 @@
 ---
-title: "Greater Restoration
+title: "Greater Restoration"
 index: 
   - greater-restoration-2024
 permalink: /spells/greater-restoration-2024/
@@ -17,8 +17,8 @@ comp:
   - S
   - M
 material: "diamond dust worth 100+ gp, which the spell consumes"
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You touch a creature and magically remove one of the following effects from it:   
 

@@ -1,5 +1,5 @@
 ---
-title: "Animate Dead
+title: "Animate Dead"
 index: 
   - animate-dead-2024
 permalink: /spells/animate-dead-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "a drop of blood, a piece of flesh, and a pinch of bone dust"
-duration: "Instantaneous
-cast_time: "1 Minute
+duration: "Instantaneous"
+cast_time: "1 Minute"
 description: |
   Choose a pile of bones or a corpse of a Medium or Small Humanoid within range. The target becomes an Undead creature: a Skeleton if you chose bones or a Zombie if you chose a corpse. On each of your turns, you can take a Bonus Action to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move on its next turn, or you can issue a general command, such as to guard a chamber or corridor. If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. Once given an order, the creature continues to follow it until its task is complete.   
 

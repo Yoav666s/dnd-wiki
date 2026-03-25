@@ -1,5 +1,5 @@
 ---
-title: "Remove Curse
+title: "Remove Curse"
 index: 
   - remove-curse-2024
 permalink: /spells/remove-curse-2024/
@@ -14,8 +14,8 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's Attunement to the object so it can be removed or discarded.
 excerpt: "At your touch, all curses affecting one creature or object end."

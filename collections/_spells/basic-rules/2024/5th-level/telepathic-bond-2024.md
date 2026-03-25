@@ -1,5 +1,5 @@
 ---
-title: "Telepathic Bond
+title: "Telepathic Bond"
 index: 
   - telepathic-bond-2024
 permalink: /spells/telepathic-bond-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "two eggs"
-duration: "1 Hour
-cast_time: "Action
+duration: "1 Hour"
+cast_time: "Action"
 ritual: true
 description: |
   You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures that can’t communicate in any languages aren’t affected by this spell.  

@@ -1,5 +1,5 @@
 ---
-title: "Meteor Swarm
+title: "Meteor Swarm"
 index: 
   - meteor-swarm-2024
 permalink: /spells/meteor-swarm-2024/
@@ -12,8 +12,8 @@ range: "1 mile"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius Sphere centered on each of those points makes a Dexterity saving throw. A creature takes 20d6 Fire damage and 20d6 Bludgeoning damage on a failed save or half as much damage on a successful one. A creature in the area of more than one fiery Sphere is affected only once.   
 

@@ -1,5 +1,5 @@
 ---
-title: "Magnificent Mansion
+title: "Magnificent Mansion"
 index: 
   - magnificent-mansion-2024
 permalink: /spells/magnificent-mansion-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "a miniature door worth 15+ gp"
-duration: "24 Hours
-cast_time: "1 Minute
+duration: "24 Hours"
+cast_time: "1 Minute"
 description: |
   You conjure a shimmering door in range that lasts for the duration. The door leads to an extradimensional dwelling and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the door remains open. You can open or close it (no action required) if you are within 30 feet of it. While closed, the door is imperceptible.  
 

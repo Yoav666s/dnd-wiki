@@ -1,5 +1,5 @@
 ---
-title: "Bestow Curse
+title: "Bestow Curse"
 index: 
   - bestow-curse-2024
 permalink: /spells/bestow-curse-2024/
@@ -13,9 +13,9 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice:   
 

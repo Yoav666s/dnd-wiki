@@ -1,5 +1,5 @@
 ---
-title: "Divine Word
+title: "Divine Word"
 index: 
   - divine-word-2024
 permalink: /spells/divine-word-2024/
@@ -10,8 +10,8 @@ school: "Evocation"
 range: "30 ft"
 comp:
   - V
-duration: "Instantaneous
-cast_time: "Bonus Action
+duration: "Instantaneous"
+cast_time: "Bonus Action"
 description: |
   You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the Divine Word Effects table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a Wish spell.   
 

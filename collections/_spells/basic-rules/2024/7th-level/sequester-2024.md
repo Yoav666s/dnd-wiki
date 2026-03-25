@@ -1,5 +1,5 @@
 ---
-title: "Sequester
+title: "Sequester"
 index: 
   - sequester-2024
 permalink: /spells/sequester-2024/
@@ -13,8 +13,8 @@ comp:
   - S
   - M
 material: "gem dust worth 5,000+ gp, which the spell consumes"
-duration: "Until Dispelled
-cast_time: "Action
+duration: "Until Dispelled"
+cast_time: "Action"
 description: |
   With a touch, you magically sequester an object or a willing creature. For the duration, the target has the Invisible condition and can't be targeted by Divination spells, detected by magic, or viewed remotely with magic.   
 

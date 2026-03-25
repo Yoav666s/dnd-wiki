@@ -1,5 +1,5 @@
 ---
-title: "Flaming Sphere
+title: "Flaming Sphere"
 index: 
   - flaming-sphere-2024
 permalink: /spells/flaming-sphere-2024/
@@ -15,9 +15,9 @@ comp:
   - S
   - M
 material: "a ball of wax"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You create a 5-foot-diameter sphere of fire in an unoccupied space on the ground within range. It lasts for the duration. Any creature that ends its turn within 5 feet of the sphere makes a Dexterity saving throw, taking 2d6 Fire damage on a failed save or half as much damage on a successful one.   
 

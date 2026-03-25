@@ -1,5 +1,5 @@
 ---
-title: "Locate Creature
+title: "Locate Creature"
 index: 
   - locate-creature-2024
 permalink: /spells/locate-creature-2024/
@@ -17,9 +17,9 @@ comp:
   - S
   - M
 material: "fur from a bloodhound"
-duration: "1 Hour
+duration: "1 Hour"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   Describe or name a creature that is familiar to you. You sense the direction to the creature's location if that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.   
 

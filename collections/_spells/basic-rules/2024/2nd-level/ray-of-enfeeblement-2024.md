@@ -1,5 +1,5 @@
 ---
-title: "Ray of Enfeeblement
+title: "Ray of Enfeeblement"
 index: 
   - ray-of-enfeeblement-2024
 permalink: /spells/ray-of-enfeeblement-2024/
@@ -12,9 +12,9 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has Disadvantage on the next attack roll it makes until the start of your next turn.   
 

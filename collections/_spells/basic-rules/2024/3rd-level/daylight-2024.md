@@ -1,5 +1,5 @@
 ---
-title: "Daylight
+title: "Daylight"
 index: 
   - daylight-2024
 permalink: /spells/daylight-2024/
@@ -15,8 +15,8 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "1 Hour
-cast_time: "Action
+duration: "1 Hour"
+cast_time: "Action"
 description: |
   For the duration, sunlight spreads from a point within range and fills a 60-foot-radius Sphere. The sunlight's area is Bright Light and sheds Dim Light for an additional 60 feet.   
 

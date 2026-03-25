@@ -1,5 +1,5 @@
 ---
-title: "Dream
+title: "Dream"
 index: 
   - dream-2024
 permalink: /spells/dream-2024/
@@ -15,8 +15,8 @@ comp:
   - S
   - M
 material: "a handful of sand"
-duration: "8 Hours
-cast_time: "1 Minute
+duration: "8 Hours"
+cast_time: "1 Minute"
 description: |
   You target a creature you know on the same plane of existence. You or a willing creature you touch enters a trance state to act as a dream messenger. While in the trance, the messenger is Incapacitated and has a Speed of 0.   
 

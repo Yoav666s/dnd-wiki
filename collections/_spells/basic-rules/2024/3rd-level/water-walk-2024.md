@@ -1,5 +1,5 @@
 ---
-title: "Water Walk
+title: "Water Walk"
 index: 
   - water-walk-2024
 permalink: /spells/water-walk-2024/
@@ -16,8 +16,8 @@ comp:
   - S
   - M
 material: "a piece of cork"
-duration: "1 Hour
-cast_time: "Action
+duration: "1 Hour"
+cast_time: "Action"
 ritual: true
 description: |
   This spell grants the ability to move across any liquid surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures of your choice within range gain this ability for the duration.   

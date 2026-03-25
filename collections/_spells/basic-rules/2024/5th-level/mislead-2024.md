@@ -1,5 +1,5 @@
 ---
-title: "Mislead
+title: "Mislead"
 index: 
   - mislead-2024
 permalink: /spells/mislead-2024/
@@ -11,9 +11,9 @@ level: "5th Level"
 school: "Illusion"
 comp:
   - S
-duration: "1 Hour
+duration: "1 Hour"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You gain the Invisible condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.   
 

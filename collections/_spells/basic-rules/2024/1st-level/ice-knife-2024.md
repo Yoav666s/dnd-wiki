@@ -1,5 +1,5 @@
 ---
-title: "Ice Knife
+title: "Ice Knife"
 index: 
   - ice-knife-2024
 permalink: /spells/ice-knife-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "a drop of water or a piece of ice"
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 Cold damage.
 excerpt: "You create a shard of ice and fling it at one creature within range."

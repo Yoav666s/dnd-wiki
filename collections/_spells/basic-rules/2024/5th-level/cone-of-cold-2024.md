@@ -1,5 +1,5 @@
 ---
-title: "Cone of Cold
+title: "Cone of Cold"
 index: 
   - cone-of-cold-2024
 permalink: /spells/cone-of-cold-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "a small crystal or glass cone"
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You unleash a blast of cold air. Each creature in a 60-foot Cone originating from you makes a Constitution saving throw, taking 8d8 Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
 excerpt: "You unleash a blast of cold air."

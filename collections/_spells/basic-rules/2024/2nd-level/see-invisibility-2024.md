@@ -1,5 +1,5 @@
 ---
-title: "See Invisibility
+title: "See Invisibility"
 index: 
   - see-invisibility-2024
 permalink: /spells/see-invisibility-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "a pinch of talc"
-duration: "1 Hour
-cast_time: "Action
+duration: "1 Hour"
+cast_time: "Action"
 description: |
   For the duration, you see creatures and objects that have the Invisible condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.
 excerpt: "For the duration, you see creatures and objects that have the Invisible condition as if they were visible, and you can see into the Ethereal Plane."

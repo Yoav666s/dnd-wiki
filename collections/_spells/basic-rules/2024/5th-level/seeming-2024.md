@@ -1,5 +1,5 @@
 ---
-title: "Seeming
+title: "Seeming"
 index: 
   - seeming-2024
 permalink: /spells/seeming-2024/
@@ -13,8 +13,8 @@ range: "30 ft"
 comp:
   - V
   - S
-duration: "8 Hours
-cast_time: "Action
+duration: "8 Hours"
+cast_time: "Action"
 description: |
   You give an illusory appearance to each creature of your choice that you can see within range. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.   
 

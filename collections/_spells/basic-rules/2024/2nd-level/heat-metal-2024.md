@@ -1,5 +1,5 @@
 ---
-title: "Heat Metal
+title: "Heat Metal"
 index: 
   - heat-metal-2024
 permalink: /spells/heat-metal-2024/
@@ -14,9 +14,9 @@ comp:
   - S
   - M
 material: "a piece of iron and a flame"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   Choose a manufactured metal object, such as a metal weapon or a suit of Heavy or Medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 Fire damage when you cast the spell. Until the spell ends, you can take a Bonus Action on each of your later turns to deal this damage again if the object is within range.   
 

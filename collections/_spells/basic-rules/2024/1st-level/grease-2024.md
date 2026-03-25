@@ -1,5 +1,5 @@
 ---
-title: "Grease
+title: "Grease"
 index: 
   - grease-2024
 permalink: /spells/grease-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "a bit of pork rind or butter"
-duration: "1 Minute
-cast_time: "Action
+duration: "1 Minute"
+cast_time: "Action"
 description: |
   Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.   
 

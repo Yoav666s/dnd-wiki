@@ -1,5 +1,5 @@
 ---
-title: "Befuddlement
+title: "Befuddlement"
 index: 
   - befuddlement-2024
 permalink: /spells/befuddlement-2024/
@@ -16,8 +16,8 @@ comp:
   - S
   - M
 material: "a key ring with no keys"
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.  
 

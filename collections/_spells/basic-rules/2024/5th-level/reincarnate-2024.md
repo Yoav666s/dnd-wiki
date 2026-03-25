@@ -1,5 +1,5 @@
 ---
-title: "Reincarnate
+title: "Reincarnate"
 index: 
   - reincarnate-2024
 permalink: /spells/reincarnate-2024/
@@ -13,8 +13,8 @@ comp:
   - S
   - M
 material: "rare oils worth 1,000+ gp, which the spell consumes"
-duration: "Instantaneous
-cast_time: "1 Hour
+duration: "Instantaneous"
+cast_time: "1 Hour"
 description: |
   You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table below to determine the body’s species, or the DM chooses another playable species.   
 

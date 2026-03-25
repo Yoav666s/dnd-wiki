@@ -1,5 +1,5 @@
 ---
-title: "Passwall
+title: "Passwall"
 index: 
   - passwall-2024
 permalink: /spells/passwall-2024/
@@ -13,8 +13,8 @@ comp:
   - S
   - M
 material: "a pinch of sesame seads"
-duration: "1 Hour
-cast_time: "Action
+duration: "1 Hour"
+cast_time: "Action"
 description: |
   A passage appears at a point that you can see on a wooden, plaster, or stone surface (such as a wall, ceiling, or floor) within range and lasts for the duration. You choose the opening's dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.   
 

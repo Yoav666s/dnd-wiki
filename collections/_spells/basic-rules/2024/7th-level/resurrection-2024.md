@@ -1,5 +1,5 @@
 ---
-title: "Resurrection
+title: "Resurrection"
 index: 
   - resurrection-2024
 permalink: /spells/resurrection-2024/
@@ -14,8 +14,8 @@ comp:
   - S
   - M
 material: "a diamond worth 1,000+ gp, which the spell consumes"
-duration: "Instantaneous
-cast_time: "1 Hour
+duration: "Instantaneous"
+cast_time: "1 Hour"
 description: |
   With a touch, you revive a dead creature that has been dead for no more than a century, didn't die of old age, and wasn't Undead when it died.   
 

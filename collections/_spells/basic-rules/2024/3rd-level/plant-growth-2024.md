@@ -1,5 +1,5 @@
 ---
-title: "Plant Growth
+title: "Plant Growth"
 index: 
   - plant-growth-2024
 permalink: /spells/plant-growth-2024/
@@ -13,8 +13,8 @@ range: "150 ft"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action (Overgrowth) Or 8 Hours (Enrichment)
+duration: "Instantaneous"
+cast_time: "Action (Overgrowth) Or 8 Hours (Enrichment)"
 description: |
   This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below.   
 

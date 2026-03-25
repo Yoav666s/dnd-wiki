@@ -1,5 +1,5 @@
 ---
-title: "Polymorph
+title: "Polymorph"
 index: 
   - polymorph-2024
 permalink: /spells/polymorph-2024/
@@ -16,9 +16,9 @@ comp:
   - S
   - M
 material: "a caterpillar cocoon"
-duration: "1 Hour
+duration: "1 Hour"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You attempt to transform a creature that you can see within range into a Beast. The target must succeed on a Wisdom saving throw or shape-shift into Beast form for the duration. That form can be any Beast you choose that has a Challenge Rating equal to or less than the target's (or the target's level if it doesn't have a Challenge Rating). The target's game statistics are replaced by the stat block of the chosen Beast, but the target retains its alignment, personality, creature type, Hit Points, and Hit Point Dice.   
 

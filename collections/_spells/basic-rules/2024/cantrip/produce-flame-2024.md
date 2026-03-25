@@ -1,5 +1,5 @@
 ---
-title: "Produce Flame
+title: "Produce Flame"
 index: 
   - produce-flame-2024
 permalink: /spells/produce-flame-2024/
@@ -10,8 +10,8 @@ school: "Conjuration"
 comp:
   - V
   - S
-duration: "10 Minutes
-cast_time: "Bonus Action
+duration: "10 Minutes"
+cast_time: "Bonus Action"
 description: |
   A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The spell ends if you cast it again.   
 

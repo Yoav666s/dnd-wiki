@@ -1,5 +1,5 @@
 ---
-title: "Lesser Restoration
+title: "Lesser Restoration"
 index: 
   - lesser-restoration-2024
 permalink: /spells/lesser-restoration-2024/
@@ -15,8 +15,8 @@ range: "Touch"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Bonus Action
+duration: "Instantaneous"
+cast_time: "Bonus Action"
 description: |
   You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned.
 excerpt: "You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned."

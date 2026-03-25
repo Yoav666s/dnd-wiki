@@ -1,5 +1,5 @@
 ---
-title: "Enlarge/Reduce
+title: "Enlarge/Reduce"
 index: 
   - enlarge/reduce-2024
 permalink: /spells/enlarge/reduce-2024/
@@ -16,9 +16,9 @@ comp:
   - S
   - M
 material: "a pinch of powdered iron"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   For the duration, the spell enlarges or reduces a creature or an object you can see within range (see the chosen effect below). A targeted object must be neither worn nor carried. If the target is an unwilling creature, it can make a Constitution saving throw. On a successful save, the spell has no effect.   
 

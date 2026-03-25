@@ -1,5 +1,5 @@
 ---
-title: "Tiny Hut
+title: "Tiny Hut"
 index: 
   - tiny-hut-2024
 permalink: /spells/tiny-hut-2024/
@@ -13,8 +13,8 @@ comp:
   - S
   - M
 material: "a crystal bead"
-duration: "8 Hours
-cast_time: "1 Minute
+duration: "8 Hours"
+cast_time: "1 Minute"
 ritual: true
 description: |
   A 10-foot Emanation springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the Emanation isn't big enough to fully encapsulate all creatures in its area.   

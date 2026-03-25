@@ -1,5 +1,5 @@
 ---
-title: "Shapechange
+title: "Shapechange"
 index: 
   - shapechange-2024
 permalink: /spells/shapechange-2024/
@@ -13,9 +13,9 @@ comp:
   - S
   - M
 material: "a jade circlet worth 1,500+ gp"
-duration: "1 Hour
+duration: "1 Hour"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You shape-shift into another creature for the duration or until you take a Magic action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can't be a Construct or an Undead. When you shape-shift, you gain a number of Temporary Hit Points equal to the Hit Points of the form. The spell ends early if you have no Temporary Hit Points left.   
 

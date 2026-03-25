@@ -1,5 +1,5 @@
 ---
-title: "Instant Summons
+title: "Instant Summons"
 index: 
   - instant-summons-2024
 permalink: /spells/instant-summons-2024/
@@ -13,8 +13,8 @@ comp:
   - S
   - M
 material: "a sapphire worth 1,000+ gp"
-duration: "Until Dispelled
-cast_time: "1 Minute
+duration: "Until Dispelled"
+cast_time: "1 Minute"
 ritual: true
 description: |
   You touch the sapphire used in the casting and an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an Invisible mark on that object and invisibly inscribes the object’s name on the sapphire. Each time you cast this spell, you must use a different sapphire.  

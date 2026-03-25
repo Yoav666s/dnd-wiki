@@ -1,5 +1,5 @@
 ---
-title: "Planar Ally
+title: "Planar Ally"
 index: 
   - planar-ally-2024
 permalink: /spells/planar-ally-2024/
@@ -11,8 +11,8 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "10 Minutes
+duration: "Instantaneous"
+cast_time: "10 Minutes"
 description: |
   You beseech an otherworldly entity for aid. The being must be known to you: a god, a demon prince, or some other being of cosmic power. That entity sends a Celestial, an Elemental, or a Fiend loyal to it to aid you, making the creature appear in an unoccupied space within range. If you know a specific creature's name, you can speak that name when you cast this spell to request that creature, though you might get a different creature anyway (DM's choice).  
 

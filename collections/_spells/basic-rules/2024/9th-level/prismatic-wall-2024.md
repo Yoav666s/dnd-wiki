@@ -1,5 +1,5 @@
 ---
-title: "Prismatic Wall
+title: "Prismatic Wall"
 index: 
   - prismatic-wall-2024
 permalink: /spells/prismatic-wall-2024/
@@ -12,8 +12,8 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "10 Minutes
-cast_time: "Action
+duration: "10 Minutes"
+cast_time: "Action"
 description: |
   A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point within range. Alternatively, you shape the wall into a globe up to 30 feet in diameter centered on a point within range. The wall lasts for the duration. If you position the wall in a space occupied by a creature, the spell ends instantly without effect. The wall sheds Bright Light within 100 feet and Dim Light for an additional 100 feet. You and creatures you designate when you cast the spell can pass through and be near the wall without harm. If another creature that can see the wall moves within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or have the Blinded condition for 1 minute.   
 

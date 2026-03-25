@@ -1,5 +1,5 @@
 ---
-title: "Clone
+title: "Clone"
 index: 
   - clone-2024
 permalink: /spells/clone-2024/
@@ -13,8 +13,8 @@ comp:
   - S
   - M
 material: "a diamond worth 1,000+ gp, which the spell consumes, and a vessel worth 2,000+ gp that is large enough to hold the creature being cloned"
-duration: "Instantaneous
-cast_time: "1 Hour
+duration: "Instantaneous"
+cast_time: "1 Hour"
 description: |
   You touch a creature or at least 1 cubic inch of its flesh. An inert duplicate of that creature forms inside the vessel used in the spell's casting and finishes growing after 120 days; you choose whether the finished clone is the same age as the creature or younger. The clone remains inert and endures indefinitely while its vessel remains undisturbed.   
 

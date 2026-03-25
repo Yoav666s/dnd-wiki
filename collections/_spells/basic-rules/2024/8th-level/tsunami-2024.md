@@ -1,5 +1,5 @@
 ---
-title: "Tsunami
+title: "Tsunami"
 index: 
   - tsunami-2024
 permalink: /spells/tsunami-2024/
@@ -11,9 +11,9 @@ range: "1 mile"
 comp:
   - V
   - S
-duration: "6 Rounds
+duration: "6 Rounds"
 concentration: true
-cast_time: "1 Minute
+cast_time: "1 Minute"
 description: |
   A wall of water springs into existence at a point you choose within range. You can make the wall up to 300 feet long, 300 feet high, and 50 feet thick. The wall lasts for the duration. When the wall appears, each creature in its area makes a Strength saving throw, taking 6d10 Bludgeoning damage on a failed save or half as much damage on a successful one.   
 

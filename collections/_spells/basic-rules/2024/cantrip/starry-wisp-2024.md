@@ -1,5 +1,5 @@
 ---
-title: "Starry Wisp
+title: "Starry Wisp"
 index: 
   - starry-wisp-2024
 permalink: /spells/starry-wisp-2024/
@@ -12,8 +12,8 @@ range: "60 ft"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Radiant damage, and until the end of your next turn, it emits Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
 excerpt: "You launch a mote of light at one creature or object within range."

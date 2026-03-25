@@ -1,5 +1,5 @@
 ---
-title: "Forbiddance
+title: "Forbiddance"
 index: 
   - forbiddance-2024
 permalink: /spells/forbiddance-2024/
@@ -13,8 +13,8 @@ comp:
   - S
   - M
 material: "ruby dust worth 1,000+ gp"
-duration: "1 Day
-cast_time: "10 Minutes
+duration: "1 Day"
+cast_time: "10 Minutes"
 ritual: true
 description: |
   You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the Gate spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the Plane Shift spell.  

@@ -1,5 +1,5 @@
 ---
-title: "Detect Thoughts
+title: "Detect Thoughts"
 index: 
   - detect-thoughts-2024
 permalink: /spells/detect-thoughts-2024/
@@ -14,9 +14,9 @@ comp:
   - S
   - M
 material: "a copper piece"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   You activate one of the effects below. Until the spell ends, you can activate either effect as a Magic action on your later turns.   
 

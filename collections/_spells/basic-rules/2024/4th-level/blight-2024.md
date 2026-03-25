@@ -1,5 +1,5 @@
 ---
-title: "Blight
+title: "Blight"
 index: 
   - blight-2024
 permalink: /spells/blight-2024/
@@ -14,8 +14,8 @@ range: "30 ft"
 comp:
   - V
   - S
-duration: "Instantaneous
-cast_time: "Action
+duration: "Instantaneous"
+cast_time: "Action"
 description: |
   A creature that you can see within range makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one. A Plant creature automatically fails the save.   
 

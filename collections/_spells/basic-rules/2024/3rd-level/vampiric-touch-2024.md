@@ -1,5 +1,5 @@
 ---
-title: "Vampiric Touch
+title: "Vampiric Touch"
 index: 
   - vampiric-touch-2024
 permalink: /spells/vampiric-touch-2024/
@@ -12,9 +12,9 @@ school: "Necromancy"
 comp:
   - V
   - S
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against one creature within reach. On a hit, the target takes 3d6 Necrotic damage, and you regain Hit Points equal to half the amount of Necrotic damage dealt.   
 

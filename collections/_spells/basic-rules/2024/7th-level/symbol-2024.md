@@ -1,5 +1,5 @@
 ---
-title: "Symbol
+title: "Symbol"
 index: 
   - symbol-2024
 permalink: /spells/symbol-2024/
@@ -16,8 +16,8 @@ comp:
   - S
   - M
 material: "powdered diamond worth 1,000+ gp, which the spell consumes"
-duration: "Until Dispelled Or Triggered
-cast_time: "1 Minute
+duration: "Until Dispelled Or Triggered"
+cast_time: "1 Minute"
 description: |
   You inscribe a harmful glyph either on a surface (such as a section of floor or wall) or within an object that can be closed (such as a book or chest). The glyph can cover an area no larger than 10 feet in diameter. If you choose an object, it must remain in place; if it is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered. The glyph is nearly imperceptible and requires a successful Wisdom (Perception) check against your spell save DC to notice. When you inscribe the glyph, you set its trigger and choose which effect the symbol bears: Death, Discord, Fear, Pain, Sleep, or Stunning. Each one is explained below.   
 

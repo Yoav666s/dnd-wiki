@@ -1,5 +1,5 @@
 ---
-title: "Wind Wall
+title: "Wind Wall"
 index: 
   - wind-wall-2024
 permalink: /spells/wind-wall-2024/
@@ -14,9 +14,9 @@ comp:
   - S
   - M
 material: "a fan and a feather"
-duration: "1 Minute
+duration: "1 Minute"
 concentration: true
-cast_time: "Action
+cast_time: "Action"
 description: |
   A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.   
 
