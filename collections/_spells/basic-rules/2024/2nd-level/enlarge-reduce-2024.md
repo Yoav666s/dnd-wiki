@@ -1,8 +1,8 @@
 ---
 title: "Enlarge/Reduce"
 index: 
-  - enlarge/reduce-2024
-permalink: /spells/enlarge/reduce-2024/
+  - enlarge-reduce-2024
+permalink: /spells/enlarge-reduce-2024/
 available_for:
   - Bard
   - Druid
@@ -29,6 +29,6 @@ description: |
   **Reduce.** The target's size decreases by one category--from Medium to Small, for example. The target also has Disadvantage on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1).
 excerpt: "For the duration, the spell enlarges or reduces a creature or an object you can see within range (see the chosen effect below)."
 v_2024: true
-alt_version: "enlarge/reduce"
+alt_version: "enlarge-reduce"
 source: "Basic Rules"
 ---

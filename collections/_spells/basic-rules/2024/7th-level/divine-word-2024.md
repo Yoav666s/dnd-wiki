@@ -18,10 +18,10 @@ description: |
   | Hit Points | Effect                                             |
   | :--------- | :----------------------------------------------------------------------- |
   |        |                                                  |
-  | 0–20     | The target dies.                                      |
-  | 21–30    | The target has the Blinded, Deafened, and Stunned conditions for 1 hour. |
-  | 31–40    | The target has the Blinded and Deafened conditions for 10 minutes.     |
-  | 41–50    | The target has the Deafened condition for 1 minute                |.
+  | 0-20     | The target dies.                                      |
+  | 21-30    | The target has the Blinded, Deafened, and Stunned conditions for 1 hour. |
+  | 31-40    | The target has the Blinded and Deafened conditions for 10 minutes.     |
+  | 41-50    | The target has the Deafened condition for 1 minute                |.
 excerpt: "You utter a word imbued with power from the Upper Planes."
 v_2024: true
 alt_version: "divine-word"

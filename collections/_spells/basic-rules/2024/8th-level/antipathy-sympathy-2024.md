@@ -1,8 +1,8 @@
 ---
 title: "Antipathy/Sympathy"
 index: 
-  - antipathy/sympathy-2024
-permalink: /spells/antipathy/sympathy-2024/
+  - antipathy-sympathy-2024
+permalink: /spells/antipathy-sympathy-2024/
 available_for:
   - 
 level: "8th Level"
@@ -25,6 +25,6 @@ description: |
   **Ending the Effect.** If the Frightened or Charmed creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again.
 excerpt: "As you cast the spell, choose whether it creates antipathy or sympathy, and target one creature or object that is Huge or smaller."
 v_2024: true
-alt_version: "antipathy/sympathy"
+alt_version: "antipathy-sympathy"
 source: "Basic Rules"
 ---
