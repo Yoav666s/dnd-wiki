@@ -23,15 +23,15 @@ description: |
   You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn’t know what it is making the save against, only that it feels uneasy. 
 
   | Your Knowledge of the Target Is... | Save Modifier |
-| ---------------------------------- | ------------- |
-| Secondhand (heard of the target)  | +5        |
-| Firsthand (met the target)      | +0        |
-| Extensive (know the target well)  | -5        |
-| You Have the Target’s...           | Save Modifier |
-| --------------------------------------- | ------------- |
-| Picture or other likeness          | -2        |
-| Garment or other possession         | -4        |
-| Body part, lock of hair, or bit of nail | -10        |
+  | :--------------------------------- | :------------ |
+  | Secondhand (heard of the target)  | +5        |
+  | Firsthand (met the target)      | +0        |
+  | Extensive (know the target well)  | :5        |
+  | You Have the Target’s...           | Save Modifier |
+  | :-------------------------------------- | :------------ |
+  | Picture or other likeness          | :2        |
+  | Garment or other possession         | :4        |
+  | Body part, lock of hair, or bit of nail | :10        |
 
   On a successful save, the target isn’t affected, and you can’t use this spell on it again for 24 hours. 
 
