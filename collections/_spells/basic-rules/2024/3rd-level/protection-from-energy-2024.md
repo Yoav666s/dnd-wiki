@@ -20,7 +20,7 @@ concentration: true
 cast_time: "Action"
 description: |
   For the duration, the willing creature you touch has Resistance to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
-excerpt: "For the duration, the willing creature you touch has Resistance to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder."
+excerpt: "For the duration, the willing creature you touch has Resistance to one damage type of your choice."
 v_2024: true
 alt_version: "protection-from-energy"
 source: "Basic Rules"

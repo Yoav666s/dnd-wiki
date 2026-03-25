@@ -25,15 +25,15 @@ description: |
 
   **Other Spell Effect.** Place one of the following magical effects within the warded area: 
 
-  • Dancing Lights in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts 
+  - Dancing Lights in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts 
 
-  • >Magic Mouth in two locations 
+  - >Magic Mouth in two locations 
 
-  • Stinking Cloud in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts) 
+  - Stinking Cloud in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts) 
 
-  • Gust of Wind in one corridor or room (the wind blows continuously while the spell lasts) 
+  - Gust of Wind in one corridor or room (the wind blows continuously while the spell lasts) 
 
-  • Suggestion in one 5-foot square; any creature that enters that square receives the suggestion mentally.
+  - Suggestion in one 5-foot square; any creature that enters that square receives the suggestion mentally.
 excerpt: "You create a ward that protects up to 2,500 square feet of floor space."
 v_2024: true
 alt_version: "guards-and-wards"

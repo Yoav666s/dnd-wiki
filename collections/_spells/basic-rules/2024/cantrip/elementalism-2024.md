@@ -27,9 +27,7 @@ description: |
   **Beckon Water.** You create a spray of cool mist that lightly dampens creatures and objects in a 5-foot Cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute. 
 
   **Sculpt Element.** You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot Cube to assume a crude shape (such as that of a creature or an object) for 1 hour.
-excerpt: "You exert control over the elements, creating one of the following effects within range: 
-
-**Beckon Air."
+excerpt: "You exert control over the elements, creating one of the following effects within range."
 v_2024: true
 alt_version: "elementalism"
 source: "Basic Rules"

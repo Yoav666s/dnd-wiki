@@ -19,7 +19,7 @@ duration: "Instantaneous"
 cast_time: "Bonus Action"
 description: |
   You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned.
-excerpt: "You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned."
+excerpt: "You touch a creature and end one condition on it."
 v_2024: true
 alt_version: "lesser-restoration"
 source: "Basic Rules"

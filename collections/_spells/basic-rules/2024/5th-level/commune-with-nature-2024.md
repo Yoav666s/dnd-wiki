@@ -19,15 +19,15 @@ description: |
 
   Choose three of the following facts; you learn those facts as they pertain to the spell's area: 
 
-  • Locations of settlements 
+  - Locations of settlements 
 
-  • Locations of portals to other planes of existence 
+  - Locations of portals to other planes of existence 
 
-  • Location of one Challenge Rating 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead 
+  - Location of one Challenge Rating 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead 
 
-  • The most prevalent kind of plant, mineral, or Beast (you choose which to learn) 
+  - The most prevalent kind of plant, mineral, or Beast (you choose which to learn) 
 
-  • Locations of bodies of water 
+  - Locations of bodies of water 
 
   For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 excerpt: "You commune with nature spirits and gain knowledge of the surrounding area."
