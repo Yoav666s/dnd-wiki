@@ -52,7 +52,7 @@ header:
 ---
 
 # Expansions
-Multiple expansions are available, bundling these settings and subclasses into cohesive packages that seamlessly integrate with existing campaigns. Each setting introduces rich continents teeming with diverse cultures, unique ecosystems, and intricate histories waiting to be explored. Players can delve into compelling storylines, encounter formidable creatures, and navigate complex political landscapes that bring the world to life. Whether you are seeking epic quests, detailed worldbuilding, or innovative character options, Nornfeld provides a rich foundation for limitless adventure.
+Multiple expansions are available, bundling Nornfeld's settings and subclasses into cohesive packages that seamlessly integrate with existing campaigns. Each setting introduces rich continents teeming with diverse cultures, unique ecosystems, and intricate histories waiting to be explored. Players can delve into compelling storylines, encounter formidable creatures, and navigate complex political landscapes that bring the world to life. Whether you are seeking epic quests, detailed worldbuilding, or innovative character options, Nornfeld provides a rich foundation for limitless adventure.
 
 {% include feature_row id="expansions" %}
 
