@@ -18,51 +18,51 @@ duration: "8 Hours"
 concentration: true
 cast_time: "10 Minutes"
 description: |
-  You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell, and it ends early if you go indoors. When you cast the spell, you change the current weather conditions, which are determined by the DM. You can change precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new conditions to take effect. Once they do so, you can change the conditions again. When the spell ends, the weather gradually returns to normal. When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.  
+  You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell, and it ends early if you go indoors. When you cast the spell, you change the current weather conditions, which are determined by the DM. You can change precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new conditions to take effect. Once they do so, you can change the conditions again. When the spell ends, the weather gradually returns to normal. When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction. 
 
-  **Precipitation**  
+  **Precipitation** 
 
-Stage Condition  
+  Stage Condition 
 
-1 Clear  
+  1 Clear 
 
-2 Light clouds  
+  2 Light clouds 
 
-3 Overcast or ground fog  
+  3 Overcast or ground fog 
 
-4 Rain, hail, or snow  
+  4 Rain, hail, or snow 
 
-5 Torrential rain, driving hail, or blizzard  
+  5 Torrential rain, driving hail, or blizzard 
 
-  **Temperature**  
+  **Temperature** 
 
-Stage Condition  
+  Stage Condition 
 
-1 Heat wave  
+  1 Heat wave 
 
-2 Hot  
+  2 Hot 
 
-3 Warm  
+  3 Warm 
 
-4 Cool  
+  4 Cool 
 
-5 Cold  
+  5 Cold 
 
-6 Freezing  
+  6 Freezing 
 
-  **Wind**  
+  **Wind** 
 
-Stage Condition  
+  Stage Condition 
 
-1 Calm  
+  1 Calm 
 
-2 Moderate wind  
+  2 Moderate wind 
 
-3 Strong wind  
+  3 Strong wind 
 
-4 Gale  
+  4 Gale 
 
-5 Storm.
+  5 Storm.
 excerpt: "You take control of the weather within 5 miles of you for the duration."
 v_2024: true
 alt_version: "control-weather"
