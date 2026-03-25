@@ -22,4 +22,5 @@ excerpt: "You summon an otherworldly being that appears as a loyal steed in an u
 v_2024: true
 alt_version: "find-steed"
 source: "Basic Rules"
+search: false
 ---

@@ -19,4 +19,5 @@ excerpt: "You briefly stop the flow of time for everyone but yourself."
 v_2024: true
 alt_version: "time-stop"
 source: "Basic Rules"
+search: false
 ---

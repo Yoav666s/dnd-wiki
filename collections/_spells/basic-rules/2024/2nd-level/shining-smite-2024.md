@@ -18,4 +18,5 @@ excerpt: "The target hit by the strike takes an extra 2d6 Radiant damage from th
 v_2024: true
 alt_version: "shining-smite"
 source: "Basic Rules"
+search: false
 ---

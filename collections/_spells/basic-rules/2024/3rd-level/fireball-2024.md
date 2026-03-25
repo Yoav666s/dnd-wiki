@@ -21,4 +21,5 @@ excerpt: "A bright streak flashes from you to a point you choose within range an
 v_2024: true
 alt_version: "fireball"
 source: "Basic Rules"
+search: false
 ---

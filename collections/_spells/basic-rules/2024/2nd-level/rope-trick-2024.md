@@ -22,4 +22,5 @@ excerpt: "You touch a rope."
 v_2024: true
 alt_version: "rope-trick"
 source: "Basic Rules"
+search: false
 ---

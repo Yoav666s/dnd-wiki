@@ -33,4 +33,5 @@ excerpt: "A nonmagical wall of solid stone springs into existence at a point you
 v_2024: true
 alt_version: "wall-of-stone"
 source: "Basic Rules"
+search: false
 ---

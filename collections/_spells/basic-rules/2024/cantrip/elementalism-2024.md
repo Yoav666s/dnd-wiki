@@ -30,4 +30,5 @@ excerpt: "You exert control over the elements, creating one of the following eff
 v_2024: true
 alt_version: "elementalism"
 source: "Basic Rules"
+search: false
 ---

@@ -25,4 +25,5 @@ excerpt: "With a touch, you revive a dead creature if it has been dead no longer
 v_2024: true
 alt_version: "raise-dead"
 source: "Basic Rules"
+search: false
 ---

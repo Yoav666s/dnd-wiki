@@ -20,4 +20,5 @@ excerpt: "You drive a spike of psionic energy into the mind of one creature you 
 v_2024: true
 alt_version: "mind-spike"
 source: "Basic Rules"
+search: false
 ---

@@ -20,4 +20,5 @@ excerpt: "Grasping plants sprout from the ground in a 20-foot square within rang
 v_2024: true
 alt_version: "entangle"
 source: "Basic Rules"
+search: false
 ---

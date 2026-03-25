@@ -21,4 +21,5 @@ excerpt: "You take the Dash action, and until the spell ends, you can take that 
 v_2024: true
 alt_version: "expeditious-retreat"
 source: "Basic Rules"
+search: false
 ---

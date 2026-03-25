@@ -23,4 +23,5 @@ excerpt: "A creature you touch regains 4d8 + 15 Hit Points."
 v_2024: true
 alt_version: "regenerate"
 source: "Basic Rules"
+search: false
 ---

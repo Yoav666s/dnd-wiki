@@ -25,4 +25,5 @@ excerpt: "You can cast this spell only at night."
 v_2024: true
 alt_version: "create-undead"
 source: "Basic Rules"
+search: false
 ---

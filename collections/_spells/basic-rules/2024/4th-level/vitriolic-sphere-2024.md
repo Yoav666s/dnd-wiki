@@ -21,4 +21,5 @@ excerpt: "You point at a location within range, and a glowing, 1-foot- diameter 
 v_2024: true
 alt_version: "vitriolic-sphere"
 source: "Basic Rules"
+search: false
 ---

@@ -25,4 +25,5 @@ excerpt: "You touch a corpse or other remains."
 v_2024: true
 alt_version: "gentle-repose"
 source: "Basic Rules"
+search: false
 ---

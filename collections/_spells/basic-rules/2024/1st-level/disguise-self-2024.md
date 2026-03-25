@@ -23,4 +23,5 @@ excerpt: "You make yourself--including your clothing, armor, weapons, and other 
 v_2024: true
 alt_version: "disguise-self"
 source: "Basic Rules"
+search: false
 ---

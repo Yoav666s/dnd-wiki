@@ -23,4 +23,5 @@ excerpt: "You create a shadowy Medium door on a flat solid surface that you can 
 v_2024: true
 alt_version: "demiplane"
 source: "Basic Rules"
+search: false
 ---

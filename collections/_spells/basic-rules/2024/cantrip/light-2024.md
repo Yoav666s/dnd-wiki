@@ -24,4 +24,5 @@ excerpt: "You touch one Large or smaller object that isn't being worn or carried
 v_2024: true
 alt_version: "light"
 source: "Basic Rules"
+search: false
 ---

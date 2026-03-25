@@ -29,4 +29,5 @@ excerpt: "For the duration, your eyes become an inky void."
 v_2024: true
 alt_version: "eyebite"
 source: "Basic Rules"
+search: false
 ---

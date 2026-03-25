@@ -31,4 +31,5 @@ excerpt: "Choose a point on the ground that you can see within range."
 v_2024: true
 alt_version: "earthquake"
 source: "Basic Rules"
+search: false
 ---

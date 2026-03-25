@@ -21,4 +21,5 @@ excerpt: "For the duration, you sense the location of any Aberration, Celestial,
 v_2024: true
 alt_version: "detect-evil-and-good"
 source: "Basic Rules"
+search: false
 ---

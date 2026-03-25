@@ -27,4 +27,5 @@ excerpt: "You and up to eight willing creatures within range project your astral
 v_2024: true
 alt_version: "astral-projection"
 source: "Basic Rules"
+search: false
 ---

@@ -25,4 +25,5 @@ excerpt: "This spell creates a circular, horizontal plane of force, 3 feet in di
 v_2024: true
 alt_version: "floating-disk"
 source: "Basic Rules"
+search: false
 ---

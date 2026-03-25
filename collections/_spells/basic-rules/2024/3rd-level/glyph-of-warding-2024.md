@@ -30,4 +30,5 @@ excerpt: "You inscribe it either on a surface (such as a table or a section of f
 v_2024: true
 alt_version: "glyph-of-warding"
 source: "Basic Rules"
+search: false
 ---

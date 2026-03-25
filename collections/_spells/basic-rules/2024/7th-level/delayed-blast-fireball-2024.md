@@ -28,4 +28,5 @@ excerpt: "A beam of yellow light flashes from you, then condenses at a chosen po
 v_2024: true
 alt_version: "delayed-blast-fireball"
 source: "Basic Rules"
+search: false
 ---

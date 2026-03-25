@@ -24,4 +24,5 @@ excerpt: "**Weather Sensor."
 v_2024: true
 alt_version: "druidcraft"
 source: "Basic Rules"
+search: false
 ---

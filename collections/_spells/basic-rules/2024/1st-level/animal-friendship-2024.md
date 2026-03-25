@@ -22,4 +22,5 @@ excerpt: "Target a Beast that you can see within range."
 v_2024: true
 alt_version: "animal-friendship"
 source: "Basic Rules"
+search: false
 ---

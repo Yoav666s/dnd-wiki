@@ -34,4 +34,5 @@ excerpt: "You commune with nature spirits and gain knowledge of the surrounding 
 v_2024: true
 alt_version: "commune-with-nature"
 source: "Basic Rules"
+search: false
 ---

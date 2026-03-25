@@ -18,4 +18,5 @@ excerpt: "You hurl a bolt of light toward a creature within range."
 v_2024: true
 alt_version: "guiding-bolt"
 source: "Basic Rules"
+search: false
 ---

@@ -24,4 +24,5 @@ excerpt: "A wall of water springs into existence at a point you choose within ra
 v_2024: true
 alt_version: "tsunami"
 source: "Basic Rules"
+search: false
 ---

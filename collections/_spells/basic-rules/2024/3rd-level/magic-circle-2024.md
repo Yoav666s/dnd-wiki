@@ -34,4 +34,5 @@ excerpt: "You create a 10-foot-radius, 20-foot-tall Cylinder of magical energy c
 v_2024: true
 alt_version: "magic-circle"
 source: "Basic Rules"
+search: false
 ---

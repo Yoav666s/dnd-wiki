@@ -25,4 +25,5 @@ excerpt: "Choose an area of terrain no larger than 40 feet on a side within rang
 v_2024: true
 alt_version: "move-earth"
 source: "Basic Rules"
+search: false
 ---

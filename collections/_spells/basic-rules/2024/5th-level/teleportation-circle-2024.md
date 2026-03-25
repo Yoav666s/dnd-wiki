@@ -27,4 +27,5 @@ excerpt: "As you cast the spell, you draw a 5-foot-radius circle on the ground i
 v_2024: true
 alt_version: "teleportation-circle"
 source: "Basic Rules"
+search: false
 ---

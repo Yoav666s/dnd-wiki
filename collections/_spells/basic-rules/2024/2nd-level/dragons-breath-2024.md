@@ -23,4 +23,5 @@ excerpt: "You touch one willing creature, and choose Acid, Cold, Fire, Lightning
 v_2024: true
 alt_version: "dragons-breath"
 source: "Basic Rules"
+search: false
 ---

@@ -25,4 +25,5 @@ excerpt: "You suggest a course of activity--described in no more than 25 words--
 v_2024: true
 alt_version: "suggestion"
 source: "Basic Rules"
+search: false
 ---

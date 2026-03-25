@@ -25,4 +25,5 @@ excerpt: "You launch a green ray at a target you can see within range."
 v_2024: true
 alt_version: "disintegrate"
 source: "Basic Rules"
+search: false
 ---

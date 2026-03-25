@@ -20,4 +20,5 @@ excerpt: "A vertical column of brilliant fire roars down from above."
 v_2024: true
 alt_version: "flame-strike"
 source: "Basic Rules"
+search: false
 ---

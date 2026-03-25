@@ -27,4 +27,5 @@ excerpt: "You target a creature you know on the same plane of existence."
 v_2024: true
 alt_version: "dream"
 source: "Basic Rules"
+search: false
 ---

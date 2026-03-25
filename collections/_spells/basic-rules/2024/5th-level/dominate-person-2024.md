@@ -25,4 +25,5 @@ excerpt: "One Humanoid you can see within range must succeed on a Wisdom saving 
 v_2024: true
 alt_version: "dominate-person"
 source: "Basic Rules"
+search: false
 ---

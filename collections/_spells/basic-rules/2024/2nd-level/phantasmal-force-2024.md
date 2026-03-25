@@ -29,4 +29,5 @@ excerpt: "You attempt to craft an illusion in the mind of a creature you can see
 v_2024: true
 alt_version: "phantasmal-force"
 source: "Basic Rules"
+search: false
 ---

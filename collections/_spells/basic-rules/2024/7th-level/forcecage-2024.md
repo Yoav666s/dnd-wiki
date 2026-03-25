@@ -26,4 +26,5 @@ excerpt: "An immobile, Invisible, Cube-shaped prison composed of magical force s
 v_2024: true
 alt_version: "forcecage"
 source: "Basic Rules"
+search: false
 ---

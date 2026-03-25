@@ -27,4 +27,5 @@ excerpt: "A willing creature you touch shape-shifts, along with everything it's 
 v_2024: true
 alt_version: "gaseous-form"
 source: "Basic Rules"
+search: false
 ---

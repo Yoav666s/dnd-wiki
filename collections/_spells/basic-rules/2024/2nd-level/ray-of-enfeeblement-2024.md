@@ -22,4 +22,5 @@ excerpt: "A beam of enervating energy shoots from you toward a creature within r
 v_2024: true
 alt_version: "ray-of-enfeeblement"
 source: "Basic Rules"
+search: false
 ---

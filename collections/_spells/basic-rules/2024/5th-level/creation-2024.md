@@ -36,4 +36,5 @@ excerpt: "You pull wisps of shadow material from the Shadowfell to create an obj
 v_2024: true
 alt_version: "creation"
 source: "Basic Rules"
+search: false
 ---

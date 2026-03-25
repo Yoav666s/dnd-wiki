@@ -25,4 +25,5 @@ excerpt: "You touch a willing creature."
 v_2024: true
 alt_version: "freedom-of-movement"
 source: "Basic Rules"
+search: false
 ---

@@ -40,4 +40,5 @@ excerpt: "You can see and hear a creature you choose that is on the same plane o
 v_2024: true
 alt_version: "scrying"
 source: "Basic Rules"
+search: false
 ---

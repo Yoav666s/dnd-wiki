@@ -19,4 +19,5 @@ excerpt: "You hurl three fiery rays."
 v_2024: true
 alt_version: "scorching-ray"
 source: "Basic Rules"
+search: false
 ---

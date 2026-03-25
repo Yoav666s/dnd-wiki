@@ -25,4 +25,5 @@ excerpt: "You write on parchment, paper, or another suitable material and imbue 
 v_2024: true
 alt_version: "illusory-script"
 source: "Basic Rules"
+search: false
 ---

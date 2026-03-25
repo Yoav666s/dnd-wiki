@@ -20,4 +20,5 @@ excerpt: "You touch a willing creature and choose a damage type."
 v_2024: true
 alt_version: "resistance"
 source: "Basic Rules"
+search: false
 ---

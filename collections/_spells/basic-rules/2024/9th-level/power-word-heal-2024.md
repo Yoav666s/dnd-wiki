@@ -18,4 +18,5 @@ excerpt: "A wave of healing energy washes over one creature you can see within r
 v_2024: true
 alt_version: "power-word-heal"
 source: "Basic Rules"
+search: false
 ---

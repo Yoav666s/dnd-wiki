@@ -26,4 +26,5 @@ excerpt: "You and up to eight willing creatures who link hands in a circle are t
 v_2024: true
 alt_version: "plane-shift"
 source: "Basic Rules"
+search: false
 ---

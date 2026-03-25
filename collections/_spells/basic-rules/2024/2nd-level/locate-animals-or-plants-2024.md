@@ -22,4 +22,5 @@ excerpt: "Describe or name a specific kind of Beast, Plant creature, or nonmagic
 v_2024: true
 alt_version: "locate-animals-or-plants"
 source: "Basic Rules"
+search: false
 ---

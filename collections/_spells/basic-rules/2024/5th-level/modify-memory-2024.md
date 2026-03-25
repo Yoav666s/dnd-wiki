@@ -26,4 +26,5 @@ excerpt: "You attempt to reshape another creature's memories."
 v_2024: true
 alt_version: "modify-memory"
 source: "Basic Rules"
+search: false
 ---

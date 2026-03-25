@@ -27,4 +27,5 @@ excerpt: "You make terrain in an area up to 1 mile square look, sound, smell, an
 v_2024: true
 alt_version: "mirage-arcane"
 source: "Basic Rules"
+search: false
 ---

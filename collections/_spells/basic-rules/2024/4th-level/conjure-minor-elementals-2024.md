@@ -19,4 +19,5 @@ excerpt: "You conjure spirits from the Elemental Planes that flit around you in 
 v_2024: true
 alt_version: "conjure-minor-elementals"
 source: "Basic Rules"
+search: false
 ---

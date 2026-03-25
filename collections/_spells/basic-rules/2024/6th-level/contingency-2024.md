@@ -24,4 +24,5 @@ excerpt: "Choose a spell of level 5 or lower that you can cast, that has a casti
 v_2024: true
 alt_version: "contingency"
 source: "Basic Rules"
+search: false
 ---

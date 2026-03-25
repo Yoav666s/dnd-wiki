@@ -19,4 +19,5 @@ excerpt: "You create 45 pounds of food and 30 gallons of fresh water on the grou
 v_2024: true
 alt_version: "create-food-and-water"
 source: "Basic Rules"
+search: false
 ---

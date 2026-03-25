@@ -19,4 +19,5 @@ excerpt: "You summon a giant centipede, spider, or wasp (chosen when you cast th
 v_2024: true
 alt_version: "giant-insect"
 source: "Basic Rules"
+search: false
 ---

@@ -25,4 +25,5 @@ excerpt: "This spell reverses gravity in a 50-foot-radius, 100-foot high Cylinde
 v_2024: true
 alt_version: "reverse-gravity"
 source: "Basic Rules"
+search: false
 ---

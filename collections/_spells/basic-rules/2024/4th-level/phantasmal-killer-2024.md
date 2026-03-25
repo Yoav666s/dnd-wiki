@@ -22,4 +22,5 @@ excerpt: "You tap into the nightmares of a creature you can see within range and
 v_2024: true
 alt_version: "phantasmal-killer"
 source: "Basic Rules"
+search: false
 ---

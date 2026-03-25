@@ -21,4 +21,5 @@ excerpt: "Choose a creature within range that has 0 Hit Points and isn't dead."
 v_2024: true
 alt_version: "spare-the-dying"
 source: "Basic Rules"
+search: false
 ---

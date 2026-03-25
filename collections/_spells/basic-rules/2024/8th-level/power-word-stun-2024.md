@@ -22,4 +22,5 @@ excerpt: "You overwhelm the mind of one creature you can see within range."
 v_2024: true
 alt_version: "power-word-stun"
 source: "Basic Rules"
+search: false
 ---

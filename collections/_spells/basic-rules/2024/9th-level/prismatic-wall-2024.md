@@ -33,4 +33,5 @@ excerpt: "A shimmering, multicolored plane of light forms a vertical opaque wall
 v_2024: true
 alt_version: "prismatic-wall"
 source: "Basic Rules"
+search: false
 ---

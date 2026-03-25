@@ -29,4 +29,5 @@ excerpt: "A churning storm cloud forms for the duration, centered on a point wit
 v_2024: true
 alt_version: "storm-of-vengeance"
 source: "Basic Rules"
+search: false
 ---

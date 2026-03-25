@@ -25,4 +25,5 @@ excerpt: "You create a twisting pattern of colors in a 30-foot Cube within range
 v_2024: true
 alt_version: "hypnotic-pattern"
 source: "Basic Rules"
+search: false
 ---

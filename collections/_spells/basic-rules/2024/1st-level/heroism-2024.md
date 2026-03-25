@@ -20,4 +20,5 @@ excerpt: "A willing creature you touch is imbued with bravery."
 v_2024: true
 alt_version: "heroism"
 source: "Basic Rules"
+search: false
 ---

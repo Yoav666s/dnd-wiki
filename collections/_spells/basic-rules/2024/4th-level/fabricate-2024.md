@@ -21,4 +21,5 @@ excerpt: "You convert raw materials into products of the same material."
 v_2024: true
 alt_version: "fabricate"
 source: "Basic Rules"
+search: false
 ---

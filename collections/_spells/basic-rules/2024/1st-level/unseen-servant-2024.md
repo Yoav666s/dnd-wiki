@@ -27,4 +27,5 @@ excerpt: "This spell creates an Invisible, mindless, shapeless, Medium force tha
 v_2024: true
 alt_version: "unseen-servant"
 source: "Basic Rules"
+search: false
 ---

@@ -23,4 +23,5 @@ excerpt: "For the duration, you can comprehend and verbally communicate with Bea
 v_2024: true
 alt_version: "speak-with-animals"
 source: "Basic Rules"
+search: false
 ---

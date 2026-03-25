@@ -21,4 +21,5 @@ excerpt: "You launch a dazzling array of flashing, colorful light."
 v_2024: true
 alt_version: "color-spray"
 source: "Basic Rules"
+search: false
 ---

@@ -22,4 +22,5 @@ excerpt: "You touch a nonmagical weapon."
 v_2024: true
 alt_version: "magic-weapon"
 source: "Basic Rules"
+search: false
 ---

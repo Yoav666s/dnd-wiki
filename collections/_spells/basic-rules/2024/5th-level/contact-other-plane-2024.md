@@ -19,4 +19,5 @@ excerpt: "You mentally contact a demigod, the spirit of a long-dead sage, or som
 v_2024: true
 alt_version: "contact-other-plane"
 source: "Basic Rules"
+search: false
 ---

@@ -22,4 +22,5 @@ excerpt: "A storm of fire appears within range."
 v_2024: true
 alt_version: "fire-storm"
 source: "Basic Rules"
+search: false
 ---

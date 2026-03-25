@@ -37,4 +37,5 @@ excerpt: "Eight rays of light flash from you in a 60-foot Cone."
 v_2024: true
 alt_version: "prismatic-spray"
 source: "Basic Rules"
+search: false
 ---

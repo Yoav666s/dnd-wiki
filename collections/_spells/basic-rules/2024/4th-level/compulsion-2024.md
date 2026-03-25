@@ -21,4 +21,5 @@ excerpt: "Each creature of your choice that you can see within range must succee
 v_2024: true
 alt_version: "compulsion"
 source: "Basic Rules"
+search: false
 ---

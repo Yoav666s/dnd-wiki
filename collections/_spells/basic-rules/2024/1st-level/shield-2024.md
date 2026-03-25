@@ -19,4 +19,5 @@ excerpt: "An imperceptible barrier of magical force protects you."
 v_2024: true
 alt_version: "shield"
 source: "Basic Rules"
+search: false
 ---

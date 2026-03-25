@@ -17,4 +17,5 @@ excerpt: "As you hit the target, it takes an extra 1d6 Fire damage from the atta
 v_2024: true
 alt_version: "searing-smite"
 source: "Basic Rules"
+search: false
 ---

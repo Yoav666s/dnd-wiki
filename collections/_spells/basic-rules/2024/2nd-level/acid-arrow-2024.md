@@ -20,4 +20,5 @@ excerpt: "A shimmering green arrow streaks toward a target within range and burs
 v_2024: true
 alt_version: "acid-arrow"
 source: "Basic Rules"
+search: false
 ---

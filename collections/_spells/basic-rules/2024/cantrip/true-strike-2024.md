@@ -23,4 +23,5 @@ excerpt: "Guided by a flash of magical insight, you make one attack with the wea
 v_2024: true
 alt_version: "true-strike"
 source: "Basic Rules"
+search: false
 ---

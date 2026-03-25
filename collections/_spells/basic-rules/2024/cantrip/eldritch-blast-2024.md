@@ -20,4 +20,5 @@ excerpt: "You hurl a beam of crackling energy."
 v_2024: true
 alt_version: "eldritch-blast"
 source: "Basic Rules"
+search: false
 ---

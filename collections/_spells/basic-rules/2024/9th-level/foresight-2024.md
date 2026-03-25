@@ -24,4 +24,5 @@ excerpt: "You touch a willing creature and bestow a limited ability to see into 
 v_2024: true
 alt_version: "foresight"
 source: "Basic Rules"
+search: false
 ---

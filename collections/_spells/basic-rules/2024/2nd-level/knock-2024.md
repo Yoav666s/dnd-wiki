@@ -23,4 +23,5 @@ excerpt: "Choose an object that you can see within range."
 v_2024: true
 alt_version: "knock"
 source: "Basic Rules"
+search: false
 ---

@@ -23,4 +23,5 @@ excerpt: "You and up to ten willing creatures of your choice within range assume
 v_2024: true
 alt_version: "wind-walk"
 source: "Basic Rules"
+search: false
 ---

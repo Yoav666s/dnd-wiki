@@ -24,4 +24,5 @@ excerpt: "Choose a willing creature that you can see within range."
 v_2024: true
 alt_version: "haste"
 source: "Basic Rules"
+search: false
 ---

@@ -21,4 +21,5 @@ excerpt: "You radiate a concealing aura in a 30-foot Emanation for the duration.
 v_2024: true
 alt_version: "pass-without-trace"
 source: "Basic Rules"
+search: false
 ---

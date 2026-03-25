@@ -17,4 +17,5 @@ excerpt: "Until the spell ends, when you make a Charisma check, you can replace 
 v_2024: true
 alt_version: "glibness"
 source: "Basic Rules"
+search: false
 ---

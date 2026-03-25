@@ -25,4 +25,5 @@ excerpt: "A spectral, floating hand appears at a point you choose within range."
 v_2024: true
 alt_version: "mage-hand"
 source: "Basic Rules"
+search: false
 ---

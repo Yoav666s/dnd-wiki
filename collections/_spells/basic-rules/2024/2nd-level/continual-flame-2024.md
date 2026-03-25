@@ -22,4 +22,5 @@ excerpt: "A flame springs from an object that you touch."
 v_2024: true
 alt_version: "continual-flame"
 source: "Basic Rules"
+search: false
 ---

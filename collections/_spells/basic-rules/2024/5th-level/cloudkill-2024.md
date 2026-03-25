@@ -24,4 +24,5 @@ excerpt: "You create a 20-foot-radius Sphere of yellow-green fog centered on a p
 v_2024: true
 alt_version: "cloudkill"
 source: "Basic Rules"
+search: false
 ---

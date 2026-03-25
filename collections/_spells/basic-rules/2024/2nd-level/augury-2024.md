@@ -33,4 +33,5 @@ excerpt: "You receive an omen from an otherworldly entity about the results of a
 v_2024: true
 alt_version: "augury"
 source: "Basic Rules"
+search: false
 ---

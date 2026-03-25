@@ -22,4 +22,5 @@ excerpt: "Channeling the chill of the grave, make a melee spell attack against a
 v_2024: true
 alt_version: "chill-touch"
 source: "Basic Rules"
+search: false
 ---

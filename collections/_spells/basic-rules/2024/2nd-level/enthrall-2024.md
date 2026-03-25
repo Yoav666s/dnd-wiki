@@ -20,4 +20,5 @@ excerpt: "You weave a distracting string of words, causing creatures of your cho
 v_2024: true
 alt_version: "enthrall"
 source: "Basic Rules"
+search: false
 ---

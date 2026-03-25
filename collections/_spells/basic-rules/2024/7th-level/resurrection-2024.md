@@ -28,4 +28,5 @@ excerpt: "With a touch, you revive a dead creature that has been dead for no mor
 v_2024: true
 alt_version: "resurrection"
 source: "Basic Rules"
+search: false
 ---

@@ -20,4 +20,5 @@ excerpt: "Protective spirits flit around you in a 15-foot Emanation for the dura
 v_2024: true
 alt_version: "spirit-guardians"
 source: "Basic Rules"
+search: false
 ---

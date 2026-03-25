@@ -19,4 +19,5 @@ excerpt: "You conjure nature spirits that flit around you in a 10-foot Emanation
 v_2024: true
 alt_version: "conjure-woodland-beings"
 source: "Basic Rules"
+search: false
 ---

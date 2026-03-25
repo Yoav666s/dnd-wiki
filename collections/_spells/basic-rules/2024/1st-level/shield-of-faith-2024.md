@@ -23,4 +23,5 @@ excerpt: "A shimmering field surrounds a creature of your choice within range, g
 v_2024: true
 alt_version: "shield-of-faith"
 source: "Basic Rules"
+search: false
 ---

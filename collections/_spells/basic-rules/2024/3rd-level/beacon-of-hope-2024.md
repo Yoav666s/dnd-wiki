@@ -19,4 +19,5 @@ excerpt: "Choose any number of creatures within range."
 v_2024: true
 alt_version: "beacon-of-hope"
 source: "Basic Rules"
+search: false
 ---

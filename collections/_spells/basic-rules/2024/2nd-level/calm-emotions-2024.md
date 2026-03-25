@@ -24,4 +24,5 @@ excerpt: "Each Humanoid in a 20-foot-radius Sphere centered on a point you choos
 v_2024: true
 alt_version: "calm-emotions"
 source: "Basic Rules"
+search: false
 ---

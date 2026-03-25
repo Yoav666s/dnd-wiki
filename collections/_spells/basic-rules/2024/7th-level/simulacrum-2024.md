@@ -25,4 +25,5 @@ excerpt: "You create a simulacrum of one Beast or Humanoid that is within 10 fee
 v_2024: true
 alt_version: "simulacrum"
 source: "Basic Rules"
+search: false
 ---

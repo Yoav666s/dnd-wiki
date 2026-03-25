@@ -21,4 +21,5 @@ excerpt: "A silvery beam of pale light shines down in a 5-foot-radius, 40- foot-
 v_2024: true
 alt_version: "moonbeam"
 source: "Basic Rules"
+search: false
 ---

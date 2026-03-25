@@ -24,4 +24,5 @@ excerpt: "You grant the semblance of life to a corpse of your choice within rang
 v_2024: true
 alt_version: "speak-with-dead"
 source: "Basic Rules"
+search: false
 ---

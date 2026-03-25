@@ -25,4 +25,5 @@ excerpt: "You step into a stone object or surface large enough to fully contain 
 v_2024: true
 alt_version: "meld-into-stone"
 source: "Basic Rules"
+search: false
 ---

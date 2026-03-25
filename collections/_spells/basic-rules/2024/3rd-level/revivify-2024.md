@@ -23,4 +23,5 @@ excerpt: "You touch a creature that has died within the last minute."
 v_2024: true
 alt_version: "revivify"
 source: "Basic Rules"
+search: false
 ---

@@ -21,4 +21,5 @@ excerpt: "You unleash a blast of cold air."
 v_2024: true
 alt_version: "cone-of-cold"
 source: "Basic Rules"
+search: false
 ---

@@ -30,4 +30,5 @@ excerpt: "Your body falls into a catatonic state as your soul leaves it and ente
 v_2024: true
 alt_version: "magic-jar"
 source: "Basic Rules"
+search: false
 ---

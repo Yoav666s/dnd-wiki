@@ -24,4 +24,5 @@ excerpt: "This spell puts you in contact with a god or a god's servants."
 v_2024: true
 alt_version: "divination"
 source: "Basic Rules"
+search: false
 ---

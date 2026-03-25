@@ -20,4 +20,5 @@ excerpt: "You touch a willing creature and choose a skill."
 v_2024: true
 alt_version: "guidance"
 source: "Basic Rules"
+search: false
 ---

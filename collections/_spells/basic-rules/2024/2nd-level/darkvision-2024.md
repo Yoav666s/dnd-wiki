@@ -23,4 +23,5 @@ excerpt: "For the duration, a willing creature you touch has Darkvision with a r
 v_2024: true
 alt_version: "darkvision"
 source: "Basic Rules"
+search: false
 ---

@@ -19,4 +19,5 @@ excerpt: "You shoot a greenish ray at a creature within range."
 v_2024: true
 alt_version: "ray-of-sickness"
 source: "Basic Rules"
+search: false
 ---

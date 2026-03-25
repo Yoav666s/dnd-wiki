@@ -27,4 +27,5 @@ excerpt: "This spell repairs a single break or tear in an object you touch, such
 v_2024: true
 alt_version: "mending"
 source: "Basic Rules"
+search: false
 ---

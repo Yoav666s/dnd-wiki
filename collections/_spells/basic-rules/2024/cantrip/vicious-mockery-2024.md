@@ -19,4 +19,5 @@ excerpt: "You unleash a string of insults laced with subtle enchantments at one 
 v_2024: true
 alt_version: "vicious-mockery"
 source: "Basic Rules"
+search: false
 ---

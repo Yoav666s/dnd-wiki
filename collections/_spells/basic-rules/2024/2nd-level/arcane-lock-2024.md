@@ -20,4 +20,5 @@ excerpt: "You touch a closed door, window, gate, container, or hatch and magical
 v_2024: true
 alt_version: "arcane-lock"
 source: "Basic Rules"
+search: false
 ---

@@ -22,4 +22,5 @@ excerpt: "For the duration, you hide a target that you touch from Divination spe
 v_2024: true
 alt_version: "nondetection"
 source: "Basic Rules"
+search: false
 ---

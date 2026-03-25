@@ -19,4 +19,5 @@ excerpt: "Until the spell ends, one willing creature you touch has Immunity to P
 v_2024: true
 alt_version: "mind-blank"
 source: "Basic Rules"
+search: false
 ---

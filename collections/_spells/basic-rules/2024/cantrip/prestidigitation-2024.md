@@ -31,4 +31,5 @@ excerpt: "You create a magical effect within range."
 v_2024: true
 alt_version: "prestidigitation"
 source: "Basic Rules"
+search: false
 ---

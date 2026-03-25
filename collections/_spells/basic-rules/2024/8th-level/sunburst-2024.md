@@ -27,4 +27,5 @@ excerpt: "Brilliant sunlight flashes in a 60-foot-radius Sphere centered on a po
 v_2024: true
 alt_version: "sunburst"
 source: "Basic Rules"
+search: false
 ---

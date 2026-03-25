@@ -24,4 +24,5 @@ excerpt: "Until the spell ends, one willing creature you touch has Resistance to
 v_2024: true
 alt_version: "stoneskin"
 source: "Basic Rules"
+search: false
 ---

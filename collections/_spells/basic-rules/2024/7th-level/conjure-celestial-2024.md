@@ -23,4 +23,5 @@ excerpt: "You conjure a spirit from the Upper Planes, which manifests as a pilla
 v_2024: true
 alt_version: "conjure-celestial"
 source: "Basic Rules"
+search: false
 ---

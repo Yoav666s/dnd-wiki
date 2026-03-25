@@ -67,4 +67,5 @@ excerpt: "You take control of the weather within 5 miles of you for the duration
 v_2024: true
 alt_version: "control-weather"
 source: "Basic Rules"
+search: false
 ---

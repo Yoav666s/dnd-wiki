@@ -25,4 +25,5 @@ excerpt: "You create up to four torch-size lights within range, making them appe
 v_2024: true
 alt_version: "dancing-lights"
 source: "Basic Rules"
+search: false
 ---

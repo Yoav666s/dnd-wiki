@@ -27,4 +27,5 @@ excerpt: "An aura of antimagic surrounds you in 10-foot Emanation."
 v_2024: true
 alt_version: "antimagic-field"
 source: "Basic Rules"
+search: false
 ---

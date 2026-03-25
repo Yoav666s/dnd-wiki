@@ -23,4 +23,5 @@ excerpt: "For the duration, the willing creature you touch has Resistance to one
 v_2024: true
 alt_version: "protection-from-energy"
 source: "Basic Rules"
+search: false
 ---

@@ -22,4 +22,5 @@ excerpt: "You bless up to three creatures within range."
 v_2024: true
 alt_version: "bless"
 source: "Basic Rules"
+search: false
 ---

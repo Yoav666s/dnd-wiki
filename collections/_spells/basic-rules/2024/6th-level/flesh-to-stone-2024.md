@@ -27,4 +27,5 @@ excerpt: "You attempt to turn one creature that you can see within range into st
 v_2024: true
 alt_version: "flesh-to-stone"
 source: "Basic Rules"
+search: false
 ---

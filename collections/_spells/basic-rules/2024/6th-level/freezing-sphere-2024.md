@@ -25,4 +25,5 @@ excerpt: "A frigid globe streaks from you to a point of your choice within range
 v_2024: true
 alt_version: "freezing-sphere"
 source: "Basic Rules"
+search: false
 ---

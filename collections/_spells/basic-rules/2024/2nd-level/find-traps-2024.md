@@ -22,4 +22,5 @@ excerpt: "You sense any trap within range that is within line of sight."
 v_2024: true
 alt_version: "find-traps"
 source: "Basic Rules"
+search: false
 ---

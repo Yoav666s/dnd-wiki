@@ -21,4 +21,5 @@ excerpt: "Lightning springs from you to a creature that you try to touch."
 v_2024: true
 alt_version: "shocking-grasp"
 source: "Basic Rules"
+search: false
 ---

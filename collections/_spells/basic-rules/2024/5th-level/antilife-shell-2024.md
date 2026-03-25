@@ -20,4 +20,5 @@ excerpt: "An aura extends from you in a 10-foot Emanation for the duration."
 v_2024: true
 alt_version: "antilife-shell"
 source: "Basic Rules"
+search: false
 ---

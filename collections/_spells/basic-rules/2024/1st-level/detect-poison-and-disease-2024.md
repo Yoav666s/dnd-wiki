@@ -26,4 +26,5 @@ excerpt: "For the duration, you sense the location of poisons, poisonous or veno
 v_2024: true
 alt_version: "detect-poison-and-disease"
 source: "Basic Rules"
+search: false
 ---

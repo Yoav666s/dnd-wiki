@@ -21,4 +21,5 @@ excerpt: "You remove poison and rot from nonmagical food and drink in a 5- foot-
 v_2024: true
 alt_version: "purify-food-and-drink"
 source: "Basic Rules"
+search: false
 ---

@@ -20,4 +20,5 @@ excerpt: "A creature of your choice that you can see within range regains Hit Po
 v_2024: true
 alt_version: "healing-word"
 source: "Basic Rules"
+search: false
 ---

@@ -22,4 +22,5 @@ excerpt: "You try to create illusory terrors in others' minds."
 v_2024: true
 alt_version: "weird"
 source: "Basic Rules"
+search: false
 ---

@@ -25,4 +25,5 @@ excerpt: "You imbue plants in an immobile 30-foot Emanation with limited sentien
 v_2024: true
 alt_version: "speak-with-plants"
 source: "Basic Rules"
+search: false
 ---

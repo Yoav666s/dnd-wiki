@@ -20,4 +20,5 @@ excerpt: "For the duration, you emit an aura in a 30-foot Emanation."
 v_2024: true
 alt_version: "holy-aura"
 source: "Basic Rules"
+search: false
 ---

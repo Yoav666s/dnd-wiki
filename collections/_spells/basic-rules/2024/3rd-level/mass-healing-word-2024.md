@@ -19,4 +19,5 @@ excerpt: "Up to six creatures of your choice that you can see within range regai
 v_2024: true
 alt_version: "mass-healing-word"
 source: "Basic Rules"
+search: false
 ---

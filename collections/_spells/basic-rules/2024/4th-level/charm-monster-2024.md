@@ -22,4 +22,5 @@ excerpt: "One creature you can see within range makes a Wisdom saving throw."
 v_2024: true
 alt_version: "charm-monster"
 source: "Basic Rules"
+search: false
 ---

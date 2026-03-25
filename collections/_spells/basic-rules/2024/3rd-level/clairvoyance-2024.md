@@ -29,4 +29,5 @@ excerpt: "You create an Invisible sensor within range in a location familiar to 
 v_2024: true
 alt_version: "clairvoyance"
 source: "Basic Rules"
+search: false
 ---

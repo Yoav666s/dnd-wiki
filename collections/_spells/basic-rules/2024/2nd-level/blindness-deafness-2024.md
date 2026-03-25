@@ -17,4 +17,5 @@ excerpt: "One creature that you can see within range must succeed on a Constitut
 v_2024: true
 alt_version: "blindness-deafness"
 source: "Basic Rules"
+search: false
 ---

@@ -24,4 +24,5 @@ excerpt: "You forge a telepathic link among up to eight willing creatures of you
 v_2024: true
 alt_version: "telepathic-bond"
 source: "Basic Rules"
+search: false
 ---

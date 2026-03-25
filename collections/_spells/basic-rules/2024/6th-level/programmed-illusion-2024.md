@@ -25,4 +25,5 @@ excerpt: "You create an illusion of an object, a creature, or some other visible
 v_2024: true
 alt_version: "programmed-illusion"
 source: "Basic Rules"
+search: false
 ---

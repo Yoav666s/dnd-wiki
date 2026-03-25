@@ -29,4 +29,5 @@ excerpt: "Describe or name an object that is familiar to you."
 v_2024: true
 alt_version: "locate-object"
 source: "Basic Rules"
+search: false
 ---

@@ -21,4 +21,5 @@ excerpt: "You launch a lightning bolt toward a target you can see within range."
 v_2024: true
 alt_version: "chain-lightning"
 source: "Basic Rules"
+search: false
 ---

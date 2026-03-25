@@ -26,4 +26,5 @@ excerpt: "You touch the sapphire used in the casting and an object weighing 10 p
 v_2024: true
 alt_version: "instant-summons"
 source: "Basic Rules"
+search: false
 ---

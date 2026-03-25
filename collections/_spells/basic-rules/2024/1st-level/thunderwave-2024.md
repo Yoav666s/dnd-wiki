@@ -22,4 +22,5 @@ excerpt: "You unleash a wave of thunderous energy."
 v_2024: true
 alt_version: "thunderwave"
 source: "Basic Rules"
+search: false
 ---

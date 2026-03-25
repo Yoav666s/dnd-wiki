@@ -18,4 +18,5 @@ excerpt: "A flood of healing energy flows from you into creatures around you."
 v_2024: true
 alt_version: "mass-heal"
 source: "Basic Rules"
+search: false
 ---

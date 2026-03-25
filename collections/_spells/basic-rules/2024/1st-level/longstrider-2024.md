@@ -23,4 +23,5 @@ excerpt: "You touch a creature."
 v_2024: true
 alt_version: "longstrider"
 source: "Basic Rules"
+search: false
 ---

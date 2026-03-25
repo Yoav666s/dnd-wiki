@@ -19,4 +19,5 @@ excerpt: "Briefly surrounded by silvery mist, you teleport up to 30 feet to an u
 v_2024: true
 alt_version: "misty-step"
 source: "Basic Rules"
+search: false
 ---

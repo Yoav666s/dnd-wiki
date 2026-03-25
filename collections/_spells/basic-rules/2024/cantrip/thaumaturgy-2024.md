@@ -29,4 +29,5 @@ excerpt: "You manifest a minor wonder within range."
 v_2024: true
 alt_version: "thaumaturgy"
 source: "Basic Rules"
+search: false
 ---

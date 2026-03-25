@@ -25,4 +25,5 @@ excerpt: "For the duration, Celestials, Elementals, Fey, Fiends, and Undead have
 v_2024: true
 alt_version: "dispel-evil-and-good"
 source: "Basic Rules"
+search: false
 ---

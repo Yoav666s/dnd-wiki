@@ -23,4 +23,5 @@ excerpt: "You call forth a Dragon spirit."
 v_2024: true
 alt_version: "summon-dragon"
 source: "Basic Rules"
+search: false
 ---

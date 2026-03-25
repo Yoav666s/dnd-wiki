@@ -21,4 +21,5 @@ excerpt: "You touch a creature and end the Poisoned condition on it."
 v_2024: true
 alt_version: "protection-from-poison"
 source: "Basic Rules"
+search: false
 ---

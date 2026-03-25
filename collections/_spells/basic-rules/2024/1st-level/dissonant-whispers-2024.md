@@ -17,4 +17,5 @@ excerpt: "One creature of your choice that you can see within range hears a disc
 v_2024: true
 alt_version: "dissonant-whispers"
 source: "Basic Rules"
+search: false
 ---

@@ -24,4 +24,5 @@ excerpt: "You create a floating, spectral force that resembles a weapon of your 
 v_2024: true
 alt_version: "spiritual-weapon"
 source: "Basic Rules"
+search: false
 ---

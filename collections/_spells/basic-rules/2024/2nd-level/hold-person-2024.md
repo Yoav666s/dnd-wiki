@@ -26,4 +26,5 @@ excerpt: "Choose a Humanoid that you can see within range."
 v_2024: true
 alt_version: "hold-person"
 source: "Basic Rules"
+search: false
 ---

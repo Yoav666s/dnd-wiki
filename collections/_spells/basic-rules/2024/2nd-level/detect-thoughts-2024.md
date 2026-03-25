@@ -30,4 +30,5 @@ excerpt: "You activate one of the effects below."
 v_2024: true
 alt_version: "detect-thoughts"
 source: "Basic Rules"
+search: false
 ---

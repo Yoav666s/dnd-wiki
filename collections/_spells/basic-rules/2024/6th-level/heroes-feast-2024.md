@@ -24,4 +24,5 @@ excerpt: "You conjure a feast that appears on a surface in an unoccupied 10- foo
 v_2024: true
 alt_version: "heroes-feast"
 source: "Basic Rules"
+search: false
 ---

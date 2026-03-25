@@ -22,4 +22,5 @@ excerpt: "A passage appears at a point that you can see on a wooden, plaster, or
 v_2024: true
 alt_version: "passwall"
 source: "Basic Rules"
+search: false
 ---

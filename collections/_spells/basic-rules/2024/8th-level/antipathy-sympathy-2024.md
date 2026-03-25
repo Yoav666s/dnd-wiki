@@ -27,4 +27,5 @@ excerpt: "As you cast the spell, choose whether it creates antipathy or sympathy
 v_2024: true
 alt_version: "antipathy-sympathy"
 source: "Basic Rules"
+search: false
 ---

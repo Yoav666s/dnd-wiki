@@ -29,4 +29,5 @@ excerpt: "Describe or name a creature that is familiar to you."
 v_2024: true
 alt_version: "locate-creature"
 source: "Basic Rules"
+search: false
 ---

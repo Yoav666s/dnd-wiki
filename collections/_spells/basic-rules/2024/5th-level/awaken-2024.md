@@ -24,4 +24,5 @@ excerpt: "You spend the casting time tracing magical pathways within a precious 
 v_2024: true
 alt_version: "awaken"
 source: "Basic Rules"
+search: false
 ---

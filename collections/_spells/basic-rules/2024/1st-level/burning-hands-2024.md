@@ -18,4 +18,5 @@ excerpt: "A thin sheet of flames shoots forth from you."
 v_2024: true
 alt_version: "burning-hands"
 source: "Basic Rules"
+search: false
 ---

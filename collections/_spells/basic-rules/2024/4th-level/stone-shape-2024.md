@@ -22,4 +22,5 @@ excerpt: "You touch a stone object of Medium size or smaller or a section of sto
 v_2024: true
 alt_version: "stone-shape"
 source: "Basic Rules"
+search: false
 ---

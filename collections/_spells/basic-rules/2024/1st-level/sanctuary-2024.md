@@ -23,4 +23,5 @@ excerpt: "You ward a creature within range."
 v_2024: true
 alt_version: "sanctuary"
 source: "Basic Rules"
+search: false
 ---

@@ -23,4 +23,5 @@ excerpt: "You spray toxic mist at a creature within range."
 v_2024: true
 alt_version: "poison-spray"
 source: "Basic Rules"
+search: false
 ---

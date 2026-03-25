@@ -28,4 +28,5 @@ excerpt: "You create a ward against magical travel that protects up to 40,000 sq
 v_2024: true
 alt_version: "forbiddance"
 source: "Basic Rules"
+search: false
 ---

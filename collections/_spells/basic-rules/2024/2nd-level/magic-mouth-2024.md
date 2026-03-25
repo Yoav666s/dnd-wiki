@@ -25,4 +25,5 @@ excerpt: "You implant a message within an object in range--a message that is utt
 v_2024: true
 alt_version: "magic-mouth"
 source: "Basic Rules"
+search: false
 ---

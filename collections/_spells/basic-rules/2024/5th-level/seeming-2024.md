@@ -26,4 +26,5 @@ excerpt: "You give an illusory appearance to each creature of your choice that y
 v_2024: true
 alt_version: "seeming"
 source: "Basic Rules"
+search: false
 ---

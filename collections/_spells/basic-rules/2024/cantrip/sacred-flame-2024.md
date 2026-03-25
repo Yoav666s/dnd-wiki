@@ -20,4 +20,5 @@ excerpt: "Flame-like radiance descends on a creature that you can see within ran
 v_2024: true
 alt_version: "sacred-flame"
 source: "Basic Rules"
+search: false
 ---

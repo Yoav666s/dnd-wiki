@@ -22,4 +22,5 @@ excerpt: "You cast sorcerous energy at one creature or object within range."
 v_2024: true
 alt_version: "sorcerous-burst"
 source: "Basic Rules"
+search: false
 ---

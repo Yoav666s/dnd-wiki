@@ -29,4 +29,5 @@ excerpt: "You speak a one-word command to a creature you can see within range."
 v_2024: true
 alt_version: "command"
 source: "Basic Rules"
+search: false
 ---

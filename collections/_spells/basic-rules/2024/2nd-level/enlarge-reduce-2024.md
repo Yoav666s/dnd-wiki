@@ -30,4 +30,5 @@ excerpt: "For the duration, the spell enlarges or reduces a creature or an objec
 v_2024: true
 alt_version: "enlarge-reduce"
 source: "Basic Rules"
+search: false
 ---

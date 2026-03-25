@@ -26,4 +26,5 @@ excerpt: "Name or describe a famous person, place, or object."
 v_2024: true
 alt_version: "legend-lore"
 source: "Basic Rules"
+search: false
 ---

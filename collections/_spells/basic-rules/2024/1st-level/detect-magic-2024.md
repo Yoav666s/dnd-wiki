@@ -28,4 +28,5 @@ excerpt: "For the duration, you sense the presence of magical effects within 30 
 v_2024: true
 alt_version: "detect-magic"
 source: "Basic Rules"
+search: false
 ---

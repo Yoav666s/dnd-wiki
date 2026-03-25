@@ -26,4 +26,5 @@ excerpt: "A wall of strong wind rises from the ground at a point you choose with
 v_2024: true
 alt_version: "wind-wall"
 source: "Basic Rules"
+search: false
 ---

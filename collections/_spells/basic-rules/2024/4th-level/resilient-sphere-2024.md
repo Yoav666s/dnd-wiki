@@ -21,4 +21,5 @@ excerpt: "A shimmering sphere encloses a Large or smaller creature or object wit
 v_2024: true
 alt_version: "resilient-sphere"
 source: "Basic Rules"
+search: false
 ---

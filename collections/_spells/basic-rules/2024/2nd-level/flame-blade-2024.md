@@ -26,4 +26,5 @@ excerpt: "You evoke a fiery blade in your free hand."
 v_2024: true
 alt_version: "flame-blade"
 source: "Basic Rules"
+search: false
 ---

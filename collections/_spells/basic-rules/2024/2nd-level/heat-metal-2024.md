@@ -24,4 +24,5 @@ excerpt: "Choose a manufactured metal object, such as a metal weapon or a suit o
 v_2024: true
 alt_version: "heat-metal"
 source: "Basic Rules"
+search: false
 ---

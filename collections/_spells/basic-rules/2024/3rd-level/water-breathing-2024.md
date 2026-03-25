@@ -24,4 +24,5 @@ excerpt: "This spell grants up to ten willing creatures of your choice within ra
 v_2024: true
 alt_version: "water-breathing"
 source: "Basic Rules"
+search: false
 ---

@@ -21,4 +21,5 @@ excerpt: "You launch a mote of light at one creature or object within range."
 v_2024: true
 alt_version: "starry-wisp"
 source: "Basic Rules"
+search: false
 ---

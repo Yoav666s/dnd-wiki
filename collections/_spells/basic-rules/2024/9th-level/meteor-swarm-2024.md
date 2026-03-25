@@ -21,4 +21,5 @@ excerpt: "Blazing orbs of fire plummet to the ground at four different points yo
 v_2024: true
 alt_version: "meteor-swarm"
 source: "Basic Rules"
+search: false
 ---

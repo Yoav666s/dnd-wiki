@@ -25,4 +25,5 @@ excerpt: "You blast the mind of a creature that you can see within range."
 v_2024: true
 alt_version: "befuddlement"
 source: "Basic Rules"
+search: false
 ---

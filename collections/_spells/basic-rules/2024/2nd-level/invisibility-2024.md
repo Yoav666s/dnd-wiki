@@ -24,4 +24,5 @@ excerpt: "A creature you touch has the Invisible condition until the spell ends.
 v_2024: true
 alt_version: "invisibility"
 source: "Basic Rules"
+search: false
 ---

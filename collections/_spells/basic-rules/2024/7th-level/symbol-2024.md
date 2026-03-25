@@ -42,4 +42,5 @@ excerpt: "You inscribe a harmful glyph either on a surface (such as a section of
 v_2024: true
 alt_version: "symbol"
 source: "Basic Rules"
+search: false
 ---

@@ -25,4 +25,5 @@ excerpt: "Swarming locusts fill a 20-foot-radius Sphere centered on a point you 
 v_2024: true
 alt_version: "insect-plague"
 source: "Basic Rules"
+search: false
 ---

@@ -38,4 +38,5 @@ excerpt: "You create a ward that protects up to 2,500 square feet of floor space
 v_2024: true
 alt_version: "guards-and-wards"
 source: "Basic Rules"
+search: false
 ---

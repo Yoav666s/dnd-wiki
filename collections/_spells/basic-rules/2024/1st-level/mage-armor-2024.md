@@ -21,4 +21,5 @@ excerpt: "You touch a willing creature who isn't wearing armor."
 v_2024: true
 alt_version: "mage-armor"
 source: "Basic Rules"
+search: false
 ---

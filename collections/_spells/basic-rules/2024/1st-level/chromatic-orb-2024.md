@@ -21,4 +21,5 @@ excerpt: "You hurl an orb of energy at a target within range."
 v_2024: true
 alt_version: "chromatic-orb"
 source: "Basic Rules"
+search: false
 ---

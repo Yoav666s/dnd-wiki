@@ -23,4 +23,5 @@ excerpt: "Nonflammable grease covers the ground in a 10-foot square centered on 
 v_2024: true
 alt_version: "grease"
 source: "Basic Rules"
+search: false
 ---

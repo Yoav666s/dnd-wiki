@@ -22,4 +22,5 @@ excerpt: "You create a 20-foot-radius Sphere of fog centered on a point within r
 v_2024: true
 alt_version: "fog-cloud"
 source: "Basic Rules"
+search: false
 ---

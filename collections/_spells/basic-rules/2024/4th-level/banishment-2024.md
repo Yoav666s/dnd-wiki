@@ -25,4 +25,5 @@ excerpt: "One creature that you can see within range must succeed on a Charisma 
 v_2024: true
 alt_version: "banishment"
 source: "Basic Rules"
+search: false
 ---

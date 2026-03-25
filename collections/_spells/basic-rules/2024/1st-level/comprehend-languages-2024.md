@@ -23,4 +23,5 @@ excerpt: "For the duration, you understand the literal meaning of any language t
 v_2024: true
 alt_version: "comprehend-languages"
 source: "Basic Rules"
+search: false
 ---

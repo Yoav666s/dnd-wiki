@@ -22,4 +22,5 @@ excerpt: "Choose up to five falling creatures within range."
 v_2024: true
 alt_version: "feather-fall"
 source: "Basic Rules"
+search: false
 ---

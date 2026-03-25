@@ -24,4 +24,5 @@ excerpt: "The ground in a 20-foot-radius Sphere centered on a point within range
 v_2024: true
 alt_version: "spike-growth"
 source: "Basic Rules"
+search: false
 ---

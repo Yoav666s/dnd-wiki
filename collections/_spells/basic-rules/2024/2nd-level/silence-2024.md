@@ -22,4 +22,5 @@ excerpt: "For the duration, no sound can be created within or pass through a 20-
 v_2024: true
 alt_version: "silence"
 source: "Basic Rules"
+search: false
 ---

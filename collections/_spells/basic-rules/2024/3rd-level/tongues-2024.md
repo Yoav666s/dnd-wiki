@@ -23,4 +23,5 @@ excerpt: "This spell grants the creature you touch the ability to understand any
 v_2024: true
 alt_version: "tongues"
 source: "Basic Rules"
+search: false
 ---

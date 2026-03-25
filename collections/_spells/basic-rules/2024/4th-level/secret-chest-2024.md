@@ -24,4 +24,5 @@ excerpt: "You hide a chest and all its contents on the Ethereal Plane."
 v_2024: true
 alt_version: "secret-chest"
 source: "Basic Rules"
+search: false
 ---

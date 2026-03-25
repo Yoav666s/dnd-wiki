@@ -24,4 +24,5 @@ excerpt: "You teleport to a location within range."
 v_2024: true
 alt_version: "dimension-door"
 source: "Basic Rules"
+search: false
 ---

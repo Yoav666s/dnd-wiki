@@ -23,4 +23,5 @@ excerpt: "You touch another creature that is willing and create a mystic connect
 v_2024: true
 alt_version: "warding-bond"
 source: "Basic Rules"
+search: false
 ---

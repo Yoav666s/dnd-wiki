@@ -18,4 +18,5 @@ excerpt: "A creature you touch makes a Constitution saving throw, taking 2d10 Ne
 v_2024: true
 alt_version: "inflict-wounds"
 source: "Basic Rules"
+search: false
 ---

@@ -26,4 +26,5 @@ excerpt: "You create a sound or an image of an object within range that lasts fo
 v_2024: true
 alt_version: "minor-illusion"
 source: "Basic Rules"
+search: false
 ---

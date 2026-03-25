@@ -20,4 +20,5 @@ excerpt: "You create a magical zone that guards against deception in a 15- foot-
 v_2024: true
 alt_version: "zone-of-truth"
 source: "Basic Rules"
+search: false
 ---

@@ -17,4 +17,5 @@ excerpt: "The target takes an extra 2d8 Radiant damage from the attack."
 v_2024: true
 alt_version: "divine-smite"
 source: "Basic Rules"
+search: false
 ---

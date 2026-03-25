@@ -22,4 +22,5 @@ excerpt: "A creature you touch regains a number of Hit Points equal to 2d8 plus 
 v_2024: true
 alt_version: "cure-wounds"
 source: "Basic Rules"
+search: false
 ---

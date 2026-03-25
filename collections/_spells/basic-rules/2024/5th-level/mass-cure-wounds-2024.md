@@ -20,4 +20,5 @@ excerpt: "A wave of healing energy washes out from a point you can see within ra
 v_2024: true
 alt_version: "mass-cure-wounds"
 source: "Basic Rules"
+search: false
 ---

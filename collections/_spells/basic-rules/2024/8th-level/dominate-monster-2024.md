@@ -26,4 +26,5 @@ excerpt: "One creature you can see within range must succeed on a Wisdom saving 
 v_2024: true
 alt_version: "dominate-monster"
 source: "Basic Rules"
+search: false
 ---

@@ -24,4 +24,5 @@ excerpt: "Choose a creature that you can see within range."
 v_2024: true
 alt_version: "hold-monster"
 source: "Basic Rules"
+search: false
 ---

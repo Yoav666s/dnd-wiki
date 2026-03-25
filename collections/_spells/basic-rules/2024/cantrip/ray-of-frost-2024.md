@@ -21,4 +21,5 @@ excerpt: "A frigid beam of blue-white light streaks toward a creature within ran
 v_2024: true
 alt_version: "ray-of-frost"
 source: "Basic Rules"
+search: false
 ---

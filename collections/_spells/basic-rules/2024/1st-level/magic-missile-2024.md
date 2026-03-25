@@ -19,4 +19,5 @@ excerpt: "You create three glowing darts of magical force."
 v_2024: true
 alt_version: "magic-missile"
 source: "Basic Rules"
+search: false
 ---

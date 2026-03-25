@@ -24,4 +24,5 @@ excerpt: "Choose a pile of bones or a corpse of a Medium or Small Humanoid withi
 v_2024: true
 alt_version: "animate-dead"
 source: "Basic Rules"
+search: false
 ---

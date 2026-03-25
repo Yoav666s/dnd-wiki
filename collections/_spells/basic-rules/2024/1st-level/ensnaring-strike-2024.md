@@ -20,4 +20,5 @@ excerpt: "As you hit the target, grasping vines appear on it, and it makes a Str
 v_2024: true
 alt_version: "ensnaring-strike"
 source: "Basic Rules"
+search: false
 ---

@@ -27,4 +27,5 @@ excerpt: "You attempt to bind a Celestial, an Elemental, a Fey, or a Fiend to yo
 v_2024: true
 alt_version: "planar-binding"
 source: "Basic Rules"
+search: false
 ---

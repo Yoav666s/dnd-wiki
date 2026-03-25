@@ -27,4 +27,5 @@ excerpt: "You create a 5-foot-diameter sphere of fire in an unoccupied space on 
 v_2024: true
 alt_version: "flaming-sphere"
 source: "Basic Rules"
+search: false
 ---

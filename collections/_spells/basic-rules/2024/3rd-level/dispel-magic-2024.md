@@ -25,4 +25,5 @@ excerpt: "Choose one creature, object, or magical effect within range."
 v_2024: true
 alt_version: "dispel-magic"
 source: "Basic Rules"
+search: false
 ---

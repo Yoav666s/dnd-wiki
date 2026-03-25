@@ -23,4 +23,5 @@ excerpt: "Objects animate at your command."
 v_2024: true
 alt_version: "animate-objects"
 source: "Basic Rules"
+search: false
 ---

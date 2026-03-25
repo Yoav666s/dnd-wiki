@@ -25,4 +25,5 @@ excerpt: "Each creature of your choice in a 5-foot-radius Sphere centered on a p
 v_2024: true
 alt_version: "sleep"
 source: "Basic Rules"
+search: false
 ---

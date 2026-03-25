@@ -26,4 +26,5 @@ excerpt: "A 10-foot Emanation springs into existence around you and remains stat
 v_2024: true
 alt_version: "tiny-hut"
 source: "Basic Rules"
+search: false
 ---

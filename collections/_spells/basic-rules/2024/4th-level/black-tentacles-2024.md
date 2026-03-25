@@ -25,4 +25,5 @@ excerpt: "Squirming, ebony tentacles fill a 20-foot square on ground that you ca
 v_2024: true
 alt_version: "black-tentacles"
 source: "Basic Rules"
+search: false
 ---

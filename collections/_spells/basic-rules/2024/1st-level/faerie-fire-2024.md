@@ -21,4 +21,5 @@ excerpt: "Objects in a 20-foot Cube within range are outlined in blue, green, or
 v_2024: true
 alt_version: "faerie-fire"
 source: "Basic Rules"
+search: false
 ---

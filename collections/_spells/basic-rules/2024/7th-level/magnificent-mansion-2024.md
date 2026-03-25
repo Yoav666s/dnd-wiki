@@ -30,4 +30,5 @@ excerpt: "You conjure a shimmering door in range that lasts for the duration."
 v_2024: true
 alt_version: "magnificent-mansion"
 source: "Basic Rules"
+search: false
 ---

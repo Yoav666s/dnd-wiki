@@ -36,4 +36,5 @@ excerpt: "You touch a dead Humanoid or a piece of one."
 v_2024: true
 alt_version: "reincarnate"
 source: "Basic Rules"
+search: false
 ---

@@ -23,4 +23,5 @@ excerpt: "You touch a creature or at least 1 cubic inch of its flesh."
 v_2024: true
 alt_version: "clone"
 source: "Basic Rules"
+search: false
 ---

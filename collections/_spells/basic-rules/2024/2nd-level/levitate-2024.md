@@ -26,4 +26,5 @@ excerpt: "One creature or loose object of your choice that you can see within ra
 v_2024: true
 alt_version: "levitate"
 source: "Basic Rules"
+search: false
 ---

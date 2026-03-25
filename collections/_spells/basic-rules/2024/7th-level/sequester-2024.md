@@ -24,4 +24,5 @@ excerpt: "With a touch, you magically sequester an object or a willing creature.
 v_2024: true
 alt_version: "sequester"
 source: "Basic Rules"
+search: false
 ---

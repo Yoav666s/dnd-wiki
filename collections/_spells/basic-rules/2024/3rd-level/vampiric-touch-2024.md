@@ -22,4 +22,5 @@ excerpt: "The touch of your shadow-wreathed hand can siphon life force from othe
 v_2024: true
 alt_version: "vampiric-touch"
 source: "Basic Rules"
+search: false
 ---

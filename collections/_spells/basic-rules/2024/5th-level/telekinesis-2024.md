@@ -26,4 +26,5 @@ excerpt: "You gain the ability to move or manipulate creatures or objects by tho
 v_2024: true
 alt_version: "telekinesis"
 source: "Basic Rules"
+search: false
 ---

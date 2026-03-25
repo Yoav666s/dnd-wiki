@@ -30,4 +30,5 @@ excerpt: "You attempt to transform a creature that you can see within range into
 v_2024: true
 alt_version: "polymorph"
 source: "Basic Rules"
+search: false
 ---

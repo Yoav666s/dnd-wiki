@@ -24,4 +24,5 @@ excerpt: "For the duration, the willing creature you touch has Truesight with a 
 v_2024: true
 alt_version: "true-seeing"
 source: "Basic Rules"
+search: false
 ---

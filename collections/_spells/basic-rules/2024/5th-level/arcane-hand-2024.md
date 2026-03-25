@@ -28,4 +28,5 @@ excerpt: "You create a Large hand of shimmering magical energy in an unoccupied 
 v_2024: true
 alt_version: "arcane-hand"
 source: "Basic Rules"
+search: false
 ---

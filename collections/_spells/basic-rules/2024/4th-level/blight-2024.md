@@ -23,4 +23,5 @@ excerpt: "A creature that you can see within range makes a Constitution saving t
 v_2024: true
 alt_version: "blight"
 source: "Basic Rules"
+search: false
 ---

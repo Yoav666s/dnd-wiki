@@ -23,4 +23,5 @@ excerpt: "An Invisible wall of force springs into existence at a point you choos
 v_2024: true
 alt_version: "wall-of-force"
 source: "Basic Rules"
+search: false
 ---

@@ -25,4 +25,5 @@ excerpt: "You create a 20-foot-radius Sphere of yellow, nauseating gas centered 
 v_2024: true
 alt_version: "stinking-cloud"
 source: "Basic Rules"
+search: false
 ---

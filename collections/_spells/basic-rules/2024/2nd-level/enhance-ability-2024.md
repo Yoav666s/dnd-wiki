@@ -26,4 +26,5 @@ excerpt: "You touch a creature and choose Strength, Dexterity, Intelligence, Wis
 v_2024: true
 alt_version: "enhance-ability"
 source: "Basic Rules"
+search: false
 ---

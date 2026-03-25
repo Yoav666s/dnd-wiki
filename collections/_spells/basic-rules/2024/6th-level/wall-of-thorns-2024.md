@@ -25,4 +25,5 @@ excerpt: "You create a wall of tangled brush bristling with needle-sharp thorns.
 v_2024: true
 alt_version: "wall-of-thorns"
 source: "Basic Rules"
+search: false
 ---

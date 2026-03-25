@@ -23,4 +23,5 @@ excerpt: "A storm cloud appears at a point within range that you can see above y
 v_2024: true
 alt_version: "call-lightning"
 source: "Basic Rules"
+search: false
 ---

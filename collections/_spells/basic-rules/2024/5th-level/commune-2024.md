@@ -25,4 +25,5 @@ excerpt: "You contact a deity or a divine proxy and ask up to three questions th
 v_2024: true
 alt_version: "commune"
 source: "Basic Rules"
+search: false
 ---

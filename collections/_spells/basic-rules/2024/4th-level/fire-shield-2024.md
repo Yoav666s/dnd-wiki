@@ -23,4 +23,5 @@ excerpt: "Wispy flames wreathe your body for the duration, shedding Bright Light
 v_2024: true
 alt_version: "fire-shield"
 source: "Basic Rules"
+search: false
 ---

@@ -19,4 +19,5 @@ excerpt: "The creature that damaged you is momentarily surrounded by green flame
 v_2024: true
 alt_version: "hellish-rebuke"
 source: "Basic Rules"
+search: false
 ---

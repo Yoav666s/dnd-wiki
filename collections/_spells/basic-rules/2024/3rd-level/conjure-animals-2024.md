@@ -22,4 +22,5 @@ excerpt: "You conjure nature spirits that appear as a Large pack of spectral, in
 v_2024: true
 alt_version: "conjure-animals"
 source: "Basic Rules"
+search: false
 ---

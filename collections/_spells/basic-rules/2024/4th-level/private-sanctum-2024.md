@@ -35,4 +35,5 @@ excerpt: "You make an area within range magically secure."
 v_2024: true
 alt_version: "private-sanctum"
 source: "Basic Rules"
+search: false
 ---

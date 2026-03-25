@@ -27,4 +27,5 @@ excerpt: "You create a wall of ice on a solid surface within range."
 v_2024: true
 alt_version: "wall-of-ice"
 source: "Basic Rules"
+search: false
 ---

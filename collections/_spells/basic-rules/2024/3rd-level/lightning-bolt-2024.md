@@ -20,4 +20,5 @@ excerpt: "A stroke of lightning forming a 100-foot-long, 5-foot-wide Line blasts
 v_2024: true
 alt_version: "lightning-bolt"
 source: "Basic Rules"
+search: false
 ---

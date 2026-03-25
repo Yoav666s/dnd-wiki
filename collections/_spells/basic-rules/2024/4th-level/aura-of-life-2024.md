@@ -18,4 +18,5 @@ excerpt: "An aura radiates from you in a 30-foot Emanation for the duration."
 v_2024: true
 alt_version: "aura-of-life"
 source: "Basic Rules"
+search: false
 ---

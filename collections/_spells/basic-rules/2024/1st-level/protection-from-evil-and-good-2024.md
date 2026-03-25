@@ -25,4 +25,5 @@ excerpt: "Until the spell ends, one willing creature you touch is protected agai
 v_2024: true
 alt_version: "protection-from-evil-and-good"
 source: "Basic Rules"
+search: false
 ---

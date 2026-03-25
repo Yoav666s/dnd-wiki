@@ -20,4 +20,5 @@ excerpt: "Choose any number of willing creatures that you can see within range."
 v_2024: true
 alt_version: "animal-shapes"
 source: "Basic Rules"
+search: false
 ---

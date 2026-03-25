@@ -27,4 +27,5 @@ excerpt: "You create the image of an object, a creature, or some other visible p
 v_2024: true
 alt_version: "silent-image"
 source: "Basic Rules"
+search: false
 ---

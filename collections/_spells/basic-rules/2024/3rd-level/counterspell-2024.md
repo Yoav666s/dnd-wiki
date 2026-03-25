@@ -20,4 +20,5 @@ excerpt: "You attempt to interrupt a creature in the process of casting a spell.
 v_2024: true
 alt_version: "counterspell"
 source: "Basic Rules"
+search: false
 ---

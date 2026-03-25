@@ -26,4 +26,5 @@ excerpt: "You create a spectral sword that hovers within range."
 v_2024: true
 alt_version: "arcane-sword"
 source: "Basic Rules"
+search: false
 ---

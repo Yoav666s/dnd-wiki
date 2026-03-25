@@ -23,4 +23,5 @@ excerpt: "You create an Invisible, invulnerable eye within range that hovers for
 v_2024: true
 alt_version: "arcane-eye"
 source: "Basic Rules"
+search: false
 ---

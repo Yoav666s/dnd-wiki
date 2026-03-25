@@ -22,4 +22,5 @@ excerpt: "You point toward a creature within range and whisper a message."
 v_2024: true
 alt_version: "message"
 source: "Basic Rules"
+search: false
 ---

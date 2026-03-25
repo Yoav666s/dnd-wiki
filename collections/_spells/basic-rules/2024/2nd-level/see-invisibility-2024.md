@@ -21,4 +21,5 @@ excerpt: "For the duration, you see creatures and objects that have the Invisibl
 v_2024: true
 alt_version: "see-invisibility"
 source: "Basic Rules"
+search: false
 ---

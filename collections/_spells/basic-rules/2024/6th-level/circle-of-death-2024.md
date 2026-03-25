@@ -22,4 +22,5 @@ excerpt: "Negative energy ripples out in a 60-foot-radius Sphere from a point yo
 v_2024: true
 alt_version: "circle-of-death"
 source: "Basic Rules"
+search: false
 ---

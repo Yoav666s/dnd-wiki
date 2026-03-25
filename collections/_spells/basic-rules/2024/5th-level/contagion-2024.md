@@ -19,4 +19,5 @@ excerpt: "Your touch inflicts a magical contagion."
 v_2024: true
 alt_version: "contagion"
 source: "Basic Rules"
+search: false
 ---

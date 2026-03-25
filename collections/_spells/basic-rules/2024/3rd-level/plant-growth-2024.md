@@ -25,4 +25,5 @@ excerpt: "This spell channels vitality into plants."
 v_2024: true
 alt_version: "plant-growth"
 source: "Basic Rules"
+search: false
 ---

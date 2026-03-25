@@ -34,4 +34,5 @@ excerpt: "You touch a creature and magically remove one of the following effects
 v_2024: true
 alt_version: "greater-restoration"
 source: "Basic Rules"
+search: false
 ---

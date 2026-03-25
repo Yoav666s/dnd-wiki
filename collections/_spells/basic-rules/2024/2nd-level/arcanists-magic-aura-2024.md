@@ -24,4 +24,5 @@ excerpt: "With a touch, you place an illusion on a willing creature or an object
 v_2024: true
 alt_version: "arcanists-magic-aura"
 source: "Basic Rules"
+search: false
 ---

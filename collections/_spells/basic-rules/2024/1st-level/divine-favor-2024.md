@@ -18,4 +18,5 @@ excerpt: "Until the spell ends, your attacks with weapons deal an extra 1d4 Radi
 v_2024: true
 alt_version: "divine-favor"
 source: "Basic Rules"
+search: false
 ---

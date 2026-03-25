@@ -45,4 +45,5 @@ excerpt: "You touch a point and infuse an area around it with holy or unholy pow
 v_2024: true
 alt_version: "hallow"
 source: "Basic Rules"
+search: false
 ---

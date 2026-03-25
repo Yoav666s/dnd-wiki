@@ -23,4 +23,5 @@ excerpt: "You gain the Invisible condition at the same time that an illusory dou
 v_2024: true
 alt_version: "mislead"
 source: "Basic Rules"
+search: false
 ---

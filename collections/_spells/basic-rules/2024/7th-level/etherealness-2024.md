@@ -25,4 +25,5 @@ excerpt: "You step into the border regions of the Ethereal Plane, where it overl
 v_2024: true
 alt_version: "etherealness"
 source: "Basic Rules"
+search: false
 ---

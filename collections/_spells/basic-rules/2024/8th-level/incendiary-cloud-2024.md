@@ -25,4 +25,5 @@ excerpt: "A swirling cloud of embers and smoke fills a 20-foot-radius Sphere cen
 v_2024: true
 alt_version: "incendiary-cloud"
 source: "Basic Rules"
+search: false
 ---

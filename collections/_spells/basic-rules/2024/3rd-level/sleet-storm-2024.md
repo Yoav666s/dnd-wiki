@@ -23,4 +23,5 @@ excerpt: "Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius Cy
 v_2024: true
 alt_version: "sleet-storm"
 source: "Basic Rules"
+search: false
 ---

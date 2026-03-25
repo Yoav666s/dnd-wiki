@@ -31,4 +31,5 @@ excerpt: "Until the spell ends, you control any water inside an area you choose 
 v_2024: true
 alt_version: "control-water"
 source: "Basic Rules"
+search: false
 ---

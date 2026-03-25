@@ -26,4 +26,5 @@ excerpt: "For the duration, magical Darkness spreads from a point within range a
 v_2024: true
 alt_version: "darkness"
 source: "Basic Rules"
+search: false
 ---

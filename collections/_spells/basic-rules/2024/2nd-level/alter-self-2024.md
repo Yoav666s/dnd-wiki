@@ -25,4 +25,5 @@ excerpt: "You alter your physical form."
 v_2024: true
 alt_version: "alter-self"
 source: "Basic Rules"
+search: false
 ---

@@ -22,4 +22,5 @@ excerpt: "A Large, quasi-real, horselike creature appears on the ground in an un
 v_2024: true
 alt_version: "phantom-steed"
 source: "Basic Rules"
+search: false
 ---

@@ -24,4 +24,5 @@ excerpt: "A Club or Quarterstaff you are holding is imbued with nature's power."
 v_2024: true
 alt_version: "shillelagh"
 source: "Basic Rules"
+search: false
 ---

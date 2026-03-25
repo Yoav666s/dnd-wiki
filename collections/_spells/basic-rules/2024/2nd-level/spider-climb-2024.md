@@ -23,4 +23,5 @@ excerpt: "Until the spell ends, one willing creature you touch gains the ability
 v_2024: true
 alt_version: "spider-climb"
 source: "Basic Rules"
+search: false
 ---

@@ -25,4 +25,5 @@ excerpt: "One Beast you can see within range must succeed on a Wisdom saving thr
 v_2024: true
 alt_version: "dominate-beast"
 source: "Basic Rules"
+search: false
 ---

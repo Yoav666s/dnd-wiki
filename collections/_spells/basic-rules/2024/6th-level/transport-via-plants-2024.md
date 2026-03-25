@@ -18,4 +18,5 @@ excerpt: "This spell creates a magical link between a Large or larger inanimate 
 v_2024: true
 alt_version: "transport-via-plants"
 source: "Basic Rules"
+search: false
 ---

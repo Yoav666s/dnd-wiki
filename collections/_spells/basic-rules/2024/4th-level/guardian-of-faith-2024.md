@@ -19,4 +19,5 @@ excerpt: "A Large spectral guardian appears and hovers for the duration in an un
 v_2024: true
 alt_version: "guardian-of-faith"
 source: "Basic Rules"
+search: false
 ---

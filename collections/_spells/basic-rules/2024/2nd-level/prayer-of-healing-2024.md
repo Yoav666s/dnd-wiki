@@ -19,4 +19,5 @@ excerpt: "Up to five creatures of your choice who remain within range for the sp
 v_2024: true
 alt_version: "prayer-of-healing"
 source: "Basic Rules"
+search: false
 ---

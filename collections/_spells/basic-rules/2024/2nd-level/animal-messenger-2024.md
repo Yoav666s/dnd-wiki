@@ -23,4 +23,5 @@ excerpt: "A Tiny Beast of your choice that you can see within range must succeed
 v_2024: true
 alt_version: "animal-messenger"
 source: "Basic Rules"
+search: false
 ---

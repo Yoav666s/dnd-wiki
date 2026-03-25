@@ -27,4 +27,5 @@ excerpt: "You touch a creature, which must succeed on a Wisdom saving throw or b
 v_2024: true
 alt_version: "bestow-curse"
 source: "Basic Rules"
+search: false
 ---

@@ -19,4 +19,5 @@ excerpt: "You create a wall of whirling blades made of magical energy."
 v_2024: true
 alt_version: "blade-barrier"
 source: "Basic Rules"
+search: false
 ---

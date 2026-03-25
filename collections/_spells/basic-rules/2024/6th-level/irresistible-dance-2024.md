@@ -21,4 +21,5 @@ excerpt: "One creature that you can see within range must make a Wisdom saving t
 v_2024: true
 alt_version: "irresistible-dance"
 source: "Basic Rules"
+search: false
 ---

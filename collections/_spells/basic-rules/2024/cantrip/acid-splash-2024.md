@@ -21,4 +21,5 @@ excerpt: "You create an acidic bubble at a point within range, where it explodes
 v_2024: true
 alt_version: "acid-splash"
 source: "Basic Rules"
+search: false
 ---

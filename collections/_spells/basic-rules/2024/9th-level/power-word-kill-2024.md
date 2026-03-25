@@ -20,4 +20,5 @@ excerpt: "You compel one creature you can see within range to die."
 v_2024: true
 alt_version: "power-word-kill"
 source: "Basic Rules"
+search: false
 ---

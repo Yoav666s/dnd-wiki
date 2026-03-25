@@ -50,4 +50,5 @@ excerpt: "This spell instantly transports you and up to eight willing creatures 
 v_2024: true
 alt_version: "teleport"
 source: "Basic Rules"
+search: false
 ---

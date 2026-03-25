@@ -26,4 +26,5 @@ excerpt: "You touch a creature that has been dead for no longer than 200 years a
 v_2024: true
 alt_version: "true-resurrection"
 source: "Basic Rules"
+search: false
 ---

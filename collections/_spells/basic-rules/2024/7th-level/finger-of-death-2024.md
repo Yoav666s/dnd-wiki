@@ -22,4 +22,5 @@ excerpt: "You unleash negative energy toward a creature you can see within range
 v_2024: true
 alt_version: "finger-of-death"
 source: "Basic Rules"
+search: false
 ---

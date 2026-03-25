@@ -28,4 +28,5 @@ excerpt: "You create the image of an object, a creature, or some other visible p
 v_2024: true
 alt_version: "major-image"
 source: "Basic Rules"
+search: false
 ---

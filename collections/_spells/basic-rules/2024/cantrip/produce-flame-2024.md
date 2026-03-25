@@ -22,4 +22,5 @@ excerpt: "A flickering flame appears in your hand and remains there for the dura
 v_2024: true
 alt_version: "produce-flame"
 source: "Basic Rules"
+search: false
 ---

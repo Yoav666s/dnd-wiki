@@ -25,4 +25,5 @@ excerpt: "You magically sense the most direct physical route to a location you n
 v_2024: true
 alt_version: "find-the-path"
 source: "Basic Rules"
+search: false
 ---

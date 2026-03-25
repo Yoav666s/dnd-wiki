@@ -19,4 +19,5 @@ excerpt: "You and up to five willing creatures within 5 feet of you instantly te
 v_2024: true
 alt_version: "word-of-recall"
 source: "Basic Rules"
+search: false
 ---

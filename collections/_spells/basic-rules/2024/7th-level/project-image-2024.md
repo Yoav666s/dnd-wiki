@@ -26,4 +26,5 @@ excerpt: "You create an illusory copy of yourself that lasts for the duration."
 v_2024: true
 alt_version: "project-image"
 source: "Basic Rules"
+search: false
 ---

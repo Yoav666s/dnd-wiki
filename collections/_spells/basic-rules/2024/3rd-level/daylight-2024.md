@@ -26,4 +26,5 @@ excerpt: "For the duration, sunlight spreads from a point within range and fills
 v_2024: true
 alt_version: "daylight"
 source: "Basic Rules"
+search: false
 ---

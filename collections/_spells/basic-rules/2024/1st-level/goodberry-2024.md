@@ -22,4 +22,5 @@ excerpt: "Ten berries appear in your hand and are infused with magic for the dur
 v_2024: true
 alt_version: "goodberry"
 source: "Basic Rules"
+search: false
 ---

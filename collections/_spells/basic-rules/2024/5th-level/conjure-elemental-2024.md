@@ -22,4 +22,5 @@ excerpt: "You conjure a Large, intangible spirit from the Elemental Planes that 
 v_2024: true
 alt_version: "conjure-elemental"
 source: "Basic Rules"
+search: false
 ---

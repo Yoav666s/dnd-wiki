@@ -27,4 +27,5 @@ excerpt: "You launch a sunbeam in a 5-foot-wide, 60-foot-long Line."
 v_2024: true
 alt_version: "sunbeam"
 source: "Basic Rules"
+search: false
 ---

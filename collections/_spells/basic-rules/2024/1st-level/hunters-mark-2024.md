@@ -21,4 +21,5 @@ excerpt: "You magically mark one creature you can see within range as your quarr
 v_2024: true
 alt_version: "hunters-mark"
 source: "Basic Rules"
+search: false
 ---

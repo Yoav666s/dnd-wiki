@@ -25,4 +25,5 @@ excerpt: "You shape-shift into another creature for the duration or until you ta
 v_2024: true
 alt_version: "shapechange"
 source: "Basic Rules"
+search: false
 ---

@@ -21,4 +21,5 @@ excerpt: "You conjure a Medium spirit from the Feywild in an unoccupied space yo
 v_2024: true
 alt_version: "conjure-fey"
 source: "Basic Rules"
+search: false
 ---

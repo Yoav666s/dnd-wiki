@@ -24,4 +24,5 @@ excerpt: "A loud noise erupts from a point of your choice within range."
 v_2024: true
 alt_version: "shatter"
 source: "Basic Rules"
+search: false
 ---

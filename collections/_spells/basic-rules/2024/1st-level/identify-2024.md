@@ -25,4 +25,5 @@ excerpt: "You touch an object throughout the spell's casting."
 v_2024: true
 alt_version: "identify"
 source: "Basic Rules"
+search: false
 ---

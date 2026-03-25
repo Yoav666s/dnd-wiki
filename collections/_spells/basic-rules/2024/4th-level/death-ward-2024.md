@@ -21,4 +21,5 @@ excerpt: "You touch a creature and grant it a measure of protection from death."
 v_2024: true
 alt_version: "death-ward"
 source: "Basic Rules"
+search: false
 ---

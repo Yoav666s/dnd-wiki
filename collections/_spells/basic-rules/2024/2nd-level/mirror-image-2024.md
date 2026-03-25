@@ -24,4 +24,5 @@ excerpt: "Three illusory duplicates of yourself appear in your space."
 v_2024: true
 alt_version: "mirror-image"
 source: "Basic Rules"
+search: false
 ---

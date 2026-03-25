@@ -24,4 +24,5 @@ excerpt: "Hail falls in a 20-foot-radius, 40-foot-high Cylinder centered on a po
 v_2024: true
 alt_version: "ice-storm"
 source: "Basic Rules"
+search: false
 ---

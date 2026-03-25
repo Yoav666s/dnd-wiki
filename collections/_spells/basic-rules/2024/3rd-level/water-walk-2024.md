@@ -26,4 +26,5 @@ excerpt: "This spell grants the ability to move across any liquid surface--such 
 v_2024: true
 alt_version: "water-walk"
 source: "Basic Rules"
+search: false
 ---

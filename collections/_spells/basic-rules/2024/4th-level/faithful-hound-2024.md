@@ -26,4 +26,5 @@ excerpt: "You conjure a phantom watchdog in an unoccupied space that you can see
 v_2024: true
 alt_version: "faithful-hound"
 source: "Basic Rules"
+search: false
 ---

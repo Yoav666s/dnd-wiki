@@ -36,4 +36,5 @@ excerpt: "You create a magical restraint to hold a creature that you can see wit
 v_2024: true
 alt_version: "imprisonment"
 source: "Basic Rules"
+search: false
 ---

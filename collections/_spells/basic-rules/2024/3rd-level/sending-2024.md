@@ -26,4 +26,5 @@ excerpt: "You send a short message of 25 words or fewer to a creature you have m
 v_2024: true
 alt_version: "sending"
 source: "Basic Rules"
+search: false
 ---

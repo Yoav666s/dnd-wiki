@@ -22,4 +22,5 @@ excerpt: "One Humanoid you can see within range makes a Wisdom saving throw."
 v_2024: true
 alt_version: "charm-person"
 source: "Basic Rules"
+search: false
 ---

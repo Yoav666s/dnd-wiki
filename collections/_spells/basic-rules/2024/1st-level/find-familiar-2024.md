@@ -28,4 +28,5 @@ excerpt: "You gain the service of a familiar, a spirit that takes an animal form
 v_2024: true
 alt_version: "find-familiar"
 source: "Basic Rules"
+search: false
 ---

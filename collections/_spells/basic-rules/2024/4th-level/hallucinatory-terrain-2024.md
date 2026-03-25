@@ -26,4 +26,5 @@ excerpt: "You make natural terrain in a 150-foot Cube in range look, sound, and 
 v_2024: true
 alt_version: "hallucinatory-terrain"
 source: "Basic Rules"
+search: false
 ---

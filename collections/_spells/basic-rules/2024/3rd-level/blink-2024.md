@@ -18,4 +18,5 @@ excerpt: "Roll 1d6 at the end of each of your turns for the duration."
 v_2024: true
 alt_version: "blink"
 source: "Basic Rules"
+search: false
 ---

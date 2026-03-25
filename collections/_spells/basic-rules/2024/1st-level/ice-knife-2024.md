@@ -21,4 +21,5 @@ excerpt: "You create a shard of ice and fling it at one creature within range."
 v_2024: true
 alt_version: "ice-knife"
 source: "Basic Rules"
+search: false
 ---

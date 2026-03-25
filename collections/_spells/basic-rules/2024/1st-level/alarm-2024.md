@@ -27,4 +27,5 @@ excerpt: "You set an alarm against intrusion."
 v_2024: true
 alt_version: "alarm"
 source: "Basic Rules"
+search: false
 ---

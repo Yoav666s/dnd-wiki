@@ -29,4 +29,5 @@ excerpt: "A Line of strong wind 60 feet long and 10 feet wide blasts from you in
 v_2024: true
 alt_version: "gust-of-wind"
 source: "Basic Rules"
+search: false
 ---

@@ -21,4 +21,5 @@ excerpt: "You gain the ability to enter a tree and move from inside it to inside
 v_2024: true
 alt_version: "tree-stride"
 source: "Basic Rules"
+search: false
 ---

@@ -21,4 +21,5 @@ excerpt: "At your touch, all curses affecting one creature or object end."
 v_2024: true
 alt_version: "remove-curse"
 source: "Basic Rules"
+search: false
 ---

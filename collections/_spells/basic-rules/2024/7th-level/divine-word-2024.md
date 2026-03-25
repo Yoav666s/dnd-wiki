@@ -26,4 +26,5 @@ excerpt: "You utter a word imbued with power from the Upper Planes."
 v_2024: true
 alt_version: "divine-word"
 source: "Basic Rules"
+search: false
 ---

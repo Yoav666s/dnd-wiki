@@ -21,4 +21,5 @@ excerpt: "You hurl a mote of fire at a creature or an object within range."
 v_2024: true
 alt_version: "fire-bolt"
 source: "Basic Rules"
+search: false
 ---

@@ -33,4 +33,5 @@ excerpt: "Each creature in a 10-foot-radius Sphere centered on a point you choos
 v_2024: true
 alt_version: "confusion"
 source: "Basic Rules"
+search: false
 ---

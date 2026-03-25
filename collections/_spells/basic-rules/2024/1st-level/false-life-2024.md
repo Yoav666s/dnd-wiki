@@ -20,4 +20,5 @@ excerpt: "You gain 2d4 + 4 Temporary Hit Points."
 v_2024: true
 alt_version: "false-life"
 source: "Basic Rules"
+search: false
 ---

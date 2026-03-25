@@ -27,4 +27,5 @@ excerpt: "You beseech an otherworldly entity for aid."
 v_2024: true
 alt_version: "planar-ally"
 source: "Basic Rules"
+search: false
 ---
