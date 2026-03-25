@@ -16,7 +16,6 @@ comp:
   - M
 material: "2 copper pieces, which the spell consume"
 duration: "10 Days"
-cast_time: "Action"
 ritual: true
 description: |
   You touch a corpse or other remains. For the duration, the target is protected from decay and can't become Undead. 

@@ -17,7 +17,6 @@ comp:
   - M
 material: "a pinch of dirt"
 duration: "1 Hour"
-cast_time: "Action"
 description: |
   You touch a creature. The target's Speed increases by 10 feet until the spell ends.
 excerpt: "You touch a creature."

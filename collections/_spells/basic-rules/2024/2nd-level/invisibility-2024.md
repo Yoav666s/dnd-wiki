@@ -18,7 +18,6 @@ comp:
 material: "an eyelash in gum arabic"
 duration: "1 Hour"
 concentration: true
-cast_time: "Action"
 description: |
   A creature you touch has the Invisible condition until the spell ends. The spell ends early immediately after the target makes an attack roll, deals damage, or casts a spell.
 excerpt: "A creature you touch has the Invisible condition until the spell ends."

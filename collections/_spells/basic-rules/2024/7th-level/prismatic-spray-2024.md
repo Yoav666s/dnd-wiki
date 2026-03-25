@@ -13,7 +13,6 @@ comp:
   - V
   - S
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll 1d8 to determine which color ray affects it, consulting the Prismatic Rays table.
 

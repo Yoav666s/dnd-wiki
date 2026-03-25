@@ -16,7 +16,6 @@ comp:
   - S
 duration: "1 Hour"
 concentration: true
-cast_time: "Action"
 description: |
   One creature you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has Advantage on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success. 
 

@@ -17,7 +17,6 @@ comp:
 material: "a rotten egg"
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by Gust of Wind) disperses it. 
 

@@ -14,7 +14,6 @@ comp:
   - M
 material: "a silver whistle"
 duration: "8 Hours"
-cast_time: "Action"
 description: |
   You conjure a phantom watchdog in an unoccupied space that you can see within range. The hound remains for the duration or until the two of you are more than 300 feet apart from each other. 
 

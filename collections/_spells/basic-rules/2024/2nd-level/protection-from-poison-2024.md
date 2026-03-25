@@ -15,7 +15,6 @@ comp:
   - V
   - S
 duration: "1 Hour"
-cast_time: "Action"
 description: |
   You touch a creature and end the Poisoned condition on it. For the duration, the target has Advantage on saving throws to avoid or end the Poisoned condition, and it has Resistance to Poison damage.
 excerpt: "You touch a creature and end the Poisoned condition on it."

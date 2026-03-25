@@ -17,7 +17,6 @@ comp:
 material: "a yew leaf"
 duration: "10 Minutes"
 concentration: true
-cast_time: "Action"
 ritual: true
 description: |
   For the duration, you sense the location of poisons, poisonous or venomous creatures, and magical contagions within 30 feet of yourself. You sense the kind of poison, creature, or contagion in each case. 

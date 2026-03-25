@@ -15,7 +15,6 @@ comp:
   - M
 material: "a miniature crystal sphere"
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   A frigid globe streaks from you to a point of your choice within range, where it explodes in a 60-foot-radius Sphere. Each creature in that area makes a Constitution saving throw, taking 10d6 Cold damage on failed save or half as much damage on a successful one.
 

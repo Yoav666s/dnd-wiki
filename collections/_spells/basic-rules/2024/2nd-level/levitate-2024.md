@@ -16,7 +16,6 @@ comp:
 material: "a metal spring"
 duration: "10 Minutes"
 concentration: true
-cast_time: "Action"
 description: |
   One creature or loose object of your choice that you can see within range rises vertically up to 20 feet and remains suspended there for the duration. The spell can levitate an object that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected. 
 

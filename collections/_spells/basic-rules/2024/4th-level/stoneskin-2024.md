@@ -18,7 +18,6 @@ comp:
 material: "diamond dust worth 100+ gp, which the spell consumes"
 duration: "1 Hour"
 concentration: true
-cast_time: "Action"
 description: |
   Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.
 excerpt: "Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage."

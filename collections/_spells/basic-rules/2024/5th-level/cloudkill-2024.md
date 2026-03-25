@@ -14,7 +14,6 @@ comp:
   - S
 duration: "10 Minutes"
 concentration: true
-cast_time: "Action"
 description: |
   You create a 20-foot-radius Sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by Gust of Wind) disperses it, ending the spell. Its area is Heavily Obscured. 
 

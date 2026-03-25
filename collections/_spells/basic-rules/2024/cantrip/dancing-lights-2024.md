@@ -17,7 +17,6 @@ comp:
 material: "a bit of phosphorus"
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds Dim Light in a 10-foot radius. 
 

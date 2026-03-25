@@ -14,7 +14,6 @@ comp:
   - M
 material: "a drop of alcohol"
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   You gain 2d4 + 4 Temporary Hit Points.
 excerpt: "You gain 2d4 + 4 Temporary Hit Points."

@@ -13,7 +13,6 @@ range: "60 ft"
 comp:
   - V
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. Choose the command from these options: 
 

@@ -18,7 +18,6 @@ comp:
   - M
 material: "mushroom powder worth 25+ gp, which the spell consumees"
 duration: "1 Hour"
-cast_time: "Action"
 description: |
   For the duration, the willing creature you touch has Truesight with a range of 120 feet.
 excerpt: "For the duration, the willing creature you touch has Truesight with a range of 120 feet."

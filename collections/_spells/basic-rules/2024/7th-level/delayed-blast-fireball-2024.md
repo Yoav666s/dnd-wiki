@@ -16,7 +16,6 @@ comp:
 material: "a ball of bat guano and sulfur"
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   A beam of yellow light flashes from you, then condenses at a chosen point within range as a glowing bead for the duration. When the spell ends, the bead explodes, and each creature in a 20- foot-radius Sphere centered on that point makes a Dexterity saving throw. A creature takes Fire damage equal to the total accumulated damage on a failed save or half as much damage on a successful one. 
 

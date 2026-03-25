@@ -15,7 +15,6 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   A creature you touch has the Invisible condition until the spell ends.
 excerpt: "A creature you touch has the Invisible condition until the spell ends."

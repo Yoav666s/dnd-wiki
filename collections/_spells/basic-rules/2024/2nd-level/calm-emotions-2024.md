@@ -14,7 +14,6 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature): 
 

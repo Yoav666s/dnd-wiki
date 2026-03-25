@@ -15,7 +15,6 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud's area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by Gust of Wind) disperses it. 
 

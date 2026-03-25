@@ -15,7 +15,6 @@ comp:
   - M
 material: "a lodestone and dust"
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by Wall of Force. 
 

@@ -15,7 +15,6 @@ comp:
   - V
   - S
 duration: "1 Minute"
-cast_time: "Action"
 description: |
   A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again. When you cast the spell, you can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. 
 

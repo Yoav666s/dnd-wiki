@@ -14,7 +14,6 @@ comp:
   - M
 material: "a chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth 5,000+ gp, and a tiny replica of the chest made from the same materials worth 50+ gp"
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   You hide a chest and all its contents on the Ethereal Plane. You must touch the chest and the miniature replica that serve as Material components for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet). 
 

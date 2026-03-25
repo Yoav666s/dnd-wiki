@@ -16,7 +16,6 @@ comp:
 material: "seven thorns"
 duration: "10 Minutes"
 concentration: true
-cast_time: "Action"
 description: |
   The ground in a 20-foot-radius Sphere centered on a point within range sprouts hard spikes and thorns. The area becomes Difficult Terrain for the duration. When a creature moves into or within the area, it takes 2d4 Piercing damage for every 5 feet it travels. 
 

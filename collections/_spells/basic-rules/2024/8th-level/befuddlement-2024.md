@@ -17,7 +17,6 @@ comp:
   - M
 material: "a key ring with no keys"
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
 

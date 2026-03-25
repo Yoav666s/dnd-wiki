@@ -13,7 +13,6 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition until the spell ends. 
 

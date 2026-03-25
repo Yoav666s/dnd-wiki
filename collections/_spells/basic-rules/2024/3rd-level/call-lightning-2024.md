@@ -13,7 +13,6 @@ comp:
   - S
 duration: "10 Minutes"
 concentration: true
-cast_time: "Action"
 description: |
   A storm cloud appears at a point within range that you can see above yourself. It takes the shape of a Cylinder that is 10 feet tall with a 60-foot radius. 
 

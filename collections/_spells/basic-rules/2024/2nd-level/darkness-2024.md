@@ -16,7 +16,6 @@ comp:
 material: "bat fur and a piece of coal"
 duration: "10 Minutes"
 concentration: true
-cast_time: "Action"
 description: |
   For the duration, magical Darkness spreads from a point within range and fills a 15-foot-radius Sphere. Darkvision can't see through it, and nonmagical light can't illuminate it. 
 

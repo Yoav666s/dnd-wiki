@@ -14,7 +14,6 @@ comp:
   - S
 duration: "10 Minutes"
 concentration: true
-cast_time: "Action"
 description: |
   You conjure a Large, intangible spirit from the Elemental Planes that appears in an unoccupied space within range. Choose the spirit's element, which determines its damage type: air (Lightning), earth (Thunder), fire (Fire), or water (Cold). The spirit lasts for the duration. 
 

@@ -16,7 +16,6 @@ comp:
   - V
   - S
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
 excerpt: "A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier."

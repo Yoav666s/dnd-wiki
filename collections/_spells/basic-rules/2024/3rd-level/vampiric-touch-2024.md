@@ -14,7 +14,6 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against one creature within reach. On a hit, the target takes 3d6 Necrotic damage, and you regain Hit Points equal to half the amount of Necrotic damage dealt. 
 

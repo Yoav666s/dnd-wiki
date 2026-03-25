@@ -14,7 +14,6 @@ range: "500 ft"
 comp:
   - V
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   You teleport to a location within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as "200 feet straight downward" or "300 feet upward to the northwest at a 45-degree angle." 
 

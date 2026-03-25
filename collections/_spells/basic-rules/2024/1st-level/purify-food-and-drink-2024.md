@@ -14,7 +14,6 @@ comp:
   - V
   - S
 duration: "Instantaneous"
-cast_time: "Action"
 ritual: true
 description: |
   You remove poison and rot from nonmagical food and drink in a 5- foot-radius Sphere centered on a point within range.

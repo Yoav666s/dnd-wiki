@@ -14,7 +14,6 @@ comp:
   - V
   - S
 duration: "8 Hours"
-cast_time: "Action"
 description: |
   You give an illusory appearance to each creature of your choice that you can see within range. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell. 
 

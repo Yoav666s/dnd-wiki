@@ -18,7 +18,6 @@ comp:
   - M
 material: "diamond dust worth 100+ gp, which the spell consumes"
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   You touch a creature and magically remove one of the following effects from it: 
 

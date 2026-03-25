@@ -13,7 +13,6 @@ comp:
   - V
   - S
 duration: "8 Hours"
-cast_time: "Action"
 description: |
   You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 Hit Points before the spell ends, the target instead drops to 1 Hit Point, and the spell ends. 
 

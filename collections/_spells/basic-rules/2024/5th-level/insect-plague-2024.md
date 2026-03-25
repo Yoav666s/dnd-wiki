@@ -17,7 +17,6 @@ comp:
 material: "a locust"
 duration: "10 Minutes"
 concentration: true
-cast_time: "Action"
 description: |
   Swarming locusts fill a 20-foot-radius Sphere centered on a point you choose within range. The Sphere remains for the duration, and its area is Lightly Obscured and Difficult Terrain. 
 

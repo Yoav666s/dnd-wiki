@@ -17,7 +17,6 @@ comp:
   - M
 material: "a dried carrot"
 duration: "8 Hours"
-cast_time: "Action"
 description: |
   For the duration, a willing creature you touch has Darkvision with a range of 150 feet.
 excerpt: "For the duration, a willing creature you touch has Darkvision with a range of 150 feet."

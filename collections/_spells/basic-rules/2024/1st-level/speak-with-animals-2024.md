@@ -14,7 +14,6 @@ comp:
   - V
   - S
 duration: "10 Minutes"
-cast_time: "Action"
 ritual: true
 description: |
   For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them. 

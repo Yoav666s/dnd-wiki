@@ -17,7 +17,6 @@ comp:
 material: "a legume seed"
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   A Line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the duration. Each creature in the Line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the Line. A creature that ends its turn in the Line must make the same save. 
 

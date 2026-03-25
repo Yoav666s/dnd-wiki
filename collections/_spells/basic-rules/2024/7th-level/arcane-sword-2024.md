@@ -16,7 +16,6 @@ comp:
 material: "a miniature sword worth 250+ gp"
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   You create a spectral sword that hovers within range. It lasts for the duration. 
 

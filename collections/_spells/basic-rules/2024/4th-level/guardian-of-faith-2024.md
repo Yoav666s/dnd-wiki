@@ -11,7 +11,6 @@ range: "30 ft"
 comp:
   - V
 duration: "8 Hours"
-cast_time: "Action"
 description: |
   A Large spectral guardian appears and hovers for the duration in an unoccupied space that you can see within range. The guardian occupies that space and is invulnerable, and it appears in a form appropriate for your deity or pantheon. 
 

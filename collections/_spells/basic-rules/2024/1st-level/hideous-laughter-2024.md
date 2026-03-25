@@ -17,7 +17,6 @@ comp:
 material: "a tart and a feather"
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on it self. 
 

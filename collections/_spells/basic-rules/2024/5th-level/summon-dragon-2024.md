@@ -15,7 +15,6 @@ comp:
 material: "an object with the image of a dragon engraved on it worth 500+ gp"
 duration: "1 Hour"
 concentration: true
-cast_time: "Action"
 description: |
   You call forth a Dragon spirit. It manifests in an unoccupied space that you can see within range and uses the Draconic Spirit stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends. 
 

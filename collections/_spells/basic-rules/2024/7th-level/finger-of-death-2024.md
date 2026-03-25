@@ -14,7 +14,6 @@ comp:
   - V
   - S
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   You unleash negative energy toward a creature you can see within range. The target makes a Constitution saving throw, taking 7d8 + 30 Necrotic damage on a failed save or half as much damage on a successful one. 
 

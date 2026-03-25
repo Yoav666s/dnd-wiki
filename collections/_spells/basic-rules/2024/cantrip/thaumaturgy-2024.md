@@ -11,7 +11,6 @@ range: "30 ft"
 comp:
   - V
 duration: "Up To 1 Minute"
-cast_time: "Action"
 description: |
   You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time. 
 

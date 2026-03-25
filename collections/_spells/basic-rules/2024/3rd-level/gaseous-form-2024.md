@@ -17,7 +17,6 @@ comp:
 material: "a bit of gauze"
 duration: "1 Hour"
 concentration: true
-cast_time: "Action"
 description: |
   A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a Magic action to end the spell on itself. 
 

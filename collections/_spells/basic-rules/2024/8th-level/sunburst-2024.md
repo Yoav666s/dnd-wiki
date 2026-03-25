@@ -17,7 +17,6 @@ comp:
   - M
 material: "piece of sunstone"
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   Brilliant sunlight flashes in a 60-foot-radius Sphere centered on a point you choose within range. Each creature in the Sphere makes a Constitution saving throw. On a failed save, a creature takes 12d6 Radiant damage and has the Blinded condition for 1 minute. On a successful save, it takes half as much damage only.
 

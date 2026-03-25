@@ -16,7 +16,6 @@ comp:
 material: "a copper piece"
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   You activate one of the effects below. Until the spell ends, you can activate either effect as a Magic action on your later turns. 
 

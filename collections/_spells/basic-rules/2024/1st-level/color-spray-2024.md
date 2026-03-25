@@ -15,7 +15,6 @@ comp:
   - M
 material: "a pinch of colorful sand"
 duration: "Instantaneous"
-cast_time: "Action"
 description: |
   You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the Blinded condition until the end of your next turn.
 excerpt: "You launch a dazzling array of flashing, colorful light."

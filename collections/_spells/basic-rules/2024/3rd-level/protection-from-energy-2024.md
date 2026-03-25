@@ -17,7 +17,6 @@ comp:
   - S
 duration: "1 Hour"
 concentration: true
-cast_time: "Action"
 description: |
   For the duration, the willing creature you touch has Resistance to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
 excerpt: "For the duration, the willing creature you touch has Resistance to one damage type of your choice."

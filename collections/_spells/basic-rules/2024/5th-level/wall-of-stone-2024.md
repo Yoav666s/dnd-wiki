@@ -17,7 +17,6 @@ comp:
 material: "a cube of granite"
 duration: "10 Minutes"
 concentration: true
-cast_time: "Action"
 description: |
   A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. Alternatively, you can create 10- foot-by-20-foot panels that are only 3 inches thick. 
 

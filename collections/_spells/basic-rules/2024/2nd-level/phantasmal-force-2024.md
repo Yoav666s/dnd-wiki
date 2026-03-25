@@ -17,7 +17,6 @@ comp:
 material: "a bit of fleece"
 duration: "1 Minute"
 concentration: true
-cast_time: "Action"
 description: |
   You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot Cube and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli. 
 

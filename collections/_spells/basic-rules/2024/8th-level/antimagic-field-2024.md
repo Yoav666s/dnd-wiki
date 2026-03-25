@@ -15,7 +15,6 @@ comp:
 material: "iron filings"
 duration: "1 Hour"
 concentration: true
-cast_time: "Action"
 description: |
   An aura of antimagic surrounds you in 10-foot Emanation. No one can cast spells, take Magic actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. 
 

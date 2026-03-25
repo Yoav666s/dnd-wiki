@@ -16,7 +16,6 @@ comp:
   - M
 material: "a pinch of diamond dust worth 25+ gp, which the spell consumes"
 duration: "8 Hours"
-cast_time: "Action"
 description: |
   For the duration, you hide a target that you touch from Divination spells. The target can be a willing creature, or it can be a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any Divination spell or perceived through magical scrying sensors.
 excerpt: "For the duration, you hide a target that you touch from Divination spells."
