@@ -22,6 +22,7 @@ comp:
   - S
   - M
 material: "a lodestone and a pinch of dust."
+
 attack: "DEX Save"
 effect: "Force"
 description: |
@@ -35,5 +36,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
 excerpt: "A thin green ray springs from your pointing finger to a target that you can see within range."
+alt_version: "disintegrate-2024"
 source: "Basic Rules"
 ---

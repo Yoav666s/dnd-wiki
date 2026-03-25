@@ -23,6 +23,7 @@ material: "burning incense for air, soft clay for earth, sulfur and phosphorus f
 duration: "1 Hour"
 concentration: true
 cast_time: "1 Minute"
+
 description: |
   You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range. An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 10 feet of it. For example, a fire elemental emerges from a bonfire, and an earth elemental rises up from the ground. The elemental disappears when it drops to 0 hit points or when the spell ends.
 
@@ -34,5 +35,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 excerpt: "You call forth an elemental servant."
+alt_version: "conjure-elemental-2024"
 source: "Basic Rules"
 ---

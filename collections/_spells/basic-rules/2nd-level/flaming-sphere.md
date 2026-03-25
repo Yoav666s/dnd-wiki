@@ -22,6 +22,7 @@ comp:
 material: "a bit of tallow, a pinch of brimstone, and a dusting of powdered iron."
 duration: "1 Minute"
 concentration: true
+
 effect: "Fire"
 description: |
   A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
@@ -32,5 +33,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 excerpt: "A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration."
+alt_version: "flaming-sphere-2024"
 source: "Basic Rules"
 ---

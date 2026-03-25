@@ -22,6 +22,7 @@ comp:
 material: "bat fur and a drop of pitch or piece of coal."
 duration: "10 Minutes"
 concentration: true
+
 description: |
   Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.
 
@@ -29,5 +30,6 @@ description: |
 
   If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
 excerpt: "Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration."
+alt_version: "darkness-2024"
 source: "Basic Rules"
 ---

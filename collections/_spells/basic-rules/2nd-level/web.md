@@ -22,6 +22,7 @@ comp:
 material: "a bit of spiderweb."
 duration: "1 Hour"
 concentration: true
+
 description: |
   You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.
 
@@ -33,5 +34,6 @@ description: |
 
   The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 excerpt: "You conjure a mass of thick, sticky webbing at a point of your choice within range."
+alt_version: "web-2024"
 source: "Basic Rules"
 ---

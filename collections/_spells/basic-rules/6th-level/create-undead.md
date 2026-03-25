@@ -20,6 +20,7 @@ comp:
   - M
 material: "one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse."
 cast_time: "1 Minute"
+
 description: |
   You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control. (The GM has game statistics for these creatures.)
 
@@ -29,5 +30,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
 excerpt: "You can cast this spell only at night."
+alt_version: "create-undead-2024"
 source: "Basic Rules"
 ---

@@ -19,6 +19,7 @@ shape: "Cylinder"
 comp:
   - V
 duration: "8 Hours"
+
 attack: "DEX Save"
 effect: "Radiant"
 description: |
@@ -26,5 +27,6 @@ description: |
 
   Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 excerpt: "A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range."
+alt_version: "guardian-of-faith-2024"
 source: "Basic Rules"
 ---

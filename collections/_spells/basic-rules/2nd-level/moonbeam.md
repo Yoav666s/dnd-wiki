@@ -23,6 +23,7 @@ comp:
 material: "several seeds of any moonseed plant and a piece of opalescent feldspar."
 duration: "1 Minute"
 concentration: true
+
 attack: "CON Save"
 effect: "Radiant"
 description: |
@@ -36,5 +37,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1dl0 for each slot level above 2nd.
 excerpt: "A silvery beam of pale light shines down in a 5-foot radius, 40-foot-high cylinder centered on a point within range."
+alt_version: "moonbeam-2024"
 source: "Basic Rules"
 ---

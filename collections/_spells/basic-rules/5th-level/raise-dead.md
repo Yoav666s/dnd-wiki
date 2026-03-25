@@ -20,6 +20,7 @@ comp:
   - M
 material: "a diamond worth at least 500gp, which the spell consumes."
 cast_time: "1 Hour"
+
 description: |
   You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 hit point.
 
@@ -29,5 +30,6 @@ description: |
 
   Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 excerpt: "You return a dead creature you touch to life, provided that it has been dead no longer than 10 days."
+alt_version: "raise-dead-2024"
 source: "Basic Rules"
 ---

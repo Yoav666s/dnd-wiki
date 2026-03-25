@@ -18,10 +18,12 @@ comp:
   - M
 material: "a small amount of alcohol or distilled spirits."
 duration: "1 Hour"
+
 description: |
   Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 
   **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
 excerpt: "Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration."
+alt_version: "false-life-2024"
 source: "Basic Rules"
 ---

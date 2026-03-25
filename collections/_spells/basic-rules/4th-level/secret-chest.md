@@ -17,6 +17,7 @@ comp:
   - S
   - M
 material: "an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a tiny replica made from the same materials worth at least 50 gp."
+
 description: |
   You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a material component for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).
 
@@ -24,5 +25,6 @@ description: |
 
   After 60 days, there is a cumulative 5 percent chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
 excerpt: "You hide a chest, and all its contents, on the Ethereal Plane."
+alt_version: "secret-chest-2024"
 source: "Basic Rules"
 ---

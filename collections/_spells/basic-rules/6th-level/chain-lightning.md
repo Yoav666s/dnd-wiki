@@ -20,6 +20,7 @@ comp:
   - S
   - M
 material: "a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins."
+
 attack: "DEX Save"
 effect: "Lightning"
 description: |
@@ -29,5 +30,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
 excerpt: "You create a bolt of lightning that arcs toward a target of your choice that you can see within range."
+alt_version: "chain-lightning-2024"
 source: "Basic Rules"
 ---

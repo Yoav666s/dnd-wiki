@@ -20,6 +20,7 @@ comp:
   - S
   - M
 material: "a drop of water if creating water, or a few grains of sand if destroying it."
+
 description: |
   You either create or destroy water.
 
@@ -29,5 +30,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.
 excerpt: "You either create or destroy water."
+alt_version: "create-or-destroy-water-2024"
 source: "Basic Rules"
 ---

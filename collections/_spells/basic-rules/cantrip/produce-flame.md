@@ -17,6 +17,7 @@ comp:
   - V
   - S
 duration: "10 Minutes"
+
 attack: "Ranged"
 effect: "Fire"
 description: |
@@ -26,5 +27,6 @@ description: |
 
   This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 excerpt: "A flickering flame appears in your hand."
+alt_version: "produce-flame-2024"
 source: "Basic Rules"
 ---

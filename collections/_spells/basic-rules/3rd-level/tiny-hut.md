@@ -21,6 +21,7 @@ comp:
 material: "a small crystal bead."
 duration: "8 Hours"
 cast_time: "1 Minute"
+
 ritual: true
 description: |
   A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.
@@ -29,5 +30,6 @@ description: |
 
   Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
 excerpt: "A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration."
+alt_version: "tiny-hut-2024"
 source: "Basic Rules"
 ---

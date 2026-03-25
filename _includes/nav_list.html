@@ -74,7 +74,9 @@
           {% if level_spells %}
           <ul>
             {% for spell in level_spells %}
-              <li><a href="{{ spell.url | relative_url }}"{% if spell.url == page.url %} class="active"{% endif %}>{{ spell.title }}</a></li>
+              {% if spell.v_2024 == nil or spell.v_2024 == false %}
+                <li><a href="{{ spell.url | relative_url }}"{% if spell.url == page.url %} class="active"{% endif %}>{{ spell.title }}</a></li>
+              {% endif %}
             {% endfor %}
           </ul>
           {% endif %}

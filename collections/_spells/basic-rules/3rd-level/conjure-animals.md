@@ -18,6 +18,7 @@ comp:
   - S
 duration: "1 Hour"
 concentration: true
+
 description: |
   You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
@@ -37,5 +38,6 @@ description: |
 
   **At higher levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level.
 excerpt: "You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range."
+alt_version: "conjure-animals-2024"
 source: "Basic Rules"
 ---

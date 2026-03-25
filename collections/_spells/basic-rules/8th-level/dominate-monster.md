@@ -20,6 +20,7 @@ comp:
   - S
 duration: "1 Hour"
 concentration: true
+
 attack: "WIS Save"
 description: |
   You attempt to beguile a creature that you can see within range. It must succeed on a wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
@@ -32,5 +33,6 @@ description: |
 
   **At higher levels.** When you cast this spell with a 9th-level spell slot, the duration is concentration, up to 8 hours.
 excerpt: "You attempt to beguile a creature that you can see within range."
+alt_version: "dominate-monster-2024"
 source: "Basic Rules"
 ---

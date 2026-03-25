@@ -19,6 +19,7 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
+
 attack: "WIS Save"
 description: |
   You touch a creature, and that creature must succeed on a wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
@@ -35,5 +36,6 @@ description: |
 
   **At higher levels.** If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration.
 excerpt: "You touch a creature, and that creature must succeed on a wisdom saving throw or become cursed for the duration of the spell."
+alt_version: "bestow-curse-2024"
 source: "Basic Rules"
 ---

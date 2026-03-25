@@ -19,6 +19,7 @@ shape: "Cone"
 comp:
   - V
   - S
+
 attack: "DEX Save"
 effect: ""
 description: |
@@ -40,5 +41,6 @@ description: |
 
   ***8. Special.*** The target is struck by two rays. Roll twice more, rerolling any 8.
 excerpt: "Eight multicolored rays of light flash from your hand."
+alt_version: "prismatic-spray-2024"
 source: "Basic Rules"
 ---

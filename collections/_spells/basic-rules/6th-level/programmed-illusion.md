@@ -21,6 +21,7 @@ comp:
   - M
 material: "a bit of fleece and jade dust worth at least 25 gp."
 duration: "Until Dispelled"
+
 description: |
   You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
 
@@ -30,5 +31,6 @@ description: |
 
   Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 excerpt: "You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs."
+alt_version: "programmed-illusion-2024"
 source: "Basic Rules"
 ---

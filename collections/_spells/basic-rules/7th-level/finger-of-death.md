@@ -19,6 +19,7 @@ range: "60 ft"
 comp:
   - V
   - S
+
 attack: "CON Save"
 effect: "Necrotic"
 description: |
@@ -26,5 +27,6 @@ description: |
 
   A humanoid killed by this spell rises at the start of your next turn as a zombie that is permanently under your command, following your verbal orders to the best of its ability.
 excerpt: "You send negative energy coursing through a creature that you can see within range, causing it searing pain."
+alt_version: "finger-of-death-2024"
 source: "Basic Rules"
 ---

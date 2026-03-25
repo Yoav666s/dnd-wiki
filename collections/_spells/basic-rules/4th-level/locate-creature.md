@@ -23,6 +23,7 @@ comp:
 material: "a bit of fur from a bloodhound."
 duration: "1 Hour"
 concentration: true
+
 description: |
   Describe or name a creature that is familiar to you. You sense the direction to the creature's location, as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
 
@@ -30,5 +31,6 @@ description: |
 
   This spell can't locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
 excerpt: "Describe or name a creature that is familiar to you."
+alt_version: "locate-creature-2024"
 source: "Basic Rules"
 ---

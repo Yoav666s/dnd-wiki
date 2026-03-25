@@ -22,6 +22,7 @@ comp:
 material: "a caterpillar cocoon."
 duration: "1 Hour"
 concentration: true
+
 attack: "WIS Save"
 description: |
   This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a wisdom saving throw to avoid the effect. A shapechanger automatically succeeds on this saving throw.
@@ -34,5 +35,6 @@ description: |
 
   The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
 excerpt: "This spell transforms a creature that you can see within range into a new form."
+alt_version: "polymorph-2024"
 source: "Basic Rules"
 ---

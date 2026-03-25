@@ -21,6 +21,7 @@ comp:
   - S
   - M
 material: "pinch of sulfur."
+
 attack: "DEX Save"
 effect: "Fire"
 description: |
@@ -28,5 +29,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
 excerpt: "A vertical column of divine fire roars down from the heavens in a location you specify."
+alt_version: "flame-strike-2024"
 source: "Basic Rules"
 ---

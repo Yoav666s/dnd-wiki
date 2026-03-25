@@ -17,6 +17,7 @@ comp:
   - S
 duration: "10 Minutes"
 concentration: true
+
 description: |
   You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a giant centipede, a spider becomes a giant spider, a wasp becomes a giant wasp, and a scorpion becomes a giant scorpion.
 
@@ -26,5 +27,6 @@ description: |
 
   The GM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a giant wasp.
 excerpt: "You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration."
+alt_version: "giant-insect-2024"
 source: "Basic Rules"
 ---

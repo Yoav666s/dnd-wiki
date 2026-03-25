@@ -23,6 +23,7 @@ comp:
 material: "an item distasteful to the target."
 duration: "1 Minute"
 concentration: true
+
 attack: "CHA Save"
 description: |
   You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a charisma saving throw or be banished.
@@ -33,5 +34,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
 excerpt: "You attempt to send one creature that you can see within range to another plane of existence."
+alt_version: "banishment-2024"
 source: "Basic Rules"
 ---

@@ -22,6 +22,7 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
+
 attack: "DEX Save"
 effect: "Fire"
 description: |
@@ -31,5 +32,6 @@ description: |
 
   The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.
 excerpt: "A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-radius sphere centered on a point within range."
+alt_version: "incendiary-cloud-2024"
 source: "Basic Rules"
 ---

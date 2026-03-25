@@ -17,6 +17,7 @@ comp:
   - V
   - S
 duration: "8 Hours"
+
 description: |
   You touch a creature and grant it a measure of protection from death.
 
@@ -24,5 +25,6 @@ description: |
 
   If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
 excerpt: "You touch a creature and grant it a measure of protection from death."
+alt_version: "death-ward-2024"
 source: "Basic Rules"
 ---

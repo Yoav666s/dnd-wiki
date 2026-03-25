@@ -22,6 +22,7 @@ comp:
   - S
   - M
 material: "a tiny ball of bat guano and sulfur."
+
 attack: "DEX Save"
 effect: "Fire"
 description: |
@@ -31,5 +32,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 excerpt: "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame."
+alt_version: "fireball-2024"
 source: "Basic Rules"
 ---

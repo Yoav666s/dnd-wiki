@@ -20,6 +20,7 @@ comp:
 material: "a lead-based ink worth at least 10gp, which this spell consumes."
 duration: "10 Days"
 cast_time: "1 Minute"
+
 ritual: true
 description: |
   You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.
@@ -30,5 +31,6 @@ description: |
 
   A creature with truesight can read the hidden message.
 excerpt: "You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration."
+alt_version: "illusory-script-2024"
 source: "Basic Rules"
 ---

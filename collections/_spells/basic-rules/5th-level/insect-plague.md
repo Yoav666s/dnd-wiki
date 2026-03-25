@@ -25,6 +25,7 @@ comp:
 material: "a few grains of sugar, some kernels of grain, and a smear of fat."
 duration: "10 Minutes"
 concentration: true
+
 attack: "CON Save"
 effect: "Piercing"
 description: |
@@ -34,5 +35,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
 excerpt: "Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range."
+alt_version: "insect-plague-2024"
 source: "Basic Rules"
 ---

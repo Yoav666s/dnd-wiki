@@ -1,0 +1,29 @@
+---
+title: "Wall of Thorns
+index: 
+  - wall-of-thorns-2024
+permalink: /spells/wall-of-thorns-2024/
+available_for:
+  - Druid
+level: "6th Level"
+school: "Conjuration"
+range: "120 ft"
+comp:
+  - V
+  - S
+  - M
+material: "a handful of thorns"
+duration: "10 Minutes
+concentration: true
+cast_time: "Action
+description: |
+  You create a wall of tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 feet long, 10 feet high, and 5 feet thick or a circle that has a 20-foot diameter and is up to 20 feet high and 5 feet thick. The wall blocks line of sight.   
+
+When the wall appears, each creature in its area makes a Dexterity saving throw, taking 7d8 Piercing damage on a failed save or half as much damage on a successful one.   
+
+A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters a space in the wall on a turn or ends its turn there, the creature makes a Dexterity saving throw, taking 7d8 Slashing damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
+excerpt: "You create a wall of tangled brush bristling with needle-sharp thorns."
+v_2024: true
+alt_version: "wall-of-thorns"
+source: "Basic Rules"
+---

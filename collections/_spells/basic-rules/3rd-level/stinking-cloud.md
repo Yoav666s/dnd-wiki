@@ -23,6 +23,7 @@ comp:
 material: "a rotten egg or several skunk cabbage leaves."
 duration: "1 Minute"
 concentration: true
+
 attack: "CON Save"
 description: |
   You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for the duration.
@@ -31,5 +32,6 @@ description: |
 
   A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds. A strong wind (at least 20 miles per hour) disperses it after 1 round.
 excerpt: "You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point within range."
+alt_version: "stinking-cloud-2024"
 source: "Basic Rules"
 ---

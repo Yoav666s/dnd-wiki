@@ -25,6 +25,7 @@ comp:
 material: "a drop of water and a pinch of dust."
 duration: "10 Minutes"
 concentration: true
+
 attack: "STR Save"
 effect: "Bludgeoning"
 description: |
@@ -46,5 +47,6 @@ description: |
 
   The first time each turn that an object enters the vortex, the object takes 2d8 bludgeoning damage; this damage occurs each round it remains in the vortex.
 excerpt: "Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side."
+alt_version: "control-water-2024"
 source: "Basic Rules"
 ---

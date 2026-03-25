@@ -23,6 +23,7 @@ comp:
   - S
   - M
 material: "fire and a piece of sunstone."
+
 attack: "CON Save"
 effect: "Radiant"
 description: |
@@ -32,5 +33,6 @@ description: |
 
   This spell dispels any darkness in its area that was created by a spell.
 excerpt: "Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range."
+alt_version: "sunburst-2024"
 source: "Basic Rules"
 ---

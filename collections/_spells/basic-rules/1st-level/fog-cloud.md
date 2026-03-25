@@ -22,10 +22,12 @@ comp:
   - S
 duration: "1 Hour"
 concentration: true
+
 description: |
   You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
   **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
 excerpt: "You create a 20-foot-radius sphere of fog centered on a point within range."
+alt_version: "fog-cloud-2024"
 source: "Basic Rules"
 ---

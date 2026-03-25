@@ -17,6 +17,7 @@ comp:
   - V
   - S
 duration: "7 Days"
+
 attack: "Melee"
 description: |
   Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice from any of the ones described below.
@@ -37,5 +38,6 @@ description: |
 
   ***Slimy Doom.*** The creature begins to bleed uncontrollably. The creature has disadvantage on constitution checks and constitution saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.
 excerpt: "Your touch inflicts disease."
+alt_version: "contagion-2024"
 source: "Basic Rules"
 ---

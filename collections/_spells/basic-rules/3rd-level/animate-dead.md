@@ -19,6 +19,7 @@ comp:
   - M
 material: "a drop of blood, a piece of flesh, and a pinch of bone dust."
 cast_time: "1 Minute"
+
 description: |
   This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a skeleton if you chose bones or a zombie if you chose a corpse (the GM has the creature's game statistics).
 
@@ -28,5 +29,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 4th level or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones.
 excerpt: "This spell creates an undead servant."
+alt_version: "animate-dead-2024"
 source: "Basic Rules"
 ---

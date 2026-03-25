@@ -19,6 +19,7 @@ comp:
 material: "a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell."
 duration: "1 Hour"
 concentration: true
+
 description: |
   You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower. The creature can't be a construct or an undead, and you must have seen the sort of creature at least once. You transform into an average example of that creature, one without any class levels or the Spellcasting trait.
 
@@ -32,5 +33,6 @@ description: |
 
   During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
 excerpt: "You assume the form of a different creature for the duration."
+alt_version: "shapechange-2024"
 source: "Basic Rules"
 ---

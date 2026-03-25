@@ -17,6 +17,7 @@ comp:
   - V
   - S
 duration: "1 Minute"
+
 description: |
   Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates.
 
@@ -28,5 +29,6 @@ description: |
 
   A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.
 excerpt: "Three illusory duplicates of yourself appear in your space."
+alt_version: "mirror-image-2024"
 source: "Basic Rules"
 ---

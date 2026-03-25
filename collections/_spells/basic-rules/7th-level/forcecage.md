@@ -22,6 +22,7 @@ comp:
   - M
 material: "ruby dust worth 1,500 gp."
 duration: "1 Hour"
+
 description: |
   An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
 
@@ -35,5 +36,6 @@ description: |
 
   This spell can't be dispelled by dispel magic.
 excerpt: "An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range."
+alt_version: "forcecage-2024"
 source: "Basic Rules"
 ---

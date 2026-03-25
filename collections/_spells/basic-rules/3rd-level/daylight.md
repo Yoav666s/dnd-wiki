@@ -22,6 +22,7 @@ comp:
   - V
   - S
 duration: "1 Hour"
+
 description: |
   A 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.
 
@@ -29,5 +30,6 @@ description: |
 
   If any of this spell's area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.
 excerpt: "A 60-foot-radius sphere of light spreads out from a point you choose within range."
+alt_version: "daylight-2024"
 source: "Basic Rules"
 ---

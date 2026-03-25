@@ -18,6 +18,7 @@ comp:
 duration: "1 Hour"
 concentration: true
 cast_time: "1 Minute"
+
 description: |
   You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.
 
@@ -27,5 +28,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.
 excerpt: "You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range."
+alt_version: "conjure-celestial-2024"
 source: "Basic Rules"
 ---

@@ -19,9 +19,11 @@ comp:
 duration: "1 Minute"
 concentration: true
 cast_time: "1 Bonus Action"
+
 effect: "Radiant"
 description: |
   Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.
 excerpt: "Your prayer empowers you with divine radiance."
+alt_version: "divine-favor-2024"
 source: "Basic Rules"
 ---

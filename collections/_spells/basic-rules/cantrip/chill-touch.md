@@ -20,6 +20,7 @@ comp:
   - V
   - S
 duration: "1 Round"
+
 attack: "Ranged"
 effect: "Necrotic"
 description: |
@@ -29,5 +30,6 @@ description: |
 
   This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 excerpt: "You create a ghostly, skeletal hand in the space of a creature within range."
+alt_version: "chill-touch-2024"
 source: "Basic Rules"
 ---

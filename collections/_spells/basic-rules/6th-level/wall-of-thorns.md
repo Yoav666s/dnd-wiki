@@ -23,6 +23,7 @@ comp:
 material: "a handful of thorns."
 duration: "10 Minutes"
 concentration: true
+
 attack: "DEX Save"
 effect: "Piercing"
 description: |
@@ -34,5 +35,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
 excerpt: "You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns."
+alt_version: "wall-of-thorns-2024"
 source: "Basic Rules"
 ---

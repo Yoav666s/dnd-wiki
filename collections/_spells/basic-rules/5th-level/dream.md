@@ -23,6 +23,7 @@ comp:
 material: "a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird."
 duration: "8 Hours"
 cast_time: "1 Minute"
+
 attack: "WIS Save"
 effect: "Psychic"
 description: |
@@ -36,5 +37,6 @@ description: |
 
   If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 excerpt: "This spell shapes a creature's dreams."
+alt_version: "dream-2024"
 source: "Basic Rules"
 ---

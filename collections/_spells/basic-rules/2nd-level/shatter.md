@@ -24,6 +24,7 @@ comp:
   - S
   - M
 material: "a burst of mica."
+
 attack: "CON Save"
 effect: "Thunder"
 description: |
@@ -33,5 +34,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a 3 or higher level spell slot, the damage of the spell increases by 1d8 for each level of higher spell slot 2.
 excerpt: "A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range."
+alt_version: "shatter-2024"
 source: "Basic Rules"
 ---

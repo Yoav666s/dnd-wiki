@@ -21,6 +21,7 @@ comp:
   - S
   - M
 material: "a small crystal sphere."
+
 attack: "CON Save"
 effect: "Cold"
 description: |
@@ -32,5 +33,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
 excerpt: "A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot-radius sphere."
+alt_version: "freezing-sphere-2024"
 source: "Basic Rules"
 ---

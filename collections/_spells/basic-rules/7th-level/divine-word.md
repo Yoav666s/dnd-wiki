@@ -15,6 +15,7 @@ range: "30 ft"
 comp:
   - V
 cast_time: "1 Bonus Action"
+
 attack: "CHA Save"
 description: |
   You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma saving throw. On a failed save, a creature suffers an effect based on its current hit points:
@@ -29,5 +30,6 @@ description: |
 
   Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a wish spell.
 excerpt: "You utter a divine word, imbued with the power that shaped the world at the dawn of creation."
+alt_version: "divine-word-2024"
 source: "Basic Rules"
 ---

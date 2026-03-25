@@ -21,6 +21,7 @@ comp:
 material: "a bit of gauze and a wisp of smoke."
 duration: "1 Hour"
 concentration: true
+
 description: |
   You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn't affected.
 
@@ -28,5 +29,6 @@ description: |
 
   While in the form of a misty cloud, the target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. The target can't attack or cast spells.
 excerpt: "You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration."
+alt_version: "gaseous-form-2024"
 source: "Basic Rules"
 ---

@@ -19,6 +19,7 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
+
 attack: "Melee"
 effect: "Necrotic"
 description: |
@@ -26,5 +27,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 excerpt: "The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds."
+alt_version: "vampiric-touch-2024"
 source: "Basic Rules"
 ---

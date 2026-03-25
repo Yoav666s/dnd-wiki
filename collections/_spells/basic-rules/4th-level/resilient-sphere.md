@@ -19,6 +19,7 @@ comp:
 material: "a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic."
 duration: "1 Minute"
 concentration: true
+
 attack: "DEX Save"
 description: |
   A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a dexterity saving throw. On a failed save, the creature is enclosed for the duration.
@@ -29,5 +30,6 @@ description: |
 
   A disintegrate spell targeting the globe destroys it without harming anything inside it.
 excerpt: "A sphere of shimmering force encloses a creature or object of Large size or smaller within range."
+alt_version: "resilient-sphere-2024"
 source: "Basic Rules"
 ---

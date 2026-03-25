@@ -21,6 +21,7 @@ comp:
 material: "herbs, oils, and incense worth at least 1,000 gp, which the spell consumes."
 duration: "Until Dispelled"
 cast_time: "24 Hours"
+
 attack: "CHA Save"
 description: |
   You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a hallow spell. The affected area is subject to the following effects.
@@ -49,5 +50,6 @@ description: |
 
   ***Tongues.*** Affected creatures can communicate with any other creature in the area, even if they don't share a common language.
 excerpt: "You touch a point and infuse an area around it with holy (or unholy) power."
+alt_version: "hallow-2024"
 source: "Basic Rules"
 ---

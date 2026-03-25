@@ -19,6 +19,7 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
+
 attack: "WIS Save"
 description: |
   You attempt to beguile a humanoid that you can see within range. It must succeed on a wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
@@ -31,5 +32,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is concentration, up to 8 hours.
 excerpt: "You attempt to beguile a humanoid that you can see within range."
+alt_version: "dominate-person-2024"
 source: "Basic Rules"
 ---

@@ -21,6 +21,7 @@ comp:
 material: "a drop of mercury, a dollop of gum arabic, and a wisp of smoke."
 duration: "1 Hour"
 concentration: true
+
 description: |
   Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into an object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 hit points or dies. If you concentrate on this spell for the full duration, the transformation becomes permanent.
 
@@ -40,5 +41,6 @@ description: |
 
   ***Creature into Object.*** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form. The creature's statistics become those of the object, and the creature has no memory of time spent in this form, after the spell ends and it returns to its normal form.
 excerpt: "Choose one creature or nonmagical object that you can see within range."
+alt_version: "true-polymorph-2024"
 source: "Basic Rules"
 ---

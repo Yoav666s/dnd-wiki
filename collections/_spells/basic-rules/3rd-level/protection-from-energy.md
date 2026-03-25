@@ -21,8 +21,10 @@ comp:
   - S
 duration: "1 Hour"
 concentration: true
+
 description: |
   For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
 excerpt: "For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder."
+alt_version: "protection-from-energy-2024"
 source: "Basic Rules"
 ---

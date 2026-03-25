@@ -22,8 +22,10 @@ comp:
 material: "diamond dust worth 100 gp, which the spell consumes."
 duration: "1 Hour"
 concentration: true
+
 description: |
   This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 excerpt: "This spell turns the flesh of a willing creature you touch as hard as stone."
+alt_version: "stoneskin-2024"
 source: "Basic Rules"
 ---

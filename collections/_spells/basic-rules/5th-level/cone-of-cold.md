@@ -21,6 +21,7 @@ comp:
   - S
   - M
 material: "a small crystal or glass cone."
+
 attack: "CON Save"
 effect: "Cold"
 description: |
@@ -30,5 +31,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 excerpt: "A blast of cold air erupts from your hands."
+alt_version: "cone-of-cold-2024"
 source: "Basic Rules"
 ---

@@ -20,6 +20,7 @@ range: "30 ft"
 comp:
   - V
   - S
+
 attack: "CON Save"
 effect: "Necrotic"
 description: |
@@ -31,5 +32,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 5th level of higher, the damage increases by 1d8 for each slot level above 4th.
 excerpt: "Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it."
+alt_version: "blight-2024"
 source: "Basic Rules"
 ---

@@ -18,6 +18,7 @@ comp:
   - S
 duration: "1 Hour"
 concentration: true
+
 description: |
   A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.
 
@@ -25,5 +26,6 @@ description: |
 
   If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 excerpt: "A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs."
+alt_version: "antilife-shell-2024"
 source: "Basic Rules"
 ---

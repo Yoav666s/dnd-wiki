@@ -17,9 +17,11 @@ range: "10 ft"
 comp:
   - V
   - S
+
 ritual: true
 description: |
   All nonmagical food and drink within a 5-foot radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 excerpt: "All nonmagical food and drink within a 5-foot radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease."
+alt_version: "purify-food-and-drink-2024"
 source: "Basic Rules"
 ---

@@ -20,8 +20,10 @@ comp:
 material: "a handful of oak bark."
 duration: "1 Hour"
 concentration: true
+
 description: |
   You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
 excerpt: "You touch a willing creature."
+alt_version: "barkskin-2024"
 source: "Basic Rules"
 ---

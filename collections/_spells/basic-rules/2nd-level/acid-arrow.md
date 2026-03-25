@@ -19,6 +19,7 @@ comp:
   - S
   - M
 material: "powdered rhubarb leaf and an adder's stomach."
+
 attack: "Ranged"
 effect: "Acid"
 description: |
@@ -26,5 +27,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
 excerpt: "A shimmering green arrow streaks toward a target within range and bursts in a spray of acid."
+alt_version: "acid-arrow-2024"
 source: "Basic Rules"
 ---

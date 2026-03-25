@@ -18,6 +18,7 @@ range: "Touch"
 comp:
   - V
   - S
+
 attack: "Melee"
 effect: "Lightning"
 description: |
@@ -25,5 +26,6 @@ description: |
 
   The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 excerpt: "Lightning springs from your hand to deliver a shock to a creature you try to touch."
+alt_version: "shocking-grasp-2024"
 source: "Basic Rules"
 ---

@@ -17,6 +17,7 @@ range: "150 ft"
 comp:
   - V
   - S
+
 description: |
   This spell channels vitality into plants within a specific area. There are two possible uses for the spell, granting either immediate or long-term benefits.
 
@@ -26,5 +27,6 @@ description: |
 
   If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.
 excerpt: "This spell channels vitality into plants within a specific area."
+alt_version: "plant-growth-2024"
 source: "Basic Rules"
 ---

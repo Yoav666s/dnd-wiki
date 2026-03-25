@@ -21,6 +21,7 @@ comp:
   - S
 duration: "10 Minutes"
 concentration: true
+
 attack: "DEX Save"
 effect: "Slashing"
 description: |
@@ -28,5 +29,6 @@ description: |
 
   When a creature enters the wall's area for the first time on a turn or starts its turn there, the creature must make a dexterity saving throw. On a failed save, the creature takes 6d10 slashing damage. On a successful save, the creature takes half as much damage.
 excerpt: "You create a vertical wall of whirling, razor-sharp blades made of magical energy."
+alt_version: "blade-barrier-2024"
 source: "Basic Rules"
 ---

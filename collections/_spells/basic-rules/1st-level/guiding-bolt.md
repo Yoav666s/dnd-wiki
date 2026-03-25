@@ -18,6 +18,7 @@ comp:
   - V
   - S
 duration: "1 Round"
+
 attack: "Ranged"
 effect: "Radiant"
 description: |
@@ -25,5 +26,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 excerpt: "A flash of light streaks toward a creature of your choice within range."
+alt_version: "guiding-bolt-2024"
 source: "Basic Rules"
 ---

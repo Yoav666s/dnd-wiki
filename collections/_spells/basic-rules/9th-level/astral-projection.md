@@ -21,6 +21,7 @@ comp:
 material: "for each creature you affect with this spell, you must provide one jacinth worth at least 1,000gp and one ornately carved bar of silver worth at least 100gp, all of which the spell consumes."
 duration: "Special"
 cast_time: "1 Hour"
+
 description: |
   You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is unconscious and in a state of suspended animation; it doesn't need food or air and doesn't age.
 
@@ -34,5 +35,6 @@ description: |
 
   If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points.
 excerpt: "You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane)."
+alt_version: "astral-projection-2024"
 source: "Basic Rules"
 ---

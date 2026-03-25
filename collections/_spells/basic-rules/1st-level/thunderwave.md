@@ -21,6 +21,7 @@ shape: "Cube"
 comp:
   - V
   - S
+
 attack: "CON Save"
 effect: "Thunder"
 description: |
@@ -30,5 +31,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 excerpt: "A wave of thunderous force sweeps out from you."
+alt_version: "thunderwave-2024"
 source: "Basic Rules"
 ---

@@ -20,6 +20,7 @@ comp:
 material: "a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500gp per hit die of the target."
 duration: "Until Dispelled"
 cast_time: "1 Minute"
+
 attack: "WIS Save"
 description: |
   You create a magical restraint to hold a creature that you can see within range. The target must succeed on a wisdom saving throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the target.
@@ -52,5 +53,6 @@ description: |
 
   You can use a particular special component to create only one prison at a time. If you cast the spell again using the same component, the target of the first casting is immediately freed from its binding.
 excerpt: "You create a magical restraint to hold a creature that you can see within range."
+alt_version: "imprisonment-2024"
 source: "Basic Rules"
 ---

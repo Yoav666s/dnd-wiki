@@ -19,6 +19,7 @@ comp:
   - M
 material: "a diamond worth at least 1,000gp, which the spell consumes."
 cast_time: "1 Hour"
+
 description: |
   You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't undead. If its soul is free and willing, the target returns to life with all its hit points.
 
@@ -30,5 +31,6 @@ description: |
 
   Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
 excerpt: "You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't undead."
+alt_version: "resurrection-2024"
 source: "Basic Rules"
 ---

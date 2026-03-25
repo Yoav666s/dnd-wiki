@@ -22,6 +22,7 @@ comp:
 material: "a tiny piece of matter of the same type of the item you plan to create."
 duration: "Special"
 cast_time: "1 Minute"
+
 description: |
   You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.
 
@@ -39,5 +40,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
 excerpt: "You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar."
+alt_version: "creation-2024"
 source: "Basic Rules"
 ---

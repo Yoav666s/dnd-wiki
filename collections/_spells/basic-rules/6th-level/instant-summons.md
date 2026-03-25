@@ -19,6 +19,7 @@ comp:
 material: "a sapphire worth 1,000 gp."
 duration: "Until Dispelled"
 cast_time: "1 Minute"
+
 ritual: true
 description: |
   You touch an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.
@@ -29,5 +30,6 @@ description: |
 
   Dispel magic or a similar effect successfully applied to the sapphire ends this spell's effect.
 excerpt: "You touch an object weighing 10 pounds or less whose longest dimension is 6 feet or less."
+alt_version: "instant-summons-2024"
 source: "Basic Rules"
 ---

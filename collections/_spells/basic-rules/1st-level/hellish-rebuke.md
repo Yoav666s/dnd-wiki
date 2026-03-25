@@ -18,6 +18,7 @@ comp:
   - V
   - S
 cast_time: "1 Reaction"
+
 attack: "DEX Save"
 effect: "Fire"
 description: |
@@ -25,5 +26,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 excerpt: "You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames."
+alt_version: "hellish-rebuke-2024"
 source: "Basic Rules"
 ---

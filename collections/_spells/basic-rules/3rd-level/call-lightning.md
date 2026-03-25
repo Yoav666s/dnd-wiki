@@ -21,6 +21,7 @@ comp:
   - S
 duration: "10 Minutes"
 concentration: true
+
 effect: "Lightning"
 description: |
   A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see 100 feet directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).
@@ -31,5 +32,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.
 excerpt: "A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see 100 feet directly above you."
+alt_version: "call-lightning-2024"
 source: "Basic Rules"
 ---

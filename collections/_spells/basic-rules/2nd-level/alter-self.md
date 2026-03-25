@@ -17,6 +17,7 @@ comp:
   - S
 duration: "1 Hour"
 concentration: true
+
 description: |
   You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.
 
@@ -26,5 +27,6 @@ description: |
 
   ***Natural Weapons.*** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
 excerpt: "You assume a different form."
+alt_version: "alter-self-2024"
 source: "Basic Rules"
 ---

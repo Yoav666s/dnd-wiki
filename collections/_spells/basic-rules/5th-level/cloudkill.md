@@ -22,6 +22,7 @@ comp:
   - S
 duration: "10 Minutes"
 concentration: true
+
 attack: "CON Save"
 effect: "Poison"
 description: |
@@ -33,5 +34,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 excerpt: "You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range."
+alt_version: "cloudkill-2024"
 source: "Basic Rules"
 ---

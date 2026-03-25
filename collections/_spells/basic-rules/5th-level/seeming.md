@@ -18,6 +18,7 @@ comp:
   - V
   - S
 duration: "8 Hours"
+
 description: |
   This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance. An unwilling target can make a charisma saving throw, and if it succeeds, it is unaffected by this spell.
 
@@ -27,5 +28,6 @@ description: |
 
   A creature can use its action to inspect a target and make an Intelligence (Investigation) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 excerpt: "This spell allows you to change the appearance of any number of creatures that you can see within range."
+alt_version: "seeming-2024"
 source: "Basic Rules"
 ---

@@ -23,11 +23,13 @@ comp:
 material: "a yew leaf."
 duration: "10 Minutes"
 concentration: true
+
 ritual: true
 description: |
   For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.
 
   The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 excerpt: "For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you."
+alt_version: "detect-poison-and-disease-2024"
 source: "Basic Rules"
 ---

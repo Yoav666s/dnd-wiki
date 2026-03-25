@@ -17,6 +17,7 @@ range: "60 ft"
 comp:
   - V
   - S
+
 attack: "DEX Save"
 effect: "Radiant"
 description: |
@@ -24,5 +25,6 @@ description: |
 
   The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 excerpt: "Flame-like radiance descends on a creature that you can see within range."
+alt_version: "sacred-flame-2024"
 source: "Basic Rules"
 ---

@@ -21,6 +21,7 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
+
 attack: "CON Save"
 effect: "Thunder"
 description: |
@@ -36,5 +37,6 @@ description: |
 
   ***Round 5-10.*** Gusts and freezing rain assail the area under the cloud. The area becomes difficult terrain and is heavily obscured. Each creature there takes 1d6 cold damage. Ranged weapon attacks in the area are impossible. The wind and rain count as a severe distraction for the purposes of maintaining concentration on spells. Finally, gusts of strong wind (ranging from 20 to 50 miles per hour) automatically disperse fog, mists, and similar phenomena in the area, whether mundane or magical.
 excerpt: "A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet."
+alt_version: "storm-of-vengeance-2024"
 source: "Basic Rules"
 ---

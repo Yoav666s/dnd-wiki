@@ -20,6 +20,7 @@ comp:
 material: "either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end."
 duration: "10 Minutes"
 concentration: true
+
 description: |
   One creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a constitution saving throw is unaffected.
 
@@ -27,5 +28,6 @@ description: |
 
   When the spell ends, the target floats gently to the ground if it is still aloft.
 excerpt: "One creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration."
+alt_version: "levitate-2024"
 source: "Basic Rules"
 ---

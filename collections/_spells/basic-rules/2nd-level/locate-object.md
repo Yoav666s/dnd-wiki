@@ -23,6 +23,7 @@ comp:
 material: "a forked twig."
 duration: "10 Minutes"
 concentration: true
+
 description: |
   Describe or name an object that is familiar to you. You sense the direction to the object's location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
 
@@ -30,5 +31,6 @@ description: |
 
   This spell can't locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
 excerpt: "Describe or name an object that is familiar to you."
+alt_version: "locate-object-2024"
 source: "Basic Rules"
 ---

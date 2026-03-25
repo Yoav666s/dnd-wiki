@@ -20,6 +20,7 @@ comp:
   - M
 material: "a pinch of powder or sand that is colored red, yellow, and blue."
 duration: "1 Round"
+
 description: |
   A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many hit points of creatures this spell can effect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can't see).
 
@@ -27,5 +28,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 excerpt: "A dazzling array of flashing, colored light springs from your hand."
+alt_version: "color-spray-2024"
 source: "Basic Rules"
 ---

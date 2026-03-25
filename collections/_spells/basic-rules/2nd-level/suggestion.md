@@ -21,6 +21,7 @@ comp:
 material: "a snake's tongue and either a bit of honeycomb or a drop of sweet oil."
 duration: "8 Hours"
 concentration: true
+
 attack: "WIS Save"
 description: |
   You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.
@@ -31,5 +32,6 @@ description: |
 
   If you or any of your companions damage the target, the spell ends.
 excerpt: "You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you."
+alt_version: "suggestion-2024"
 source: "Basic Rules"
 ---

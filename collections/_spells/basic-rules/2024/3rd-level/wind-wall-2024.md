@@ -1,0 +1,30 @@
+---
+title: "Wind Wall
+index: 
+  - wind-wall-2024
+permalink: /spells/wind-wall-2024/
+available_for:
+  - Druid
+  - Ranger
+level: "3rd Level"
+school: "Evocation"
+range: "120 ft"
+comp:
+  - V
+  - S
+  - M
+material: "a fan and a feather"
+duration: "1 Minute
+concentration: true
+cast_time: "Action
+description: |
+  A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.   
+
+When the wall appears, each creature in its area makes a Strength saving throw, taking 4d8 Bludgeoning damage on a failed save or half as much damage on a successful one.   
+
+The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and miss automatically. Boulders hurled by Giants or siege engines, and similar projectiles, are unaffected. Creatures in gaseous form can't pass through it.
+excerpt: "A wall of strong wind rises from the ground at a point you choose within range."
+v_2024: true
+alt_version: "wind-wall"
+source: "Basic Rules"
+---

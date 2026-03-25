@@ -23,6 +23,7 @@ comp:
 material: "a pinch of dirt, a piece of rock, and a lump of clay."
 duration: "1 Minute"
 concentration: true
+
 description: |
   You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
 
@@ -38,5 +39,6 @@ description: |
 
   Structures. The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a dexterity saving throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The GM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried.
 excerpt: "You create a seismic disturbance at a point on the ground that you can see within range."
+alt_version: "earthquake-2024"
 source: "Basic Rules"
 ---

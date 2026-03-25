@@ -23,6 +23,7 @@ comp:
 material: "a small piece of quartz."
 duration: "10 Minutes"
 concentration: true
+
 attack: "DEX Save"
 effect: "Cold"
 description: |
@@ -34,5 +35,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the sheet of frigid air increases by 1d6, for each slot level above 6th.
 excerpt: "You create a wall of ice on a solid surface within range."
+alt_version: "wall-of-ice-2024"
 source: "Basic Rules"
 ---

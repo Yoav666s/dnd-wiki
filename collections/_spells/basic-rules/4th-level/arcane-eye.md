@@ -22,6 +22,7 @@ comp:
 material: "a bit of bat fur."
 duration: "1 Hour"
 concentration: true
+
 description: |
   You create an invisible, magical eye within range that hovers in the air for the duration.
 
@@ -29,5 +30,6 @@ description: |
 
   As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
 excerpt: "You create an invisible, magical eye within range that hovers in the air for the duration."
+alt_version: "arcane-eye-2024"
 source: "Basic Rules"
 ---

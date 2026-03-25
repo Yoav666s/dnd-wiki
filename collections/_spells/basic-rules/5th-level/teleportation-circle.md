@@ -22,6 +22,7 @@ comp:
 material: "rare chalks and inks infused with precious gems with 50 gp, which the spell consumes."
 duration: "1 Round"
 cast_time: "1 Minute"
+
 description: |
   As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
 
@@ -29,5 +30,6 @@ description: |
 
   You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.
 excerpt: "As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you."
+alt_version: "teleportation-circle-2024"
 source: "Basic Rules"
 ---

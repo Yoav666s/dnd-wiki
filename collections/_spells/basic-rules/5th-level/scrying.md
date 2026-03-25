@@ -23,6 +23,7 @@ material: "a focus worth at least 1,000 gp, such as a crystal ball, a silver mir
 duration: "10 Minutes"
 concentration: true
 cast_time: "10 Minutes"
+
 attack: "WIS Save"
 description: |
   You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
@@ -47,5 +48,6 @@ description: |
 
   Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.
 excerpt: "You can see and hear a particular creature you choose that is on the same plane of existence as you."
+alt_version: "scrying-2024"
 source: "Basic Rules"
 ---

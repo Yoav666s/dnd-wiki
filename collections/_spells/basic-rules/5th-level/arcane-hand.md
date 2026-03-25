@@ -19,6 +19,7 @@ comp:
 material: "an eggshell and a snakeskin glove."
 duration: "1 Minute"
 concentration: true
+
 description: |
   You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. The hand lasts for the spell's duration, and it moves at your command, mimicking the movements of your own hand.
 
@@ -36,5 +37,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th.
 excerpt: "You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range."
+alt_version: "arcane-hand-2024"
 source: "Basic Rules"
 ---

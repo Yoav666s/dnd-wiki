@@ -18,8 +18,10 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
+
 description: |
   A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
 excerpt: "A willing creature you touch is imbued with bravery."
+alt_version: "heroism-2024"
 source: "Basic Rules"
 ---

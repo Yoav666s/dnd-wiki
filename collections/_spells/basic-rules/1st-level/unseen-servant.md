@@ -20,6 +20,7 @@ comp:
   - M
 material: "a piece of string and a bit of wood."
 duration: "1 Hour"
+
 ritual: true
 description: |
   This spell creates an invisible, mindless, shapeless force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 hit point, and a Strength of 2, and it can't attack. If it drops to 0 hit points, the spell ends.
@@ -28,5 +29,6 @@ description: |
 
   If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 excerpt: "This spell creates an invisible, mindless, shapeless force that performs simple tasks at your command until the spell ends."
+alt_version: "unseen-servant-2024"
 source: "Basic Rules"
 ---

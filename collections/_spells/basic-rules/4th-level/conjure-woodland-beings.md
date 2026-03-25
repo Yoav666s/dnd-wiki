@@ -20,6 +20,7 @@ comp:
 material: "one holly berry per creature summoned."
 duration: "1 Hour"
 concentration: true
+
 description: |
   You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
@@ -39,5 +40,6 @@ description: |
 
   **At higher levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 excerpt: "You summon fey creatures that appear in unoccupied spaces that you can see within range."
+alt_version: "conjure-woodland-beings-2024"
 source: "Basic Rules"
 ---

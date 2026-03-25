@@ -18,6 +18,7 @@ comp:
   - M
 material: "rare oils and unguents worth at least 1,000 gp, which the spell consumes."
 cast_time: "1 Hour"
+
 description: |
   You touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target's soul isn't free or willing to do so, the spell fails.
 
@@ -42,5 +43,6 @@ description: |
 
   The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
 excerpt: "You touch a dead humanoid or a piece of a dead humanoid."
+alt_version: "reincarnate-2024"
 source: "Basic Rules"
 ---

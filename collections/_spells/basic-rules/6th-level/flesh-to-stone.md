@@ -20,6 +20,7 @@ comp:
 material: "a pinch of lime, water, and earth."
 duration: "1 Minute"
 concentration: true
+
 attack: "CON Save"
 description: |
   You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a constitution saving throw. On a failed save, it is restrained as its flesh begins to harden. On a successful save, the creature isn't affected.
@@ -30,5 +31,6 @@ description: |
 
   If you maintain your concentration on this spell for the entire possible duration, the creature is turned to stone until the effect is removed.
 excerpt: "You attempt to turn one creature that you can see within range into stone."
+alt_version: "flesh-to-stone-2024"
 source: "Basic Rules"
 ---

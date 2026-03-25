@@ -18,6 +18,7 @@ comp:
   - M
 material: "10gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier."
 cast_time: "1 Hour"
+
 ritual: true
 description: |
   You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
@@ -34,5 +35,6 @@ description: |
 
   Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your action modifier for the roll.
 excerpt: "You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel."
+alt_version: "find-familiar-2024"
 source: "Basic Rules"
 ---

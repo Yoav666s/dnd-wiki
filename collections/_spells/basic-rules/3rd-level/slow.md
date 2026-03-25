@@ -22,6 +22,7 @@ comp:
 material: "a drop of molasses."
 duration: "1 Minute"
 concentration: true
+
 attack: "WIS Save"
 description: |
   You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a wisdom saving throw or be affected by this spell for the duration.
@@ -32,5 +33,6 @@ description: |
 
   A creature affected by this spell makes another wisdom saving throw at the end of its turn. On a successful save, the effect ends for it.
 excerpt: "You alter time around up to six creatures of your choice in a 40-foot cube within range."
+alt_version: "slow-2024"
 source: "Basic Rules"
 ---

@@ -23,6 +23,7 @@ comp:
 material: "a pinch of dust and a few drops of water."
 duration: "1 Minute"
 concentration: true
+
 description: |
   Until the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.
 
@@ -30,5 +31,6 @@ description: |
 
   If a creature is concentrating in the spell's area, the creature must make a successful constitution saving throw against your spell save DC or lose concentration.
 excerpt: "Until the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range."
+alt_version: "sleet-storm-2024"
 source: "Basic Rules"
 ---

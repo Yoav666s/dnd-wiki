@@ -17,6 +17,7 @@ comp:
   - M
 material: "specially marked sticks, bones, or similar tokens worth at least 25gp."
 cast_time: "1 Minute"
+
 ritual: true
 description: |
   By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible omens:
@@ -33,5 +34,6 @@ description: |
 
   If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The GM makes this roll in secret.
 excerpt: "By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes."
+alt_version: "augury-2024"
 source: "Basic Rules"
 ---

@@ -18,9 +18,11 @@ comp:
   - S
   - M
 material: "a bit of fur from a bloodhound."
+
 ritual: true
 description: |
   Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 excerpt: "Describe or name a specific kind of beast or plant."
+alt_version: "locate-animals-or-plants-2024"
 source: "Basic Rules"
 ---

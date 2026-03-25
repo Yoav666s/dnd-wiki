@@ -19,6 +19,7 @@ comp:
 duration: "1 Hour"
 concentration: true
 cast_time: "1 Minute"
+
 description: |
   You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower. It appears in an unoccupied space that you can see within range. The fey creature disappears when it drops to 0 hit points or when the spell ends.
 
@@ -30,5 +31,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.
 excerpt: "You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower."
+alt_version: "conjure-fey-2024"
 source: "Basic Rules"
 ---

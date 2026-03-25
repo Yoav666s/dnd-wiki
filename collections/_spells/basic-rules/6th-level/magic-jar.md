@@ -18,6 +18,7 @@ comp:
 material: "a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp."
 duration: "Until Dispelled"
 cast_time: "1 Minute"
+
 attack: "CHA Save"
 description: |
   Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoids body.
@@ -34,5 +35,6 @@ description: |
 
   When the spell ends, the container is destroyed.
 excerpt: "Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component."
+alt_version: "magic-jar-2024"
 source: "Basic Rules"
 ---

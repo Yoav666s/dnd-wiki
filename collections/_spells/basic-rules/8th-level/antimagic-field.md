@@ -21,6 +21,7 @@ comp:
 material: "a pinch of powdered iron or iron filings."
 duration: "1 Hour"
 concentration: true
+
 description: |
   A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can't be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.
 
@@ -42,5 +43,6 @@ description: |
 
   ***Dispel Magic.*** Spells and magical effects such as dispel magic have no effect on the sphere. Likewise, the spheres created by different antimagic field spells don't nullify each other.
 excerpt: "A 10-foot-radius invisible sphere of antimagic surrounds you."
+alt_version: "antimagic-field-2024"
 source: "Basic Rules"
 ---

@@ -19,8 +19,10 @@ comp:
 duration: "10 Minutes"
 concentration: true
 cast_time: "1 Bonus Action"
+
 description: |
   This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.
 excerpt: "This spell allows you to move at an incredible pace."
+alt_version: "expeditious-retreat-2024"
 source: "Basic Rules"
 ---

@@ -20,6 +20,7 @@ comp:
   - M
 material: "a bit of fleece."
 duration: "1 Minute"
+
 description: |
   You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
 
@@ -29,5 +30,6 @@ description: |
 
   If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 excerpt: "You create a sound or an image of an object within range that lasts for the duration."
+alt_version: "minor-illusion-2024"
 source: "Basic Rules"
 ---

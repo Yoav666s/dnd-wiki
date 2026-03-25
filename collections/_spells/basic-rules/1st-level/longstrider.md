@@ -21,10 +21,12 @@ comp:
   - M
 material: "a pinch of dirt."
 duration: "1 Hour"
+
 description: |
   You touch a creature. The target's speed increases by 10 feet until the spell ends.
 
   **At higher levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each spell slot above 1st.
 excerpt: "You touch a creature."
+alt_version: "longstrider-2024"
 source: "Basic Rules"
 ---

@@ -23,6 +23,7 @@ material: "a focus worth at least 100gp, either a jeweled horn for hearing or a 
 duration: "10 Minutes"
 concentration: true
 cast_time: "10 Minutes"
+
 description: |
   You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can't be attacked or otherwise interacted with.
 
@@ -30,5 +31,6 @@ description: |
 
   A creature that can see the sensor (such as a creature benefiting from see invisibility or truesight) sees a luminous, intangible orb about the size of your fist.
 excerpt: "You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees)."
+alt_version: "clairvoyance-2024"
 source: "Basic Rules"
 ---

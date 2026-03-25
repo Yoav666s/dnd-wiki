@@ -19,6 +19,7 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
+
 attack: "WIS Save"
 effect: "Psychic"
 description: |
@@ -26,5 +27,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 excerpt: "You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature."
+alt_version: "phantasmal-killer-2024"
 source: "Basic Rules"
 ---

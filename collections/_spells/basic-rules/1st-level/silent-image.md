@@ -23,6 +23,7 @@ comp:
 material: "a bit of fleece."
 duration: "10 Minutes"
 concentration: true
+
 description: |
   You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
 
@@ -30,5 +31,6 @@ description: |
 
   Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 excerpt: "You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube."
+alt_version: "silent-image-2024"
 source: "Basic Rules"
 ---

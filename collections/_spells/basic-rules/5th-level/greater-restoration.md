@@ -19,6 +19,7 @@ comp:
   - S
   - M
 material: "diamond dust worth at least 100gp, which the spell consumes."
+
 description: |
   You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:
 
@@ -30,5 +31,6 @@ description: |
 
   - One effect reducing the target's hit point maximum
 excerpt: "You imbue a creature you touch with positive energy to undo a debilitating effect."
+alt_version: "greater-restoration-2024"
 source: "Basic Rules"
 ---

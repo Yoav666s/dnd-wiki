@@ -24,6 +24,7 @@ comp:
 material: "a magnifying glass."
 duration: "1 Minute"
 concentration: true
+
 attack: "CON Save"
 effect: "Radiant"
 description: |
@@ -33,5 +34,6 @@ description: |
 
   For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight.
 excerpt: "A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line."
+alt_version: "sunbeam-2024"
 source: "Basic Rules"
 ---

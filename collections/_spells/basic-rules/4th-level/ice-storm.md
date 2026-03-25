@@ -23,6 +23,7 @@ comp:
   - S
   - M
 material: "a pinch of dust and a few drops of water."
+
 attack: "DEX Save"
 effect: "Bludgeoning"
 description: |
@@ -32,5 +33,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th.
 excerpt: "A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within range."
+alt_version: "ice-storm-2024"
 source: "Basic Rules"
 ---

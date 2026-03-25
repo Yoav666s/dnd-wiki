@@ -16,8 +16,10 @@ school: "Conjuration"
 comp:
   - V
 cast_time: "1 Bonus Action"
+
 description: |
   Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 excerpt: "Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see."
+alt_version: "misty-step-2024"
 source: "Basic Rules"
 ---

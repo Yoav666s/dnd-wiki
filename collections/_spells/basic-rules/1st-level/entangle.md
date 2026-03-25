@@ -19,6 +19,7 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
+
 attack: "STR Save"
 description: |
   Grasping weeds and vines sprout from the ground in a 20-foot square starting form a point within range. For the duration, these plants turn the ground in the area into difficult terrain.
@@ -27,5 +28,6 @@ description: |
 
   When the spell ends, the conjured plants wilt away.
 excerpt: "Grasping weeds and vines sprout from the ground in a 20-foot square starting form a point within range."
+alt_version: "entangle-2024"
 source: "Basic Rules"
 ---

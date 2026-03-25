@@ -19,6 +19,7 @@ comp:
   - V
   - S
 duration: "8 Hours"
+
 description: |
   You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane. You remain in the Border Ethereal for the duration or until you use your action to dismiss the spell. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear the plane you originated from, but everything there looks gray, and you can't see anything more than 60 feet away.
 
@@ -32,5 +33,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.
 excerpt: "You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane."
+alt_version: "etherealness-2024"
 source: "Basic Rules"
 ---

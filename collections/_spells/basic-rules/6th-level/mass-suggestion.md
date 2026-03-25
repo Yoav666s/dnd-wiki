@@ -20,6 +20,7 @@ comp:
   - M
 material: "a snake's tongue and either a bit of honeycomb or a drop of sweet oil."
 duration: "24 Hours"
+
 attack: "WIS Save"
 description: |
   You suggest a course of activity (limited to a sentence or two) and magically influence up to twelve creatures of your choice that you can see within range and that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell.
@@ -32,5 +33,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.
 excerpt: "You suggest a course of activity (limited to a sentence or two) and magically influence up to twelve creatures of your choice that you can see within range and that can hear and understand you."
+alt_version: "mass-suggestion-2024"
 source: "Basic Rules"
 ---

@@ -16,6 +16,7 @@ comp:
   - V
   - S
 cast_time: "10 Minutes"
+
 description: |
   You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, and clothes from flax or wool.
 
@@ -23,5 +24,6 @@ description: |
 
   Creatures or magic items can't be created or transmuted by this spell. You also can't use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan's tools used to craft such objects.
 excerpt: "You convert raw materials into products of the same material."
+alt_version: "fabricate-2024"
 source: "Basic Rules"
 ---

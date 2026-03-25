@@ -24,6 +24,7 @@ comp:
 material: "three walnut shells."
 duration: "1 Minute"
 concentration: true
+
 attack: "WIS Save"
 description: |
   This spell assaults and twists creatures' minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.
@@ -41,5 +42,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
 excerpt: "This spell assaults and twists creatures' minds, spawning delusions and provoking uncontrolled action."
+alt_version: "confusion-2024"
 source: "Basic Rules"
 ---

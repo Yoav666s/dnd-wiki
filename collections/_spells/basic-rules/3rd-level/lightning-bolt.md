@@ -21,6 +21,7 @@ comp:
   - S
   - M
 material: "a bit of fur and a rod of amber, crystal, or glass."
+
 attack: "DEX Save"
 effect: "Lightning"
 description: |
@@ -30,5 +31,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 excerpt: "A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose."
+alt_version: "lightning-bolt-2024"
 source: "Basic Rules"
 ---

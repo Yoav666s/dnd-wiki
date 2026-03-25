@@ -18,6 +18,7 @@ range: "60 ft"
 comp:
   - V
   - S
+
 attack: "Ranged"
 effect: "Cold"
 description: |
@@ -25,5 +26,6 @@ description: |
 
   The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 excerpt: "A frigid beam of blue-white light streaks toward a creature within range."
+alt_version: "ray-of-frost-2024"
 source: "Basic Rules"
 ---

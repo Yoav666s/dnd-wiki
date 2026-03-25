@@ -16,6 +16,7 @@ school: "Transmutation"
 range: "60 ft"
 comp:
   - V
+
 description: |
   Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.
 
@@ -25,5 +26,6 @@ description: |
 
   When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.
 excerpt: "Choose an object that you can see within range."
+alt_version: "knock-2024"
 source: "Basic Rules"
 ---

@@ -18,6 +18,7 @@ comp:
 material: "incense and a vial of holy or unholy water."
 duration: "1 Minute"
 cast_time: "1 Minute"
+
 ritual: true
 description: |
   You contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.
@@ -26,5 +27,6 @@ description: |
 
   If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The GM makes this roll in secret.
 excerpt: "You contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no."
+alt_version: "commune-2024"
 source: "Basic Rules"
 ---

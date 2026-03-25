@@ -19,6 +19,7 @@ comp:
 duration: "1 Hour"
 concentration: true
 cast_time: "1 Minute"
+
 description: |
   You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:
 
@@ -38,5 +39,6 @@ description: |
 
   **At higher levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 excerpt: "You summon elementals that appear in unoccupied spaces that you can see within range."
+alt_version: "conjure-minor-elementals-2024"
 source: "Basic Rules"
 ---

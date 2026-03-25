@@ -21,6 +21,7 @@ shape: "Cube"
 comp:
   - V
   - S
+
 attack: "DEX Save"
 effect: "Fire"
 description: |
@@ -28,5 +29,6 @@ description: |
 
   The fire damages objects in the area and ignites flammable objects that aren't being worn or carried. If you choose, plant life in the area is unaffected by this spell.
 excerpt: "A storm made up of sheets of roaring flame appears in a location you choose within range."
+alt_version: "fire-storm-2024"
 source: "Basic Rules"
 ---

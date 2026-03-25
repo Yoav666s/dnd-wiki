@@ -20,6 +20,7 @@ shape: "Sphere"
 comp:
   - V
   - S
+
 attack: "DEX Save"
 effect: "Fire"
 description: |
@@ -27,5 +28,6 @@ description: |
 
   The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.
 excerpt: "Blazing orbs of fire plummet to the ground at four different points you can see within range."
+alt_version: "meteor-swarm-2024"
 source: "Basic Rules"
 ---

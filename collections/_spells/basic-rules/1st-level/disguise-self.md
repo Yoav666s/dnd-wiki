@@ -17,6 +17,7 @@ comp:
   - V
   - S
 duration: "1 Hour"
+
 description: |
   You make yourself--including your clothing, armor, weapons, and other belongings on your person--look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
 
@@ -24,5 +25,6 @@ description: |
 
   To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.
 excerpt: "You make yourself--including your clothing, armor, weapons, and other belongings on your person--look different until the spell ends or until you use your action to dismiss it."
+alt_version: "disguise-self-2024"
 source: "Basic Rules"
 ---

@@ -21,8 +21,10 @@ material: "a small parchment with a bit of holy text written on it."
 duration: "10 Minutes"
 concentration: true
 cast_time: "1 Bonus Action"
+
 description: |
   A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 excerpt: "A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration."
+alt_version: "shield-of-faith-2024"
 source: "Basic Rules"
 ---

@@ -16,6 +16,7 @@ comp:
   - S
 duration: "1 Hour"
 concentration: true
+
 description: |
   You become invisible at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.
 
@@ -23,5 +24,6 @@ description: |
 
   You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
 excerpt: "You become invisible at the same time that an illusory double of you appears where you are standing."
+alt_version: "mislead-2024"
 source: "Basic Rules"
 ---

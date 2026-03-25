@@ -18,6 +18,7 @@ comp:
 material: "a holy symbol."
 duration: "10 Minutes"
 concentration: true
+
 description: |
   You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.
 
@@ -25,5 +26,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 excerpt: "You call forth spirits to protect you."
+alt_version: "spirit-guardians-2024"
 source: "Basic Rules"
 ---

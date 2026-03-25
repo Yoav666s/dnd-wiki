@@ -18,6 +18,7 @@ area: "10 ft"
 shape: "Cube"
 comp:
   - V
+
 description: |
   This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can't be held or carried by an unwilling creature.
 
@@ -55,5 +56,6 @@ description: |
 
   ***Mishap.*** The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the GM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 excerpt: "This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see within range, to a destination you select."
+alt_version: "teleport-2024"
 source: "Basic Rules"
 ---

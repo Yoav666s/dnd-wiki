@@ -20,6 +20,7 @@ range: "10 ft"
 comp:
   - V
   - S
+
 attack: "CON Save"
 effect: "Poison"
 description: |
@@ -27,5 +28,6 @@ description: |
 
   This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
 excerpt: "You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm."
+alt_version: "poison-spray-2024"
 source: "Basic Rules"
 ---

@@ -23,6 +23,7 @@ comp:
 material: "a piece of tentacle from a giant octopus or a giant squid"
 duration: "1 Minute"
 concentration: true
+
 attack: "DEX Save"
 effect: "Bludgeoning"
 description: |
@@ -32,5 +33,6 @@ description: |
 
   A creature restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
 excerpt: "Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range."
+alt_version: "black-tentacles-2024"
 source: "Basic Rules"
 ---

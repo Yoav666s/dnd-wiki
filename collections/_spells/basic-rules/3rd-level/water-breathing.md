@@ -21,9 +21,11 @@ comp:
   - M
 material: "a short piece of reed or straw."
 duration: "24 Hours"
+
 ritual: true
 description: |
   This spell gives a maximum of ten willing creatures within range and you can see, the ability to breathe underwater until the end of its term. Affected creatures also retain their normal breathing pattern.
 excerpt: "This spell gives a maximum of ten willing creatures within range and you can see, the ability to breathe underwater until the end of its term."
+alt_version: "water-breathing-2024"
 source: "Basic Rules"
 ---

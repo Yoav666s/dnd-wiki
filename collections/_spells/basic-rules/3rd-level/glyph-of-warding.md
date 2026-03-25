@@ -21,6 +21,7 @@ comp:
 material: "incense and powdered diamond worth at least 200 gp, which the spell consumes."
 duration: "Until Dispelled"
 cast_time: "1 Hour"
+
 description: |
   When you cast this spell, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
@@ -38,5 +39,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 4th level or higher, the damage of an explosive runes glyph increases by 1d8 for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.
 excerpt: "When you cast this spell, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph."
+alt_version: "glyph-of-warding-2024"
 source: "Basic Rules"
 ---

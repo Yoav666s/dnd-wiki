@@ -18,6 +18,7 @@ comp:
   - M
 material: "a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes."
 duration: "Until Dispelled"
+
 description: |
   By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can't be targeted by divination spells or perceived through scrying sensors created by divination spells.
 
@@ -25,5 +26,6 @@ description: |
 
   You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include "after 1,000 years" or "when the tarrasque awakens." This spell also ends if the target takes any damage.
 excerpt: "By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration."
+alt_version: "sequester-2024"
 source: "Basic Rules"
 ---

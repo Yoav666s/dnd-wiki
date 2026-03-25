@@ -23,6 +23,7 @@ comp:
   - S
   - M
 material: "the powder of a crushed black pearl worth at least 500 gp."
+
 attack: "CON Save"
 effect: "Necrotic"
 description: |
@@ -30,5 +31,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
 excerpt: "A sphere of negative energy ripples out in a 60-foot radius sphere from a point within range."
+alt_version: "circle-of-death-2024"
 source: "Basic Rules"
 ---

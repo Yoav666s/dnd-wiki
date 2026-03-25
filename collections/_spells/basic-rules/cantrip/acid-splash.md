@@ -18,6 +18,7 @@ range: "60 ft"
 comp:
   - V
   - S
+
 attack: "DEX Save"
 effect: "Acid"
 description: |
@@ -25,5 +26,6 @@ description: |
 
   This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 excerpt: "You hurl a bubble of acid."
+alt_version: "acid-splash-2024"
 source: "Basic Rules"
 ---

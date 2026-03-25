@@ -18,6 +18,7 @@ comp:
   - M
 material: "a small square of silk."
 duration: "24 Hours"
+
 description: |
   You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn't being carried or worn by another creature.
 
@@ -27,5 +28,6 @@ description: |
 
   ***Mask.*** You change the way the target appears to spells and magical effects that detect creature types, such as a paladin's Divine Sense or the trigger of a symbol spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment.
 excerpt: "You place an illusion on a creature or an object you touch so that divination spells reveal false information about it."
+alt_version: "arcanists-magic-aura-2024"
 source: "Basic Rules"
 ---

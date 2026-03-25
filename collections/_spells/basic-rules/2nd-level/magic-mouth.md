@@ -20,6 +20,7 @@ comp:
 material: "a honeycomb and jade dust of at least 10 inches, the spell consumes."
 duration: "Until Dispelled"
 cast_time: "1 Minute"
+
 ritual: true
 description: |
   You plant a message to an object in the range of the spell. The message is verbalized when the trigger conditions are met. Choose an object that you see, and that is not worn or carried by another creature. Then say the message, which should not exceed 25 words but listening can take up to 10 minutes. Finally, establish the circumstances that trigger the spell to deliver your message.
@@ -30,5 +31,6 @@ description: |
 
   The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
 excerpt: "You plant a message to an object in the range of the spell."
+alt_version: "magic-mouth-2024"
 source: "Basic Rules"
 ---

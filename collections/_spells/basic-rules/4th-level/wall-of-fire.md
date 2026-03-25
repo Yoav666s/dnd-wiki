@@ -25,6 +25,7 @@ comp:
 material: "a small piece of phosphorus."
 duration: "1 Minute"
 concentration: true
+
 attack: "DEX Save"
 effect: "Fire"
 description: |
@@ -38,5 +39,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 excerpt: "You create a wall of fire on a solid surface within range."
+alt_version: "wall-of-fire-2024"
 source: "Basic Rules"
 ---

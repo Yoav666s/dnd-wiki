@@ -22,6 +22,7 @@ comp:
   - S
   - M
 material: "a handful of clay, crystal, glass, or mineral spheres."
+
 attack: "INT Save"
 effect: "Psychic"
 description: |
@@ -33,5 +34,6 @@ description: |
 
   The spell can also be ended by greater restoration, heal, or wish.
 excerpt: "You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality."
+alt_version: "feeblemind-2024"
 source: "Basic Rules"
 ---

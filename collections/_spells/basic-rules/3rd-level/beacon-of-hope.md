@@ -17,8 +17,10 @@ comp:
   - S
 duration: "1 Minute"
 concentration: true
+
 description: |
   This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.
 excerpt: "This spell bestows hope and vitality."
+alt_version: "beacon-of-hope-2024"
 source: "Basic Rules"
 ---

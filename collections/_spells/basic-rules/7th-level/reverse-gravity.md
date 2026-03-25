@@ -23,6 +23,7 @@ comp:
 material: "a lodestone and iron filings."
 duration: "1 Minute"
 concentration: true
+
 attack: "DEX Save"
 description: |
   This spell reverses gravity in a 50-foot-radius, 100-foot high cylinder centered on a point within range. All creatures and objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall.
@@ -31,5 +32,6 @@ description: |
 
   At the end of the duration, affected objects and creatures fall back down.
 excerpt: "This spell reverses gravity in a 50-foot-radius, 100-foot high cylinder centered on a point within range."
+alt_version: "reverse-gravity-2024"
 source: "Basic Rules"
 ---

@@ -17,6 +17,7 @@ comp:
   - S
 duration: "10 Minutes"
 concentration: true
+
 description: |
   You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.
 
@@ -24,5 +25,6 @@ description: |
 
   When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 excerpt: "You banish a creature that you can see within range into a labyrinthine demiplane."
+alt_version: "maze-2024"
 source: "Basic Rules"
 ---

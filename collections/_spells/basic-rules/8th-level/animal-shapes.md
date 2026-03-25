@@ -17,6 +17,7 @@ comp:
   - S
 duration: "24 Hours"
 concentration: true
+
 description: |
   Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller beast with a challenge rating of 4 or lower. On subsequent turns, you can use your action to transform affected creatures into new forms.
 
@@ -24,5 +25,6 @@ description: |
 
   The target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment.
 excerpt: "Your magic turns others into beasts."
+alt_version: "animal-shapes-2024"
 source: "Basic Rules"
 ---

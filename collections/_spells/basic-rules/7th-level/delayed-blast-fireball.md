@@ -24,6 +24,7 @@ comp:
 material: "a tiny ball of bat guano and sulfur."
 duration: "1 Minute"
 concentration: true
+
 attack: "DEX Save"
 effect: "Fire"
 description: |
@@ -37,5 +38,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.
 excerpt: "A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within range as a glowing bead for the duration."
+alt_version: "delayed-blast-fireball-2024"
 source: "Basic Rules"
 ---

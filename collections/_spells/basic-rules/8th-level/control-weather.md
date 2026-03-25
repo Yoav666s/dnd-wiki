@@ -21,6 +21,7 @@ material: "burning incense and bits of earth and wood mixed in water."
 duration: "8 Hours"
 concentration: true
 cast_time: "10 Minutes"
+
 description: |
   You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don't have a clear path to the sky ends the spell early.
 
@@ -59,5 +60,6 @@ description: |
   | 4 | Gale |
   | 5 | Storm |
 excerpt: "You take control of the weather within 5 miles of you for the duration."
+alt_version: "control-weather-2024"
 source: "Basic Rules"
 ---

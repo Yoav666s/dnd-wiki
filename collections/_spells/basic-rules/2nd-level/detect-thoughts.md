@@ -20,6 +20,7 @@ comp:
 material: "a copper coin."
 duration: "1 Minute"
 concentration: true
+
 description: |
   For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, the creature is unaffected.
 
@@ -31,5 +32,6 @@ description: |
 
   Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it, but it must still be within range.
 excerpt: "For the duration, you can read the thoughts of certain creatures."
+alt_version: "detect-thoughts-2024"
 source: "Basic Rules"
 ---

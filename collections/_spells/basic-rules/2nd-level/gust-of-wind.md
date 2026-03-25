@@ -22,6 +22,7 @@ comp:
 material: "a legume seed."
 duration: "1 Minute"
 concentration: true
+
 attack: "STR Save"
 description: |
   A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell's duration. Each creature that starts its turn in the line must succeed on a strength saving throw or be pushed 15 feet away from you in a direction following the line.
@@ -32,5 +33,6 @@ description: |
 
   As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
 excerpt: "A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell's duration."
+alt_version: "gust-of-wind-2024"
 source: "Basic Rules"
 ---

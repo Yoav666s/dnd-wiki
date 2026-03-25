@@ -20,6 +20,7 @@ comp:
   - S
 duration: "10 Minutes"
 concentration: true
+
 description: |
   You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and as your action each round for the duration, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
 
@@ -33,5 +34,6 @@ description: |
 
   You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
 excerpt: "You gain the ability to move or manipulate creatures or objects by thought."
+alt_version: "telekinesis-2024"
 source: "Basic Rules"
 ---

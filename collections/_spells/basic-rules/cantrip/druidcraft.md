@@ -15,6 +15,7 @@ range: "30 ft"
 comp:
   - V
   - S
+
 description: |
   Whispering to the spirits of nature, you create one of the following effects within 'range':
 
@@ -26,5 +27,6 @@ description: |
 
   - You instantly light or snuff out a candle, a torch, or a small campfire.
 excerpt: "Whispering to the spirits of nature, you create one of the following effects within 'range':."
+alt_version: "druidcraft-2024"
 source: "Basic Rules"
 ---

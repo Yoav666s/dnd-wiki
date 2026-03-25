@@ -19,6 +19,7 @@ comp:
   - S
 duration: "1 Minute"
 cast_time: "1 Bonus Action"
+
 attack: "Melee"
 effect: "Force"
 description: |
@@ -30,5 +31,6 @@ description: |
 
   **At higher levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above the 2nd.
 excerpt: "You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again."
+alt_version: "spiritual-weapon-2024"
 source: "Basic Rules"
 ---
