@@ -18,7 +18,7 @@ duration: "1 Minute"
 concentration: true
 cast_time: "Action"
 description: |
-  You create a spectral sword that hovers within range. It lasts for the duration.   
+  You create a spectral sword that hovers within range. It lasts for the duration.  
 
 When the sword appears, you make a melee spell attack against a target within 5 feet of the sword. On a hit, the target takes Force damage equal to 4d12 plus your spellcasting ability modifier.  
 
