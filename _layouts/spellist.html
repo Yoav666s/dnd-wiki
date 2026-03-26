@@ -12,8 +12,10 @@ layout: single
 
     {% for spell in level_spells %}
       {% if spell.available_for contains page.class or spell.available_for contains page.subclass or page.additional_spells contains spell.title %}
-        {% assign spell_found = true %}
-        {% break %}
+        {% if spell.v_2024 == nil or spell.v_2024 == false %}
+          {% assign spell_found = true %}
+          {% break %}
+        {% endif %}
       {% endif %}
     {% endfor %}
 
@@ -22,9 +24,11 @@ layout: single
       <ul>
       {% for spell in level_spells %}
         {% if spell.available_for contains page.class or spell.available_for contains page.subclass or page.additional_spells contains spell.title %}
-          <li>
-            {% include tooltip.html title=spell.title %}
-          </li>
+          {% if spell.v_2024 == nil or spell.v_2024 == false %}
+            <li>
+              {% include tooltip.html title=spell.title %}
+            </li>
+          {% endif %}
         {% endif %}
       {% endfor %}
     </ul>
