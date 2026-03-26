@@ -3,6 +3,10 @@ title: "Clone"
 index: 
   - clone-2024
 permalink: /spells/clone-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Necromancy
 available_for:
   - Wizard
 level: "8th Level"

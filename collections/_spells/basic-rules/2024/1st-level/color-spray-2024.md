@@ -3,6 +3,10 @@ title: "Color Spray"
 index: 
   - color-spray-2024
 permalink: /spells/color-spray-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer

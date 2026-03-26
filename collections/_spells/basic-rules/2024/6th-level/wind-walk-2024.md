@@ -3,6 +3,10 @@ title: "Wind Walk"
 index: 
   - wind-walk-2024
 permalink: /spells/wind-walk-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Transmutation
 available_for:
   - Druid
 level: "6th Level"

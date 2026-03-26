@@ -3,6 +3,10 @@ title: "Create or Destroy Water"
 index: 
   - create-or-destroy-water-2024
 permalink: /spells/create-or-destroy-water-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Transmutation
 available_for:
   - Cleric
   - Druid

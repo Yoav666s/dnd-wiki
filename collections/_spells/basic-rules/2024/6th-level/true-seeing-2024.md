@@ -3,6 +3,10 @@ title: "True Seeing"
 index: 
   - true-seeing-2024
 permalink: /spells/true-seeing-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Divination
 available_for:
   - Bard
   - Cleric

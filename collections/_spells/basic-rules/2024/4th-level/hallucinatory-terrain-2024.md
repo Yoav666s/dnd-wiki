@@ -3,6 +3,10 @@ title: "Hallucinatory Terrain"
 index: 
   - hallucinatory-terrain-2024
 permalink: /spells/hallucinatory-terrain-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Illusion
 available_for:
   - Bard
   - Druid

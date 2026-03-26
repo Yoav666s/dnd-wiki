@@ -3,6 +3,10 @@ title: "Grease"
 index: 
   - grease-2024
 permalink: /spells/grease-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Sorcerer
   - Wizard

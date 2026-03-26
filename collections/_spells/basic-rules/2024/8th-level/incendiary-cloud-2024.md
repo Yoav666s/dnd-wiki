@@ -3,6 +3,10 @@ title: "Incendiary Cloud"
 index: 
   - incendiary-cloud-2024
 permalink: /spells/incendiary-cloud-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Conjuration
 available_for:
   - Druid
   - Sorcerer

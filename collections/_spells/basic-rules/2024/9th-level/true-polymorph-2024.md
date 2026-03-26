@@ -3,6 +3,10 @@ title: "True Polymorph"
 index: 
   - true-polymorph-2024
 permalink: /spells/true-polymorph-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Transmutation
 available_for:
   - Bard
   - Warlock

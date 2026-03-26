@@ -3,6 +3,10 @@ title: "Conjure Fey"
 index: 
   - conjure-fey-2024
 permalink: /spells/conjure-fey-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Conjuration
 available_for:
   - Druid
 level: "6th Level"

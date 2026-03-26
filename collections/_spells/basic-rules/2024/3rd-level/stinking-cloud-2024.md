@@ -3,6 +3,10 @@ title: "Stinking Cloud"
 index: 
   - stinking-cloud-2024
 permalink: /spells/stinking-cloud-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Conjuration
 available_for:
   - Bard
   - Sorcerer

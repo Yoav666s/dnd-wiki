@@ -3,6 +3,10 @@ title: "Magnificent Mansion"
 index: 
   - magnificent-mansion-2024
 permalink: /spells/magnificent-mansion-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Conjuration
 available_for:
   - Bard
   - Wizard

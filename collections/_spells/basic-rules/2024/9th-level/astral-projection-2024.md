@@ -3,6 +3,10 @@ title: "Astral Projection"
 index: 
   - astral-projection-2024
 permalink: /spells/astral-projection-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Necromancy
 available_for:
   - Cleric
   - Warlock

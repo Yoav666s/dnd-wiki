@@ -3,6 +3,10 @@ title: "Control Water"
 index: 
   - control-water-2024
 permalink: /spells/control-water-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Transmutation
 available_for:
   - Cleric
   - Druid

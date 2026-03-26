@@ -3,6 +3,10 @@ title: "Goodberry"
 index: 
   - goodberry-2024
 permalink: /spells/goodberry-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Druid
   - Ranger

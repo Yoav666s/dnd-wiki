@@ -3,6 +3,10 @@ title: "Storm of Vengeance"
 index: 
   - storm-of-vengeance-2024
 permalink: /spells/storm-of-vengeance-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Conjuration
 available_for:
   - Druid
 level: "9th Level"

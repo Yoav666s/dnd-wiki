@@ -3,6 +3,10 @@ title: "Water Walk"
 index: 
   - water-walk-2024
 permalink: /spells/water-walk-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Cleric
   - Druid

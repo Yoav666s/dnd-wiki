@@ -3,6 +3,10 @@ title: "Vampiric Touch"
 index: 
   - vampiric-touch-2024
 permalink: /spells/vampiric-touch-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Necromancy
 available_for:
   - Sorcerer
   - Warlock

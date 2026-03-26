@@ -3,6 +3,10 @@ title: "Phantasmal Force"
 index: 
   - phantasmal-force-2024
 permalink: /spells/phantasmal-force-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer

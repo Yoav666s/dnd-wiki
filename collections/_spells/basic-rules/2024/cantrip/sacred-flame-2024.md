@@ -3,6 +3,10 @@ title: "Sacred Flame"
 index: 
   - sacred-flame-2024
 permalink: /spells/sacred-flame-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Evocation
 available_for:
   - Cleric
 level: "Cantrip"

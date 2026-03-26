@@ -3,6 +3,10 @@ title: "Befuddlement"
 index: 
   - befuddlement-2024
 permalink: /spells/befuddlement-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Enchantment
 available_for:
   - Bard
   - Druid

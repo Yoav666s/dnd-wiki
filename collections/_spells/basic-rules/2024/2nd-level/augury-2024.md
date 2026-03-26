@@ -3,6 +3,10 @@ title: "Augury"
 index: 
   - augury-2024
 permalink: /spells/augury-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Divination
 available_for:
   - Cleric
   - Druid

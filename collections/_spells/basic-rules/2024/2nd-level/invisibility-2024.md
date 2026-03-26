@@ -3,6 +3,10 @@ title: "Invisibility"
 index: 
   - invisibility-2024
 permalink: /spells/invisibility-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer

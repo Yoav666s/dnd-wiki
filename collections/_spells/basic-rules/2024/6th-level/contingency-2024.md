@@ -3,6 +3,10 @@ title: "Contingency"
 index: 
   - contingency-2024
 permalink: /spells/contingency-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Abjuration
 available_for:
   - Wizard
 level: "6th Level"

@@ -3,6 +3,10 @@ title: "Revivify"
 index: 
   - revivify-2024
 permalink: /spells/revivify-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Necromancy
 available_for:
   - Cleric
   - Druid

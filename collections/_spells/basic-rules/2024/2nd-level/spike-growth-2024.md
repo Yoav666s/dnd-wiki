@@ -3,6 +3,10 @@ title: "Spike Growth"
 index: 
   - spike-growth-2024
 permalink: /spells/spike-growth-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Druid
   - Ranger

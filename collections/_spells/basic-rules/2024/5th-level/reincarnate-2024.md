@@ -3,6 +3,10 @@ title: "Reincarnate"
 index: 
   - reincarnate-2024
 permalink: /spells/reincarnate-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Necromancy
 available_for:
   - Druid
 level: "5th Level"

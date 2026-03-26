@@ -3,6 +3,10 @@ title: "Unseen Servant"
 index: 
   - unseen-servant-2024
 permalink: /spells/unseen-servant-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Bard
   - Warlock

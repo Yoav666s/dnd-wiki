@@ -3,6 +3,10 @@ title: "Find Steed"
 index: 
   - find-steed-2024
 permalink: /spells/find-steed-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Conjuration
 available_for:
   - Paladin
 level: "2nd Level"

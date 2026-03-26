@@ -3,6 +3,10 @@ title: "Expeditious Retreat"
 index: 
   - expeditious-retreat-2024
 permalink: /spells/expeditious-retreat-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Warlock

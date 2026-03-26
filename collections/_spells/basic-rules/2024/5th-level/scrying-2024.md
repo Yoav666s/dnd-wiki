@@ -3,6 +3,10 @@ title: "Scrying"
 index: 
   - scrying-2024
 permalink: /spells/scrying-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Divination
 available_for:
   - Bard
   - Cleric

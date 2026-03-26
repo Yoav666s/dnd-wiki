@@ -3,6 +3,10 @@ title: "Teleport"
 index: 
   - teleport-2024
 permalink: /spells/teleport-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Conjuration
 available_for:
   - Bard
   - Sorcerer

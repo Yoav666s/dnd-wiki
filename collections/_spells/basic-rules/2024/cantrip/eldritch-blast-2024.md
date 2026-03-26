@@ -3,6 +3,10 @@ title: "Eldritch Blast"
 index: 
   - eldritch-blast-2024
 permalink: /spells/eldritch-blast-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Evocation
 available_for:
   - Warlock
 level: "Cantrip"

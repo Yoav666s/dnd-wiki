@@ -3,6 +3,10 @@ title: "Fire Storm"
 index: 
   - fire-storm-2024
 permalink: /spells/fire-storm-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Evocation
 available_for:
   - Cleric
   - Druid

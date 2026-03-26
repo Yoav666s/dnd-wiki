@@ -3,6 +3,10 @@ title: "Inflict Wounds"
 index: 
   - inflict-wounds-2024
 permalink: /spells/inflict-wounds-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Necromancy
 available_for:
   - Cleric
 level: "1st Level"

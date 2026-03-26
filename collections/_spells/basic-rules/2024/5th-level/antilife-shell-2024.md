@@ -3,6 +3,10 @@ title: "Antilife Shell"
 index: 
   - antilife-shell-2024
 permalink: /spells/antilife-shell-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Abjuration
 available_for:
   - Druid
 level: "5th Level"

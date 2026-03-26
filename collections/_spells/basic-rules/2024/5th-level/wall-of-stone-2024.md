@@ -3,6 +3,10 @@ title: "Wall of Stone"
 index: 
   - wall-of-stone-2024
 permalink: /spells/wall-of-stone-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Evocation
 available_for:
   - Druid
   - Sorcerer

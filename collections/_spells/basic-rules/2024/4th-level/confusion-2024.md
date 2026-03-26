@@ -3,6 +3,10 @@ title: "Confusion"
 index: 
   - confusion-2024
 permalink: /spells/confusion-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Enchantment
 available_for:
   - Bard
   - Druid

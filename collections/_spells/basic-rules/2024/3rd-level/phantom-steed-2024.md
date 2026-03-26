@@ -3,6 +3,10 @@ title: "Phantom Steed"
 index: 
   - phantom-steed-2024
 permalink: /spells/phantom-steed-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Illusion
 available_for:
   - Wizard
 level: "3rd Level"

@@ -3,6 +3,10 @@ title: "Lesser Restoration"
 index: 
   - lesser-restoration-2024
 permalink: /spells/lesser-restoration-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

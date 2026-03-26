@@ -3,6 +3,10 @@ title: "Cloudkill"
 index: 
   - cloudkill-2024
 permalink: /spells/cloudkill-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Conjuration
 available_for:
   - Sorcerer
   - Wizard

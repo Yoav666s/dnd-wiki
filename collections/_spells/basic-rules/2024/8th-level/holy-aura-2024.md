@@ -3,6 +3,10 @@ title: "Holy Aura"
 index: 
   - holy-aura-2024
 permalink: /spells/holy-aura-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Abjuration
 available_for:
   - Cleric
 level: "8th Level"

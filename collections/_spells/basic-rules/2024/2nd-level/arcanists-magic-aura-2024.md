@@ -3,6 +3,10 @@ title: "Arcanist's Magic Aura"
 index: 
   - arcanists-magic-aura-2024
 permalink: /spells/arcanists-magic-aura-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Illusion
 available_for:
   - Wizard
 level: "2nd Level"

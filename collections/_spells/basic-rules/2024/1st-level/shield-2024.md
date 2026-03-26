@@ -3,6 +3,10 @@ title: "Shield"
 index: 
   - shield-2024
 permalink: /spells/shield-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Abjuration
 available_for:
   - Sorcerer
   - Wizard

@@ -3,6 +3,10 @@ title: "Dispel Magic"
 index: 
   - dispel-magic-2024
 permalink: /spells/dispel-magic-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

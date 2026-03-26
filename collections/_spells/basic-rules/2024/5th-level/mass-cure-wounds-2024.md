@@ -3,6 +3,10 @@ title: "Mass Cure Wounds"
 index: 
   - mass-cure-wounds-2024
 permalink: /spells/mass-cure-wounds-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

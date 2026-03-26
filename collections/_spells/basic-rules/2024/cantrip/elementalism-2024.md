@@ -3,6 +3,10 @@ title: "Elementalism"
 index: 
   - elementalism-2024
 permalink: /spells/elementalism-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Transmutation
 available_for:
   - Druid
   - Sorcerer

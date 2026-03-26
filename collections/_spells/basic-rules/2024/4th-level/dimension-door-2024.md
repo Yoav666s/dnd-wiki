@@ -3,6 +3,10 @@ title: "Dimension Door"
 index: 
   - dimension-door-2024
 permalink: /spells/dimension-door-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Conjuration
 available_for:
   - Bard
   - Sorcerer

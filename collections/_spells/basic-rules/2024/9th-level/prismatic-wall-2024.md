@@ -3,6 +3,10 @@ title: "Prismatic Wall"
 index: 
   - prismatic-wall-2024
 permalink: /spells/prismatic-wall-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Abjuration
 available_for:
   - Bard
   - Wizard

@@ -3,6 +3,10 @@ title: "Knock"
 index: 
   - knock-2024
 permalink: /spells/knock-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Bard
   - Sorcerer

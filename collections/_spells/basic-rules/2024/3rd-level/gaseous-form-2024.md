@@ -3,6 +3,10 @@ title: "Gaseous Form"
 index: 
   - gaseous-form-2024
 permalink: /spells/gaseous-form-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Warlock

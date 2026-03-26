@@ -3,6 +3,10 @@ title: "Mind Spike"
 index: 
   - mind-spike-2024
 permalink: /spells/mind-spike-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Divination
 available_for:
   - Sorcerer
   - Warlock

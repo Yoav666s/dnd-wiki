@@ -3,6 +3,10 @@ title: "Dominate Beast"
 index: 
   - dominate-beast-2024
 permalink: /spells/dominate-beast-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Enchantment
 available_for:
   - Druid
   - Ranger

@@ -3,6 +3,10 @@ title: "Cure Wounds"
 index: 
   - cure-wounds-2024
 permalink: /spells/cure-wounds-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

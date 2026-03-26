@@ -3,6 +3,10 @@ title: "Passwall"
 index: 
   - passwall-2024
 permalink: /spells/passwall-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Transmutation
 available_for:
   - Wizard
 level: "5th Level"

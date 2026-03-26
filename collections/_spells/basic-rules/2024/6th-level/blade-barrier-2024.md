@@ -3,6 +3,10 @@ title: "Blade Barrier"
 index: 
   - blade-barrier-2024
 permalink: /spells/blade-barrier-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Evocation
 available_for:
   - Cleric
 level: "6th Level"

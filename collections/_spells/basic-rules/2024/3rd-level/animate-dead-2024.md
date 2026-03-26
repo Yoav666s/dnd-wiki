@@ -3,6 +3,10 @@ title: "Animate Dead"
 index: 
   - animate-dead-2024
 permalink: /spells/animate-dead-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Necromancy
 available_for:
   - Cleric
   - Wizard

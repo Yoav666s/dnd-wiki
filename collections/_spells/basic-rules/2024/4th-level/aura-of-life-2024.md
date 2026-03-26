@@ -3,6 +3,10 @@ title: "Aura of Life"
 index: 
   - aura-of-life-2024
 permalink: /spells/aura-of-life-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin

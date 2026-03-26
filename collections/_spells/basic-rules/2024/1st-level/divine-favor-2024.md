@@ -3,6 +3,10 @@ title: "Divine Favor"
 index: 
   - divine-favor-2024
 permalink: /spells/divine-favor-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Transmutation
 available_for:
   - Paladin
 level: "1st Level"

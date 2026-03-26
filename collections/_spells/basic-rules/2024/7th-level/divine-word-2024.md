@@ -3,6 +3,10 @@ title: "Divine Word"
 index: 
   - divine-word-2024
 permalink: /spells/divine-word-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Evocation
 available_for:
   - Cleric
 level: "7th Level"

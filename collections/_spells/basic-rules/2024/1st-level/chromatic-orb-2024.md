@@ -3,6 +3,10 @@ title: "Chromatic Orb"
 index: 
   - chromatic-orb-2024
 permalink: /spells/chromatic-orb-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

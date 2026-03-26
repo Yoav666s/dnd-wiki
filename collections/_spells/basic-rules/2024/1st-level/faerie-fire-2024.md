@@ -3,6 +3,10 @@ title: "Faerie Fire"
 index: 
   - faerie-fire-2024
 permalink: /spells/faerie-fire-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Evocation
 available_for:
   - Bard
   - Druid

@@ -3,6 +3,10 @@ title: "Silent Image"
 index: 
   - silent-image-2024
 permalink: /spells/silent-image-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer

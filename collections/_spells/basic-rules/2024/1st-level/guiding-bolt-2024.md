@@ -3,6 +3,10 @@ title: "Guiding Bolt"
 index: 
   - guiding-bolt-2024
 permalink: /spells/guiding-bolt-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Evocation
 available_for:
   - Cleric
 level: "1st Level"

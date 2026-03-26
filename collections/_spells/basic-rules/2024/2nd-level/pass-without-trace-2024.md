@@ -3,6 +3,10 @@ title: "Pass without Trace"
 index: 
   - pass-without-trace-2024
 permalink: /spells/pass-without-trace-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Abjuration
 available_for:
   - Druid
   - Ranger

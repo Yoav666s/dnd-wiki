@@ -3,6 +3,10 @@ title: "Prismatic Spray"
 index: 
   - prismatic-spray-2024
 permalink: /spells/prismatic-spray-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Evocation
 available_for:
   - Bard
   - Sorcerer

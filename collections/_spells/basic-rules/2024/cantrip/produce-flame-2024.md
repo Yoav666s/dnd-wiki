@@ -3,6 +3,10 @@ title: "Produce Flame"
 index: 
   - produce-flame-2024
 permalink: /spells/produce-flame-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Conjuration
 available_for:
   - Druid
 level: "Cantrip"

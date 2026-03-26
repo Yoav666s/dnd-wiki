@@ -3,6 +3,10 @@ title: "Counterspell"
 index: 
   - counterspell-2024
 permalink: /spells/counterspell-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Abjuration
 available_for:
   - Sorcerer
   - Warlock

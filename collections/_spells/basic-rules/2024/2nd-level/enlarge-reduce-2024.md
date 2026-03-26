@@ -3,6 +3,10 @@ title: "Enlarge/Reduce"
 index: 
   - enlarge-reduce-2024
 permalink: /spells/enlarge-reduce-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Bard
   - Druid

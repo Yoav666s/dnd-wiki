@@ -3,6 +3,10 @@ title: "Blindness/Deafness"
 index: 
   - blindness-deafness-2024
 permalink: /spells/blindness-deafness-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - 
 level: "2nd Level"

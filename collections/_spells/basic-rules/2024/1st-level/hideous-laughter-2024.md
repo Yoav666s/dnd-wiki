@@ -3,6 +3,10 @@ title: "Hideous Laughter"
 index: 
   - hideous-laughter-2024
 permalink: /spells/hideous-laughter-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Enchantment
 available_for:
   - Bard
   - Warlock

@@ -3,6 +3,10 @@ title: "Vicious Mockery"
 index: 
   - vicious-mockery-2024
 permalink: /spells/vicious-mockery-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Enchantment
 available_for:
   - Bard
 level: "Cantrip"

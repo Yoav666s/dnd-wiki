@@ -3,6 +3,10 @@ title: "Conjure Minor Elementals"
 index: 
   - conjure-minor-elementals-2024
 permalink: /spells/conjure-minor-elementals-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Conjuration
 available_for:
   - Druid
   - Wizard

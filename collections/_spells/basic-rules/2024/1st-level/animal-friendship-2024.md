@@ -3,6 +3,10 @@ title: "Animal Friendship"
 index: 
   - animal-friendship-2024
 permalink: /spells/animal-friendship-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Enchantment
 available_for:
   - Bard
   - Druid

@@ -3,6 +3,10 @@ title: "True Resurrection"
 index: 
   - true-resurrection-2024
 permalink: /spells/true-resurrection-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Necromancy
 available_for:
   - Cleric
   - Druid

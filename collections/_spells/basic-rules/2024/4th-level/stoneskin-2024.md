@@ -3,6 +3,10 @@ title: "Stoneskin"
 index: 
   - stoneskin-2024
 permalink: /spells/stoneskin-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Transmutation
 available_for:
   - Druid
   - Ranger

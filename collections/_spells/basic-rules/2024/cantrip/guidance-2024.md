@@ -3,6 +3,10 @@ title: "Guidance"
 index: 
   - guidance-2024
 permalink: /spells/guidance-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Divination
 available_for:
   - Cleric
   - Druid

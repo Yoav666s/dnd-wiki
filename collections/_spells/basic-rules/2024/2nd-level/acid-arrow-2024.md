@@ -3,6 +3,10 @@ title: "Acid Arrow"
 index: 
   - acid-arrow-2024
 permalink: /spells/acid-arrow-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Evocation
 available_for:
   - Wizard
 level: "2nd Level"

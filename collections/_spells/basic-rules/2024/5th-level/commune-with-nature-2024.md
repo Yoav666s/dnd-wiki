@@ -3,6 +3,10 @@ title: "Commune with Nature"
 index: 
   - commune-with-nature-2024
 permalink: /spells/commune-with-nature-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Divination
 available_for:
   - Druid
   - Ranger

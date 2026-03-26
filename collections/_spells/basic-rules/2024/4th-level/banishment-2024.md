@@ -3,6 +3,10 @@ title: "Banishment"
 index: 
   - banishment-2024
 permalink: /spells/banishment-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin

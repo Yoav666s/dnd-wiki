@@ -3,6 +3,10 @@ title: "Wind Wall"
 index: 
   - wind-wall-2024
 permalink: /spells/wind-wall-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Evocation
 available_for:
   - Druid
   - Ranger

@@ -3,6 +3,10 @@ title: "Protection from Energy"
 index: 
   - protection-from-energy-2024
 permalink: /spells/protection-from-energy-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Abjuration
 available_for:
   - Cleric
   - Druid

@@ -3,6 +3,10 @@ title: "Lightning Bolt"
 index: 
   - lightning-bolt-2024
 permalink: /spells/lightning-bolt-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

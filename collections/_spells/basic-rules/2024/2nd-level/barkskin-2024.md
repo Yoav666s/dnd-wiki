@@ -3,6 +3,10 @@ title: "Barkskin"
 index: 
   - barkskin-2024
 permalink: /spells/barkskin-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Druid
   - Ranger

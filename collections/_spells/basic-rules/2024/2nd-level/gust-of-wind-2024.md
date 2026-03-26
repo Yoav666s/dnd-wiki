@@ -3,6 +3,10 @@ title: "Gust of Wind"
 index: 
   - gust-of-wind-2024
 permalink: /spells/gust-of-wind-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Evocation
 available_for:
   - Druid
   - Ranger

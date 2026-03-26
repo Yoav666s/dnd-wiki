@@ -3,6 +3,10 @@ title: "Ice Storm"
 index: 
   - ice-storm-2024
 permalink: /spells/ice-storm-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Evocation
 available_for:
   - Druid
   - Sorcerer

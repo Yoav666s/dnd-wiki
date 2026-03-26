@@ -3,6 +3,10 @@ title: "Floating Disk"
 index: 
   - floating-disk-2024
 permalink: /spells/floating-disk-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Wizard
 level: "1st Level"

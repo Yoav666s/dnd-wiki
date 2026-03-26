@@ -3,6 +3,10 @@ title: "Contagion"
 index: 
   - contagion-2024
 permalink: /spells/contagion-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Necromancy
 available_for:
   - Cleric
   - Druid

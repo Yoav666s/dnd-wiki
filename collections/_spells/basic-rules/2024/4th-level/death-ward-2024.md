@@ -3,6 +3,10 @@ title: "Death Ward"
 index: 
   - death-ward-2024
 permalink: /spells/death-ward-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin

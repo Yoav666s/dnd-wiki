@@ -3,6 +3,10 @@ title: "Hypnotic Pattern"
 index: 
   - hypnotic-pattern-2024
 permalink: /spells/hypnotic-pattern-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer

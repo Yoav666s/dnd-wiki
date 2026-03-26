@@ -3,6 +3,10 @@ title: "Find the Path"
 index: 
   - find-the-path-2024
 permalink: /spells/find-the-path-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Divination
 available_for:
   - Bard
   - Cleric

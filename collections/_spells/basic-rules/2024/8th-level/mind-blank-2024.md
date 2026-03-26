@@ -3,6 +3,10 @@ title: "Mind Blank"
 index: 
   - mind-blank-2024
 permalink: /spells/mind-blank-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Abjuration
 available_for:
   - Bard
   - Wizard

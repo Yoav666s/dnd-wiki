@@ -3,6 +3,10 @@ title: "Forcecage"
 index: 
   - forcecage-2024
 permalink: /spells/forcecage-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Evocation
 available_for:
   - Bard
   - Warlock

@@ -3,6 +3,10 @@ title: "Dream"
 index: 
   - dream-2024
 permalink: /spells/dream-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Illusion
 available_for:
   - Bard
   - Warlock

@@ -3,6 +3,10 @@ title: "Creation"
 index: 
   - creation-2024
 permalink: /spells/creation-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Illusion
 available_for:
   - Sorcerer
   - Wizard

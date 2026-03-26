@@ -3,6 +3,10 @@ title: "Create Food and Water"
 index: 
   - create-food-and-water-2024
 permalink: /spells/create-food-and-water-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Conjuration
 available_for:
   - Cleric
   - Paladin

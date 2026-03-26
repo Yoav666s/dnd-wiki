@@ -3,6 +3,10 @@ title: "Nondetection"
 index: 
   - nondetection-2024
 permalink: /spells/nondetection-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Abjuration
 available_for:
   - Bard
   - Ranger

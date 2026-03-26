@@ -3,6 +3,10 @@ title: "Detect Evil and Good"
 index: 
   - detect-evil-and-good-2024
 permalink: /spells/detect-evil-and-good-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Divination
 available_for:
   - Cleric
   - Paladin

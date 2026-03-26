@@ -3,6 +3,10 @@ title: "Irresistible Dance"
 index: 
   - irresistible-dance-2024
 permalink: /spells/irresistible-dance-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Enchantment
 available_for:
   - Bard
   - Wizard

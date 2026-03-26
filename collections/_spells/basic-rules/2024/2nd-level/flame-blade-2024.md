@@ -3,6 +3,10 @@ title: "Flame Blade"
 index: 
   - flame-blade-2024
 permalink: /spells/flame-blade-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Evocation
 available_for:
   - Druid
   - Sorcerer

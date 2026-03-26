@@ -3,6 +3,10 @@ title: "Demiplane"
 index: 
   - demiplane-2024
 permalink: /spells/demiplane-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Conjuration
 available_for:
   - Sorcerer
   - Warlock

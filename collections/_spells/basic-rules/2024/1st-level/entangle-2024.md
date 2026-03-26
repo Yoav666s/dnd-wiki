@@ -3,6 +3,10 @@ title: "Entangle"
 index: 
   - entangle-2024
 permalink: /spells/entangle-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Druid
   - Ranger

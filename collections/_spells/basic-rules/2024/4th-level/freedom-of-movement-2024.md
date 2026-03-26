@@ -3,6 +3,10 @@ title: "Freedom of Movement"
 index: 
   - freedom-of-movement-2024
 permalink: /spells/freedom-of-movement-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

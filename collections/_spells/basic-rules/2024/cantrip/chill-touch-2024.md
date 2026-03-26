@@ -3,6 +3,10 @@ title: "Chill Touch"
 index: 
   - chill-touch-2024
 permalink: /spells/chill-touch-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Necromancy
 available_for:
   - Sorcerer
   - Warlock

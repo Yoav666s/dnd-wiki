@@ -3,6 +3,10 @@ title: "Phantasmal Killer"
 index: 
   - phantasmal-killer-2024
 permalink: /spells/phantasmal-killer-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Illusion
 available_for:
   - Bard
   - Wizard

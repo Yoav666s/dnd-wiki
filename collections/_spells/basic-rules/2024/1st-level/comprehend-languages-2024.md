@@ -3,6 +3,10 @@ title: "Comprehend Languages"
 index: 
   - comprehend-languages-2024
 permalink: /spells/comprehend-languages-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Divination
 available_for:
   - Bard
   - Sorcerer

@@ -3,6 +3,10 @@ title: "Command"
 index: 
   - command-2024
 permalink: /spells/command-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Enchantment
 available_for:
   - Bard
   - Cleric

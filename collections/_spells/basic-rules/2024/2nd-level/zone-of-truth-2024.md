@@ -3,6 +3,10 @@ title: "Zone of Truth"
 index: 
   - zone-of-truth-2024
 permalink: /spells/zone-of-truth-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Enchantment
 available_for:
   - Bard
   - Cleric

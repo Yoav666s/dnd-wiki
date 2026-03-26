@@ -3,6 +3,10 @@ title: "Dissonant Whispers"
 index: 
   - dissonant-whispers-2024
 permalink: /spells/dissonant-whispers-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Enchantment
 available_for:
   - Bard
 level: "1st Level"

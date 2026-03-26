@@ -3,6 +3,10 @@ title: "Create Undead"
 index: 
   - create-undead-2024
 permalink: /spells/create-undead-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Necromancy
 available_for:
   - Cleric
   - Warlock

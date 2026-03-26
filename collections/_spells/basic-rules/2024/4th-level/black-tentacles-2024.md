@@ -3,6 +3,10 @@ title: "Black Tentacles"
 index: 
   - black-tentacles-2024
 permalink: /spells/black-tentacles-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Conjuration
 available_for:
   - Wizard
 level: "4th Level"

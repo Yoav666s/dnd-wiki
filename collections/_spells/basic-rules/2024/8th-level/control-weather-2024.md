@@ -3,6 +3,10 @@ title: "Control Weather"
 index: 
   - control-weather-2024
 permalink: /spells/control-weather-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Transmutation
 available_for:
   - Cleric
   - Druid

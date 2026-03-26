@@ -3,6 +3,10 @@ title: "Project Image"
 index: 
   - project-image-2024
 permalink: /spells/project-image-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Illusion
 available_for:
   - Bard
   - Wizard

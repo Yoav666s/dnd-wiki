@@ -3,6 +3,10 @@ title: "Fog Cloud"
 index: 
   - fog-cloud-2024
 permalink: /spells/fog-cloud-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Druid
   - Ranger

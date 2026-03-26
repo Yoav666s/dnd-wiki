@@ -3,6 +3,10 @@ title: "Wall of Ice"
 index: 
   - wall-of-ice-2024
 permalink: /spells/wall-of-ice-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Evocation
 available_for:
   - Wizard
 level: "6th Level"

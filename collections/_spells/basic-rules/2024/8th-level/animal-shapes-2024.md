@@ -3,6 +3,10 @@ title: "Animal Shapes"
 index: 
   - animal-shapes-2024
 permalink: /spells/animal-shapes-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Transmutation
 available_for:
   - Druid
 level: "8th Level"

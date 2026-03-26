@@ -3,6 +3,10 @@ title: "Tongues"
 index: 
   - tongues-2024
 permalink: /spells/tongues-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Divination
 available_for:
   - Bard
   - Cleric

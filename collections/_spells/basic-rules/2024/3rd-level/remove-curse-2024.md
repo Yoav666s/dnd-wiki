@@ -3,6 +3,10 @@ title: "Remove Curse"
 index: 
   - remove-curse-2024
 permalink: /spells/remove-curse-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin

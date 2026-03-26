@@ -3,6 +3,10 @@ title: "Earthquake"
 index: 
   - earthquake-2024
 permalink: /spells/earthquake-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Transmutation
 available_for:
   - Cleric
   - Druid

@@ -3,6 +3,10 @@ title: "Hallow"
 index: 
   - hallow-2024
 permalink: /spells/hallow-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Abjuration
 available_for:
   - Cleric
 level: "5th Level"

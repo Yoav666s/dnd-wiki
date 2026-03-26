@@ -3,6 +3,10 @@ title: "Arcane Lock"
 index: 
   - arcane-lock-2024
 permalink: /spells/arcane-lock-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Abjuration
 available_for:
   - Wizard
 level: "2nd Level"

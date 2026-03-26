@@ -3,6 +3,10 @@ title: "Charm Monster"
 index: 
   - charm-monster-2024
 permalink: /spells/charm-monster-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Enchantment
 available_for:
   - Bard
   - Druid

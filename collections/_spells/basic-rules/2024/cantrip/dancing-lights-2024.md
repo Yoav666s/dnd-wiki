@@ -3,6 +3,10 @@ title: "Dancing Lights"
 index: 
   - dancing-lights-2024
 permalink: /spells/dancing-lights-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Illusion
 available_for:
   - Bard
   - Sorcerer

@@ -3,6 +3,10 @@ title: "Shillelagh"
 index: 
   - shillelagh-2024
 permalink: /spells/shillelagh-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Transmutation
 available_for:
   - Druid
 level: "Cantrip"

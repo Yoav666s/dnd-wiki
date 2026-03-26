@@ -3,6 +3,10 @@ title: "Alter Self"
 index: 
   - alter-self-2024
 permalink: /spells/alter-self-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard

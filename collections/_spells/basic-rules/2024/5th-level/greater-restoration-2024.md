@@ -3,6 +3,10 @@ title: "Greater Restoration"
 index: 
   - greater-restoration-2024
 permalink: /spells/greater-restoration-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

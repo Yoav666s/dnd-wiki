@@ -3,6 +3,10 @@ title: "Cone of Cold"
 index: 
   - cone-of-cold-2024
 permalink: /spells/cone-of-cold-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Evocation
 available_for:
   - Druid
   - Sorcerer

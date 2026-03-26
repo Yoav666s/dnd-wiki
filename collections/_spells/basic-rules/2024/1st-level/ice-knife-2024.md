@@ -3,6 +3,10 @@ title: "Ice Knife"
 index: 
   - ice-knife-2024
 permalink: /spells/ice-knife-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Druid
   - Sorcerer

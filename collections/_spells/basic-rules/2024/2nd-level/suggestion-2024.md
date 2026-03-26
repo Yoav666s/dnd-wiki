@@ -3,6 +3,10 @@ title: "Suggestion"
 index: 
   - suggestion-2024
 permalink: /spells/suggestion-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer

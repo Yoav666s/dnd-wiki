@@ -3,6 +3,10 @@ title: "Spare the Dying"
 index: 
   - spare-the-dying-2024
 permalink: /spells/spare-the-dying-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Necromancy
 available_for:
   - Cleric
   - Druid

@@ -3,6 +3,10 @@ title: "Conjure Celestial"
 index: 
   - conjure-celestial-2024
 permalink: /spells/conjure-celestial-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Conjuration
 available_for:
   - Cleric
 level: "7th Level"

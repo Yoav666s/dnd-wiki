@@ -3,6 +3,10 @@ title: "Guardian of Faith"
 index: 
   - guardian-of-faith-2024
 permalink: /spells/guardian-of-faith-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Conjuration
 available_for:
   - Cleric
 level: "4th Level"

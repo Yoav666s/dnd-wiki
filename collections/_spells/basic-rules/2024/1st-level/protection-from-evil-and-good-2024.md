@@ -3,6 +3,10 @@ title: "Protection from Evil and Good"
 index: 
   - protection-from-evil-and-good-2024
 permalink: /spells/protection-from-evil-and-good-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Abjuration
 available_for:
   - Cleric
   - Druid

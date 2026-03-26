@@ -3,6 +3,10 @@ title: "Guards and Wards"
 index: 
   - guards-and-wards-2024
 permalink: /spells/guards-and-wards-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Abjuration
 available_for:
   - Bard
   - Wizard

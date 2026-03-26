@@ -3,6 +3,10 @@ title: "Minor Illusion"
 index: 
   - minor-illusion-2024
 permalink: /spells/minor-illusion-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Illusion
 available_for:
   - Bard
   - Sorcerer

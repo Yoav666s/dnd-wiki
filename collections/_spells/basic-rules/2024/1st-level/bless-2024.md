@@ -3,6 +3,10 @@ title: "Bless"
 index: 
   - bless-2024
 permalink: /spells/bless-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Enchantment
 available_for:
   - Cleric
   - Paladin

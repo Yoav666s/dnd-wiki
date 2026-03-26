@@ -3,6 +3,10 @@ title: "Giant Insect"
 index: 
   - giant-insect-2024
 permalink: /spells/giant-insect-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Conjuration
 available_for:
   - Druid
 level: "4th Level"

@@ -3,6 +3,10 @@ title: "Hellish Rebuke"
 index: 
   - hellish-rebuke-2024
 permalink: /spells/hellish-rebuke-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Evocation
 available_for:
   - Warlock
 level: "1st Level"

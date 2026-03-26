@@ -3,6 +3,10 @@ title: "Private Sanctum"
 index: 
   - private-sanctum-2024
 permalink: /spells/private-sanctum-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Abjuration
 available_for:
   - Wizard
 level: "4th Level"

@@ -3,6 +3,10 @@ title: "Haste"
 index: 
   - haste-2024
 permalink: /spells/haste-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard

@@ -3,6 +3,10 @@ title: "Find Traps"
 index: 
   - find-traps-2024
 permalink: /spells/find-traps-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Divination
 available_for:
   - Cleric
   - Druid

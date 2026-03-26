@@ -3,6 +3,10 @@ title: "Circle of Death"
 index: 
   - circle-of-death-2024
 permalink: /spells/circle-of-death-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Necromancy
 available_for:
   - Sorcerer
   - Warlock

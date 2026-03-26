@@ -3,6 +3,10 @@ title: "Transport via Plants"
 index: 
   - transport-via-plants-2024
 permalink: /spells/transport-via-plants-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Conjuration
 available_for:
   - Druid
 level: "6th Level"

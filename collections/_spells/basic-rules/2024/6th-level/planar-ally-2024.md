@@ -3,6 +3,10 @@ title: "Planar Ally"
 index: 
   - planar-ally-2024
 permalink: /spells/planar-ally-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Conjuration
 available_for:
   - Cleric
 level: "6th Level"

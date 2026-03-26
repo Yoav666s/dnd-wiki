@@ -3,6 +3,10 @@ title: "Reverse Gravity"
 index: 
   - reverse-gravity-2024
 permalink: /spells/reverse-gravity-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Transmutation
 available_for:
   - Druid
   - Sorcerer

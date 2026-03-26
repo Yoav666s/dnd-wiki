@@ -3,6 +3,10 @@ title: "Divine Smite"
 index: 
   - divine-smite-2024
 permalink: /spells/divine-smite-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Evocation
 available_for:
   - Paladin
 level: "1st Level"

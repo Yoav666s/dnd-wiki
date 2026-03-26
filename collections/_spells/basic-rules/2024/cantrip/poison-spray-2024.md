@@ -3,6 +3,10 @@ title: "Poison Spray"
 index: 
   - poison-spray-2024
 permalink: /spells/poison-spray-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Necromancy
 available_for:
   - Druid
   - Sorcerer

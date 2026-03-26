@@ -3,6 +3,10 @@ title: "Mending"
 index: 
   - mending-2024
 permalink: /spells/mending-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Transmutation
 available_for:
   - Bard
   - Cleric

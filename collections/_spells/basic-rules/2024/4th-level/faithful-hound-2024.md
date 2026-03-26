@@ -3,6 +3,10 @@ title: "Faithful Hound"
 index: 
   - faithful-hound-2024
 permalink: /spells/faithful-hound-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Conjuration
 available_for:
   - Wizard
 level: "4th Level"

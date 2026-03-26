@@ -3,6 +3,10 @@ title: "Detect Magic"
 index: 
   - detect-magic-2024
 permalink: /spells/detect-magic-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Divination
 available_for:
   - Bard
   - Cleric

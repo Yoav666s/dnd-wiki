@@ -3,6 +3,10 @@ title: "Hunter's Mark"
 index: 
   - hunters-mark-2024
 permalink: /spells/hunters-mark-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Divination
 available_for:
   - Ranger
 level: "1st Level"

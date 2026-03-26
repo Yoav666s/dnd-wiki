@@ -3,6 +3,10 @@ title: "Time Stop"
 index: 
   - time-stop-2024
 permalink: /spells/time-stop-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard

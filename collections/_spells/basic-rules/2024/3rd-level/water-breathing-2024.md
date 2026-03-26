@@ -3,6 +3,10 @@ title: "Water Breathing"
 index: 
   - water-breathing-2024
 permalink: /spells/water-breathing-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Druid
   - Ranger

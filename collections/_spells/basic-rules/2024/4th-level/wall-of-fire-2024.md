@@ -3,6 +3,10 @@ title: "Wall of Fire"
 index: 
   - wall-of-fire-2024
 permalink: /spells/wall-of-fire-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Evocation
 available_for:
   - Druid
   - Sorcerer

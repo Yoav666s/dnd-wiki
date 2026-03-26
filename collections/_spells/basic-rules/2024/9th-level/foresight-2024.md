@@ -3,6 +3,10 @@ title: "Foresight"
 index: 
   - foresight-2024
 permalink: /spells/foresight-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Divination
 available_for:
   - Bard
   - Druid

@@ -3,6 +3,10 @@ title: "Magic Jar"
 index: 
   - magic-jar-2024
 permalink: /spells/magic-jar-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Necromancy
 available_for:
   - Wizard
 level: "6th Level"

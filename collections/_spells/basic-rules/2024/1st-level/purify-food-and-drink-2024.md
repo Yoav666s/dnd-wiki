@@ -3,6 +3,10 @@ title: "Purify Food and Drink"
 index: 
   - purify-food-and-drink-2024
 permalink: /spells/purify-food-and-drink-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Transmutation
 available_for:
   - Cleric
   - Druid

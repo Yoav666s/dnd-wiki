@@ -3,6 +3,10 @@ title: "Spirit Guardians"
 index: 
   - spirit-guardians-2024
 permalink: /spells/spirit-guardians-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Conjuration
 available_for:
   - Cleric
 level: "3rd Level"

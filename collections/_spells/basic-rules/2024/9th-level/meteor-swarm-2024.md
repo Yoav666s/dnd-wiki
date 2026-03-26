@@ -3,6 +3,10 @@ title: "Meteor Swarm"
 index: 
   - meteor-swarm-2024
 permalink: /spells/meteor-swarm-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

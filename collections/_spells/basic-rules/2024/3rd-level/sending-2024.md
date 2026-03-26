@@ -3,6 +3,10 @@ title: "Sending"
 index: 
   - sending-2024
 permalink: /spells/sending-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Divination
 available_for:
   - Bard
   - Cleric

@@ -3,6 +3,10 @@ title: "Mirror Image"
 index: 
   - mirror-image-2024
 permalink: /spells/mirror-image-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer

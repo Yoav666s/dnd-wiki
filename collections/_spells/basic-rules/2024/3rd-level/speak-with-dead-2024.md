@@ -3,6 +3,10 @@ title: "Speak with Dead"
 index: 
   - speak-with-dead-2024
 permalink: /spells/speak-with-dead-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Necromancy
 available_for:
   - Bard
   - Cleric

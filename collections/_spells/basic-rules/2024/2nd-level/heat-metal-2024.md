@@ -3,6 +3,10 @@ title: "Heat Metal"
 index: 
   - heat-metal-2024
 permalink: /spells/heat-metal-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Bard
   - Druid

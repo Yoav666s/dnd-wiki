@@ -3,6 +3,10 @@ title: "Simulacrum"
 index: 
   - simulacrum-2024
 permalink: /spells/simulacrum-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Illusion
 available_for:
   - Wizard
 level: "7th Level"

@@ -3,6 +3,10 @@ title: "Plant Growth"
 index: 
   - plant-growth-2024
 permalink: /spells/plant-growth-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Bard
   - Druid

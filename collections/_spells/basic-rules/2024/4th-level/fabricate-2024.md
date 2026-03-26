@@ -3,6 +3,10 @@ title: "Fabricate"
 index: 
   - fabricate-2024
 permalink: /spells/fabricate-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Transmutation
 available_for:
   - Wizard
 level: "4th Level"

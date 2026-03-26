@@ -3,6 +3,10 @@ title: "Speak with Animals"
 index: 
   - speak-with-animals-2024
 permalink: /spells/speak-with-animals-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Divination
 available_for:
   - Bard
   - Druid

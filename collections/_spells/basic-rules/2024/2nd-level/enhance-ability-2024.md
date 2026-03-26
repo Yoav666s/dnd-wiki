@@ -3,6 +3,10 @@ title: "Enhance Ability"
 index: 
   - enhance-ability-2024
 permalink: /spells/enhance-ability-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Bard
   - Cleric

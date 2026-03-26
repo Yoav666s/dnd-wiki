@@ -3,6 +3,10 @@ title: "Darkvision"
 index: 
   - darkvision-2024
 permalink: /spells/darkvision-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Druid
   - Ranger

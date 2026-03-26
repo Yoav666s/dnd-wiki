@@ -3,6 +3,10 @@ title: "Contact Other Plane"
 index: 
   - contact-other-plane-2024
 permalink: /spells/contact-other-plane-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Divination
 available_for:
   - Warlock
   - Wizard

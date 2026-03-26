@@ -3,6 +3,10 @@ title: "Telekinesis"
 index: 
   - telekinesis-2024
 permalink: /spells/telekinesis-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard

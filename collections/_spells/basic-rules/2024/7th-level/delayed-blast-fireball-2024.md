@@ -3,6 +3,10 @@ title: "Delayed Blast Fireball"
 index: 
   - delayed-blast-fireball-2024
 permalink: /spells/delayed-blast-fireball-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

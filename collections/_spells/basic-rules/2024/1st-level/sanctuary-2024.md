@@ -3,6 +3,10 @@ title: "Sanctuary"
 index: 
   - sanctuary-2024
 permalink: /spells/sanctuary-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Abjuration
 available_for:
   - Cleric
 level: "1st Level"

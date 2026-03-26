@@ -3,6 +3,10 @@ title: "Resilient Sphere"
 index: 
   - resilient-sphere-2024
 permalink: /spells/resilient-sphere-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Evocation
 available_for:
   - Wizard
 level: "4th Level"

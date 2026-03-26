@@ -3,6 +3,10 @@ title: "Sunburst"
 index: 
   - sunburst-2024
 permalink: /spells/sunburst-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Evocation
 available_for:
   - Cleric
   - Druid

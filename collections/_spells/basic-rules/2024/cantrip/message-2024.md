@@ -3,6 +3,10 @@ title: "Message"
 index: 
   - message-2024
 permalink: /spells/message-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Transmutation
 available_for:
   - Bard
   - Druid

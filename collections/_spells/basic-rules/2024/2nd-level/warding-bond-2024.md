@@ -3,6 +3,10 @@ title: "Warding Bond"
 index: 
   - warding-bond-2024
 permalink: /spells/warding-bond-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin

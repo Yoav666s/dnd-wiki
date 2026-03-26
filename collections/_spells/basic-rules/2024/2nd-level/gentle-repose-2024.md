@@ -3,6 +3,10 @@ title: "Gentle Repose"
 index: 
   - gentle-repose-2024
 permalink: /spells/gentle-repose-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Necromancy
 available_for:
   - Cleric
   - Paladin

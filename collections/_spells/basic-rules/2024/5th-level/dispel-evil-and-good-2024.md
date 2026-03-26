@@ -3,6 +3,10 @@ title: "Dispel Evil and Good"
 index: 
   - dispel-evil-and-good-2024
 permalink: /spells/dispel-evil-and-good-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin

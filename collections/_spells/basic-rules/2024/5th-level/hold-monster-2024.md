@@ -3,6 +3,10 @@ title: "Hold Monster"
 index: 
   - hold-monster-2024
 permalink: /spells/hold-monster-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer

@@ -3,6 +3,10 @@ title: "Thaumaturgy"
 index: 
   - thaumaturgy-2024
 permalink: /spells/thaumaturgy-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Transmutation
 available_for:
   - Cleric
 level: "Cantrip"

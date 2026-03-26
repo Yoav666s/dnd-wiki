@@ -3,6 +3,10 @@ title: "Imprisonment"
 index: 
   - imprisonment-2024
 permalink: /spells/imprisonment-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Abjuration
 available_for:
   - Warlock
   - Wizard

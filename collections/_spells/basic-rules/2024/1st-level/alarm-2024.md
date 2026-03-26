@@ -3,6 +3,10 @@ title: "Alarm"
 index: 
   - alarm-2024
 permalink: /spells/alarm-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Abjuration
 available_for:
   - Ranger
   - Wizard

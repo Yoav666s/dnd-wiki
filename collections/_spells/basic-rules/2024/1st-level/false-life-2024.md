@@ -3,6 +3,10 @@ title: "False Life"
 index: 
   - false-life-2024
 permalink: /spells/false-life-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Necromancy
 available_for:
   - Sorcerer
   - Wizard

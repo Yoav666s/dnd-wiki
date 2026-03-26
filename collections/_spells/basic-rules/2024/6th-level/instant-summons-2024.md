@@ -3,6 +3,10 @@ title: "Instant Summons"
 index: 
   - instant-summons-2024
 permalink: /spells/instant-summons-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Conjuration
 available_for:
   - Wizard
 level: "6th Level"

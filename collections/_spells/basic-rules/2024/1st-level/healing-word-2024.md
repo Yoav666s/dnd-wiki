@@ -3,6 +3,10 @@ title: "Healing Word"
 index: 
   - healing-word-2024
 permalink: /spells/healing-word-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

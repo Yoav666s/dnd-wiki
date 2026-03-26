@@ -3,6 +3,10 @@ title: "Call Lightning"
 index: 
   - call-lightning-2024
 permalink: /spells/call-lightning-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Conjuration
 available_for:
   - Druid
 level: "3rd Level"

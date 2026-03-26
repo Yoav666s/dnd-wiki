@@ -3,6 +3,10 @@ title: "Silence"
 index: 
   - silence-2024
 permalink: /spells/silence-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Illusion
 available_for:
   - Bard
   - Cleric

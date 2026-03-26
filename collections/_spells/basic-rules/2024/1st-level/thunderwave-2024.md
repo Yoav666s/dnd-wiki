@@ -3,6 +3,10 @@ title: "Thunderwave"
 index: 
   - thunderwave-2024
 permalink: /spells/thunderwave-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Evocation
 available_for:
   - Bard
   - Druid

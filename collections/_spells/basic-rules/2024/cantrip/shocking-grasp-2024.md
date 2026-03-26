@@ -3,6 +3,10 @@ title: "Shocking Grasp"
 index: 
   - shocking-grasp-2024
 permalink: /spells/shocking-grasp-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

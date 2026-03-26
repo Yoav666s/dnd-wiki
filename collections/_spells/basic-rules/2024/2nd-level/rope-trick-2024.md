@@ -3,6 +3,10 @@ title: "Rope Trick"
 index: 
   - rope-trick-2024
 permalink: /spells/rope-trick-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Wizard
 level: "2nd Level"

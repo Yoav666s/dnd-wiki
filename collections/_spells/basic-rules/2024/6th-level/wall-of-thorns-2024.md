@@ -3,6 +3,10 @@ title: "Wall of Thorns"
 index: 
   - wall-of-thorns-2024
 permalink: /spells/wall-of-thorns-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Conjuration
 available_for:
   - Druid
 level: "6th Level"

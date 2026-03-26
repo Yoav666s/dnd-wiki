@@ -3,6 +3,10 @@ title: "Conjure Animals"
 index: 
   - conjure-animals-2024
 permalink: /spells/conjure-animals-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Conjuration
 available_for:
   - Druid
   - Ranger

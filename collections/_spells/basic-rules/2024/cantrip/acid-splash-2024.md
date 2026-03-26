@@ -3,6 +3,10 @@ title: "Acid Splash"
 index: 
   - acid-splash-2024
 permalink: /spells/acid-splash-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

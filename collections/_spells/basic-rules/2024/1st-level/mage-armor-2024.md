@@ -3,6 +3,10 @@ title: "Mage Armor"
 index: 
   - mage-armor-2024
 permalink: /spells/mage-armor-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Abjuration
 available_for:
   - Sorcerer
   - Wizard

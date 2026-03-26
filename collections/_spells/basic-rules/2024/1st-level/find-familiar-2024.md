@@ -3,6 +3,10 @@ title: "Find Familiar"
 index: 
   - find-familiar-2024
 permalink: /spells/find-familiar-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Wizard
 level: "1st Level"

@@ -3,6 +3,10 @@ title: "Sunbeam"
 index: 
   - sunbeam-2024
 permalink: /spells/sunbeam-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Evocation
 available_for:
   - Cleric
   - Druid

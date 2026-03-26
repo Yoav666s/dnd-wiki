@@ -3,6 +3,10 @@ title: "Searing Smite"
 index: 
   - searing-smite-2024
 permalink: /spells/searing-smite-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Evocation
 available_for:
   - Paladin
 level: "1st Level"

@@ -3,6 +3,10 @@ title: "Raise Dead"
 index: 
   - raise-dead-2024
 permalink: /spells/raise-dead-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Necromancy
 available_for:
   - Bard
   - Cleric

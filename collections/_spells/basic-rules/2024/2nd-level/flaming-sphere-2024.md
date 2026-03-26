@@ -3,6 +3,10 @@ title: "Flaming Sphere"
 index: 
   - flaming-sphere-2024
 permalink: /spells/flaming-sphere-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Conjuration
 available_for:
   - Druid
   - Sorcerer

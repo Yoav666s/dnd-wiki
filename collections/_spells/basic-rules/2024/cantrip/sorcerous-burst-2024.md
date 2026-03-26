@@ -3,6 +3,10 @@ title: "Sorcerous Burst"
 index: 
   - sorcerous-burst-2024
 permalink: /spells/sorcerous-burst-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Evocation
 available_for:
   - Sorcerer
 level: "Cantrip"

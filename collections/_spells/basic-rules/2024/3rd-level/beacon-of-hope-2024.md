@@ -3,6 +3,10 @@ title: "Beacon of Hope"
 index: 
   - beacon-of-hope-2024
 permalink: /spells/beacon-of-hope-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Abjuration
 available_for:
   - Cleric
 level: "3rd Level"

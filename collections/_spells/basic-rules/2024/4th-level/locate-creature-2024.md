@@ -3,6 +3,10 @@ title: "Locate Creature"
 index: 
   - locate-creature-2024
 permalink: /spells/locate-creature-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Divination
 available_for:
   - Bard
   - Cleric

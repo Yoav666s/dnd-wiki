@@ -3,6 +3,10 @@ title: "Forbiddance"
 index: 
   - forbiddance-2024
 permalink: /spells/forbiddance-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Abjuration
 available_for:
   - Cleric
 level: "6th Level"

@@ -3,6 +3,10 @@ title: "Disintegrate"
 index: 
   - disintegrate-2024
 permalink: /spells/disintegrate-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard

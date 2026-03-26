@@ -3,6 +3,10 @@ title: "Detect Poison and Disease"
 index: 
   - detect-poison-and-disease-2024
 permalink: /spells/detect-poison-and-disease-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Divination
 available_for:
   - Cleric
   - Druid

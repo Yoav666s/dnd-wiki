@@ -3,6 +3,10 @@ title: "Magic Mouth"
 index: 
   - magic-mouth-2024
 permalink: /spells/magic-mouth-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Illusion
 available_for:
   - Bard
   - Wizard

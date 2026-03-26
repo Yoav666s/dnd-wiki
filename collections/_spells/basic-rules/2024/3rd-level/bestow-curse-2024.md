@@ -3,6 +3,10 @@ title: "Bestow Curse"
 index: 
   - bestow-curse-2024
 permalink: /spells/bestow-curse-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Necromancy
 available_for:
   - Bard
   - Cleric

@@ -3,6 +3,10 @@ title: "Protection from Poison"
 index: 
   - protection-from-poison-2024
 permalink: /spells/protection-from-poison-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Abjuration
 available_for:
   - Cleric
   - Druid

@@ -3,6 +3,10 @@ title: "Mass Heal"
 index: 
   - mass-heal-2024
 permalink: /spells/mass-heal-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Abjuration
 available_for:
   - Cleric
 level: "9th Level"

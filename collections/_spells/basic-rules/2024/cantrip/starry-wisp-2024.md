@@ -3,6 +3,10 @@ title: "Starry Wisp"
 index: 
   - starry-wisp-2024
 permalink: /spells/starry-wisp-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Evocation
 available_for:
   - Bard
   - Druid

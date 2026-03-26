@@ -3,6 +3,10 @@ title: "Spiritual Weapon"
 index: 
   - spiritual-weapon-2024
 permalink: /spells/spiritual-weapon-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Evocation
 available_for:
   - Cleric
 level: "2nd Level"

@@ -3,6 +3,10 @@ title: "Ensnaring Strike"
 index: 
   - ensnaring-strike-2024
 permalink: /spells/ensnaring-strike-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Conjuration
 available_for:
   - Ranger
 level: "1st Level"

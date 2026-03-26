@@ -3,6 +3,10 @@ title: "Sleep"
 index: 
   - sleep-2024
 permalink: /spells/sleep-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer

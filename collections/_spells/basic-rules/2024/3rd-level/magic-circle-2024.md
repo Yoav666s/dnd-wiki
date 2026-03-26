@@ -3,6 +3,10 @@ title: "Magic Circle"
 index: 
   - magic-circle-2024
 permalink: /spells/magic-circle-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin

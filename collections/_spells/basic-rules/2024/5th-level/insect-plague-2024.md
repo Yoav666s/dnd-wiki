@@ -3,6 +3,10 @@ title: "Insect Plague"
 index: 
   - insect-plague-2024
 permalink: /spells/insect-plague-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Conjuration
 available_for:
   - Cleric
   - Druid

@@ -3,6 +3,10 @@ title: "Word of Recall"
 index: 
   - word-of-recall-2024
 permalink: /spells/word-of-recall-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Conjuration
 available_for:
   - Cleric
 level: "6th Level"

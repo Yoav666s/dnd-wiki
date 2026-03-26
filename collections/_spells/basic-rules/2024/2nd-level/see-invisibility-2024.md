@@ -3,6 +3,10 @@ title: "See Invisibility"
 index: 
   - see-invisibility-2024
 permalink: /spells/see-invisibility-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Divination
 available_for:
   - Bard
   - Sorcerer

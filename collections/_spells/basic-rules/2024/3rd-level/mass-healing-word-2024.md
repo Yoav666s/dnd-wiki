@@ -3,6 +3,10 @@ title: "Mass Healing Word"
 index: 
   - mass-healing-word-2024
 permalink: /spells/mass-healing-word-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

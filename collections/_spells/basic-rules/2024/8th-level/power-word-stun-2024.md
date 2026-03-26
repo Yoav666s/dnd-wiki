@@ -3,6 +3,10 @@ title: "Power Word Stun"
 index: 
   - power-word-stun-2024
 permalink: /spells/power-word-stun-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer

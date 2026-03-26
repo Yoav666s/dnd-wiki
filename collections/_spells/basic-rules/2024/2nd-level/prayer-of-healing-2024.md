@@ -3,6 +3,10 @@ title: "Prayer of Healing"
 index: 
   - prayer-of-healing-2024
 permalink: /spells/prayer-of-healing-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin

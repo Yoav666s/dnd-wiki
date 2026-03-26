@@ -3,6 +3,10 @@ title: "Darkness"
 index: 
   - darkness-2024
 permalink: /spells/darkness-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Evocation
 available_for:
   - Sorcerer
   - Warlock

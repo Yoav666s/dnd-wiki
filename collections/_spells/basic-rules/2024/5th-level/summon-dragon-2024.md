@@ -3,6 +3,10 @@ title: "Summon Dragon"
 index: 
   - summon-dragon-2024
 permalink: /spells/summon-dragon-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Conjuration
 available_for:
   - Wizard
 level: "5th Level"

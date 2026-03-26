@@ -3,6 +3,10 @@ title: "Regenerate"
 index: 
   - regenerate-2024
 permalink: /spells/regenerate-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Transmutation
 available_for:
   - Bard
   - Cleric

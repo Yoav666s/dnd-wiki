@@ -3,6 +3,10 @@ title: "Resurrection"
 index: 
   - resurrection-2024
 permalink: /spells/resurrection-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Necromancy
 available_for:
   - Bard
   - Cleric

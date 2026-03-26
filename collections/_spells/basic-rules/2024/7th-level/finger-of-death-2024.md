@@ -3,6 +3,10 @@ title: "Finger of Death"
 index: 
   - finger-of-death-2024
 permalink: /spells/finger-of-death-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Necromancy
 available_for:
   - Sorcerer
   - Warlock

@@ -3,6 +3,10 @@ title: "Shield of Faith"
 index: 
   - shield-of-faith-2024
 permalink: /spells/shield-of-faith-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Abjuration
 available_for:
   - Cleric
   - Paladin

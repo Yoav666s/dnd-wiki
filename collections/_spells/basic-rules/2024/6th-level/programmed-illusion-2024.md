@@ -3,6 +3,10 @@ title: "Programmed Illusion"
 index: 
   - programmed-illusion-2024
 permalink: /spells/programmed-illusion-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Illusion
 available_for:
   - Bard
   - Wizard

@@ -3,6 +3,10 @@ title: "True Strike"
 index: 
   - true-strike-2024
 permalink: /spells/true-strike-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Divination
 available_for:
   - Bard
   - Sorcerer

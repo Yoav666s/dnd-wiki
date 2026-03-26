@@ -3,6 +3,10 @@ title: "Planar Binding"
 index: 
   - planar-binding-2024
 permalink: /spells/planar-binding-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

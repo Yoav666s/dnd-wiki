@@ -3,6 +3,10 @@ title: "Moonbeam"
 index: 
   - moonbeam-2024
 permalink: /spells/moonbeam-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Evocation
 available_for:
   - Druid
 level: "2nd Level"

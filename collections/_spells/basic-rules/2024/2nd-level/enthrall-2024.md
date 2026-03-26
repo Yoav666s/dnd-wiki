@@ -3,6 +3,10 @@ title: "Enthrall"
 index: 
   - enthrall-2024
 permalink: /spells/enthrall-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Enchantment
 available_for:
   - Bard
   - Warlock

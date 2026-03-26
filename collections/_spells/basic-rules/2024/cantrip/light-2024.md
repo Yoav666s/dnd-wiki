@@ -3,6 +3,10 @@ title: "Light"
 index: 
   - light-2024
 permalink: /spells/light-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Evocation
 available_for:
   - Bard
   - Cleric

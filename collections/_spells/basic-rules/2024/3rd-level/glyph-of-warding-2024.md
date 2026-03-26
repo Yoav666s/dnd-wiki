@@ -3,6 +3,10 @@ title: "Glyph of Warding"
 index: 
   - glyph-of-warding-2024
 permalink: /spells/glyph-of-warding-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

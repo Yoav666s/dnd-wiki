@@ -3,6 +3,10 @@ title: "Greater Invisibility"
 index: 
   - greater-invisibility-2024
 permalink: /spells/greater-invisibility-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer

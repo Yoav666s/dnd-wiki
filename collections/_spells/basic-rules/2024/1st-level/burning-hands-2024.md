@@ -3,6 +3,10 @@ title: "Burning Hands"
 index: 
   - burning-hands-2024
 permalink: /spells/burning-hands-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

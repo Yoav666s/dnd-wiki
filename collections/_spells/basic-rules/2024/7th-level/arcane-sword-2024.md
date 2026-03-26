@@ -3,6 +3,10 @@ title: "Arcane Sword"
 index: 
   - arcane-sword-2024
 permalink: /spells/arcane-sword-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Evocation
 available_for:
   - Bard
   - Wizard

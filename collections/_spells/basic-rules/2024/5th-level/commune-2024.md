@@ -3,6 +3,10 @@ title: "Commune"
 index: 
   - commune-2024
 permalink: /spells/commune-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Divination
 available_for:
   - Cleric
 level: "5th Level"

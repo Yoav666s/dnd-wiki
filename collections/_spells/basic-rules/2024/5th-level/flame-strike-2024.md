@@ -3,6 +3,10 @@ title: "Flame Strike"
 index: 
   - flame-strike-2024
 permalink: /spells/flame-strike-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Evocation
 available_for:
   - Cleric
 level: "5th Level"

@@ -3,6 +3,10 @@ title: "Arcane Hand"
 index: 
   - arcane-hand-2024
 permalink: /spells/arcane-hand-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

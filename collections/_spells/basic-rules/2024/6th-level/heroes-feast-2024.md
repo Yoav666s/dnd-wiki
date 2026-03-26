@@ -3,6 +3,10 @@ title: "Heroes' Feast"
 index: 
   - heroes-feast-2024
 permalink: /spells/heroes-feast-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Conjuration
 available_for:
   - Bard
   - Cleric

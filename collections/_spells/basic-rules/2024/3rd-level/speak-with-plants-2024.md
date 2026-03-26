@@ -3,6 +3,10 @@ title: "Speak with Plants"
 index: 
   - speak-with-plants-2024
 permalink: /spells/speak-with-plants-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Bard
   - Druid

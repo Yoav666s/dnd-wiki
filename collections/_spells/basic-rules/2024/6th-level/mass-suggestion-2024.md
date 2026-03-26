@@ -3,6 +3,10 @@ title: "Mass Suggestion"
 index: 
   - mass-suggestion-2024
 permalink: /spells/mass-suggestion-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer

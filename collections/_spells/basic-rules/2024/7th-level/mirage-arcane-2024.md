@@ -3,6 +3,10 @@ title: "Mirage Arcane"
 index: 
   - mirage-arcane-2024
 permalink: /spells/mirage-arcane-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Illusion
 available_for:
   - Bard
   - Druid

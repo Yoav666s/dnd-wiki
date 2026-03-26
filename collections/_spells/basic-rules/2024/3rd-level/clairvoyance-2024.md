@@ -3,6 +3,10 @@ title: "Clairvoyance"
 index: 
   - clairvoyance-2024
 permalink: /spells/clairvoyance-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Divination
 available_for:
   - Bard
   - Cleric

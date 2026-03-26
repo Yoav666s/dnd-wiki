@@ -3,6 +3,10 @@ title: "Dragon's Breath"
 index: 
   - dragons-breath-2024
 permalink: /spells/dragons-breath-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard

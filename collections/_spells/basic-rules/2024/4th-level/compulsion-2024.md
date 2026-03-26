@@ -3,6 +3,10 @@ title: "Compulsion"
 index: 
   - compulsion-2024
 permalink: /spells/compulsion-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Enchantment
 available_for:
   - Bard
 level: "4th Level"

@@ -3,6 +3,10 @@ title: "Heroism"
 index: 
   - heroism-2024
 permalink: /spells/heroism-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Enchantment
 available_for:
   - Bard
   - Paladin

@@ -3,6 +3,10 @@ title: "Teleportation Circle"
 index: 
   - teleportation-circle-2024
 permalink: /spells/teleportation-circle-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Conjuration
 available_for:
   - Bard
   - Sorcerer

@@ -3,6 +3,10 @@ title: "Calm Emotions"
 index: 
   - calm-emotions-2024
 permalink: /spells/calm-emotions-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Enchantment
 available_for:
   - Bard
   - Cleric

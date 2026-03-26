@@ -3,6 +3,10 @@ title: "Resistance"
 index: 
   - resistance-2024
 permalink: /spells/resistance-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Abjuration
 available_for:
   - Cleric
   - Druid

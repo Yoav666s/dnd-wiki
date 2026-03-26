@@ -3,6 +3,10 @@ title: "Vitriolic Sphere"
 index: 
   - vitriolic-sphere-2024
 permalink: /spells/vitriolic-sphere-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

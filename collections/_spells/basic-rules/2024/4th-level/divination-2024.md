@@ -3,6 +3,10 @@ title: "Divination"
 index: 
   - divination-2024
 permalink: /spells/divination-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Divination
 available_for:
   - Cleric
   - Druid

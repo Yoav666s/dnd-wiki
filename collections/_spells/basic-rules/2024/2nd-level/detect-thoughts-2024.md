@@ -3,6 +3,10 @@ title: "Detect Thoughts"
 index: 
   - detect-thoughts-2024
 permalink: /spells/detect-thoughts-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Divination
 available_for:
   - Bard
   - Sorcerer

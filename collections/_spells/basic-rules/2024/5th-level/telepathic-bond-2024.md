@@ -3,6 +3,10 @@ title: "Telepathic Bond"
 index: 
   - telepathic-bond-2024
 permalink: /spells/telepathic-bond-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Divination
 available_for:
   - Bard
   - Wizard

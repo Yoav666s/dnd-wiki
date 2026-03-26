@@ -3,6 +3,10 @@ title: "Animate Objects"
 index: 
   - animate-objects-2024
 permalink: /spells/animate-objects-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Transmutation
 available_for:
   - Bard
   - Sorcerer

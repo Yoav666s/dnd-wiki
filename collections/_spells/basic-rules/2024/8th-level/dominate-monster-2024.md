@@ -3,6 +3,10 @@ title: "Dominate Monster"
 index: 
   - dominate-monster-2024
 permalink: /spells/dominate-monster-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer

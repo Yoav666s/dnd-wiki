@@ -3,6 +3,10 @@ title: "Power Word Kill"
 index: 
   - power-word-kill-2024
 permalink: /spells/power-word-kill-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer

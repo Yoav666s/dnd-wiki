@@ -3,6 +3,10 @@ title: "Seeming"
 index: 
   - seeming-2024
 permalink: /spells/seeming-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer

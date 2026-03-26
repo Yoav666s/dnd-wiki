@@ -3,6 +3,10 @@ title: "Shining Smite"
 index: 
   - shining-smite-2024
 permalink: /spells/shining-smite-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Paladin
 level: "2nd Level"

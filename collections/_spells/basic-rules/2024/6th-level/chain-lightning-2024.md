@@ -3,6 +3,10 @@ title: "Chain Lightning"
 index: 
   - chain-lightning-2024
 permalink: /spells/chain-lightning-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

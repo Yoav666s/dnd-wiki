@@ -3,6 +3,10 @@ title: "Eyebite"
 index: 
   - eyebite-2024
 permalink: /spells/eyebite-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Necromancy
 available_for:
   - Bard
   - Sorcerer

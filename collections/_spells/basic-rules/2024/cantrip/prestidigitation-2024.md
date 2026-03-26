@@ -3,6 +3,10 @@ title: "Prestidigitation"
 index: 
   - prestidigitation-2024
 permalink: /spells/prestidigitation-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Transmutation
 available_for:
   - Bard
   - Sorcerer

@@ -3,6 +3,10 @@ title: "Continual Flame"
 index: 
   - continual-flame-2024
 permalink: /spells/continual-flame-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Evocation
 available_for:
   - Cleric
   - Druid

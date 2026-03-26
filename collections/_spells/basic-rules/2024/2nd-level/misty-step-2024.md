@@ -3,6 +3,10 @@ title: "Misty Step"
 index: 
   - misty-step-2024
 permalink: /spells/misty-step-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Conjuration
 available_for:
   - Sorcerer
   - Warlock

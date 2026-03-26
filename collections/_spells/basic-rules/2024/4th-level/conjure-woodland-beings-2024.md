@@ -3,6 +3,10 @@ title: "Conjure Woodland Beings"
 index: 
   - conjure-woodland-beings-2024
 permalink: /spells/conjure-woodland-beings-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Conjuration
 available_for:
   - Druid
   - Ranger

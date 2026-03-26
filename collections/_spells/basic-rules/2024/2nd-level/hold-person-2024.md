@@ -3,6 +3,10 @@ title: "Hold Person"
 index: 
   - hold-person-2024
 permalink: /spells/hold-person-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Enchantment
 available_for:
   - Bard
   - Cleric

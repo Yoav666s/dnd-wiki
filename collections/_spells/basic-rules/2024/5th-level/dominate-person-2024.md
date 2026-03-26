@@ -3,6 +3,10 @@ title: "Dominate Person"
 index: 
   - dominate-person-2024
 permalink: /spells/dominate-person-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Enchantment
 available_for:
   - Bard
   - Sorcerer

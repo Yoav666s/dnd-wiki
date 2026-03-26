@@ -3,6 +3,10 @@ title: "Ray of Frost"
 index: 
   - ray-of-frost-2024
 permalink: /spells/ray-of-frost-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

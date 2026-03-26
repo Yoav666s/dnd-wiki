@@ -3,6 +3,10 @@ title: "Major Image"
 index: 
   - major-image-2024
 permalink: /spells/major-image-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer

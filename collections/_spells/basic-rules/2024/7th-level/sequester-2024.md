@@ -3,6 +3,10 @@ title: "Sequester"
 index: 
   - sequester-2024
 permalink: /spells/sequester-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Transmutation
 available_for:
   - Wizard
 level: "7th Level"

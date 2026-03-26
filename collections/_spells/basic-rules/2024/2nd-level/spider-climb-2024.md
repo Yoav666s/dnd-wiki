@@ -3,6 +3,10 @@ title: "Spider Climb"
 index: 
   - spider-climb-2024
 permalink: /spells/spider-climb-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Warlock

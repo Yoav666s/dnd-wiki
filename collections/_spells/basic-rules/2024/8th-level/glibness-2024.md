@@ -3,6 +3,10 @@ title: "Glibness"
 index: 
   - glibness-2024
 permalink: /spells/glibness-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Enchantment
 available_for:
   - Bard
   - Warlock

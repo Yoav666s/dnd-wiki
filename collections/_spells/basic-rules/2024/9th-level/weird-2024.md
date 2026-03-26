@@ -3,6 +3,10 @@ title: "Weird"
 index: 
   - weird-2024
 permalink: /spells/weird-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Illusion
 available_for:
   - Warlock
   - Wizard

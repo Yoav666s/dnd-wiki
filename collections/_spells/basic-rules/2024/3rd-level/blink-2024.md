@@ -3,6 +3,10 @@ title: "Blink"
 index: 
   - blink-2024
 permalink: /spells/blink-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard

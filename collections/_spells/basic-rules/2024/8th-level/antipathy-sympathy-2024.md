@@ -3,6 +3,10 @@ title: "Antipathy/Sympathy"
 index: 
   - antipathy-sympathy-2024
 permalink: /spells/antipathy-sympathy-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Enchantment
 available_for:
   - 
 level: "8th Level"

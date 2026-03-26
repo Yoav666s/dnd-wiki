@@ -3,6 +3,10 @@ title: "Magic Missile"
 index: 
   - magic-missile-2024
 permalink: /spells/magic-missile-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

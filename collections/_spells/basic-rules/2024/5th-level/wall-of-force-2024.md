@@ -3,6 +3,10 @@ title: "Wall of Force"
 index: 
   - wall-of-force-2024
 permalink: /spells/wall-of-force-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Evocation
 available_for:
   - Wizard
 level: "5th Level"

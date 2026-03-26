@@ -3,6 +3,10 @@ title: "Blight"
 index: 
   - blight-2024
 permalink: /spells/blight-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Necromancy
 available_for:
   - Druid
   - Sorcerer

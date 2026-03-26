@@ -3,6 +3,10 @@ title: "Daylight"
 index: 
   - daylight-2024
 permalink: /spells/daylight-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Evocation
 available_for:
   - Cleric
   - Druid

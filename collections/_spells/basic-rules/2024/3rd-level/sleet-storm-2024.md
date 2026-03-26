@@ -3,6 +3,10 @@ title: "Sleet Storm"
 index: 
   - sleet-storm-2024
 permalink: /spells/sleet-storm-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Conjuration
 available_for:
   - Druid
   - Sorcerer

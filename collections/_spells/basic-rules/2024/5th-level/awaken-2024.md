@@ -3,6 +3,10 @@ title: "Awaken"
 index: 
   - awaken-2024
 permalink: /spells/awaken-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Transmutation
 available_for:
   - Bard
   - Druid

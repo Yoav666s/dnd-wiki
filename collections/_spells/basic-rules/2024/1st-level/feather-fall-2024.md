@@ -3,6 +3,10 @@ title: "Feather Fall"
 index: 
   - feather-fall-2024
 permalink: /spells/feather-fall-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Transmutation
 available_for:
   - Bard
   - Sorcerer

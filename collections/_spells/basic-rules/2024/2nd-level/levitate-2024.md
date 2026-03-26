@@ -3,6 +3,10 @@ title: "Levitate"
 index: 
   - levitate-2024
 permalink: /spells/levitate-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Transmutation
 available_for:
   - Sorcerer
   - Wizard

@@ -3,6 +3,10 @@ title: "Tsunami"
 index: 
   - tsunami-2024
 permalink: /spells/tsunami-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Conjuration
 available_for:
   - Druid
 level: "8th Level"

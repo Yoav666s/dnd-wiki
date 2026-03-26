@@ -3,6 +3,10 @@ title: "Tiny Hut"
 index: 
   - tiny-hut-2024
 permalink: /spells/tiny-hut-2024/
+tags:
+  - Spell
+  - 3rd Level
+  - Evocation
 available_for:
   - Bard
   - Wizard

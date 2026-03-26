@@ -3,6 +3,10 @@ title: "Mislead"
 index: 
   - mislead-2024
 permalink: /spells/mislead-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Illusion
 available_for:
   - Bard
   - Warlock

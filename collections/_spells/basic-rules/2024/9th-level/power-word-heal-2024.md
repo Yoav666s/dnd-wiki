@@ -3,6 +3,10 @@ title: "Power Word Heal"
 index: 
   - power-word-heal-2024
 permalink: /spells/power-word-heal-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Enchantment
 available_for:
   - Bard
   - Cleric

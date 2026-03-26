@@ -3,6 +3,10 @@ title: "Antimagic Field"
 index: 
   - antimagic-field-2024
 permalink: /spells/antimagic-field-2024/
+tags:
+  - Spell
+  - 8th Level
+  - Abjuration
 available_for:
   - Cleric
   - Wizard

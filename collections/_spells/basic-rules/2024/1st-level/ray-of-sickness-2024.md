@@ -3,6 +3,10 @@ title: "Ray of Sickness"
 index: 
   - ray-of-sickness-2024
 permalink: /spells/ray-of-sickness-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Necromancy
 available_for:
   - Sorcerer
   - Wizard

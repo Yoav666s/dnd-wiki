@@ -3,6 +3,10 @@ title: "Symbol"
 index: 
   - symbol-2024
 permalink: /spells/symbol-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Abjuration
 available_for:
   - Bard
   - Cleric

@@ -3,6 +3,10 @@ title: "Flesh to Stone"
 index: 
   - flesh-to-stone-2024
 permalink: /spells/flesh-to-stone-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Transmutation
 available_for:
   - Druid
   - Sorcerer

@@ -3,6 +3,10 @@ title: "Ray of Enfeeblement"
 index: 
   - ray-of-enfeeblement-2024
 permalink: /spells/ray-of-enfeeblement-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Necromancy
 available_for:
   - Warlock
   - Wizard

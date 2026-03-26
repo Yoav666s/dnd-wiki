@@ -3,6 +3,10 @@ title: "Polymorph"
 index: 
   - polymorph-2024
 permalink: /spells/polymorph-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Transmutation
 available_for:
   - Bard
   - Druid

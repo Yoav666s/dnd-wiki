@@ -3,6 +3,10 @@ title: "Plane Shift"
 index: 
   - plane-shift-2024
 permalink: /spells/plane-shift-2024/
+tags:
+  - Spell
+  - 7th Level
+  - Conjuration
 available_for:
   - Cleric
   - Druid

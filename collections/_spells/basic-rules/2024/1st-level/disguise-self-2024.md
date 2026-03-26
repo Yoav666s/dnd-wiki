@@ -3,6 +3,10 @@ title: "Disguise Self"
 index: 
   - disguise-self-2024
 permalink: /spells/disguise-self-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Illusion
 available_for:
   - Bard
   - Sorcerer

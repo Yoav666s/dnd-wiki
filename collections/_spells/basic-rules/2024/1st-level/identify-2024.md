@@ -3,6 +3,10 @@ title: "Identify"
 index: 
   - identify-2024
 permalink: /spells/identify-2024/
+tags:
+  - Spell
+  - 1st Level
+  - Divination
 available_for:
   - Bard
   - Wizard

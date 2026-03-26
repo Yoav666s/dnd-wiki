@@ -3,6 +3,10 @@ title: "Conjure Elemental"
 index: 
   - conjure-elemental-2024
 permalink: /spells/conjure-elemental-2024/
+tags:
+  - Spell
+  - 5th Level
+  - Conjuration
 available_for:
   - Druid
   - Wizard

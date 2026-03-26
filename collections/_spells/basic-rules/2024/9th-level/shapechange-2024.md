@@ -3,6 +3,10 @@ title: "Shapechange"
 index: 
   - shapechange-2024
 permalink: /spells/shapechange-2024/
+tags:
+  - Spell
+  - 9th Level
+  - Transmutation
 available_for:
   - Druid
   - Wizard

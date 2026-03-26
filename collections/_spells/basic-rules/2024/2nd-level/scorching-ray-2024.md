@@ -3,6 +3,10 @@ title: "Scorching Ray"
 index: 
   - scorching-ray-2024
 permalink: /spells/scorching-ray-2024/
+tags:
+  - Spell
+  - 2nd Level
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

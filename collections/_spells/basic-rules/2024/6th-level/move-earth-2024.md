@@ -3,6 +3,10 @@ title: "Move Earth"
 index: 
   - move-earth-2024
 permalink: /spells/move-earth-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Transmutation
 available_for:
   - Druid
   - Sorcerer

@@ -3,6 +3,10 @@ title: "Freezing Sphere"
 index: 
   - freezing-sphere-2024
 permalink: /spells/freezing-sphere-2024/
+tags:
+  - Spell
+  - 6th Level
+  - Evocation
 available_for:
   - Sorcerer
   - Wizard

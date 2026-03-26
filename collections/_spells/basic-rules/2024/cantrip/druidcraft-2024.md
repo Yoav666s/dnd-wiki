@@ -3,6 +3,10 @@ title: "Druidcraft"
 index: 
   - druidcraft-2024
 permalink: /spells/druidcraft-2024/
+tags:
+  - Spell
+  - Cantrip
+  - Transmutation
 available_for:
   - Druid
 level: "Cantrip"

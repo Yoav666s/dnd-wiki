@@ -3,6 +3,10 @@ title: "Arcane Eye"
 index: 
   - arcane-eye-2024
 permalink: /spells/arcane-eye-2024/
+tags:
+  - Spell
+  - 4th Level
+  - Divination
 available_for:
   - Wizard
 level: "4th Level"
