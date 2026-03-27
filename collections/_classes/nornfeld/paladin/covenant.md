@@ -43,7 +43,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 **Outwit.** You can use your Channel Divinity to twist your words with wit and enhance your insight. As a bonus action, you grant yourself a +5 bonus to Charisma (Deception) checks and Wisdom (Insight) checks for the next 10 minutes.
 
 # Aura of Covenant 
-Beginning at 7th level, the magic of the Feywild is so infused in you that it protects you from mind altering effects. You and friendly creatures within 10 feet of you have advantage against being charmed or frightened, and magic can't put you to sleep.
+Beginning at 7th level, the magic of the Feywild is so infused in you that it protects you from mind altering effects. You and friendly creatures within 10 feet of you have advantage on saving throws against being charmed or frightened, and magic can't put you to sleep.
 
 At 18th level, the range of this aura increases to 30 feet.
 
