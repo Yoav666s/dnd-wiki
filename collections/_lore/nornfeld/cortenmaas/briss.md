@@ -14,3 +14,14 @@ Briss did not begin as a nation so much as a stubborn refusal to accept the limi
 The sand has not vanished, but it lies broken and subdued, gathered into low, wind-shaped ridges between wide belts of rooted life. Groves of date palms rise in irregular clusters, their canopies casting long, shifting shadows over undergrowth that would not survive elsewhere in Cortenmaas--dense mats of hardy grasses, wax-thick succulents, and low, flowering shrubs that bloom briefly after each coaxed rainfall. The air carries a faint, persistent humidity, enough to soften the harshness of the sun without dulling it, and the ground, though still dry at the surface, often yields dampness just beneath.
 
 Briss is the living heart of Cortenmaas. Governed by archdruids and defended by all other nations but Den'sall (whose leaders view this subjugation of the desert heretical to the natural environment of Cortenmaas), Briss exports crops, dates, and other plants to help the neighboring nations survive. It is a nation of peace and prosperity.
+
+# Jad'elle
+The capital of Briss
+
+# Other Cities
+
+- Telaan
+- Okesul
+- Urien
+- Ishfand
+- Bursien
