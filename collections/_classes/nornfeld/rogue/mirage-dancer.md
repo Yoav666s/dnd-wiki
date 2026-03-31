@@ -23,13 +23,13 @@ When you take the Disengage action, you can give yourself the invisible conditio
 
 The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. Your invisibility ends early if the duplicate is destroyed.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Short or Long Rest. 
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Short or Long Rest.
 
 # Level 9: Artful Maneuvers
 You can take the Dodge action as a bonus action. You can use this feature a number of times equal to your Dexterity modifier, and you regain all expended uses when you finish a short rest.
 
 # Level 13: Swift Strike
-Once per turn, after you make an Opportunity Attack, you can immediately make another Opportunity Attack of the light property with a different weapon you're holding that has the light property, as part of the same reaction.
+Once per turn, after you make an Opportunity Attack, you can immediately make another Opportunity Attack of the light property with a different weapon you're holding that is either a Dagger, a Light Hammer, a Sickle, or a Scimitar, as part of the same reaction.
 
 # Level 17: Dance Master
 After a creature misses you with a melee attack, you can use your reaction to make an Opportunity Attack against that creature.
