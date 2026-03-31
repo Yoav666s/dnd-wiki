@@ -62,3 +62,8 @@ While the content of Nornfeld is primarily designed for compatibility with Dunge
 These adaptations focus on preserving the spirit and narrative identity of each class while refining features, progression paths, and subclass structures to match the updated system standards. Where necessary, terminology and rule interactions have been clarified to reduce ambiguity at the table, ensuring smoother gameplay for both players and Dungeon Masters.
 
 {% include feature_row id="subclasses_2024" %}
+
+# World Map
+Nornfeld's world map.
+
+{% include image.html path="map" %}
