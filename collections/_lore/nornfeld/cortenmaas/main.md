@@ -18,6 +18,7 @@ Cortenmaas is a vast and unforgiving continent, its identity shaped by endless d
 {% include about.html index="creaven" %}
 
 # Den'sall
+{% include about.html index="densall" %}
 
 # Fult
 
