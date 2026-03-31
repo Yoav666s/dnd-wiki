@@ -81,6 +81,17 @@ feats:
 lore:
   - title: "Cortenmaas"
     url: /lore/cortenmaas/
+    children:
+      - title: "Briss"
+        url: /lore/cortenmaas/briss/
+      - title: "Creaven"
+        url: /lore/cortenmaas/creaven/
+      - title: "Den'sall"
+        url: /lore/cortenmaas/densall/
+      - title: "Fult"
+        url: /lore/cortenmaas/fult/
+      - title: "Havdreck"
+        url: /lore/cortenmaas/havdreck/
   - title: "Durn"
     url: /lore/durn/
     children:
