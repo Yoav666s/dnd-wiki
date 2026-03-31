@@ -92,6 +92,8 @@ lore:
         url: /lore/cortenmaas/fult/
       - title: "Havdreck"
         url: /lore/cortenmaas/havdreck/
+      - title: "Jaed"
+        url: /lore/cortenmaas/jaed/
   - title: "Durn"
     url: /lore/durn/
     children:
