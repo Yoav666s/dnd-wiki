@@ -4,6 +4,7 @@ index:
   - wedland
 permalink: /lore/morgenfell/wedland/
 excerpt: "Wedland is governed by queen Juliette Phillips the II. It is the industrial center of Morgenfell, full of factories and cities."
+source: "Survivor's Guide to Morgenfell"
 # header:
 #   overlay_image: /assets/images/lore/morgenfell/wedland/header.png
 #   teaser: /assets/images/lore/morgenfell/wedland/header.jpg
@@ -13,7 +14,7 @@ Wedland is governed by queen Juliette Phillips the II. It is the industrial cent
 # Queen's Dock
 The capital of Wedland.
 
-# Other Cities 
+# Other Cities
 
 - Hillspitch
 - Dimspeak

@@ -4,6 +4,7 @@ index:
   - auberfield
 permalink: /lore/morgenfell/auberfield/
 excerpt: "Auberfield is governed by the Senate of Auberfield. It is a beautiful country with lots of forests full of fey creatures."
+source: "Survivor's Guide to Morgenfell"
 # header:
 #   overlay_image: /assets/images/lore/morgenfell/auberfield/header.png
 #   teaser: /assets/images/lore/morgenfell/auberfield/header.jpg

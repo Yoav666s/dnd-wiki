@@ -4,6 +4,7 @@ index:
   - morgenfell
 permalink: /lore/morgenfell/
 excerpt: "Morgenfell is a large continent in Nornfeld, where magic is outside of the law."
+source: "Survivor's Guide to Morgenfell"
 # header:
 #   overlay_image: /assets/images/lore/morgenfell/header.png
 #   teaser: /assets/images/lore/morgenfell/header.jpg
