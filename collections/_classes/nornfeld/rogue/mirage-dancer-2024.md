@@ -12,7 +12,7 @@ header:
   overlay_image: /assets/images/classes/rogue/mirage-dancer/2024/header.png
   teaser: /assets/images/classes/rogue/mirage-dancer/2024/header.jpg
 ---
-Mirage Dancers are trained in subtle magic of the desert, using illusions to enhance their roguish abilities. They are masters of misdirection, beguiling friend, foe, and everything in between. They are masterful with the curved blade, their fighting style a dance mimicking the winds of the desert.
+Mirage Dancers are initiates of an esoteric desert tradition, where light and motion blur the boundary between the real and the imagined. Their training begins not with the blade, but with the body--learning to move as the dunes shift and the air shimmers, until every step becomes an act of deception. They weave subtle magic into their movement, bending light to mislead their enemies. In battle, Mirage Dancers favor curved blades, their fighting style resembling a ritualized dance, each motion flowing into the next with deliberate elegance. They circle their foes like desert winds, advancing and withdrawing in patterns that are difficult to predict.
 
 # Level 3: Dancer's Grace
 You have proficiency in the Performance skill and you can use the mastery property of Scimitars. Additionally, when you make an attack with a Scimitar that isn't a result of the light property, you can treat it as though the Scimitar has the Vex property for that attack.
@@ -24,7 +24,7 @@ As a Bonus Action, you can give yourself the invisible condition until the start
 
 The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. Your invisibility ends early if the duplicate is destroyed.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Short or Long Rest. 
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Short or Long Rest.
 
 # Level 9: Artful Maneuvers
 You gain the following Cunning Strike options.
