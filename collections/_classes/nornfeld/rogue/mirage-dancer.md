@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/classes/rogue/mirage-dancer/header.png
   teaser: /assets/images/classes/rogue/mirage-dancer/header.jpg
 ---
-Mirage Dancers are trained in subtle magic of the desert, using illusions to enhance their roguish abilities. They are masters of misdirection, beguiling friend, foe, and everything in between.
+Mirage Dancers are trained in subtle magic of the desert, using illusions to enhance their roguish abilities. They are masters of misdirection, beguiling friend, foe, and everything in between. They are masterful with the curved blade, their fighting style a dance mimicking the winds of the desert.
 
 # Dancer's Grace
 Starting when you choose this archetype at 3rd level, you have proficiency in the Performance skill. Additionally, when you hit a target with a weapon attack using a Scimitar that isn't a result of the light property, you have advantage on the next attack you make against the same target until the end of your next turn.
