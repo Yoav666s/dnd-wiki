@@ -11,7 +11,7 @@ header:
  overlay_image: /assets/images/classes/warlock/the-thing/2024/header.png
  teaser: /assets/images/classes/warlock/the-thing/2024/header.jpg
 ---
-Deep beneath the world’s skin, where stone remembers every footfall and darkness swallows sound, something vast and patient waits. The Thing of the Hollow is not a distant cosmic will, but a living presence that coils through caverns, roots itself in mountain bones, and listens through the trembling earth. It knows the fear of those who tread above, and it teaches its servants to hunt as it does — sensing through stone, slipping through the bones of the world, and seeping into the dreams of the unwary. Its gifts are not whispers from the stars, but the slow, suffocating embrace of the deep places where no light reaches and no cry escapes.
+Deep beneath the world’s skin, where stone remembers every footfall and darkness swallows sound, something vast and patient waits. The Thing of the Hollow is not a distant cosmic will, but a living presence that coils through caverns, roots itself in mountain bones, and listens through the trembling earth. It knows the fear of those who tread above, and it teaches its servants to hunt as it does--sensing through stone, slipping through the bones of the world, and seeping into the dreams of the unwary. Its gifts are not whispers from the stars, but the slow, suffocating embrace of the deep places where no light reaches and no cry escapes.
 
 # Level 3: Thing of the Hollow Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Archfey Spells table, you thereafter always have the listed spells prepared.
