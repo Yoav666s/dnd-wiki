@@ -34,7 +34,7 @@ subclasses_2024:
   - image_path: /assets/images/classes/rogue/mirage-dancer/2024/normal.jpg
     alt: "Mirage Dancer"
     title: "Mirage Dancer"
-    excerpt: "Mirage Dancers are trained in subtle magic, using illusions to enhance their roguish abilities. They are masters of misdirection, beguiling friend, foe, and everything in between. The source of their magic is likely tied to the Feywild."
+    excerpt: "Mirage Dancers are initiates of an esoteric desert tradition, where light and motion blur the boundary between the real and the imagined. Their training begins not with the blade, but with the body--learning to move as the dunes shift and the air shimmers, until every step becomes an act of deception."
     url: "/classes/rogue/mirage-dancer-2024/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
