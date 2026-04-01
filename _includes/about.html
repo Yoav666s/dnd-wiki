@@ -4,4 +4,4 @@
   {% assign collection = site.lore %}
 {% endif %}
 {% assign page = collection | where: "index", include.index | first %}
-{{ page.excerpt }} <a href="{{ page.url | relative_url }}">Read more</a>
+{{ page.excerpt }}{% if include.readmore == true %} <a href="{{ page.url | relative_url }}">Read more</a>{% endif %}
