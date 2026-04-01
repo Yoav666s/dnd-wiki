@@ -12,7 +12,7 @@ header:
   overlay_image: /assets/images/classes/rogue/mirage-dancer/2024/header.png
   teaser: /assets/images/classes/rogue/mirage-dancer/2024/header.jpg
 ---
-Mirage Dancers are trained in subtle magic, using illusions to enhance their roguish abilities. They are masters of misdirection, beguiling friend, foe, and everything in between. The source of their magic is likely tied to the Feywild.
+Mirage Dancers are trained in subtle magic of the desert, using illusions to enhance their roguish abilities. They are masters of misdirection, beguiling friend, foe, and everything in between.
 
 # Level 3: Dancer's Grace
 You have proficiency in the Performance skill and you can use the mastery property of Scimitars. Additionally, when you make an attack with a Scimitar that isn't a result of the light property, you can treat it as though the Scimitar has the Vex property for that attack.
