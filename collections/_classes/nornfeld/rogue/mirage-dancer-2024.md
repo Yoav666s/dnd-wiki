@@ -3,7 +3,7 @@ title: "Mirage Dancer"
 index:
   - mirage-dancer-2024
 permalink: /classes/rogue/mirage-dancer-2024/
-excerpt: "Mirage Dancers are trained in subtle magic, using illusions to enhance their roguish abilities."
+excerpt: "Mirage Dancers are initiates of an esoteric desert tradition, where light and motion blur the boundary between the real and the imagined."
 subclass: rogue
 v_2024: true
 alt_version: mirage-dancer
