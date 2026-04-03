@@ -21,6 +21,7 @@ Cortenmaas is a vast and unforgiving continent, its identity shaped by endless d
 {% include about.html index="densall" %}
 
 # Fult
+{% include about.html index="fult" %}
 
 # Havdreck
 
