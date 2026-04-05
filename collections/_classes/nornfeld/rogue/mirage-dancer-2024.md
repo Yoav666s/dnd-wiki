@@ -17,7 +17,7 @@ Mirage Dancers are initiates of an esoteric desert tradition, where light and mo
 # Level 3: Dancer's Grace
 You have proficiency in the Performance skill and you can use the mastery property of Scimitars. Additionally, when you make an attack with a Scimitar that isn't a result of the light property, you can treat it as though the Scimitar has the Vex property for that attack.
 
-You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll if you move at least 10 feet while staying within 5 feet of the target before making the attack and you don't have disadvantage on the attack roll.
+You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll if you spend at least 10 feet of movement while staying within 5 feet of the target before making the attack and you don't have disadvantage on the attack roll.
 
 # Level 3: Mirage
 As a Bonus Action, you can give yourself the invisible condition until the start of your next turn and create an illusory duplicate of yourself that appears in your space and lasts for the duration. This effect ends early if you attack, cast a spell, or lose concentration (as if you were concentrating on a spell).
