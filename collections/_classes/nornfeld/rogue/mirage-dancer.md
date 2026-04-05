@@ -16,7 +16,7 @@ Mirage Dancers are initiates of an esoteric desert tradition, where light and mo
 # Dancer's Grace
 Starting when you choose this archetype at 3rd level, you have proficiency in the Performance skill. Additionally, when you hit a target with a weapon attack using a Scimitar that isn't a result of the light property, you have advantage on the next attack you make against the same target until the end of your next turn.
 
-You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll if you move at least 10 feet while staying within 5 feet of the target before making the attack and you don't have disadvantage on the attack roll.
+You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll if you spend at least 10 feet of movement while staying within 5 feet of the target before making the attack and you don't have disadvantage on the attack roll.
 
 # Level 3: Mirage
 When you take the Disengage action, you can give yourself the invisible condition until the start of your next turn and create an illusory duplicate of yourself that appears in your space and lasts for the duration. This effect ends early if you attack or cast a spell or lose concentration (as if you were concentrating on a spell).
