@@ -12,7 +12,7 @@ header:
   overlay_image: /assets/images/classes/monk/sands/2024/header.png
   teaser: /assets/images/classes/monk/sands/2024/header.jpg
 ---
-Warriors of the Sands are shaped by exposure to unforgiving landscapes where heat, wind, and scarcity erode weakness and reward precision. Their discipline reflects the shifting nature of the desert itself—fluid in motion, sudden in violence, and relentless in endurance. These monks learn to read the terrain as an extension of their own bodies, gliding across loose ground without hesitation and turning every grain beneath their feet into an advantage.
+Warriors of the Sands are shaped by exposure to unforgiving landscapes where heat, wind, and scarcity erode weakness and reward precision. Their discipline reflects the shifting nature of the desert itself--fluid in motion, sudden in violence, and relentless in endurance. These monks learn to read the terrain as an extension of their own bodies, gliding across loose ground without hesitation and turning every grain beneath their feet into an advantage.
 
 # Level 3: One with the Wastes
 Your martial arts techniques adapt to the harsh reality of the desert. You gain the following abilities.
