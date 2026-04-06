@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/classes/monk/sands/header.png
   teaser: /assets/images/classes/monk/sands/header.jpg
 ---
-Monks of this monastic tradition are shaped by exposure to unforgiving landscapes where heat, wind, and scarcity erode weakness and reward precision. Their discipline reflects the shifting nature of the desert itself—fluid in motion, sudden in violence, and relentless in endurance. These monks learn to read the terrain as an extension of their own bodies, gliding across loose ground without hesitation and turning every grain beneath their feet into an advantage.
+Monks of this monastic tradition are shaped by exposure to unforgiving landscapes where heat, wind, and scarcity erode weakness and reward precision. Their discipline reflects the shifting nature of the desert itself--fluid in motion, sudden in violence, and relentless in endurance. These monks learn to read the terrain as an extension of their own bodies, gliding across loose ground without hesitation and turning every grain beneath their feet into an advantage.
 
 # One with the Wastes 
 Starting at 3rd level, your martial arts techniques adapt to the harsh reality of the desert. You gain the following abilities.
