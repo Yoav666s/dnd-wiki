@@ -23,7 +23,7 @@ Your martial arts techniques adapt to the harsh reality of the desert. You gain 
 
 **Slashing Flurry.** You can use the mastery property of Scimitars. Whenever you make an attack granted by your Flurry of Blows, you can use a Scimitar in place of an unarmed strike.
 
-# Level 6: Dirty Fighting 
+# Level 6: Dirty Fighting
 Once per turn, immediately before you take the Attack action while standing on ground composed of sand or loose earth, you can expend 1 Focus point to force a creature you can see within 5 feet of you to make a Dexterity saving throw. On failure, the creature has the Blinded condition until the end of its next turn. You can also use this feature anywhere by expending a pinch of sand from a pouch you carry. You must have a free hand to use this feature.
 
 # Level 11: Crescent Riposte
@@ -31,3 +31,5 @@ When you use your Deflect Attacks feature, if you reduce the damage of a melee a
 
 # Level 17: Deep Cuts
 Whenever you deal slashing damage to a creature, you deal additional damage equal to your Wisdom modifier.
+
+[:classes/monk/sands/2024:]

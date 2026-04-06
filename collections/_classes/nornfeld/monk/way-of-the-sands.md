@@ -13,7 +13,7 @@ header:
 ---
 Monks of this monastic tradition are shaped by exposure to unforgiving landscapes where heat, wind, and scarcity erode weakness and reward precision. Their discipline reflects the shifting nature of the desert itself--fluid in motion, sudden in violence, and relentless in endurance. These monks learn to read the terrain as an extension of their own bodies, gliding across loose ground without hesitation and turning every grain beneath their feet into an advantage.
 
-# One with the Wastes 
+# One with the Wastes
 Starting at 3rd level, your martial arts techniques adapt to the harsh reality of the desert. You gain the following abilities.
 
 - You ignore difficult terrain composed of sand or loose earth.
@@ -28,3 +28,5 @@ Starting at 11th level, when a creature misses you with a melee attack, you can 
 
 # Deep Cuts
 Starting at 17th level, whenever you deal slashing damage to a creature, you deal additional damage equal to your Wisdom modifier.
+
+[:classes/monk/sands:]
