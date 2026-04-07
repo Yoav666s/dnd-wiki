@@ -27,6 +27,6 @@ Starting at 6th level, once per turn and immediately before you take the Attack 
 Starting at 11th level, when a creature misses you with a melee attack, you can take your reaction to make an Unarmed Strike or melee weapon attack with a Scimitar against the attacker.
 
 # Deep Cuts
-Starting at 17th level, whenever you deal slashing damage to a creature, you deal additional damage equal to your Wisdom modifier.
+Starting at 17th level, whenever you deal slashing damage to a creature, you deal additional damage equal to your Wisdom modifier (minimum of 1).
 
 [:classes/monk/sands:]

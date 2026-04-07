@@ -30,6 +30,6 @@ Once per turn, immediately before you take the Attack action while standing on g
 When you use your Deflect Attacks feature, if you reduce the damage of a melee attack to 0 and expend 1 Focus Point to redirect the attack, immediately afterwards you can make an Unarmed Strike or melee weapon attack with a Scimitar against the attacker.
 
 # Level 17: Deep Cuts
-Whenever you deal slashing damage to a creature, you deal additional damage equal to your Wisdom modifier.
+Whenever you deal slashing damage to a creature, you deal additional damage equal to your Wisdom modifier (minimum of 1).
 
 [:classes/monk/sands/2024:]
