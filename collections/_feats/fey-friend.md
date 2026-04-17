@@ -4,6 +4,7 @@ index:
   - fey-friend
 permalink: /feats/fey-friend/
 excerpt: "Your connection to the Feywild grants you the following benefits."
+v_2024: true
 source: "Fillumir's Guide to the Feywild"
 ---
 *Origin Feat*
