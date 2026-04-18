@@ -14,7 +14,7 @@ range: "Self"
 comp:
   - S
   - M
-material: "a small nugget of rabbit poop"
+material: "a pinch of sand from a desert"
 duration: "1 Minute"
 concentration: true
 cast_time: "1 Bonus Action"
