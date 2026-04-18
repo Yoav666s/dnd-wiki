@@ -14,3 +14,9 @@ Farak lies east of Creaven and north of Den’sall, with its coastline facing Du
 These subterranean settlements are structured around stability and resource control. Wide chambers serve as communal and commercial spaces, while narrower corridors connect residential and industrial areas. Ventilation shafts are cut to direct airflow from the surface, and light is provided through a combination of magical sources, reflective systems, and cultivated luminescent growths. Water is stored in sealed cisterns to reduce loss, and access is regulated carefully.
 
 Agriculture is limited and highly managed. Some crops are grown in enclosed underground gardens using sustained magical support, but Farak depends heavily on trade for food and organic materials. Through its coastal access, it maintains regular exchange with Durn, importing leather, crops, spices, and magical goods. In return, Farak exports worked stone, glass, and engineered materials produced in controlled subterranean conditions.
+
+# Other Cities
+
+- Haat
+- Quert
+- Jis
