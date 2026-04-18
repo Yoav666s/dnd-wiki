@@ -7,6 +7,7 @@ tags:
   - Spell
 available_for:
   - Sorcerer
+  - Warlock
   - Wizard
 level: "4th Level"
 school: "Conjuration"
