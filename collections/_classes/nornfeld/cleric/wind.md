@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/classes/cleric/wind/header.png
   teaser: /assets/images/classes/cleric/wind/header.jpg
 ---
-The Wind domain focuses on the ever-changing nature of wind, drawing power from deities of nature or storm. It encourages mobility, using movement for advantage, and never staying in one place. Clerics of the Wind Domain revere the ever-changing currents, embodying motion, change, and freedom--Never static, always advancing. These clerics use wind’s swiftness to outmaneuver foes and guide allies to safety.
+The Wind domain focuses on the ever-changing nature of wind, drawing power from deities of nature or storm. It encourages mobility, using movement for advantage, and never staying in one place. Clerics of the Wind Domain revere the ever-changing currents, embodying motion, change, and freedom--never static, always advancing. These clerics use wind’s swiftness to outmaneuver foes and guide allies to safety.
 
 # Wind Domain Spells
 
