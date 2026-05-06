@@ -15,9 +15,13 @@ header:
 Mirage Dancers are initiates of an esoteric desert tradition, where light and motion blur the boundary between the real and the imagined. Their training begins not with the blade, but with the body--learning to move as the dunes shift and the air shimmers, until every step becomes an act of deception. They weave subtle magic into their movement, bending light to mislead their enemies. In battle, Mirage Dancers favor curved blades, their fighting style resembling a ritualized dance, each motion flowing into the next with deliberate elegance. They circle their foes like desert winds, advancing and withdrawing in patterns that are difficult to predict.
 
 # Level 3: Dancer's Grace
-You have proficiency in the Performance skill and you can use the mastery property of Scimitars. Additionally, when you make an attack with a Scimitar that isn't a result of the light property, you can treat it as though the Scimitar has the Vex property for that attack.
+Your training with the curved blade grants you the following benefits.
 
-You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll if you spend at least 10 feet of movement while staying within 5 feet of the target before making the attack and you don't have disadvantage on the attack roll.
+**Crescent Pace.** You gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll if you spend at least 10 feet of movement while staying within 5 feet of the target before making the attack and you don't have disadvantage on the attack roll.
+
+**Performative Dance.** You have proficiency in the Performance skill.
+
+**Swift Strikes.** You can use the mastery property of Scimitars. Additionally, when you make an attack with a Scimitar that isn't a result of the light property, you can treat it as though the Scimitar has the Vex property for that attack.
 
 # Level 3: Mirage
 As a Bonus Action, you can give yourself the invisible condition until the start of your next turn and create an illusory duplicate of yourself that appears in your space and lasts for the duration. This effect ends early if you attack, cast a spell, or lose concentration (as if you were concentrating on a spell).
