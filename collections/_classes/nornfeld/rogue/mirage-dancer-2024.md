@@ -12,7 +12,7 @@ header:
   overlay_image: /assets/images/classes/rogue/mirage-dancer/2024/header.png
   teaser: /assets/images/classes/rogue/mirage-dancer/2024/header.jpg
 ---
-Mirage Dancers are initiates of an esoteric desert tradition, where light and motion blur the boundary between the real and the imagined. Their training begins not with the blade, but with the body--learning to move as the dunes shift and the air shimmers, until every step becomes an act of deception. They weave subtle magic into their movement, bending light to mislead their enemies. In battle, Mirage Dancers favor curved blades, their fighting style resembling a ritualized dance, each motion flowing into the next with deliberate elegance. They circle their foes like desert winds, advancing and withdrawing in patterns that are difficult to predict.
+Mirage Dancers are masters of the curved blade, their fighting style an elusive flow of deliberate, slashing strikes and unpredictable movement. With each step, they circle their foes forcing them to shift their defenses until they find an opening. Trained with subtle illusion magic, they appear to teleport throughout the battlefield, utilizing brief invisibility and illusory duplicates.
 
 # Level 3: Dancer's Grace
 Your training with the curved blade grants you the following benefits.
