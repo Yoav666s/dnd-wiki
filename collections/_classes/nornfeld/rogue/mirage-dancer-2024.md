@@ -26,7 +26,7 @@ Your training with the curved blade grants you the following benefits.
 # Level 3: Mirage
 As a Bonus Action, you can give yourself the invisible condition until the start of your next turn and create an illusory duplicate of yourself that appears in your space and lasts for the duration. This effect ends early if you attack, cast a spell, or lose concentration (as if you were concentrating on a spell).
 
-The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. Your invisibility ends early if the duplicate is destroyed.
+The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits the duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. Your invisibility ends early if the duplicate is destroyed.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Short or Long Rest.
 
