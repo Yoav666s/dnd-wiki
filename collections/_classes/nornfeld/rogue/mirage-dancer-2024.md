@@ -37,12 +37,12 @@ You gain the following Cunning Strike options.
 
 **Beguiling Strike (Cost: 2d6).** If you have the Mirage feature's Invisible condition, this attack doesn't end that condition, and your duplicate teleports to your current position.
 
-# Level 13:
+# Level 13: Opportunistic Approach
 You gain the following benefits.
 
-**Swift Strike.** Once per turn, after you make an Opportunity Attack with a weapon, you can immediately make a second Opportunity Attack of the light property with a different weapon you're holding that has the Nick property, as part of the same reaction.
+**Precise Slash.** You have advantage on Opportunity Attacks.
 
-**.**
+**Swift Strike.** Once per turn, after you make an Opportunity Attack with a weapon, you can immediately make a second Opportunity Attack of the light property with a different weapon you're holding that has the Nick property, as part of the same reaction.
 
 # Level 17: Dance Master
 You gain the following Cunning Strike option.
