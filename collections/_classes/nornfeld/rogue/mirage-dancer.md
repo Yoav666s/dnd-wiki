@@ -18,21 +18,21 @@ Starting when you choose this archetype at 3rd level, you have proficiency in th
 
 You also gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll if you spend at least 10 feet of movement while staying within 5 feet of the target before making the attack and you don't have disadvantage on the attack roll.
 
-# Level 3: Mirage
-When you take the Disengage action, you can give yourself the invisible condition until the start of your next turn and create an illusory duplicate of yourself that appears in your space and lasts for the duration. This effect ends early if you attack or cast a spell or lose concentration (as if you were concentrating on a spell).
+# Mirage
+Starting at 3rd level, as a bonus action, you can give yourself the invisible condition until the start of your next turn and create an illusory duplicate of yourself that appears in your space and lasts for the duration. This effect ends early if you attack or cast a spell or lose concentration (as if you were concentrating on a spell).
 
 The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits the duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. Your invisibility ends early if the duplicate is destroyed.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Short or Long Rest.
 
-# Level 9: Artful Maneuvers
-You can take the Dodge action as a bonus action. You can use this feature a number of times equal to your Dexterity modifier, and you regain all expended uses when you finish a short rest.
+# Artful Maneuvers
+Starting at 9th level, you can take the Dodge action as a bonus action. You can use this feature a number of times equal to your Dexterity modifier, and you regain all expended uses when you finish a short rest.
 
-# Level 13: Swift Strike
-Once per turn, after you make an Opportunity Attack, you can immediately make another Opportunity Attack of the light property with a different weapon you're holding that is either a Dagger, a Light Hammer, a Sickle, or a Scimitar, as part of the same reaction.
+# Opportunistic Approach
+Starting at 13th level, you have advantage on Opportunity Attacks. Once per turn, after you make an Opportunity Attack, you can immediately make another Opportunity Attack of the light property with a different weapon you're holding that is either a Dagger, a Light Hammer, a Sickle, or a Scimitar, as part of the same reaction.
 
-# Level 17: Dance Master
-After a creature misses you with a melee attack, you can use your reaction to make an Opportunity Attack against that creature.
+# Dance Master
+Starting at 17th level, after a creature misses you with a melee attack, you can use your reaction to make an Opportunity Attack against that creature.
 
 You can use this feature a number of times equal to your Dexterity modifier, and you regain all expended uses when you finish a short rest.
 
