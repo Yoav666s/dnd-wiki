@@ -27,5 +27,9 @@ actions: |
   
   **Heart Sight.** The sprite touches a creature and magically knows the creature's current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.
 excerpt: "Tiny Fey, Neutral Good"
+header:
+  overlay_image: /assets/images/monsters/spriteling/header.png
+  teaser: /assets/images/monsters/spriteling/header.jpg
 source: "Fillumir's Guide to the Feywild"
 ---
+[:monsters/spriteling:]
