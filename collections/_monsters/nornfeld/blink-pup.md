@@ -29,5 +29,9 @@ actions: |
   
   **Teleport (Recharge 4-6).** The pup magically teleports, along with any equipment it is wearing or carrying, up to 40 ft. to an unoccupied space it can see.
 excerpt: "Tiny Fey, Lawful Good"
+header:
+  overlay_image: /assets/images/monsters/blink-pup/header.png
+  teaser: /assets/images/monsters/blink-pup/header.jpg
 source: "Fillumir's Guide to the Feywild"
 ---
+[:monsters/blink-pup:]
