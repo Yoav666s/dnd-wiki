@@ -17,15 +17,15 @@ wis_score: 13
 cha_score: 11
 saving_throws: ""
 skills: "Perception +3, Stealth +5"
-senses: "Passive Perception 10"
+senses: "Passive Perception 13"
 languages: "Blink Dog, understands Sylvan but can't speak it"
-challenge_rating: 0.25
-xp: 50
+challenge_rating: 0
+xp: 10
 proficiency_bonus: "+2"
 traits: |
   **Keen Hearing and Smell.** The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 actions: |
-  **Bite.** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+  **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
   
   **Teleport (Recharge 4-6).** The pup magically teleports, along with any equipment it is wearing or carrying, up to 40 ft. to an unoccupied space it can see.
 excerpt: "Tiny Fey, Lawful Good"
