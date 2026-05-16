@@ -10,14 +10,14 @@ armor_class: "12 (Armor)"
 hit_points: "2 (1d4)"
 speed: "walk 10 ft., fly 40 ft."
 str_score: 3
-dex_score: 18
+dex_score: 15
 con_score: 10
-int_score: 14
-wis_score: 13
+int_score: 10
+wis_score: 12
 cha_score: 11
 saving_throws: ""
-skills: "Perception +3, Stealth +8"
-senses: "Passive Perception 13"
+skills: "Perception +2, Stealth +6"
+senses: "Passive Perception 12"
 languages: "Common, Elvish, Sylvan"
 challenge_rating: 0
 xp: 10
