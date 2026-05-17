@@ -37,12 +37,12 @@ You gain the following Cunning Strike options.
 
 **Evasive Dance (Cost: 3d6).** All attacks the target makes against you until the start of your next turn have disadvantage.
 
-# Level 13: Opportunistic Approach
+# Level 13: Deadly Retaliation
 You gain the following benefits.
 
 **Precise Slash.** You have advantage on Opportunity Attacks.
 
-**Swift Strike.** Once per turn, after you make an Opportunity Attack with a weapon, you can immediately make a second Opportunity Attack of the light property with a different weapon you're holding that has the Nick property, as part of the same reaction.
+**Twin Strike.** Once per turn, after you make an Opportunity Attack with a weapon, you can immediately make a second Opportunity Attack of the light property with a different weapon you're holding that has the Nick property, as part of the same reaction.
 
 # Level 17: Dance Master
 You gain the following Cunning Strike option.
