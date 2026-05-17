@@ -28,7 +28,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 # Artful Maneuvers
 Starting at 9th level, you can take the Dodge action as a bonus action. You can use this feature a number of times equal to your Dexterity modifier, and you regain all expended uses when you finish a short rest.
 
-# Opportunistic Approach
+# Deadly Retaliation
 Starting at 13th level, you have advantage on Opportunity Attacks. Once per turn, after you make an Opportunity Attack, you can immediately make another Opportunity Attack of the light property with a different weapon you're holding that is either a Dagger, a Light Hammer, a Sickle, or a Scimitar, as part of the same reaction.
 
 # Dance Master
