@@ -3,7 +3,7 @@ title: "Boots of Expedition"
 index:
   - boots-of-expedition
 permalink: /items/boots-of-expedition/
-excerpt: "While wearing these boots, when you take the Disengage action, you can use your bonus action to take the Dash action."
+excerpt: "These boots have 4 charges and regain 1d4 expended charges daily at dawn."
 rarity: "Uncommon"
 tags:
   - Item
