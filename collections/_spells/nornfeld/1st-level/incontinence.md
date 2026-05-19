@@ -7,6 +7,7 @@ tags:
   - Spell
 available_for:
   - Druid
+  - Sorcerer
   - Warlock
   - Wizard
 level: "1st Level"
