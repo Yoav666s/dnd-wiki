@@ -22,7 +22,9 @@ ritual: false
 attack: "CON Save"
 effect: "Poisoned"
 description: |
-  A sudden malady descends on a creature that you can see within range. The target must succeed a Constitution saving throw or gain the Poisoned condition for the duration, defecating and urinating on itself. At the end of each of its turns, the target can repeat its saving throw, ending the effect on a success. Until the target is clean, it has Disadvantage on Dexterity (Stealth) and Charisma skill checks.
+  A sudden malady descends on a creature that you can see within range. The target must succeed a Constitution saving throw or gain the Poisoned condition for the duration, defecating and urinating on itself. At the end of each of its turns, the target can repeat its saving throw, ending the effect on a success.
+  
+  Until the target is clean, it has Disadvantage on Dexterity (Stealth) and Charisma skill checks. A creature is clean after it (or a different creature) spends a minute cleaning the target with water or cloth. A Prestidigitation spell also ends this effect.
   
   **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 excerpt: "A sudden malady descends on a creature that you can see within range."
