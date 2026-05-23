@@ -11,7 +11,7 @@ source: "Fillumir's Guide to the Feywild"
 
 Your connection to the Feywild grants you the following benefits.
 
-**Cantrip.** You learn an Enchantment or Illusion cantrip of your choice. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
+**Feywild Native.** You can speak, read, and write Sylvan. You have advantage on saving throws you make to avoid or end the Charmed condition.
 
 **Find Familiar.** You always have the [[Find Familiar]] spell prepared, and you can cast it as a ritual. The familiar must be a fey, and it can also take the form of a [[monsters:Spriteling]] or a [[monsters:Blink Pup]].
 
