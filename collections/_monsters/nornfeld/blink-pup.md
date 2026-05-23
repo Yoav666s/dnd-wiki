@@ -9,10 +9,10 @@ alignment: "Lawful Good"
 armor_class: "12 (Dex)"
 hit_points: "2 (1d4)"
 speed: "walk 40 ft."
-str_score: 12
+str_score: 4
 dex_score: 17
 con_score: 12
-int_score: 10
+int_score: 8
 wis_score: 13
 cha_score: 11
 saving_throws: ""
