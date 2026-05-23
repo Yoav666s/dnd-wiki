@@ -10,7 +10,7 @@ available_for:
   - Warlock
   - Wizard
 level: "2nd Level"
-school: "Evocation"
+school: "Conjuration"
 range: "Self"
 comp:
   - V
