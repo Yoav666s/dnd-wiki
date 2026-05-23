@@ -18,7 +18,7 @@ cha_score: 11
 saving_throws: ""
 skills: "Perception +2, Stealth +4"
 senses: "Passive Perception 12"
-languages: "Common, Elvish, Sylvan"
+languages: "Elvish, Sylvan"
 challenge_rating: 0
 xp: 10
 proficiency_bonus: "+2"
