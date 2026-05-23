@@ -6,7 +6,7 @@ permalink: /monsters/spriteling/
 size: "Tiny"
 type: "Fey"
 alignment: "Neutral Good"
-armor_class: "12 (Armor)"
+armor_class: "12"
 hit_points: "2 (1d4)"
 speed: "walk 10 ft., fly 40 ft."
 str_score: 3
@@ -16,7 +16,7 @@ int_score: 10
 wis_score: 12
 cha_score: 11
 saving_throws: ""
-skills: "Perception +2, Stealth +6"
+skills: "Perception +2, Stealth +4"
 senses: "Passive Perception 12"
 languages: "Common, Elvish, Sylvan"
 challenge_rating: 0
