@@ -26,7 +26,7 @@ description: |
 
   You can use your action to control the hands. You can use to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. A hand can't carry more than 10 pounds. Each hand can operate independently or in coordination with one or more other hands.
 
-  When you cast this spell and as a bonus action on each of your turns, you can make a melee spell attack with each hand, dealing force damage equal to 1d6.
+  When you cast this spell and as a bonus action on each of your turns, you can make a melee spell attack with each hand, dealing 1d6 force damage.
 
   **At higher levels.** When you cast this spell using a spell slot of 3rd level or higher, you create an additional hand for every slot level above 2nd.
 excerpt: "Two spectral hands appear floating around you."
