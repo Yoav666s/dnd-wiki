@@ -16,7 +16,7 @@ comp:
   - V
   - S
 duration: "10 Minutes"
-concentration: false
+concentration: true
 cast_time: "1 Bonus Action"
 ritual: false
 attack: "Melee"
