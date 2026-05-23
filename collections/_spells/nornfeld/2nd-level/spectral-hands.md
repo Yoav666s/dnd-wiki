@@ -24,7 +24,7 @@ effect: "Force"
 description: |
   Two spectral hands appear floating around you. Until the spell ends, you may dismiss each of them or bring them back at any time (no action). When the hands disappear, they drop whatever they are holding.
 
-  You can use your action to control the hands. You can use them to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. A hand can't carry more than 10 pounds.
+  You can use your action to control the hands. You can use to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. A hand can't carry more than 10 pounds. Each hand can operate independently or in coordination with one or more other hands.
 
   When you cast this spell and as a bonus action on each of your turns, you can make a melee spell attack with each hand, dealing force damage equal to 1d6.
 
