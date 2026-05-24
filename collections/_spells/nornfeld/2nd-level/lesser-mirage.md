@@ -17,7 +17,7 @@ comp:
 material: "a pinch of sand from a desert"
 duration: "1 Minute"
 concentration: true
-cast_time: "1 Bonus Action"
+cast_time: "1 Action"
 ritual: false
 effect: "Invisible"
 description: |
