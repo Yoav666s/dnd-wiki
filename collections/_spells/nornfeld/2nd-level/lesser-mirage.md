@@ -21,7 +21,7 @@ cast_time: "1 Action"
 ritual: false
 effect: "Invisible"
 description: |
-  When you cast this spell and as a bonus action on subsequent turns, you become invisible at the same time as an illusory duplicate of yourself appears in your space. This effect lasts until the start of your next turn and ends early if you attack or cast a spell. The duplicate remains stationary if you leave its space, mimicking your idle movements.
+  When you cast this spell and as a bonus action on subsequent turns, you become invisible at the same time as an illusory duplicate of yourself appears in your space. The invisibility end and the duplicate vanishes at the start of your next turn and both end early if you attack or cast a spell. The duplicate remains stationary if you leave its space, mimicking your idle movements.
 
   The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits the duplicate, it is destroyed. The duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. Your invisibility ends early if the duplicate is destroyed.
 excerpt: "When you cast this spell and as a bonus action on subsequent turns, you become invisible at the same time as an illusory duplicate of yourself appears in your space."
