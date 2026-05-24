@@ -14,7 +14,7 @@ range: "Self"
 comp:
   - S
   - M
-material: "a pinch of sand from a desert"
+material: "a pinch of sand from an oasis"
 duration: "1 Minute"
 concentration: true
 cast_time: "1 Action"
