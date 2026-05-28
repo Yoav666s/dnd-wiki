@@ -6,6 +6,8 @@ permalink: /spells/lesser-mirage/
 tags:
   - Spell
 available_for:
+  - Druid
+  - Ranger
   - Sorcerer
   - Wizard
 level: "2nd Level"
