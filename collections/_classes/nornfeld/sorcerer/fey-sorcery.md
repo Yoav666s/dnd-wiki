@@ -67,7 +67,7 @@ You learn new ways to enhance your Illusory Duplicate ability.
 You always have [[Project Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Long Rest unless you expend 7 Sorcery Points to restore your use of it (no action required).
 
 # Level 18: Binding Contract
-As an action, you can expend one 9th level spell slot to offer another creature a binding fey contract. The creature must be able to hear you, and the contract must be phrased clearly in a language the creature understands, although you're not required to clarify that it is actually a contract. If it's not obvious that it's a contract, a successful Intelligence saving throw will reveal that it is. If the creature willingly (but not necessarily knowingly) agrees, it is bound by the contract. While bound in this way, the creature takes 5d10 psychic damage whenever it deliberately defies the terms of your contract (defying the terms of the contract requires conscious effort), but no more than once each day.
+As an action, you can offer another creature a binding fey contract. The creature must be able to hear you, and the contract must be phrased clearly in a language the creature understands, although you're not required to clarify that it is actually a contract. If it's not obvious that it's a contract, a successful Intelligence saving throw will reveal that it is. If the creature willingly (but not necessarily knowingly) agrees, it is bound by the contract. While bound in this way, the creature takes 1d10 psychic damage whenever it deliberately defies the terms of your contract (defying the terms of the contract requires conscious effort).
 
 A contract can contain up to one term, which can be phrased innocuously. In the following Term Table is a non-exhaustive list of terms and their respective phrasings. You can come up with different terms and phrasings at your DM's discretion.
 
@@ -79,5 +79,7 @@ A contract can contain up to one term, which can be phrased innocuously. In the 
 | 4 | "May I have your attention, please?" | While you're within 100 feet of the target, you can use your action to see and hear through its eyes and ears. During this time, the target is distracted, seemingly lost in thought. |
 
 This effect ends on a creature if you use this feature again or if you dismiss it as an action. A remove curse, greater restoration, or wish spell will also end this effect.
+
+Once you use this feature, you can't do it again until you finish a long rest unless you expend 9 Sorcery Points to restore your use of it (no action required).
 
 [:classes/sorcerer/fey-soul/2024:]
