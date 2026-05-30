@@ -7,9 +7,9 @@ excerpt: "You are a ghostly creature, your innate magic coming from the ethereal
 subclass: sorcerer
 v_2024: true
 alt_version: poltergeist-soul
-# header:
-#   overlay_image: /assets/images/classes/sorcerer/poltergeist-soul/2024/header.png
-#   teaser: /assets/images/classes/sorcerer/poltergeist-soul/2024/header.jpg
+header:
+  overlay_image: /assets/images/classes/sorcerer/poltergeist-soul/2024/header.png
+  teaser: /assets/images/classes/sorcerer/poltergeist-soul/2024/header.jpg
 ---
 You are a ghostly creature, your innate magic coming from the ethereal plane. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.
 
