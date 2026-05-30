@@ -46,7 +46,7 @@ You gain new abilities, detailed below.
 
 **Disguise Self.** You always have [[Disguise Self]] prepared, and your spellcasting ability for it is Charisma. With this feature, you can cast it without a spell slot or components. If you have an illusory duplicate while disguised in this way, it looks like your disguise.
 
-**Illusory Duplicate.** As a bonus action, you magically create an illusory duplicate of yourself which appears in your space or at an unoccupied space you can see within 30 feet and lasts for 1 minute or until you use this feature again.
+**Illusory Duplicate.** As a bonus action, you magically create an illusory duplicate of yourself which appears in your space or at an unoccupied space you can see within 30 feet and lasts for 1 minute or until you use this feature again. The duplicate vanishes if you're more than 30 feet away from it.
 
 If you are within range of the illusion, you can use your bonus action to cause it to move to another spot within range. As the image changes location, you can alter its appearance so that its movements appear natural. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
 
@@ -59,7 +59,7 @@ You learn new ways to enhance your Illusory Duplicate ability.
 
 **Illusory Casting.** While maintaining an illusion of yourself, you can cast spells as though you were in the illusion's space, but you must still rely on your senses.
 
-**Illusory Army.** You can create a number of illusory duplicates equal to your Charisma modifier. You can use your bonus action to control any number of them that are within range. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it (no action required).
+**Illusory Army.** When you create an illusory duplicate, you can create a number of illusory duplicates equal to your Charisma modifier. You can use your bonus action to control all of them. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it (no action required).
 
 **Sly Swap.** You can use your bonus action to switch places with an illusory duplicate if you are within 30 feet of it. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it (no action required).
 
