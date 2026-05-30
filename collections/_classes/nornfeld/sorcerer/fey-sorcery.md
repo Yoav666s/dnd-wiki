@@ -46,7 +46,7 @@ You gain new abilities, detailed below.
 
 **Disguise Self.** You always have [[Disguise Self]] prepared, and your spellcasting ability for it is Charisma. With this feature, you can cast it without a spell slot or components. If you have an illusory duplicate while disguised in this way, it looks like your disguise.
 
-**Illusory Duplicate.** As a bonus action, you magically create an illusory duplicate of yourself which appears in your space or at an unoccupied space you can see within 30 feet and lasts for 1 minute.
+**Illusory Duplicate.** As a bonus action, you magically create an illusory duplicate of yourself which appears in your space or at an unoccupied space you can see within 30 feet and lasts for 1 minute or until you use this feature again.
 
 If you are within range of the illusion, you can use your bonus action to cause it to move to another spot within range. As the image changes location, you can alter its appearance so that its movements appear natural. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
 
