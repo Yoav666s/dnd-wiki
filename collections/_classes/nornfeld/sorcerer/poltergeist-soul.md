@@ -59,3 +59,5 @@ Beginning at 14th level, some of your Poltergeist spells gain the following bene
 
 # Effortless Haunting 
 By 18th level, when you cast a spell from your Poltergeist Spells feature that requires concentration, you can expend sorcery points equal to the spell's level in order for it to not require concentration. The spell ends if you dismiss it as an action or use this feature again.
+
+[:classes/sorcerer/poltergeist-soul:]
