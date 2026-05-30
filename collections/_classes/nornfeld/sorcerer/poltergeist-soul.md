@@ -6,9 +6,9 @@ permalink: /classes/sorcerer/poltergeist-soul/
 excerpt: "You are a ghostly creature, your innate magic coming from the ethereal realm."
 subclass: sorcerer
 alt_version: poltergeist-sorcery
-# header:
-#   overlay_image: /assets/images/classes/sorcerer/header.png
-#   teaser: /assets/images/classes/sorcerer/header.jpg
+header:
+  overlay_image: /assets/images/classes/sorcerer/poltergeist-soul/header.png
+  teaser: /assets/images/classes/sorcerer/poltergeist-soul/header.jpg
 ---
 You are a ghostly creature, your innate magic coming from the ethereal plane. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.
 
@@ -44,7 +44,7 @@ In addition, consult the Poltergeist Manifestations table and choose or randomly
 Starting at 1st level, your sorcerer cantrips deal additional damage equal to your Charisma modifier.
 
 # Animate Object
-Starting at 6th level, you can use your action to animate one Large or smaller object for 1 minute or until you lose concentration, as per the [[Animate Objects]] spell.
+Starting at 6th level, you can use your action to animate one Large or smaller object for 1 minute or until you lose concentration (as if you were concentrating on a spell), as per the [[Animate Objects]] spell.
 
 Once you use this feature, you can't use it again until you finish a long rest or expend 2 sorcery points to do so (no action required).
 
