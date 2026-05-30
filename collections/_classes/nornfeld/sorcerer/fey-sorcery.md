@@ -50,6 +50,8 @@ You gain new abilities, detailed below.
 
 If you are within range of the illusion, you can use your bonus action to cause it to move to another spot within range. As the image changes location, you can alter its appearance so that its movements appear natural. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
 
+The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits the duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects.
+
 Physical interaction with the image reveals it to be an illusion, for things can pass through it. A creature that takes an action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against a DC equal to 8 + your proficiency modifier + your Charisma modifier. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
 
 # Level 6: Agent of Chaos
