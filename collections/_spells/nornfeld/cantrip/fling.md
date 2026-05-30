@@ -16,7 +16,7 @@ area: "60 ft"
 shape: "Line"
 comp:
   - S
-attack: "Ranged"
+attack: "DEX Save"
 effect: "Bludgeoning"
 description: |
   Choose one object weighing 5 pounds or less within range that isn't being worn or carried. The object flies in a straight line up to 60 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. You can send it towards one of your free hands and catch it.
