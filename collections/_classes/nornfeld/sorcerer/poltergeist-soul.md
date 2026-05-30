@@ -5,6 +5,7 @@ index:
 permalink: /classes/sorcerer/poltergeist-soul/
 excerpt: "You are a ghostly creature, your innate magic coming from the ethereal realm."
 subclass: sorcerer
+alt_version: poltergeist-sorcery
 # header:
 #   overlay_image: /assets/images/classes/sorcerer/header.png
 #   teaser: /assets/images/classes/sorcerer/header.jpg
