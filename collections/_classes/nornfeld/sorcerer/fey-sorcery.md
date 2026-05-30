@@ -66,7 +66,7 @@ You learn new ways to enhance your Illusory Duplicate ability.
 # Level 14: Distant Projection
 You gain additional abilities, detailed below.
 
-**Misleading Maneuver.** When you create an illusory duplicate in your space, you can turn invisible at the same time for the duration or until you lose concentration (as if you were concentrating on a spell). If the duplicate is destroyed, your invisibility ends early. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it (no action required).
+**Misleading Maneuver.** When you create an illusory duplicate in your space, you can turn invisible at the same time for the duration or until you attack, cast a spell, or lose concentration (as if you were concentrating on a spell). If the duplicate is destroyed, your invisibility ends early. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it (no action required).
 
 **Project Image.** You always have [[Project Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Long Rest unless you expend 7 Sorcery Points to restore your use of it (no action required).
 
