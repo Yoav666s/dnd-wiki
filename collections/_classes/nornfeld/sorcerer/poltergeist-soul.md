@@ -44,7 +44,7 @@ In addition, consult the Poltergeist Manifestations table and choose or randomly
 Starting at 1st level, your sorcerer cantrips deal additional damage equal to your Charisma modifier.
 
 # Animate Object
-Starting at 6th level, you can use your action to animate one Medium or smaller object for 1 minute or until you lose concentration (as if you were concentrating on a spell), as per the [[Animate Objects]] spell.
+Starting at 6th level, you can use your action to animate one Medium or smaller object for 1 minute, as per the [[Animate Objects]] spell. This effect ends early if you use this feature again.
 
 When you reach 14th level, you can animate a Large or smaller object in this way.
 
