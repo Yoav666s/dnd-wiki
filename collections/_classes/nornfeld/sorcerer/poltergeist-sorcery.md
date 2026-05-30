@@ -41,7 +41,9 @@ In addition, consult the Poltergeist Manifestations table and choose or randomly
 | 6 | Objects around you rattle or tilt without being touched. |
 
 # Level 3: Animate Object
-You can use your action to animate one Large or smaller object for 1 minute or until you lose concentration (as if you were concentrating on a spell), as per the [[Animate Objects]] spell.
+You can use your action to animate one Small or Tiny object for 1 minute or until you lose concentration (as if you were concentrating on a spell), as per the [[Animate Objects]] spell.
+
+When you reach level 6 in this class, you can animate a Medium or smaller object in this way. When you reach level 14 in this class, you can animate a Large or smaller object in this way.
 
 Once you use this feature, you can't use it again until you finish a long rest or expend 2 sorcery points to restore your use of it (no action required).
 
@@ -51,9 +53,9 @@ Your sorcerer cantrips deal additional damage equal to your Charisma modifier.
 # Level 14: Unseen Spectre 
 Some of your Poltergeist spells gain the following benefits.
 
-**Invisibility.** You can cast [[Invisibility]] on yourself without expending a spell slot. It doesn't end early when you cast or deal damage with spells from your Poltergeist Spells feature.
+**Invisibility.** You can cast [[Invisibility]] on yourself without expending a spell slot. When you cast a spell from your Poltergeist Spells feature, you can expend a sorcery point to maintain this invisibility.
 
-**Levitate.** You can cast [[Levitate]] without expending a spell slot. It doesn't require your concentration, but it ends on a target if you cast it on a different one.
+**Levitate.** You can cast [[Levitate]] on yourself, an object, or a willing creature without expending a spell slot. It doesn't require your concentration, but it ends on a target if you cast it on a different one.
 
 # Level 18: Effortless Haunting 
-When you cast a spell from your Poltergeist Spells feature that requires concentration, you can expend sorcery points equal to half the spell's level (rounded up) in order for it to not require concentration. The spell ends if you dismiss it as an action or use this feature again.
+When you cast a spell from your Poltergeist Spells feature that requires concentration, you can expend sorcery points equal to the spell's level in order for it to not require concentration. You can dismiss the spell as an action, and it ends early if you use this feature again.
