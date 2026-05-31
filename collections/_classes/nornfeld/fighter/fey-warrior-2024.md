@@ -32,18 +32,18 @@ Some features in this subclass require you to use Fey Energy Dice. You cannot us
 
 **Augmented Strike.** You can imbue your strike with fey magic. Once per turn, immediately after you hit a creature with an weapon attack, you can expend  a Fey Energy Die, rolling it and dealing additional Psychic damage equal to the number rolled plus your Charisma modifier.
 
-**Feywild Slip.** You can step in and out of the Feywild. Immediately before you make an attack, you can expend a Fey Energy Die to magically teleport to an unoccupied space you can see, a distance equal up to 5 times your proficiency modifier.
+**Feywild Slip.** You can step in and out of the Feywild. Immediately before you make an attack (or as a Bonus Action), you can expend a Fey Energy Die to magically teleport to an unoccupied space you can see, a distance equal up to 5 times your proficiency modifier.
 
 **Silver Tongue.** You know the Friends cantrip, and your spellcasting ability for it is Charisma. When you cast it, you can expend a Fey Energy Die, rolling it and subtracting the number rolled from the target's saving throw.
 
 # Level 7: Fey Adept
-You've found new ways to utilize your Fey Energy, detailed below.
+You've found new ways to use your Fey Energy, detailed below.
 
 **Friendly Facade.** When you successfully charm a creature, the creature regards you as a friendly acquaintance.
 
 **Frightening Strike.** When you use your Augmented Strike, you can force the target to make a Wisdom saving throw (DC equal to 8 + your Charisma modifier and proficiency bonus). On failure, the target is Frightened of you until the start of your next turn.
 
-**Vanish.** As a bonus action, you can expend a Fey Energy Die, rolling it and magically giving yourself the invisible condition for a number of rounds equal to the number rolled. Your invisibility ends early if you attack, cast a spell, or lose concentration (as if you were concentrating on a spell).
+**Vanish.** As a bonus action, you can expend a Fey Energy Die, rolling it and magically giving yourself the invisible condition until this start of your next turn, or until you attack or cast a spell.
 
 # Level 10: Fey Aptitude
 When you roll a number lower than your Charisma modifier on a Fey Energy Die, you can use your Charisma modifier instead.
