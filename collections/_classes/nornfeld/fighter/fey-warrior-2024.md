@@ -48,8 +48,6 @@ You've found new ways to use your Fey Energy, detailed below.
 # Level 10: Fey Aptitude
 When you roll a number lower than your Charisma modifier on a Fey Energy Die, you can use your Charisma modifier instead.
 
-You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest.
-
 # Level 15: Mischief and Fright
 You've found new ways to use your Fey Energy, detailed below.
 
