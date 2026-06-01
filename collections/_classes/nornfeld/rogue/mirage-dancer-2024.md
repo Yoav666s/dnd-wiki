@@ -28,7 +28,7 @@ As a Bonus Action, you can give yourself the invisible condition until the start
 
 The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits the duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. Your invisibility ends early if the duplicate is destroyed.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Short or Long Rest.
+You can use this feature a number of times equal to your Dexterity modifier, and you regain all expended uses when you finish a Short or Long Rest.
 
 # Level 9: Artful Maneuvers
 You gain the following Cunning Strike options.
