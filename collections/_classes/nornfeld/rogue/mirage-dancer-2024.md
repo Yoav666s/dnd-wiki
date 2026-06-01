@@ -19,7 +19,7 @@ Your training with the curved blade grants you the following benefits.
 
 **Crescent Pace.** You gain an additional way to use your Sneak Attack; you don't need advantage on the attack roll if you spend at least 10 feet of movement while staying within 5 feet of the target before making the attack and you don't have disadvantage on the attack roll.
 
-**Performative Dance.** You have proficiency in the Performance skill.
+**Performative Dance.** You have proficiency in the Performance skill. If you're already proficient in it, you gain expertise.
 
 **Scimitar Mastery.** You can use the mastery property of Scimitars. Additionally, when you make an attack with a Scimitar that isn't a result of the light property, you can treat it as though the Scimitar has the Vex property for that attack.
 
