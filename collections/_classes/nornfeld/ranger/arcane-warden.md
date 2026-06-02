@@ -22,11 +22,11 @@ When you reach a Ranger level specified in the Arcane Warden spells table, you t
 
 | Ranger Level | Spell |
 | :---: | :---: |
-| 3rd | Shield |
-| 5th | Misty Step |
-| 9th | Counterspell |
-| 13th | Polymorph |
-| 17th | Arcane Hand |
+| 3rd | [[!Shield]] |
+| 5th | [[!Misty Step]] |
+| 9th | [[!Counterspell]] |
+| 13th | [[!Polymorph]] |
+| 17th | [[!Arcane Hand]] |
 
 # Spectral Strike
 Starting at 3rd level, you can imbue your strikes with arcane energy. Once per turn, when you hit a creature with an attack, you deal an additional 1d6 Force damage.
