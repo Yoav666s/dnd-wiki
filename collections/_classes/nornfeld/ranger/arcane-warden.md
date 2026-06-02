@@ -11,7 +11,7 @@ alt_version: arcane-warden
 #   overlay_image: /assets/images/classes/ranger/header.png
 #   teaser: /assets/images/classes/ranger/header.jpg
 ---
-Some rangers seek to master weapons to better protect civilization from the terrors of the wilderness. Members of the Hunter Conclave learn specialized fighting techniques for use against the most dire threats, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
+Some rangers seek to master weapons to better protect their allies, but others turn to the arcane. Arcane Wardens learn specialized spells and techniques for use against the most dangerous enemies.
 
 # Level 3: Arcane Student
 You gain the following benefits.
