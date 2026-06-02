@@ -2,8 +2,8 @@
 title: "Arcane Warden"
 index: 
   - arcane-warden-2024
-permalink: /classes/ranger/arcane-warden/
-excerpt: ""
+permalink: /classes/ranger/arcane-warden-2024/
+excerpt: "Some rangers seek to master weapons to better protect their allies, but others turn to the arcane."
 subclass: ranger
 v_2024: true
 alt_version: arcane-warden
