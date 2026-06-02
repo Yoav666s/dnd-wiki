@@ -15,18 +15,18 @@ Some rangers seek to master weapons to better protect their allies, but others t
 # Arcane Student
 Starting at 3rd level, you gain a bonus to Intelligence checks equal to your Wisdom modifier (minimum of +1). Additionally, you learn two cantrips of your choice from the Wizard spell list. They count as Ranger spells for you. 
 
-# Arcane Warden Spells
+# Arcane Warden Magic
 When you reach a Ranger level specified in the Arcane Warden spells table, you thereafter always have the listed spells prepared.
 
 ## Arcane Warden Spells 
 
 | Ranger Level | Spell |
 | :---: | :---: |
-| 3 | Shield |
-| 5 | Misty Step |
-| 9 | Counterspell |
-| 13 | Polymorph |
-| 17 | Arcane Hand |
+| 3rd | Shield |
+| 5th | Misty Step |
+| 9th | Counterspell |
+| 13th | Polymorph |
+| 17th | Arcane Hand |
 
 # Spectral Strike
 Starting at 3rd level, you can imbue your strikes with arcane energy. Once per turn, when you hit a creature with an attack, you deal an additional 1d6 Force damage.
