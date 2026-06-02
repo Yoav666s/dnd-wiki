@@ -1,12 +1,11 @@
 ---
 title: "Arcane Warden"
 index: 
-  - arcane-warden-2024
+  - arcane-warden
 permalink: /classes/ranger/arcane-warden/
 excerpt: ""
 subclass: ranger
-v_2024: true
-alt_version: arcane-warden
+alt_version: arcane-warden-2024
 # header:
 #   overlay_image: /assets/images/classes/ranger/header.png
 #   teaser: /assets/images/classes/ranger/header.jpg
