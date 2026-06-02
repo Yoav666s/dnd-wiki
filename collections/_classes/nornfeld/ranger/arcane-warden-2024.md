@@ -16,7 +16,7 @@ Some rangers seek to master weapons to better protect their allies, but others t
 # Level 3: Arcane Student
 You gain the following benefits.
 
-**Arcane Scholar.** You gain a bonus to Intelligence checks equal to your Wisdom modifier (minimum of +1)
+**Arcane Scholar.** You gain a bonus to Intelligence checks equal to your Wisdom modifier (minimum of +1).
 
 **Cantrips.** You learn two cantrips of your choice from the Wizard spell list. They count as Ranger spells for you. 
 
