@@ -44,3 +44,5 @@ You can expend two uses of Favored Enemy to cast [[Haste]] on yourself. When cas
 
 # Level 15: Relentless Haste
 Taking damage can't break your concentration on [[Haste]].
+
+[:classes/ranger/harrier/2024:]
