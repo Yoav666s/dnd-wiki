@@ -16,7 +16,7 @@ Some rangers seek to master weapons to better protect their allies, but others t
 Starting at 3rd level, you gain a bonus to Intelligence checks equal to your Wisdom modifier (minimum of +1). Additionally, you learn two cantrips of your choice from the Wizard spell list. They count as Ranger spells for you. 
 
 # Arcane Warden Magic
-When you reach a Ranger level specified in the Arcane Warden spells table, you thereafter always have the listed spells prepared.
+Also at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Arcane Warden Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
 ## Arcane Warden Spells 
 
