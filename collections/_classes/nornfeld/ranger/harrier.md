@@ -34,10 +34,10 @@ Also at 3rd level, you learn an additional spell when you reach certain levels i
 Starting at 3rd level, when you spend at least 10 feet of movement without retracing your steps immediately before making a melee attack, you deal an additional 1d4 damage of the attack's type. The extra damage increases to 1d6 when you reach Ranger level 11.
 
 # Evasion
-Starting at 7th level, when you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the Incapacitated condition.
+Starting at 7th level, When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 # Adrenaline Rush
-Starting at 11th level, you can expend two uses of Favored Enemy to cast [[Haste]] on yourself. When cast this way, you don't suffer a wave of lethargy when it ends on you.
+Starting at 11th level, you can cast [[Haste]] on yourself without expending a spell slot. You can do so twice, and you regain all expended uses when you finish a long rest. When cast this way, you don't suffer a wave of lethargy when it ends.
 
 # Relentless Haste
 Starting at 11th level, taking damage can't break your concentration on [[Haste]].
