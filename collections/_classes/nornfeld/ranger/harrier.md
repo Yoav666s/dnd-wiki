@@ -12,14 +12,12 @@ header:
 ---
 Harriers dart across the battlefield, weaving between enemies and circling their foes. Their magic enhances their unrelenting speed and makes them difficult targets to pin down, while their continuous movement builds up momentum for deadlier strikes.
 
-# Level 3: Built for Speed
-You gain the following benefits.
+# Built for Speed
+Starting at 3rd level, your walking speed is increased by 5 feet. Your walking speed increases by an additional 5 feet when your reach 7th level, 11th level, and 15th level.
 
-**Speed Increase.** Your walking speed is increased by 5 feet. Your walking speed increases by an additional 5 feet when your reach level 7, level 11, and level 15.
+Additionally, when you cast [[Expeditious Retreat]], it doesn't require your concentration.
 
-**Expeditious Runner.** When you cast [[Expeditious Retreat]], it doesn't require your concentration.
-
-# Level 3: Harrier Spells
+# Harrier Spells
 When you reach a Ranger level specified in the Harrier spells table, you thereafter always have the listed spells prepared.
 
 ## Harrier Spells 
