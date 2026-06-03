@@ -43,3 +43,5 @@ Starting at 11th level, you can cast [[Haste]] on yourself without expending a s
 
 # Relentless Haste
 Starting at 11th level, taking damage can't break your concentration on [[Haste]].
+
+[:classes/ranger/harrier:]
