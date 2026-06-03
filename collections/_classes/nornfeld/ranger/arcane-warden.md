@@ -6,9 +6,9 @@ permalink: /classes/ranger/arcane-warden/
 excerpt: "Some rangers seek to master weapons to better protect their allies, but others turn to the arcane."
 subclass: ranger
 alt_version: arcane-warden-2024
-# header:
-#   overlay_image: /assets/images/classes/ranger/header.png
-#   teaser: /assets/images/classes/ranger/header.jpg
+header:
+  overlay_image: /assets/images/classes/ranger/arcane-warden/header.png
+  teaser: /assets/images/classes/ranger/arcane-warden/header.jpg
 ---
 Some rangers seek to master weapons to better protect their allies, but others turn to the arcane. Arcane Wardens learn specialized spells and techniques for use against the most dangerous enemies.
 
@@ -43,3 +43,5 @@ Starting at 11th level, when you take the attack action, you can forgo one of yo
 Starting at 15th level, you can cast [[Shield]] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long Rest.
 
 You can use your reaction to cast [[Shield]] on another creature you can see within 30 feet when it gets hit with an attack.
+
+[:classes/ranger/arcane-warden:]
