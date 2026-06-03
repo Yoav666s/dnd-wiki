@@ -31,7 +31,9 @@ Also at 3rd level, you learn an additional spell when you reach certain levels i
 | 17 | Steel Wind Strike |
 
 # Swift Strikes
-Starting at 3rd level, when you spend at least 10 feet of movement without retracing your steps immediately before making a melee attack, you deal an additional 1d4 damage of the attack's type. The extra damage increases to 1d6 when you reach Ranger level 11.
+Starting at 3rd level, when you spend at least 10 feet of movement without retracing your steps immediately before making a melee attack, you deal an additional 1d4 damage of the attack's type.
+
+The extra damage increases to 1d6 when you reach 11th level in this class.
 
 # Evasion
 Starting at 7th level, When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
