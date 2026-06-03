@@ -24,11 +24,11 @@ Also at 3rd level, you learn an additional spell when you reach certain levels i
 
 | Ranger Level | Spell |
 | :---: | :---: |
-| 3 | [[!Expeditious Retreat]] |
-| 5 | [[!Blur]] |
-| 9 | [[!Haste]] |
-| 13 | [[!Freedom of Movement]] |
-| 17 | Steel Wind Strike |
+| 3rd | [[!Expeditious Retreat]] |
+| 5th | [[!Blur]] |
+| 9th | [[!Haste]] |
+| 13th | [[!Freedom of Movement]] |
+| 17th | Steel Wind Strike |
 
 # Swift Strikes
 Starting at 3rd level, when you spend at least 10 feet of movement without retracing your steps immediately before making a melee attack, you deal an additional 1d4 damage of the attack's type.
