@@ -28,8 +28,8 @@ Far from the bustle of cities and towns, past the hedges that shelter the most d
 | 11th  | +4 | [[Ranger Conclave]] Feature | 6 | 4 | 3 | 3 | — | — |
 | 12th  | +4 | [[Ability Score Improvement]] | 6 | 4 | 3 | 3 | — | — |
 | 13th  | +5 | — | 7 | 4 | 3 | 3 | 1 | — |
-| 14th  | +5 | [[Favored Enemy]] Improvement, [[Natural Explorer]] Improvement | 7 | 4 | 3 | 3 | 1 | — |
-| 15th  | +5 | [[Ranger Conclave]] Feature, [[Vanish]] | 7 | 4 | 3 | 3 | 2 | — |
+| 14th  | +5 | [[Favored Enemy]] Improvement, [[Vanish]] | 7 | 4 | 3 | 3 | 1 | — |
+| 15th  | +5 | [[Ranger Conclave]] Feature | 7 | 4 | 3 | 3 | 2 | — |
 | 16th  | +5 | [[Ability Score Improvement]] | 8 | 4 | 3 | 3 | 2 | — |
 | 17th  | +6 | — | 8 | 4 | 3 | 3 | 3 | 1 |
 | 18th  | +6 | [[Feral Senses]] | 8 | 4 | 3 | 3 | 3 | 1 |
