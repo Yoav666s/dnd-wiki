@@ -3,7 +3,7 @@ title: "Harrier"
 index: 
   - harrier-2024
 permalink: /classes/ranger/harrier-2024/
-excerpt: ""
+excerpt: "Harriers dart across the battlefield, weaving between enemies and circling their foes."
 subclass: ranger
 v_2024: true
 alt_version: harrier
@@ -11,6 +11,7 @@ header:
   overlay_image: /assets/images/classes/ranger/harrier/2024/header.png
   teaser: /assets/images/classes/ranger/harrier/2024/header.jpg
 ---
+Harriers dart across the battlefield, weaving between enemies and circling their foes. Their magic enhances their unrelenting speed and makes them difficult targets to pin down, while their continuous movement builds up momentum for deadlier strikes.
 
 # Level 3: Built for Speed
 You gain the following benefits.
@@ -33,7 +34,7 @@ When you reach a Ranger level specified in the Harrier spells table, you thereaf
 | 17 | Steel Wind Strike |
 
 # Level 3: Swift Strikes
-When you spend at least 10 feet of movement immediately before making a melee attack, you deal an additional 1d4 damage of the attack's type. The extra damage increases to 1d6 when you reach Ranger level 11.
+When you spend at least 10 feet of movement without retracing your steps immediately before making a melee attack, you deal an additional 1d4 damage of the attack's type. The extra damage increases to 1d6 when you reach Ranger level 11.
 
 # Level 7: Evasion
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the Incapacitated condition.
