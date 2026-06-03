@@ -17,8 +17,8 @@ Starting at 3rd level, your walking speed is increased by 5 feet. Your walking s
 
 Additionally, when you cast [[Expeditious Retreat]], it doesn't require your concentration.
 
-# Harrier Spells
-When you reach a Ranger level specified in the Harrier spells table, you thereafter always have the listed spells prepared.
+# Harrier Magic
+Also at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Harrier Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
 ## Harrier Spells 
 
@@ -30,14 +30,14 @@ When you reach a Ranger level specified in the Harrier spells table, you thereaf
 | 13 | [[!Freedom of Movement]] |
 | 17 | Steel Wind Strike |
 
-# Level 3: Swift Strikes
-When you spend at least 10 feet of movement without retracing your steps immediately before making a melee attack, you deal an additional 1d4 damage of the attack's type. The extra damage increases to 1d6 when you reach Ranger level 11.
+# Swift Strikes
+Starting at 3rd level, when you spend at least 10 feet of movement without retracing your steps immediately before making a melee attack, you deal an additional 1d4 damage of the attack's type. The extra damage increases to 1d6 when you reach Ranger level 11.
 
-# Level 7: Evasion
-When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the Incapacitated condition.
+# Evasion
+Starting at 7th level, when you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the Incapacitated condition.
 
-# Level 11: Adrenaline Rush
-You can expend two uses of Favored Enemy to cast [[Haste]] on yourself. When cast this way, you don't suffer a wave of lethargy when it ends on you.
+# Adrenaline Rush
+Starting at 11th level, you can expend two uses of Favored Enemy to cast [[Haste]] on yourself. When cast this way, you don't suffer a wave of lethargy when it ends on you.
 
-# Level 15: Relentless Haste
-Taking damage can't break your concentration on [[Haste]].
+# Relentless Haste
+Starting at 11th level, taking damage can't break your concentration on [[Haste]].
