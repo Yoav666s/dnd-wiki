@@ -125,6 +125,8 @@ At 3rd level, you choose to emulate the ideals and training of a ranger conclave
 
 | Conclave    | Source      |
 | :---------- | :---------- |
+| [[!Arcane Warden]] | Untold Legends of Nornfeld |
+| [[!Harrier]] | Untold Legends of Nornfeld |
 | [[!Hunter]] | Basic Rules |
 
 ## Ability Score Improvement
