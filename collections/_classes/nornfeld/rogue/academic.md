@@ -28,7 +28,7 @@ You can use this feature a number of times equal to your Intelligence modifier, 
 Also starting at 3rd level, you can deduce when things are going to go sideways. You have a bonus to your initiative rolls equal to your Intelligence modifier.
 
 # Subtle Sabotage
-Starting at 9th level, when a creature you can see within 30 feet of you makes an ability check, attack roll, or saving throw, you can use your reaction to roll a Cunning Intellect die and subtract the number rolled from that roll.
+Starting at 9th level, when a creature you can see within 30 feet of you makes an ability check or an attack roll, you can use your reaction to expend a Cunning Intellect die, rolling it and subtracting the number rolled from that roll. You must do so before the d20 is rolled.
 
 # Utter Brilliance
 Starting at 13th level, when the number rolled on a Cunning Intellect die is lower than your Intelligence modifier, you can use your Intelligence modifier instead.
