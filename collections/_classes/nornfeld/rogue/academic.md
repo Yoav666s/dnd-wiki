@@ -18,7 +18,9 @@ Beginning at 3rd level when you choose this archetype, you learn two languages o
 When you reach 9th level in this class, you gain expertise in the chosen skills.
 
 # Cunning Intellect
-Starting at 3rd level, when you make an ability check, an attack roll, or a saving throw, you can choose to roll a Cunning Intellect die, a d6, and add the number rolled to the total of that roll. You can decide to use a Cunning Intellect die after you roll the d20, but before the DM says whether it's a success or a failure. If the roll still fails, the die is not expended.
+Starting at 3rd level, when you make an ability check that lets you add your proficiency bonus, you can choose to roll a Cunning Intellect die, a d6, and add the number rolled to the total of that roll. You can decide to use a Cunning Intellect die after you roll the d20, but before the DM says whether it's a success or a failure. If the roll still fails, the die is not expended.
+
+When you reach 9th level in this class, you can use your Cunning Intellect die on attack rolls, and when you reach 13th level in this class you can use it on saving throws.
 
 Your Cunning Intellect die changes when you reach certain levels in this class. The die becomes a d8 at 9th level, a d10 at 13th level, and a d12 at 17th level.
 
