@@ -13,7 +13,7 @@ header:
 Harriers dart across the battlefield, weaving between enemies and circling their foes. Their magic enhances their unrelenting speed and makes them difficult targets to pin down, while their continuous movement builds up momentum for deadlier strikes.
 
 # Built for Speed
-Starting at 3rd level, your walking speed is increased by 5 feet. Your walking speed increases by an additional 5 feet when your reach 7th level, 11th level, and 15th level in this class.
+Starting at 3rd level, your walking speed is increased by 5 feet. Your walking speed increases by an additional 5 feet when your reach 11th level in this class.
 
 Additionally, when you cast [[Expeditious Retreat]], it doesn't require your concentration.
 
