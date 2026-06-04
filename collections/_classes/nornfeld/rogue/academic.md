@@ -13,7 +13,9 @@ source: "Survivor's Guide to Morgenfell"
 The Academic is both an experienced rogue and an intellectual, blending wit and talent into a deadly combination. They learn and apply combative techniques, as well as various fields of study. They rely on their sharp cunning no less than their skills, and their brilliant maneuvers can turn the tide in battle.
 
 # Well Studied
-Beginning at 3rd level when you choose this archetype, you learn two languages of your choice, and you gain proficiency in one of the following skills: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion. You choose a second skill to gain expertise in when you reach 9th level. 
+Beginning at 3rd level when you choose this archetype, you learn two languages of your choice, and you gain proficiency in two of the following skills: Arcana, History, Investigation, Nature, or Religion.
+
+When you reach 9th level in this class, you gain expertise in the chosen skills.
 
 # Cunning Intellect
 Starting at 3rd level, when you make an ability check, an attack roll, or a saving throw, you can choose to roll a Cunning Intellect die, a d6, and add the number rolled to the total of that roll. You can decide to use a Cunning Intellect die after you roll the d20, but before the DM says whether it's a success or a failure. Of the roll still fails, the die is not expended.
