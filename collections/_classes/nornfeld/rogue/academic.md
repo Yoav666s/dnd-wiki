@@ -14,7 +14,7 @@ source: "Survivor's Guide to Morgenfell"
 The Academic is both an experienced rogue and an intellectual, blending wit and talent into a deadly combination. They learn and apply combative techniques, as well as various fields of study. They rely on their sharp cunning no less than their skills, and their brilliant maneuvers can turn the tide in battle.
 
 # Well Studied
-Beginning at 3rd level when you choose this archetype, you learn two languages of your choice, and you gain proficiency in two of the following skills: Arcana, History, Investigation, Nature, or Religion.
+Beginning at 3rd level when you choose this archetype, you learn two languages of your choice, and you gain proficiency in two of the following skills: Arcana, History, Nature, or Religion.
 
 When you reach 9th level in this class, you gain expertise in the chosen skills.
 
