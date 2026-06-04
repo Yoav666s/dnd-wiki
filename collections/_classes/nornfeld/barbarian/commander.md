@@ -16,9 +16,9 @@ Commanders are fierce and courageous barbarians that support their team in battl
 # Inspiring Command
 Starting at 3rd level, you can inspire your allies through stirring words. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Inspiring Command die, a d6. Once within the next minute, that ally can roll the die and add the number rolled to an attack or damage roll. In the case of an attack roll, this can be done after the d20 is rolled but before the DM says whether the attack hits or misses.
 
-You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest. Starting at 6th level, you regain all expended uses when you finish a short or long rest.
-
 Your Inspiring Command die changes when you reach certain levels in this class. The die becomes a d8 at 6th level, a d10 at 10th level, and a d12 at 14th level.
+
+You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest. Starting at 6th level, you regain all expended uses when you finish a short or long rest.
 
 # Headstrong Approach
 Starting at 3rd level, you add your Charisma modifier to your initiative rolls.
