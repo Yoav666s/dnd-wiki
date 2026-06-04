@@ -34,7 +34,7 @@ When you reach Rogue level 9, you gain expertise in the chosen skills.
 # Level 9: Subtle Sabotage
 You gain the following Cunning Strike option.
 
-**Sabotage (Cost: 2d6).** The target gains a penalty to attack rolls equal to your Intelligence modifier (minimum of -1) until the start of your next turn. 
+**Sabotage (Cost: 1d6).** The target must succeed an Intelligence saving throw or gain a penalty to attack rolls equal to your Intelligence modifier (minimum of -1) until the start of your next turn. 
 
 # Level 13: Utter Brilliance
 When the number rolled on a Cunning Intellect die is lower than your Intelligence modifier, you can use your Intelligence modifier instead.
