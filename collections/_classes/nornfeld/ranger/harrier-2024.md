@@ -16,7 +16,7 @@ Harriers dart across the battlefield, weaving between enemies and circling their
 # Level 3: Built for Speed
 You gain the following benefits.
 
-**Speed Increase.** Your walking speed is increased by 5 feet. Your walking speed increases by an additional 5 feet when your reach level 7, level 11, and level 15.
+**Speed Increase.** Your walking speed is increased by 5 feet. Your walking speed increases by an additional 5 feet when your reach Ranger level 11.
 
 **Expeditious Runner.** When you cast [[Expeditious Retreat]], it doesn't require your concentration.
 
