@@ -18,9 +18,9 @@ Beginning at 3rd level when you choose this archetype, you learn two languages o
 # Cunning Intellect
 Starting at 3rd level, when you make an ability check, an attack roll, or a saving throw, you can choose to roll a Cunning Intellect die, a d6, and add the number rolled to the total of that roll. You can decide to use a Cunning Intellect die after you roll the d20, but before the DM says whether it's a success or a failure.
 
-You can use this feature a number of times equal to your Intelligence modifier, and you regain all expended uses when you finish a long rest. when you reach 9th level, you regain all expended uses when you finish a short or long rest.
-
 Your Cunning Intellect die changes when you reach certain levels in this class. The die becomes a d8 at 9th level, a d10 at 13th level, and a d12 at 17th level.
+
+You can use this feature a number of times equal to your Intelligence modifier, and you regain all expended uses when you finish a long rest. when you reach 9th level, you regain all expended uses when you finish a short or long rest.
 
 # Risk Estimation 
 Also starting at 3rd level, you can deduce when things are going to go sideways. You have a bonus to your initiative rolls equal to your Intelligence modifier.
