@@ -5,6 +5,7 @@ index:
 permalink: /classes/rogue/academic/
 excerpt: "The Academic is both an experienced rogue and an intellectual, blending wit and talent into a deadly combination."
 subclass: rogue
+alt_version: academic-2024
 header:
   overlay_image: /assets/images/classes/rogue/academic/header.png
   teaser: /assets/images/classes/rogue/academic/header.jpg
