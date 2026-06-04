@@ -21,7 +21,7 @@ Starting at 3rd level, when you make a ranged attack with a firearm, you can use
 # Sharp Instincts
 Starting at 9th level, once per turn when you make a ranged attack, you can make a Wisdom (Perception) check against the target's AC. If you succeed, you have advantage on the attack.
 
-You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a short or long rest. The use is not expended when you fail the Wisdom (Perception) check.
+You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a short or long rest. A use is not expended when you fail the Wisdom (Perception) check.
 
 # Astute Aim
 Starting at 13th level, once per turn when you make a ranged attack, you can add your Perception modifier to the attack roll. You can use this feature after you roll for the attack but before the DM declares whether it hits or misses.
