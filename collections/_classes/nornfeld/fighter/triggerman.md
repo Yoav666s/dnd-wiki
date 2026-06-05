@@ -1,33 +1,37 @@
 ---
-title: "Triggerman"
+title: "Deadeye"
 index:
-  - triggerman
-permalink: /classes/fighter/triggerman/
+  - deadeye
+permalink: /classes/fighter/deadeye/
 excerpt: "Deadly calm under pressure, Triggermen are specialists who treat the battlefield as a firing range."
 subclass: fighter
 header:
-  overlay_image: /assets/images/classes/fighter/triggerman/header.png
-  teaser: /assets/images/classes/fighter/triggerman/header.jpg
+  overlay_image: /assets/images/classes/fighter/deadeye/header.png
+  teaser: /assets/images/classes/fighter/deadeye/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
 Deadly calm under pressure, Triggermen are specialists who treat the battlefield as a firing range. Their reflexes keep them one step ahead of danger, and their unmatched skill with firearms ensures that every shot counts. Quick to draw and quicker to fire, a Triggerman makes closing the distance a deadly mistake.
 
-# Firearm Specialist
-Beginning at 3rd level, you have proficiency with firearms, you ignore the Loading property of firearms, and being within 5 feet of a hostile creature doesn't impose disadvantage on ranged attack rolls with a firearm.
+# Deadeye Precision
+Beginning at 3rd level, you gain proficiency with firearms and you ignore the Loading property of firearms.
 
-# Ready for Action
-Also starting at 3rd level, you have advantage on initiative rolls.
+Additionally, when you make a ranged attack with a firearm, you can add your Wisdom modifier to the attack roll. You can do so after you roll the d20, but before the DM says whether the attack hits or misses.
 
-# Aim Correction
-Starting at 7th level, once per turn, when you miss an enemy with a ranged attack using a firearm, you can give yourself advantage on your next ranged attack roll against that creature until the end of your turn.
+You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a short or long rest.
 
-# Quick Reflexes
-Starting at 10th level, when a creature enters within 15 feet of you, you can use your reaction to make ranged attack with a firearm against it.
+# Sharp Vision
+Also at third level, you gain proficiency in the Perception skill. If you already proficient in it, you gain expertise. Additionally, you gain a bonus to initiative rolls equal to your Wisdom modifier (minimum of +1).
 
-# Deadly Precision
-Starting at 15th level, when you have advantage on a ranged attack with a firearm, you can treat a roll of 18-20 as a critical hit.
+# Eye for Detail
+Starting at 7th level, when you fail a Wisdom (Perception) check, you can expend one use of Deadeye Precision to reroll the d20, and you must use the new roll.
 
-# Hip Fire
-Starting at 18th level, once per turn when you make a ranged attack with a firearm, you can immediately make an extra ranged attack with the same weapon at disadvantage.
+# Aim Correction 
+Starting at 10th level, once per turn, when you miss an enemy with a ranged attack using a firearm, you can give yourself advantage on your next ranged attack roll against that creature before the end of your next turn.
+
+# Muscle Memory 
+Starting at 15th level, when you roll for initiative and don't have any uses of Deadeye Precision, you regain one use.
+
+# Deadly Aim
+Starting at 18th level, you deal additional damage with firearms equal to your Wisdom modifier.
 
 [:classes/fighter/triggerman:]
