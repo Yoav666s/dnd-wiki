@@ -3,14 +3,14 @@ title: "Deadeye"
 index:
   - deadeye
 permalink: /classes/fighter/deadeye/
-excerpt: "Deadly calm under pressure, Triggermen are specialists who treat the battlefield as a firing range."
+excerpt: "The Deadeye is a master gunslinger who wields firearms like it's an art."
 subclass: fighter
 header:
   overlay_image: /assets/images/classes/fighter/deadeye/header.png
   teaser: /assets/images/classes/fighter/deadeye/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
-Deadly calm under pressure, Triggermen are specialists who treat the battlefield as a firing range. Their reflexes keep them one step ahead of danger, and their unmatched skill with firearms ensures that every shot counts. Quick to draw and quicker to fire, a Triggerman makes closing the distance a deadly mistake.
+The Deadeye is a master gunslinger who wields firearms like it's an art. Their aim is unmatched, and their reflexes are quick.
 
 # Deadeye Precision
 Beginning at 3rd level, you gain proficiency with firearms and you ignore the Loading property of firearms.
