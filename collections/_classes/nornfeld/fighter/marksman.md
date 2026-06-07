@@ -5,6 +5,7 @@ index:
 permalink: /classes/fighter/marksman/
 excerpt: "The Marksman is a master gunslinger who wields firearms like it's an art."
 subclass: fighter
+alt_version: marksman-2024
 header:
   overlay_image: /assets/images/classes/fighter/marksman/header.png
   teaser: /assets/images/classes/fighter/marksman/header.jpg
