@@ -1,16 +1,16 @@
 ---
-title: "Deadeye"
+title: "Marksman"
 index:
-  - deadeye
-permalink: /classes/fighter/deadeye/
-excerpt: "The Deadeye is a master gunslinger who wields firearms like it's an art."
+  - marksman
+permalink: /classes/fighter/marksman/
+excerpt: "The Marksman is a master gunslinger who wields firearms like it's an art."
 subclass: fighter
 header:
-  overlay_image: /assets/images/classes/fighter/deadeye/header.png
-  teaser: /assets/images/classes/fighter/deadeye/header.jpg
+  overlay_image: /assets/images/classes/fighter/marksman/header.png
+  teaser: /assets/images/classes/fighter/marksman/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
-The Deadeye is a master gunslinger who wields firearms like it's an art. Their aim is unmatched, and their reflexes are quick.
+The Marksman is a master gunslinger who wields firearms like it's an art. Their aim is unmatched, and their reflexes are quick.
 
 # Deadeye Precision
 Beginning at 3rd level, you gain proficiency with firearms and you ignore the Loading property of firearms.
@@ -34,4 +34,4 @@ Starting at 15th level, when you roll for initiative and don't have any uses of 
 # Deadly Aim
 Starting at 18th level, you deal additional damage with firearms equal to your Wisdom modifier.
 
-[:classes/fighter/deadeye:]
+[:classes/fighter/marksman:]
