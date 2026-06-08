@@ -34,10 +34,10 @@ Whenever you make a Wisdom (Perception) check, you can treat a d20 roll of 9 or 
 # Level 10: Aim Correction
 When you use your Snap Correction feature, you can reroll the d20 once and use the highest roll.
 
-# Muscle Memory 
-Starting at 15th level, when you roll for initiative and don't have any remaining uses of Snap Correction, you regain one use.
+# Level 15: Muscle Memory 
+When you roll for initiative and don't have any remaining uses of Snap Correction, you regain one use.
 
-# Deadly Aim
-Starting at 18th level, you deal additional damage with firearms equal to your Wisdom modifier.
+# Level 18: Deadly Aim
+You deal additional damage with firearms equal to your Wisdom modifier.
 
 [:classes/fighter/marksman/2024:]
