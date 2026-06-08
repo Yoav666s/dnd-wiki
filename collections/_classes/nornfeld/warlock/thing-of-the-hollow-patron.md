@@ -28,7 +28,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 # Level 3: Hollow Sense
 You can take your bonus action to gain Tremorsense with a range of 30 feet for 10 minutes.
 
-You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 # Level 6: One With Stone
 While merged with the stone via [[Meld Into Stone]], you can move through it with a speed of 10 feet, and you can leave the stone if there's an unoccupied space for you to step into within 5 feet of you.
