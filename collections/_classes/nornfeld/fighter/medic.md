@@ -16,7 +16,7 @@ Medics are professional physicians that show there's no need to rely on magic in
 Beginning when you choose this archetype at 3rd level, you gain proficiency in the Medicine skill. If you're already proficient in it, you gain expertise. Additionally, you have advantage on Wisdom (Medicine) checks made to stabilize an Unconscious creature that has 0 hit points.
 
 # Tend Wounds
-Starting at 3rd level, as a bonus action, you can tend to an injured creature you can see within 5 feet of you (or yourself), expending 1 use of a healer's kit. The creature must be alive or stable. The creature gains hit points equal to 1d6 + your Wisdom modifier.
+Starting at 3rd level, as a bonus action, you can tend to an injured creature you can see within 5 feet of you (or yourself), expending 1 use of a healer's kit. The creature must be alive or stable. The creature gains hit points equal to 1d6 + your Wisdom modifier or ends one condition on itself: Blinded, Deafened, Paralyzed, or Poisoned.
 
 The number of dice increases by 1d6 when you reach certain levels. It becomes 2d6 when you reach 7th level, 3d6 when you reach 10th level, 4d6 when you reach 15th level, and 5d6 when you reach 18th level.
 
