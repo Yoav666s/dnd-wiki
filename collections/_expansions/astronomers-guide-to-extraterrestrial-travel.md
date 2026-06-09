@@ -172,7 +172,7 @@ When the spell was complete, Saelethil then hired construction workers to build 
 > He wanted to go where no one had been \
 > Everyone else told him it was absurd
 >
-> --"Lonely Selene"
+> --folk song, "Lonely Selene"
 
 ### Colonizing the Moon
 Saelethil had passed down his knowledge and research, and he had many students. Over the years, a large section of the light side of Selene was colonized in a collective effort of astronomers. There are now large areas of overlapping miniature atmospheres with houses, shrines, and shops. There are multiple colonies on Selene, and there's a permanent teleportation circle for each one.
