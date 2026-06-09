@@ -24,6 +24,13 @@ expansions:
     btn_label: "Read More"
     btn_class: "btn--light-outline"
 subclasses_2024:
+  - image_path: /assets/images/classes/rogue/academic/2024/normal.jpg
+    alt: "Academic"
+    title: "Academic"
+    excerpt: "The Academic is both an experienced rogue and an intellectual, blending wit and talent into a deadly combination. They learn and apply combative techniques, as well as various fields of study. They rely on their sharp cunning no less than their skills, and their brilliant maneuvers can turn the tide in battle."
+    url: "/classes/rogue/academic-2024/"
+    btn_label: "Read More"
+    btn_class: "btn--light-outline"
   - image_path: /assets/images/classes/sorcerer/fey-soul/2024/normal.jpg
     alt: "Fey Sorcery"
     title: "Fey Sorcery"
@@ -36,13 +43,6 @@ subclasses_2024:
     title: "Mirage Dancer"
     excerpt: "Mirage Dancers are masters of the curved blade, their fighting style an elusive flow of deliberate, slashing strikes and unpredictable movement. With each step, they circle their foes forcing them to shift their defenses until they find an opening. Trained with subtle illusion magic, they appear to teleport throughout the battlefield, utilizing brief invisibility and illusory duplicates."
     url: "/classes/rogue/mirage-dancer-2024/"
-    btn_label: "Read More"
-    btn_class: "btn--light-outline"
-  - image_path: /assets/images/classes/rogue/academic/2024/normal.jpg
-    alt: "Academic"
-    title: "Academic"
-    excerpt: "The Academic is both an experienced rogue and an intellectual, blending wit and talent into a deadly combination. They learn and apply combative techniques, as well as various fields of study. They rely on their sharp cunning no less than their skills, and their brilliant maneuvers can turn the tide in battle."
-    url: "/classes/rogue/academic-2024/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
 excerpt: "Nornfeld is a vast and immersive world designed for tabletop role-playing, featuring multiple campaign settings that cater to both new and veteran adventurers."
