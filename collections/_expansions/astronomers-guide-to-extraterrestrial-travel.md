@@ -111,6 +111,67 @@ While on the moon, he decided to test something out: he casted the ritual spell 
 
 When the spell was complete, Saelethil then hired construction workers to build a house on Selene. He would cast [[Air Barrier]] on all of them, including himself, teleport the materials to the moon, and then teleport the group. Then he'd cast [[Miniature Atmosphere]] on a spot he liked and the crew started their work. At the end of their work day he would teleport everyone back to his study by casting [[Teleportation Circle]] on the same spot. After doing this every day for a year, he had a house with a breathable atmosphere on the moon, along with a permanent teleportation circle.
 
+> They tell of a wizard who longed for Selene \
+> Saelethil Halter Miatris the third \
+> He wanted to go where no one had been \
+> Everyone else told him it was absurd
+>
+> He commissioned a large telescope from a friend \
+> He enchanted it so it would show him the moon \
+> Every night he looked through it, and then in the end \
+> He decided that he would visit there soon
+>
+> In the night, shining white, is Selene in the sky \
+> She is lonely and sad without life on her ground \
+> She's so close yet impossibly so far and high \
+> Whoever could reach her, and come back around?
+>
+> With a spell he has traveled, but to his dismay \
+> On the surface of the moon there was no air to breathe \
+> Without words he had brought himself back all the way \
+> And depleted of energy, he fell to his knees
+>
+> He has crafted a magical barrier to hold \
+> The air from dispersing into the void \
+> The air would refresh itself, lo and behold \
+> A new spell with all the knowledge he employed
+>
+> In the night, shining white, is Selene in the sky...
+>
+> He returned and this time, he could breathe all the same \
+> The magnificent view of Terrus above \
+> He knew that history would carry his name \
+> But everything he did, he did it for love
+>
+> He was curious so then he set up a dome \
+> To magically preserve a pocket of air \
+> Excited, he hurriedly came back home \
+> And scrambled through books, his notes everywhere
+>
+> In the night, shining white, is Selene in the sky... 
+>
+> He has crafted a spell for a small atmosphere \
+> And he came to Selene to prepare every day \
+> For a permanent one it would take him a year \
+> But he was more than willing if there was a way
+>
+> While he was at it, he hired a crew \
+> To build him a house on the white earthy rock \
+> They laboured all day and when they were through \
+> They would teleport back with a rune drawn in chalk
+>
+> In the night, shining white, is Selene in the sky... 
+>
+> With a permanent circle to bring him to her \
+> And a porch with a chair to look at the view \
+> He sat there, so happy, in a pocket of air \
+> Watching Terrus from Selene, all pretty and blue
+>
+> They tell of a wizard who longed for Selene \
+> Saelethil Halter Miatris the third \
+> He wanted to go where no one had been \
+> Everyone else told him it was absurd
+
 ### Colonizing the Moon
 Saelethil had passed down his knowledge and research, and he had many students. Over the years, a large section of the light side of Selene was colonized in a collective effort of astronomers. There are now large areas of overlapping miniature atmospheres with houses, shrines, and shops. There are multiple colonies on Selene, and there's a permanent teleportation circle for each one.
 
