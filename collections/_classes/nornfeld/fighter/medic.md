@@ -33,7 +33,7 @@ Starting at 10th level, as an action you can expend 10 uses of a healers kit to 
 # 
 Starting at 15th level, 
 
-# Supreme Physician
-Starting at 18th level, you can tend to a creature that has already been healed with the Patch up feature if you succeed a Wisdom (Medicine) check with a DC of 20 minus the creature's Constitution modifier. On failure, you can't attempt to tend to that creature again until it finishes a long rest.
+# 
+Starting at 18th level,
 
 [:classes/fighter/medic:]
