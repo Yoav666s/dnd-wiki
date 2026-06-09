@@ -30,10 +30,10 @@ The number of dice increases by 1d10 when you reach certain levels. It becomes 3
 # Revive
 Starting at 10th level, you can expend 10 uses of a healers kit to attempt to revive a creature that has died within the last minute. This process takes up to 5 minutes (until you succeed or fail), during which you need to make a Wisdom (Medicine) check with a DC of 20 minus the creature's Constitution modifier at the end of every minute. You do not gain advantage on these checks from your Trained Physician feature. If you succeed 3 times, the creature is stabilized with 0 hit points. If you fail 3 times, the creature remains dead and cannot be revived in this way. Successes and failures do not need to be consecutive.
 
-# 
-Starting at 15th level, 
+# Resource Management
+Starting at 15th level, when you roll initiative and have no remaining uses of Tend Wounds feature, you regain 1 use.
 
-# 
-Starting at 18th level,
+# Emergency Response
+Starting at 18th level, when a creature you can see is reduced to 0 hit points, you can use your reaction to move up to half your speed towards it without provoking Opportunity Attacks. If you reach within 5 feet of it, you can expend a use of your Tend Wounds feature to heal it as part of the same reaction.
 
 [:classes/fighter/medic:]
