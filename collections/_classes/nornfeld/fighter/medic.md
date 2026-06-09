@@ -23,7 +23,7 @@ The number of dice increases by 1d6 when you reach certain levels. It becomes 2d
 You can use this feature a number of times equal to your Wisdom modifier and you regain all expended uses when you finish a long rest. When you reach 7th level, you regain all expended uses when you finish a short or long rest.
 
 # Patch Up
-Starting at 7th level, you can tend to another creature (or yourself) with more extensive care. This process takes 10 minutes and requires you to expend 2 uses of a healer's kit. The creatures must be alive or stable, and within 5 feet of you for the entire duration. The creature regains hit points equal to 2d10 + your Fighter level + your Medicine modifier. Once a creature has been healed in this way, it must finish a long rest before it can be healed this way again.
+Starting at 7th level, you can tend to another creature (or yourself) with more extensive care. This process takes 10 minutes and requires you to expend 2 uses of a healer's kit. The creatures must be alive or stable, and within 5 feet of you for the entire duration. The creature regains hit points equal to 2d10 + your Fighter level + your Wisdom modifier. Once a creature has been healed in this way, it must finish a long rest before it can be healed this way again.
 
 The number of dice increases by 1d10 when you reach certain levels. It becomes 3d10 when you reach 10th level, 4d10 when you reach 15th level, and 5d10 when you reach 18th level.
 
