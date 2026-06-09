@@ -10,13 +10,13 @@ header:
   teaser: /assets/images/classes/fighter/medic/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
-Medics are professional physicians that show there's no need to rely on magic in order to heal the injured. These trained fighters know how to heal and even revive their comrades, proving to be an invaluable asset to their team. They are studied healers in the ways of medicine, and are essential in keeping soldiers alive and breathing.
+Medics are professional physicians that show there's no need to rely on magic in order to heal the injured. In Morgenfell, where magic is strictly prohibited, these trained fighters know how to heal and even revive their comrades, proving to be an invaluable asset to their team. They are studied healers in the ways of medicine, and are essential in keeping soldiers alive and breathing.
 
 # Trained Physician
 Beginning when you choose this archetype at 3rd level, you gain proficiency in the Medicine skill. If you're already proficient in it, you gain expertise. Additionally, you have advantage on Wisdom (Medicine) checks made to stabilize an Unconscious creature that has 0 hit points.
 
 # Tend Wounds
-Starting at 3rd level, as an action you can tend to an injured creature you can see within 5 feet of you (or yourself), expending 1 use of a healer's kit. The creature must be alive or stable. The creature gains hit points equal to 1d6 + your Wisdom modifier.
+Starting at 3rd level, as a bonus action, you can tend to an injured creature you can see within 5 feet of you (or yourself), expending 1 use of a healer's kit. The creature must be alive or stable. The creature gains hit points equal to 1d6 + your Wisdom modifier.
 
 The number of dice increases by 1d6 when you reach certain levels. It becomes 2d6 when you reach 7th level, 3d6 when you reach 10th level, 4d6 when you reach 15th level, and 5d6 when you reach 18th level.
 
@@ -30,8 +30,8 @@ The number of dice increases by 1d10 when you reach certain levels. It becomes 3
 # Revive
 Starting at 10th level, as an action you can expend 10 uses of a healers kit to start reviving a creature that has died within the last minute. This process takes several minutes (until you succeed or fail), during which you need to make a Wisdom (Medicine) check with a DC of 20 minus the creature's Constitution modifier at the end of every minute. You do not have advantage on these checks. If you succeed 3 times, the creature is stabilized with 0 hit points. If you fail 3 times, the creature remains dead and cannot be revived in this way. Successes and failures do not need to be consecutive.
 
-# Resource Management
-Starting at 15th level, whenever you use a feature that requires you to expend more than 1 use of a healer's kit, the total uses you need to expend is reduced by your Wisdom modifier (minimum reduction of 1) to a minimum of 1.
+# 
+Starting at 15th level, 
 
 # Supreme Physician
 Starting at 18th level, you can tend to a creature that has already been healed with the Patch up feature if you succeed a Wisdom (Medicine) check with a DC of 20 minus the creature's Constitution modifier. On failure, you can't attempt to tend to that creature again until it finishes a long rest.
