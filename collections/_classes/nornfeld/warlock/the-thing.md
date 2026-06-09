@@ -3,14 +3,14 @@ title: "The Thing"
 index:
   - the-thing
 permalink: /classes/warlock/the-thing/
-excerpt: "Deep beneath the world’s skin, where stone remembers every footfall and darkness swallows sound, something vast and patient waits."
+excerpt: "Deep inside the caverns of the Hollow, lies a monstrosity that haunts those who dare step into its territory."
 subclass: warlock
 alt_version: thing-of-the-hollow-patron
 header:
  overlay_image: /assets/images/classes/warlock/the-thing/header.png
  teaser: /assets/images/classes/warlock/the-thing/header.jpg
 ---
-Deep beneath the world’s skin, where stone remembers every footfall and darkness swallows sound, something vast and patient waits. The Thing of the Hollow is not a distant cosmic will, but a living presence that coils through caverns, roots itself in mountain bones, and listens through the trembling earth. It knows the fear of those who tread above, and it teaches its servants to hunt as it does--sensing through stone, slipping through the bones of the world, and seeping into the dreams of the unwary. Its gifts are not whispers from the stars, but the slow, suffocating embrace of the deep places where no light reaches and no cry escapes.
+Deep inside the caverns of the Hollow, lies a monstrosity that haunts those who dare step into its territory. Through vivid nightmares, possessions, and outright madness, it poisons the mind of travelers who venture into the ever-changing caverns. You've made a pact with it, and thus gain some its powers as well as safe passage through the Hollow.
 
 # Expanded Spell List
 The Thing lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
