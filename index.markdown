@@ -38,11 +38,11 @@ subclasses_2024:
     url: "/classes/rogue/mirage-dancer-2024/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
-  - image_path: /assets/images/classes/warlock/the-thing/2024/normal.jpg
-    alt: "Thing of the Hollow Patron"
-    title: "Thing of the Hollow Patron"
-    excerpt: "The Thing of the Hollow is not a distant cosmic will, but a living presence that coils through caverns, roots itself in mountain bones, and listens through the trembling earth."
-    url: "/classes/warlock/thing-of-the-hollow-patron/"
+  - image_path: /assets/images/classes/rogue/academic/2024/normal.jpg
+    alt: "Academic"
+    title: "Academic"
+    excerpt: "The Academic is both an experienced rogue and an intellectual, blending wit and talent into a deadly combination. They learn and apply combative techniques, as well as various fields of study. They rely on their sharp cunning no less than their skills, and their brilliant maneuvers can turn the tide in battle."
+    url: "/classes/rogue/academic/2024/"
     btn_label: "Read More"
     btn_class: "btn--light-outline"
 excerpt: "Nornfeld is a vast and immersive world designed for tabletop role-playing, featuring multiple campaign settings that cater to both new and veteran adventurers."
