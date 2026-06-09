@@ -28,7 +28,7 @@ Starting at 7th level, you can tend to another creature (or yourself) with more 
 The number of dice increases by 1d10 when you reach certain levels. It becomes 3d10 when you reach 10th level, 4d10 when you reach 15th level, and 5d10 when you reach 18th level.
 
 # Revive
-Starting at 10th level, as an action you can expend 10 uses of a healers kit to start reviving a creature that has died within the last minute. This process takes several minutes (until you succeed or fail), during which you need to make a Wisdom (Medicine) check with a DC of 20 minus the creature's Constitution modifier at the end of every minute. You do not have advantage on these checks. If you succeed 3 times, the creature is stabilized with 0 hit points. If you fail 3 times, the creature remains dead and cannot be revived in this way. Successes and failures do not need to be consecutive.
+Starting at 10th level, as an action you can expend 10 uses of a healers kit to start reviving a creature that has died within the last minute. This process takes several minutes (until you succeed or fail), during which you need to make a Wisdom (Medicine) check with a DC of 20 minus the creature's Constitution modifier at the end of every minute. You do not gain advantage on these checks from your Trained Physician feature. If you succeed 3 times, the creature is stabilized with 0 hit points. If you fail 3 times, the creature remains dead and cannot be revived in this way. Successes and failures do not need to be consecutive.
 
 # 
 Starting at 15th level, 
