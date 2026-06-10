@@ -132,7 +132,7 @@ Moons and other planets have been observed using a revolutionary invention calle
 > He returned and this time, he could breathe all the same \
 > The magnificent view of Terrus above \
 > He knew that history would carry his name \
-> But everything he did, he did it for love
+> But all that he did, he did it for love
 >
 > He was curious so then he set up a dome \
 > To magically preserve a pocket of air \
