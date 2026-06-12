@@ -11,14 +11,18 @@ header:
   overlay_image: /assets/images/races/elf/mundane/header.png
   teaser: /assets/images/races/elf/mundane/header.jpg
 ---
+Mundane elves are proof that magic is not an inherent trait. Their skin tone varies from snow-white to olive-brown, or even dark purple, but they are unlike other elves. They aren't born with magic, and they fit seamlessly in a society that prohibits it.
 
 # Mundane Elf Traits
-**Creature Type:** Humanoid
-**Size:** Medium (about 5-6 feet tall)
-**Speed:** 30 feet
+As a mundane elf, you gain the following traits.
 
-As an Elf, you have these special traits.
+## Ability Score Increase
+Your Constitution score increases by 1.
 
-**Darkvision.** You have Darkvision with a range of 60 feet.
+## Elf Weapon Training
+You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
-**Elven Lineage.** You are part of a lineage.
+## Steadfast Mind
+You have advantage on saving throws made to avoid or end the frightened condition.
+
+[:races/elf/mundane:]
