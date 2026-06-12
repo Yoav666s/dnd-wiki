@@ -26,4 +26,7 @@ You have proficiency with the longsword, shortsword, shortbow, and longbow.
 ## Steadfast Mind
 You have advantage on saving throws made to avoid or end the frightened condition.
 
+## Survival Instinct
+You can take the Disengage action as a bonus action.
+
 [:races/elf/mundane:]
