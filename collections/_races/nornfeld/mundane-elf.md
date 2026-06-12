@@ -10,6 +10,7 @@ tags:
 header:
   overlay_image: /assets/images/races/elf/mundane/header.png
   teaser: /assets/images/races/elf/mundane/header.jpg
+source: "Survivor's Guide to Morgenfell"
 ---
 Mundane elves are proof that magic is not an inherent trait. Their skin tone varies from snow-white to olive-brown, or even dark purple, but they are unlike other elves. They aren't born with magic, and they fit seamlessly in a society that prohibits it.
 
