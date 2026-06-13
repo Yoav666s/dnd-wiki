@@ -17,8 +17,11 @@ If you're playing in the Morgenfell campaign setting, your DM might allow these 
 # Lay Tiefling Traits
 As a lay tiefling, you have the following traits.
 
-## Devil's Wit
+## Nefarious Wit
 You have proficiency in the Deception, Insight, or Intimidation skill.
 
 ## Inexorable Resolution
 You have advantage on Charisma saving throws against magic.
+
+## The Devil You Know
+You have advantage on Wisdom (Survival) checks when tracking a devil, and on Wisdom (Insight) checks when discerning whether a creature is a devil in disguise.
