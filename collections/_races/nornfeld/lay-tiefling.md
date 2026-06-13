@@ -25,3 +25,5 @@ You have advantage on saving throws against being charmed or frightened.
 
 ## The Devil You Know
 You have advantage on Wisdom (Survival) checks when tracking a devil, and on Wisdom (Insight) checks when discerning whether a creature is a devil in disguise.
+
+[:races/tiefling/lay:]
