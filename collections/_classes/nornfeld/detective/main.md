@@ -18,6 +18,11 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 | Level | Proficiency Bonus | Features |
 | :---: | :---: | :---- |
 | 1st | +2 | [[Specialized Intellectual]], [[Unarmored Technique]] |
+| 2nd | +2 | [[Calculated Action]], [[Professional Talent]] |
+| 3rd | +2 | [[Academic Field]] |
+| 4th | +2 | [[Ability Score Improvement]] |
+| 5th | +3 | [[Extra Attack]], [[Quick Learner]] |
+| 6th | +3 |  |
 
 # Class Features
 As a detective, you gain the following class features.
@@ -49,13 +54,13 @@ At 6th level and again at 11th level, you can choose two more of your proficienc
 ## Unarmored Technique
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Intelligence modifier.
 
+##  Calculated Action
+Starting at 2nd level, you can take a bonus action on each of your turns in combat. This action can be used only to take the [[Disengage]], [[Help]], or [[Search]] action.
+
 ## Professional Talent 
 Starting at 2nd level, when you make an ability check to which you apply your proficiency bonus or when you make an attack roll with a weapon you're proficient in, you can give yourself advantage on the roll.
 
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
-
-##  Calculated Action
-Starting at 2nd level, you can take a bonus action on each of your turns in combat. This action can be used only to take the [[Disengage]], [[Help]], or [[Search]] action.
 
 ## Academic Field
 At 3rd level, you choose a field in which expand your abilities. Your field choice grants you features at 3rd level and then again at 7th level, 13th level, and 17th level.
@@ -69,11 +74,11 @@ At 3rd level, you choose a field in which expand your abilities. Your field choi
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-## Quick Learner
-Starting at 5th level, you regain all of your expended uses of Professional Talent when you finish a short or long rest.
-
 ## Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn, and you ignore the Loading property of crossbows and firearms.
+
+## Quick Learner
+Starting at 5th level, you regain all of your expended uses of Professional Talent when you finish a short or long rest.
 
 ## Experienced Investigator
 Starting at 9th level, you have advantage on Intelligence (Investigation) checks.
