@@ -18,8 +18,8 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 
 | Level | Proficiency Bonus | Features |
 | :---: | :---: | :---- |
-| 1st | +2 | [[Expertise]], [[Unarmored Defense]] |
-| 2nd | +2 | [[Calculated Action]], [[Professional Talent]] |
+| 1st | +2 | [[Expertise]], [[Professional Talent]], [[Unarmored Defense]] |
+| 2nd | +2 | [[Calculated Action]], [[Fighting Style]] |
 | 3rd | +2 | [[Professional Field]] |
 | 4th | +2 | [[Ability Score Improvement]] |
 | 5th | +3 | [[Extra Attack]], [[Quick Learner]] |
@@ -66,6 +66,11 @@ At 1st level, choose one of your skill proficiencies. Your proficiency bonus is 
 
 At 6th level and again at 11th level, you can choose two more of your proficiencies to gain this benefit.
 
+## Professional Talent 
+Starting at 1st level, when you make an ability check to which you apply your proficiency bonus or when you make an attack roll with a weapon you're proficient in, you can give yourself advantage on the roll.
+
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+
 ## Unarmored Defense
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Intelligence modifier.
 
@@ -74,10 +79,16 @@ Starting at 2nd level, you can take a bonus action on each of your turns in comb
 
 Additionally, when you take the [[Help]] action, the target can be within 30 feet of you, rather than 5 feet of you, if the target can see or hear you.
 
-## Professional Talent 
-Starting at 2nd level, when you make an ability check to which you apply your proficiency bonus or when you make an attack roll with a weapon you're proficient in, you can give yourself advantage on the roll.
+## Fighting Style
+At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
-You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+- **Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.
+
+- **Defense.** While you are wearing armor, you gain a +1 bonus to AC.
+
+- **Dueling.** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+
+- **Two-Weapon Fighting.** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 ## Professional Field
 At 3rd level, you choose a field in which expand your abilities. Your field choice grants you features at 3rd level and then again at 7th level, 13th level, and 17th level.
