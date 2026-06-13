@@ -12,7 +12,9 @@ header:
   teaser: /assets/images/races/tiefling/lay/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
-If you're playing in the Morgenfell campaign setting, your DM might allow these variant traits, which all replace the Infernal Legacy trait.
+If you're playing in the Morgenfell campaign setting, your DM might allow these variant traits, all of which replace the Infernal Legacy trait.
 
 # Lay Tiefling Traits
 As a lay tiefling, you have the following traits.
+
+## Infernal 
