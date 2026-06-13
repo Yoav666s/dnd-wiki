@@ -134,7 +134,7 @@ Some, however, had decided not to leave Morgenfell. Many elves, tieflings, and g
 ### The Resistance 
 Some people, however, went through the legal process of forgoing magic but didn't adhere to the law. In forests, they set up communal bases where they would teach and practice magic. That's how the resistance was formed right under the noses of the monarchies.
 
-Over the centuries, bases were discovered and destroyed by enforcers, but many remained hidden well within the forests throughout Morgenfell. It is even possible to find elves and tieflings who didn't lose their innate magic, but they keep this secret well guarded.
+Over the centuries, bases were discovered and destroyed by regulators, but many remained well hidden within the forests throughout Morgenfell. It is even possible to find elves and tieflings who didn't lose their innate magic, but they keep this secret well guarded.
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
