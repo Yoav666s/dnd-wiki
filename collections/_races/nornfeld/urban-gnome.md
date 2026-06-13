@@ -13,3 +13,9 @@ header:
 source: "Survivor's Guide to Morgenfell"
 ---
 As an urban gnome, you have a natural tendency to invent and work with complex machinery.
+
+# Urban Gnome Traits
+As an urban gnome, you have the following traits.
+
+## Ability Score Increase
+Your Dexterity score increases by 1.
