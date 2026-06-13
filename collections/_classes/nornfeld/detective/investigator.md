@@ -11,5 +11,8 @@ header:
 source: "Survivor's Guide to Morgenfell"
 ---
 
+# 
+Starting at 3rd level when you choose this field, when you take the [[Help]] action
+
 # Thoughtful Phrasing
-Starting at 3rd level when you choose this field, you gain a bonus to Charisma checks equal to your Intelligence modifier.
+Starting at 3rd level, you gain a bonus to Charisma checks equal to your Intelligence modifier.
