@@ -60,7 +60,7 @@ Chapters 8 through 9 will include adventures to kick off your campaign. Again, c
 You're the one who ultimately decides how horrifying or wondrous you want your campaign to be, and that choice will probably shape the decision of *where* you want your campaign to be. Vampires can attack a village in Auberfield and fey creatures can be found in the forests of Keltain, while shapeshifting fiends and devils are by no means limited to Wedland, but each kingdom has its own unique aesthetic.
 
 ### Forests of Madness
-The fey are known for their strange ways of driving mortals to insanity. You could play this up, turning an otherwise captivating setting to a terrifying one. Either way, Auberfield is known for the fey presence in its forests, where many elves make their home as well.
+The fey are known for their strange ways of driving mortals to insanity. You could play this up, turning an otherwise captivating setting to a terrifying one. Either way, Auberfield is known for the fey presence in its forests.
 
 ### Survival and Grit
 In a village where eldritch horrors could show up at any time, a gun is man's best friend. Keltain is the perfect setting for your dark horror campaign. From vast crop fields and armed farmers to well guarded vampire castles, you can find it all right here.
