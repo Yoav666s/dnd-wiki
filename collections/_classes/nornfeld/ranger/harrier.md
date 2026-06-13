@@ -36,7 +36,7 @@ Starting at 3rd level, when you spend at least 10 feet of movement without retra
 The extra damage increases to 1d6 when you reach 11th level in this class.
 
 # Evasion
-Starting at 7th level, When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Starting at 7th level, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 # Adrenaline Rush
 Starting at 11th level, you can cast [[Haste]] on yourself without expending a spell slot. You can do so twice, and you regain all expended uses when you finish a long rest. When cast this way, you don't suffer a wave of lethargy when it ends.
