@@ -17,4 +17,5 @@ If you're playing in the Morgenfell campaign setting, your DM might allow these 
 # Lay Tiefling Traits
 As a lay tiefling, you have the following traits.
 
-## Infernal 
+## Devil's Wit
+You gain proficiency in Deception, Insight, or Intimidation.
