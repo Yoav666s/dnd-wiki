@@ -25,3 +25,5 @@ You have advantage on Dexterity (Stealth) checks when taking the hide action in 
 
 ## Seamless Nimbleness
 You have proficiency in the Sleight of Hand or Stealth skill.
+
+[:races/gnome/urban:]
