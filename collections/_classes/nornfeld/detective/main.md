@@ -43,9 +43,9 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 As a detective, you gain the following class features.
 
 ## Hit Points
-**Hit Dice:** 1d8 per detective level \
-**Hit Points at 1st Level:** 8 + your Constitution modifier \
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per detective level after 1st
+**Hit Dice:** 1d10 per detective level \
+**Hit Points at 1st Level:** 10 + your Constitution modifier \
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per detective level after 1st
 
 ## Proficiencies
 **Armor:** None \
