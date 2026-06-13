@@ -43,9 +43,9 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 As a detective, you gain the following class features.
 
 ## Hit Points
-**Hit Dice:** 1d10 per detective level \
-**Hit Points at 1st Level:** 10 + your Constitution modifier \
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per detective level after 1st
+**Hit Dice:** 1d8 per detective level \
+**Hit Points at 1st Level:** 8 + your Constitution modifier \
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per detective level after 1st
 
 ## Proficiencies
 **Armor:** None \
@@ -111,7 +111,7 @@ Starting at 5th level, you regain all of your expended uses of Professional Tale
 Starting at 9th level, you have advantage on Intelligence (Investigation) checks.
 
 ## Intelligent Strikes
-Starting at 10th level, when you take the attack action on your turn, you deal additional damage of the attacks' type equal to your Intelligence modifier.
+Starting at 10th level, when you take the attack action on your turn, your weapon attacks deal additional damage equal to your Intelligence modifier.
 
 ## Relentless Talent
 Starting at 15th level, when you roll initiative and have no remaining uses of Professional Talent left, you regain one use.
