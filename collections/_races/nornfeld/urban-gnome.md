@@ -12,7 +12,7 @@ header:
   teaser: /assets/images/races/gnome/urban/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
-As an urban gnome, you have a natural tendency to invent and work with complex machinery.
+As an urban gnome, you have a natural knack for traversing the industrial streets of Morgenfell.
 
 # Urban Gnome Traits
 As an urban gnome, you have the following traits.
