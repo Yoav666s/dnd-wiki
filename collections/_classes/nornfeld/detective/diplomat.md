@@ -1,13 +1,13 @@
 ---
-title: "Diplomat"
+title: "Investigator"
 index:
-  - diplomat
-permalink: /classes/detective/diplomat/
+  - investigator
+permalink: /classes/detective/investigator/
 excerpt: ""
 subclass: detective 
 header:
-  overlay_image: /assets/images/classes/detective/diplomat/header.png
-  teaser: /assets/images/classes/detective/diplomat/header.jpg
+  overlay_image: /assets/images/classes/investigator/diplomat/header.png
+  teaser: /assets/images/classes/detective/investigator/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
 
