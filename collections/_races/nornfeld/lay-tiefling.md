@@ -15,3 +15,4 @@ source: "Survivor's Guide to Morgenfell"
 If you're playing in the Morgenfell campaign setting, your DM might allow these variant traits, which all replace the Infernal Legacy trait.
 
 # Lay Tiefling Traits
+As a lay tiefling, you have the following traits.
