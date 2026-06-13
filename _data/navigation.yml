@@ -38,6 +38,9 @@ classes:
   - title: "Cleric"
     class: cleric
     url: /classes/cleric/
+  - title: "Detective"
+    class: detective
+    url: /classes/detective/
   - title: "Druid"
     class: druid
     url: /classes/druid/

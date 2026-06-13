@@ -48,11 +48,11 @@ Chapter 3 will show you around the cities of Morgenfell, going into the details 
 
 Chapter 4 will introduce new work in progress subclasses, completely untested and definitely not ready for serious play.
 
-Chapter 5 will go over new flavorful feats that fit the setting, again, completely untested.
+Chapter 5 will include races that adapted to the non-magical setting of Morgenfell.
 
-Chapter 6 will include items, wondrous or otherwise, that are an essential part of the setting.
+Chapter 6 will go over new flavorful feats that fit the setting, again, completely untested.
 
-Chapter 7 will include races that adapted to the non-magical setting of Morgenfell.
+Chapter 7 will include items, wondrous or otherwise, that are an essential part of the setting.
 
 Chapters 8 through 9 will include adventures to kick off your campaign. Again, completely untested.
 
@@ -129,27 +129,32 @@ At 206 A.G.M, the first order of the Arcane Dictum was ruled: it was then illega
 #### Magical Lineages
 In the year 207 A.G.M, it was announced that members of races that were related to the Feywild or the Nine Hells were to be exiled from the territories of the monarchies by the year 212 A.G.M unless they go through a legal process to give up their right to use their innate magic. In the following 5 years, most tieflings and elves had left Morgenfell and emigrated with assistance from the monarchies; ships sailed back and forth from Morgenfell to the surrounding continents.
 
-Some, however, had decided not to leave Morgenfell. Many elves, tieflings, and gnomes had decided to stay and concede their innate magical abilities to the law. In the following centuries, their magical abilities declined with each generation until they were nonexistent.
+Some, however, had decided not to leave Morgenfell. Many elves, tieflings, and gnomes had decided to stay and concede their innate magical abilities to the law. In the following centuries, their magical abilities declined with each generation until they became nonexistent.
 
 ### The Resistance
 Some people, however, went through the legal process of forgoing magic but didn't adhere to the law. In forests, they set up communal bases where they would teach and practice magic. That's how the resistance was formed right under the noses of the monarchies.
+
+Over the centuries, bases were discovered and destroyed by regulators, but many remained well hidden within the forests throughout Morgenfell. It is even possible to find elves and tieflings who didn't lose their innate magic, but they keep this secret well guarded.
+
+## The Present
+In present times, 542 A.G.M, magic is truly a thing of the past. Everyday routine has been adapted to the industrial era, and advancements are being made to allow for even more humanoid convenience. Electricity is being pursued but is still in its experimental phase, and long distance travel still relies on horses when it's not possible to use the railway system.
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
 
 {% include expansion_subclasses.html %}
 
-# Chapter 5: Feats
+# Chapter 5: Races
+The following are races of creatures that live in Morgenfell after centuries of the Arcane Dictum's establishment.
+
+{% include expansion_races.html %}
+
+# Chapter 6: Feats
 The people of Morgenfell have adapted to a different way of living than the rest of Nornfeld, what with their technology and lack of magic. To reflect that there are feats that compliment the setting.
 
 {% include expansion_feats.html %}
 
-# Chapter 6: Items
+# Chapter 7: Items
 The following are items that are essential to running a campaign in the setting of Morgenfell.
 
 {% include expansion_items.html %}
-
-# Chapter 7: Races
-The following are races of creatures that live in Morgenfell after centuries of the Arcane Dictum's establishment.
-
-{% include expansion_races.html %}
