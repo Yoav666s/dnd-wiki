@@ -11,6 +11,8 @@ source: "Survivor's Guide to Morgenfell"
 ---
 Wedland is governed by queen Juliette Phillips the II. It is the industrial center of Morgenfell, full of factories and cities. The forests of Wedland have shrunk due to the establishment of factories, crop fields, and city expansions. As a result, most forest creatures have emigrated to Keltain. Unfortunately, some creatures with shapeshifting abilities have managed to blend in with society, thriving under the guise of humanoid shape.
 
+[:expansions/survivors-guide-to-morgenfell/devil-in-disguise:]
+
 # Queen's Dock
 The capital of Wedland.
 
