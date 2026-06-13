@@ -104,7 +104,7 @@ Methods to provide first aid to a wounded individual have been developed by phys
 # Chapter 1: History of Morgenfell
 > "... and that which we call the 'Great Massacre' has proven to us the dangerous and reckless nature of magic. Over two hundred years it took us to restore and even surpass our previous greatness which has been sullied and destroyed by magic. To that we say: never again!"
 >
-> --from the Official Decree of the Arcane Dictum, 217 A.GM
+> --from the Official Decree of the Arcane Dictum, 217 A.G.M
 
 ## The Great Massacre
 In the year 3 B.C an infamous gnome wizard in Wedland who went by the name Gregorous Victus was unceasingly studying other planes of existence. He was trying to establish a steady form of communication with beings of other planes, among them a devil from the Nine Hells. The devil seemed to be fascinated with Victus's work, and said he was always curious about the Feywild. Victus was studying a spell that would allow him to travel to another plane of existence, and he offered the devil to bring him there. The devil happily agreed and said some of his friends are also fascinated with Victus's work and want to meet him, if he could open a portal to his plane so they could travel together to the Feywild. And so he did.
@@ -131,7 +131,7 @@ In the year 207 A.G.M, it was announced that members of races that were related 
 
 Some, however, had decided not to leave Morgenfell. Many elves, tieflings, and gnomes had decided to stay and concede their innate magical abilities to the law. In the following centuries, their magical abilities declined with each generation until they were nonexistent.
 
-### The Resistance 
+### The Resistance
 Some people, however, went through the legal process of forgoing magic but didn't adhere to the law. In forests, they set up communal bases where they would teach and practice magic. That's how the resistance was formed right under the noses of the monarchies.
 
 # Chapter 4: Subclasses
