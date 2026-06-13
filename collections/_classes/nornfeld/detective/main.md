@@ -80,6 +80,8 @@ At 2nd level, you adopt a particular style of fighting as your specialty. Choose
 
 - **Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.
 
+- **Defense.** While you are wearing armor, you gain a +1 bonus to AC.
+
 - **Dueling.** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
 - **Two-Weapon Fighting.** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
@@ -104,6 +106,9 @@ Starting at 5th level, you regain all of your expended uses of Professional Tale
 
 ## Experienced Investigator
 Starting at 9th level, you have advantage on Intelligence (Investigation) checks.
+
+## 
+Starting at 10th level,
 
 ## Intelligent Strikes
 Starting at 11th level, when you take the attack action on your turn, your weapon attacks deal additional damage equal to your Intelligence modifier.
