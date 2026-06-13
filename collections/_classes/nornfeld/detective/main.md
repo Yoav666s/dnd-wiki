@@ -3,7 +3,7 @@ title: "Detective"
 index:
   - detective
 permalink: /classes/detective/
-excerpt: ""
+excerpt: "Detectives are the pinnacle of modern problem solving."
 # header:
 #   overlay_image: /assets/images/classes/detective/header.png
 #   teaser: /assets/images/classes/detective/header.jpg
@@ -12,6 +12,8 @@ source: "Survivor's Guide to Morgenfell"
 Detectives are the pinnacle of modern problem solving. They are elegant, shrewd, and--if the situation escalates--quite capable in combat. They are master investigators and dominate the social battlefield. They exploit their enemys' weaknesses and hit hard, exactly where it hurts.
 
 *You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.*
+
+# The Detective
 
 # Class Features
 As a detective, you gain the following class features.
