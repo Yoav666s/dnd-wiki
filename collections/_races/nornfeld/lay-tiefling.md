@@ -21,7 +21,7 @@ As a lay tiefling, you have the following traits.
 You have proficiency in the Deception, Insight, or Intimidation skill.
 
 ## Inexorable Resolution
-You have advantage on Charisma saving throws against magic.
+You have advantage on saving throws against being charmed or frightened.
 
 ## The Devil You Know
 You have advantage on Wisdom (Survival) checks when tracking a devil, and on Wisdom (Insight) checks when discerning whether a creature is a devil in disguise.
