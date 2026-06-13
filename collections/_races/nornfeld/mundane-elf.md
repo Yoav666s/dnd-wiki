@@ -3,7 +3,7 @@ title: "Mundane Elf"
 index:
   - mundane-elf
 permalink: /races/mundane-elf/
-excerpt: ""
+excerpt: "Mundane elves are proof that magic is not an inherent trait."
 tags:
   - Race
   - Elf
