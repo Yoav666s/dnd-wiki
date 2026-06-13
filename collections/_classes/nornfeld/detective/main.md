@@ -52,7 +52,7 @@ As a detective, you gain the following class features.
 **Weapons:** Simple weapons, firearms, rapiers, light crossbows \
 **Tools:** Forgery Kit \
 **Saving Throws:** Intelligence, Dexterity \
-**Skills:** Choose three from Arcana, Deception, History, Insight, Investigation, Medicine, Nature, Perception, Persuasion, and Religion
+**Skills:** Choose three from Arcana, Deception, History, Insight, Investigation, Medicine, Nature, Perception, Persuasion, Survival, and Religion
 
 ## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
