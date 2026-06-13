@@ -80,11 +80,11 @@ To get a license for owning and using a firearm, a citizen must file an official
 ### The Steam Engine
 Yet another revolutionary invention that allowed the Arcane Dictum to become a reality, the steam engine allows for expediency in transportation without relying on magic. The steam powered train and the steam carriage allow for travel both inside and outside of the city, respectively.
 
-#### The Steam Powered Train
-All over Morgenfell, railroad systems have been installed to allow for faster travel between cities and kingdoms. The fee is sometimes costly, but this is the quickest and safest way to travel as of yet.
-
 #### The Steam Carriage
 In large cities, travel by foot can sometimes take well over half a day. With a steam carriage it takes a fraction of the time. Fuel, however, is not inexpensive and the burning of coal contaminates the air. For this reason, it is very unpleasant to walk through the main street and it may be advised to take a different route, albeit a longer one, to avoid the smoke. Steam carriages are not common, and usually reserved for the upper class.
+
+#### The Steam Powered Train
+All over Morgenfell, railroad systems have been installed to allow for faster travel between cities and kingdoms. The fee is sometimes costly, but this is the quickest and safest way to travel as of yet.
 
 ### Electricity
 A relatively new discovery and still in its experimental phase, electricity has yet to reach the public. However, some technologies are already being used in practice.
