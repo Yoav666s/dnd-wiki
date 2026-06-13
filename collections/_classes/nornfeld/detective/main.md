@@ -34,7 +34,7 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 | 15th | +5 | [[Relentless Talent]] |
 | 16th | +5 | [[Ability Score Improvement]] |
 | 17th | +6 | [[Academic Field]] feature |
-| 18th | +6 | [[Astute Aim]] |
+| 18th | +6 | [[Indomitable Mind]] |
 | 19th | +6 | [[Ability Score Improvement]] |
 | 20th | +6 | [[Unrivaled Intellect]] |
 
@@ -103,8 +103,8 @@ Starting at 10th level, when you take the attack action on your turn, you deal a
 ## Relentless Talent
 Starting at 15th level, when you roll initiative and have no remaining uses of Professional Talent left, you regain one use.
 
-## Indomitable Intellect
-Starting at 18th level, when you
+## Indomitable Mind
+Starting at 18th level, if your total for an Intelligence check is less than your Intelligence score, you can use that score in place of the total.
 
 ## Unrivaled Intellect
 At 20th level, your Intelligence score increases by 4. Your maximum for this score is now 24.
