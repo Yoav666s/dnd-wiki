@@ -25,6 +25,8 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 | 6th | +3 | [[Expertise]] |
 | 7th | +3 | [[Academic Field]] feature |
 | 8th | +3 | [[Ability Score Improvement]] |
+| 9th | +4 | [[Experienced Investigator]] |
+| 10th | +4 | [[Intelligent Strikes]] |
 
 # Class Features
 As a detective, you gain the following class features.
