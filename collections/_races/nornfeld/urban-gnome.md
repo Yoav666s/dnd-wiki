@@ -22,3 +22,6 @@ Your Dexterity score increases by 1.
 
 ## Danger Aversion
 You have advantage on Dexterity (Stealth) checks when taking the hide action in combat.
+
+## Seamless Nimbleness
+You have proficiency in the Sleight of Hand or Stealth skill.
