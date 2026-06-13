@@ -18,3 +18,6 @@ This damage dice change when you reach certain levels in this class. They become
 
 # Thoughtful Phrasing
 Also starting at 3rd level, you gain a bonus to Charisma checks equal to your Intelligence modifier.
+
+# Evasion 
+Starting at 7th level,
