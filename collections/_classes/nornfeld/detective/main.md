@@ -15,6 +15,10 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 
 # The Detective
 
+| Level | Proficiency Bonus | Features |
+| :---: | :---: | :---- |
+| 1st | +2 | [[Specialized Intellectual]], [[Unarmored Technique]] |
+
 # Class Features
 As a detective, you gain the following class features.
 
