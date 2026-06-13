@@ -3,6 +3,7 @@ title: "Detective"
 index:
   - detective
 permalink: /classes/detective/
+class: true
 excerpt: "Detectives are the pinnacle of modern problem solving."
 # header:
 #   overlay_image: /assets/images/classes/detective/header.png
