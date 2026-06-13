@@ -13,6 +13,8 @@ Keltain is governed by king Theodore Roster the IV. It is a bleak place with dan
 
 King Roster doesn't bother addressing this problem, since his palace is well guarded, and so are most cities. Monsters rarely attack the cities. The villages, however, aren't so safe. Werewolves lurk in the crop fields and vampires feed at night, while eldritch horrors attack under the grey sky of Keltain.
 
+[:expansions/survivors-guide-to-morgenfell/werewolf-fight:]
+
 # Torvelle
 The capital of Keltain.
 
