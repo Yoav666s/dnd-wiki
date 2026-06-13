@@ -102,7 +102,7 @@ It has been discovered that sanitizing wounds can help prevent inflammation. By 
 Methods to provide first aid to a wounded individual have been developed by physicians in Auberfield and are taught to medics all throughout Morgenfell.
 
 # Chapter 1: History of Morgenfell
-> "And that which we call the 'Great Massacre' has proven to us the dangerous and reckless nature of magic. Over two hundred years it took us to restore and even surpass our previous greatness which has been sullied and destroyed by magic. To that we say: never again!"
+> "... and that which we call the 'Great Massacre' has proven to us the dangerous and reckless nature of magic. Over two hundred years it took us to restore and even surpass our previous greatness which has been sullied and destroyed by magic. To that we say: never again!"
 >
 > --from the Official Decree of the Arcane Dictum, 217 A.GM
 
