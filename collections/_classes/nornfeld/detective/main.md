@@ -50,7 +50,7 @@ As a detective, you gain the following class features.
 ## Proficiencies
 **Armor:** None \
 **Weapons:** Simple weapons, firearms, rapiers, light crossbows \
-**Tools:** None \
+**Tools:** Forgery Kit \
 **Saving Throws:** Intelligence, Dexterity \
 **Skills:** Choose three from Arcana, Deception, History, Insight, Investigation, Medicine, Nature, Perception, Persuasion, and Religion
 
@@ -59,7 +59,8 @@ You start with the following equipment, in addition to the equipment granted by 
 
 (a) a pistol and 20 bullets or (b) a light crossbow and 20 bolts \
 (a) a rapier or (b) a simple weapon \
-(a) a scholar's pack or (b) an explorer's pack
+(a) a scholar's pack or (b) an explorer's pack \
+a Forgery Kit and a dagger
 
 ## Expertise
 At 1st level, choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency.
