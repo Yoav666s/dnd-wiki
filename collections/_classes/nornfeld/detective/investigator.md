@@ -6,7 +6,7 @@ permalink: /classes/detective/investigator/
 excerpt: ""
 subclass: detective 
 header:
-  overlay_image: /assets/images/classes/investigator/diplomat/header.png
+  overlay_image: /assets/images/classes/detective/investigator/header.png
   teaser: /assets/images/classes/detective/investigator/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
