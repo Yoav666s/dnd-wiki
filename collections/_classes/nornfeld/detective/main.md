@@ -17,12 +17,14 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 
 | Level | Proficiency Bonus | Features |
 | :---: | :---: | :---- |
-| 1st | +2 | [[Specialized Intellectual]], [[Unarmored Technique]] |
+| 1st | +2 | [[Expertise]], [[Unarmored Technique]] |
 | 2nd | +2 | [[Calculated Action]], [[Professional Talent]] |
 | 3rd | +2 | [[Academic Field]] |
 | 4th | +2 | [[Ability Score Improvement]] |
 | 5th | +3 | [[Extra Attack]], [[Quick Learner]] |
-| 6th | +3 |  |
+| 6th | +3 | [[Expertise]] |
+| 7th | +3 | [[Academic Field]] feature |
+| 8th | +3 | [[Ability Score Improvement]] |
 
 # Class Features
 As a detective, you gain the following class features.
@@ -46,7 +48,7 @@ You start with the following equipment, in addition to the equipment granted by 
 (a) a rapier or (b) a simple weapon \
 (a) a scholar's pack or (b) an explorer's pack
 
-## Specialized Intellectual
+## Expertise
 At 1st level, choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency.
 
 At 6th level and again at 11th level, you can choose two more of your proficiencies to gain this benefit.
