@@ -19,3 +19,6 @@ As an urban gnome, you have the following traits.
 
 ## Ability Score Increase
 Your Dexterity score increases by 1.
+
+## Danger Aversion
+You have advantage on Dexterity (Stealth) checks when taking the hide action in combat.
