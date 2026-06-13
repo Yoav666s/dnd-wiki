@@ -18,7 +18,7 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 
 | Level | Proficiency Bonus | Features |
 | :---: | :---: | :---- |
-| 1st | +2 | [[Expertise]], [[Professional Talent]], [[Unarmored Defense]] |
+| 1st | +2 | [[Expertise]], [[Professional Talent]] |
 | 2nd | +2 | [[Calculated Action]], [[Fighting Style]] |
 | 3rd | +2 | [[Professional Field]] |
 | 4th | +2 | [[Ability Score Improvement]] |
@@ -48,7 +48,7 @@ As a detective, you gain the following class features.
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per detective level after 1st
 
 ## Proficiencies
-**Armor:** None \
+**Armor:** Light Armor \
 **Weapons:** Simple weapons, firearms, rapiers, light crossbows \
 **Tools:** Forgery Kit \
 **Saving Throws:** Intelligence, Dexterity \
@@ -60,7 +60,7 @@ You start with the following equipment, in addition to the equipment granted by 
 (a) a pistol and 20 bullets or (b) a light crossbow and 20 bolts \
 (a) a rapier or (b) a simple weapon \
 (a) a scholar's pack or (b) an explorer's pack \
-a Forgery Kit and a dagger
+Studded Leather Armor, a Forgery Kit, and a dagger
 
 ## Expertise
 At 1st level, choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency.
@@ -72,13 +72,8 @@ Starting at 1st level, when you make an ability check to which you apply your pr
 
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
 
-## Unarmored Defense
-Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Intelligence modifier.
-
 ##  Calculated Action
 Starting at 2nd level, you can take a bonus action on each of your turns in combat. This action can be used only to take the [[Disengage]], [[Help]], or [[Search]] action.
-
-Additionally, when you take the [[Help]] action, the target can be within 30 feet of you, rather than 5 feet of you, if the target can see or hear you.
 
 ## Fighting Style
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
