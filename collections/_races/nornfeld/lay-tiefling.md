@@ -18,4 +18,4 @@ If you're playing in the Morgenfell campaign setting, your DM might allow these 
 As a lay tiefling, you have the following traits.
 
 ## Devil's Wit
-You gain proficiency in Deception, Insight, or Intimidation.
+You have proficiency in the Deception, Insight, or Intimidation skill.
