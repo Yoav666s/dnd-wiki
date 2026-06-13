@@ -48,11 +48,11 @@ Chapter 3 will show you around the cities of Morgenfell, going into the details 
 
 Chapter 4 will introduce new work in progress subclasses, completely untested and definitely not ready for serious play.
 
-Chapter 5 will go over new flavorful feats that fit the setting, again, completely untested.
+Chapter 5 will include races that adapted to the non-magical setting of Morgenfell.
 
-Chapter 6 will include items, wondrous or otherwise, that are an essential part of the setting.
+Chapter 6 will go over new flavorful feats that fit the setting, again, completely untested.
 
-Chapter 7 will include races that adapted to the non-magical setting of Morgenfell.
+Chapter 7 will include items, wondrous or otherwise, that are an essential part of the setting.
 
 Chapters 8 through 9 will include adventures to kick off your campaign. Again, completely untested.
 
@@ -139,17 +139,17 @@ With magic being illegal under the authority of the Arcane Dictum, the people of
 
 {% include expansion_subclasses.html %}
 
-# Chapter 5: Feats
+# Chapter 5: Races
+The following are races of creatures that live in Morgenfell after centuries of the Arcane Dictum's establishment.
+
+{% include expansion_races.html %}
+
+# Chapter 6: Feats
 The people of Morgenfell have adapted to a different way of living than the rest of Nornfeld, what with their technology and lack of magic. To reflect that there are feats that compliment the setting.
 
 {% include expansion_feats.html %}
 
-# Chapter 6: Items
+# Chapter 7: Items
 The following are items that are essential to running a campaign in the setting of Morgenfell.
 
 {% include expansion_items.html %}
-
-# Chapter 7: Races
-The following are races of creatures that live in Morgenfell after centuries of the Arcane Dictum's establishment.
-
-{% include expansion_races.html %}
