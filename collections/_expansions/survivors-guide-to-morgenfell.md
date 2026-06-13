@@ -137,7 +137,7 @@ Some people, however, went through the legal process of forgoing magic but didn'
 Over the centuries, bases were discovered and destroyed by regulators, but many remained well hidden within the forests throughout Morgenfell. It is even possible to find elves and tieflings who didn't lose their innate magic, but they keep this secret well guarded.
 
 ## The Present
-In present times, at around 800 A.G.M, 
+In present times, 542 A.G.M, magic is truly a thing of the past. Everyday routine has been adapted to the industrial era, and advancements are being made to allow for even more humanoid convenience. Electricity is being pursued but is still in its experimental phase, and long distance travel still relies on horses when it's not possible to use the railway system.
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
