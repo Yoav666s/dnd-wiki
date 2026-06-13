@@ -65,7 +65,7 @@ Studded Leather Armor, a Forgery Kit, and a dagger
 ## Expertise
 At 1st level, choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency.
 
-At 6th level and again at 11th level, you can choose two more of your proficiencies to gain this benefit.
+At 6th level, you can choose two more of your proficiencies to gain this benefit.
 
 ## Professional Talent 
 Starting at 1st level, when you make an ability check to which you apply your proficiency bonus or when you make an attack roll with a weapon you're proficient in, you can give yourself advantage on the roll.
@@ -97,7 +97,7 @@ At 3rd level, you choose a field in which expand your abilities. Your field choi
 When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Extra Attack
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn, and you ignore the Loading property of crossbows and firearms.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ## Quick Learner
 Starting at 5th level, you regain all of your expended uses of Professional Talent when you finish a short or long rest.
@@ -106,7 +106,7 @@ Starting at 5th level, you regain all of your expended uses of Professional Tale
 Starting at 9th level, you have advantage on Intelligence (Investigation) checks.
 
 ## Intelligent Strikes
-Starting at 10th level, when you take the attack action on your turn, your weapon attacks deal additional damage equal to your Intelligence modifier.
+Starting at 11th level, when you take the attack action on your turn, your weapon attacks deal additional damage equal to your Intelligence modifier.
 
 ## Relentless Talent
 Starting at 15th level, when you roll initiative and have no remaining uses of Professional Talent left, you regain one use.
