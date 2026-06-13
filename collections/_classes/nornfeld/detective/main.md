@@ -71,6 +71,8 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 ##  Calculated Action
 Starting at 2nd level, you can take a bonus action on each of your turns in combat. This action can be used only to take the [[Disengage]], [[Help]], or [[Search]] action.
 
+Additionally, when you take the [[Help]] action, the target can be within 30 feet of you, rather than 5 feet of you, if the target can see or hear you.
+
 ## Professional Talent 
 Starting at 2nd level, when you make an ability check to which you apply your proficiency bonus or when you make an attack roll with a weapon you're proficient in, you can give yourself advantage on the roll.
 
