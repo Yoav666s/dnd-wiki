@@ -19,3 +19,6 @@ As a lay tiefling, you have the following traits.
 
 ## Devil's Wit
 You have proficiency in the Deception, Insight, or Intimidation skill.
+
+## Inexorable Resolution
+You have advantage on Charisma saving throws against magic.
