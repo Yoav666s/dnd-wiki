@@ -18,7 +18,7 @@ The capital of Keltain.
 
 # Other Cities
 
-- Everground
+- Evertground
 - Soverngale
 - Willowkeep
 - Hathermake
