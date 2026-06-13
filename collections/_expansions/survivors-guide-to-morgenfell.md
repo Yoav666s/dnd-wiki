@@ -68,8 +68,8 @@ In a village where eldritch horrors could show up at any time, a gun is man's be
 ### The Industrial Revolution
 Top hats, walking canes, and elegant suits. Factories and railroads, advanced sewer systems, and everything modern (relatively, at least). Wedland is the prime, living and breathing example of the industrial revolution. The shrinking forests pose little threat, but not all danger is obsolete when shapeshifting devils slowly and insidiously infiltrate society's higher classes.
 
-## Dwarven Technology
-The industrial advancements of Morgenfell are based on technology developed by dawrven engineers. They've invented firearms which help defend citizens from the horrors of the forests, the steam engine which powers trains and carriages, and the electric telecommunicator which allows the transmission of coded messages.
+## Dwarven Technology and Gnomish Innovation
+The industrial advancements of Morgenfell are based on technology developed by dawrven engineers and gnomish tinkerers. They've invented firearms which help defend citizens from the horrors of the forests, the steam engine which powers trains and carriages, and the electric telecommunicator which allows the transmission of coded messages.
 
 ### Firearms
 The invention of firearms was a revolutionary milestone in the history of Wedland, and one of the crucial steps leading to the implementation of the Arcane Dictum. Firearms are now commonplace in villages and cities, but owning and using them is regulated by the requirement of an official license.
