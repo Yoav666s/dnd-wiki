@@ -143,3 +143,8 @@ The people of Morgenfell have adapted to a different way of living than the rest
 The following are items that are essential to running a campaign in the setting of Morgenfell.
 
 {% include expansion_items.html %}
+
+# Chapter 7: Races
+The following are races of creatures that live in Morgenfell after centuries of the Arcane Dictum's establishment.
+
+{% include expansion_races.html %}
