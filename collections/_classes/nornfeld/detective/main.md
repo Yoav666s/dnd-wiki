@@ -18,7 +18,7 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 
 | Level | Proficiency Bonus | Features |
 | :---: | :---: | :---- |
-| 1st | +2 | [[Expertise]], [[Unarmored Technique]] |
+| 1st | +2 | [[Expertise]], [[Unarmored Defense]] |
 | 2nd | +2 | [[Calculated Action]], [[Professional Talent]] |
 | 3rd | +2 | [[Professional Field]] |
 | 4th | +2 | [[Ability Score Improvement]] |
@@ -66,7 +66,7 @@ At 1st level, choose one of your skill proficiencies. Your proficiency bonus is 
 
 At 6th level and again at 11th level, you can choose two more of your proficiencies to gain this benefit.
 
-## Unarmored Technique
+## Unarmored Defense
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Intelligence modifier.
 
 ##  Calculated Action
