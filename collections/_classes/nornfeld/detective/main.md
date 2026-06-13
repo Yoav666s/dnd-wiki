@@ -27,11 +27,11 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 | 7th | +3 | [[Professional Field]] feature |
 | 8th | +3 | [[Ability Score Improvement]] |
 | 9th | +4 | [[Experienced Investigator]] |
-| 10th | +4 | [[]] |
+| 10th | +4 | [[Sharp Reflexes]] |
 | 11th | +4 | [[Intelligent Strikes]] |
 | 12th | +4 | [[Ability Score Improvement]] |
 | 13th | +5 | [[Professional Field]] feature |
-| 14th | +5 | [[]] |
+| 14th | +5 | [[Resilient Mind]] |
 | 15th | +5 | [[Relentless Talent]] |
 | 16th | +5 | [[Ability Score Improvement]] |
 | 17th | +6 | [[Professional Field]] feature |
@@ -107,17 +107,20 @@ Starting at 5th level, you regain all of your expended uses of Professional Tale
 ## Experienced Investigator
 Starting at 9th level, you have advantage on Intelligence (Investigation) checks.
 
-##  Reflexes 
+## Sharp Reflexes 
 Starting at 10th level, when you fail a saving throw, you can expend a use of Professional Talent to reroll the d20, and you must use the new roll.
 
 ## Intelligent Strikes
 Starting at 11th level, when you take the attack action on your turn, your weapon attacks deal additional damage equal to your Intelligence modifier.
 
+## Resilient Mind
+Starting at 14th level, you gain a bonus to Wisdom and Charisma saving throws equal to your Intelligence modifier.
+
 ## Relentless Talent
 Starting at 15th level, when you roll initiative and have no remaining uses of Professional Talent left, you regain one use.
 
 ## Indomitable Mind
-Starting at 18th level, if your total for an Intelligence check is less than your Intelligence score, you can use that score in place of the total.
+Starting at 18th level, when you use Professional Talent and still fail or miss, the use is not expended.
 
 ## Unrivaled Intellect
 At 20th level, your Intelligence score increases by 4. Your maximum for this score is now 24.
