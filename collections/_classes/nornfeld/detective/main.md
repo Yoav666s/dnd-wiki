@@ -114,7 +114,7 @@ Starting at 10th level, when you fail a saving throw, you can use your reaction 
 Starting at 11th level, when you take the attack action on your turn, your weapon attacks deal additional damage equal to your Intelligence modifier.
 
 ## Resilient Mind
-Starting at 14th level, you gain a bonus to Wisdom and Charisma saving throws equal to your Intelligence modifier.
+Starting at 14th level, you gain proficiency in Wisdom saving throws.
 
 ## Relentless Talent
 Starting at 15th level, when you roll initiative and have no remaining uses of Professional Talent left, you regain one use.
