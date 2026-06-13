@@ -3,7 +3,7 @@ title: "Urban Gnome"
 index:
   - urban-gnome
 permalink: /races/urban-gnome/
-excerpt: "As an urban gnome, you have a natural tendency to invent and work with complex machinery."
+excerpt: "As an urban gnome, you have a natural knack for traversing the industrial streets of Morgenfell."
 tags:
   - Race
   - Gnome
