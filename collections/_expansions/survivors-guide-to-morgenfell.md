@@ -52,7 +52,9 @@ Chapter 5 will go over new flavorful feats that fit the setting, again, complete
 
 Chapter 6 will include items, wondrous or otherwise, that are an essential part of the setting.
 
-Chapters 7 through 9 will include adventures to kick off your campaign. Again, completely untested.
+Chapter 7 will include races that adapted to the non-magical setting of Morgenfell.
+
+Chapters 8 through 9 will include adventures to kick off your campaign. Again, completely untested.
 
 ## Wonder, Horror, and Industrial Revelation
 You're the one who ultimately decides how horrifying or wondrous you want your campaign to be, and that choice will probably shape the decision of *where* you want your campaign to be. Vampires can attack a village in Auberfield and fey creatures can be found in the forests of Keltain, while shapeshifting fiends and devils are by no means limited to Wedland, but each kingdom has its own unique aesthetic.
