@@ -27,11 +27,11 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 | 7th | +3 | [[Professional Field]] feature |
 | 8th | +3 | [[Ability Score Improvement]] |
 | 9th | +4 | [[Experienced Investigator]] |
-| 10th | +4 | [[Intelligent Strikes]] |
-| 11th | +4 | [[Expertise]] |
+| 10th | +4 | [[]] |
+| 11th | +4 | [[Intelligent Strikes]] |
 | 12th | +4 | [[Ability Score Improvement]] |
 | 13th | +5 | [[Professional Field]] feature |
-| 14th | +5 | [[Ability Score Improvement]] |
+| 14th | +5 | [[]] |
 | 15th | +5 | [[Relentless Talent]] |
 | 16th | +5 | [[Ability Score Improvement]] |
 | 17th | +6 | [[Professional Field]] feature |
@@ -96,7 +96,7 @@ At 3rd level, you choose a field in which expand your abilities. Your field choi
 | [[!Strategist]] | Survivor's Guide to Morgenfell |
 
 ## Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
