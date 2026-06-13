@@ -103,10 +103,8 @@ Starting at 10th level, when you take the attack action on your turn, you deal a
 ## Relentless Talent
 Starting at 15th level, when you roll initiative and have no remaining uses of Professional Talent left, you regain one use.
 
-## Astute Aim
-Starting at 18th level, when you hit with an attack roll, you can turn it into a critical hit.
-
-You can use this feature twice, and you regain all expended uses when you finish a short or long rest.
+## Indomitable Intellect
+Starting at 18th level, when you
 
 ## Unrivaled Intellect
 At 20th level, your Intelligence score increases by 4. Your maximum for this score is now 24.
