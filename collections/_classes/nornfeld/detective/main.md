@@ -20,21 +20,21 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 | :---: | :---: | :---- |
 | 1st | +2 | [[Expertise]], [[Unarmored Technique]] |
 | 2nd | +2 | [[Calculated Action]], [[Professional Talent]] |
-| 3rd | +2 | [[Academic Field]] |
+| 3rd | +2 | [[Professional Field]] |
 | 4th | +2 | [[Ability Score Improvement]] |
 | 5th | +3 | [[Extra Attack]], [[Quick Learner]] |
 | 6th | +3 | [[Expertise]] |
-| 7th | +3 | [[Academic Field]] feature |
+| 7th | +3 | [[Professional Field]] feature |
 | 8th | +3 | [[Ability Score Improvement]] |
 | 9th | +4 | [[Experienced Investigator]] |
 | 10th | +4 | [[Intelligent Strikes]] |
 | 11th | +4 | [[Expertise]] |
 | 12th | +4 | [[Ability Score Improvement]] |
-| 13th | +5 | [[Academic Field]] feature |
+| 13th | +5 | [[Professional Field]] feature |
 | 14th | +5 | [[Ability Score Improvement]] |
 | 15th | +5 | [[Relentless Talent]] |
 | 16th | +5 | [[Ability Score Improvement]] |
-| 17th | +6 | [[Academic Field]] feature |
+| 17th | +6 | [[Professional Field]] feature |
 | 18th | +6 | [[Indomitable Mind]] |
 | 19th | +6 | [[Ability Score Improvement]] |
 | 20th | +6 | [[Unrivaled Intellect]] |
@@ -79,12 +79,12 @@ Starting at 2nd level, when you make an ability check to which you apply your pr
 
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
 
-## Academic Field
+## Professional Field
 At 3rd level, you choose a field in which expand your abilities. Your field choice grants you features at 3rd level and then again at 7th level, 13th level, and 17th level.
 
-| Academic Field | Source |
+| Professional Field | Source |
 | :---- |  :--- |
-| [[!Diplomat]] | Survivor's Guide to Morgenfell |
+| [[!Investigator]] | Survivor's Guide to Morgenfell |
 | [[!Physician]] | Survivor's Guide to Morgenfell |
 | [[!Strategist]] | Survivor's Guide to Morgenfell |
 
