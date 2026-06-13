@@ -129,10 +129,12 @@ At 206 A.G.M, the first order of the Arcane Dictum was ruled: it was then illega
 #### Magical Lineages
 In the year 207 A.G.M, it was announced that members of races that were related to the Feywild or the Nine Hells were to be exiled from the territories of the monarchies by the year 212 A.G.M unless they go through a legal process to give up their right to use their innate magic. In the following 5 years, most tieflings and elves had left Morgenfell and emigrated with assistance from the monarchies; ships sailed back and forth from Morgenfell to the surrounding continents.
 
-Some, however, had decided not to leave Morgenfell. Many elves, tieflings, and gnomes had decided to stay and concede their innate magical abilities to the law. In the following centuries, their magical abilities declined with each generation until they were nonexistent.
+Some, however, had decided not to leave Morgenfell. Many elves, tieflings, and gnomes had decided to stay and concede their innate magical abilities to the law. In the following centuries, their magical abilities declined with each generation until they became nonexistent.
 
 ### The Resistance 
 Some people, however, went through the legal process of forgoing magic but didn't adhere to the law. In forests, they set up communal bases where they would teach and practice magic. That's how the resistance was formed right under the noses of the monarchies.
+
+Over the centuries, bases were discovered and destroyed by enforcers, but many remained hidden well within the forests throughout Morgenfell. It is even possible to find elves and tieflings who didn't lose their innate magic, but they keep this secret well guarded.
 
 # Chapter 4: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
