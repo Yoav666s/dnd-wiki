@@ -27,11 +27,11 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 | 7th | +3 | [[Professional Field]] feature |
 | 8th | +3 | [[Ability Score Improvement]] |
 | 9th | +4 | [[Experienced Investigator]] |
-| 10th | +4 | [[Sharp Reflexes]] |
+| 10th | +4 | [[Considered Deflection]] |
 | 11th | +4 | [[Intelligent Strikes]] |
 | 12th | +4 | [[Ability Score Improvement]] |
 | 13th | +5 | [[Professional Field]] feature |
-| 14th | +5 | [[Resilient Mind]] |
+| 14th | +5 | [[Sharp Reflexes]] |
 | 15th | +5 | [[Relentless Talent]] |
 | 16th | +5 | [[Ability Score Improvement]] |
 | 17th | +6 | [[Professional Field]] feature |
