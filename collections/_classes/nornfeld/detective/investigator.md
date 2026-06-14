@@ -12,7 +12,7 @@ source: "Survivor's Guide to Morgenfell"
 ---
 
 # Momentary Opening
-Starting at 3rd level when you choose this field, you can take the [[Help]] action to aid an ally in attacking a creature if the target is within 30 feet you, rather than 5 feet of you.
+Starting at 3rd level when you choose this field, you can take the [[Help]] action to aid an ally in attacking a creature if the target of the attack is within 30 feet you, rather than 5 feet of you.
 
 Additionally, when you take the [[Help]] action to aid an ally in attacking a creature, the target of that attack takes an additional 1d6 damage of the attack's type if it hits.
 
