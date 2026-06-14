@@ -32,7 +32,7 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 | 12th | +4 | [[Ability Score Improvement]] |
 | 13th | +5 | [[Professional Field]] feature |
 | 14th | +5 | [[Sharp Reflexes]] |
-| 15th | +5 | [[Relentless Talent]] |
+| 15th | +5 | [[Superior Talent]] |
 | 16th | +5 | [[Ability Score Improvement]] |
 | 17th | +6 | [[Professional Field]] feature |
 | 18th | +6 | [[Indomitable Mind]] |
@@ -116,7 +116,7 @@ Starting at 11th level, when you take the attack action on your turn, your weapo
 ## Sharp Reflexes 
 Starting at 14th level, when you fail a saving throw, you can use your reaction and expend a use of Professional Talent to reroll the d20, and you must use the new roll.
 
-## Relentless Talent
+## Superior Talent
 Starting at 15th level, when you roll initiative and have no remaining uses of Professional Talent left, you regain one use.
 
 ## Indomitable Mind
