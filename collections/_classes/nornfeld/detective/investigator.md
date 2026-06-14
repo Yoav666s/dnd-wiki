@@ -26,3 +26,6 @@ Starting at 7th level, when you are subjected to an effect that allows you to ma
 
 # Investigator's Reasoning
 Starting at 13th level,you have advantage on Intelligence (Investigation) checks.
+
+#
+Starting at 17th level,
