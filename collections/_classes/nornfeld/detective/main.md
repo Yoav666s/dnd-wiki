@@ -105,7 +105,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 Starting at 5th level, you regain all of your expended uses of Professional Talent when you finish a short or long rest.
 
 ## Experienced Investigator
-Starting at 9th level, you have advantage on Intelligence (Investigation) checks.
+Starting at 9th level, you can take the [[Search]] action in combat to make an Intelligence (Investigation) check against a creature's AC. On success, you learn any immunities, resistances, and vulnerabilities it has.
 
 # Considered Deflection
 Starting at 10th level, when you are hit with a weapon attack, you can use your reaction to add your Intelligence modifier to your AC, possibly causing the attack to miss. You retain this bonus to your AC until the start of your turn.
