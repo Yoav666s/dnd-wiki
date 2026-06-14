@@ -12,4 +12,4 @@ source: "Survivor's Guide to Morgenfell"
 ---
 
 #
-Starting at 3rd level, when you take the Attack action on your turn, you can forgo one attack
+Starting at 3rd level, once on your turn when you take the Attack action, you can forgo an attack to 
