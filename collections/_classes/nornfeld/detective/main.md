@@ -107,14 +107,14 @@ Starting at 5th level, you regain all of your expended uses of Professional Tale
 ## Experienced Investigator
 Starting at 9th level, you have advantage on Intelligence (Investigation) checks.
 
-## Sharp Reflexes 
-Starting at 10th level, when you fail a saving throw, you can use your reaction and expend a use of Professional Talent to reroll the d20, and you must use the new roll.
+# Considered Deflection
+Starting at 10th level, when you are hit with a weapon attack, you can use your reaction to add your Intelligence modifier to your AC, possibly causing the attack to miss. You retain this bonus to your AC until the start of your turn.
 
 ## Intelligent Strikes
 Starting at 11th level, when you take the attack action on your turn, your weapon attacks deal additional damage equal to your Intelligence modifier.
 
-## Resilient Mind
-Starting at 14th level, you gain proficiency in Wisdom saving throws.
+## Sharp Reflexes 
+Starting at 14th level, when you fail a saving throw, you can use your reaction and expend a use of Professional Talent to reroll the d20, and you must use the new roll.
 
 ## Relentless Talent
 Starting at 15th level, when you roll initiative and have no remaining uses of Professional Talent left, you regain one use.
