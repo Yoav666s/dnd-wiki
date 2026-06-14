@@ -23,3 +23,6 @@ Also starting at 3rd level, you gain a bonus to Wisdom (Insight, Perception, Sur
 
 # Evasion 
 Starting at 7th level, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+#
+Starting at 13th level,you have advantage on Intelligence (Investigation) checks you make as part of the [[Search]] action in combat.
