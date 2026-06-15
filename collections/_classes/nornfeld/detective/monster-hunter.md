@@ -13,3 +13,6 @@ source: "Survivor's Guide to Morgenfell"
 
 # Cold Deduction
 Starting at 3rd level, you gain a bonus to Wisdom (Insight, Perception, Survival) checks equal to your Intelligence modifier.
+
+# 
+Starting at 3rd level, 
