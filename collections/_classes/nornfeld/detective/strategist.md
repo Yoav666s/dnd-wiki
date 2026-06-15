@@ -22,5 +22,5 @@ Also at 3rd level, you gain a bonus to your Initiative equal to your Intelligenc
 # Resilient Mind
 Starting at 7th level, you have proficiency in Wisdom saving throws. If you already have this proficiency, you gain proficiency in Charisma saving throws, instead.
 
-# Strategic Deflection
+# Strategic Diversion
 Starting at 13th level, when an ally within 30 feet of you is hit with an attack you can see, you can use your reaction to add your Intelligence modifier to the ally's AC for it that attack, possibly causing it to miss.
