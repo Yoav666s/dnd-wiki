@@ -14,7 +14,7 @@ source: "Survivor's Guide to Morgenfell"
 # Tactical Command
 Starting at 3rd level, when you take the [[Help]] action to aid an ally in attacking a creature, you can command the ally to attack that creature. The ally can use a reaction to make that attack if the target is within range.
 
-# Thoughtful Phrasing
+# Deductive Reasoning
 Also at 3rd level, you gain a bonus to your Initiative equal to your Intelligence modifier.
 
 # Resilient Mind
