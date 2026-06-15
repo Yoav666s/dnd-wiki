@@ -3,14 +3,14 @@ title: "Investigator"
 index:
   - investigator
 permalink: /classes/detective/investigator/
-excerpt: ""
+excerpt: "Some detectives adopt a supporting role in combat, enhancing their allies' attacks."
 subclass: detective 
 header:
   overlay_image: /assets/images/classes/detective/investigator/header.png
   teaser: /assets/images/classes/detective/investigator/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
-Some detectives specialize in 
+Some detectives adopt a supporting role in combat, enhancing their allies' attacks. Investigators are well versed in the dangers that come with their occupation, and are no strangers to deadly circumstances.
 
 # Momentary Opening
 Starting at 3rd level when you choose this field, once per turn when you take the [[Help]] action to aid an ally in attacking a creature, the target of that attack takes an additional 1d6 damage of the attack's type if it hits.
