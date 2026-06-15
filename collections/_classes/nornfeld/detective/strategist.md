@@ -20,5 +20,5 @@ Also at 3rd level, you gain a bonus to Charisma checks equal to your Intelligenc
 # 
 Starting at 7th level,
 
-# 
+# Strategic Deflection
 Starting at 13th level, when an ally within 30 feet of you is hit with an attack you can see, you can use your reaction to add your Intelligence modifier to the ally's AC. The ally retains this bonus until the start of your next turn.
