@@ -12,9 +12,7 @@ source: "Survivor's Guide to Morgenfell"
 ---
 
 # Momentary Opening
-Starting at 3rd level when you choose this field, you can take the [[Help]] action to aid an ally in attacking a creature if the target of the attack is within 30 feet you, rather than 5 feet of you.
-
-Additionally, when you take the [[Help]] action to aid an ally in attacking a creature, the target of that attack takes an additional 1d6 damage of the attack's type if it hits.
+Starting at 3rd level when you choose this field, when you take the [[Help]] action to aid an ally in attacking a creature, the target of that attack takes an additional 1d6 damage of the attack's type if it hits.
 
 This damage increases when you reach certain levels in this class. It becomes 2d6 when you reach 7th level, 3d6 when you reach 13th level, and 4d6 when you reach 17th level.
 
