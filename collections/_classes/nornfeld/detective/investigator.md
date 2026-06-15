@@ -16,8 +16,8 @@ Starting at 3rd level when you choose this field, when you take the [[Help]] act
 
 This damage increases when you reach certain levels in this class. It becomes 2d6 when you reach 7th level, 3d6 when you reach 13th level, and 4d6 when you reach 17th level.
 
-# Cold Deduction
-Also starting at 3rd level, you gain a bonus to Wisdom (Insight, Perception, Survival) checks equal to your Intelligence modifier.
+# Thoughtful Phrasing
+Also at 3rd level, you gain a bonus to Charisma checks equal to your Intelligence modifier.
 
 # Evasion 
 Starting at 7th level, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
