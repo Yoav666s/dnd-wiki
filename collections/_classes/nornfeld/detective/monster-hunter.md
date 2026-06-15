@@ -22,8 +22,10 @@ The damage die changes when you reach certain levels in this class. It becomes 1
 # Unnerving Composure
 Starting at 7th level, when you have the frightened condition, you can end that condition on yourself at the end of your turn.
 
-# Hunter's Consistency 
+# Unerring Consistency 
 Starting at 13th level, once per turn when you roll lower than your Intelligence modifier on a damage die, you can replace the value of that roll with your Intelligence modifier.
 
-# 
-Starting at 17th level,
+# Finishing Strike
+Starting at 17th level, when you hit with an attack, you can deal maximum damage instead of rolling.
+
+Once you use this feature, you can't do it again until you finish a short or long rest.
