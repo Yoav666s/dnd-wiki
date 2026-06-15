@@ -16,8 +16,8 @@ Starting at 3rd level when you choose this field, when you take the [[Help]] act
 
 This damage increases when you reach certain levels in this class. It becomes 2d6 when you reach 7th level, 3d6 when you reach 13th level, and 4d6 when you reach 17th level.
 
-# Thoughtful Phrasing
-Also at 3rd level, you gain a bonus to Charisma checks equal to your Intelligence modifier.
+# Quick Evaluation
+Also at 3rd level, you can take the [[Search]] action in combat to make an Intelligence (Investigation) check against a creature's AC. On success, you learn any immunities, resistances, and vulnerabilities it has.
 
 # Evasion 
 Starting at 7th level, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
