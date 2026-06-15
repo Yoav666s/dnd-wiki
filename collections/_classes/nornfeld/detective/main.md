@@ -105,11 +105,8 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 ## Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-## Quick Learner
-Starting at 5th level, you regain all of your expended uses of Professional Talent when you finish a short or long rest.
-
 ## Experienced Investigator
-Starting at 9th level, you can take the [[Search]] action in combat to make an Intelligence (Investigation) check against a creature's AC. On success, you learn any immunities, resistances, and vulnerabilities it has.
+Starting at 9th level, you regain all of your expended uses of Professional Talent when you finish a short or long rest.
 
 # Considered Deflection
 Starting at 10th level, when you are hit with a melee attack while wielding a finesse or ranged weapon, you can use your reaction to add your Intelligence modifier to your AC for that attack, possibly causing the attack to miss.
