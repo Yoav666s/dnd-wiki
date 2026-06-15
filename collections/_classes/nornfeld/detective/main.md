@@ -23,7 +23,7 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 | 2nd | +2 | [[Calculated Action]], [[Fighting Style]] |
 | 3rd | +2 | [[Professional Field]] |
 | 4th | +2 | [[Ability Score Improvement]] |
-| 5th | +3 | [[Extra Attack]], [[Quick Learner]] |
+| 5th | +3 | [[Extra Attack]] |
 | 6th | +3 | [[Expertise]] |
 | 7th | +3 | [[Professional Field]] feature |
 | 8th | +3 | [[Ability Score Improvement]] |
