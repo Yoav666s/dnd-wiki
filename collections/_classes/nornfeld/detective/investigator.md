@@ -25,5 +25,5 @@ Starting at 7th level, when you are subjected to an effect that allows you to ma
 # Investigator's Reasoning
 Starting at 13th level, you have advantage on Intelligence (Investigation) checks.
 
-#
+# Forced Opening
 Starting at 17th level, when an attack that benefits from your Momentary Opening feature misses, the target takes half damage of the additional damage that would have been dealt.
