@@ -95,7 +95,8 @@ At 3rd level, you choose a field in which expand your abilities. Your field choi
 | Professional Field | Source |
 | :---- |  :--- |
 | [[!Investigator]] | Survivor's Guide to Morgenfell |
-| [[!Physician]] | Survivor's Guide to Morgenfell |
+| [[!Monster Hunter]] | Survivor's Guide to Morgenfell |
+| [[!Regulator]] | Survivor's Guide to Morgenfell |
 | [[!Strategist]] | Survivor's Guide to Morgenfell |
 
 ## Ability Score Improvement
