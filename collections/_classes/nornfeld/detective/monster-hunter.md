@@ -3,13 +3,14 @@ title: "Monster Hunter"
 index:
   - monster-hunter
 permalink: /classes/detective/monster-hunter/
-excerpt: ""
+excerpt: "Monster Hunters are the answer to vampires, werewolves, and eldritch horrors in a continent where magic is no more."
 subclass: detective 
 header:
   overlay_image: /assets/images/classes/detective/monster-hunter/header.png
   teaser: /assets/images/classes/detective/monster-hunter/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
+Monster Hunters are the answer to vampires, werewolves, and eldritch horrors in a continent where magic is no more. They hit hard, securing kills and making sure monsters won't live to prey on the defenseless.
 
 # Cold Deduction
 Starting at 3rd level, you gain a bonus to Wisdom (Insight, Perception, Survival) checks equal to your Intelligence modifier.
