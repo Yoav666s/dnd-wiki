@@ -10,6 +10,7 @@ header:
   teaser: /assets/images/classes/detective/investigator/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
+Some detectives specialize in 
 
 # Momentary Opening
 Starting at 3rd level when you choose this field, once per turn when you take the [[Help]] action to aid an ally in attacking a creature, the target of that attack takes an additional 1d6 damage of the attack's type if it hits.
@@ -26,4 +27,4 @@ Starting at 7th level, when you are subjected to an effect that allows you to ma
 Starting at 13th level, you have advantage on Intelligence (Investigation) checks.
 
 # Forced Opening
-Starting at 17th level, when an attack that benefits from your Momentary Opening feature misses, the target takes half damage of the additional damage that would have been dealt.
+Starting at 17th level, when an attack that benefits from your Momentary Opening feature misses, the target takes half damage of the additional damage that attack would have dealt.
