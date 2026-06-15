@@ -18,3 +18,9 @@ Starting at 3rd level, you gain a bonus to Wisdom (Insight, Perception, Survival
 Starting at 3rd level, when you hit a creature with a weapon, you can deal an extra 1d6 damage to the target, which can take this extra damage only once per turn.
 
 The damage die changes when you reach certain levels in this class. It becomes 1d8 when you reach 7th level, 1d10 when you reach 13th level, and 1d12 when you reach 17th level.
+
+# 
+Starting at 7th level,
+
+# Hunter's Consistency 
+Starting at 13th level, once per turn when you roll lower than your Intelligence modifier on a damage die, you can replace the value of that roll with your Intelligence modifier.
