@@ -75,6 +75,8 @@ You can use this feature a number of times equal to your Intelligence modifier (
 ##  Calculated Action
 Starting at 2nd level, you can take a bonus action on each of your turns in combat. This action can be used only to take the [[Disengage]], [[Help]], or [[Search]] action.
 
+Additionally, you can take the [[Help]] action to aid an ally in attacking a creature if the target of the attack is within 30 feet you, rather than 5 feet of you.
+
 ## Fighting Style
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
