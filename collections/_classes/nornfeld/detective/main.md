@@ -110,7 +110,7 @@ Starting at 5th level, you regain all of your expended uses of Professional Tale
 Starting at 9th level, you can take the [[Search]] action in combat to make an Intelligence (Investigation) check against a creature's AC. On success, you learn any immunities, resistances, and vulnerabilities it has.
 
 # Considered Deflection
-Starting at 10th level, when you are hit with a weapon attack, you can use your reaction to add your Intelligence modifier to your AC, possibly causing the attack to miss. You retain this bonus to your AC until the start of your turn.
+Starting at 10th level, when you are hit with a weapon attack, you can use your reaction to add your Intelligence modifier to your AC for that attack, possibly causing the attack to miss.
 
 ## Intelligent Strikes
 Starting at 11th level, when you take the attack action on your turn, your weapon attacks deal additional damage equal to your Intelligence modifier.
