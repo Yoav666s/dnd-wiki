@@ -52,7 +52,7 @@ As a detective, you gain the following class features.
 **Armor:** Light Armor \
 **Weapons:** Simple weapons, firearms, rapiers, light crossbows \
 **Tools:** Forgery Kit \
-**Saving Throws:** Intelligence, Dexterity \
+**Saving Throws:** Dexterity, Intelligence \
 **Skills:** Choose three from Arcana, Deception, History, Insight, Investigation, Medicine, Nature, Perception, Persuasion, Religion, and Survival
 
 ## Equipment
