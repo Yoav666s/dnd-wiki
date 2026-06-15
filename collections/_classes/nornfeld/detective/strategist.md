@@ -3,13 +3,14 @@ title: "Strategist"
 index:
   - strategist
 permalink: /classes/detective/strategist/
-excerpt: ""
+excerpt: "Strategists command the battlefield, letting their allies shine in key moments."
 subclass: detective 
 header:
   overlay_image: /assets/images/classes/detective/strategist/header.png
   teaser: /assets/images/classes/detective/strategist/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
+Strategists command the battlefield, letting their allies shine in key moments. They direct the flow of combat, making sure that their allies are safe while the enemy is never ready for what comes next.
 
 # Tactical Command
 Starting at 3rd level, when you take the [[Help]] action to aid an ally in attacking a creature, you can command the ally to attack that creature. The ally can use a reaction to make that attack if the target is within range.
