@@ -46,15 +46,15 @@ Chapter 2 will dive into the political figures of each kingdom and how they inte
 
 Chapter 3 will show you around the cities of Morgenfell, going into the details of each and every city.
 
-Chapter 4 will introduce new work in progress subclasses, completely untested and definitely not ready for serious play.
+Chapter 5 will introduce new work in progress subclasses, completely untested and definitely not ready for serious play.
 
-Chapter 5 will include races that adapted to the non-magical setting of Morgenfell.
+Chapter 6 will include races that adapted to the non-magical setting of Morgenfell.
 
-Chapter 6 will go over new flavorful feats that fit the setting, again, completely untested.
+Chapter 7 will go over new flavorful feats that fit the setting, again, completely untested.
 
-Chapter 7 will include items, wondrous or otherwise, that are an essential part of the setting.
+Chapter 8 will include items, wondrous or otherwise, that are an essential part of the setting.
 
-Chapters 8 through 9 will include adventures to kick off your campaign. Again, completely untested.
+Chapters 9 through 12 will include adventures to kick off your campaign. Again, completely untested.
 
 ## Wonder, Horror, and Industrial Revelation
 You're the one who ultimately decides how horrifying or wondrous you want your campaign to be, and that choice will probably shape the decision of *where* you want your campaign to be. Vampires can attack a village in Auberfield and fey creatures can be found in the forests of Keltain, while shapeshifting fiends and devils are by no means limited to Wedland, but each kingdom has its own unique aesthetic.
@@ -139,22 +139,27 @@ Over the centuries, bases were discovered and destroyed by regulators, but many 
 ## The Present
 In present times, 542 A.G.M, magic is truly a thing of the past. Everyday routine has been adapted to the industrial era, and advancements are being made to allow for even more humanoid convenience. Electricity is being pursued but is still in its experimental phase, and long distance travel still relies on horses when it's not possible to use the railway system.
 
-# Chapter 4: Subclasses
+# Chapter 4: Classes
+The setting of Morgenfell essentially prohibits magical classes unless you want to go rogue. This leaves a void which can be filled with the following classes.
+
+{% include expansion_classes.html %}
+
+# Chapter 5: Subclasses
 With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
 
 {% include expansion_subclasses.html %}
 
-# Chapter 5: Races
+# Chapter 6: Races
 The following are races of creatures that live in Morgenfell after centuries of the Arcane Dictum's establishment.
 
 {% include expansion_races.html %}
 
-# Chapter 6: Feats
+# Chapter 7: Feats
 The people of Morgenfell have adapted to a different way of living than the rest of Nornfeld, what with their technology and lack of magic. To reflect that there are feats that compliment the setting.
 
 {% include expansion_feats.html %}
 
-# Chapter 7: Items
+# Chapter 8: Items
 The following are items that are essential to running a campaign in the setting of Morgenfell.
 
 {% include expansion_items.html %}

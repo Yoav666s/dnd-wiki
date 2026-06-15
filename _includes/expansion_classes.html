@@ -1,0 +1,5 @@
+{% assign classes = site.classes | where: "source", page.title | where: "is_class", true %}
+{% for game_class in classes %}
+  <h2 id="{{ game_class.title | slugify }}">{{ game_class.title }}</h2>
+  {% include page_content.html page=game_class %}
+{% endfor %}
