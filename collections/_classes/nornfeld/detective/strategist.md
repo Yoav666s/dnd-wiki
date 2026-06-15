@@ -24,3 +24,6 @@ Starting at 7th level, you have proficiency in Wisdom saving throws. If you alre
 
 # Strategic Diversion
 Starting at 13th level, when an ally within 30 feet of you is hit with an attack you can see, you can use your reaction to add your Intelligence modifier to the ally's AC for it that attack, possibly causing it to miss.
+
+#
+Starting at 17th level, 
