@@ -5,6 +5,7 @@ index:
 permalink: /classes/detective/
 is_class: true
 excerpt: "Detectives are the pinnacle of modern problem solving."
+alt_version: detective-2024
 # header:
 #   overlay_image: /assets/images/classes/detective/header.png
 #   teaser: /assets/images/classes/detective/header.jpg
