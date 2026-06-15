@@ -108,7 +108,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 ## Experienced Investigator
 Starting at 9th level, you regain all of your expended uses of Professional Talent when you finish a short or long rest.
 
-# Considered Deflection
+## Considered Deflection
 Starting at 10th level, when you are hit with a melee attack while wielding a finesse or ranged weapon, you can use your reaction to add your Intelligence modifier to your AC for that attack, possibly causing the attack to miss.
 
 ## Intelligent Strikes
