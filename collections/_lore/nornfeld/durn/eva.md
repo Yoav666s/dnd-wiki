@@ -13,7 +13,7 @@ excerpt: "The weaver is a deity, believed to be in charge of fate, destiny, and 
 
 > Tell me, o stranger, what is it that you seek?
 >
-> Your eyes are so innocent, yet your gaze not so weak;
+> Your eyes are innocent, yet your gaze not so weak;
 >
 > Your hair smooth as silk, your skin soft and green,
 >
