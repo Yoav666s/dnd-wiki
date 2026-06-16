@@ -22,8 +22,8 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 # Studied Eye
 Starting at 7th level, when a creature you can see casts a spell, you can make an Intelligence (Arcana) check to identify the spell without using your reaction.
 
-# Mage's Bane
+# Arcane Education
 Starting at 13th level, you have advantage on Intelligence (Arcana) checks.
 
-#
-Starting at 17th level,
+# Mage's Bane
+Starting at 17th level, 
