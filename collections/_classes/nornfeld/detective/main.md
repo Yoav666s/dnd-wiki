@@ -120,8 +120,8 @@ Starting at 14th level, when you fail a saving throw, you can use your reaction 
 ## Superior Talent
 Starting at 15th level, when you roll initiative and have no remaining uses of Professional Talent left, you regain one use.
 
-## Indomitable Mind
-Starting at 18th level, when you use Professional Talent and still fail or miss, the use is not expended.
+## 
+Starting at 18th level, 
 
 ## Unrivaled Intellect
 At 20th level, your Intelligence score increases by 4. Your maximum for this score is now 24.
