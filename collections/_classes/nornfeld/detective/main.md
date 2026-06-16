@@ -69,7 +69,7 @@ At 1st level, choose one of your skill proficiencies. Your proficiency bonus is 
 At 6th level, you can choose two more of your proficiencies to gain this benefit.
 
 ## Professional Talent 
-Starting at 1st level, when you make an ability check to which you apply your proficiency bonus or when you make an attack roll with a weapon you're proficient in, you can give yourself advantage on the roll.
+Starting at 1st level, once per turn when you make an ability check to which you apply your proficiency bonus or when you make an attack roll with a weapon you're proficient in, you can give yourself advantage on the roll.
 
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
 
