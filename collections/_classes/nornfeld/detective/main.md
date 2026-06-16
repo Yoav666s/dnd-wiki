@@ -36,7 +36,7 @@ Detectives are the pinnacle of modern problem solving. They are elegant, shrewd,
 | 15th | +5 | [[Superior Talent]] |
 | 16th | +5 | [[Ability Score Improvement]] |
 | 17th | +6 | [[Professional Field]] feature |
-| 18th | +6 | [[Indomitable Mind]] |
+| 18th | +6 | [[Critical Strike]] |
 | 19th | +6 | [[Ability Score Improvement]] |
 | 20th | +6 | [[Unrivaled Intellect]] |
 
@@ -120,8 +120,8 @@ Starting at 14th level, when you fail a saving throw, you can use your reaction 
 ## Superior Talent
 Starting at 15th level, when you roll initiative and have no remaining uses of Professional Talent left, you regain one use.
 
-## 
-Starting at 18th level, 
+## Critical Strike
+Starting at 18th level, once per turn when you hit with an attack, you can expend one use of Professional Talent to turn the hit into a critical hit.
 
 ## Unrivaled Intellect
 At 20th level, your Intelligence score increases by 4. Your maximum for this score is now 24.
