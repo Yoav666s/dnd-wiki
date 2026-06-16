@@ -14,5 +14,7 @@ source: "Survivor's Guide to Morgenfell"
 # Thoughtful Phrasing
 Starting at 3rd level, you gain a bonus to Charisma checks equal to your Intelligence modifier. Additionally, you can use your bonus action to make a Charisma (Deception, Intimidation, or Persuasion) check.
 
-# 
-Starting at 3rd level, 
+# Spell Breaker
+Starting at 3rd level, when a creature you can see casts a spell, you can use your reaction to make a melee or ranged weapon attack against it if it is within range. If the attack hits, the creature must succeed a Constitution saving throw (DC equal to 8 plus your Intelligence modifier plus your proficiency bonus) or the spell fails.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
