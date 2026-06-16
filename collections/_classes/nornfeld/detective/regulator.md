@@ -3,13 +3,14 @@ title: "Regulator"
 index:
   - regulator
 permalink: /classes/detective/regulator/
-excerpt: ""
+excerpt: "Regulators are responsible for enforcing the laws of modern society."
 subclass: detective 
 header:
   overlay_image: /assets/images/classes/regulator/strategist/header.png
   teaser: /assets/images/classes/detective/regulator/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
+Regulators are responsible for enforcing the laws of modern society. After the institution of the Arcane Dictum, they were the ones who made sure that magic stays a thing of the past. They are experts at interrupting the casting of spells, identifying them, and even dispelling magical effects.
 
 # Thoughtful Phrasing
 Starting at 3rd level, you gain a bonus to Charisma checks equal to your Intelligence modifier. Additionally, you can use your bonus action to make a Charisma (Deception, Intimidation, or Persuasion) check.
