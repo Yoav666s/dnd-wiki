@@ -9,6 +9,7 @@ excerpt: "The weaver is a deity, believed to be in charge of fate, destiny, and 
 # header:
 #   overlay_image: /assets/images/lore/eva/header.png
 #   teaser: /assets/images/lore/eva/header.jpg
+source: "Fillumir's Guide to the Feywild"
 ---
 
 > Tell me, o stranger, what is it that you seek?
