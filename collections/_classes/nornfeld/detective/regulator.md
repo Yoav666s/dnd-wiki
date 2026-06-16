@@ -23,7 +23,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 Starting at 7th level, when a creature you can see casts a spell, you can make an Intelligence (Arcana) check to identify the spell without using your reaction.
 
 # Mage's Bane
-Starting at 13th level, when you successfully prevent the casting of a spell with your Spell Breaker feature, the target has the grappled condition.
+Starting at 13th level, when you successfully prevent the casting of a spell with your Spell Breaker feature, the target is also grappled.
 
 # Dispelling Routine 
 Starting at 17th level, you have learned how to dispell the effects of certain spells. After 1 minute of preparations, you can make an Intelligence (Arcana) check (DC equal 15 plus the spell's level) to dispell a magical effect. On success, the effect ends. On failure, you can't attempt to dispell this effect again for 24 hours.
