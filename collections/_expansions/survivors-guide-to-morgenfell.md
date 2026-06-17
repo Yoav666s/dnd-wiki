@@ -46,6 +46,8 @@ Chapter 2 will dive into the political figures of each kingdom and how they inte
 
 Chapter 3 will show you around the cities of Morgenfell, going into the details of each and every city.
 
+Chapter 4 is about entire new classes that seek to fill the void left by the absence of spellcasters.
+
 Chapter 5 will introduce new work in progress subclasses, completely untested and definitely not ready for serious play.
 
 Chapter 6 will include races that adapted to the non-magical setting of Morgenfell.
