@@ -37,7 +37,7 @@ Physicians are the modern answer for ailments, injuries, and an upset tummy.
 | 17th | +6 | 34d12 | [[Medical Prowess]] |
 | 18th | +6 | 36d12 | [[Medical Methodology]] feature |
 | 19th | +6 | 38d12 | [[Ability Score Improvement]] |
-| 20th | +6 | 40d12 | [[Cheat Death]] |
+| 20th | +6 | 40d12 | [[Medical Perfection]] |
 
 # Class Features
 As a physician, you gain the following class features.
