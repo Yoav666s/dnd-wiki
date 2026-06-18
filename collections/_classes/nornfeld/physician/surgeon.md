@@ -21,3 +21,8 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 
 # Dexterous Maneuvers
 Starting at 11th level, you gain proficiency in Dexterity saving throws. If you already have this proficiency, you instead gain proficiency in Constitution saving throws instead.
+
+# Deadly Precision
+Starting at 18th level, when you expend Medical dice to deal damage to a creature, you can deal maximum damage from these dice instead of rolling.
+
+Once you use this feature, you can't do it again until you finish a short or long rest.
