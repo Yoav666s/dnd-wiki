@@ -14,6 +14,12 @@ Physicians are the modern answer for ailments, injuries, and an upset tummy.
 
 *You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
 
+# The Physician
+
+| Level | Proficiency Bonus | Medical Dice | Features |
+| :---: | :---: | :---: | :---- |
+| 1st | +2 | 2d4 |  |
+
 # Class Features
 As a physician, you gain the following class features.
 
