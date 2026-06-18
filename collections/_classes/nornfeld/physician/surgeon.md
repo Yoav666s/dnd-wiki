@@ -20,4 +20,4 @@ Additionally, when you hit a creature with a finesse weapon attack, you can expe
 Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 # Dexterous Maneuvers
-Starting at 11th level, you have proficiency in Dexterity saving throws. If you're already proficient in them, you gain proficiency in Constitution saving throws instead.
+Starting at 11th level, you gain proficiency in Dexterity saving throws. If you already have this proficiency, you instead gain proficiency in Constitution saving throws instead.
