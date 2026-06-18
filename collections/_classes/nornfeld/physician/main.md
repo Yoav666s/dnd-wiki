@@ -18,7 +18,7 @@ Physicians are the modern answer for ailments, injuries, and an upset tummy.
 
 | Level | Proficiency Bonus | Medical Dice | Features |
 | :---: | :---: | :---: | :---- |
-| 1st | +2 | 2d4 |  |
+| 1st | +2 | 2d4 | [[Medical Attention]], [[Perceptive Aim]], [[Unarmored Defense]] |
 | 2nd | +2 | 4d4 |  |
 | 3rd | +2 | 6d4 |  |
 | 4th | +2 | 8d4 |  |
