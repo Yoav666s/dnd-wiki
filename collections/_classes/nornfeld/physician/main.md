@@ -26,12 +26,12 @@ Physicians are the modern answer for ailments, injuries, and an upset tummy.
 | 6th | +3 | 12d6 | [[Medical Methodology]] feature |
 | 7th | +3 | 14d6 | [[Emergency Response]] |
 | 8th | +3 | 16d6 | [[Ability Score Improvement]] |
-| 9th | +4 | 18d8 |  |
-| 10th | +4 | 20d8 |  |
+| 9th | +4 | 18d8 | [[Medical Recovery]] |
+| 10th | +4 | 20d8 | [[Effective Healing]] |
 | 11th | +4 | 22d8 | [[Medical Methodology]] feature |
 | 12th | +4 | 24d8 | [[Ability Score Improvement]] |
-| 13th | +5 | 26d10 |  |
-| 14th | +5 | 28d10 |  |
+| 13th | +5 | 26d10 | [[Sight and Hearing]] |
+| 14th | +5 | 28d10 | [[Paralysis Analysis]] |
 | 15th | +5 | 30d10 |  |
 | 16th | +5 | 32d10 | [[Ability Score Improvement]] |
 | 17th | +6 | 34d12 |  |
