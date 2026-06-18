@@ -12,7 +12,7 @@ source: "Survivor's Guide to Morgenfell"
 ---
 Physicians are the modern answer for ailments, injuries, and an upset tummy. 
 
-*You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
+*You must have an Intelligence score and a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
 
 # The Physician
 
