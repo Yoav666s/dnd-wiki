@@ -110,7 +110,7 @@ Starting at 10th level, when you use your Patch Up feature, you restore a number
 Starting at 13th level, you can use your action to expend 2 Medical dice and 1 use of a healer's kit to end the blinded or deafened condition on a creature you can see within 5 feet of you (possibly yourself).
 
 ## Paralysis Analysis 
-Starting at 14th level, you can use your action to expend 3 Medical dice and 1 use of a healer's kit to end the paralyzed condition on a creature you can see within 5 feet of you (possibly yourself).
+Starting at 14th level, you can use your action to expend 3 Medical dice and 1 use of a healer's kit to end the paralyzed condition on a creature you can see within 5 feet of you.
 
 ## Medical Resourcefulness 
 Starting at 15th level, when you roll initiative and have a number of remaining Medical dice lower than your Intelligence modifier, you regain a number of Medical dice until you have a number equal to your Intelligence modifier.
@@ -118,5 +118,5 @@ Starting at 15th level, when you roll initiative and have a number of remaining 
 ## Medical Prowess
 Starting at 17th level, when you fail a Wisdom (Medicine) check, you can expend a Medical die to reroll the d20 once, and you must use the new roll.
 
-## Cheat Death
-Starting at 20th level, you can use your Medical Attention feature in order to heal a dying creature, without stabilizing it first.
+## Medical Consistency
+Starting at 20th level, whenever you roll a 1 on a Medical die, you can reroll the die and you must use the new roll, even if it's another 1.
