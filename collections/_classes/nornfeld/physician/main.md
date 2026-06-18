@@ -32,12 +32,12 @@ Physicians are the modern answer for ailments, injuries, and an upset tummy.
 | 12th | +4 | 24d8 | [[Ability Score Improvement]] |
 | 13th | +5 | 26d10 | [[Sight and Hearing]] |
 | 14th | +5 | 28d10 | [[Paralysis Analysis]] |
-| 15th | +5 | 30d10 |  |
+| 15th | +5 | 30d10 | [[Medical Resourcefulness]] |
 | 16th | +5 | 32d10 | [[Ability Score Improvement]] |
-| 17th | +6 | 34d12 |  |
+| 17th | +6 | 34d12 | [[Medical Prowess]] |
 | 18th | +6 | 36d12 | [[Medical Methodology]] feature |
 | 19th | +6 | 38d12 | [[Ability Score Improvement]] |
-| 20th | +6 | 40d12 |  |
+| 20th | +6 | 40d12 | [[Cheat Death]] |
 
 # Class Features
 As a physician, you gain the following class features.
