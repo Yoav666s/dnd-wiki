@@ -63,7 +63,7 @@ You start with the following equipment, in addition to the equipment granted by 
 a herbalism kit and 2 modern healer's kits
 
 ## Medical Attention
-Starting at 1st level, you can attend to a creature's wound or ailment. You have a pool of Medical dice with which you can tend to creatures and restore their health. Your physician level determines the number and type of dice you have, as shown in the Medical Dice column of the Physician table. You regain expended dice when you finish a long rest. (Number of dice equals twice your level, die type is twice your proficiency bonus: 2d4 at 1st level, 10d6 at 5th level, etc.)
+Starting at 1st level, you can attend to a creature's wound or ailment. You have a pool of Medical dice with which you can tend to creatures and restore their health. Your physician level determines the number and type of dice you have, as shown in the Medical Dice column of the Physician table. You regain expended dice when you finish a long rest.
 
 As an action, you can heal a conscious or stable creature you can see within 5 feet of you (possibly yourself). You can expend a number of Medical dice equal to up to your Intelligence modifier (minimum of 1) and one use of a healer's kit, rolling the dice and healing the creature by the amount rolled plus your Wisdom modifier (minimum of +1).
 
