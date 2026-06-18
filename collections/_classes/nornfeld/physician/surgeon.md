@@ -17,4 +17,7 @@ Starting at 3rd level when you choose this methodology, you can use your Wisdom 
 Additionally, when you hit a creature with a finesse weapon attack, you can expend a number of Medical dice equal up to your Intelligence modifier, rolling the dice and dealing damage of the attack's type equal to the total.
 
 # Extra Attack 
-Starting at 6th level, you can attack twi
+Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+# 
+Starting at 11th level, 
