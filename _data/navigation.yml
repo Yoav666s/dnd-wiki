@@ -53,6 +53,9 @@ classes:
   - title: "Paladin"
     class: paladin
     url: /classes/paladin/
+  - title: "Physician"
+    class: physician
+    url: /classes/physician/
   - title: "Ranger"
     class: ranger
     url: /classes/ranger/
