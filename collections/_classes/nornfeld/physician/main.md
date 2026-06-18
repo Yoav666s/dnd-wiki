@@ -24,19 +24,19 @@ Physicians are the modern answer for ailments, injuries, and an upset tummy.
 | 4th | +2 | 8d4 | [[Ability Score Improvement]] |
 | 5th | +3 | 10d6 | [[Revive]] |
 | 6th | +3 | 12d6 | [[Medical Methodology]] feature |
-| 7th | +3 | 14d6 |  |
-| 8th | +3 | 16d6 |  |
+| 7th | +3 | 14d6 | [[Emergency Response]] |
+| 8th | +3 | 16d6 | [[Ability Score Improvement]] |
 | 9th | +4 | 18d8 |  |
 | 10th | +4 | 20d8 |  |
-| 11th | +4 | 22d8 |  |
-| 12th | +4 | 24d8 |  |
+| 11th | +4 | 22d8 | [[Medical Methodology]] feature |
+| 12th | +4 | 24d8 | [[Ability Score Improvement]] |
 | 13th | +5 | 26d10 |  |
 | 14th | +5 | 28d10 |  |
 | 15th | +5 | 30d10 |  |
-| 16th | +5 | 32d10 |  |
+| 16th | +5 | 32d10 | [[Ability Score Improvement]] |
 | 17th | +6 | 34d12 |  |
-| 18th | +6 | 36d12 |  |
-| 19th | +6 | 38d12 |  |
+| 18th | +6 | 36d12 | [[Medical Methodology]] feature |
+| 19th | +6 | 38d12 | [[Ability Score Improvement]] |
 | 20th | +6 | 40d12 |  |
 
 # Class Features
