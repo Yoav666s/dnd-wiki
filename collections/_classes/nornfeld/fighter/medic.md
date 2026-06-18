@@ -34,6 +34,6 @@ Starting at 10th level, you can expend 10 uses of a healers kit to attempt to re
 Starting at 15th level, when you roll initiative and have no remaining uses of Tend Wounds feature, you regain 1 use.
 
 # Emergency Response
-Starting at 18th level, when a creature you can see is reduced to 0 hit points, you can use your reaction to move up to your speed towards it without provoking Opportunity Attacks. If you reach within 5 feet of it, you can expend a use of your Tend Wounds feature to heal it as part of the same reaction.
+Starting at 18th level, when a creature you can see is reduced to 0 hit points, you can use your reaction to move up to your speed towards it without provoking Opportunity Attacks. If you reach within 5 feet of it, you can attempt to stabilize it as part of the same reaction.
 
 [:classes/fighter/medic:]
