@@ -20,10 +20,10 @@ Physicians are the modern answer for ailments, injuries, and an upset tummy.
 | :---: | :---: | :---: | :---- |
 | 1st | +2 | 2d4 | [[Medical Attention]], [[Perceptive Aim]], [[Unarmored Defense]] |
 | 2nd | +2 | 4d4 | [[Patch Up]], [[Trained Physician]] |
-| 3rd | +2 | 6d4 |  |
-| 4th | +2 | 8d4 |  |
-| 5th | +3 | 10d6 |  |
-| 6th | +3 | 12d6 |  |
+| 3rd | +2 | 6d4 | [[Medical Methodology]] |
+| 4th | +2 | 8d4 | [[Ability Score Improvement]] |
+| 5th | +3 | 10d6 | [[Revive]] |
+| 6th | +3 | 12d6 | [[Medical Methodology]] feature |
 | 7th | +3 | 14d6 |  |
 | 8th | +3 | 16d6 |  |
 | 9th | +4 | 18d8 |  |
