@@ -119,6 +119,6 @@ Starting at 15th level, when you roll initiative and have a number of remaining 
 Starting at 17th level, when you fail a Wisdom (Medicine) check, you can expend a Medical die to reroll the d20 once, and you must use the new roll.
 
 ## Medical Perfection
-Starting at 20th level, when you use your Medical Attention feature, you can restore the maximum amount of health of the expended dice instead of rolling.
+At 20th level, when you use your Medical Attention feature, you can restore the maximum amount of health of the expended dice instead of rolling.
 
 Once you use this feature, you can't do it again until you finish a short or long rest.
