@@ -104,7 +104,7 @@ It has been discovered that sanitizing wounds can help prevent inflammation. By 
 Methods to provide first aid to a wounded individual have been developed by physicians in Auberfield and are taught to medics all throughout Morgenfell.
 
 ### Potions
-Potions have been outlawed as well, since they are inherently magical. However, many apothecaries learn how to craft them in their הכשרה and they are used in very extreme circumstances, under the authority of a legal permit.
+Potions have been outlawed as well, since they are inherently magical. However, many apothecaries learn how to craft them as part of their education. Potions are used in very extreme circumstances, under the authority of a legal permit.
 
 # Chapter 1: History of Morgenfell
 > "... and that which we call the 'Great Massacre' has proven to us the dangerous and reckless nature of magic. Over two hundred years it took us to restore and even surpass our previous greatness which has been sullied and destroyed by magic. To that we say: never again!"
