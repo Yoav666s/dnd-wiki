@@ -49,7 +49,7 @@ As a physician, you gain the following class features.
 
 ## Proficiencies
 **Armor:** Light Armor \
-**Weapons:** Simple weapons, firearms, light crossbows \
+**Weapons:** Simple weapons, shortswords, firearms, light crossbows \
 **Tools:** Herbalism Kit \
 **Saving Throws:** Wisdom, Intelligence \
 **Skills:** Choose two from Animal Handling, History, Insight, Investigation, Medicine, Nature, Perception, and Persuasion
@@ -58,7 +58,7 @@ As a physician, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 (a) a pistol and 20 bullets or (b) a light crossbow and 20 bolts \
-(a) a cane sword or (b) a simple weapon \
+(a) a cane sword (shortsword) or (b) a simple weapon \
 (a) an scholar's pack or (b) an explorer's pack \
 a herbalism kit and 2 modern healer's kits
 
