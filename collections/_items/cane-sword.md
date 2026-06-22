@@ -3,7 +3,7 @@ title: "Cane Sword"
 index:
   - cane-sword
 permalink: /items/cane-sword/
-excerpt: ""
+excerpt: "This shortsword is an elegant cane when sheathed."
 tags:
   - Weapon
   - Shortsword
@@ -12,3 +12,6 @@ header:
   teaser: /assets/images/items/cane-sword/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
+This shortsword is an elegant cane when sheathed.
+
+[:items/cane-sword:]
