@@ -70,7 +70,7 @@ As an action, you can heal a conscious or stable creature you can see within 5 f
 Alternatively, you can use your action to expend a Medical die and 1 use of a healer's kit to end the poisoned condition on a creature you can see within 5 feet of you (possibly yourself).
 
 ## Perceptive Aim
-Starting at 1st level, you can use your Wisdom modifier, in place of your Dexterity modifier, for ranged attack and damage rolls.
+Starting at 1st level, you can use your Wisdom modifier, in place of your Dexterity modifier, for ranged or finesse attack and damage rolls.
 
 ## Unarmored Defense
 Starting at 1st level, while not wearing armor and not wielding a shield, your AC equals 10 + your Intelligence modifier + your Wisdom modifier.
