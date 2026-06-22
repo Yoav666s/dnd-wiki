@@ -58,7 +58,7 @@ As a physician, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 (a) a pistol and 20 bullets or (b) a light crossbow and 20 bolts \
-(a) 3 daggers or (b) a simple weapon \
+(a) a cane sword or (b) a simple weapon \
 (a) an scholar's pack or (b) an explorer's pack \
 a herbalism kit and 2 modern healer's kits
 
