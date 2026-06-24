@@ -15,7 +15,7 @@ source: "Survivor's Guide to Morgenfell"
 Starting at 3rd level, you gain expertise with the Herbalism Kit. Additionally, you can craft potions at half the time and cost (rounded up).
 
 # Alchemical Concoctions
-Starting at 3rd level, you gain proficiency with Alchemist's Supplies. If you already have this proficiency, you gain expertise. When you finish a short or long rest, you can create a number of alchemical concoctions equal to your Intelligence modifier (minimum of 1). They retain their potency for 24 hours. A creature can use its bonus action to drink a concoction or administer it to a creature within 5 feet. When you create alchemical concoctions, each one can be of a different type:
+Starting at 3rd level, you gain proficiency with Alchemist's Supplies. If you already have this proficiency, you gain expertise. When you finish a short or long rest, you can create a number of alchemical concoctions equal to your Intelligence modifier (minimum of 1). They retain their potency for 24 hours. A creature can use its bonus action to drink a concoction or administer it to a creature within 5 feet. A creature can only benefit from one concoction at any given moment. A creature that drinks a concoction while under the effect of one must succeed a Constitution saving throw (DC equal to 8 + your Intelligence modifier + your proficiency bonus) or take 3d10 poison damage. When you create alchemical concoctions, each one can be of a different type:
 
 **Fortifying Salve.** The creature gains temporary hit points equal to your physician level + your Wisdom modifier.
 
@@ -29,3 +29,9 @@ Starting at 6th level, you can create more potent concoctions. You gain the foll
 **Elixir of Recovery.** After 10 minutes, the creature recovers one level of exhaustion.
 
 **Reflex Enhancer.** For 1 minute, the creature has advantage on Dexterity saving throws and can take the dodge action as a bonus action on its turn.
+
+# Robust Immune System
+Starting at 11th level, you gain proficiency in Constitution saving throws. If you already have this proficiency, you gain proficiency in Dexterity saving throws.
+
+# 
+Starting at 18th level,
