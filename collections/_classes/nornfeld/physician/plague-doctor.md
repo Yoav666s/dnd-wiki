@@ -26,3 +26,6 @@ You can use this feature a number of times equal to your Wisdom modifier, and yo
 
 # Aromatic Mask
 Starting at 11th level, you gain resistance to poison and necrotic damage, and you have advantage on saving throws you make to avoid or end the poisoned condition.
+
+#
+Starting at 18th level, 
