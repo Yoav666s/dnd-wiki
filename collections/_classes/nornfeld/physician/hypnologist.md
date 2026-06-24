@@ -3,13 +3,14 @@ title: "Hypnologist"
 index:
   - hypnologist
 permalink: /classes/physician/hypnologist/
-excerpt: ""
+excerpt: "Hypnologists are masters of the mind, and they know exactly what to say and when to say it."
 subclass: physician
 header:
   overlay_image: /assets/images/classes/physician/hypnologist/header.png
   teaser: /assets/images/classes/physician/hypnologist/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
+Hypnologists are masters of the mind, and they know exactly what to say and when to say it.
 
 # Soothing Voice
 Starting at 3rd level, you gain proficiency in the Persuasion skill. If you already have this proficiency, you gain expertise.  
