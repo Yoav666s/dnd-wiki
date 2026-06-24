@@ -21,7 +21,7 @@ Starting at 3rd level, you gain proficiency with Alchemist's Supplies. If you al
 
 **Adrenaline Shot.** The creature gains resistance to non-magical bludgeoning, piercing, and slashing damage for 1 minute. This effect ends early on a creature if it is unconscious or if its turn ends and it hasn’t attacked a creature since its last turn or taken damage since then. 
 
-**Vigor Stimulant.** For 1 minute, the creature's walking speed increases by 10 feet, and it can take the Dash action as a bonus action on its turn.
+**Vigor Stimulant.** For 10 minutes, the creature's walking speed increases by 10 feet, and it can take the Dash action as a bonus action on its turn.
 
 # 
 Starting at 6th level, 
