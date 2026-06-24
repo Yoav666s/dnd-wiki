@@ -67,7 +67,7 @@ Starting at 1st level, you can attend to a creature's wound or ailment. You have
 
 As an action, you can heal a conscious or stable creature you can see within 5 feet of you (possibly yourself). You can expend a number of Medical dice equal to up to your Intelligence modifier (minimum of 1) and one use of a healer's kit, rolling the dice and healing the creature by the amount rolled plus your Wisdom modifier (minimum of +1).
 
-Alternatively, you can use your action to expend a Medical die and 1 use of a healer's kit to end the poisoned condition on a creature you can see within 5 feet of you (possibly yourself).
+Alternatively, you can use your action to expend 1 use of a healer's kit to end the poisoned condition on a creature you can see within 5 feet of you (possibly yourself).
 
 ## Perceptive Aim
 Starting at 1st level, you can use your Wisdom modifier, in place of your Dexterity modifier, for ranged or finesse attack and damage rolls.
@@ -107,10 +107,10 @@ Starting at 9th level, you regain a number of expended Medical dice equal to you
 Starting at 10th level, when you use your Patch Up feature, you restore a number of hit points equal to Xd10 + your Physician level + your Wisdom modifier, where X is twice your Intelligence modifier.
 
 ## Sight and Hearing
-Starting at 13th level, you can use your action to expend 2 Medical dice and 1 use of a healer's kit to end the blinded or deafened condition on a creature you can see within 5 feet of you (possibly yourself).
+Starting at 13th level, you can use your action to expend 2 uses of a healer's kit to end the blinded or deafened condition on a creature you can see within 5 feet of you (possibly yourself).
 
 ## Paralysis Analysis 
-Starting at 14th level, you can use your action to expend 3 Medical dice and 1 use of a healer's kit to end the paralyzed condition on a creature you can see within 5 feet of you.
+Starting at 14th level, you can use your action to expend 3 uses of a healer's kit to end the paralyzed condition on a creature you can see within 5 feet of you.
 
 ## Medical Resourcefulness 
 Starting at 15th level, when you roll initiative and have a number of remaining Medical dice lower than your Intelligence modifier, you regain a number of Medical dice until you have a number equal to your Intelligence modifier.
