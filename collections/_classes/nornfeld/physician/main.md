@@ -87,7 +87,7 @@ At 3rd level, you choose a methodology that you emulate in your medicinal practi
 | Methodology | Source |
 | :--- | :--- |
 | [[!Apothecary]] | Survivor's Guide to Morgenfell |
-| [[!Healer]] | Survivor's Guide to Morgenfell |
+| [[!Hypnologist]] | Survivor's Guide to Morgenfell |
 | [[!Plague Doctor]] | Survivor's Guide to Morgenfell |
 | [[!Surgeon]] | Survivor's Guide to Morgenfell |
 
