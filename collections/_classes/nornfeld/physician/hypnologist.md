@@ -21,7 +21,7 @@ Starting at 3rd level, as an action, you can hypnotize a creature that can hear 
 You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a short or long rest.
 
 # Reality Check
-Starting at 6th level, as an action when talking to a charmed or frightened creature, you can make a Charisma (Persuasion) check against the triggering DC in an attempt to end that condition.
+Starting at 6th level, as an action you can talk to a charmed or frightened creature. If the creature can hear and understand you, you can make a Charisma (Persuasion) check against the triggering DC in an attempt to end that condition.
 
 # Trained Mind
 Starting at 11th level, while you are charmed or frightened, at the end of your turn you can end that condition on yourself.
