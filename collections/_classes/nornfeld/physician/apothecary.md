@@ -23,5 +23,7 @@ Starting at 3rd level, you gain proficiency with Alchemist's Supplies. If you al
 
 **Vigor Stimulant.** For 10 minutes, the creature's walking speed increases by 10 feet, and it can take the Dash action as a bonus action on its turn.
 
-# 
-Starting at 6th level, 
+# Potent Concoctions
+Starting at 6th level, you can create more potent concoctions. You gain the following options for your Alchemical Concoctions feature.
+
+**Elixir of Recovery.** After 10 minutes, the creature recovers one level of exhaustion.
