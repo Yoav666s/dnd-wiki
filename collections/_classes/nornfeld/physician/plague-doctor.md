@@ -16,7 +16,7 @@ Plague doctors are avid practitioners of the miasma theory, wearing their signat
 Starting at 3rd level, your presence is often an omen of death. You gain proficiency in the Intimidation skill. If you already have this proficiency, you gain expertise.
 
 # Noxious Miasma
-Starting at 3rd level, you gain proficiency with the Poisoner's Kit. If you already have this proficiency, you gain expertise. When you finish a short or long rest, you can create noxious vials until you have a number equal to your Intelligence modifier.
+Starting at 3rd level, you gain proficiency with the Poisoner's Kit. If you already have this proficiency, you gain expertise. When you finish a short or long rest, you can create a number of noxious vials equal to your Intelligence modifier (minimum of 1). They retain their potency for 24 hours.
 
 When a creature takes the attack action, it can replace one of its attacks with throwing a noxious vial to a point it can see within 20 feet. When the vial shatters it creates a noxious cloud with a 5-foot radius that lasts until the start of your next turn. Each creature that enters or starts its turn inside the cloud must succeed a Constitution saving throw (DC equal 8 + your Intelligence modifier + your proficiency bonus) or take XdY poison or necrotic damage (your choice) and have the poisoned condition until the end of your next turn, where X is your proficiency bonus and Y is the size of your Medical dice.
 
