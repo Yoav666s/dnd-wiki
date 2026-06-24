@@ -35,5 +35,7 @@ Starting at 6th level, you can create more potent concoctions. You gain the foll
 # Robust Immune System
 Starting at 11th level, you gain proficiency in Constitution saving throws. If you already have this proficiency, you gain proficiency in Dexterity saving throws.
 
-# 
-Starting at 18th level, 
+# Alchemical Mastery
+Starting at 18th level, you gain the following Alchemical Concoctions option.
+
+**Regenerative Serum.** For 1 minute, the creature regains 1d6 hit points at the end of each of its turns.
