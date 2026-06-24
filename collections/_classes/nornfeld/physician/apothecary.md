@@ -3,13 +3,14 @@ title: "Apothecary"
 index:
   - apothecary
 permalink: /classes/physician/apothecary/
-excerpt: ""
+excerpt: "Apothecaries are state of the art alchemists, brewing concoctions and even potions quickly and efficiently."
 subclass: physician
 header:
   overlay_image: /assets/images/classes/physician/apothecary/header.png
   teaser: /assets/images/classes/physician/apothecary/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
+Apothecaries are state of the art alchemists, brewing concoctions and even potions quickly and efficiently. They are invaluable team members and offer a variety of different salves and serums to aid their allies in combat.
 
 # Efficient Craft
 Starting at 3rd level, you gain expertise with the Herbalism Kit. Additionally, you can craft potions at half the time and cost (rounded up).
@@ -38,4 +39,4 @@ Starting at 11th level, you gain proficiency in Constitution saving throws. If y
 # Alchemical Mastery
 Starting at 18th level, you gain the following Alchemical Concoctions option.
 
-**Regenerative Serum.** For 1 minute, the creature regains 1d6 hit points at the end of each of its turns.
+**Regenerative Serum.** For 1 minute, the creature regains 1d6 hit points at the end of each of its turns. This effect ends early if the creature is unconscious.
