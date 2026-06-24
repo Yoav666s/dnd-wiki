@@ -20,7 +20,7 @@ Starting at 3rd level, you gain proficiency with the Poisoner's Kit. When you fi
 When a creature takes the attack action, it can replace one of its attacks with throwing a noxious vial to a point it can see within 20 feet. When the vial shatters it creates a noxious cloud with a 5-foot radius that lasts until the start of your next turn. Each creature  in the cloud must succeed a Constitution saving throw (DC equal 8 + your Intelligence modifier + your proficiency bonus) or take 2dX poison or necrotic damage (your choice) and have the poisoned condition until the end of your next turn, where X is the size of your Medical dice.
 
 # Death's Beak
-Starting at 6th level, your appearance is terrifying. As a bonus action, you can force a creature you can see within 30 feet to succeed a Wisdom saving throw (DC equal to 8 + your Intelligence modifier + your proficiency bonus) or be frightened of you for 1 minute.
+Starting at 6th level, your appearance is terrifying. As a bonus action, you can force a creature you can see within 30 feet to succeed a Wisdom saving throw (DC equal to 8 + your Intelligence modifier + your proficiency bonus) or be frightened of you for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a short or long rest.
 
