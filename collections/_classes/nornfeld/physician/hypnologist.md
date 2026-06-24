@@ -16,7 +16,7 @@ Hypnologists are masters of the mind, and they know exactly what to say and when
 Starting at 3rd level, you gain proficiency in the Persuasion skill. If you already have this proficiency, you gain expertise.  
 
 # Hypnotizing Technique
-Starting at 3rd level, as an action, you can hypnotize a creature that can hear and understand you. It must succeed a Wisdom saving throw (DC equal to 8 + your Intelligence modifier + your proficiency bonus) or be charmed for 1 minute. The target has advantage on the saving throw if you or your allies are fighting it. While charmed in this way, they target is open to suggestion and reveals information freely. When this effect ends, the target knows it was charmed by you.
+Starting at 3rd level, as an action, you can hypnotize a creature that can hear and understand you. It must succeed a Wisdom saving throw (DC equal to 8 + your Intelligence modifier + your proficiency bonus) or be charmed for 1 minute. The target has advantage on the saving throw if you or your companions are fighting it. While charmed in this way, they target is open to suggestion and reveals information freely. When this effect ends, the target knows it was charmed by you.
 
 You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a short or long rest.
 
