@@ -97,5 +97,7 @@ Starting at 17th level, you learn the following magic trick.
 
 **Elegant Distraction.** when a creature enters within 5 feet of you, you can use your reaction to expend a Trickery die, rolling it. You can make a melee attack against the creature, adding the number rolled to the attack roll. Hit or miss, you can move up to half your speed without provoking Opportunity Attacks.
 
-# 
-Starting at 20th level, 
+# Masterful Trickery
+Starting at 20th level, when you roll one or more Trickery dice, you can use the maximum result instead of rolling.
+
+Once you use this feature, you can't do it again until you finish a short or long rest.
