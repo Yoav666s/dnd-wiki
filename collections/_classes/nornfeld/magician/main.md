@@ -86,5 +86,8 @@ Starting at 9th level, you learn the following magic tricks.
 #
 Starting at 11th level, 
 
+# 
+Starting at 13th level,
+
 # Supreme Trickery
 Starting at 15th level, when you roll initiative and have no remaining Trickery dice, you regain a number of them equal to your Charisma modifier.
