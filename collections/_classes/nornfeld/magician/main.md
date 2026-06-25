@@ -30,6 +30,8 @@ Not to be confused with mages, magicians are stage performers. Illusionists by t
 | 9th | +4 | 9d8 | [[Smoke and Mirrors]] |
 | 10th | +4 | 10d8 | [[Magician Repertoire]] feature |
 | 11th | +4 | 11d8 | [[Performative Strikes]] |
+| 12th | +4 | 12d8 | [[Ability Score Improvement]] |
+| 13th | +5 | 13d10 | [[]] |
 
 # Class Features
 As a magician, you gain the following class features.
