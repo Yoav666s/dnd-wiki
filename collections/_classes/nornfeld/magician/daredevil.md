@@ -20,7 +20,7 @@ Starting at 3rd level, your unarmed strikes have the finesse property and their 
 # Close-up Action
 Starting at 6th level, you learn the following magic trick.
 
-**Strike With Momentum.** After you take the dash action on your turn, you can expend a Trickery die and use your bonus action to make a melee attack. Roll the die and add the number rolled to the attack roll.
+**Dashing Entrance.** You can expend a Trickery die to take the dash action as a bonus action, rolling it. Your speed increases by an additional X feet this turn, where X is the number rolled times 5.
 
 #
 Starting at 10th level,
