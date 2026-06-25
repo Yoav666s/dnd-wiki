@@ -21,6 +21,8 @@ Not to be confused with mages, magicians are stage performers. Illusionists by t
 | :---: | :---: | :---: | :---- |
 | 1st | +2 | - | [[Expertise]], [[Unarmored Defense]] |
 | 2nd | +2 | 2d4 | [[Dirty Tricks]] |
+| 3rd | +2 | 3d4 | [[Magician Repertoire]] |
+| 4th | +2 | 4d4 | [[Ability Score Improvement]] |
 
 # Class Features
 As a magician, you gain the following class features.
@@ -66,7 +68,7 @@ When a trick requires a saving throw, the DC equals 8 + your Charisma modifier +
 
 **Swift Parry.** When you are hit with an attack, you can use your reaction to expend a Trickery die, rolling it and adding the number rolled to your AC for that attack, possibly causing it to miss.
 
-# Magician's Repertoire
+# Magician Repertoire
 At 3rd level, you choose a repertoire to specialize in. Your repertoire choice grants you features at 3rd level and then again at 6th level, 10th level, 14th level, and 18th level.
 
 | Repertoire | Source |
