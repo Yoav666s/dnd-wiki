@@ -60,7 +60,7 @@ When a magic trick requires a saving throw, the DC equals 8 + your Charisma modi
 **Swift Parry.** When you are hit with an attack, you can use your reaction to expend a Trickery die, rolling it and adding the number rolled to your AC for that attack, possibly causing it to miss.
 
 # Magician's Repertoire
-At 3rd level, you choose a repertoire to specialize in. Your repertoire choice grants you features at 3rd level and then again at 6th level, 10th level, and 14th level.
+At 3rd level, you choose a repertoire to specialize in. Your repertoire choice grants you features at 3rd level and then again at 6th level, 10th level, 14th level, and 18th level.
 
 | Repertoire | Source |
 | :---- | :---- |
@@ -96,3 +96,6 @@ Starting at 15th level, when you roll initiative and have no remaining Trickery 
 
 # Reliable Trickery
 Starting at 17th level, once per turn when you roll a Trickery die and the number rolled is lower than your Charisma modifier, you can use your Charisma modifier instead.
+
+# 
+Starting at 20th level,
