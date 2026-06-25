@@ -23,6 +23,10 @@ Not to be confused with mages, magicians are stage performers. Illusionists by t
 | 2nd | +2 | 2d4 | [[Dirty Tricks]] |
 | 3rd | +2 | 3d4 | [[Magician Repertoire]] |
 | 4th | +2 | 4d4 | [[Ability Score Improvement]] |
+| 5th | +3 | 5d6 | [[Extra Attack]] |
+| 6th | +3 | 6d6 | [[Magician Repertoire]] feature |
+| 7th | +3 | 7d6 | [[Evasion]] |
+| 8th | +3 | 8d6 | [[Ability Score Improvement]] |
 
 # Class Features
 As a magician, you gain the following class features.
