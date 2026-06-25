@@ -64,8 +64,10 @@ At 3rd level, you choose a repertoire to specialize in. Your repertoire choice g
 
 | Repertoire | Source |
 | :---- | :---- |
-| Daredevil | Survivor's Guide to Morgenfell |
-| Escapologist | Survivor's Guide to Morgenfell |
+| [[!Daredevil]] | Survivor's Guide to Morgenfell |
+| [[!Escapologist]] | Survivor's Guide to Morgenfell |
+| [[!Placeholder]] | Survivor's Guide to Morgenfell |
+| [[!Placeholder]] | Survivor's Guide to Morgenfell |
 
 # Ability Score Improvement 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
