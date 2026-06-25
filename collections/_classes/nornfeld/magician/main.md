@@ -19,6 +19,7 @@ Not to be confused with mages, magicians are stage performers. Illusionists by t
 
 | Level | Proficiency Bonus | Trickery Dice | Features |
 | :---: | :---: | :---: | :---- |
+| 1st | +2 | - |  |
 
 # Class Features
 As a magician, you gain the following class features.
