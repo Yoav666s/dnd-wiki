@@ -93,3 +93,6 @@ Starting at 13th level, you learn the following magic trick.
 
 # Supreme Trickery
 Starting at 15th level, when you roll initiative and have no remaining Trickery dice, you regain a number of them equal to your Charisma modifier.
+
+# Reliable Trickery
+Starting at 17th level, once per turn when you roll a Trickery die and the number rolled is lower than your Charisma modifier, you can use your Charisma modifier instead.
