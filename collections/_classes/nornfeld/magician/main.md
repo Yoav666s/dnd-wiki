@@ -15,6 +15,11 @@ Not to be confused with mages, magicians are stage performers. Illusionists by t
 
 *You must have a Dexterity score and a Charisma score of 13 or higher in order to multiclass in or out of this class.*
 
+# The Magician
+
+| Level | Proficiency Bonus | Trickery Dice | Features |
+| :---: | :---: | :---: | :---- |
+
 # Class Features
 As a magician, you gain the following class features.
 
