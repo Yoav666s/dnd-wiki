@@ -86,10 +86,10 @@ Starting at 9th level, you learn the following magic tricks.
 # Performative Strikes
 Starting at 11th level, when you make a weapon attack or unarmed strike, it deals additional damage equal to your Charisma modifier.
 
-# 
+# Evasive Maneuver
 Starting at 13th level, you learn the following magic trick.
 
-**Distraction.** when a creature enters within 5 feet of you, you can use your reaction to expend a Trickery die, rolling it. You can make a melee attack against the creature. Hit or miss, you can move X feet without provoking Opportunity Attacks, where X is the number rolled times 5.
+**Elegant Distraction.** when a creature enters within 5 feet of you, you can use your reaction to expend a Trickery die, rolling it. You can make a melee attack against the creature, adding the number rolled to the attack roll. Hit or miss, you can move up to half your speed without provoking Opportunity Attacks.
 
 # Supreme Trickery
 Starting at 15th level, when you roll initiative and have no remaining Trickery dice, you regain a number of them equal to your Charisma modifier.
