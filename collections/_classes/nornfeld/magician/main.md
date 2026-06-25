@@ -4,14 +4,14 @@ index:
   - magician 
 permalink: /classes/magician/
 is_class: true
-excerpt: "Not to be confused with mages, the magicians are stage performers."
+excerpt: "Not to be confused with mages, magicians are stage performers."
 alt_version: magician-2024
 # header:
 #   overlay_image: /assets/images/classes/magician/header.png
 #   teaser: /assets/images/classes/magician/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
-Not to be confused with mages, the magicians are stage performers. Illusionists by trade, they pride themselves on relying not on real magic, but clever tricks to fool the audience. In battle, they prove slippery and frustrating to deal with, and in social encounters, they are unbelievably charming and humorous.
+Not to be confused with mages, magicians are stage performers. Illusionists by trade, they pride themselves on relying not on real magic, but clever tricks to fool the audience. In battle, they prove slippery and frustrating to deal with, and in social encounters, they are unbelievably charming and humorous.
 
 *You must have a Dexterity score and a Charisma score of 13 or higher in order to multiclass in or out of this class.*
 
