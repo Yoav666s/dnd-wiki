@@ -72,7 +72,7 @@ At 6th level, you can choose two more of your proficiencies to gain this benefit
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Charisma modifier.
 
 ## Dirty Tricks
-Starting at 2nd level, your way of fighting manifests itself in illusions and tricks, which can include props, represented by a number of Trickery dice. Your magician level determines the number and type of Trickery dice you have, as shown in the Trickery dice column. (dice number equal to your magician level, die size equal to twice your proficiency bonus: 2d4 at 2nd level, 5d6 at 5th level, etc.)
+Starting at 2nd level, your way of fighting manifests itself in illusions and tricks, which can include props, represented by a number of Trickery dice. Your magician level determines the number and type of Trickery dice you have, as shown in the Trickery dice column.
 
 You can spend these dice on various tricks. You start knowing three such tricks: Effortless Performance, Misdirected Strike, and Swift Parry. You learn more tricks as you gain levels in this class. When you spend a Trickery die, it is unavailable to you until you finish a long rest. You regain a number of expended Trickery dice equal to your Charisma modifier (minimum of 1) when you finish a short rest.
 
