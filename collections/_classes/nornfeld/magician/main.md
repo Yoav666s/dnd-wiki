@@ -84,10 +84,12 @@ Starting at 9th level, you learn the following magic tricks.
 **Smoke Cloud.** As a bonus action, you can expend a Trickery die, rolling it. You create an X-foot-radius sphere of harmless smoke centered on you, where X is the number rolled times 5. The sphere spreads around corners, and its area is heavily obscured. It lasts until the end of your next turn or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
 # Performative Strikes
-Starting at 11th level, when you take the attack action on your turn, your weapon attacks deal additional damage equal to your Charisma modifier.
+Starting at 11th level, when you make a weapon attack or unarmed strike, it deals additional damage equal to your Charisma modifier.
 
 # 
-Starting at 13th level,
+Starting at 13th level, you learn the following magic trick.
+
+**Distraction.** when a creature enters within 5 feet of you, you can use your reaction to expend a Trickery die, rolling it. You can make a melee attack against the creature. Hit or miss, you can move X feet without provoking Opportunity Attacks, where X is the number rolled times 5.
 
 # Supreme Trickery
 Starting at 15th level, when you roll initiative and have no remaining Trickery dice, you regain a number of them equal to your Charisma modifier.
