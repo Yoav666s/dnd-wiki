@@ -31,7 +31,10 @@ Not to be confused with mages, magicians are stage performers. Illusionists by t
 | 10th | +4 | 10d8 | [[Magician Repertoire]] feature |
 | 11th | +4 | 11d8 | [[Performative Strikes]] |
 | 12th | +4 | 12d8 | [[Ability Score Improvement]] |
-| 13th | +5 | 13d10 | [[]] |
+| 13th | +5 | 13d10 | [[Reliable Trickery]] |
+| 14th | +5 | 14d10 | [[Magician Repertoire]] feature |
+| 15th | +5 | 15d10 | [[Supreme Trickery]] |
+| 16th | +5 | 16d10 | [[Ability Score Improvement]] |
 
 # Class Features
 As a magician, you gain the following class features.
