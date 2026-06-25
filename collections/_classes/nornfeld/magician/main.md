@@ -51,9 +51,11 @@ Starting at 2nd level, your way of fighting manifests itself in illusions and tr
 
 You can spend these dice on various tricks. You start knowing three such tricks: Effortless Performance, Misdirected Strike, and Swift Parry. You learn more tricks as you gain levels in this class. When you spend a Trickery die, it is unavailable to you until you finish a long rest. You regain a number of expended Trickery dice equal to your Charisma modifier (minimum of 1) when you finish a short rest.
 
-- **Effortless Performance.** When you fail a Dexterity (Sleight of Hand) or Charisma (Deception or Performance) check, you can expend a Trickery die, rolling it and adding the number rolled to the total, possiblity turning the failure into a success.
-- **Misdirected Strike.** Before you make a weapon or attack or unarmed strike, you can expend a Trickery die to feint a different attack. Roll the die and add the number rolled to the attack roll.
-- **Swift Parry.** When you are hit with an attack, you can use your reaction to expend a Trickery die, rolling it and adding the number rolled to your AC for that attack, possibly causing it to miss.
+**Effortless Performance.** When you fail a Dexterity (Sleight of Hand) or Charisma (Deception or Performance) check, you can expend a Trickery die, rolling it and adding the number rolled to the total, possiblity turning the failure into a success.
+
+**Misdirected Strike.** Before you make a weapon or attack or unarmed strike, you can expend a Trickery die to feint a different attack. Roll the die and add the number rolled to the attack roll.
+
+**Swift Parry.** When you are hit with an attack, you can use your reaction to expend a Trickery die, rolling it and adding the number rolled to your AC for that attack, possibly causing it to miss.
 
 # Magician's Repertoire
 At 3rd level, you choose a repertoire to specialize in. Your repertoire choice grants you features at 3rd level and then again at 6th level, 10th level, and 14th level.
@@ -73,6 +75,6 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 Starting at 7th level, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 # Smoke and Mirrors
-Starting at 9th level, you learn the following magic tricks.
+Starting at 9th level, you learn the following magic trick.
 
-- **Smoke Cloud.** As an action, you can expend a Trickery die, rolling it. You create a X-foot-radius sphere of harmless smoke centered on a point within range, where X is the number rolled times 5. The sphere spreads around corners, and its area is heavily obscured. It lasts until the end of your next turn or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+**Smoke Cloud.** As an action, you can expend a Trickery die, rolling it. You create a X-foot-radius sphere of harmless smoke centered on a point within range, where X is the number rolled times 5. The sphere spreads around corners, and its area is heavily obscured. It lasts until the end of your next turn or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
