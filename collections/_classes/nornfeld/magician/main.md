@@ -77,4 +77,4 @@ Starting at 7th level, when you are subjected to an effect that allows you to ma
 # Smoke and Mirrors
 Starting at 9th level, you learn the following magic trick.
 
-**Smoke Cloud.** As an action, you can expend a Trickery die, rolling it. You create an X-foot-radius sphere of harmless smoke centered on you, where X is the number rolled times 5. The sphere spreads around corners, and its area is heavily obscured. It lasts until the end of your next turn or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+**Smoke Cloud.** As a bonus action, you can expend a Trickery die, rolling it. You create an X-foot-radius sphere of harmless smoke centered on you, where X is the number rolled times 5. The sphere spreads around corners, and its area is heavily obscured. It lasts until the end of your next turn or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
