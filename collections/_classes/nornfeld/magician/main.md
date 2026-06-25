@@ -51,6 +51,8 @@ Starting at 2nd level, your way of fighting manifests itself in illusions and tr
 
 You can spend these dice on various tricks. You start knowing three such tricks: Effortless Performance, Misdirected Strike, and Swift Parry. You learn more tricks as you gain levels in this class. When you spend a Trickery die, it is unavailable to you until you finish a long rest. You regain a number of expended Trickery dice equal to your Charisma modifier (minimum of 1) when you finish a short rest.
 
+When a magic trick requires a saving throw, the DC equals 8 + your Charisma modifier + your proficiency bonus.
+
 **Effortless Performance.** When you fail a Dexterity (Sleight of Hand) or Charisma (Deception or Performance) check, you can expend a Trickery die, rolling it and adding the number rolled to the total, possiblity turning the failure into a success.
 
 **Misdirected Strike.** Before you make a weapon or attack or unarmed strike, you can expend a Trickery die to feint a different attack. Roll the die and add the number rolled to the attack roll.
