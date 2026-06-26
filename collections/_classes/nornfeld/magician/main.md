@@ -36,7 +36,7 @@ Not to be confused with mages, magicians are stage performers. Illusionists by t
 | 15th | +5 | 15d10 | [[Supreme Trickery]] |
 | 16th | +5 | 16d10 | [[Ability Score Improvement]] |
 | 17th | +6 | 17d12 | [[Evasive Maneuver]] |
-| 18th | +6 | 18d12 | [[Magician Repertoire]] feature |
+| 18th | +6 | 18d12 | [[Cheap Tricks]] |
 | 19th | +6 | 19d12 | [[Ability Score Improvement]] |
 | 20th | +6 | 20d12 | [[Masterful Trickery]] |
 
@@ -84,8 +84,8 @@ When a trick requires a saving throw, the DC equals 8 + your Charisma modifier +
 
 **Swift Parry.** When you are hit with an attack, you can use your reaction to expend a Trickery die, rolling it and adding the number rolled to your AC for that attack, possibly causing it to miss.
 
-# Magician Repertoire
-At 3rd level, you choose a repertoire to specialize in. Your repertoire choice grants you features at 3rd level and then again at 6th level, 10th level, 14th level, and 18th level.
+## Magician Repertoire
+At 3rd level, you choose a repertoire to specialize in. Your repertoire choice grants you features at 3rd level and then again at 6th level, 10th level, and 14th level.
 
 | Repertoire | Source |
 | :---- | :---- |
@@ -94,37 +94,40 @@ At 3rd level, you choose a repertoire to specialize in. Your repertoire choice g
 | [[!Mentalist]] | Survivor's Guide to Morgenfell |
 | [[!Placeholder]] | Survivor's Guide to Morgenfell |
 
-# Ability Score Improvement 
+## Ability Score Improvement 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-# Extra Attack
+## Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-# Evasion
+## Evasion
 Starting at 7th level, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-# Smoke and Mirrors
+## Smoke and Mirrors
 Starting at 9th level, you learn the following tricks.
 
 **Fire Play.** You can replace one of your attacks with a burst of flame on a creature within 5 feet of you. Expend a number of Trickery dice equal up to your Charisma modifier (minimum of 1), rolling them. The target must make a Dexterity saving throw. On failure, it takes fire damage equal to the total rolled and starts burning. On success, it only takes half damage.
 
 **Smoke Cloud.** As a bonus action, you can expend a Trickery die, rolling it. You create an X-foot-radius sphere of harmless smoke centered on you, where X is the number rolled times 5. The sphere spreads around corners, and its area is heavily obscured. It lasts until the end of your next turn or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
-# Performative Strikes
+## Performative Strikes
 Starting at 11th level, when you make a weapon attack or unarmed strike, it deals additional damage equal to your Charisma modifier.
 
-# Reliable Trickery
+## Reliable Trickery
 Starting at 13th level, once per turn when you roll a Trickery die and the number rolled is lower than your Charisma modifier, you can use your Charisma modifier instead.
 
-# Supreme Trickery
+## Supreme Trickery
 Starting at 15th level, when you roll initiative and have no remaining Trickery dice, you regain a number of them equal to your Charisma modifier.
 
-# Evasive Maneuver
+## Evasive Maneuver
 Starting at 17th level, you learn the following trick.
 
 **Elegant Distraction.** when a creature enters within 5 feet of you, you can use your reaction to expend a Trickery die, rolling it. You can make a melee attack against the creature, adding the number rolled to the attack roll. Hit or miss, you can move up to half your speed without provoking Opportunity Attacks.
 
-# Masterful Trickery
+## Cheap Tricks
+Starting at 18th level, whenever a feature requires you to expend and roll one Trickery die, you can choose to roll a d6 instead. This d6 does not benefit from your Reliable Trickery feature.
+
+## Masterful Trickery
 Starting at 20th level, when you roll one or more Trickery dice, you can use the maximum result instead of rolling.
 
 Once you use this feature, you can't do it again until you finish a short or long rest.
