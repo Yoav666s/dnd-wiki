@@ -12,12 +12,12 @@ source: "Survivor's Guide to Morgenfell"
 ---
 
 # Escape Artist
-Starting at 3rd level, you have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks you make to end the grappled condition on yourself. Additionally, you gain proficiency with Thieve's Tools. If you already have this proficiency, you gain expertise.
+Starting at 3rd level, you have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks you make to end the grappled condition on yourself. Additionally, you gain proficiency with thieves' tools. If you already have this proficiency, you gain expertise.
 
 # Underwater Training
 Starting at 3rd level, you can hold your breath for a number of minutes equal to your Constitution modifier plus your proficiency bonus. Additionally, you gain a swimming speed equal to your walking speed.
 
-# 
+# Boundless Performance
 Starting at 6th level, you learn the following trick.
 
 **Elegant Escape.** You can expend a Trickery die to take the disengage action as a bonus action, rolling it. Your speed is increased by the number rolled times 5 until the end of your turn.
