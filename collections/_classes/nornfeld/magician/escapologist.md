@@ -22,5 +22,8 @@ Starting at 6th level, you learn the following trick.
 
 **Elegant Escape.** You can expend a Trickery die to take the disengage action as a bonus action, rolling it. Your speed is increased by the number rolled times 5 until the end of your turn.
 
+# Acquired Toughness
+Starting at 10th level, you gain proficiency in Constitution saving throws. If you already have this proficiency, you gain proficiency in Strength saving throws instead.
+
 #
-Starting at 10th level 
+Starting at 14th level,
