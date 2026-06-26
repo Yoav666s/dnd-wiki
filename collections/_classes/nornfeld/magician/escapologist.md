@@ -3,16 +3,17 @@ title: "Escapologist"
 index:
   - escapologist
 permalink: /classes/magician/escapologist/
-excerpt: ""
+excerpt: "Escapologists are slippery and cannot be bound down."
 subclass: magician 
 header:
   overlay_image: /assets/images/classes/magician/escapologist/header.png
   teaser: /assets/images/classes/magician/escapologist/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
+Escapologists are slippery and cannot be bound down. They can break out of locks, ropes, water tanks, and anything that would try to hold them in place. They cheat death in seemingly impossible ways, and the amaze audiences with their courage and skill.
 
 # Escape Artist
-Starting at 3rd level, you have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks you make to end the grappled condition on yourself. Additionally, you gain proficiency with thieves' tools. If you already have this proficiency, you gain expertise.
+Starting at 3rd level, you have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks you make to end the grappled or restrained condition on yourself. Additionally, you gain proficiency with thieves' tools. If you already have this proficiency, you gain expertise.
 
 # Underwater Training
 Starting at 3rd level, you can hold your breath for a number of minutes equal to your Constitution modifier plus your proficiency bonus. Additionally, you gain a swimming speed equal to your walking speed.
