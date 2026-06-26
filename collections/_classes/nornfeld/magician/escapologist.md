@@ -26,4 +26,6 @@ Starting at 6th level, you learn the following trick.
 Starting at 10th level, you gain proficiency in Constitution saving throws. If you already have this proficiency, you gain proficiency in Strength saving throws instead.
 
 #
-Starting at 14th level,
+Starting at 14th level, you learn the following trick.
+
+**.** 
