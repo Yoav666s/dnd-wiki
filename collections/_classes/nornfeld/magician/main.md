@@ -91,7 +91,7 @@ At 3rd level, you choose a repertoire to specialize in. Your repertoire choice g
 | :---- | :---- |
 | [[!Daredevil]] | Survivor's Guide to Morgenfell |
 | [[!Escapologist]] | Survivor's Guide to Morgenfell |
-| [[!Placeholder]] | Survivor's Guide to Morgenfell |
+| [[!Mentalist]] | Survivor's Guide to Morgenfell |
 | [[!Placeholder]] | Survivor's Guide to Morgenfell |
 
 # Ability Score Improvement 
