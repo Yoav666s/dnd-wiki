@@ -17,10 +17,10 @@ Starting at 3rd level, you have advantage on Strength (Athletics) and Dexterity 
 # Underwater Training
 Starting at 3rd level, you can hold your breath for a number of minutes equal to your Constitution modifier plus your proficiency bonus. Additionally, you gain a swimming speed equal to your walking speed.
 
-#
+# 
 Starting at 6th level, you learn the following trick.
 
-**.**
+**Elegant Escape.** You can expend a Trickery die to take the disengage action as a bonus action, rolling it. Your speed is increased by the number rolled times 5 until the end of your turn.
 
 #
 Starting at 10th level 
