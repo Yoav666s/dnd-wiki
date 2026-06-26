@@ -125,7 +125,7 @@ Starting at 17th level, you learn the following trick.
 **Elegant Distraction.** when a creature enters within 5 feet of you, you can use your reaction to expend a Trickery die, rolling it. You can make a melee attack against the creature, adding the number rolled to the attack roll. Hit or miss, you can move up to half your speed without provoking Opportunity Attacks.
 
 ## Cheap Tricks
-Starting at 18th level, once per turn when a feature requires you to expend and roll one Trickery die, you can choose to roll a d6 instead. This d6 does not benefit from your Reliable Trickery feature.
+Starting at 18th level, once per round when a feature requires you to expend and roll one Trickery die, you can choose to roll a d6 instead. This d6 does not benefit from your Reliable Trickery feature.
 
 ## Masterful Trickery
 Starting at 20th level, when you roll one or more Trickery dice, you can use the maximum result instead of rolling.
