@@ -25,7 +25,7 @@ Starting at 6th level, you learn the following trick.
 # Acquired Toughness
 Starting at 10th level, you gain proficiency in Constitution saving throws. If you already have this proficiency, you gain proficiency in Strength saving throws instead.
 
-#
+# Death Defying Act
 Starting at 14th level, you learn the following trick.
 
-**.** 
+**Cheat Death.** When you would take damage that would reduce you to 0 hit points, you can use your reaction to expend a number of Trickery dice equal up to your Charisma modifier (minimum of 1) and reduce the damage by the total rolled.
