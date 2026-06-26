@@ -12,4 +12,4 @@ source: "Survivor's Guide to Morgenfell"
 ---
 
 # 
-Starting at 3rd level, you have advantage on Strength (Athletics) or Dexterity (Acrobatics) checks you make to escape grapples.
+Starting at 3rd level, you have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks you make to end the grappled condition on yourself. Additionally, when you are restrained, 
