@@ -22,5 +22,10 @@ Starting at 6th level, you learn the following trick.
 
 **Dashing Entrance.** You can expend a Trickery die to take the dash action as a bonus action, rolling it. Your speed increases by the number rolled times 5 until the end of your turn.
 
-#
-Starting at 10th level, 
+# Hand to Hand Combat
+Starting at 10th level, you have advantage on Strength (Athletics) checks you make in order to grapple a creature.
+
+# 
+Starting at 14th level, you learn the following trick.
+
+**Choke Hold.** When you successfully grapple a creature, you can expend a Trickery die to choke the creature, rolling the die.
