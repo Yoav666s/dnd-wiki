@@ -3,13 +3,14 @@ title: "Daredevil"
 index:
   - daredevil
 permalink: /classes/magician/daredevil/
-excerpt: ""
+excerpt: "Fearless stuntmen, daredevils are a wonder to behold."
 subclass: magician 
 header:
   overlay_image: /assets/images/classes/magician/daredevil/header.png
   teaser: /assets/images/classes/magician/daredevil/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
+Utterly fearless stuntmen, daredevils are a wonder to behold. They brave through terrifying stunts and are experts in hand to hand combat.
 
 # Showman's Bravado
 Starting at 3rd level, you gain a bonus to Dexterity (Acrobatics) and Strength (Athletics) checks equal to your Charisma modifier.
