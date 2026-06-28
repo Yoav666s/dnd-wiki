@@ -53,7 +53,7 @@ As a magician, you gain the following class features.
 **Weapons:** Simple weapons, firearms, rapiers, light crossbows \
 **Tools:** Playing Card set \
 **Saving Throws:** Dexterity, Charisma \
-**Skills:** Choose three from Acrobatics, Deception, Insight, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
+**Skills:** Choose three from Acrobatics, Animal Handling, Deception, Insight, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
 ## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
