@@ -24,7 +24,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | Sorcerer Level | Spells |
 | :------------: | :----- |
 | 3 | [[!Charm Person]], [[!Silent Image]], [[!Invisibility]], [[!Misty Step]] |
-| 5 | [[!Blink]], [[!Major Image]] |
+| 5 | [[!Major Image]], [[!Sending]] |
 | 7 | [[!Confusion]], [[!Greater Invisibility]] |
 | 9 | [[!Dream]], [[!Mislead]] |
 
