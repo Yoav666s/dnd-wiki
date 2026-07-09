@@ -24,7 +24,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | :------------: | :----- |
 | 1st | [[!Charm Person]], [[!Disguise Self]] |
 | 3rd | [[!Invisibility]], [[!Misty Step]] |
-| 5th | [[!Blink]], [[!Major Image]] |
+| 5th | [[!Major Image]], [[!Sending]] |
 | 7th | [[!Confusion]], [[!Greater Invisibility]] |
 | 9th | [[!Dream]], [[!Modify Memory]] |
 
