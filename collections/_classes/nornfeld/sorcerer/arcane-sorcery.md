@@ -20,7 +20,7 @@ You learn additional spells when you reach certain levels in this class, as show
 
 | Sorcerer Level | Spells |
 | :------------: | :----- |
-| 3 | [[!Magic Missile]], [[!Shield]], [[!Invisibility]], [[!Misty Step]] |
+| 3 | [[!Invisibility]], [[!Magic Missile]], [[!Misty Step]], [[!Shield]] |
 | 5 | [[!Counterspell]], [[!Sending]] |
 | 7 | [[!Dimension Door]], [[!Polymorph]] |
 | 9 | [[!Arcane Hand]], [[!Scrying]] |
