@@ -23,7 +23,7 @@ Starting at 1st level, you learn additional spells when you reach certain levels
 | 3rd | [[!Invisibility]], [[!Misty Step]] |
 | 5th | [[!Counterspell]], [[!Sending]] |
 | 7th | [[!Dimension Door]], [[!Polymorph]] |
-| 9tg | [[!Arcane Hand]], [[!Scrying]] |
+| 9th | [[!Arcane Hand]], [[!Scrying]] |
 
 # Force Barrier
 Starting at 1st level, immediately before or after you cast a spell of 1st level or higher on your turn, you can conjure an arcane barrier to protect yourself as a bonus action. You add your proficiency bonus to your AC until the start of your next turn. If the bonus you get from this effect is +5 or higher, you take no damage from [[Magic Missile]] while the barrier is up.
