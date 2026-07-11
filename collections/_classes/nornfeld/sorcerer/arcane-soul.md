@@ -37,8 +37,4 @@ Once you use this feature, you can't do it again until you finish a long rest, u
 Starting at 14th level, you can cast [[Misty Step]] without expending a spell slot.
 
 # Metamorphosis
-Starting at 18th level, you learn the [[Shapechange]] and [[True Polymorph]] spells, and you can cast them using an appropriate spell slot. When you cast these spells, they gain the following benefits.
-
-**Shapechange.** You can concentrate on this spell for a duration of 8 hours.
-
-**True Polymorph.** An unwilling creature has disadvantage on the saving throw to resist this spell. You only need to concentrate on this spell for 1 minute in order for its effect to last until dispelled.
+Starting at 18th level, you learn the [[Shapechange]] spell, and you can cast it using an appropriate spell slot. You can concentrate on this spell for a duration of 8 hours.
