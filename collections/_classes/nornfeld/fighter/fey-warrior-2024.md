@@ -43,7 +43,7 @@ You've found new ways to use your Fey Energy, detailed below.
 
 **Frightening Strike.** When you use your Augmented Strike, you can force the target to make a Wisdom saving throw (DC equal to 8 + your Charisma modifier and proficiency bonus). On failure, the target is Frightened of you until the start of your next turn.
 
-**Vanish.** As a bonus action, you can expend a Fey Energy Die, rolling it and magically giving yourself the invisible condition until this start of your next turn, or until you attack or cast a spell. You gain temporary hit points equal to the number rolled.
+**Vanish.** As a bonus action, you can expend a Fey Energy Die, rolling it and magically giving yourself the invisible condition until the start of your next turn, or until you attack or cast a spell. You gain temporary hit points equal to the number rolled.
 
 # Level 10: Fey Aptitude
 When you roll a number lower than your Charisma modifier on a Fey Energy Die, you can use your Charisma modifier instead.
