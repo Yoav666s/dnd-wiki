@@ -398,6 +398,7 @@ defaults:
       toc: true
       toc_label: "Contents"
       toc_sticky: true
+      share: true
 
   # _adventures
   - scope:
@@ -415,6 +416,7 @@ defaults:
       toc_label: "Contents"
       toc_sticky: true
       wip: false
+      share: true
 
   # _feats
   - scope:
@@ -430,6 +432,7 @@ defaults:
         overlay_filter: 0.375
       show_tags: true
       classes: wide
+      share: true
 
   # _lore
   - scope:
@@ -446,6 +449,7 @@ defaults:
       toc: true
       toc_label: "Contents"
       toc_sticky: true
+      share: true
 
   # _monsters
   - scope:
@@ -460,6 +464,7 @@ defaults:
         overlay_image: /assets/images/monsters/header.png
         overlay_filter: 0.375
       toc: false
+      share: true
 
   # _races
   - scope:
@@ -476,6 +481,7 @@ defaults:
       toc: true
       toc_label: "Contents"
       toc_sticky: true
+      share: true
 
   # _rules
   - scope:
@@ -493,6 +499,7 @@ defaults:
       toc_label: "Contents"
       toc_sticky: true
       excerpt: ""
+      share: true
 
   # _spells
   - scope:
@@ -507,6 +514,7 @@ defaults:
         overlay_image: /assets/images/spells/header.png
         overlay_filter: 0.375
       classes: wide
+      share: true
 
   # _items
   - scope:
@@ -522,6 +530,7 @@ defaults:
         overlay_image: /assets/images/items/header.png
         overlay_filter: 0.375
       classes: wide
+      share: true
 
   # _expansions
   - scope:
@@ -536,3 +545,4 @@ defaults:
         overlay_image: /assets/images/expansions/header.png
         overlay_filter: 0.375
       classes: wide
+      share: true
