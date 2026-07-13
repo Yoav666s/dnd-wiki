@@ -32,7 +32,7 @@ You gain the following benefits.
 Whenever you make a Wisdom (Perception) check, you can treat a d20 roll of 9 or lower as a 10.
 
 # Level 10: Aim Correction
-When you use your Snap Correction feature, you can reroll the d20 once and use the highest roll.
+When you use your Snap Correction feature, you can reroll the d20 once and use the higher roll.
 
 # Level 15: Muscle Memory 
 When you roll for initiative and don't have any remaining uses of Snap Correction, you regain one use.
