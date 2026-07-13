@@ -17,4 +17,27 @@
   <a href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" class="btn btn--bluesky" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[locale].share_on_label | default: 'Share on' }} Bluesky">
     <i class="fab fa-fw fa-bluesky" aria-hidden="true"></i><span> Bluesky</span>
   </a>
+
+<a href="javascript:void(0);" id="copy-link-btn" class="btn btn--light" aria-label="Copy page link" title="Copy page link">
+  <i class="fas fa-fw fa-link" aria-hidden="true"></i><span id="copy-btn-text"> Copy Link</span>
+</a>
+
+<script>
+  document.getElementById('copy-link-btn').addEventListener('click', function(e) {
+    e.preventDefault(); // Prevents any default anchor link behavior
+    
+    // Copy the current absolute URL to the clipboard
+    navigator.clipboard.writeText('{{ page.url | absolute_url }}').then(function() {
+      const btnText = document.getElementById('copy-btn-text');
+      
+      // Visual feedback
+      btnText.textContent = ' Copied!';
+      setTimeout(function() {
+        btnText.textContent = ' Copy Link';
+      }, 2000);
+    }).catch(function(error) {
+      console.error('Failed to copy link: ', error);
+    });
+  });
+</script>
 </section>
