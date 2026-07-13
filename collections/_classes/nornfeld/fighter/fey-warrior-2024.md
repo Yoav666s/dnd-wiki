@@ -32,7 +32,7 @@ Some features in this subclass require you to use Fey Energy Dice. You cannot us
 
 **Augmented Strike.** You can imbue your strike with fey magic. Once per turn, immediately after you hit a creature with an weapon attack, you can expend  a Fey Energy Die, rolling it and dealing additional Psychic damage equal to the number rolled plus your Charisma modifier.
 
-**Feywild Slip.** You can step in and out of the Feywild. Immediately before you make an attack (or as a Bonus Action), you can expend a Fey Energy Die to magically teleport to an unoccupied space you can see, a distance equal up to 5 times your proficiency modifier.
+**Feywild Slip.** You can step in and out of the Feywild. Immediately before you make an attack (or as a Bonus Action), you can expend a Fey Energy Die to magically teleport to an unoccupied space you can see, a distance equal up to 5 times your proficiency modifier. Roll the die and add the number rolled to the attack roll.
 
 **Silver Tongue.** You know the Friends cantrip, and your spellcasting ability for it is Charisma. When you cast it, you can expend a Fey Energy Die, rolling it and subtracting the number rolled from the target's saving throw.
 
