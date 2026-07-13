@@ -29,7 +29,7 @@ Starting at 1st level, you learn additional spells when you reach certain levels
 Starting at 1st level, immediately before or after you cast a spell of 1st level or higher on your turn, you can conjure an arcane barrier to protect yourself as a bonus action. You add your proficiency bonus to your AC until the start of your next turn. If the bonus you get from this effect is +5 or higher, you take no damage from [[Magic Missile]] while the barrier is up.
 
 # Arcane Missiles
-Starting at 6th level, as a bonus action, you can create a number of glowing darts of magical force equal to your proficiency bonus. Each dart strikes a creature of your choice that you can see within 60 feet. A dart deals 1d4 + 1 Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several. A Shield spell negates this damage.
+Starting at 6th level, as a bonus action, you can create a number of glowing darts of magical force equal to your proficiency bonus. Each dart strikes a creature of your choice that you can see within 60 feet. A dart deals 1d4 + 1 Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several. A [[Shield]] spell negates this damage.
 
 Once you use this feature, you can't do it again until you finish a long rest, unless you expend 2 Sorcery points to restore your use of it (no action required).
 
