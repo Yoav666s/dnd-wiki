@@ -37,4 +37,4 @@ Once you use this feature, you can't do it again until you finish a long rest, u
 Starting at 14th level, you can cast [[Misty Step]] without expending a spell slot.
 
 # Metamorphosis
-Starting at 18th level, you learn the [[Shapechange]] spell, and you can cast it using an appropriate spell slot. You can concentrate on this spell for a duration of 8 hours.
+Starting at 18th level, you know the [[Shapechange]] spell, and you can cast it using a 9th level spell slot. You can concentrate on this spell for a duration of 8 hours.
