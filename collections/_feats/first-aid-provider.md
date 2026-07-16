@@ -4,6 +4,7 @@ index:
   - first-aid-provider
 permalink: /feats/first-aid-provider/
 excerpt: "You have learned methods to provide first aid to humanoids in a critical state."
+alt_version: first-aid-provider-2024
 source: "Survivor's Guide to Morgenfell"
 ---
 *Origin Feat*
