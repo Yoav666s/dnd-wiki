@@ -29,4 +29,4 @@ Starting at 10th level, you have advantage on Strength (Athletics) checks you ma
 # Strangler
 Starting at 14th level, you learn the following trick.
 
-**Choke Hold.** When you successfully grapple a creature, you can expend a Trickery die to choke the creature. The creature must succeed a Constitution saving throw or begin choking. Roll the Trickery die and subtract the number rolled from the saving throw. As an action on subsequent turns, you can maintain the choke. If the creature escapes the grapple, the choke ends. This has no effect on a creature that doesn't rely air to breath.
+**Choke Hold.** When you successfully grapple a creature, you can expend a Trickery die to choke the creature. The creature must succeed a Constitution saving throw or begin choking. Roll the Trickery die and subtract the number rolled from the saving throw. As an action on subsequent turns, you can maintain the choke. If the creature escapes the grapple, the choke ends. This has no effect on a creature that doesn't rely on air to breath.
