@@ -7,7 +7,7 @@ alt_version: battle-caster-2024
 excerpt: "Your combat training gives you the following benefits."
 source: "Survivor's Guide to Morgenfell"
 ---
-*Prerequisite: The ability to cast at least one spell*
+***Prerequisite:** The ability to cast at least one spell*
 
 Your combat training gives you the following benefits.
 
