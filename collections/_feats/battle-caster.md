@@ -1,10 +1,9 @@
 ---
 title: "Battle Caster"
 index:
-  - battle-caster-2024
-permalink: /feats/battle-caster-2024/
-v_2024: true
-alt_version: battle-caster
+  - battle-caster
+permalink: /feats/battle-caster/
+alt_version: battle-caster-2024
 excerpt: "Your combat training gives you the following benefits."
 source: "Survivor's Guide to Morgenfell"
 ---
