@@ -108,7 +108,7 @@ Starting at 9th level, you learn the following tricks.
 
 **Fire Play.** You can replace one of your attacks with a burst of flame on a creature within 5 feet of you. Expend a number of Trickery dice equal up to your Charisma modifier (minimum of 1), rolling them. The target must make a Dexterity saving throw. On failure, it takes fire damage equal to the total rolled and starts burning. On success, it only takes half damage.
 
-**Smoke Cloud.** As a bonus action, you can expend a Trickery die, rolling it. You create an X-foot-radius sphere of harmless smoke centered on you, where X is the number rolled times 5. The sphere spreads around corners, and its area is heavily obscured. It lasts until the end of your next turn or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+**Smoke Cloud.** As a bonus action, you can expend a Trickery die, rolling it. You create an 20-foot-radius sphere of harmless smoke centered on you. The sphere spreads around corners, and its area is heavily obscured. It lasts a number of rounds equal to the number rolled or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
 ## Performative Strikes
 Starting at 11th level, when you make a weapon attack or unarmed strike, it deals additional damage equal to your Charisma modifier.
