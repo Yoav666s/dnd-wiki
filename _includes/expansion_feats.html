@@ -1,4 +1,4 @@
-{% assign feats = site.feats | where: "source", page.title %}
+{% assign feats = site.feats | where: "source", page.title | where_exp: "item", "item.v_2024 == nil" %}
 {% for feat in feats %}
   <h2 id="{{ feat.title | slugify }}">{{ feat.title }}</h2>
   {% include page_content.html page=feat %}
