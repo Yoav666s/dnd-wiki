@@ -1,4 +1,4 @@
-{% assign all_spells = site.spells | where: "source", page.title | sort: "level" %}
+{% assign all_spells = site.spells | where: "source", page.title | sort: "level" | where_exp: "item", "item.v_2024 == nil" %}
 {% assign levels = all_spells | map: "level" | uniq %}
 {% for level in levels %}
   <h2 id="{{ level | slugify }}">{{ level | capitalize }}</h2>
