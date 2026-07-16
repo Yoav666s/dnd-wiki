@@ -3,6 +3,7 @@ title: "Fleet-Footed"
 index:
   - fleet-footed
 permalink: /feats/fleet-footed/
+alt_version: fleet-footed-2024
 excerpt: "Your innate agility sets you apart."
 ---
 *Origin Feat*
