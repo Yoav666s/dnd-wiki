@@ -1,10 +1,11 @@
 ---
 title: "Fey Friend"
 index:
-  - fey-friend
-permalink: /feats/fey-friend/
+  - fey-friend-2024
+permalink: /feats/fey-friend-2024/
 excerpt: "Your connection to the Feywild grants you the following benefits."
 v_2024: true
+alt_version: fey-friend
 source: "Fillumir's Guide to the Feywild"
 ---
 *Origin Feat*
