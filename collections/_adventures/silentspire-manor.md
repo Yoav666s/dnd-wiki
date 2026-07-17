@@ -3,7 +3,7 @@ title: "Silentspire Manor"
 index:
   - silentspire-manor
 permalink: /adventures/silentspire-manor/
-excerpt: ""
+excerpt: "This is a localized adventure, meant for one Player and a DM (Dungeon Master)."
 wip: true
 ---
 
