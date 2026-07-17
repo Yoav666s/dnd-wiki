@@ -3,7 +3,7 @@ title: "Silentspire Manor"
 index:
   - silentspire-manor
 permalink: /adventures/silentspire-manor/
-excerpt: "This is a localized adventure, meant for one Player and a DM (Dungeon Master)."
+excerpt: "The PC in this adventure has just inherited Silentspire Manor."
 wip: true
 ---
 
@@ -25,10 +25,13 @@ The PC in this adventure has just inherited Silentspire Manor. It is up to them 
 
 > You approach the gate, which is rusty and overtaken with vines. You unlock it with the key you were given, and the mechanism clicks loudly. The corroded gate gives out a creak as you push it open with effort. You walk along the path through what seems to have once been a beautiful garden, but is now a mess of weeds, thorns, and dead plants. As you arrive at the massive front doors, you push them open. The morning light fills the otherwise dark, dusty interior, and you hear a little whelp.
 
-Upon investigating the sound, the PC will find a little gnome named Simon Gribblesnout. He has been living here for years, feeding on rats that seem to come from the basement and drinking from the river that passes through what used to be the garden. Through dialogue with him, he will reveal the following things.
+Upon investigating the sound, the PC will find a little gnome named Simon Gribblesnout. He has been living here for years, feeding on rats that seem to come from the basement and drinking from the river that passes through what used to be the garden.
+
+> You see a little gnome, dirty and smelly but otherwise quite docile. He seems wary of you, but not inclined to attack. He has a bald spot on the top of his head, surrounded by frayed, greying hair, and his eyes are blue, blinking and darting around. "Who are you? Why are you here?"
+
+Through dialogue with him, he will reveal the following things.
 
 - There’s a giant rat in the basement.
 - He doesn’t remember how long he’s been living here.
 - He’d like to stay if the PC will let him.
 - He spent a lot of time in the library and actually kept it quite organized.
-
