@@ -33,6 +33,8 @@ As the PC attenpts to open the gate, you can ask for a DC 5 Strength check. If t
 | Wisdom (Perception) | 5 | Find a broken part of the wall to crawl through. |
 | Charisma (Persuasion) | 5 | Ask someone for help in opening the gate. |
 
+Once the PC successfully makes their way into the manor, read out loud the following description.
+
 > You walk along the path through what seems to have once been a beautiful garden, but is now a mess of weeds, thorns, and dead plants. As you arrive at the massive front doors, you push them open. The morning light fills the otherwise dark, dusty interior, and you hear a little whelp.
 
 Upon investigating the sound, the PC will find a little gnome named Simon Gribblesnout. He has been living here for years, feeding on rats that seem to come from the basement and drinking from the river that passes through what used to be the garden.
@@ -46,6 +48,6 @@ Through dialogue with him, he will reveal the following things.
 - He’d like to stay if the PC will let him.
 - He spent a lot of time in the library and actually kept it quite organized.
 
-If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there.
+If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. He goes and grabs a torch from a nearby wall and hands it to the PC, lighting it with a snap of his fingers.
 
-> As you descend through the stairs down to the basement 
+> As you descend through the stairs down to the basement, a wave of nauseating stench hits your face. It smells like rot, acrid urine, and feces. 
