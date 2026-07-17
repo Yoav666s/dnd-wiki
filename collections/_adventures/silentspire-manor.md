@@ -33,7 +33,7 @@ As the PC attenpts to open the gate, you can ask for a DC 5 Strength check. If t
 | Wisdom (Perception) | 5 | Find a broken part of the wall to crawl through. |
 | Charisma (Persuasion) | 5 | Ask someone for help in opening the gate. |
 
-Once the PC successfully makes their way into the manor, read out loud the following description.
+If the Player fails the original Strength check and then two more checks, let them automatically succeed on the last one. Once the PC successfully makes their way into the manor, read out loud the following description.
 
 > You walk along the path through what seems to have once been a beautiful garden, but is now a mess of weeds, thorns, and dead plants. As you arrive at the massive front doors, you push them open. The morning light fills the otherwise dark, dusty interior, and you hear a little whelp.
 
