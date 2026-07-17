@@ -8,7 +8,7 @@ wip: true
 ---
 
 # Introduction
-This is a localized adventure, meant for one Player and a DM (Dungeon Master). This style of play is called a Duet. The goal of this adventure is twofold. First, it’s meant to introduce D&D to a person who has no experience with it whatsoever, while still being fun and engaging for experienced players. Secondly, it aims to build a hub where the PC (Player Character) will return to after various adventures, accumulating NPCs along the way, and it can be anywhere in Durn, a high magic realm. For the purpose of simplicity, this module will assume that it takes place in the swamplands of Urk’mor. This module is designed to be used by the DM.
+This is a localized adventure, meant for one Player and a DM (Dungeon Master). This style of play is called a Duet. The goal of this adventure is twofold. First, it’s meant to introduce D&D to a person who has no experience with it whatsoever, while still being fun and engaging for experienced players. Secondly, it aims to build a hub where the PC (Player Character) will return to after various adventures, accumulating NPCs along the way, and it can be anywhere in Durn, a high magic realm. For the purpose of simplicity, this module will assume that it takes place in Gullenshire, one of the port cities of Hoverncast. This module is designed to be used by the DM.
 
 ## Background
 The PC should start at 1st level, and in their background there should be some reason for them to have inherited a manor that has been neglected and abandoned over the years. It was once a beautiful place, but is now a sad reminder of what was. You can consult the following table in order to decide how the PC has inherited the manor.
