@@ -7,7 +7,7 @@
 {% assign wis_mod = monster.wis_score | minus: 10 | divided_by: 2 %}
 {% assign cha_mod = monster.cha_score | minus: 10 | divided_by: 2 %}
 
-<h3>{{ monster.name }}</h3>
+<h2>{{ monster.title }}</h2>
 
 <p><strong>Armor Class</strong> {{ monster.armor_class }}</p>
 <p><strong>Hit Points</strong> {{ monster.hit_points }}</p>
@@ -44,13 +44,13 @@
   <p><strong>Languages</strong> {{ monster.languages }}</p>
   <p><strong>Challenge</strong> {{ monster.challenge_rating }} ({{ monster.xp }} XP)</p>
   <p><strong>Proficiency Bonus</strong> {{ monster.proficiency_bonus }}</p>
-  {% if monster.traits %}<h4>Traits</h4>
+  {% if monster.traits %}<h3>Traits</h3>
   <p>{{ monster.traits | markdownify }}</p>{% endif %}
-  {% if monster.bonus_actions %}<h4>Bonus Actions</h4>
+  {% if monster.bonus_actions %}<h3>Bonus Actions</h3>
   <p>{{ monster.bonus_actions | markdownify }}</p>{% endif %}
-  <h4>Actions</h4>
+  <h3>Actions</h3>
   <p>{{ monster.actions | markdownify }}</p>
-  {% if monster.reactions %}<h4>Reactions</h4>
+  {% if monster.reactions %}<h3>Reactions</h3>
   <p>{{ monster.reactions | markdownify }}</p>{% endif %}
-  {% if monster.legendary_actions %}<h4>Legendary Actions</h4>
+  {% if monster.legendary_actions %}<h3>Legendary Actions</h3>
   <p>{{ monster.legendary_actions | markdownify }}</p>{% endif %}
