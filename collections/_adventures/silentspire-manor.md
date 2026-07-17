@@ -25,7 +25,7 @@ The PC in this adventure has just inherited Silentspire Manor. It is up to them 
 
 > You approach the gate, which is rusty and overtaken with vines. You unlock it with the key you were given, and the mechanism clicks loudly. The corroded gate gives out a creak as you push it open with effort.
 
-As the PC attenpts to open the gate, you can ask for a DC 5 Strength check. If they fail, consult the following table.
+As the PC attempts to open the gate, you can ask for a DC 5 Strength check. If they fail, consult the following table.
 
 | Check | DC | Description |
 | :---: | :---: | :---- |
@@ -50,4 +50,4 @@ Through dialogue with him, he will reveal the following things.
 
 If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. He goes and grabs a torch from a nearby wall and hands it to the PC, lighting it with a snap of his fingers.
 
-> You descend through the stairs down to the basement and reach a barred door. As you open it, a wave of nauseating stench hits your face. It smells like rot, acrid urine, and feces. The torch lights your way and the hall is full of barrels, going farther than you can see. As you continue forward, you see wheels of cheese stacked on top of one another, except for one on the floor which has been ravaged. You hear a screech from the darkness, and a giant rat runs barges into view. Roll initiative!
+> You descend through the stairs down to the basement and reach a barred door. As you open it, a wave of nauseating stench hits your face. It smells like rot, acrid urine, and feces. The torch lights your way and the hall is full of barrels, going farther than you can see. As you continue forward, you see wheels of cheese stacked on top of one another, except for one on the floor which has been ravaged. You hear a screech from the darkness, and a giant rat barges into view. Roll initiative!
