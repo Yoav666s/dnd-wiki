@@ -84,7 +84,9 @@
           {% if feats %}
           <ul>
             {% for feat in feats %}
+              {% if feat.v_2024 == nil or feat.v_2024 == false %}
               <li><a href="{{ feat.url | relative_url }}"{% if feat.url == page.url %} class="active"{% endif %}>{{ feat.title }}</a></li>
+              {% endif %}
             {% endfor %}
           </ul>
           {% endif %}
