@@ -44,13 +44,13 @@
   <p><strong>Languages</strong> {{ monster.languages }}</p>
   <p><strong>Challenge</strong> {{ monster.challenge_rating }} ({{ monster.xp }} XP)</p>
   <p><strong>Proficiency Bonus</strong> {{ monster.proficiency_bonus }}</p>
-  {% if monster.traits %}<h2>Traits</h2>
+  {% if monster.traits %}<h4>Traits</h4>
   <p>{{ monster.traits | markdownify }}</p>{% endif %}
-  {% if page.bonus_actions %}<h2>Bonus Actions</h2>
+  {% if page.bonus_actions %}<h4>Bonus Actions</h4>
   <p>{{ page.bonus_actions | markdownify }}</p>{% endif %}
-  <h2>Actions</h2>
+  <h4>Actions</h4>
   <p>{{ page.actions | markdownify }}</p>
-  {% if page.reactions %}<h2>Reactions</h2>
+  {% if page.reactions %}<h4>Reactions</h4>
   <p>{{ page.reactions | markdownify }}</p>{% endif %}
-  {% if page.legendary_actions %}<h2>Legendary Actions</h2>
+  {% if page.legendary_actions %}<h4>Legendary Actions</h4>
   <p>{{ page.legendary_actions | markdownify }}</p>{% endif %}
