@@ -23,17 +23,19 @@ challenge_rating: 2
 xp: 450
 proficiency_bonus: "+3"
 traits: |
-  **Illusory Casting.** While maintaining an illusion of himself, Tallis can cast spells as though he was in the illusion's space, but he must still rely on his senses. 
+  **Illusory Casting.** While maintaining one or more illusions of himself, Tallis can cast spells as though he was in an illusion's space, but he must still rely on his senses. 
 actions: |
   **Shortsword.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.
 
+  **Fire Bolt.** Ranged Attack Roll: +7, range: 120 ft. Hit: 11 (2d10) Fire damage.
+
   **Spellcasting.** Tallis casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 15, +7 to hit with spell attacks):
 
-  At will: Disguise Self, Fling, Prestidigitation, Message, Mage Hand, Fire Bolt
+  At will: Disguise Self, Mage Hand, Message, Minor Illusion, Prestidigitation
 
   1/day each: Fly, Invisibility, Major Image, Sending, Silent Image
 bonus_actions: |
-  **Illusory Duplicate.** Tallis creates up to four illusory duplicates of himself that appear in his space or in an unoccupied space he can see within 30 feet. The duplicates vanishe if they're more than 30 feet away from Tallis or if he uses this feature again.
+  **Illusory Duplicate.** Tallis creates up to four illusory duplicates of himself that appear in his space or in an unoccupied space he can see within 30 feet. The duplicates vanish if they're more than 30 feet away from Tallis or if he uses this feature again.
   
   Tallis can use his bonus action to control any number of duplicates, causing them to move to points he can see within range. As the images change location, he can alter their appearance so that their movements appear natural. Similarly, he can cause the illusions to make different sounds at different times, even making them carry on conversation, for example.
 
