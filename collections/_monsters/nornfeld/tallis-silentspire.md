@@ -39,7 +39,7 @@ bonus_actions: |
   
   Tallis can use his bonus action to control any number of duplicates, causing them to move to points he can see within range. As the images change location, he can alter their appearance so that their movements appear natural. Similarly, he can cause the illusions to make different sounds at different times, even making them carry on conversation, for example.
 
-  Physical interaction with the images reveals them to be illusions, as things can pass through them.
+  Physical interaction with the images reveals them to be illusions, as things can pass through them. The duplicates' AC is 12. If an attack hits a duplicate, it is destroyed.
   
   **Misty Step (2/Day).** Tallis casts Misty Step, using the same spellcasting ability as Spellcasting.
 reactions: |
