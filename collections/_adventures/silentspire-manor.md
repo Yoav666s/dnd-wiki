@@ -11,14 +11,9 @@ wip: true
 This is a localized adventure, meant for one Player and a DM (Dungeon Master). This style of play is called a Duet. The goal of this adventure is twofold. First, it’s meant to introduce D&D to a person who has no experience with it whatsoever, while still being fun and engaging for experienced players. Secondly, it aims to build a hub where the PC (Player Character) will return to after various adventures, accumulating NPCs along the way, and it can be anywhere in Durn, a high magic realm. For the purpose of simplicity, this module will assume that it takes place in Gullenshire, one of the port cities of Hoverncast. This module is designed to be used by the DM.
 
 ## Background
-The PC should start at 1st level, and in their background there should be some reason for them to have inherited a manor that has been neglected and abandoned over the years. It was once a beautiful place, but is now a sad reminder of what was. You can consult the following table in order to decide how the PC has inherited the manor.
+The PC should start at 1st level, and in their background there should contain a reason for them to have inherited a manor that has been neglected and abandoned over the years. It was once a beautiful place, but is now a sad reminder of what was. Whatever the background of the PC is, it should include the following part.
 
-| 1d4 | Inheritance |
-| :--: | :--- |
-| 1 | Your great-aunt, Helena Silentspire, was the last of the Silentspire line. You barely knew her, but you were the only family she had left. |
-| 2 | You won the deed in a high-stakes (and perhaps slightly shady) game of cards against a desperate noble. |
-| 3 | You saved the life of a wealthy merchant on the road. Unable to pay you in gold, they gave you the deed to a property they've been trying to get rid of for years. |
-| 4 | You honestly have no idea why the local magistrate handed you this deed. It has your name on it, but you suspect it was meant for someone else. Still, free house! |
+> Your great-aunt, Helena Silentspire, was the last of the Silentspire line. You barely knew her, but you were the only family she had left.
 
 ## A New Home
 The PC in this adventure has just inherited Silentspire Manor. It is up to them to bring it back to its former glory, as right now it's in a horribly neglected state. You can read out loud the following description for the Player.
@@ -132,6 +127,8 @@ The name of the young man is Tallis Silentspire. Upon conversing with him, the P
 - He doesn't want the deed for himself, but he'd like to join the PC in rebuilding the manor.
 - He has connections in the city.
 
+
+
 # Appendix A
 
 {% include monster_details.html index="giant-rat" %}
@@ -143,4 +140,3 @@ The name of the young man is Tallis Silentspire. Upon conversing with him, the P
 # Appendix B
 
 [:adventures/silentspire-manor/interior:]
-
