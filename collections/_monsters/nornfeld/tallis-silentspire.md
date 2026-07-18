@@ -29,8 +29,6 @@ actions: |
 
   At will: Disguise Self, Fling, Prestidigitation, Message, Mage Hand, Fire Bolt
 
-  2/day each: hideous laughter, suggestion, bestow curse, dimension door
-
-  1/day each: invisibility, major image, polymorph, dominate person, mislead
+  1/day each: Fly, Invisibility, Sending, Silent Image
 excerpt: "Medium Human (Sorcerer), Neutral"
 ---
