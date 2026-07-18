@@ -137,7 +137,7 @@ If the Player will let him, Tallis comes inside, taking a look at the state of t
 >
 > "Right this way." Tallis leads the men through gate as they carry the goods to the manor kitchen. As they finish, he hands the driver a small coin pouch.
 
-## 
+## The Proof is in the Pudding
 Tallis tells the PC that they should find a cook.
 
 [Where would they find a cook in the city??]
