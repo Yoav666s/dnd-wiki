@@ -120,3 +120,7 @@ Speaking with Myranda, she will say that she doesn't need any wine as this is a 
 
 {% include monster_details.html index="simon-gribblesnout" %}
 
+# Appendix B
+
+[:adventures/silentspire-manor/interior:]
+
