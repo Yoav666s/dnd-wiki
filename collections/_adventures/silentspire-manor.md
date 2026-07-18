@@ -48,7 +48,10 @@ Through dialogue with him, he will reveal the following things.
 - He’d like to stay if the PC will let him.
 - He spent a lot of time in the library and actually kept it quite organized.
 
-If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. He goes and grabs a torch from a nearby wall and hands it to the PC, muttering an incantation and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a potion of healing which he found in the library.
+If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there.
+
+## Pest Control
+Simon goes and grabs a torch from a nearby wall and hands it to the PC, muttering an incantation and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a potion of healing which he found in the library.
 
 > You descend through the stairs down to the basement and reach a barred door. As you open it, a wave of nauseating stench hits your face. It smells like rot, acrid urine, and feces. The torch lights your way and the hall is full of barrels on both sides, going farther than you can see. As you continue forward, you see wheels of cheese stacked on top of one another, except for one on the floor which has been ravaged. You hear a screech from the darkness, and a giant rat barges into view. Roll initiative!
 
