@@ -7,7 +7,7 @@ size: "Medium"
 type: "Human (Sorcerer)"
 alignment: "Neutral"
 armor_class: "15 (Mage Armor)"
-hit_points: "27 (5d6 + 10)"
+hit_points: "31 (6d6 + 10)"
 speed: "walk 30 ft."
 str_score: 10
 dex_score: 15
