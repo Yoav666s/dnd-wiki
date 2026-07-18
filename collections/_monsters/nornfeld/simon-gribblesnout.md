@@ -6,7 +6,7 @@ permalink: /monsters/simon-gribblesnout/
 size: "Small"
 type: "Humanoid (Gnome)"
 alignment: "Neutral"
-armor_class: "10 (Dex)"
+armor_class: "11 (Dex)"
 hit_points: "4 (1d8)"
 speed: "walk 30 ft."
 str_score: 10
