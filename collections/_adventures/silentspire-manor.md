@@ -52,7 +52,9 @@ If the PC is friendly towards him, he will lead them to the basement and ask the
 
 > You descend through the stairs down to the basement and reach a barred door. As you open it, a wave of nauseating stench hits your face. It smells like rot, acrid urine, and feces. The torch lights your way and the hall is full of barrels, going farther than you can see. As you continue forward, you see wheels of cheese stacked on top of one another, except for one on the floor which has been ravaged. You hear a screech from the darkness, and a giant rat barges into view. Roll initiative!
 
-You can find the statblock for the giant rat in Appendix A.
+You can find the statblock for the giant rat in [[Appendix A]]. If the PC goes unconscious during the fight, they wake up in the main hall next to Simon. He will explain that he listened to the fight and realized that the PC lost, so he snuck in while the rat was sleeping and dragged their unconscious body back up. Thankfully, giant rats aren't carnivorous.
+
+Once the player defeats the giant rat, there's more work to do. The rat has been trapped in the basement for gods know how long, and there's urine and feces everywhere. Simon will suggest that the player hires someone to clean it. With a successful dc 5 Intelligence (Investigation) check, the Player will learn that the barrels in the basement hall are wine, which should be properly aged by now.
 
 # Appendix A
 
