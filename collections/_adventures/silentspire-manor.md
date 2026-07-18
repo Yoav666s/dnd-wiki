@@ -127,7 +127,22 @@ The name of the young man is Tallis Silentspire. Upon conversing with him, the P
 - He doesn't want the deed for himself, but he'd like to join the PC in rebuilding the manor.
 - He has connections in the city.
 
+If the Player will let him, Tallis comes inside, taking a look at the state of the manor. He notes that it's seen better days and that they have no food for lunch.
 
+## Payment is Due
+When it gets dark, Simon will note that they should go outside and wait for Felter's men. After 10 minutes or so, a carriage arrives.
+
+> A carriage parks in the front of the gate and in it are three men, two beefy dwarves and Felter himself. He smiles at you. "Hello again, my friend. I wanted to see the Silentspire mansion myself." He looks at Tallis. "Ah, it's good to see you, too."
+>
+> Tallis smiles. "Always a pleasure, Felter."
+
+Tallis will invite the men inside as if he owns the place, and show them to the wine cellar. While the two men carry the first barrel to the carriage, Felter will hand a coin pouch with the agreed amount to the PC.
+
+> "How much is he paying you? Let me see." Tallis politely takes the pouch and pours its contents on the nearby cabinet. He counts the gold. As he finishes, he looks at Felter and smiles mischievously. "Oh, please. You can do better than that."
+>
+> Felter smiles and turns to you. "You keep good company." He reaches for his pocket and produces a single platinum piece, putting it in your hand. "Here, for your new home."
+
+The two dwarves return and go straight to cellar, emerging with another barrel shortly after. 
 
 # Appendix A
 
