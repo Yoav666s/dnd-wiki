@@ -78,9 +78,9 @@ If the player tries to convince Simon to clean the basement, ask for a DC 10 Cha
 If the Player decides to hire someone to clean the basement, they can head to the docks and try to find deckhands that will agree to this. The price they will demand after hearing the details will be 7 GP per person for a day of work. Two people (possibly including Simon and/or the PC) can clean the basement in a day, and one person can clean it in two days. Even with the Prestidigitation cantrip, this will take hours of work.
 
 ## Selling the Wine 
-There are three Taverns in Gullenshire: The Thirsty Deckhand, Grunge's Bucketfuls, and Myranda's Meadery. Only Felter Hullenside, the owner of The Thirsty Deckhand will want to buy a few barrels of wine.
-
 > As you walk with Simon through the streets of Gullenshire, you smell the salty air of the nearby coast and the fish sold on various stalls. The cobble streets are laced with sand between the cracks and the people are dressed for the hot sun. The sky is clear and the streets are bustling with sailors, deckhands, and commoners.
+
+There are three Taverns in Gullenshire: The Thirsty Deckhand, Grunge's Bucketfuls, and Myranda's Meadery. Only Felter Hullenside, the owner of The Thirsty Deckhand will want to buy a few barrels of wine.
 
 ### The Thirsty Deckhand
 > You walk into a luxurious tavern with cobble walls and a clean wooden floor. The patrons are elegant, dressed in fine clothes and speaking politely amongst themselves. The air is filled with the aroma of fine wine and homemade broth, with hints of grilled meat. You are approached by a beautiful half-elf serving girl, with flowing brown hair and rosy cheeks. "Welcome to The Thirsty Deckhand! How can I help you?"
@@ -102,10 +102,17 @@ Regardless of the price the Player sets, Felter will not budge so easily. Ask fo
 
 Felter will say that he will take care of the logistics of transporting the three barrels, and that the PC will get their payment this evening when his men come to the manor to load the barrels onto the carriage.
 
+If the Player tries to sell him more than three barrels, he will say he doesn't have space for that right now, but he will definitely buy more in two or three weeks.
+
 ### Grunge's Bucketfuls
 > You walk into the tavern and are immediately hit with the smell of yeast and hops. A strong aroma of cheap ale fills the air, complimented by beans and slow-coocked beef. You see sailors everywhere, laughing, brawling, and singing sea shanties. As you approach the bar you see a dwarf with greying black hair and a kind, toothless smile. "Welcome! 'Ow can I help ya?"
 
 Upon speaking with the dwarf, the PC will learn that his name is Earnest Grunge and he's the owner of this tavern. If the Player offers to sell him barrels of wine he'll say he doesn't need any and that they should check with Felter at the Thirsty Deckhand if they haven't already.
+
+### Myranda's Meadery
+> You walk into the tavern and the air smells of honey and alcohol. It's relatively quiet, with few patrons sitting sparsely, scattered around the space. You're greeted by an old little halfling with long grey hair and a cheerful, contagious smile. "Welcome to Myranda's Meadery! I'm Myranda. How can I help you, darling?"
+
+Speaking with Myranda, she will say that she doesn't need any wine as this is a meadery. She will appreciate the offer though, and will give the PC and Simon a free sample of mead, if they want a taste. Simon will definitely take her up on that offer.
 
 # Appendix A
 
