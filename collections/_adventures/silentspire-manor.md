@@ -131,9 +131,9 @@ At this point, if the player is friendly towards him, he'll disappear. The real 
 
 If the PC attacks the duplicate before Tallis reveals himself it will disappear, and he will cast Invisibility on himself and walk away.
 
-If the Player will let him, Tallis comes inside, taking a look at the state of the manor. He notes that it's seen better days, the kitchen is completely empty, and they have no food for lunch.
+If the Player will let him, Tallis comes inside, taking a look at the state of the manor. He notes that it's seen better days, the kitchen is completely empty, and they have no food for lunch. He uses Sending to talk to someone, and says "Hey, it's Tallis. I need all the basic goods to fill up the kitchen in Silentspire Manor." He listens to the response and says that they'll be here within the hour. After forty five minutes or so, they hear banging of metal on metal outside.
 
-[This part is incomplete]
+> A carriage with burlap sacs of flour, beans
 
 ## Payment is Due
 When it gets dark, Simon will note that they should go outside and wait for Felter's men. After 10 minutes or so, a carriage arrives.
