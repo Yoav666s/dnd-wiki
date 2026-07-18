@@ -133,6 +133,8 @@ If the PC attacks the duplicate before Tallis reveals himself it will disappear,
 
 If the Player will let him, Tallis comes inside, taking a look at the state of the manor. He notes that it's seen better days, the kitchen is completely empty, and they have no food for lunch.
 
+[This part is incomplete]
+
 ## Payment is Due
 When it gets dark, Simon will note that they should go outside and wait for Felter's men. After 10 minutes or so, a carriage arrives.
 
