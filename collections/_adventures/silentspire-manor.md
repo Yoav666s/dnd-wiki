@@ -59,6 +59,8 @@ You can find the statblock for the giant rat in [[Appendix A]]. If the PC goes u
 
 Once the player defeats the giant rat, there's more work to do. The rat has been trapped in the basement for gods know how long, and there's urine and feces everywhere. Simon will suggest that the player hires someone to clean it. With a successful dc 5 Intelligence (Investigation) check, the Player will learn that the barrels in the basement hall are wine, which should be properly aged by now. On failure, Simon will realize that instead. If the player takes time to count the barrels, they will find that there are three lines of barrels stacked on top of one another on each side, with a length of 20 barrels each, resulting in 120 barrels total.
 
+*As the introduction part is over, this would be a good time to level up the PC to 2nd level.*
+
 # In Wine There is Truth
 Upon discovering the hidden trove of aged wine, Simon will be excited. He will try to convince the PC to sell it to local taverns. But first things first--the basement needs to be cleaned.
 
