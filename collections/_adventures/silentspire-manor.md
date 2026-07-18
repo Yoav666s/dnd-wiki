@@ -75,9 +75,14 @@ If the player tries to convince Simon to clean the basement, ask for a DC 10 Cha
 | The PC offers to hire someone to help | -5 |
 | The PC threatens to kick him out or harm him if he doesn't do it | -3 |
 
-If the Player decides to hire someone to clean the basement, they can head to the docks and try to find deckhands that will agree to this. The price they will demand after hearing the details will be 7 GP per person for a day of work. Two people (possibly including Simon and/or the PC) can clean the basement in a day, and one person can clean it in two days.
+If the Player decides to hire someone to clean the basement, they can head to the docks and try to find deckhands that will agree to this. The price they will demand after hearing the details will be 7 GP per person for a day of work. Two people (possibly including Simon and/or the PC) can clean the basement in a day, and one person can clean it in two days. Even with the Prestidigitation cantrip, this will take hours of work.
 
 ## Selling the Wine 
+There are three Taverns in Gullenshire: The Thirsty Deckhand, Grunge's Bucketfuls, and Myranda's Meadery. Only Frousel Hullenside, the owner of The Thirsty Deckhand will want to buy a few barrels of wine.
+
+### The Thirsty Deckhand
+> You walk into a luxurious tavern with cobble walls and a clean wooden floor. The patrons are elegant, dressed in fine clothes and speaking politely amongst themselves. The air is filled with the aroma of fine wine and homemade broth, with hints of grilled meat. You are approached by a beautiful half-elf serving girl, with flowing brown hair and rosy cheeks. "Welcome to The Thirsty Deckhand! How can I help you?"
+
 One barrel of wine should sell for 15-20 GP. The tavern owner would initially offer to buy three barrels for 10 GP each. Ask the Player to make a DC 10 Wisdom (Insight) check. On success, they realize that a barrel is worth at the very least 15 GP. If the total rolled is 17 or higher, the PC realized they could push it to 20 GP per barrel. If the Player fails the check, Simon will whisper to the PC that they should ask for 13 GP per barrel.
 
 Regardless of the price the Player sets, tavern owner will not budge so easily. Ask for a Charisma (Persuasion) check and consult the following table. The tavern owner will agree to the maximum price or the price the Player set, whichever is lower.
