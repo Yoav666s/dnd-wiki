@@ -127,7 +127,11 @@ The name of the young man is Tallis Silentspire. Upon conversing with him, the P
 - He doesn't want the deed for himself, but he'd like to join the PC in rebuilding the manor.
 - He has connections in the city.
 
-If the Player will let him, Tallis comes inside, taking a look at the state of the manor. He notes that it's seen better days and that they have no food for lunch.
+At this point, if the player is friendly towards him, he'll disappear. The real Tallis will come out of hiding from behind the wall (inside the manor garden) and reveal that the PC was speaking to an illusory duplicate of him. He had to be careful because he didn't know what to expect. He will apologize for deceiving the PC and say they he won't do it again. 
+
+If the PC attacks the duplicate before Tallis reveals himself it will disappear, and he will cast Invisibility on himself and walk away.
+
+If the Player will let him, Tallis comes inside, taking a look at the state of the manor. He notes that it's seen better days, the kitchen is completely empty, and they have no food for lunch.
 
 ## Payment is Due
 When it gets dark, Simon will note that they should go outside and wait for Felter's men. After 10 minutes or so, a carriage arrives.
