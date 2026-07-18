@@ -19,8 +19,8 @@ saving_throws: "CON +5, CHA +7"
 skills: "Deception +7, Persuasion +7"
 senses: "Passive Perception 11"
 languages: "Common, Elvish"
-challenge_rating: 5
-xp: 1800
+challenge_rating: 2
+xp: 450
 proficiency_bonus: "+3"
 actions: |
   **Shortsword.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.
