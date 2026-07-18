@@ -121,7 +121,7 @@ When the PC and Simon eventually return to the manor, at around midday, they wil
 
 The name of the young man is Tallis Silentspire. Upon conversing with him, the Player will learn the following things.
 
-- Tallis is Helena Silentspire's grandson. He was not on good terms with her as she was an awful woman, so she didn't leave him much in her will.
+- Tallis is their cousin. He's Helena Silentspire's grandson. He was not on good terms with her as she was an awful woman, so she didn't leave him much in her will.
 - His parents died before Helena, a few winters ago. They both got very sick and didn't make it through to the spring.
 - He received word that someone got the deed to this manor and is cleaning it up, so he thought he would land a hand.
 - He doesn't want the deed for himself, but he'd like to join the PC in rebuilding the manor.
@@ -138,7 +138,7 @@ If the Player will let him, Tallis comes inside, taking a look at the state of t
 > "Right this way." Tallis leads the men through gate as they carry the goods to the manor kitchen. As they finish, he hands the driver a small coin pouch.
 
 ## The Proof is in the Pudding
-Tallis tells the PC that they should find a cook. Or alternatively, help a cook find *them*. 
+Tallis tells the PC that they should find a cook. Or alternatively, help a cook find *them*. There's a missives board in the city square where they could post that they're looking for a cook to join their family, offering free lodging and a well paid position.
 
 ## Payment is Due
 When it gets dark, Simon will note that they should go outside and wait for Felter's men. After 10 minutes or so, a carriage arrives.
