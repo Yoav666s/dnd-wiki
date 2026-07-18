@@ -22,6 +22,8 @@ languages: "Common, Elvish"
 challenge_rating: 2
 xp: 450
 proficiency_bonus: "+3"
+traits: |
+  **Illusory Casting.** While maintaining an illusion of himself, Tallis can cast spells as though he was in the illusion's space, but he must still rely on his senses. 
 actions: |
   **Shortsword.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.
 
