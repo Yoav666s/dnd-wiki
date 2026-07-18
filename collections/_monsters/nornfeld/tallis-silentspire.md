@@ -29,8 +29,14 @@ actions: |
 
   At will: Disguise Self, Fling, Prestidigitation, Message, Mage Hand, Fire Bolt
 
-  1/day each: Fly, Invisibility, Sending, Silent Image
-bonus_actions: | 
+  1/day each: Fly, Invisibility, Major Image, Sending, Silent Image
+bonus_actions: |
+  **Illusory Duplicate.** Tallis creates up to four illusory duplicates of himself that appear in his space or in an unoccupied space he can see within 30 feet. The duplicates vanishe if they're more than 30 feet away from Tallis or if he uses this feature again.
+  
+  Tallis can use his bonus action to control any number of duplicates, causing them to move to points he can see within range. As the images change location, he can alter their appearance so that their movements appear natural. Similarly, he can cause the illusions to make different sounds at different times, even making them carry on conversation, for example.
+
+  Physical interaction with the images reveals them to be illusions, as things can pass through them.
+  
   **Misty Step (2/Day).** Tallis casts Misty Step, using the same spellcasting ability as Spellcasting.
 reactions: |
   **Shield (2/Day).** Tallis casts Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
