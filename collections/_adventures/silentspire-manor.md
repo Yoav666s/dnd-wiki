@@ -62,6 +62,21 @@ Once the player defeats the giant rat, there's more work to do. The rat has been
 # In Wine There is Truth
 Upon discovering the hidden trove of high quality wine, Simon will be excited. He will try to convince the PC to sell it to local taverns, after they hire someone to clean up the basement. But first things first--the basement needs to be cleaned.
 
+## Hiring a Cleaner
+
+## Selling the Wine 
+One barrel of wine should sell for 15-20 GP. The tavern owner would initially offer to buy three barrels for 10 GP each. Ask the Player to make a DC 10 Wisdom (Insight) check. On success, they realize that a barrel is worth at the very least 15 GP. If the total rolled is 17 or higher, the PC realized they could push it to 20 GP per barrel. If the Player fails the check, Simon will whisper to the PC that they should ask for 13 GP per barrel.
+
+Regardless of the price the Player sets, tavern owner will not budge so easily. Ask for a Charisma (Persuasion) check and consult the following table.
+
+| Total | Maximum Price [GP] |
+| :---: | :---: |
+| 1-5 | 10 |
+| 6-10 | 13 |
+| 11-15 | 15 |
+| 16-20 | 17 |
+| 21+ | 20 |
+
 # Appendix A
 
 {% include monster_details.html index="giant-rat" %}
