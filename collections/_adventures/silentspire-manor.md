@@ -15,7 +15,7 @@ The PC should start at 1st level, and in their background there should be some r
 
 | 1d4 | Inheritance |
 | :--: | :--- |
-| 1 | Your great-aunt was the last of the Silentspire line. You barely knew her, but you were the only family she had left. |
+| 1 | Your great-aunt, Helena Silentspire, was the last of the Silentspire line. You barely knew her, but you were the only family she had left. |
 | 2 | You won the deed in a high-stakes (and perhaps slightly shady) game of cards against a desperate noble. |
 | 3 | You saved the life of a wealthy merchant on the road. Unable to pay you in gold, they gave you the deed to a property they've been trying to get rid of for years. |
 | 4 | You honestly have no idea why the local magistrate handed you this deed. It has your name on it, but you suspect it was meant for someone else. Still, free house! |
@@ -23,7 +23,7 @@ The PC should start at 1st level, and in their background there should be some r
 ## A New Home
 The PC in this adventure has just inherited Silentspire Manor. It is up to them to bring it back to its former glory, as right now it's in a horribly neglected state. You can read out loud the following description for the Player.
 
-> You approach the gate, which is rusty and overtaken with vines. You unlock it with the key you were given, and the mechanism clicks loudly. The corroded gate gives out a creak as you push it open with effort.
+> You approach the gate, which is rusty and overtaken with vines. There is a sigil depicting a peacock in the middle of it, the sigil of the Silentspire family. You unlock the gate with the key you were given, and the mechanism clicks loudly. The corroded gate gives out a creak as you push it open with effort.
 
 As the PC attempts to open the gate, you can ask for a DC 5 Strength check. If they fail, consult the following table.
 
@@ -117,8 +117,18 @@ Upon speaking with the dwarf, the PC will learn that his name is Earnest Grunge 
 
 Speaking with Myranda, she will say that she doesn't need any wine because she runs a meadery. She will appreciate the offer though, and will give the PC and Simon a free sample of mead, if they want a taste. Simon will definitely take her up on that offer.
 
-# An Unexpected Guest
+## An Unexpected Guest
+When the PC and Simon eventually return to the manor, at around midday, they will find someone waiting at the gate.
 
+> You see a handsome young man, a human with short black hair and mischievous green eyes. He's wearing fine clothes, on his doublet a pin depicting a peacock, like the sigil on the gate. As he notices you approach he asks politely, "Uh, excuse me, sir/miss. Are you the owner of this establishment?"
+
+The name of the young man is Tallis Silentspire. Upon conversing with him, the Player will learn the following things.
+
+- Tallis is Helena Silentspire's grandson. He was not on good terms with her as she was an awful woman, so she didn't leave him much in her will.
+- His parents died before Helena, a few winters ago. They both got very sick and didn't make it through to the spring.
+- He received word that someone got the deed to this manor and is cleaning it up, so he thought he would land a hand.
+- He doesn't want the deed for himself, but he'd like to join the PC in rebuilding the manor.
+- He has connections in the city.
 
 # Appendix A
 
