@@ -137,6 +137,11 @@ If the Player will let him, Tallis comes inside, taking a look at the state of t
 >
 > "Right this way." Tallis leads the men through gate as they carry the goods to the manor kitchen. As they finish, he hands the driver a small coin pouch.
 
+## 
+Tallis tells the PC that they should find a cook.
+
+[Where would they find a cook in the city??]
+
 ## Payment is Due
 When it gets dark, Simon will note that they should go outside and wait for Felter's men. After 10 minutes or so, a carriage arrives.
 
