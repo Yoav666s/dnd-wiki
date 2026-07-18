@@ -22,6 +22,10 @@ languages: "Common, Gnomish"
 challenge_rating: 0
 xp: 10
 proficiency_bonus: "+2"
+traits: |
+  **Innate Spellcasting.** Simon's spellcasting ability is Intelligence (spell save DC 13). He can innately cast the following spells, requiring no material components:
+  
+  At will: Prestidigitation
 actions: |
   **Unarmed Strike.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage.
 excerpt: "Small Humanoid, Neutral"
