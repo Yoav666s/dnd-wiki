@@ -48,7 +48,7 @@ Through dialogue with him, he will reveal the following things.
 - He’d like to stay if the PC will let him.
 - He spent a lot of time in the library and actually kept it quite organized.
 
-If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. But first, the Player will probably want a tour of the manor, the layout of which is detailed in Appendix B.
+If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. But first, the Player will probably want a tour of the manor, the layout of which is detailed in Appendix B. The second floor is an array of small bedrooms.
 
 ## Pest Control
 Simon goes and grabs a torch from a nearby wall and hands it to the PC, muttering an incantation and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a potion of healing which he found in the library.
@@ -60,7 +60,7 @@ You can find the statblock for the giant rat in [[Appendix A]]. If the PC goes u
 Once the player defeats the giant rat, there's more work to do. The rat has been trapped in the basement for gods know how long, and there's urine and feces everywhere. Simon will suggest that the player hires someone to clean it. With a successful dc 5 Intelligence (Investigation) check, the Player will learn that the barrels in the basement hall are wine, which should be properly aged by now. On failure, Simon will realize that instead. If the player takes time to count the barrels, they will find that there are three lines of barrels stacked on top of one another on each side, with a length of 20 barrels each, resulting in 120 barrels total.
 
 # In Wine There is Truth
-Upon discovering the hidden trove of high quality wine, Simon will be excited. He will try to convince the PC to sell it to local taverns, after they hire someone to clean up the basement. But first things first--the basement needs to be cleaned.
+Upon discovering the hidden trove of aged wine, Simon will be excited. He will try to convince the PC to sell it to local taverns. But first things first--the basement needs to be cleaned.
 
 ## Hiring a Cleaner
 Before heading out to the city, Simon will use the Prestidigitation cantrip to clean himself. If the Player doesn't realize that Simon can use this cantrip to clean the basement, have them make a DC 7 Intelligence (Arcana) check to realize it.
@@ -76,6 +76,9 @@ If the player tries to convince Simon to clean the basement, ask for a DC 10 Cha
 | The PC threatens to kick him out or harm him if he doesn't do it | -3 |
 
 If the Player decides to hire someone to clean the basement, they can head to the docks and try to find deckhands that will agree to this. The price they will demand after hearing the details will be 7 GP per person for a day of work. Two people (possibly including Simon and/or the PC) can clean the basement in a day, and one person can clean it in two days. Even with the Prestidigitation cantrip, this will take hours of work.
+
+## All in a Day's Work
+After hours of labor, the day is nearly over. The main bedroom was kept fairly clean except for some dust on the shelves. Simon will agree to sleep in the smaller bedroom of the ground floor, even though he is used to sleeping the big one. If the cleaning process takes longer than one day, there's no real reason to roleplay it unless the Player wants to. Nothing exciting will happen. Feel free to describe it briefly and move on to the next part.
 
 ## Selling the Wine 
 > As you walk with Simon through the streets of Gullenshire, you smell the salty air of the nearby coast and the fish sold on various stalls. The cobble streets are laced with sand between the cracks and the people are dressed for the hot sun. The sky is clear and the streets are bustling with sailors, deckhands, and commoners.
@@ -112,7 +115,10 @@ Upon speaking with the dwarf, the PC will learn that his name is Earnest Grunge 
 ### Myranda's Meadery
 > You walk into the tavern and the air smells of honey and alcohol. It's relatively quiet, with few patrons sitting sparsely, scattered around the space. You're greeted by an old little halfling with long grey hair and a cheerful, contagious smile. "Welcome to Myranda's Meadery! I'm Myranda. How can I help you, darling?"
 
-Speaking with Myranda, she will say that she doesn't need any wine as this is a meadery. She will appreciate the offer though, and will give the PC and Simon a free sample of mead, if they want a taste. Simon will definitely take her up on that offer.
+Speaking with Myranda, she will say that she doesn't need any wine because she runs a meadery. She will appreciate the offer though, and will give the PC and Simon a free sample of mead, if they want a taste. Simon will definitely take her up on that offer.
+
+# An Unexpected Guest
+
 
 # Appendix A
 
