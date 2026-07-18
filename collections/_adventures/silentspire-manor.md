@@ -144,15 +144,11 @@ When it gets dark, Simon will note that they should go outside and wait for Felt
 
 > A carriage parks in the front of the gate and in it are three men, two beefy dwarves and Felter himself. He smiles at you. "Hello again, my friend. I wanted to see the Silentspire mansion myself." He looks at Tallis. "Ah, Tallis. It's good to see you here."
 >
-> Tallis smiles. "Always a pleasure, Felter."
-
-Tallis will invite the men inside as if he owns the place, and show them to the wine cellar. While the two men carry the first barrel to the carriage, Felter will hand the PC a coin pouch with the agreed amount.
-
-> "How much is he paying you? Let me see." Tallis politely takes the pouch and pours its contents on the nearby cabinet. He counts the gold. As he finishes, he looks at Felter and smiles mischievously. "Oh, please. You can do better than that."
+> Tallis smiles. "Always a pleasure, Felter." He invites the men inside as if he owns the place, showing them to the wine cellar.
 >
-> Felter smiles and turns to you. "You keep good company." He reaches for his pocket and produces a single platinum piece, putting it in your hand. "Here, for your new home."
-
-The two dwarves return and go straight to cellar, emerging with another barrel shortly after. 
+> While the two dwarves carry the first barrel to the carriage, Felter hands you a coin pouch with the agreed amount. "You keep good company."
+>
+> The two dwarves return and go straight to cellar, emerging with another barrel shortly after. 
 
 # Appendix A
 
