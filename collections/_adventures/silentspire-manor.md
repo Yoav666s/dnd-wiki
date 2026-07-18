@@ -138,6 +138,8 @@ The name of the young man is Tallis Silentspire. Upon conversing with him, the P
 
 {% include monster_details.html index="simon-gribblesnout" %}
 
+{% include monster_details.html index="tallis-silentspire" %}
+
 # Appendix B
 
 [:adventures/silentspire-manor/interior:]
