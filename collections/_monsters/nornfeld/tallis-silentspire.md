@@ -30,5 +30,9 @@ actions: |
   At will: Disguise Self, Fling, Prestidigitation, Message, Mage Hand, Fire Bolt
 
   1/day each: Fly, Invisibility, Sending, Silent Image
+bonus_actions: | 
+  **Misty Step (2/Day).** Tallis casts Misty Step, using the same spellcasting ability as Spellcasting.
+reactions: |
+  **Shield (2/Day).** Tallis casts Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
 excerpt: "Medium Human (Sorcerer), Neutral"
 ---
