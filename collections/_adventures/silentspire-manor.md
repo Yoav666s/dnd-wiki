@@ -63,6 +63,17 @@ Once the player defeats the giant rat, there's more work to do. The rat has been
 Upon discovering the hidden trove of high quality wine, Simon will be excited. He will try to convince the PC to sell it to local taverns, after they hire someone to clean up the basement. But first things first--the basement needs to be cleaned.
 
 ## Hiring a Cleaner
+Before heading out to the city, Simon will use the Prestidigitation cantrip to clean himself. If the Player doesn't realize that Simon can use this cantrip to clean the basement, have them make a DC 7 Intelligence (Arcana) check to realize it.
+
+If the player tries to convince Simon to clean the basement, ask for a DC 10 Charisma (Persuasion) check, and consult the following table to modify the DC. If the DC would be 0 or less, the PC automatically succeeds without needing to roll for it.
+
+| Action | DC Modifier |
+| :---- | :---: |
+| The PC offers to help (if they can also cast the Prestidigitation cantrip) | -5 |
+| The PC offers to pay Simon (he will demand at least 2 GP) | -5 |
+| The PC offers to buy him a meal or a drink | -2 |
+| The PC offers to hire someone to help | -5 |
+| The PC threatens to kick him out if he doesn't do it | -3 |
 
 ## Selling the Wine 
 One barrel of wine should sell for 15-20 GP. The tavern owner would initially offer to buy three barrels for 10 GP each. Ask the Player to make a DC 10 Wisdom (Insight) check. On success, they realize that a barrel is worth at the very least 15 GP. If the total rolled is 17 or higher, the PC realized they could push it to 20 GP per barrel. If the Player fails the check, Simon will whisper to the PC that they should ask for 13 GP per barrel.
