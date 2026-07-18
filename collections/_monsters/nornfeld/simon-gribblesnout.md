@@ -6,58 +6,23 @@ permalink: /monsters/simon-gribblesnout/
 size: "Small"
 type: "Humanoid (Gnome)"
 alignment: "Neutral"
-armor_class: "17 (No Armor)"
-hit_points: "97 (15d8 + 30)"
-speed: "walk 50 ft."
-str_score: 13
-dex_score: 18
-con_score: 14
+armor_class: "10 (Dex)"
+hit_points: "4 (1d8)"
+speed: "walk 30 ft."
+str_score: 10
+dex_score: 10
+con_score: 10
 int_score: 10
-wis_score: 16
+wis_score: 10
 cha_score: 10
-saving_throws: "STR +6, DEX +9"
-skills: "Acrobatics +9, Insight +8, Stealth +9"
-senses: "Passive Perception 13"
-languages: "Common, Elvish"
-challenge_rating: 9
-xp: 5000
-proficiency_bonus: "+5"
-traits: |
-  **Fey Ancestry.** Moreau has advantage on saving throws against being charmed, and magic can’t put him to sleep.
-
-  **Innate Spellcasting.** Moreau’s spellcasting ability is Charisma (spell save DC 11). He can innately cast the following spells, requiring no material components:
-
-  At will: dancing lights
-
-  1/day each: darkness, silence
-
-  **Sunlight Sensitivity.** While in sunlight, Moreau has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
-
-  **Unarmored Defense.** While Moreau is wearing no armor and wielding no shield, his AC includes its Wisdom modifier.
-
-  **Evasion.** When Moreau is subject to an effect that requires him to make a Dexterity saving throw to take half damage, he instead takes no damage on success and half damage on failure.
-
-  **Stunning Strike (Recharge 4-6).** When Moreau hits a creature with an unarmed strike, the target must succeed on a DC 16 Constitution saving throw or be stunned until the end of his next turn.
-bonus_actions: |
-  **Step of the Wind (Recharge 4-6).** Moreau takes the Dash or Disengage action.
-
-  **Patient Defense (Recharge 4-6).** Moreau takes the Dodge action.
-
-  **Shadow Stride.** As a bonus action, while in dim light or darkness, Moreau can teleport up to 30 feet to an unoccupied space he can see that is also in dim light or darkness.
-
-  **Shroud of Shadows.** While in dim light or darkness, Moreau becomes invisible. He remains invisible until he makes an attack, casts a spell, or is in an area of bright light.
+saving_throws: ""
+skills: ""
+senses: "Passive Perception 10"
+languages: "Common, Gnomish"
+challenge_rating: 0
+xp: 10
+proficiency_bonus: "+2"
 actions: |
-  **Multiattack.** Moreau can make either four unarmed strikes or four kunai attacks.
-
-  **Kunai.** Ranged Weapon Attack: +9 to hit, range 20/60 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
-
-  **Unarmed Strike.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.
-reactions: |
-  **Deflect Missile.** In response to being hit by a ranged weapon attack, Moreau can deflect the missile. The damage he takes from the attack is reduced by 10 (1d10 + 5). If the damage is reduced to 0, Moreau catches the missile if it’s small enough to hold in one hand and he has a hand free.
-excerpt: "Medium Humanoid (Elf), Neutral"
-header:
-  overlay_image: /assets/images/monsters/louis-jean-moreau/header.png
-  teaser: /assets/images/monsters/louis-jean-moreau/header.jpg
+  **Fist.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+excerpt: "Small Humanoid, Neutral"
 ---
-
-[:monsters/louis-jean-moreau:]
