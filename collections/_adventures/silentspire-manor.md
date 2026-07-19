@@ -161,6 +161,8 @@ After the Player answers, consult the following table for Tallis's response.
 | 13-17 | "Not bad." |
 | 20 | *Whistles.* "Nice." |
 
+If the price is 10 or less, Tallis will try to convince Felter to increase it by 5 GP. He'll need to succeed a DC 12 Charisma (Persuasion) check.
+
 # Appendix A
 
 {% include monster_details.html index="giant-rat" %}
