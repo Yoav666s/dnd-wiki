@@ -142,13 +142,13 @@ Tallis tells the PC that they should find a cook. Or alternatively, help a cook 
 ## Payment is Due
 When it gets dark, Simon will note that they should go outside and wait for Felter's men. After 10 minutes or so, a carriage arrives.
 
-> A carriage parks in the front of the gate and in it are three men, two beefy dwarves and Felter himself. He smiles at you. "Hello again, my friend. I wanted to see the Silentspire mansion myself." He looks at Tallis. "Ah, Tallis. It's good to see you here."
+> A carriage parks in the front of the gate and in it are three men, two beefy dwarves and Felter himself. He looks at you. "Hello again. I wanted to see the Silentspire mansion myself." He looks at Tallis. "Ah, Tallis. I had a feeling I'd see you here."
 >
 > Tallis smiles. "Always a pleasure, Felter." He invites the men inside as if he owns the place, showing them to the wine cellar.
 >
 > While the two dwarves carry the first barrel to the carriage, Felter hands you a coin pouch with the agreed amount. "You keep good company."
 >
-> The two dwarves return and go straight to cellar, emerging with another barrel shortly after. 
+> The two dwarves return and go straight to cellar, emerging with another barrel shortly after. Tallis leans against the cabinet, 
 
 # Appendix A
 
