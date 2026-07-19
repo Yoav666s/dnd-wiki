@@ -163,7 +163,7 @@ After the Player answers, consult the following table for Tallis's response.
 
 If the price is 10 or less, Tallis will try to convince Drestor to increase it by 5 GP, whispering something in his ear. He'll need to succeed a DC 12 Charisma (Persuasion) check for Drestor to agree.
 
-At this point, the dwarves will return for the third barrel and Drestor will follow them outside, wishing everyone well.
+At this point, the dwarves will return for the third barrel and Drestor will follow them outside, wishing everyone well. After he leaves, Tallis will say he has to warn the PC about Drestor. He will explain that 
 
 # Appendix A
 
