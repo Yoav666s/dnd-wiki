@@ -52,7 +52,7 @@ Simon goes and grabs a torch from a nearby wall and hands it to the PC, mutterin
 
 You can find the statblock for the giant rat in [[Appendix A]]. If the PC goes unconscious during the fight, they wake up in the main hall next to Simon. He will explain that he listened to the fight and realized that the PC lost, so he snuck in while the rat was sleeping and dragged their unconscious body back up. Thankfully, giant rats aren't carnivorous.
 
-Once the player defeats the giant rat, there's more work to do. The rat has been trapped in the basement for gods know how long, and there's urine and feces everywhere. Simon will suggest that the player hires someone to clean it. With a successful dc 5 Intelligence (Investigation) check, the Player will learn that the barrels in the basement hall are wine, which should be properly aged by now. On failure, Simon will realize that instead. If the player takes time to count the barrels, they will find that there are three lines of barrels stacked on top of one another on each side, with a length of 20 barrels each, resulting in 120 barrels total.
+Once the player defeats the giant rat, there's more work to do. The rat has been trapped in the basement for gods know how long, and there's urine and feces everywhere. Simon will suggest that the player hires someone to clean it. With a successful DC 5 Intelligence (Investigation) check, the Player will learn that the barrels in the basement hall are wine, which should be properly aged by now. On failure, Simon will realize that instead. If the player takes time to count the barrels, they will find that there are three lines of barrels stacked on top of one another on each side, with a length of 20 barrels each, resulting in 120 barrels total.
 
 *As the introduction part is over, this would be a good time to level up the PC to 2nd level.*
 
@@ -107,7 +107,7 @@ Drestor will say that he will take care of the logistics of transporting the thr
 If the Player tries to sell him more than three barrels, he will say he doesn't have space for that right now, but he will definitely buy more in two or three weeks.
 
 ### Grunge's Bucketfuls
-> You walk into the tavern and are immediately hit with the smell of yeast and hops. A strong aroma of cheap ale fills the air, complimented by beans and slow-coocked beef. You see sailors everywhere, laughing, brawling, and singing sea shanties. As you approach the bar you see a dwarf with greying black hair and a kind, toothless smile. "Welcome! 'Ow can I help ya?"
+> You walk into the tavern and are immediately hit with the smell of yeast and hops. A strong aroma of cheap ale fills the air, complimented by beans and slow-cooked beef. You see sailors everywhere, laughing, brawling, and singing sea shanties. As you approach the bar you see a dwarf with greying black hair and a kind, toothless smile. "Welcome! 'Ow can I help ya?"
 
 Upon speaking with the dwarf, the PC will learn that his name is Earnest Grunge and he's the owner of this tavern. If the Player offers to sell him barrels of wine he'll say he doesn't need any and that they should check with Drestor at the Thirsty Deckhand if they haven't already.
 
