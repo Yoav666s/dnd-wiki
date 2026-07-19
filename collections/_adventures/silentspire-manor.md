@@ -91,7 +91,7 @@ Felter would initially offer to buy three barrels for 10 GP each. Ask the Player
 
 Regardless of the price the Player sets, Felter will not budge so easily. Ask for a Charisma (Persuasion) check and consult the following table. Felter will agree to the maximum price or the price the Player set, whichever is lower.
 
-| Total | Maximum Price per Barrel [GP] |
+| Total | Maximum Price per Barrel (GP) |
 | :---: | :---: |
 | 0 or less | 7 |
 | 1-5 | 10 |
@@ -148,7 +148,17 @@ When it gets dark, Simon will note that they should go outside and wait for Felt
 >
 > While the two dwarves carry the first barrel to the carriage, Felter hands you a coin pouch with the agreed amount. "You keep good company."
 >
-> The two dwarves return and go straight to cellar, emerging with another barrel shortly after. Tallis leans against the cabinet, 
+> The two dwarves return and go straight to cellar, emerging with another barrel shortly after. Tallis leans against the cabinet and looks you. "How much is he paying you?"
+
+After the Player answers, consult the following table for Tallis's response.
+
+| Price per Barrel (GP) | Tallis's Response |
+| :---: | :---- |
+| 7 | "Are you serious? He's robbing you blind!" |
+| 10 | "That's what I thought. " |
+| 13 | "" |
+| 15-17 ||
+| 20 ||
 
 # Appendix A
 
