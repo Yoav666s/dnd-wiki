@@ -159,7 +159,7 @@ After the Player answers, consult the following table for Tallis's response.
 | 5-7 | "Are you serious? He's robbing you blind!" |
 | 10 | "Typical." |
 | 13-17 | "Not bad." |
-| 20 | "" |
+| 20 | *Whistles.* "Nice." |
 
 # Appendix A
 
