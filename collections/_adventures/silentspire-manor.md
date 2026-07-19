@@ -77,19 +77,19 @@ If the Player decides to hire someone to clean the basement, they can head to th
 ## All in a Day's Work
 After hours of labor, the day is nearly over. The main bedroom was kept fairly clean except for some dust on the shelves. Simon will agree to sleep in the smaller bedroom of the ground floor, even though he is used to sleeping the big one. If the cleaning process takes longer than one day, there's no real reason to roleplay it unless the Player wants to. Nothing exciting will happen. Feel free to describe it briefly and move on to the next part.
 
-## Selling the Wine 
+## Selling the Wine
 > As you walk with Simon through the streets of Gullenshire, you smell the salty air of the nearby coast and the fish sold on various stalls. The cobble streets are laced with sand between the cracks and the people are dressed for the hot sun. The sky is clear and the streets are bustling with sailors, deckhands, and commoners.
 
-There are three Taverns in Gullenshire: The Thirsty Deckhand, Grunge's Bucketfuls, and Myranda's Meadery. Only Felter Hullenside, the owner of The Thirsty Deckhand will want to buy a few barrels of wine.
+There are three Taverns in Gullenshire: The Thirsty Deckhand, Grunge's Bucketfuls, and Myranda's Meadery. Only Drestor Hullenside, the owner of The Thirsty Deckhand will want to buy a few barrels of wine.
 
 ### The Thirsty Deckhand
 > You walk into a luxurious tavern with cobble walls and a clean wooden floor. The patrons are elegant, dressed in fine clothes and speaking politely amongst themselves. The air is filled with the aroma of fine wine and homemade broth, with hints of grilled meat. You are approached by a beautiful half-elf serving girl, with flowing brown hair and rosy cheeks. "Welcome to The Thirsty Deckhand! How can I help you?"
 
-Upon asking to see the manager with an offer to sell wine, the serving girl, Alanda, will lead the PC and Simon upstairs to a small room down the hall. There they will find Felter Hullenside, a fine-looking drow with short white hair and red eyes.
+Upon asking to see the manager with an offer to sell wine, the serving girl, Alanda, will lead the PC and Simon upstairs to a small room down the hall. There they will find Drestor Hullenside, a fine-looking drow with short white hair and red eyes.
 
-Felter would initially offer to buy three barrels for 10 GP each. Ask the Player to make a DC 10 Wisdom (Insight) check. On success, they realize that a barrel is worth at the very least 15 GP. If the total rolled is 17 or higher, the PC realized they could push it to 20 GP per barrel. If the Player fails the check, Simon will whisper to the PC that they should ask for 13 GP per barrel.
+Drestor would initially offer to buy three barrels for 10 GP each. Ask the Player to make a DC 10 Wisdom (Insight) check. On success, they realize that a barrel is worth at the very least 15 GP. If the total rolled is 17 or higher, the PC realized they could push it to 20 GP per barrel. If the Player fails the check, Simon will whisper to the PC that they should ask for 13 GP per barrel.
 
-Regardless of the price the Player sets, Felter will not budge so easily. Ask for a Charisma (Persuasion) check and consult the following table. Felter will agree to the maximum price or the price the Player set, whichever is lower.
+Regardless of the price the Player sets, Drestor will not budge so easily. Ask for a Charisma (Persuasion) check and consult the following table. Drestor will agree to the maximum price or the price the Player set, whichever is lower.
 
 | Total | Maximum Price per Barrel (GP) |
 | :---: | :---: |
@@ -100,16 +100,16 @@ Regardless of the price the Player sets, Felter will not budge so easily. Ask fo
 | 16-20 | 17 |
 | 21 or more | 20 |
 
-If the Player doesn't accept the price and threatens to walk away from the deal, they will need to succeed a DC 17 Charisma (Intimidation) check for Felter to bump up the price one tier (unless it's 20 GP per barrel). If the player actually walks away hoping to sell the wine to someone else and comes back when no one is willing to buy, Felter will gladly agree to the same price he set last time unless the player was rude. If the player was rude to him, he will drop the price one tier (if the price was 7 GP per barrel, he will drop it to 5).
+If the Player doesn't accept the price and threatens to walk away from the deal, they will need to succeed a DC 17 Charisma (Intimidation) check for Drestor to bump up the price one tier (unless it's 20 GP per barrel). If the player actually walks away hoping to sell the wine to someone else and comes back when no one is willing to buy, Drestor will gladly agree to the same price he set last time unless the player was rude. If the player was rude to him, he will drop the price one tier (if the price was 7 GP per barrel, he will drop it to 5).
 
-Felter will say that he will take care of the logistics of transporting the three barrels, and that the PC will get their payment this evening when his men come to the manor to load the barrels onto the carriage.
+Drestor will say that he will take care of the logistics of transporting the three barrels, and that the PC will get their payment this evening when his men come to the manor to load the barrels onto the carriage.
 
 If the Player tries to sell him more than three barrels, he will say he doesn't have space for that right now, but he will definitely buy more in two or three weeks.
 
 ### Grunge's Bucketfuls
 > You walk into the tavern and are immediately hit with the smell of yeast and hops. A strong aroma of cheap ale fills the air, complimented by beans and slow-coocked beef. You see sailors everywhere, laughing, brawling, and singing sea shanties. As you approach the bar you see a dwarf with greying black hair and a kind, toothless smile. "Welcome! 'Ow can I help ya?"
 
-Upon speaking with the dwarf, the PC will learn that his name is Earnest Grunge and he's the owner of this tavern. If the Player offers to sell him barrels of wine he'll say he doesn't need any and that they should check with Felter at the Thirsty Deckhand if they haven't already.
+Upon speaking with the dwarf, the PC will learn that his name is Earnest Grunge and he's the owner of this tavern. If the Player offers to sell him barrels of wine he'll say he doesn't need any and that they should check with Drestor at the Thirsty Deckhand if they haven't already.
 
 ### Myranda's Meadery
 > You walk into the tavern and the air smells of honey and alcohol. It's relatively quiet, with few patrons sitting sparsely, scattered around the space. You're greeted by an old little halfling with long grey hair and a cheerful, contagious smile. "Welcome to Myranda's Meadery! I'm Myranda. How can I help you, darling?"
@@ -129,7 +129,7 @@ The name of the young man is Tallis Silentspire. Upon conversing with him, the P
 - He doesn't want the deed for himself, but he'd like to join the PC in rebuilding the manor.
 - He has connections in the city.
 
-At this point, if the player is friendly towards him, he'll disappear. The real Tallis will come out of hiding from behind the wall (inside the manor garden) and reveal that the PC was speaking to an illusory duplicate of him. He had to be careful because he didn't know what to expect. He will apologize for deceiving the PC and say they he won't do it again. 
+At this point, if the player is friendly towards him, he'll disappear. The real Tallis will come out of hiding from behind the wall (inside the manor garden) and reveal that the PC was speaking to an illusory duplicate of him. He had to be careful because he didn't know what to expect. He will apologize for deceiving the PC and say they he won't do it again.
 
 If the PC attacks the duplicate before Tallis reveals himself it will disappear, and he will cast Invisibility on himself and walk away.
 
@@ -142,13 +142,13 @@ If the Player will let him, Tallis comes inside, taking a look at the state of t
 Tallis tells the PC that they should find a cook. Or alternatively, help a cook find *them*. There's a missives board in the city square where they could post that they're looking for a cook to join their family, offering free lodging and a well paid position. While Simon goes to post the paper on the missives board, Tallis offers that they try to make some jacket potatoes with olive oil and cheese.
 
 ## A Deal is a Deal
-When it gets dark, Simon will note that they should go outside and wait for Felter's men of they made a deal with him. After 10 minutes or so, a carriage arrives.
+When it gets dark, Simon will note that they should go outside and wait for Drestor's men of they made a deal with him. After 10 minutes or so, a carriage arrives.
 
-> A carriage parks in the front of the gate and in it are three men, two beefy dwarves and Felter himself. He looks at you. "Hello again. I wanted to see the Silentspire mansion myself." He looks at Tallis. "Ah, Tallis. I had a feeling I'd see you here."
+> A carriage parks in the front of the gate and in it are three men, two beefy dwarves and Drestor himself. He looks at you. "Hello again. I wanted to see the Silentspire mansion myself." He looks at Tallis. "Ah, Tallis. I had a feeling I'd see you here."
 >
-> Tallis smiles. "Always a pleasure, Felter." He invites the men inside as if he owns the place, showing them to the wine cellar.
+> Tallis smiles. "Always a pleasure, Drestor." He invites the men inside as if he owns the place, showing them to the wine cellar.
 >
-> While the two dwarves carry the first barrel to the carriage, Felter hands you a coin pouch with the agreed amount. "You keep good company."
+> While the two dwarves carry the first barrel to the carriage, Drestor hands you a coin pouch with the agreed amount. "You keep good company."
 >
 > The two dwarves return and go straight to cellar, emerging with another barrel shortly after. Tallis leans against the cabinet and looks you. "How much is he paying you?"
 
@@ -161,9 +161,9 @@ After the Player answers, consult the following table for Tallis's response.
 | 13-17 | "Not bad." |
 | 20 | *Whistles.* "Nice." |
 
-If the price is 10 or less, Tallis will try to convince Felter to increase it by 5 GP, whispering something in his ear. He'll need to succeed a DC 12 Charisma (Persuasion) check for Felter to agree. 
+If the price is 10 or less, Tallis will try to convince Drestor to increase it by 5 GP, whispering something in his ear. He'll need to succeed a DC 12 Charisma (Persuasion) check for Drestor to agree.
 
-At this point, the dwarves will return for the third barrel and Felter will follow them outside, wishing everyone well.
+At this point, the dwarves will return for the third barrel and Drestor will follow them outside, wishing everyone well.
 
 # Appendix A
 
