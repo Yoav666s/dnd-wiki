@@ -100,6 +100,8 @@ Regardless of the price the Player sets, Felter will not budge so easily. Ask fo
 | 16-20 | 17 |
 | 21 or more | 20 |
 
+If the Player doesn't accept the price and threatens to walk away from the deal, they will need to succeed a DC 17 Charisma (Intimidation) check for Felter to bump up the price one tier (unless it's 20 GP per barrel). If the player actually walks away hoping to sell the wine to someone else and comes back when no one is willing to buy, Felter will gladly agree to the same price he set last time unless the player was rude. If the player was rude to him, he will drop the price one tier (if the price was 7 GP per barrel, he will drop it to 5).
+
 Felter will say that he will take care of the logistics of transporting the three barrels, and that the PC will get their payment this evening when his men come to the manor to load the barrels onto the carriage.
 
 If the Player tries to sell him more than three barrels, he will say he doesn't have space for that right now, but he will definitely buy more in two or three weeks.
@@ -139,8 +141,8 @@ If the Player will let him, Tallis comes inside, taking a look at the state of t
 
 Tallis tells the PC that they should find a cook. Or alternatively, help a cook find *them*. There's a missives board in the city square where they could post that they're looking for a cook to join their family, offering free lodging and a well paid position. While Simon goes to post the paper on the missives board, Tallis offers that they try to make some jacket potatoes with olive oil and cheese.
 
-## Payment is Due
-When it gets dark, Simon will note that they should go outside and wait for Felter's men. After 10 minutes or so, a carriage arrives.
+## A Deal is a Deal
+When it gets dark, Simon will note that they should go outside and wait for Felter's men of they made a deal with him. After 10 minutes or so, a carriage arrives.
 
 > A carriage parks in the front of the gate and in it are three men, two beefy dwarves and Felter himself. He looks at you. "Hello again. I wanted to see the Silentspire mansion myself." He looks at Tallis. "Ah, Tallis. I had a feeling I'd see you here."
 >
@@ -154,11 +156,10 @@ After the Player answers, consult the following table for Tallis's response.
 
 | Price per Barrel (GP) | Tallis's Response |
 | :---: | :---- |
-| 7 | "Are you serious? He's robbing you blind!" |
-| 10 | "That's what I thought. " |
-| 13 | "" |
-| 15-17 ||
-| 20 ||
+| 5-7 | "Are you serious? He's robbing you blind!" |
+| 10 | "Typical." |
+| 13-17 | "Not bad." |
+| 20 | "" |
 
 # Appendix A
 
