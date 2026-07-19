@@ -129,7 +129,7 @@ The name of the young man is Tallis Silentspire. Upon conversing with him, the P
 - He doesn't want the deed for himself, but he'd like to join the PC in rebuilding the manor.
 - He has connections in the city.
 
-At this point, if the player is friendly towards him, he'll disappear. The real Tallis will come out of hiding from behind the wall (inside the manor garden) and reveal that the PC was speaking to an illusory duplicate of him. He had to be careful because he didn't know what to expect. He will apologize for deceiving the PC and say that he won't do it again.
+At this point, if the player is friendly towards him, he'll disappear. The real Tallis will come out of hiding from behind the wall (inside the manor garden) and reveal that the PC was speaking to an illusory duplicate of him. He had to be careful because Helena hated him and he didn't know what to expect. He will apologize for deceiving the PC and say that he won't do it again.
 
 If the PC attacks the duplicate before Tallis reveals himself it will disappear, and he will cast Invisibility on himself and walk away.
 
@@ -163,7 +163,12 @@ After the Player answers, consult the following table for Tallis's response.
 
 If the price is 10 or less, Tallis will try to convince Drestor to increase it by 5 GP, whispering something in his ear. He'll need to succeed a DC 12 Charisma (Persuasion) check for Drestor to agree.
 
-At this point, the dwarves will return for the third barrel and Drestor will follow them outside, wishing everyone well. After he leaves, Tallis will say he has to warn the PC about Drestor. He will explain that 
+At this point, the dwarves will return for the third barrel and Drestor will follow them outside, wishing everyone well. After he leaves, Tallis will say he has to warn the PC about working with Drestor. He will explain that while the deal itself was fine and it makes sense to sell the wine to the Thirsty Deckhand, Drestor is involved with dangerous people and now he got his eyes on the Silentspire family.
+
+# The Proof is in the Pudding
+An older half-orc man shows up in front of the gate.
+
+- He used to be a cook on a trade ship, but at his age he prefers dry land.
 
 # Appendix A
 
