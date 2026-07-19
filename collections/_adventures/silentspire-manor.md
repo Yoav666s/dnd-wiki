@@ -125,11 +125,11 @@ The name of the young man is Tallis Silentspire. Upon conversing with him, the P
 
 - Tallis is their cousin. He's Helena Silentspire's grandson. He was not on good terms with her as she was an awful woman, so she didn't leave him much in her will.
 - His parents died before Helena, a few winters ago. They both got very sick and didn't make it through to the spring.
-- He received word that someone got the deed to this manor and is cleaning it up, so he thought he would land a hand.
+- He received word that someone got the deed to this manor and is cleaning it up, so he thought he would lend a hand.
 - He doesn't want the deed for himself, but he'd like to join the PC in rebuilding the manor.
 - He has connections in the city.
 
-At this point, if the player is friendly towards him, he'll disappear. The real Tallis will come out of hiding from behind the wall (inside the manor garden) and reveal that the PC was speaking to an illusory duplicate of him. He had to be careful because he didn't know what to expect. He will apologize for deceiving the PC and say they he won't do it again.
+At this point, if the player is friendly towards him, he'll disappear. The real Tallis will come out of hiding from behind the wall (inside the manor garden) and reveal that the PC was speaking to an illusory duplicate of him. He had to be careful because he didn't know what to expect. He will apologize for deceiving the PC and say that he won't do it again.
 
 If the PC attacks the duplicate before Tallis reveals himself it will disappear, and he will cast Invisibility on himself and walk away.
 
@@ -142,7 +142,7 @@ If the Player will let him, Tallis comes inside, taking a look at the state of t
 Tallis tells the PC that they should find a cook. Or alternatively, help a cook find *them*. There's a missives board in the city square where they could post that they're looking for a cook to join their family, offering free lodging and a well paid position. While Simon goes to post the paper on the missives board, Tallis offers that they try to make some jacket potatoes with olive oil and cheese.
 
 ## A Deal is a Deal
-When it gets dark, Simon will note that they should go outside and wait for Drestor's men of they made a deal with him. After 10 minutes or so, a carriage arrives.
+When it gets dark, Simon will note that they should go outside and wait for Drestor's men if they made a deal with him. After 10 minutes or so, a carriage arrives.
 
 > A carriage parks in the front of the gate and in it are three men, two beefy dwarves and Drestor himself. He looks at you. "Hello again. I wanted to see the Silentspire mansion myself." He looks at Tallis. "Ah, Tallis. I had a feeling I'd see you here."
 >
