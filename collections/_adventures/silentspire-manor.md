@@ -43,7 +43,7 @@ Through dialogue with him, he will reveal the following things.
 - He spent a lot of time in the library and actually kept it quite organized.
 - There’s a giant rat in the basement.
 
-If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. But first, the Player will probably want a tour of the manor, the layout of which is detailed in [[Appendix B]]. The second floor is an array of small bedrooms.
+If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. But first, the Player will probably want a tour of the manor, the layout of which is detailed in [[Appendix B]]. The second floor is an array of 10 small bedrooms.
 
 In the library and throughout the interior of the manor, the player will find a lot of books. Many of them recount the Last War and the victories of the empire, while others are fiction novels, alchemical recipes, guides for collecting herbs, and more. **On the top shelf of the last bookcase, the player will find a *Headband of Intellect*.**
 
@@ -77,7 +77,7 @@ If the player tries to convince Simon to clean the basement, ask for a DC 10 Cha
 If the Player decides to hire someone to clean the basement, they can head to the docks and try to find deckhands that will agree to this. The price they will demand after hearing the details will be 7 GP per person for a day of work. Two people (possibly including Simon and/or the PC) can clean the basement in a day, and one person can clean it in two days. Even with the Prestidigitation cantrip, this will take hours of work.
 
 ## All in a Day's Work
-After hours of labor, the day is nearly over. The main bedroom was kept fairly clean except for some dust on the shelves. Simon will agree to sleep in the smaller bedroom of the ground floor, even though he is used to sleeping the big one. If the cleaning process takes longer than one day, there's no real reason to roleplay it unless the Player wants to. Nothing exciting will happen. Feel free to describe it briefly and move on to the next part.
+After hours of labor, the day is nearly over. The main bedroom was kept fairly clean except for some dust on the shelves. Simon will agree to sleep in one of the smaller bedrooms upstairs, even though he is used to sleeping the big one. If the cleaning process takes longer than one day, there's no real reason to roleplay it unless the Player wants to. Nothing exciting will happen. Feel free to describe it briefly and move on to the next part.
 
 ## Selling the Wine
 > As you walk with Simon through the streets of Gullenshire, you smell the salty air of the nearby coast and the fish sold on various stalls. The cobble streets are laced with sand between the cracks and the people are dressed for the hot sun. The sky is clear and the streets are bustling with sailors, deckhands, and commoners.
