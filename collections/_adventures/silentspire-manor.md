@@ -47,7 +47,9 @@ If the PC is friendly towards him, he will lead them to the basement and ask the
 
 In the library and throughout the interior of the manor, the player will find a lot of books. Many of them recount the Last War and the victories of the empire, while others are fiction novels, alchemical recipes, guides for collecting herbs, and more. On the top shelf of the last bookcase, the player will find a *Headband of Intellect*.
 
-> You find a small silver headband with a sapphire in the middle of it. The blue gem glows dimly in the dark library, and as you blow away the dust from it , it glows brighter.
+> You find a small silver headband with a sapphire in the middle of it. The blue gem glows dimly in the dark library, and as you blow away the dust from it, it glows brighter.
+
+This is a good time to explain to the player that they can take a short rest focusing on the headband to figure out what it does. If they know the Identify spell, prompt them to cast it as a ritual.
 
 ## Pest Control
 Back in the entrance, when the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around it and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a potion of healing which he found in the library.
