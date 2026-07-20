@@ -186,7 +186,7 @@ Krogg is a pleasant and kind person despite his intimidating appearance. In dial
 Krogg is a professional and he will cook well. Tallis will make sure he makes a portion for himself, too. When Simon comes back with the ingredients and the change, Krogg will make egges with bacon, sausages, and serve them with cheese and berries. The sausages will be perfectly roasted, and the eggs and bacon will be cooked just right. The bread will be fresh, crispy on the outside, and fluffy on the inside. Tallis will absolutely want to hire him.
 
 ## Keepers of the Peace
-With his mouth half full, Tallis will say that given how much wine they're keeping in the cellar, they should hire some guards. Three will do.
+With his mouth half full, Tallis will say that given how much wine they're keeping in the cellar, they should hire some guards. [How many guards do they need? is one enough??]
 
 # Appendix A
 
