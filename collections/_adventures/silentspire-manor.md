@@ -170,7 +170,7 @@ If the price is 10 or less, Tallis will try to convince Drestor to increase it b
 At this point, the dwarves will return for the third barrel and Drestor will follow them outside, wishing everyone well. After he leaves, Tallis will say he has to warn the PC about working with Drestor. He will explain that while the deal itself was fine and it makes sense to sell the wine to the Thirsty Deckhand, Drestor is involved with dangerous people and now he got his eyes on the Silentspire family.
 
 # The Proof is in the Pudding
-An older half-orc man shows up in front of the gate.
+Tallis will wake up the PC and tell them that an older half-orc man has shown up at the front gate.
 
 > You see a green skinned man with two large tusks, a greying black ponytail, and a salted beard. He raises his thick eyebrows as he notices you approach, and introduces himself with a deep voice. "I'm Krog Stonefist, I saw your post on the missives board."
 
