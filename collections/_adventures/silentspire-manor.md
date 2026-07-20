@@ -232,3 +232,5 @@ The following are brief descriptions of guards, which all use the same Manor Gua
 # Appendix B
 
 [:adventures/silentspire-manor/interior:]
+
+[:adventures/silentspire-manor/interior/greyscale:]
