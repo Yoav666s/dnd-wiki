@@ -180,9 +180,9 @@ Krogg is a professional and he will cook well. Tallis will make sure he makes a 
 
 # Appendix A
 
-{% include monster_details.html index="giant-rat" %}
-
 {% include monster_details.html index="simon-gribblesnout" %}
+
+{% include monster_details.html index="giant-rat" %}
 
 {% include monster_details.html index="tallis-silentspire" %}
 
