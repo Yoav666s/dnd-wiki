@@ -6,7 +6,7 @@ permalink: /monsters/manor-guard/
 size: "Medium"
 type: "Humanoid"
 alignment: "Any Alignment"
-armor_class: "16 (Chain Armor)"
+armor_class: "16 (Chain Mail)"
 hit_points: "13 (2d8+4)"
 speed: "walk 30 ft."
 str_score: 13
