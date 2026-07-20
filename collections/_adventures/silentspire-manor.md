@@ -175,14 +175,18 @@ If the price is 10 or less, Tallis will try to convince Drestor to increase it b
 
 At this point, the dwarves will return for the third barrel and Drestor will follow them outside, wishing everyone well. After he leaves, Tallis will say he has to warn the PC about working with Drestor. He will explain that while the deal itself was fine and it makes sense to sell the wine to the Thirsty Deckhand, Drestor is involved with dangerous people and now he got his eyes on the Silentspire family.
 
-# The Proof is in the Pudding
+# Expanding the Family
 Tallis will wake up the PC and tell them that an older half-orc man has shown up at the front gate.
 
 > You see a green skinned man with two large tusks, a greying black ponytail, and a salted beard. He raises his thick eyebrows as he notices you approach, and introduces himself with a deep voice. "I'm Krogg Stonefist, I saw your post on the missives board."
 
+## The Proof is in the Pudding
 Krogg is a pleasant and kind person despite his intimidating appearance. In dialogue, he will reveal that he used to be a cook on a trade ship, but at his age, he has come to prefer dry land. Krogg will expect a monthly salary of 30 GP and will not accept any less, half of which Tallis will offer to pay himself. The player should have at least 15 GP from selling the wine. Before paying, however, if the player won't ask first, Tallis will ask Krogg to prepare them some breakfast as a show of his skills. He will hand Simon 3 SP to buy eggs, fresh bread, and seasonal berries.
 
-Krogg is a professional and he will cook well. Tallis will make sure he makes a portion for himself, too. When Simon comes back with the ingredients, Krogg will make egges with bacon, sausages, and serve them with cheese and berries. The sausages will be perfectly roasted, and the eggs and bacon will be cooked just right. The bread will be fresh, crispy on the outside, and fluffy on the inside. Tallis will absolutely want to hire him.
+Krogg is a professional and he will cook well. Tallis will make sure he makes a portion for himself, too. When Simon comes back with the ingredients and the change, Krogg will make egges with bacon, sausages, and serve them with cheese and berries. The sausages will be perfectly roasted, and the eggs and bacon will be cooked just right. The bread will be fresh, crispy on the outside, and fluffy on the inside. Tallis will absolutely want to hire him.
+
+## Keepers of the Peace
+With his mouth half full, Tallis will say that given how much wine they're keeping in the cellar, they should hire some guards. Three will do.
 
 # Appendix A
 
