@@ -102,11 +102,11 @@ If the price the Player sets is higher than 13 GP, Drestor will not budge so eas
 | 16-20 | 17 |
 | 21 or more | 20 |
 
-If the Player doesn't accept the price and threatens to walk away from the deal, they will need to succeed a DC 17 Charisma (Intimidation) check for Drestor to bump up the price one tier (unless it's 20 GP per barrel). If the player actually walks away hoping to sell the wine to someone else and comes back when no one is willing to buy, Drestor will gladly agree to the same price he set last time unless the player was rude. If the player was rude to him, he will drop the price one tier (if the price was 7 GP per barrel, he will drop it to 5).
+If the Player doesn't accept the price and threatens to walk away from the deal, they will need to succeed a DC 17 Charisma (Intimidation) check for Drestor to bump up the price one tier (unless it's 20 GP per barrel). If the player actually walks away hoping to sell the wine to someone else and comes back when no one else is willing to buy, Drestor will gladly agree to the same price he set last time unless the player was rude. If the player was rude to him, he will drop the price one tier (if the price was 7 GP per barrel, he will drop it to 5).
 
-Drestor will say that he will take care of the logistics of transporting the three barrels, and that the PC will get their payment this evening when his men come to the manor to load the barrels onto the carriage.
+If the player agrees, Drestor will say that he will take care of the logistics of transporting the three barrels, and that the PC will get their payment this evening when his men come to the manor to load the barrels onto the carriage.
 
-If the Player tries to sell him more than three barrels, he will say he doesn't have space for that right now, but he will definitely buy more in two or three weeks.
+If the Player tries to sell him more than three barrels, he will say that he doesn't have space for that right now, but he will definitely buy more in two or three weeks.
 
 ### Grunge's Bucketfuls
 > You walk into the tavern and are immediately hit with the smell of yeast and hops. A strong aroma of cheap ale fills the air, complimented by beans and slow-cooked beef. You see sailors everywhere, laughing, brawling, and singing sea shanties. As you approach the bar you see a dwarf with greying black hair and a kind, toothless smile. "Welcome! 'Ow can I help ya?"
