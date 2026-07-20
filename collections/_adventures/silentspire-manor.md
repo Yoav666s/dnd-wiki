@@ -176,7 +176,7 @@ Tallis will wake up the PC and tell them that an older half-orc man has shown up
 
 Krogg is a pleasant and kind person despite his intimidating appearance. In dialogue, he will reveal that he used to be a cook on a trade ship, but at his age, he has come to prefer dry land. Krogg will expect a monthly salary of 30 GP and will not accept any less, half of which Tallis will offer to pay himself. The player should have at least 15 GP from selling the wine. Before paying, however, if the player won't ask first, Tallis will ask Krogg to prepare them some breakfast as a show of his skills. He will hand Simon 3 SP to buy eggs, fresh bread, and seasonal berries.
 
-Krogg is a professional and he will cook well. Tallis will make sure he makes a portion for himself as well. When Simon comes back with the ingredients, Krogg will make egges with bacon, sausages, and serve them with cheese and berries. The sausages will be perfectly roasted, and the eggs and bacon will be cooked just right. The bread will be fresh, crispy on the outside, and fluffy on the inside. Tallis will absolutely want to hire him.
+Krogg is a professional and he will cook well. Tallis will make sure he makes a portion for himself, too. When Simon comes back with the ingredients, Krogg will make egges with bacon, sausages, and serve them with cheese and berries. The sausages will be perfectly roasted, and the eggs and bacon will be cooked just right. The bread will be fresh, crispy on the outside, and fluffy on the inside. Tallis will absolutely want to hire him.
 
 # Appendix A
 
