@@ -188,7 +188,11 @@ Krogg is a professional and he will cook well. Tallis will make sure he makes a 
 ## Keepers of the Peace
 With his mouth half full, Tallis will say that given how much wine they're keeping in the cellar, they should hire some guards. Guards earn 2 SP a day or 6 GP a month, so the player can choose how many guards to hire depending on how much they earned selling wine. Tallis will pay half, up to 12 GP. He won't find it sensible to hire more than four guards.
 
-Tallis will take care of finding guards to hire through his connection, returning by noon with the number of guards the player wanted to hire. The following are brief descriptions of guards, which all use the same Manor Guard statblock in [[Appendix A]].
+Tallis will tell the Player that they can hire guards in the docks, where there's a broker named Toolscrap who manages mercenary protection for ships. Getting him to part with up to four mercenaries won't be easy, so Tallis will offer to talk to him himself if the PC doesn't have high Charisma.
+
+> You arrive at the docks and are hit with a refreshing, salty breeze. Deckhands are passing through, carrying crates onto tradeships while captains are shouting orders. You see a big sign that says *Toolscrap's *
+
+The following are brief descriptions of guards, which all use the same Manor Guard statblock in [[Appendix A]].
 
 **Jasmine Ravenshore.** An athletic brunette with a warm smile and a kind heart.
 
