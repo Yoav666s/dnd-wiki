@@ -51,7 +51,7 @@ In the library and throughout the interior of the manor, the player will find a 
 
 This would be a good time to explain to the player that they can take a short rest focusing on the headband to figure out what it does. If they know the Identify spell, prompt them to cast it as a ritual, instead.
 
-> As you focus on the headband, you feel it brimming with magical power. You learn that hile attuned to it, the wearer's Intelligence score is increased to 19.
+> As you focus on the headband, you feel it brimming with magical power. You learn that while attuned to it, the wearer's Intelligence score is increased to 19.
 
 Explain to the Player what attunement is and how it works, then you can let them take a short rest to attune to the item.
 
