@@ -43,7 +43,7 @@ Through dialogue with him, he will reveal the following things.
 - He spent a lot of time in the library and actually kept it quite organized.
 - There’s a giant rat in the basement.
 
-If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. But first, the Player will probably want a tour of the manor, the layout of which is detailed in Appendix B. The second floor is an array of small bedrooms.
+If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. But first, the Player will probably want a tour of the manor, the layout of which is detailed in [[Appendix B]]. The second floor is an array of small bedrooms.
 
 In the library and throughout the interior of the manor, the player will find a lot of books. Many of them recount the Last War and the victories of the empire, while others are fiction novels, alchemical recipes, guides for collecting herbs, and more. **On the top shelf of the last bookcase, the player will find a *Headband of Intellect*.**
 
