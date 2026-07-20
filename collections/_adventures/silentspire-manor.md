@@ -109,7 +109,7 @@ If the player agrees, Drestor will say that he will take care of the logistics o
 If the Player tries to sell him more than three barrels, he will say that he doesn't have space for that right now, but he will definitely buy more in two or three weeks.
 
 ### Grunge's Bucketfuls
-> You walk into the tavern and are immediately hit with the smell of yeast and hops. A strong aroma of cheap ale fills the air, complimented by beans and slow-cooked beef. You see sailors everywhere, laughing, brawling, and singing sea shanties. As you approach the bar you see a dwarf with greying black hair and a kind, toothless smile. "Welcome! 'Ow can I help ya?"
+> You walk into the tavern and are immediately hit with the smell of yeast and hops. A strong aroma of cheap ale fills the air, complimented by a stew of beans and slow-cooked beef. You see sailors everywhere, laughing, brawling, and singing sea shanties. As you approach the bar you see a dwarf with greying black hair and a kind, toothless smile. "Welcome! 'Ow can I help ya?"
 
 Upon speaking with the dwarf, the PC will learn that his name is Earnest Grunge and he's the owner of this tavern. If the Player offers to sell him barrels of wine he'll say he doesn't need any and that they should check with Drestor at the Thirsty Deckhand if they haven't already.
 
