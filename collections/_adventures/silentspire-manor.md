@@ -49,9 +49,13 @@ In the library and throughout the interior of the manor, the player will find a 
 
 > You find a small silver headband with a sapphire in the middle of it. The blue gem glows dimly in the dark library, and as you blow away the dust from it, it glows brighter.
 
-This would be a good time to explain to the player that they can take a short rest focusing on the headband to figure out what it does. If they know the Identify spell, prompt them to cast it as a ritual, instead. Then you can let the player take a short rest to attune to the item.
+This would be a good time to explain to the player that they can take a short rest focusing on the headband to figure out what it does. If they know the Identify spell, prompt them to cast it as a ritual, instead.
 
-> As you focus on the headband, the sapphire glows yet brighter. You feel its energy coursing through you, filling your mind with greater understanding of nature, unlocking memories you have forgotten, providing you with insight about the weave, and deeper knowledge of the gods of this world. It's pleasantly warm against your forehead, and your mind feels sharper.
+> As you focus on the headband, you feel it brimming with magical power. You learn that hile attuned to it, the wearer's Intelligence score is increased to 19.
+
+Afterwards, you can let the player take a short rest to attune to the item.
+
+> As you wear the headband, the sapphire glows yet brighter. You feel its energy coursing through you, filling your mind with greater understanding of nature, unlocking memories you have forgotten, providing you with insight about the weave, and deeper knowledge of the gods of this world. It's pleasantly warm against your forehead, and your mind feels sharper.
 
 ## Pest Control
 Back in the entrance, when the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around it and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a potion of healing which he found in the library.
