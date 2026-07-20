@@ -64,7 +64,9 @@ Back in the entrance, when the Player agrees to deal with the giant rat, Simon g
 
 You can find the statblock for the giant rat in [[Appendix A]]. If the PC goes unconscious during the fight, they wake up in the main hall next to Simon. He will explain that he listened to the fight and realized that the PC lost, so he snuck in while the rat was sleeping and dragged their unconscious body back up. Thankfully, the giant rat has just ravaged an entire wheel of cheese so it wasn't hungry.
 
-Once the player defeats the giant rat, there's more work to do. The rat has been trapped in the basement for gods know how long, and there's urine and feces everywhere. Simon will suggest that the player hires someone to clean it. With a successful DC 5 Intelligence (Investigation) check, the Player will learn that the barrels in the basement hall are wine, which should be properly aged by now. On failure, Simon will realize that instead. If the player takes time to count the barrels, they will find that there are three lines of barrels stacked on top of one another on each side, with a length of 20 barrels each, resulting in 120 barrels total.
+Once the player defeats the giant rat, there's more work to do. The rat has been trapped in the basement for gods know how long, and there's urine and feces everywhere. Simon will suggest that the player hires someone to clean it.
+
+With a successful DC 5 Intelligence (Investigation) check, the Player will learn that the barrels in the basement hall are wine, which should be properly aged by now. On failure, Simon will realize that instead. If the player takes time to count the barrels, they will find that there are three lines of barrels stacked on top of one another on each side, with a length of 20 barrels each, resulting in 120 barrels total.
 
 *As the introduction part is over, this would be a good time to level up the PC to 2nd level.*
 
