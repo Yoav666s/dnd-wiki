@@ -53,7 +53,7 @@ This would be a good time to explain to the player that they can take a short re
 
 > As you focus on the headband, you feel it brimming with magical power. You learn that hile attuned to it, the wearer's Intelligence score is increased to 19.
 
-Afterwards, you can let the player take a short rest to attune to the item.
+Explain to the Player what attunement is and how it works, then you can let them take a short rest to attune to the item.
 
 > As you wear the headband, the sapphire glows yet brighter. You feel its energy coursing through you, filling your mind with greater understanding of nature, unlocking memories you have forgotten, providing you with insight about the weave, and deeper knowledge of the gods of this world. It's pleasantly warm against your forehead, and your mind feels sharper.
 
