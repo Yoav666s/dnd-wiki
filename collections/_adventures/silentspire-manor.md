@@ -172,7 +172,7 @@ At this point, the dwarves will return for the third barrel and Drestor will fol
 # The Proof is in the Pudding
 An older half-orc man shows up in front of the gate.
 
-> You see a green skinned man with two large tusks, a greying black ponytail, and a salted beard. He raises his thick eyebrows as he notices you approach, and introduces himself. "I'm Krog Stonefist, I saw your post on the missives board."
+> You see a green skinned man with two large tusks, a greying black ponytail, and a salted beard. He raises his thick eyebrows as he notices you approach, and introduces himself with a deep voice. "I'm Krog Stonefist, I saw your post on the missives board."
 
 In dialogue, he will reveal that he used to be a cook on a trade ship, but at his age, he has come to prefer dry land.
 
