@@ -174,7 +174,7 @@ Tallis will wake up the PC and tell them that an older half-orc man has shown up
 
 > You see a green skinned man with two large tusks, a greying black ponytail, and a salted beard. He raises his thick eyebrows as he notices you approach, and introduces himself with a deep voice. "I'm Krogg Stonefist, I saw your post on the missives board."
 
-In dialogue, he will reveal that he used to be a cook on a trade ship, but at his age, he has come to prefer dry land. Krogg will expect a monthly salary of 30 GP, which Tallis will offer to pay half of. The player should have at least 15 GP from selling the wine.
+In dialogue, he will reveal that he used to be a cook on a trade ship, but at his age, he has come to prefer dry land. Krogg will expect a monthly salary of 30 GP, which Tallis will offer to pay half of. The player should have at least 15 GP from selling the wine. Before paying, however, if the player won't ask first, Tallis will ask Krogg to prepare them some breakfast as a show of his skills. He will hand Simon 5 SP to buy eggs, fresh bread, and [what else do people in medieval fantasy eat for breakfast??].
 
 # Appendix A
 
