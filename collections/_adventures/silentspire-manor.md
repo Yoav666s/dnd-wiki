@@ -186,6 +186,8 @@ Krogg is a professional and he will cook well. Tallis will make sure he makes a 
 
 {% include monster_details.html index="tallis-silentspire" %}
 
+{% include monster_details.html index="krogg-stonefist" %}
+
 # Appendix B
 
 [:adventures/silentspire-manor/interior:]
