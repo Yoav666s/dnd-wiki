@@ -48,13 +48,13 @@ Through dialogue with him, he will reveal the following things.
 
 If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. But first, the Player will probably want a tour of the manor, the layout of which is detailed in [[Appendix B]]. The second floor is an array of 10 small bedrooms.
 
-In the library and throughout the interior of the manor, the player will find a lot of books. Many of them recount the Last War and the victories of the empire, while others are fiction novels, alchemical recipes, guides for collecting herbs, and more. On the top shelf of the last bookcase, the player will find a *Headband of Intellect*.
+In the library and throughout the interior of the manor, the player will find a lot of books. Many of them recount the Last War and the victories of the empire, while others are fiction novels, alchemical recipes, guides for collecting herbs, and more. On the top shelf of one of the bookcases in the library, the player will see something glowing blue.
 
 > You find a small silver headband with a sapphire in the middle of it. The blue gem glows dimly in the dark library, and as you blow away the dust from it, it glows brighter.
 
 This would be a good time to explain to the player that they can take a short rest focusing on the headband to figure out what it does. If they know the Identify spell, prompt them to cast it as a ritual, instead.
 
-> As you focus on the headband, you feel it brimming with magical power. You learn that while attuned to it, the wearer's Intelligence score is increased to 19.
+> As you focus on the headband, you feel it brimming with magical power. You learn that while attuned to it, the wearer's Intelligence score is increased to 19. Add the Headband of Intellect to your inventory.
 
 Explain to the Player what attunement is and how it works, then you can let them take a short rest to attune to the item.
 
