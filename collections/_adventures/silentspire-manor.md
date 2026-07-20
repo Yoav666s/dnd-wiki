@@ -61,7 +61,7 @@ Explain to the Player what attunement is and how it works, then you can let them
 > As you wear the headband, the sapphire glows yet brighter. You feel its energy coursing through you, filling your mind with greater understanding of nature, unlocking memories you have forgotten, providing you with insight about the weave, and deeper knowledge of the gods of this world. It's pleasantly warm against your forehead, and your mind feels sharper.
 
 ## Pest Control
-Back in the entrance, when the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around it and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a *Potion of Healing* which he found in the library.
+Back in the entrance, when the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around, it and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a *Potion of Healing* which he found in the library.
 
 > You descend through the stairs down to the basement and reach a barred door. As you open it, a wave of nauseating stench hits your face. It smells like rot, acrid urine, and feces. The torch lights your way and the hall is full of barrels on both sides, going farther than you can see. As you continue forward, you see wheels of cheese stacked on top of one another, except for one on the floor which has been ravaged. You hear a screech from the darkness, and a giant rat barges into view. Roll initiative!
 
