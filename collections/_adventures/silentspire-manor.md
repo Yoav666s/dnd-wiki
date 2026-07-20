@@ -125,7 +125,7 @@ When the PC and Simon eventually return to the manor, at around midday, they wil
 
 > You see a handsome young man, a human with short black hair and mischievous green eyes. He's wearing fine clothes, on his doublet a pin depicting a peacock, like the sigil on the gate. As he notices you approach he asks politely, "Uh, excuse me, sir/miss. Are you the owner of this establishment?"
 
-The name of the young man is Tallis Silentspire. Upon conversing with him, the Player will learn the following things.
+The name of the young man is Tallis Silentspire. Conversing with him, the Player will learn the following things.
 
 - Tallis is their cousin. He's Helena Silentspire's grandson. He was not on good terms with her as she was an awful woman, so she didn't leave him much in her will.
 - His parents died before Helena, a few winters ago. They both got very sick and didn't make it through to the spring.
@@ -139,14 +139,14 @@ If the PC attacks the duplicate before Tallis reveals himself it will disappear,
 
 If the Player will let him, Tallis comes inside, taking a look at the state of the manor. He notes that it's seen better days, the kitchen is completely empty, and they have no food for lunch. He uses Sending to talk to someone, and says "Hey, it's Tallis. I need all the basic goods to fill up the kitchen in Silentspire Manor." He listens to the response and says that they'll be here within the hour. After forty five minutes or so, they hear banging of metal on metal outside.
 
-> A carriage has arrived with burlap sacs of flour and dried beans, glass containers with brined olives, bags of salted fish, smoked sausages, cured hams, and wheels of cheese encased in thick wax. Sacs of potatoes and carrots, onions and garlic, casks of olive oil, jars of honey, and bags of sea-salt.
+> A carriage has arrived with burlap sacs of flour and dried beans, glass containers with brined olives, bags of salted fish, smoked sausages, cured meats, and wheels of cheese encased in thick wax. Sacs of potatoes and carrots, onions and garlic, casks of olive oil, jars of honey, and bags of sea-salt.
 >
 > "Right this way." Tallis leads the men through gate as they carry the goods to the manor kitchen. As they finish, he hands the driver a small coin pouch.
 
 Tallis tells the PC that they should find a cook. Or alternatively, help a cook find *them*. There's a missives board in the city square where they could post that they're looking for a cook to join their family, offering free lodging and a well paid position. While Simon goes to post the paper on the missives board, Tallis offers that they try to make some jacket potatoes with olive oil and cheese.
 
 ## A Deal is a Deal
-When it gets dark, Simon will note that they should go outside and wait for Drestor's men if they made a deal with him. After 10 minutes or so, a carriage arrives.
+When it gets dark, Simon will note that they should go outside and wait for Drestor's men if they made a deal with him. After ten minutes or so, a carriage arrives.
 
 > A carriage parks in the front of the gate and in it are three men, two beefy dwarves and Drestor himself. He looks at you. "Hello again. I wanted to see the Silentspire mansion myself." He looks at Tallis. "Ah, Tallis. I had a feeling I'd see you here."
 >
