@@ -186,7 +186,12 @@ Krogg is a pleasant and kind person despite his intimidating appearance. In dial
 Krogg is a professional and he will cook well. Tallis will make sure he makes a portion for himself, too. When Simon comes back with the ingredients and the change, Krogg will make egges with bacon, sausages, and serve them with cheese and berries. The sausages will be perfectly roasted, and the eggs and bacon will be cooked just right. The bread will be fresh, crispy on the outside, and fluffy on the inside. Tallis will absolutely want to hire him.
 
 ## Keepers of the Peace
-With his mouth half full, Tallis will say that given how much wine they're keeping in the cellar, they should hire some guards. [How many guards do they need? is one enough??]
+With his mouth half full, Tallis will say that given how much wine they're keeping in the cellar, they should hire some guards. Guards earn 2 SP a day or 6 GP a month, so the player can choose how many guards to hire depending on how much they earned selling wine. Tallis will pay half, up to 12 GP. He won't find it sensible to hire more than four guards.
+
+Tallis will take care of finding guards to hire through his connection, returning by noon with the number of guards the player wanted to hire. The following are brief descriptions of guards, which all use the same Guard statblock in [[Appendix A]].
+
+### Jasmine Rivenkind
+A pretty, athletic brunette that relies
 
 # Appendix A
 
@@ -197,6 +202,8 @@ With his mouth half full, Tallis will say that given how much wine they're keepi
 {% include monster_details.html index="tallis-silentspire" %}
 
 {% include monster_details.html index="krogg-stonefist" %}
+
+{% include monster_details.html index="guard" %}
 
 # Appendix B
 
