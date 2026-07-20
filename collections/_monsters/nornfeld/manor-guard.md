@@ -6,7 +6,7 @@ permalink: /monsters/manor-guard/
 size: "Medium"
 type: "Humanoid"
 alignment: "Any Alignment"
-armor_class: "16 (Armor)"
+armor_class: "16 (Chain Armor)"
 hit_points: "13 (2d8+4)"
 speed: "walk 30 ft."
 str_score: 13
@@ -23,6 +23,8 @@ challenge_rating: 0.125
 xp: 25
 proficiency_bonus: "+2"
 actions: |
-  **Shortsword.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+  **Shortsword.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+  
+  **Crossbow.** Ranged Weapon Attack: +5 to hit, range 60/120ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 excerpt: "Medium Humanoid, Any Alignment"
 ---
