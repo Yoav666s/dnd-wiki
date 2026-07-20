@@ -33,7 +33,7 @@ As the PC attempts to open the gate, you can ask for a DC 7 Strength check. If t
 
 If the Player fails the original Strength check and then another check, let them automatically succeed on the next one. Once the PC successfully makes their way into the manor, read out loud the following description.
 
-> You walk along the path through what seems to have once been a beautiful garden, but is now a mess of weeds, thorns, and dead plants. As you arrive at the massive front doors, you push them open. The morning light fills the otherwise dark, dusty interior of the foyer, and you hear a little whelp.
+> You walk along the path through what seems to have once been a beautiful garden, but is now a mess of weeds, thorns, and dead plants. As you arrive at the massive front doors, you push them open. The morning light fills the otherwise dark, dusty interior of the foyer, and you hear a little yelp.
 
 Upon investigating the sound, the PC will find a little gnome named Simon Gribblesnout. He has been living here for years, feeding on rats and drinking from the river that passes through what used to be the garden.
 
