@@ -188,9 +188,22 @@ Krogg is a professional and he will cook well. Tallis will make sure he makes a 
 ## Keepers of the Peace
 With his mouth half full, Tallis will say that given how much wine they're keeping in the cellar, they should hire some guards. Guards earn 2 SP a day or 6 GP a month, so the player can choose how many guards to hire depending on how much they earned selling wine. Tallis will pay half, up to 12 GP. He won't find it sensible to hire more than four guards.
 
-Tallis will tell the Player that they can hire guards in the docks, where there's a broker named Toolscrap who manages mercenary protection for ships. Getting him to part with up to four mercenaries won't be easy, so Tallis will offer to talk to him himself if the PC doesn't have high Charisma.
+Tallis will tell the Player that they can hire guards in the docks, where there's a broker named Toolscrap who manages mercenary protection for ships. Getting him to part with up to four mercenaries won't be easy, so Tallis will offer to talk to him himself if the PC doesn't have high Charisma. If the Player decides to talk to him themselves, Tallis will come to help them.
 
-> You arrive at the docks and are hit with a refreshing, salty breeze. Deckhands are passing through, carrying crates onto tradeships while captains are shouting orders. You see a big sign that says *Toolscrap's *
+> You arrive at the docks and are hit with a refreshing, salty breeze. Deckhands are passing through, carrying crates onto tradeships while captains are shouting orders. You see a big sign that says *Toolscrap's Duel Chaps* above a counter. As you approach, you see a little well dressed goblin taking care of paperwork. He looks up at you. "Yes?"
+
+As it turns out, Toolscrap is the little goblin. He's very down-to-business with no care for smalltalk. When the player explains that they want to hire guards for their mansion, Toolscrap will not look too happy about it. The player will have to pass a Charisma (Persuasion) check (DC equal 8 + twice the number of guards they want to hire), which they can make with advantage since Tallis is with them. On success, he will let the PC hire as many mercenaries as they need if they pay him 3 GP per mercenary. On failure, if the player is wearing the *Headband of Intellect*, Toolscrap will recognize it.
+
+> The goblin looks at your forehead with hungry eyes. "Quite a relic you're wearing there... could make my job a lot easier. Tell you what, if you give me that little headband, I'll let you hire my best mercenaries."
+
+If the player disagrees, he'll groan and ask for 6 GP per mercenary. If Player tries to haggle, let them make another Charisma (Persuasion) check with advantage and consult the following table for the final price.
+
+| Total | Price per Mercenary (GP) |
+| :---: | :---: |
+| 5 or lower | 6 |
+| 6-10 | 5 |
+| 11-15 | 4 |
+| 16 or higher | 3 |
 
 The following are brief descriptions of guards, which all use the same Manor Guard statblock in [[Appendix A]].
 
