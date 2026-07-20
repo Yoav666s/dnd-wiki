@@ -11,14 +11,14 @@ wip: true
 This is a localized adventure, meant for one Player and a DM (Dungeon Master). This style of play is called a Duet. The goal of this adventure is twofold. First, it’s meant to introduce D&D to a person who has no experience with it whatsoever, while still being fun and engaging for experienced players. Secondly, it aims to build a hub where the PC (Player Character) will return to after various adventures, accumulating NPCs along the way, and it can be anywhere in Durn, a high magic realm. For the purpose of simplicity, this module will assume that it takes place in Gullenshire, one of the port cities of Hoverncast. This module is designed to be used by the DM.
 
 ## Background
-The PC should start at 1st level, and in their background there should contain a reason for them to have inherited a manor that has been neglected and abandoned over the years. It was once a beautiful place, but is now a sad reminder of what was. Whatever the background of the PC is, it should include the following part.
+The PC should start at 1st level, and their background should contain a reason for them to have inherited a manor that has been neglected and abandoned over the years. It was once a beautiful place, but is now a sad reminder of what was. Whatever the background of the PC is, it should include the following part.
 
 > Your great-aunt, Helena Silentspire, was the last of the Silentspire line. You barely knew her, but you were the only family she had left.
 
 ## A New Home
 The PC in this adventure has just inherited Silentspire Manor. It is up to them to bring it back to its former glory, as right now it's in a horribly neglected state. You can read out loud the following description for the Player.
 
-> You approach the gate, which is rusty and overtaken with vines. There is a sigil depicting a peacock in the middle of it, the sigil of the Silentspire family. You unlock the gate with the key you were given, and the mechanism clicks loudly. The corroded gate gives out a creak as you push it open with effort.
+> You approach the gate, which is rusty and overtaken with vines. There is a sigil depicting a peacock in the middle of it, the symbol of the Silentspire family. You unlock the gate with the key you were given, and the mechanism clicks loudly. The corroded gate gives out a creak as you push it open with effort.
 
 As the PC attempts to open the gate, you can ask for a DC 5 Strength check. If they fail, consult the following table.
 
@@ -28,22 +28,24 @@ As the PC attempts to open the gate, you can ask for a DC 5 Strength check. If t
 | Wisdom (Perception) | 5 | Find a broken part of the wall to crawl through. |
 | Charisma (Persuasion) | 5 | Ask someone for help in opening the gate. |
 
-If the Player fails the original Strength check and then two more checks, let them automatically succeed on the last one. Once the PC successfully makes their way into the manor, read out loud the following description.
+If the Player fails the original Strength check and then another check, let them automatically succeed on the next one. Once the PC successfully makes their way into the manor, read out loud the following description.
 
 > You walk along the path through what seems to have once been a beautiful garden, but is now a mess of weeds, thorns, and dead plants. As you arrive at the massive front doors, you push them open. The morning light fills the otherwise dark, dusty interior, and you hear a little whelp.
 
-Upon investigating the sound, the PC will find a little gnome named Simon Gribblesnout. He has been living here for years, feeding on rats that seem to come from the basement and drinking from the river that passes through what used to be the garden.
+Upon investigating the sound, the PC will find a little gnome named Simon Gribblesnout. He has been living here for years, feeding on rats and drinking from the river that passes through what used to be the garden.
 
 > You see a little gnome, dirty and smelly, his clothes are tattered, but he's otherwise quite docile; he seems wary of you, but not inclined to attack. He has a bald spot on the top of his head, surrounded by frayed, greying hair, and his eyes are blue, blinking and darting around. "Who are you? Why are you here?"
 
 Through dialogue with him, he will reveal the following things.
 
-- There’s a giant rat in the basement.
 - He doesn’t remember how long he’s been living here.
 - He’d like to stay if the PC will let him.
 - He spent a lot of time in the library and actually kept it quite organized.
+- There’s a giant rat in the basement.
 
 If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. But first, the Player will probably want a tour of the manor, the layout of which is detailed in Appendix B. The second floor is an array of small bedrooms.
+
+In the library and throughout the interior of the manor, the player will find a lot of books. Many of them recount the Last War and the victories of the empire, while others are fiction novels, alchemical recipes, guides for collecting herbs, and more. **On the top shelf of the last bookcase, the player will find a *Ring of Protection*.**
 
 ## Pest Control
 Simon goes and grabs a torch from a nearby wall and hands it to the PC, muttering an incantation and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a potion of healing which he found in the library.
