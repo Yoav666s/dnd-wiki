@@ -192,11 +192,11 @@ Tallis will tell the Player that they can hire guards in the docks, where there'
 
 > You arrive at the docks and are hit with a refreshing, salty breeze. Deckhands are passing through, carrying crates onto tradeships while captains are shouting orders. You see a big sign that says *Toolscrap's Duel Chaps* above a counter. As you approach, you see a little well dressed goblin taking care of paperwork. He looks up at you. "Yes?"
 
-As it turns out, Toolscrap is the little goblin. He's very down-to-business with no care for smalltalk. When the player explains that they want to hire guards for their mansion, Toolscrap will not look too happy about it. The player will have to pass a Charisma (Persuasion) check (DC equal 8 + twice the number of guards they want to hire), which they can make with advantage since Tallis is with them. On success, he will let the PC hire as many mercenaries as they need if they pay him 3 GP per mercenary. On failure, if the player is wearing the *Headband of Intellect*, Toolscrap will recognize it.
+As it turns out, Toolscrap is the little goblin. He's very down-to-business with no care for smalltalk. When the player explains that they want to hire guards for their mansion, Toolscrap will not look too happy about it. The player will have to pass a Charisma (Persuasion) check (DC equal 8 + twice the number of guards they want to hire), which they can make with advantage since Tallis is with them. On success, he will let the PC hire as many mercenaries as they need if they pay him 3 GP per mercenary. He will not haggle on this price. On failure, if the player is wearing the *Headband of Intellect*, Toolscrap will recognize it.
 
-> The goblin looks at your forehead with hungry eyes. "Quite a relic you're wearing there... could make my job a lot easier. Tell you what, if you give me that little headband, I'll let you hire my best mercenaries."
+> The goblin looks at your forehead with hungry eyes. "Quite a relic you're wearing there... could make my job a lot easier. Tell you what, if you give me that little headband of yours, I'll let you hire my best mercenaries."
 
-If the player disagrees, he'll groan and ask for 6 GP per mercenary. If Player tries to haggle, let them make another Charisma (Persuasion) check with advantage and consult the following table for the final price.
+If the Player agrees, he'll let them hire as many mercenaries as they want for no additional charge. If the player disagrees or doesn't wear the *Headband of Intellect*, he'll groan and ask for 6 GP per mercenary. If Player tries to haggle, let them make another Charisma (Persuasion) check with advantage and consult the following table for the final price.
 
 | Total | Price per Mercenary (GP) |
 | :---: | :---: |
@@ -204,6 +204,8 @@ If the player disagrees, he'll groan and ask for 6 GP per mercenary. If Player t
 | 6-10 | 5 |
 | 11-15 | 4 |
 | 16 or higher | 3 |
+
+Again, Tallis will pay half. Upon payment, Toolscrap will say that he'll send the mercenaries to the manor and they should arrive by late afternoon.
 
 The following are brief descriptions of guards, which all use the same Manor Guard statblock in [[Appendix A]].
 
