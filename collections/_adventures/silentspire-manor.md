@@ -219,7 +219,7 @@ The following are brief descriptions of guards, which all use the same Manor Gua
 
 **Grott Haggard.** A strong dwarf with green eyes and a ginger beard.
 
-**Felter Hearherleaf.** A quick elf with short-cut hair and a good eye for trouble.
+**Felter Heatherleaf.** A quick elf with short-cut hair and a good eye for trouble.
 
 **Riss Muj'dal.** A dark skinned man from the deserts of Cortenmaas.
 
