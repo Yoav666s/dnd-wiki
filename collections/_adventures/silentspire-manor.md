@@ -13,7 +13,7 @@ This is a localized adventure, meant for one Player and a DM (Dungeon Master). T
 ## Background
 The PC should start at 1st level, and their background should contain a reason for them to have inherited a manor that has been neglected and abandoned over the years. It was once a beautiful place, but is now a sad reminder of what was. Whatever the background of the PC is, it should include the following part.
 
-> Your great-aunt, Helena Silentspire, was the last of the Silentspire line. You barely knew her, but you were the only family she had left.
+> Your great-aunt, Helena, was the last of the Silentspire line. You barely knew her, but you were the only family she had left.
 
 ## A New Home
 The PC in this adventure has just inherited Silentspire Manor. It is up to them to bring it back to its former glory, as right now it's in a horribly neglected state. You can read out loud the following description for the Player.
