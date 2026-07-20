@@ -188,10 +188,15 @@ Krogg is a professional and he will cook well. Tallis will make sure he makes a 
 ## Keepers of the Peace
 With his mouth half full, Tallis will say that given how much wine they're keeping in the cellar, they should hire some guards. Guards earn 2 SP a day or 6 GP a month, so the player can choose how many guards to hire depending on how much they earned selling wine. Tallis will pay half, up to 12 GP. He won't find it sensible to hire more than four guards.
 
-Tallis will take care of finding guards to hire through his connection, returning by noon with the number of guards the player wanted to hire. The following are brief descriptions of guards, which all use the same Guard statblock in [[Appendix A]].
+Tallis will take care of finding guards to hire through his connection, returning by noon with the number of guards the player wanted to hire. The following are brief descriptions of guards, which all use the same Manor Guard statblock in [[Appendix A]].
 
-### Jasmine Rivenkind
-A pretty, athletic brunette that relies
+**Jasmine Ravenshore.** An athletic brunette with a warm smile and a kind heart.
+
+**Grott Haggard.** A strong dwarf with green eyes and a ginger beard.
+
+**Felter Hearherleaf.** A quick elf with short-cut hair and a good eye for trouble.
+
+**Riss Muj'dal.** A dark skinned man from the deserts of Cortenmaas.
 
 # Appendix A
 
@@ -203,7 +208,7 @@ A pretty, athletic brunette that relies
 
 {% include monster_details.html index="krogg-stonefist" %}
 
-{% include monster_details.html index="guard" %}
+{% include monster_details.html index="manor-guard" %}
 
 # Appendix B
 
