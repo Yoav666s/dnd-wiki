@@ -205,7 +205,15 @@ As it turns out, Toolscrap is the goblin. He's very down-to-business with no car
 
 > The goblin looks at your forehead with hungry eyes. "Quite a relic you're wearing there... could make my job a lot easier. Tell you what, if you give me that little headband of yours, I'll let you hire my best mercenaries."
 
-If the Player agrees, he'll let them hire as many mercenaries as they want for no additional charge. If the player disagrees or doesn't wear the *Headband of Intellect*, he'll groan and ask for 6 GP per mercenary. If Player tries to haggle, let them make another Charisma (Persuasion) check with advantage and consult the following table for the final price.
+If the Player is considering it, ask them to make a Wisdom (Insight) check, and consult the following table.
+
+| Total | Insight |
+| :---: | :---- |
+| 5 or lower | Seems like a fair trade. |
+| 6-10 | This feels a little fishy. |
+| 11-15 |  | 
+
+If the Player agrees anyway, he'll let them hire as many mercenaries as they want for no additional charge. If the player disagrees or doesn't wear the *Headband of Intellect*, he'll groan and ask for 6 GP per mercenary. If Player tries to haggle, let them make another Charisma (Persuasion) check with advantage and consult the following table for the final price.
 
 | Total | Price per Mercenary (GP) |
 | :---: | :---: |
