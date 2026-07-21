@@ -46,8 +46,10 @@ Through dialogue with him, he will reveal the following things.
 - He spent a lot of time in the library and actually kept it quite organized.
 - There’s a giant rat in the basement.
 
-If the PC is friendly towards him, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. But first, the Player will probably want a tour of the manor, the layout of which is detailed in [[Appendix B]]. The second floor is an array of ten small bedrooms, and the dining area is a large room with a long table with enough space for twenty people.
+## Home Tour
+If the PC is friendly towards Simon, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. But first, the Player will probably want a tour of the manor, the layout of which is detailed in [[Appendix B]]. The second floor is an array of ten small bedrooms, and the dining area is a large room with a long table with enough space for twenty people.
 
+### The Library 
 In the library and throughout the interior of the manor, the player will find a lot of books. Many of them recount the Last War and the victories of the empire, while others are fiction novels, alchemical recipes, guides for collecting herbs, and more. On the top shelf of one of the bookcases in the library, the player will see something glowing blue.
 
 > You find a small silver headband with a sapphire in the middle of it. The blue gem glows dimly in the dark library, and as you blow away the dust from it, it glows brighter. You feel its essence is magical, but you don't know what kind of magic this is.
@@ -59,6 +61,9 @@ This would be a good time to explain to the player that they can take a short re
 Explain to the Player what attunement is and how it works, then you can let them take a short rest to attune to the item.
 
 > As you wear the headband, the sapphire glows yet brighter. You feel its energy coursing through you, filling your mind with greater understanding of nature, unlocking memories you have forgotten, providing you with insight about the weave, and deeper knowledge of the gods of this world. It's pleasantly warm against your forehead, and your mind feels sharper.
+
+### The Drawing Room
+
 
 ## Pest Control
 Back in the entrance, when the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around, it and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a *Potion of Healing* which he found in the library.
