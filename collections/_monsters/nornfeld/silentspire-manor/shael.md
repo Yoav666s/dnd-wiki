@@ -38,6 +38,8 @@ actions: |
   At will: Druidcraft
   
   3/day each: Entangle
+  
+  1/day each: Barkskin
 bonus_actions: |
   **Shillelagh.** Shael casts Shillelagh, using the same spellcasting ability as Spellcasting.
 excerpt: "Medium Fey, Neutral"
