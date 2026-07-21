@@ -211,9 +211,10 @@ If the Player is considering it, ask them to make a Wisdom (Insight) check, and 
 | :---: | :---- |
 | 5 or lower | Seems like a fair trade. |
 | 6-10 | This feels a little fishy. |
-| 11-15 |  | 
+| 11-15 | This headband is worth a lot, it'd be unwise to give it away. |
+| 16 or higher | This headband could sell for at least 100 GP. If you wanted to buy it from a magic shop, it would run you about 500 GP. |
 
-If the Player agrees anyway, he'll let them hire as many mercenaries as they want for no additional charge. If the player disagrees or doesn't wear the *Headband of Intellect*, he'll groan and ask for 6 GP per mercenary. If Player tries to haggle, let them make another Charisma (Persuasion) check with advantage and consult the following table for the final price.
+If the player takes the headband off, Tallis will intervene, saying that it's not even remotely worth it. If the Player gives Toolscrap the headband anyway, he'll let them hire as many mercenaries as they want for no additional charge. If the player disagrees or doesn't wear the *Headband of Intellect*, he'll groan and ask for 6 GP per mercenary. If Player tries to haggle, let them make another Charisma (Persuasion) check with advantage and consult the following table for the final price.
 
 | Total | Price per Mercenary (GP) |
 | :---: | :---: |
