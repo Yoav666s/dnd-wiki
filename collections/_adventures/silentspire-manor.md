@@ -65,13 +65,15 @@ Explain to the Player what attunement is and how it works, then you can let them
 ### The Drawing Room
 > You enter a large dark room. Simon mutters an incantation and snaps his fingers, lighting the candles of a large chandelier in the center of it. You see two dusty red sofas next to the east wall, a hearth on the south wall, and a bar set at the north wall. "I don't spend a lot of time here," he says. "But I think the drinks here are still good."
 >
-> Behind the bar, you find four bottles of liquor, and a dozen low glasses. As you open one of the bottles, you're hit with a sharp smell of alcohol and a faint hint of apples. Truska, an orcish beverage.
+> Behind the bar, you find four bottles of liquor, and a dozen low glasses. As you open the bottle with the green liquid, you're hit with a sharp smell of alcohol and a faint hint of apples. Truska, an orcish beverage. The color comes not from the apples but the herbs infused in this drink.
 
 If the Player opens the three other bottles, they find the following.
 
 **Sheen.** A clear, highly alcoholic beverage made of distilled cherries, elvish in origin.
 
-**Frima.** 
+**Qrim.** A brown dwarvish beverage made of distilled malt water.
+
+**Tyll.** A sweet yellow liquor made from peaches, also elvish. This one turned to vinegar.
 
 ## Pest Control
 Back in the entrance, when the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around, it and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a *Potion of Healing* which he found in the library.
@@ -106,6 +108,9 @@ If the Player decides to hire someone to clean the basement, they can head to th
 
 ## All in a Day's Work
 After hours of labor, the day is nearly over. The main bedroom was kept fairly clean except for some dust on the shelves. Simon will agree to sleep in one of the smaller bedrooms upstairs, even though he is used to sleeping the big one. If the cleaning process takes longer than one day, there's no real reason to roleplay it unless the Player wants to. Nothing exciting will happen. Feel free to describe it briefly and move on to the next part.
+
+### Cleaning the Rest of the Interior
+The other rooms are dusty and neglected, but shouldn't be too difficult to clean. It would take an extra 1d4 hours to clean the rest of the interior with the Prestidigitation cantrip.
 
 ## Selling the Wine
 > As you walk with Simon through the streets of Gullenshire, you smell the salty air of the nearby coast and the fish sold on various stalls. The cobble streets are laced with sand between the cracks and the people are dressed for the hot sun. The sky is clear and the streets are bustling with sailors, deckhands, and commoners.
