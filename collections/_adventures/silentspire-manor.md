@@ -75,6 +75,11 @@ If the Player opens the three other bottles, they find the following.
 
 **Tyll.** A sweet yellow liquor made from peaches, also elvish. This one turned to vinegar.
 
+### The Garden
+Simon will say that there's nothing to see in the garden, it's all wilted and dry. If the Player decides to fo there anyway, they hear something rustling in the bushes. Have the PC make a Wisdom (Perception) check, contested with Shael's Dexterity (Stealth) check. You can find her statblock in [[Appendix A]]. If the Player fails, tell them it must have been the wind. If they decide to investigate, ask for an Intelligence (Investigation) check contested by another Dexterity (Stealth) check from Shael. If the Player succeeds on either check, they find a little dryad named Shael in the bushes.
+
+> You see a beautiful little creature, w
+
 ## Pest Control
 Back in the entrance, when the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around, it and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a *Potion of Healing* which he found in the library.
 
@@ -259,6 +264,8 @@ The following are brief descriptions of guards, which all use the same Manor Gua
 
 {% include monster_details.html index="simon-gribblesnout" %}
 
+{% include monster_details.html index="shael" %}
+
 {% include monster_details.html index="giant-rat" %}
 
 {% include monster_details.html index="tallis-silentspire" %}
@@ -266,8 +273,6 @@ The following are brief descriptions of guards, which all use the same Manor Gua
 {% include monster_details.html index="krogg-stonefist" %}
 
 {% include monster_details.html index="manor-guard" %}
-
-{% include monster_details.html index="shael" %}
 
 # Appendix B
 
