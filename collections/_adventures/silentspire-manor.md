@@ -82,9 +82,13 @@ Simon will say that there's nothing to see in the garden, it's all wilted and dr
 
 If the player is friendly towards her, Shael will introduce herself and reveal the following things.
 
-- She's a dryad, and she's been living here for a few weeks.
+- She's a dryad, and she's been staying here for a few weeks.
 - The wilted garden makes her sad. She can make it beautiful if the PC wants her to.
-- 
+- She's not looking for trouble, and she can leave if the PC doesn't want her here.
+
+If the Player wants her to make the garden beautiful, she will cast Plant Growth over 8 hours to enrich the garden and bring the plants back to life. 
+
+If the player attacks her, she will cast Plant Growth as an action, making the entire garden overgrown. Then she will use her Tree Stride trait to leave quickly and flee.
 
 ## Pest Control
 Back in the entrance, when the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around, it and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a *Potion of Healing* which he found in the library.
