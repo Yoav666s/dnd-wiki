@@ -268,7 +268,10 @@ The following are brief descriptions of guards, which all use the same Manor Gua
 
 **Riss Muj'dal.** A dark skinned man from the deserts of Cortenmaas.
 
+## Scanning the Perimeter
+After the guards arrive and introduce themselves, they will begin securing the area. If the Player hasn't met Shael yet, Grott will bring her to them not long after. See [[The Garden]] for information about the interaction with her and her physical description.
 
+> Grott walks up to you, dragging with him a little girl by the arm. "Boss, thought ya might wanna take a look at this one."
 
 # Appendix A
 
