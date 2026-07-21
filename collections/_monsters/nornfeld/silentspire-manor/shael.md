@@ -35,6 +35,8 @@ actions: |
   
   **Spellcasting.** Shael casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14, +6 to hit with spell attacks):
   
-  At will: Druidcraft, Shillelagh
+  At will: Druidcraft
+bonus_actions: |
+  **Shillelagh.** Shael casts Shillelagh, using the same spellcasting ability as Spellcasting.
 excerpt: "Medium Fey, Neutral"
 ---
