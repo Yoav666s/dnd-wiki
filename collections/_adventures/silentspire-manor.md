@@ -260,9 +260,9 @@ Again, Tallis will pay half. Upon payment, Toolscrap will say that he'll send th
 
 The following are brief descriptions of guards, which all use the same Manor Guard statblock in [[Appendix A]].
 
-**Jasmine Ravenshore.** An athletic brunette with a warm smile and a kind heart.
-
 **Grott Haggard.** A strong dwarf with green eyes and a ginger beard.
+
+**Jasmine Ravenshore.** An athletic brunette with a warm smile and a kind heart.
 
 **Felter Heatherleaf.** A quick elf with short-cut hair and a good eye for trouble.
 
