@@ -16,7 +16,9 @@ The PC should start at 1st level, and their background should contain a reason f
 
 > Your great-aunt, Helena, was the last of the Silentspire line. You barely knew her, but you were the only family she had left.
 
-Additionally, building a character with a high Charisma score is recommended, with proficiency in the Persuasion skill, if possible. A Bard, Paladin, Sorcerer, or Warlock will do nicely.
+Additionally, building a character with a high Charisma score is recommended, with proficiency in the Persuasion skill, if possible. A Bard, Paladin, Sorcerer, or Warlock will do nicely. 
+
+Urge the Player to build a friendly character that wouldn't be paranoid or too suspicious of others, as this adventure series will quickly fall apart if the PC attacks every new person they meet. Explain to them that this campaign thrives on personal connections and non-violent solutions to problems.
 
 ## A New Home
 The PC in this adventure has just inherited Silentspire Manor. It is up to them to bring it back to its former glory, as right now it's in a horribly neglected state. You can read out loud the following description for the Player.
