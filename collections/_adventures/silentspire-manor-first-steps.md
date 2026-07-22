@@ -310,9 +310,10 @@ After the fight, Shael will use her remaining uses of cure wounds to heal up any
 
 > Shael walks around the garden, muttering words in a language you don't understand and weaving intricate shapes with her fingers, which leave green and yellow trails of dust the fades away instantly. This doesn't seem to have any effect yet, as she explained that this kind of magic takes time. You decide that it's best to leave her to do her thing without interrupting her.
 
+# Conclusion 
 The next day, the Player wakes up and see a beautiful, lively garden from their bedroom window.
 
-> You look out the window, and for a moment you wonder if you're still dreaming. But no, this is real. The grass has a vibrant green color, there are flowers blooming everywhere, the trees are full of life, and you see dragonflies and butterflies and bees buzzing through the flora.
+> You look out the window, and for a moment you wonder if you're still dreaming. But no, this is real. The grass has a vibrant green color, there are flowers blooming everywhere, the trees are full of life, and you see dragonflies and butterflies and bees buzzing through the flora. You can smell something already cooking in the kitchen, and you make your way to the dining room. As you see Tallis, Simon, Shael, and the guards all sitting at the table, chatting and laughing together, you finally feel at home.
 
 *As they have successfully turned the manor into a living, breathing place and protected their home, this would be a good time to level up the PC to 3rd level.*
 
