@@ -166,7 +166,7 @@ Upon speaking with the dwarf, the PC will learn that his name is Earnest Grunge 
 
 Speaking with Myranda, she will say that she doesn't need any wine because she runs a meadery. She will appreciate the offer though, and will give the PC and Simon a free sample of mead, if they want a taste. Simon will definitely take her up on that offer.
 
-*Mead, or "honey wine," tastes a lot like a floral white wine with hints of honey. This one is dry, crisp, and soft.*
+Mead, or "honey wine," tastes a lot like a floral white wine with hints of honey. This one is dry, crisp, and soft.
 
 ## An Unexpected Guest
 When the PC and Simon eventually return to the manor, at around midday, they will find someone waiting at the gate.
@@ -258,7 +258,17 @@ If the player takes the headband off, Tallis will intervene, saying that it's no
 
 Again, Tallis will pay half. Upon payment, Toolscrap will say that he'll send the mercenaries to the manor and they should arrive by late afternoon.
 
-The following are brief descriptions of guards, which all use the same Manor Guard statblock in [[Appendix A]].
+## Three Old Ladies 
+When the PC and Tallis return to the manor, they will see three ugly, old ladies standing at the gate. 
+
+> You see three hideous old ladies standing in front of the front gate of the manor, talking amongst themselves. One is wearing a dark green dress, another is wearing red, and the third is wearing purple. As you approach them, they smile at you with missing teeth and moles on their cheeks. "Oh, hello!" says the one in purple.
+>
+> "We saw the post on the missives board and wanted to say hello," says the one in green.
+>
+> "Helena was a dear friend," says the one in red.
+
+## Scanning the Perimeter
+The following are brief descriptions of the guards that arrive in the late afternoon, which all use the same Manor Guard statblock in [[Appendix A]].
 
 **Grott Haggard.** A strong dwarf with green eyes and a ginger beard.
 
@@ -268,7 +278,6 @@ The following are brief descriptions of guards, which all use the same Manor Gua
 
 **Riss Muj'dal.** A dark skinned man from the deserts of Cortenmaas.
 
-## Scanning the Perimeter
 After the guards arrive and introduce themselves, they will begin securing the area. 
 
 ### Finding Shael
