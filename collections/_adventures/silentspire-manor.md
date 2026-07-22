@@ -88,7 +88,7 @@ If the player is friendly towards her, Shael will introduce herself and reveal t
 
 If the Player wants her to make the garden beautiful, she will cast Plant Growth over 8 hours to enrich the garden and bring the plants back to life. 
 
-If the player attacks her, she will cast Plant Growth as an action, making the entire garden overgrown. Then she will use her Tree Stride trait to leave quickly and flee.
+If the player attacks her, she will cast Plant Growth as an action, making the entire garden overgrown. Then she will use her Tree Stride trait to leave quickly and flee. The garden will permanently be heavy difficult terrain (requiring 4 feet of movement for every 1 foot).
 
 ## Pest Control
 Back in the entrance, when the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around, it and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a *Potion of Healing* which he found in the library.
@@ -285,7 +285,11 @@ One of the guards will call for help from behind the building. The guard will be
 
 Have the player make a DC 10 Intelligence (Nature) check. On success, they realize that Fire damage will kill the tree and the shrubs more quickly than other physical attacks.
 
-Everyone except Simon and Krogg will join this fight. Tallis's fire bolt (his only offensive spell) will be very potent here, as all of enemies are vulnerable to Fire damage, and he will focus on attacking the giant tree. Shael will cast Barkskin and Shillelagh before the fight and attack the shrubs with her club, staying as far from the tree as possible unless it is the only enemy left. The guards will finish off the shrubs before focusing on the tree.
+Everyone except Simon and Krogg will join this fight. Tallis's fire bolt (his only offensive spell) will be very potent here, as all of enemies are vulnerable to Fire damage, and he will focus on attacking the giant tree. Shael will cast Barkskin and Shillelagh before the fight and attack the shrubs with her club, staying as far from the tree as possible unless it is the only enemy left, and risking opportunity attacks to use Cure Wounds if anyone goes down. The guards will finish off the shrubs before focusing on the tree.
+
+To make the fight more engaging for a new Player while keeping it simple, have them roll the attacks and damage for their allies, while you decide on how each ally acts. With an experienced player who wants more presence in the battlefield, you can let them fully control the actions of their allies. Have all the shrubs acting at the same time in initiative order, while the tree has it's own separate turn. Similarly, have all the guards acting at the same time while Tallis and Shael have their own turns.
+
+After the fight, Shael will use her remaining uses of cure wounds to heal up anyone who needs it.
 
 *As they have successfully turned the manor into a living, breathing place and protected their home, this would be a good time to level up the PC to 3rd level.*
 
