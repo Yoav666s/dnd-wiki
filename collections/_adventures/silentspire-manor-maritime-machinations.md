@@ -3,7 +3,7 @@ title: "Silentspire Manor: Maritime Machinations"
 index:
   - silentspire-manor-maritime-machinations
 permalink: /adventures/silentspire-manor-maritime-machinations/
-excerpt: ""
+excerpt: "Tallis will inform the Player that he has been thinking about organizing a gala to celebrate the restoration of Silentspire Manor."
 wip: true
 ---
 This is an adventure meant for one Player and a DM (Dungeon Master). This style of play is called a Duet. It's the second adventure in the Silentspire Manor duet series, following the events of Silentspire Manor: First Steps.
@@ -12,9 +12,11 @@ This is an adventure meant for one Player and a DM (Dungeon Master). This style 
 The Player has inherited Silentspire Manor from their great-aunt Helena Silentspire. They have met Simon, an eccentric gnome, Shael, a little dryad, and Tallis, aunt Helena's grandson and the PC's cousin. They've hired a cook and some guards, fought a bunch of awakened shrubs and an awakened tree, and let Shael use her magic to restore the garden. The player should be at 3rd level by now.
 
 ## A Wholesome Breakfast
-The PC has just woken up and made their way to the dining area, meeting everyone (except Krogg who's in the kitchen). Tallis will inform the Player that he has been thinking about organizing a gala to celebrate the "new" Silentspire Manor.
+The PC has just woken up and made their way to the dining area, meeting everyone (except Krogg who's in the kitchen). Tallis will inform the Player that he has been thinking about organizing a gala to celebrate the restoration of Silentspire Manor.
 
-## The Gala
+[Organizing the gala]
+
+# The Gala
 
 
 # Appendix A
@@ -38,3 +40,5 @@ The following are brief descriptions of guards, which all use the same Manor Gua
 **Felter Heatherleaf.** A quick elf with short-cut hair and a good eye for trouble.
 
 **Riss Muj'dal.** A dark skinned man from the deserts of Cortenmaas.
+
+{% include monster_details.html index="sea-hag" %}
