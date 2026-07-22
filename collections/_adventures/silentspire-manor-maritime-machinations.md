@@ -48,3 +48,9 @@ The following are brief descriptions of guards, which all use the same Manor Gua
 {% include monster_details.html index="kaleena" %}
 
 {% include spell_details.html index="incontinence" %}
+
+# Appendix B
+
+[:adventures/silentspire-manor/interior:]
+
+[:adventures/silentspire-manor/interior/greyscale:]
