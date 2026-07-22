@@ -259,9 +259,9 @@ If the player takes the headband off, Tallis will intervene, saying that it's no
 Again, Tallis will pay half. Upon payment, Toolscrap will say that he'll send the mercenaries to the manor and they should arrive by late afternoon.
 
 ## Three Old Ladies 
-When the PC and Tallis return to the manor, they will see three ugly, old ladies standing at the gate. 
+When the PC and Tallis return to the manor, they will see three old ladies standing at the gate. 
 
-> You see three hideous old ladies standing in front of the front gate of the manor, talking amongst themselves. One is wearing a dark green dress, another is wearing red, and the third is wearing purple. As you approach them, they smile at you with missing teeth and moles on their cheeks. "Oh, hello!" says the one in purple.
+> You see three old ladies standing in front of the front gate of the manor, talking amongst themselves. One is wearing a dark green dress, another is wearing red, and the third is wearing purple. As you approach them, they smile at you with missing teeth and moles on their cheeks. "Oh, hello!" says the one in purple.
 >
 > "We saw the post on the missives board and wanted to say hello," says the one in green.
 >
@@ -273,7 +273,7 @@ They will introduce themselves. The one in red is Dorima, the one in purple is G
 - They'd love to stay for tea sometime, after the PC finishes renovating the manor.
 - They're in a bit of a hurry, as they have business to attend to. 
 
-Afterwards, they will leave. If the player doesn't realize that it doesn't make sense that they're in a hurry but stood by the front gate and waited for them, have them make a DC 10 Wisdom (Insight) check to realize it.
+Afterwards, they will leave. If the player realizes that it doesn't make sense that they're in a hurry but stood by the front gate and waited for them, have Tallis admit that it struck him as strange as well.
 
 ## Scanning the Perimeter
 The following are brief descriptions of the guards that arrive in the late afternoon, which all use the same Manor Guard statblock in [[Appendix A]].
