@@ -19,3 +19,13 @@ This is an adventure meant for one Player and a DM (Dungeon Master). This style 
 {% include monster_details.html index="krogg-stonefist" %}
 
 {% include monster_details.html index="manor-guard" %}
+
+The following are brief descriptions of guards, which all use the same Manor Guard statblock.
+
+**Grott Haggard.** A strong dwarf with green eyes and a ginger beard.
+
+**Jasmine Ravenshore.** An athletic brunette with a warm smile and a kind heart.
+
+**Felter Heatherleaf.** A quick elf with short-cut hair and a good eye for trouble.
+
+**Riss Muj'dal.** A dark skinned man from the deserts of Cortenmaas.
