@@ -293,6 +293,8 @@ One of the guards will call for help from behind the building.
 
 {% include monster_details.html index="manor-guard" %}
 
+{% include monster_details.html index="awakened-shrub" %}
+
 # Appendix B
 
 [:adventures/silentspire-manor/interior:]
