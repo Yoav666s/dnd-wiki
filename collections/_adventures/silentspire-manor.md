@@ -78,7 +78,7 @@ If the Player opens the three other bottles, they find the following.
 ### The Garden
 Simon will say that there's nothing to see in the garden, it's all wilted and dry. If the Player decides to fo there anyway, they hear something rustling in the bushes. Have the PC make a Wisdom (Perception) check, contested with Shael's Dexterity (Stealth) check. You can find her statblock in [[Appendix A]]. If the Player fails, tell them it must have been the wind. If they decide to investigate, ask for an Intelligence (Investigation) check contested by another Dexterity (Stealth) check from Shael. If the Player succeeds on either check, they find a little dryad named Shael in the bushes.
 
-> You see a beautiful little creature, an girl with green skin and big eyes that stare at you. Her ears are long and pointed, her hair is the color of chestnut, and she's wearing a dress made entirely of leaves. 
+> You see a beautiful little creature, an elvish-looking girl with green skin and big eyes that stare at you. Her ears are long and pointed, her hair is the color of chestnut, and she's wearing a dress made entirely of leaves. 
 
 If the player is friendly towards her, Shael will introduce herself and reveal the following things.
 
