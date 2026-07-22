@@ -277,7 +277,9 @@ If the Player hasn't met Shael yet, Grott will bring her to them not long after.
 > Grott walks up to you, dragging with him a little girl by the arm. "Boss, thought ya might wanna take a look at this one."
 
 ### Awakened Ambush
-One of the guards will call for help from behind the building. The guard will be surrounded by awakened shrubs, and there will be an awakened tree approaching him from 40 feet away.
+One of the guards will call for help from behind the building. The guard will be surrounded by awakened shrubs, and there will be an awakened tree approaching him from 60 feet away. The number of awakened shrubs will be twice the number of guards the player hired. You can find the awakened tree and the awakened shrub statblocks in Appendix A.
+
+Everyone except Simon and Krogg will join this fight. Tallis's fire bolt (his only offensive spell) will be very potent here, and he will focus on attacking the tree.
 
 # Appendix A
 
