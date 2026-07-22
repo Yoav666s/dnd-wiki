@@ -267,6 +267,8 @@ When the PC and Tallis return to the manor, they will see three ugly, old ladies
 >
 > "Helena was a dear friend," says the one in red.
 
+They will introduce themselves. The one in red is Dorima, the one in purple is Glinda, and the one in green is Kaleena.
+
 ## Scanning the Perimeter
 The following are brief descriptions of the guards that arrive in the late afternoon, which all use the same Manor Guard statblock in [[Appendix A]].
 
