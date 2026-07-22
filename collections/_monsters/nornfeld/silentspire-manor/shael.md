@@ -6,7 +6,7 @@ permalink: /monsters/shael/
 size: "Medium"
 type: "Fey"
 alignment: "Neutral"
-armor_class: "11 (Dex), 16 (Spell)"
+armor_class: "11 (Dex), 16 (Barkskin)"
 hit_points: "22 (5d8)"
 speed: "walk 30 ft."
 str_score: 10
@@ -37,9 +37,9 @@ actions: |
   
   At will: Druidcraft
   
-  3/day each: Barkskin, Entangle
+  3/day each: Barkskin, Cure Wounds
   
-  1/day each: Goodberry, Plant Growth
+  1/day each: Entangle, Goodberry, Plant Growth
 bonus_actions: |
   **Shillelagh.** Shael casts Shillelagh, using the same spellcasting ability as Spellcasting.
 excerpt: "Medium Fey, Neutral"
