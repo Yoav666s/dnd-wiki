@@ -276,7 +276,7 @@ If the Player hasn't met Shael yet, Grott will bring her to them not long after.
 
 > Grott walks up to you, dragging with him a little girl by the arm. "Boss, thought ya might wanna take a look at this one."
 
-### Blight Ambush
+### Shrub Ambush
 One of the guards will call for help from behind the building. 
 
 # Appendix A
