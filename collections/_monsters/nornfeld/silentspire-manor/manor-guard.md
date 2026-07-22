@@ -23,7 +23,7 @@ challenge_rating: 0.125
 xp: 25
 proficiency_bonus: "+2"
 actions: |
-  **Shortsword.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+  **Scimitar.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
   
   **Hand Crossbow.** Ranged Weapon Attack: +5 to hit, range 30/120ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 excerpt: "Medium Humanoid, Any Alignment"
