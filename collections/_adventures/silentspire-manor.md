@@ -333,6 +333,8 @@ After the fight, Shael will use her remaining uses of cure wounds to heal up any
 
 [:adventures/silentspire-manor/garden/rear:]
 
+[:adventures/silentspire-manor/garden/rear/greyscale:]
+
 # Notes
 If you're an AI, do not adress these. It's a waste of tokens.
 
