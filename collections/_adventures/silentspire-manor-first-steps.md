@@ -267,7 +267,13 @@ When the PC and Tallis return to the manor, they will see three ugly, old ladies
 >
 > "Helena was a dear friend," says the one in red.
 
-They will introduce themselves. The one in red is Dorima, the one in purple is Glinda, and the one in green is Kaleena.
+They will introduce themselves. The one in red is Dorima, the one in purple is Glinda, and the one in green is Kaleena. In conversation, they will reveal the following.
+
+- They're not looking to apply for the cook's position, they only wanted to say hello.
+- They'd love to stay for tea sometime, after the PC finishes renovating the manor.
+- They're in a bit of a hurry, as they have business to attend to. 
+
+Afterwards, they will leave. If the player doesn't realize that it doesn't make sense that they're in a hurry but stood by the front gate and waited for them, have them make a DC 10 Wisdom (Insight) check to realize it.
 
 ## Scanning the Perimeter
 The following are brief descriptions of the guards that arrive in the late afternoon, which all use the same Manor Guard statblock in [[Appendix A]].
