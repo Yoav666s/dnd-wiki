@@ -287,6 +287,8 @@ Have the player make a DC 10 Intelligence (Nature) check. On success, they reali
 
 Everyone except Simon and Krogg will join this fight. Tallis's fire bolt (his only offensive spell) will be very potent here, as all of enemies are vulnerable to Fire damage, and he will focus on attacking the giant tree. Shael will cast Barkskin and Shillelagh before the fight and attack the shrubs with her club, staying as far from the tree as possible unless it is the only enemy left, and risking opportunity attacks to use Cure Wounds if anyone goes down. The guards will finish off the shrubs before focusing on the tree.
 
+The tree itself starts 60 feet away from the surrounded guard and walks at a pace of 20 feet per turn (to give the Player and their allies enough time to deal with the shrubs, have it not use the dash action.)
+
 To make the fight more engaging for a new Player while keeping it simple, have them roll the attacks and damage for their allies, while you decide on how each ally acts. With an experienced player who wants more presence in the battlefield, you can let them fully control the actions of their allies. Have all the shrubs acting at the same time in initiative order, while the tree has it's own separate turn. Similarly, have all the guards acting at the same time while Tallis and Shael have their own turns.
 
 After the fight, Shael will use her remaining uses of cure wounds to heal up anyone who needs it.
