@@ -86,8 +86,6 @@ If the player is friendly towards her, Shael will introduce herself and reveal t
 - The wilted garden makes her sad. She can make it beautiful if the PC wants her to.
 - She's not looking for trouble, and she can leave if the PC doesn't want her here.
 
-If the Player wants her to make the garden beautiful, she will cast Plant Growth over 8 hours to enrich the garden and bring the plants back to life. 
-
 If the player attacks her, she will cast Plant Growth as an action, making the entire garden overgrown. Then she will use her Tree Stride trait to leave quickly and flee. The garden will permanently be heavy difficult terrain (requiring 4 feet of movement for every 1 foot).
 
 ## Pest Control
@@ -308,7 +306,13 @@ To make the fight more engaging for a new Player while keeping it simple, have t
 If the Player attempts to get closer to the tree, have Tallis and Shael warn them not to do that, as the tree will hit them very hard.
 
 #### After the Encounter
-After the fight, Shael will use her remaining uses of cure wounds to heal up anyone who needs it, and proceed to cast Plant Growth to revitalize the garden if she hadn't already.
+After the fight, Shael will use her remaining uses of cure wounds to heal up anyone who needs it, and proceed to cast Plant Growth over 8 hours to revitalize the garden.
+
+> Shael walks around the garden, muttering words in a language you don't understand and weaving intricate shapes with her fingers, which leave green and yellow trails of dust the fades away instantly. This doesn't seem to have any effect yet, as she explained that this kind of magic takes time. You decide that it's best to leave her to do her thing without interrupting her.
+
+The next day, the Player wakes up and see a beautiful, lively garden from their bedroom window.
+
+> You look out the window, and for a moment you wonder if you're still dreaming. But no, this is real. The grass has a vibrant green color, there are flowers blooming everywhere, the trees are full of life, and you see dragonflies and butterflies and bees buzzing through the flora.
 
 *As they have successfully turned the manor into a living, breathing place and protected their home, this would be a good time to level up the PC to 3rd level.*
 
