@@ -1,8 +1,8 @@
 ---
-title: "Silentspire Manor"
+title: "Silentspire Manor: First Steps"
 index:
-  - silentspire-manor
-permalink: /adventures/silentspire-manor/
+  - silentspire-manor-first-steps
+permalink: /adventures/silentspire-manor-first-steps/
 excerpt: "The PC in this adventure has just inherited Silentspire Manor."
 wip: false
 ---
