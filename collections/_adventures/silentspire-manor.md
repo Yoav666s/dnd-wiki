@@ -293,7 +293,7 @@ Tallis will use his Illusory Duplicate bonus action with his Illusory Army trait
 #### Shael
 Shael will cast Barkskin and Shillelagh before the fight, staying as far from the tree as possible. She will risk opportunity attacks to use Cure Wounds if anyone goes down, and will repeatedly cast Entangle on the area in front of the tree as it advances to slow it down while Tallis is striking it with Fire Bolt.
 
-#### Guards
+#### The Guards
 The guards will finish off the shrubs with their scimitars before focusing on the tree. They won't use their hand crossbows because the enemies are resistant to piercing damage.
 
 #### The Awakened Tree
