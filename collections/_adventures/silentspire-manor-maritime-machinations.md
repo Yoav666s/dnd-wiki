@@ -45,4 +45,6 @@ The following are brief descriptions of guards, which all use the same Manor Gua
 
 {% include monster_details.html index="glinda" %}
 
-{% include monster_details.html index="" %}
+{% include monster_details.html index="kaleena" %}
+
+{% include spell_details.html index="incontinence" %}
