@@ -49,7 +49,7 @@ Through dialogue with him, he will reveal the following things.
 - There’s a giant rat in the basement.
 
 ## House Tour
-If the PC is friendly towards Simon, he will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. But first, the Player will probably want a tour of the manor, the layout of which is detailed in [[Appendix B]]. The second floor is an array of ten small bedrooms, and the dining area is a large room with a long table with enough space for twenty people.
+The Player will probably want a tour of the manor, the layout of which is detailed in [[Appendix B]]. The second floor is an array of ten small bedrooms, and the dining area is a large room with a long table with enough space for twenty people.
 
 ### The Library 
 In the library and throughout the interior of the manor, the player will find a lot of books. Many of them recount the Last War and the victories of the empire, while others are fiction novels, alchemical recipes, guides for collecting herbs, and more. On the top shelf of one of the bookcases in the library, the player will see something glowing blue.
@@ -91,7 +91,7 @@ If the player is friendly towards her, Shael will introduce herself and reveal t
 If the player attacks her, she will cast Plant Growth as an action, making the entire garden overgrown. Then she will use her Tree Stride trait to leave quickly and flee. The garden will permanently be heavy difficult terrain (requiring 4 feet of movement for every 1 foot).
 
 ## Pest Control
-Back in the entrance, when the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around, it and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a *Potion of Healing* which he found in the library.
+Simon will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. When the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around, it and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a *Potion of Healing* which he found in the library.
 
 > You descend through the stairs down to the basement and reach a barred door. As you open it, a wave of nauseating stench hits your face. It smells like rot, acrid urine, and feces. The torch lights your way and the hall is full of barrels on both sides, going farther than you can see. As you continue forward, you see wheels of cheese stacked on top of one another, except for one on the floor which has been ravaged. You hear a screech from the darkness, and a giant rat barges into view. Roll initiative!
 
