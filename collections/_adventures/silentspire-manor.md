@@ -4,7 +4,7 @@ index:
   - silentspire-manor
 permalink: /adventures/silentspire-manor/
 excerpt: "The PC in this adventure has just inherited Silentspire Manor."
-wip: true
+wip: false
 ---
 This is a localized adventure, meant for one Player and a DM (Dungeon Master). This style of play is called a Duet.
 
