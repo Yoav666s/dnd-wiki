@@ -276,8 +276,8 @@ If the Player hasn't met Shael yet, Grott will bring her to them not long after.
 
 > Grott walks up to you, dragging with him a little girl by the arm. "Boss, thought ya might wanna take a look at this one."
 
-### Shrub Ambush
-One of the guards will call for help from behind the building. 
+### Awakened Ambush
+One of the guards will call for help from behind the building. The guard will be surrounded by awakened shrubs, and there will be an awakened tree approaching him from 40 feet away.
 
 # Appendix A
 
@@ -292,6 +292,8 @@ One of the guards will call for help from behind the building.
 {% include monster_details.html index="krogg-stonefist" %}
 
 {% include monster_details.html index="manor-guard" %}
+
+{% include monster_details.html index="awakened-tree" %}
 
 {% include monster_details.html index="awakened-shrub" %}
 
