@@ -281,7 +281,7 @@ If the Player just met her, Shael will not start casting Plant Growth until the 
 ### Awakened Ambush
 One of the guards will call for help from behind the building. The guard will be surrounded by awakened shrubs, and there will be an awakened tree approaching him from 60 feet away. The number of awakened shrubs will be twice the number of guards the player hired. You can find the awakened tree and the awakened shrub statblocks in Appendix A.
 
-> As you run towards the distressed call of the guard, you hear the creaking of wood. Behind the manor, you see X little shrubs trying to scratch the guard as he deflects their attacks with his scimitar, and a giant tree is approaching from farther away. Roll initiative!
+> As you run towards the distressed call of the guard, you hear the creaking of wood. Behind the manor, you see X little shrubs trying to scratch the guard as he deflects their attacks with his scimitar, and a menacing, giant tree is approaching from farther away. Roll initiative!
 
 Have the player make a DC 10 Intelligence (Nature) check. On success, they realize that Fire damage will kill the tree and the shrubs more quickly than other physical attacks.
 
