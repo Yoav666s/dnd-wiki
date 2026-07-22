@@ -300,7 +300,7 @@ The guards will finish off the shrubs with their scimitars before focusing on th
 The tree itself starts 60 feet away from the surrounded guard and walks at a pace of 20 feet per turn (to give the Player and their allies enough time to deal with the shrubs, have it not use the dash action). The tree can possibly deal a lot of damage with its slam attack, enough to bring anyone except Tallis to 0 Hit Points with one hit. Before the tree approaches the player or the guards, have it attack all of Tallis's illusions first, one by one.
 
 #### The Awakened Shrubs
-Have two groups of up to four shrubs surround each a different target and focus their attacks on them. Instead of rolling for damage, have each shrub that hits deal its average damage of 1 
+Have two groups of up to four shrubs each surround a different target and focus their attacks on them. Instead of rolling for damage, have each shrub that hits deal the average of 1 slashing damage.
 
 #### Running the Encounter
 To make the fight more engaging for a new Player while keeping it simple, have them roll the attacks and damage for their allies, while you decide on how each ally acts. With an experienced player who wants more presence in the battlefield, you can let them fully control the actions of their allies. Have all the shrubs act at the same time in initiative order, while the tree has it's own separate turn. Similarly, have all the guards act at the same time while Tallis and Shael have their own turns.
