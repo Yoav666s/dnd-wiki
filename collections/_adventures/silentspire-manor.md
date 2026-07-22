@@ -279,7 +279,9 @@ If the Player hasn't met Shael yet, Grott will bring her to them not long after.
 ### Awakened Ambush
 One of the guards will call for help from behind the building. The guard will be surrounded by awakened shrubs, and there will be an awakened tree approaching him from 60 feet away. The number of awakened shrubs will be twice the number of guards the player hired. You can find the awakened tree and the awakened shrub statblocks in Appendix A.
 
-Everyone except Simon and Krogg will join this fight. Tallis's fire bolt (his only offensive spell) will be very potent here, and he will focus on attacking the tree.
+> As you run towards the distressed call of the guard, you hear the creaking of wood. Behind the manor, you see X little shrubs trying to scratch the guard as he deflects their attacks with his shortsword, and a giant tree is approaching from farther away.
+
+Everyone except Simon and Krogg will join this fight. Tallis's fire bolt (his only offensive spell) will be very potent here, as all of enemies are vulnerable to Fire damage, and he will focus on attacking the giant tree. Shael will cast Barkskin and Shillelagh before the fight and attack with her club.
 
 # Appendix A
 
