@@ -25,6 +25,8 @@ proficiency_bonus: "+2"
 traits: |
   **Amphibious.** Glinda can breathe air and water.
   
+  **Coven Magic.** While within 30 feet of both Dorima and Kaleena, Glinda can cast one of the following spells, requiring no Material components, using the spell’s normal casting time, and using Intelligence as the spellcasting ability (spell save DC 11): Augury, Find Familiar, Identify, Locate Object, Scrying, or Unseen Servant. Glinda must finish a Long Rest before using this trait to cast that spell again.
+  
   **Horrific Appearance.** Any humanoid that starts its turn within 30 feet of Glinda and can see her true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if Glinda is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Glinda's Horrific Appearance for the next 24 hours.
   
   Unless the target is surprised or the revelation of Glinda's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against Glinda.
