@@ -9,7 +9,7 @@ wip: true
 This is a localized adventure, meant for one Player and a DM (Dungeon Master). This style of play is called a Duet.
 
 # Introduction
-The goal of this adventure is twofold. First, it’s meant to introduce D&D to a person who has no experience with it whatsoever, while still being fun and engaging for experienced players. Secondly, it aims to build a hub where the PC (Player Character) will return to after various adventures, accumulating NPCs along the way, and it can be anywhere in Durn, a high magic realm. For the purpose of simplicity, this module will assume that it takes place in Gullenshire, one of the port cities of Hoverncast. This module is designed to be used by the DM, and will bring the PC from 1st level to 3rd level.
+The goal of this adventure is twofold. First, it’s meant to introduce D&D to a person who has no experience with it whatsoever, while still being fun and engaging for experienced players. Secondly, it aims to build a hub where the PC (Player Character) will return to after various adventures, accumulating NPCs along the way, and it can be anywhere in Durn, a high magic realm. For the purpose of simplicity, this module will assume that it takes place in Gullenshire, one of the port cities of Hoverncast. This module is designed to be used by the DM, and will bring the PC from 1st level to 3rd level through milestone leveling.
 
 ## Character Building
 The PC should start at 1st level, and their background should contain a reason for them to have inherited a manor that has been neglected and abandoned over the years. It was once a beautiful place, but is now a sad reminder of what was. Whatever the background of the PC is, it should include the following part.
