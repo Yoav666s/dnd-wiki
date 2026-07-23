@@ -102,7 +102,7 @@ Simon will lead the PC to the basement and ask them to get rid of the giant rat.
 
 > You descend through the stairs down to the basement and reach a barred door. As you open it, a wave of nauseating stench hits your face. It smells like rot, acrid urine, and feces. The torch lights your way and the hall is full of barrels on both sides, going farther than you can see. As you continue forward, you see wheels of cheese stacked on top of one another, except for one on the floor which has been ravaged. You hear a screech from the darkness, and a giant rat barges into view. Roll initiative!
 
-You can find the statblock for the giant rat in [[Appendix A]]. If the PC goes unconscious during the fight, they wake up in the main hall next to Simon. He will explain that he listened to the fight and realized that the PC lost, so he snuck in while the rat was sleeping and dragged their unconscious body back up. Thankfully, the giant rat has just ravaged an entire wheel of cheese so it wasn't hungry.
+You can find the statblock for the giant rat in [[Appendix A]]. If the PC goes unconscious during the fight, they wake up in the main hall next to Simon. He will explain that he listened to the fight and realized that the PC lost, so he snuck in while the rat was sleeping and dragged their unconscious body back up. Thankfully, the giant rat has just ravaged an entire wheel of cheese so it wasn't hungry. The player will have 1 hit point. Let the player take a short rest and heal up using their hit dice.
 
 Once the player defeats the giant rat, there's more work to do. The rat has been trapped in the basement for gods know how long, and there's urine and feces everywhere. Simon will suggest that the player hires someone to clean it.
 
