@@ -67,7 +67,7 @@ Explain to the Player what attunement is and how it works, then you can let them
 > As you wear the headband, the sapphire glows yet brighter. You feel its energy coursing through you, filling your mind with greater understanding of nature, unlocking memories you have forgotten, providing you with insight about the weave, and deeper knowledge of the gods of this world. It's pleasantly warm against your forehead, and your mind feels sharper.
 
 #### Note to the DM
-Giving out a free, uncommon *Headband of Intellect* might seem powerful for a 1st level PC, but remember that this is a duet, and the Player is alone. Intelligence doesn't actually affect that much unless the Player picked an Intelligence-based class. Even then, it's only a +1 to their primary ability modifier, and shouldn't break the game.
+Giving out a free, uncommon *Headband of Intellect* might seem incredibly powerful for a 1st level PC, but remember that this is a duet, and the Player is alone. Intelligence doesn't affect too much unless the Player picked an Intelligence-based class; even then, it's a +4 on their primary ability modifier rather than a +3, and shouldn't break the bounded accuracy of the game.
 
 ### The Drawing Room
 > You enter a large dark room. Simon mutters an incantation and snaps his fingers, lighting the candles of a large chandelier in the center of it. You see two dusty red sofas next to the east wall, a hearth on the south wall, and a bar set at the north wall. "I don't spend a lot of time here," he says. "But I think the drinks here are still good."
