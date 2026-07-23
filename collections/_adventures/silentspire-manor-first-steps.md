@@ -309,7 +309,7 @@ One of the guards will call for help from behind the building. The guard will be
 
 > As you run towards the distressed call of the guard, you hear the creaking of wood. Behind the manor, you see X little shrubs trying to scratch the guard as he deflects their attacks with his scimitar, and a menacing, giant tree is approaching from farther away. Roll initiative!
 
-Have the player make a DC 10 Intelligence (Nature) check. On success, they realize that Fire damage will kill the tree and the shrubs more quickly than other physical attacks.
+Have the player make a DC 10 Intelligence (Nature) check. On success, they realize that Fire damage will kill the tree and the shrubs more quickly than other physical attacks. Also Piercing damage will be weaker than other damage types.
 
 Everyone except Simon and Krogg will join this fight.
 
