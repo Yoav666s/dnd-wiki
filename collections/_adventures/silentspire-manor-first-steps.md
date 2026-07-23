@@ -16,7 +16,7 @@ The PC should start at 1st level, and their background should contain a reason f
 
 > Your great-aunt, Helena, was the last of the Silentspire line. You barely knew her, but you were the only family she had left.
 
-Additionally, building a character with a high Charisma score is recommended, with proficiency in the Persuasion skill, if possible. A Bard, Paladin, Sorcerer, or Warlock will do nicely. 
+Additionally, building a character with a high Charisma score is recommended, with proficiency in the Persuasion skill, if possible. A Bard, Paladin, Sorcerer, or Warlock will do nicely.
 
 Urge the Player to build a friendly character that wouldn't be paranoid or too suspicious of others, as this adventure series will quickly fall apart if the PC attacks every new person they meet. Explain to them that this campaign thrives on personal connections and non-violent solutions to problems.
 
@@ -51,7 +51,7 @@ Through dialogue with him, he will reveal the following things.
 ## House Tour
 The Player will probably want a tour of the manor, the layout of which is detailed in [[Appendix B]]. The second floor is an array of ten small bedrooms, and the dining area is a large room with a long table with enough space for twenty people.
 
-### The Library 
+### The Library
 In the library and throughout the interior of the manor, the player will find a lot of books. Many of them recount the Last War and the victories of the empire, while others are fiction novels, alchemical recipes, guides for collecting herbs, and more. On the top shelf of one of the bookcases in the library, the player will see something glowing blue.
 
 > You find a small silver headband with a sapphire in the middle of it. The blue gem glows dimly in the dark library, and as you blow away the dust from it, it glows brighter. You feel its essence is magical, but you don't know what kind of magic this is.
@@ -80,7 +80,7 @@ If the Player opens the three other bottles, they find the following.
 ### The Garden
 Simon will say that there's nothing to see in the garden, it's all wilted and dry, and he could swear he saw some shrubs moving in the back. If the Player decides to go there anyway, have Simon heavily dissuade them from going to the rear. They hear something rustling in the bushes to the west, and Simon yelps, saying the shrubs are gaining on them. Have the PC make a Wisdom (Perception) check, contested with Shael's Dexterity (Stealth) check. You can find her statblock in [[Appendix A]]. If the Player fails, tell them it must have been the wind. If they decide to investigate, ask for an Intelligence (Investigation) check contested by another Dexterity (Stealth) check from Shael. If the Player succeeds on either check, they find a little dryad named Shael in the bushes.
 
-> You see a beautiful little creature, an elvish-looking girl with green skin and big eyes that stare at you. Her ears are long and pointed, her hair is the color of chestnut, and she's wearing a dress made entirely of leaves. 
+> You see a beautiful little creature, an elvish-looking girl with green skin and big eyes that stare at you. Her ears are long and pointed, her hair is the color of chestnut, and she's wearing a dress made entirely of leaves.
 
 If the player is friendly towards her, Shael will introduce herself and reveal the following things.
 
@@ -258,20 +258,20 @@ If the player takes the headband off, Tallis will intervene, saying that it's no
 
 Again, Tallis will pay half. Upon payment, Toolscrap will say that he'll send the mercenaries to the manor and they should arrive by late afternoon.
 
-## Three Old Ladies 
-When the PC and Tallis return to the manor, they will see three old ladies standing at the gate. 
+## Three Old Ladies
+When the PC and Tallis return to the manor, they will see three old ladies standing at the gate.
 
 > You see three old ladies standing in front of the front gate of the manor, talking amongst themselves. One is wearing a dark green dress, another is wearing red, and the third is wearing purple. As you approach them, they smile at you with missing teeth and moles on their cheeks. "Oh, hello!" says the one in purple.
 >
 > "We saw the post on the missives board and wanted to say hello," says the one in green.
 >
-> "Helena was a dear friend," says the one in red.
+> "Helena was a dear friend," says the one in blue.
 
-They will introduce themselves. The one in red is Dorima, the one in purple is Glinda, and the one in green is Kaleena. In conversation, they will reveal the following.
+They will introduce themselves. The one in green is Mathilda, the one in purple is Glinda, and the one in blue is Agatha. In conversation, they will reveal the following.
 
 - They're not looking to apply for the cook's position, they only wanted to say hello.
 - They'd love to stay for tea sometime, after the PC finishes renovating the manor.
-- They're in a bit of a hurry, as they have business to attend to. 
+- They're in a bit of a hurry, as they have business to attend to.
 
 Afterwards, they will leave. If the player realizes that it doesn't make sense that they're in a hurry but stood by the front gate and waited for them, have Tallis admit that it struck him as strange as well.
 
@@ -286,7 +286,7 @@ The following are brief descriptions of the guards that arrive in the late after
 
 **Riss Muj'dal.** A dark skinned man from the deserts of Cortenmaas.
 
-After the guards arrive and introduce themselves, they will begin securing the area. 
+After the guards arrive and introduce themselves, they will begin securing the area.
 
 ### Finding Shael
 If the Player hasn't met Shael yet, Grott will bring her to them not long after. See [[The Garden]] for information about the interaction with her and her physical description.
@@ -329,7 +329,7 @@ After the fight, Shael will use her remaining uses of cure wounds to heal up any
 
 > Shael walks around the garden, muttering words in a language you don't understand and weaving intricate shapes with her fingers, which leave green and yellow trails of dust the fades away instantly. This doesn't seem to have any effect yet, as she explained that this kind of magic takes time. You decide that it's best to leave her to do her thing without interrupting her.
 
-# Conclusion 
+# Conclusion
 The next day, the Player wakes up and see a beautiful, lively garden from their bedroom window.
 
 > You look out the window, and for a moment you wonder if you're still dreaming. But no, this is real. The grass has a vibrant green color, there are flowers blooming everywhere, the trees are full of life, and you see dragonflies and butterflies and bees buzzing through the flora. You can smell something already cooking in the kitchen, and you make your way to the dining room. As you see Tallis, Simon, Shael, and the guards all sitting at the table, chatting and laughing together, you finally feel at home.
