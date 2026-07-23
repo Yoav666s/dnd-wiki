@@ -80,7 +80,7 @@ If the Player opens the three other bottles, they find the following.
 
 **Qrim.** A brown dwarvish beverage made of distilled malt water.
 
-**Tyll.** A sweet yellow liquor made from peaches, also elvish. This one turned to vinegar.
+**Tyll.** A sweet yellow liquor made from peaches, also elvish. This one has turned to vinegar.
 
 ### The Garden
 Simon will say that there's nothing to see in the garden, it's all wilted and dry, and he could swear he saw some shrubs moving in the back. If the Player decides to go there anyway, have Simon heavily dissuade them from going to the rear. If they do go there, nothing will move, making Simon seem a little paranoid.
