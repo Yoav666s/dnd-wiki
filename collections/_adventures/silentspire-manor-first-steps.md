@@ -139,7 +139,7 @@ The other rooms are dusty and neglected, but shouldn't be too difficult to clean
 ## Selling the Wine
 > As you walk with Simon through the streets of Gullenshire, you smell the salty air of the nearby coast and the fish sold on various stalls. The cobble streets are laced with sand between the cracks and the people are dressed for the hot sun. The sky is clear and the streets are bustling with sailors, deckhands, and commoners.
 
-There are three Taverns in Gullenshire: The Thirsty Deckhand, Grunge's Bucketfuls, and Myranda's Meadery. Don't worry about the economy breaking, as only Drestor Hullenside, the owner of The Thirsty Deckhand, will want to buy 3~6 (1d4 + 2) barrels of wine every two weeks.
+There are three Taverns in Gullenshire: The Thirsty Deckhand, Grunge's Bucketfuls, and Myranda's Meadery. Don't worry about the economy of the game breaking from 120 barrels of wine, as only Drestor Hullenside, the owner of The Thirsty Deckhand, will want to buy 3~6 barrels of wine every two weeks.
 
 ### The Thirsty Deckhand
 > You walk into a luxurious tavern with cobble walls and a clean wooden floor. The patrons are elegant, dressed in fine clothes and speaking politely amongst themselves. The air is filled with the aroma of fine wine and homemade broth, with hints of grilled meat. You are approached by a beautiful half-elf serving girl, with flowing brown hair and rosy cheeks. "Welcome to The Thirsty Deckhand! How can I help you?"
