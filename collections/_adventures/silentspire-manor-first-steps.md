@@ -270,7 +270,7 @@ Again, Tallis will pay half. Upon payment, Toolscrap will say that he'll send th
 ## Three Old Ladies
 When the PC and Tallis return to the manor, they will see three old ladies standing at the gate.
 
-> You see three old ladies standing in front of the front gate of the manor, talking amongst themselves. One is wearing a dark green dress, another is wearing red, and the third is wearing purple. As you approach them, they smile at you with missing teeth and moles on their cheeks. "Oh, hello!" says the one in purple.
+> You see three old ladies standing in front of the front gate of the manor, talking amongst themselves. One is wearing a dark green dress, another is wearing blue, and the third is wearing purple. As you approach them, they smile at you with missing teeth and moles on their cheeks. "Oh, hello!" says the one in purple.
 >
 > "We saw the post on the missives board and wanted to say hello," says the one in green.
 >
