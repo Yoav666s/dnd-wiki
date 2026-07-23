@@ -5,13 +5,12 @@ index:
 permalink: /spells/power-word-delirium/
 tags:
   - Spell
-level: "9th Level"
+level: "7th Level"
 school: "Enchantment"
 range: "60 ft"
 comp:
   - V
 duration: "Instantaneous"
-concentration: true
 cast_time: "1 Action"
 ritual: false
 description: |
