@@ -14,6 +14,8 @@ The Player has inherited Silentspire Manor from their great-aunt Helena Silentsp
 ## A Wholesome Breakfast
 The PC has just woken up and made their way to the dining area, meeting everyone (except Krogg who's in the kitchen). Tallis will inform the Player that he has been thinking about organizing a gala to celebrate the restoration of Silentspire Manor.
 
+Shael will say that it's strange that there were awakened trees in the garden. She knows this kind of magic, someone bad must have awakened them, considering how quickly they attacked them.
+
 [Organizing the gala]
 
 # The Gala
