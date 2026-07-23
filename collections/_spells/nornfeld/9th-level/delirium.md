@@ -5,7 +5,7 @@ index:
 permalink: /spells/power-word-delirium/
 tags:
   - Spell
-level: "7th Level"
+level: "9th Level"
 school: "Enchantment"
 range: "60 ft"
 comp:
@@ -14,7 +14,7 @@ duration: "Instantaneous"
 cast_time: "1 Action"
 ritual: false
 description: |
-  You utter a word of power that can derail the mind of one creature you can see within range. If the creature you choose has 100 hit points or fewer, it suffers from delirium. Otherwise, the spell has no effect.
+  You utter a word of power that can derail the mind of one creature you can see within range. If the creature you choose has 150 hit points or fewer, it suffers from delirium. Otherwise, the spell has no effect.
   
   While the target is affected by delirium, it suffers from the following.
   
