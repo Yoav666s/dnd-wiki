@@ -134,7 +134,7 @@ If the Player decides to hire someone to clean the basement, they can head to th
 After hours of labor, the day is nearly over. The main bedroom was kept fairly clean except for some dust on the shelves. Simon will agree to sleep in one of the smaller bedrooms upstairs, even though he is used to sleeping the big one. If the cleaning process takes longer than one day, there's no real reason to roleplay it unless the Player wants to. Nothing exciting will happen. Feel free to describe it briefly and move on to the next part.
 
 ### Cleaning the Rest of the Interior
-The other rooms are dusty and neglected, but shouldn't be too difficult to clean. It would take an extra 1d4 hours to clean the rest of the interior with the Prestidigitation cantrip.
+The other rooms are dusty and neglected, but shouldn't be too difficult to clean. It would take an extra 1d4 hours to clean the rest of the interior with the Prestidigitation cantrip or by mundane means.
 
 ## Selling the Wine
 > As you walk with Simon through the streets of Gullenshire, you smell the salty air of the nearby coast and the fish sold on various stalls. The cobble streets are laced with sand between the cracks and the people are dressed for the hot sun. The sky is clear and the streets are bustling with sailors, deckhands, and commoners.
