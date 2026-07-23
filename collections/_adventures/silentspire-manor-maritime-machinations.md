@@ -43,11 +43,11 @@ The following are brief descriptions of guards, which all use the same Manor Gua
 
 **Riss Muj'dal.** A dark skinned man from the deserts of Cortenmaas.
 
-{% include monster_details.html index="mathilda" %}
+{% include monster_details.html index="agatha" %}
 
 {% include monster_details.html index="glinda" %}
 
-{% include monster_details.html index="agatha" %}
+{% include monster_details.html index="mathilda" %}
 
 {% include spell_details.html index="incontinence" %}
 
