@@ -6,7 +6,7 @@ permalink: /adventures/silentspire-manor-first-steps/
 excerpt: "The PC in this adventure has just inherited Silentspire Manor."
 wip: false
 ---
-This is a localized adventure, meant for one PC (Player Character) and a DM (Dungeon Master). This style of play is called a Duet. It's the first adventure in the Silentspire Manor duet series.
+This is adventure is meant for one PC (Player Character) and a DM (Dungeon Master). This style of play is called a Duet. It's the first adventure in the Silentspire Manor duet series.
 
 # Introduction
 The goal of this adventure is twofold. First, it’s meant to introduce D&D to a person who has no experience with it whatsoever, while still being fun and engaging for experienced players. Secondly, it aims to build a hub where the PC will return to after various adventures, accumulating NPCs along the way, and it can be anywhere in Durn, a high magic realm. For the purpose of simplicity, this module will assume that it takes place in Gullenshire, one of the port cities of Hoverncast.
