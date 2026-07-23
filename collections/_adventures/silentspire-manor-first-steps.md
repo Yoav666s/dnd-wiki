@@ -146,7 +146,7 @@ There are three Taverns in Gullenshire: The Thirsty Deckhand, Grunge's Bucketful
 
 Upon asking to see the manager with an offer to sell wine, the serving girl, Alanda, will lead the PC and Simon upstairs to a small room down the hall. There they will find Drestor Hullenside, a fine-looking drow with short white hair and red eyes.
 
-Upon discovering the Player's intentions, Drestor will initially offer to buy 3 (1d4 + 2) barrels for 10 GP each. Ask the Player to make a DC 10 Wisdom (Insight) check. On success, they realize that a barrel is worth at the very least 15 GP. If the total rolled is 17 or higher, the PC realized they could push it to 20 GP per barrel. If the Player fails the check, Simon will whisper to the PC that they should ask for 13 GP per barrel.
+Upon discovering the Player's intentions, Drestor will initially offer to buy 4 (1d4 + 2) barrels for 10 GP each. Ask the Player to make a DC 10 Wisdom (Insight) check. On success, they realize that a barrel is worth at the very least 15 GP. If the total rolled is 17 or higher, the PC realized they could push it to 20 GP per barrel. If the Player fails the check, Simon will whisper to the PC that they should ask for 13 GP per barrel.
 
 If the price the Player sets is higher than 10 GP, Drestor will not budge so easily. Ask for a Charisma (Persuasion) check and consult the following table. Drestor will agree to the maximum price or the price the Player set, whichever is lower.
 
