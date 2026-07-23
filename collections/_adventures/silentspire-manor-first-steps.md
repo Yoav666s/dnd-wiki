@@ -277,7 +277,7 @@ They will introduce themselves. The one in green is Mathilda, the one in purple 
 - They'd love to stay for tea sometime, after the PC finishes renovating the manor.
 - They're in a bit of a hurry, as they have business to attend to.
 
-If the PC is wearing the *Headband of Intellect*, have them roll a DC 15 Wisdom (Insight) check. On success they notice Glinda looking above their eyes while talking to them. The old ladies will not comment on the headband.
+If the PC is wearing the *Headband of Intellect*, have them roll a DC 15 Wisdom (Insight) check. On success they notice Glinda looking above their eyes while talking to them. On a total of 20 or higher, the PC will understand that she was looking at the headband. The old ladies will not comment on the headband.
 
 Afterwards, they will leave. If the Player realizes that it doesn't make sense that they're in a hurry but stood by the front gate and waited for them, have Tallis admit that it struck him as strange as well.
 
