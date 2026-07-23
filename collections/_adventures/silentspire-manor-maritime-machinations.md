@@ -9,7 +9,7 @@ wip: true
 This adventure is meant for one PC (Player Character) and a DM (Dungeon Master). This style of play is called a Duet. It's the second adventure in the Silentspire Manor duet series, following the events of Silentspire Manor: First Steps.
 
 # Introduction
-The Player has inherited Silentspire Manor from their great-aunt Helena Silentspire. They have met Simon, an eccentric gnome, Shael, a little dryad, and Tallis, aunt Helena's grandson and the PC's cousin. They've hired a cook and some guards, fought a bunch of awakened shrubs and an awakened tree, and let Shael use her magic to restore the garden. The player should be at 3rd level by now.
+The Player has inherited Silentspire Manor from their great-aunt Helena Silentspire. They have met Simon, an eccentric gnome, Shael, a little dryad, and Tallis, aunt Helena's grandson and the PC's cousin. They've hired a cook and some guards, fought a bunch of awakened shrubs and an awakened tree, and let Shael use her magic to restore the garden. The player should be freshly at 3rd level by now.
 
 ## A Wholesome Breakfast
 The PC has just woken up and made their way to the dining area, meeting everyone (except Krogg who's in the kitchen). Tallis will inform the Player that he has been thinking about organizing a gala to celebrate the restoration of Silentspire Manor.
