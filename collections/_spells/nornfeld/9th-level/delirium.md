@@ -1,8 +1,8 @@
 ---
-title: "Delirium"
+title: "Power Word: Delirium"
 index:
-  - delirium
-permalink: /spells/delirium/
+  - power-word-delirium
+permalink: /spells/power-word-delirium/
 tags:
   - Spell
 level: "9th Level"
@@ -25,7 +25,7 @@ description: |
   - The target has disadvantage on Intelligence checks
   - The target can't speak or write clearly, nor provide Verbal components for spells
   - The target doesn't understand any spoken or written language
-  - The target can't take any of its actions to attack
+  - The target can't make attacks
 
   If you concentrate on this spell for the full duration, it lasts until dispelled. A greater restoration, heal, or wish spell cast on the target ends the effects of this spell.
 excerpt: "One humanoid you choose must succeed on an Intelligence saving throw or become delirious for the duration."
