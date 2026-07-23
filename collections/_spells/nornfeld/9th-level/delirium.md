@@ -10,20 +10,22 @@ school: "Enchantment"
 range: "60 ft"
 comp:
   - V
-duration: "10 Minutes"
+duration: "Instantaneous"
 concentration: true
 cast_time: "1 Action"
 ritual: false
 description: |
-  You utter a word of power that can derail the mind of one creature you can see within range. If the creature you choose has 100 hit points or fewer, it suffers from the following for the duration. Otherwise, the spell has no effect.
+  You utter a word of power that can derail the mind of one creature you can see within range. If the creature you choose has 100 hit points or fewer, it suffers from delirium. Otherwise, the spell has no effect.
   
-  - The target doesn't know where or who it is
+  While the target is affected by delirium, it suffers from the following.
+  
+  - The target doesn't know where or who it is, and isn't hostile towards anyone
   - The target has disadvantage on Intelligence checks
   - The target can't speak or write clearly, nor provide Verbal components for spells
   - The target doesn't understand any spoken or written language
   - The target can't make attacks
 
-  If you concentrate on this spell for the full duration, it lasts until dispelled. A greater restoration, heal, or wish spell cast on the target ends the effects of this spell.
+  A greater restoration, heal, or wish spell cast on the target ends the effects of this spell.
 excerpt: "You utter a word of power that can derail the mind of one creature you can see within range."
 source: "Fillumir's Guide to the Feywild"
 # header:
