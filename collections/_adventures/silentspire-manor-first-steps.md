@@ -329,14 +329,14 @@ The tree itself starts 60 feet away from the surrounded guard and walks at a pac
 Have two groups of up to four shrubs each surround a different target and focus their attacks on them. Instead of rolling for damage, have each shrub that hits deal the average of 1 Slashing damage.
 
 #### Running the Encounter
-To make the fight more engaging for a new Player while keeping it simple, have them roll the attacks and damage for their allies, while you decide on how each ally acts. With an experienced player who wants more presence in the battlefield, you can let them fully control the actions of their allies. Have all the shrubs act at the same time in initiative order, while the tree has it's own separate turn. Similarly, have all the guards act at the same time while Tallis and Shael have their own turns.
+To make the fight more engaging for a new Player while keeping it simple, have them roll the attacks and damage for their allies, while you decide on how each ally acts. With an experienced player who wants more presence on the battlefield, you can let them fully control the actions of their allies. Have all the shrubs act at the same time in initiative order, while the tree has it's own separate turn. Similarly, have all the guards act at the same time while Tallis and Shael have their own turns.
 
 If the Player attempts to get closer to the tree, have Tallis and Shael warn them not to do that, as the tree will hit them very hard.
 
 #### After the Encounter
 After the fight, Shael will use her remaining uses of cure wounds to heal up anyone who needs it, and proceed to cast Plant Growth over 8 hours to revitalize the garden.
 
-> Shael walks around the garden, muttering words in a language you don't understand and weaving intricate shapes with her fingers, which leave green and yellow trails of dust the fades away instantly. This doesn't seem to have any effect yet, as she explained that this kind of magic takes time. You decide that it's best to leave her to do her thing without interrupting her.
+> Shael walks around the garden, muttering words in a language you don't understand and weaving intricate shapes with her fingers, which leave green and yellow trails of dust that fades away instantly. This doesn't seem to have any effect yet, as she explained that this kind of magic takes time. You decide that it's best to leave her to do her thing without interrupting her.
 
 # Conclusion
 The next day, the Player wakes up and see a beautiful, lively garden from their bedroom window.
