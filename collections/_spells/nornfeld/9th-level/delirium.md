@@ -22,7 +22,7 @@ description: |
   - The target has disadvantage on Intelligence checks and Intelligence saving throws.
   - The target can't speak or write clearly, nor provide Verbal components for spells.
   - The target doesn't understand any spoken or written language.
-  - The target cannot take actions, bonus actions, or reactions that deal damage, force saving throws, or harm another creature unless the target is attacked.
+  - The target cannot take actions, bonus actions, or reactions that deal damage, force saving throws, or harm another creature unless the target takes damage.
 
   A greater restoration, heal, or wish spell cast on the target ends the effects of this spell.
 excerpt: "You utter a word of power that can derail the mind of one creature you can see within range."
