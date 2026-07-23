@@ -27,7 +27,7 @@ The PC in this adventure has just inherited Silentspire Manor. It is up to them 
 
 > You approach the gate, which is rusty and overtaken with vines. There is a sigil depicting a peacock in the middle of it, the symbol of the Silentspire family. You unlock the gate with the key you were given, and the mechanism clicks loudly. The corroded gate gives out a creak as you push it open with effort.
 
-As the PC attempts to open the gate, you can ask for a DC 7 Strength check. If they fail, consult the following table for another DC 7 check.
+As the PC attempts to open the gate, you can ask for a DC 7 Strength check. If they fail, consult the following table for another DC 7 check. If the Player comes up with a creative solution which is not in this table, have the DC be 7 as well.
 
 | Check | Description |
 | :---: | :---- |
