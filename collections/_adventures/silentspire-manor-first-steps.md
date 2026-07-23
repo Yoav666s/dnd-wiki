@@ -200,7 +200,7 @@ If the Player will let him, Tallis comes inside, taking a look at the state of t
 >
 > "Right this way." Tallis leads the men through gate as they carry the goods to the manor kitchen. As they finish, he hands the driver a small coin pouch.
 
-Tallis tells the PC that they should find a cook. Or alternatively, help a cook find *them*. There's a missives board in the city square where they could post that they're looking for a cook to join their family, offering free lodging and a well paid position. While Simon goes to post the paper on the missives board, Tallis offers that they try to make some jacket potatoes with olive oil and cheese.
+Tallis tells the PC that they should find a cook. Or alternatively, help a cook find *them*. There's a missives board in the city square where they could post that they're looking for a cook to join their family, offering free lodging and a well paid position. While Simon goes to post the paper on the missives board, Tallis offers to make some jacket potatoes with olive oil and cheese.
 
 ## A Deal is a Deal
 When it gets dark, Simon will note that they should go outside and wait for Drestor's men if they made a deal with him. After ten minutes or so, a carriage arrives.
