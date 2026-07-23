@@ -275,7 +275,9 @@ They will introduce themselves. The one in green is Mathilda, the one in purple 
 - They'd love to stay for tea sometime, after the PC finishes renovating the manor.
 - They're in a bit of a hurry, as they have business to attend to.
 
-Afterwards, they will leave. If the player realizes that it doesn't make sense that they're in a hurry but stood by the front gate and waited for them, have Tallis admit that it struck him as strange as well.
+If the PC is wearing the *Headband of Intellect*, have them roll a DC 15 Wisdom (Insight) check. On success they notice Glinda looking above their eyes while talking to them. The old ladies will not comment on the headband.
+
+Afterwards, they will leave. If the Player realizes that it doesn't make sense that they're in a hurry but stood by the front gate and waited for them, have Tallis admit that it struck him as strange as well.
 
 ## Scanning the Perimeter
 The following are brief descriptions of the guards that arrive in the late afternoon, which all use the same Manor Guard statblock in [[Appendix A]].
