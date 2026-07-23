@@ -25,7 +25,7 @@ proficiency_bonus: "+2"
 traits: |
   **Amphibious.** Agatha can breathe air and water.
   
-  **Coven Magic.** While within 30 feet of both Mathilda and Glinda, Agatha can cast one of the following spells, requiring no Material components, using the spell’s normal casting time, and using Intelligence as the spellcasting ability (spell attack bonus +3 and spell save DC 11): Bane, Command, Dream, Fog Cloud, Moonbeam, or Witch Bolt. Agatha must finish a Long Rest before using this trait to cast that spell again.
+  **Coven Magic.** While within 30 feet of both Mathilda and Glinda, Agatha can cast one of the following spells, requiring no Material components, using the spell’s normal casting time, and using Intelligence as the spellcasting ability (spell attack bonus +3 and spell save DC 11): Bane, Command, Dream, Fog Cloud, Momentary Madness, or Witch Bolt. Agatha must finish a Long Rest before using this trait to cast that spell again.
   
   **Horrific Appearance.** Any humanoid that starts its turn within 30 feet of Agatha and can see her true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if Agatha is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Agatha's Horrific Appearance for the next 24 hours.
   
