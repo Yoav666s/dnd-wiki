@@ -18,7 +18,7 @@ The PC should start at 1st level, and their background should contain a reason f
 
 Additionally, building a character with a high Charisma score is recommended, with proficiency in the Persuasion skill, if possible. A Bard, Paladin, Sorcerer, or Warlock will do nicely.
 
-Urge the Player to build a friendly character that wouldn't be paranoid or too suspicious of others, as this adventure series will quickly fall apart if the PC attacks every new person they meet. Explain to them that this campaign thrives on personal connections and non-violent solutions to problems.
+Urge the Player to build a friendly character that wouldn't be too suspicious of others, as this adventure series will quickly fall apart if the PC attacks every new person they meet. Explain to them that this campaign thrives on personal connections and non-violent solutions to problems.
 
 ## A New Home
 The PC in this adventure has just inherited Silentspire Manor. It is up to them to bring it back to its former glory, as right now it's in a horribly neglected state. You can read out loud the following description for the Player.
@@ -78,7 +78,7 @@ If the Player opens the three other bottles, they find the following.
 **Tyll.** A sweet yellow liquor made from peaches, also elvish. This one turned to vinegar.
 
 ### The Garden
-Simon will say that there's nothing to see in the garden, it's all wilted and dry, and he could swear he saw some shrubs moving in the back. If the Player decides to go there anyway, have Simon heavily dissuade them from going to the rear. They hear something rustling in the bushes to the west, and Simon yelps, saying the shrubs are gaining on them. Have the PC make a Wisdom (Perception) check, contested with Shael's Dexterity (Stealth) check. You can find her statblock in [[Appendix A]]. If the Player fails, tell them it must have been the wind. If they decide to investigate, ask for an Intelligence (Investigation) check contested by another Dexterity (Stealth) check from Shael. If the Player succeeds on either check, they find a little dryad named Shael in the bushes.
+Simon will say that there's nothing to see in the garden, it's all wilted and dry, and he could swear he saw some shrubs moving in the back. If the Player decides to go there anyway, have Simon heavily dissuade them from going to the rear. If they do go there, nothing will move, making Simon seem a little paranoid. They hear something rustling in the bushes to the west, and Simon yelps, saying the shrubs are gaining on them. Have the PC make a Wisdom (Perception) check, contested with Shael's Dexterity (Stealth) check. You can find her statblock in [[Appendix A]]. If the Player fails, tell them it must have been the wind. If they decide to investigate, ask for an Intelligence (Investigation) check contested by another Dexterity (Stealth) check from Shael. If the Player succeeds on either check, they find a little dryad named Shael in the bushes.
 
 > You see a beautiful little creature, an elvish-looking girl with green skin and big eyes that stare at you. Her ears are long and pointed, her hair is the color of chestnut, and she's wearing a dress made entirely of leaves.
 
