@@ -108,7 +108,7 @@ With a successful DC 5 Intelligence (Investigation) check, the Player will learn
 *As the introduction part is over, this would be a good time to level up the PC to 2nd level.*
 
 # In Wine There is Truth
-Upon discovering the hidden trove of aged wine, Simon will be excited. He will try to convince the PC to sell it to local taverns. But first things first--the basement needs to be cleaned.
+Upon discovering the hidden trove of aged wine, Simon will be excited. He will try to convince the PC to sell it to local taverns. But first things first---the basement needs to be cleaned.
 
 ## Hiring a Cleaner
 Before heading out to the city, Simon will use the Prestidigitation cantrip to clean himself. If the Player doesn't realize that Simon can use this cantrip to clean the basement, have them make a DC 7 Intelligence (Arcana) check to realize it.
@@ -134,14 +134,14 @@ The other rooms are dusty and neglected, but shouldn't be too difficult to clean
 ## Selling the Wine
 > As you walk with Simon through the streets of Gullenshire, you smell the salty air of the nearby coast and the fish sold on various stalls. The cobble streets are laced with sand between the cracks and the people are dressed for the hot sun. The sky is clear and the streets are bustling with sailors, deckhands, and commoners.
 
-There are three Taverns in Gullenshire: The Thirsty Deckhand, Grunge's Bucketfuls, and Myranda's Meadery. Only Drestor Hullenside, the owner of The Thirsty Deckhand will want to buy a few barrels of wine.
+There are three Taverns in Gullenshire: The Thirsty Deckhand, Grunge's Bucketfuls, and Myranda's Meadery. Don't worry about the economy breaking, as only Drestor Hullenside, the owner of The Thirsty Deckhand, will want to buy 3~6 (1d4 + 2) barrels of wine every two weeks.
 
 ### The Thirsty Deckhand
 > You walk into a luxurious tavern with cobble walls and a clean wooden floor. The patrons are elegant, dressed in fine clothes and speaking politely amongst themselves. The air is filled with the aroma of fine wine and homemade broth, with hints of grilled meat. You are approached by a beautiful half-elf serving girl, with flowing brown hair and rosy cheeks. "Welcome to The Thirsty Deckhand! How can I help you?"
 
 Upon asking to see the manager with an offer to sell wine, the serving girl, Alanda, will lead the PC and Simon upstairs to a small room down the hall. There they will find Drestor Hullenside, a fine-looking drow with short white hair and red eyes.
 
-Upon discovering the Player's intentions, Drestor will initially offer to buy three barrels for 10 GP each. Ask the Player to make a DC 10 Wisdom (Insight) check. On success, they realize that a barrel is worth at the very least 15 GP. If the total rolled is 17 or higher, the PC realized they could push it to 20 GP per barrel. If the Player fails the check, Simon will whisper to the PC that they should ask for 13 GP per barrel.
+Upon discovering the Player's intentions, Drestor will initially offer to buy 3 (1d4 + 2) barrels for 10 GP each. Ask the Player to make a DC 10 Wisdom (Insight) check. On success, they realize that a barrel is worth at the very least 15 GP. If the total rolled is 17 or higher, the PC realized they could push it to 20 GP per barrel. If the Player fails the check, Simon will whisper to the PC that they should ask for 13 GP per barrel.
 
 If the price the Player sets is higher than 10 GP, Drestor will not budge so easily. Ask for a Charisma (Persuasion) check and consult the following table. Drestor will agree to the maximum price or the price the Player set, whichever is lower.
 
