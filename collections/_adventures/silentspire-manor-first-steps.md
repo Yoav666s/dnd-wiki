@@ -163,7 +163,7 @@ If the Player doesn't accept the price and threatens to walk away from the deal,
 
 If the player agrees, Drestor will say that he will take care of the logistics of transporting the three barrels, and that the PC will get their payment this evening when his men come to the manor to load the barrels onto the carriage.
 
-If the Player tries to sell him more than three barrels, he will say that he doesn't have space for that right now, but he will definitely buy more in two or three weeks.
+If the Player tries to sell him more than the number of barrels he asked for, he will say that he doesn't have space for that right now, but he will definitely buy more in two or three weeks.
 
 ### Grunge's Bucketfuls
 > You walk into the tavern and are immediately hit with the smell of yeast and hops. A strong aroma of cheap ale fills the air, complimented by a stew of beans and slow-cooked beef. You see sailors everywhere, laughing, brawling, and singing sea shanties. As you approach the bar you see a dwarf with greying black hair and a kind, toothless smile. "Welcome! 'Ow can I help ya?"
