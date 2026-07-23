@@ -95,7 +95,7 @@ If the player is friendly towards her, Shael will introduce herself and reveal t
 - The wilted garden makes her sad. She can make it beautiful if the PC wants her to.
 - She's not looking for trouble, and she can leave if the PC doesn't want her here.
 
-If the player attacks her, she will cast Plant Growth as an action, making the entire garden overgrown. Then she will use her Tree Stride trait to leave quickly and flee. The garden will permanently be heavy difficult terrain (requiring 4 feet of movement for every 1 foot).
+If the player attacks her, she will cast Plant Growth as an action, making the entire garden severly overgrown. Then she will use her Tree Stride trait to leave quickly and flee. The garden will permanently be altered, requiring 4 feet of movement for every 1 foot.
 
 ## Pest Control
 Simon will lead them to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. When the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around, it and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a *Potion of Healing* which he found in the library.
