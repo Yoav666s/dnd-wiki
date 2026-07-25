@@ -27,7 +27,11 @@ Suddenly, the three old ladies will stand near the PC and drop their illusory ap
 
 > The three old ladies turn into three hideous hags. Their skin is a sickly shade of greenish blue, their long hair is brittle and grey, covering their bare chests, and their eyes are cloudy. Everyone is screaming and running away towards the front doors. Roll initiative!
 
+Everyone except the hags will be surprised. On her turn, Mathilda will cast Incontinence with the Coven Magic trait on the PC if they're wearing the *Headband of Intellect*, and Agatha or Glinda will approach the PC in an attempt to snatch it away. Have her roll a Dexterity (Sleight of Hand) check contested by the Player's Strength (Athletics) or Dexterity (Acrobatics) check. If she succeds, she manages to snatch the headband from the PC. If Mathilda goes last amongst the three hags, have her be the one who tries to snatch the headband without casting Incontinence.
 
+Afterwards, or if the PC is not wearing the *Headband of Intellect*, the three hags will target Tallis with Witch Bolt on their turns unless they can target him with their Piercing Glare. They will continue dealing damage to him in their following turns.
+
+After Tallis goes down, Glinda will cast fog cloud and the hags will escape. Have them roll a Dexterity (Stealth) checks as a group against the PC's passive perception. If they fail, tell the Player they hear the front doors slam shut.
 
 # Appendix A
 
