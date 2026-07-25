@@ -37,7 +37,15 @@ As the PC attempts to open the gate, you can ask for a DC 7 Strength check. If t
 
 If the Player fails the original Strength check and then another check, let them automatically succeed on the next one. Once the PC successfully makes their way into the manor, read out loud the following description.
 
-> You walk along the path through what seems to have once been a beautiful garden, but is now a mess of weeds, thorns, and dead plants. As you arrive at the massive front doors, you push them open. The morning light fills the otherwise dark, dusty interior of the foyer, and you hear a little yelp.
+> You walk along the path through what seems to have once been a beautiful garden, but is now a mess of weeds, thorns, and dead plants. Lying on the ground, you see a large griffon that appears to be sleeping peacefully.
+
+Ask the Player to make a DC 10 Dexterity (Stealth) check if they want to avoid waking it up. If they fail or don't try to avoid waking it up, read aloud the following paragraph.
+
+> The griffon's eyes snap open, beady and black as it regards you with suspicion. It stands up, flapping its majestic wings in an intimidating assertion of dominance.
+
+ask for a DC 10 Wisdom (Animal Handling) check to put their hand forward in an attempt to pacify it. On success, the griffon will lower its head and press it into the PC's hand. On failure, the griffon will flap its wings again, making itself seem even larger.
+
+> As you arrive at the massive front doors, you push them open. The morning light fills the otherwise dark, dusty interior of the foyer, and you hear a little yelp.
 
 Upon investigating the sound, the PC will find a little gnome named Simon Gribblesnout. He has been living here for years, feeding on rats and drinking from the river that passes through what used to be the garden.
 
