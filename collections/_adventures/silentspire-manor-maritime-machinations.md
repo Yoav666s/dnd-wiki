@@ -39,6 +39,8 @@ Since NPCs don't get death saving throws, Tallis will die. Shael will immediatel
 
 # Appendix A
 
+{% include monster_details.html index="griffon" %}
+
 {% include monster_details.html index="simon-gribblesnout" %}
 
 {% include monster_details.html index="shael" %}
