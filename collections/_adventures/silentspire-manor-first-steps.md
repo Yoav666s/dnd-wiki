@@ -334,6 +334,9 @@ Shael will cast Barkskin and Shillelagh before the fight, staying as far from th
 #### The Guards
 The guards will finish off the shrubs with their scimitars before focusing on the tree. They won't use their hand crossbows because the enemies are resistant to Piercing damage.
 
+#### The Griffon
+The griffon will pick at the shrubs with its beak and claws. Its beak will be less effective as it deals piercing damage which the shrubs are resistant to.
+
 #### The Awakened Tree
 The tree itself starts 60 feet away from the surrounded guard and walks at a pace of 20 feet per turn (to give the Player and their allies enough time to deal with the shrubs, have it not use the dash action). The tree can possibly deal a lot of damage with its slam attack, enough to bring anyone except Tallis to 0 Hit Points with one hit. Before the tree approaches the player or the guards, have it attack all of Tallis's illusions first, one by one.
 
@@ -358,6 +361,9 @@ The next day, the Player wakes up and see a beautiful, lively garden from their 
 *As they have successfully turned the manor into a living, breathing place and protected their home, this would be a good time to level up the PC to 3rd level.*
 
 # Appendix A
+
+{% include monster_details.html index="griffon" %}
+
 
 {% include monster_details.html index="simon-gribblesnout" %}
 
