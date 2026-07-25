@@ -47,6 +47,8 @@ ask for a DC 10 Wisdom (Animal Handling) check to put their hand forward in an a
 
 Once the player pacifies the griffon, they're free to pet it and stroke its beak. It will stay in the wilted garden as the player continues on.
 
+If the player avoided the griffon or somehow failed to pacify it, have it be awake the next time they step out of the manor, and allow them to try and tame it.
+
 > As you arrive at the massive front doors, you push them open. The morning light fills the otherwise dark, dusty interior of the foyer, and you hear a little yelp.
 
 Upon investigating the sound, the PC will find a little gnome named Simon Gribblesnout. He has been living here for years, feeding on rats and drinking from the river that passes through what used to be the garden.
@@ -58,6 +60,7 @@ Through dialogue with him, he will reveal the following things.
 - He doesn’t remember how long he’s been living here.
 - He’d like to stay if the PC will let him.
 - He spent a lot of time in the library and actually kept it quite organized.
+- He's friendly with the griffon 
 - There’s a giant rat in the basement.
 
 ## House Tour
@@ -95,7 +98,9 @@ If the Player opens the three other bottles, they find the following.
 ### The Garden
 Simon will say that there's nothing to see in the garden, it's all wilted and dry, and he could swear he saw some shrubs moving in the back. If the Player decides to go there anyway, have Simon heavily dissuade them from going to the rear. If they do go there, nothing will move, making Simon seem a little paranoid.
 
-Regardless, they will hear something rustling in the bushes to the west, and Simon will yelp, saying the shrubs are gaining on them. Have the PC make a Wisdom (Perception) check, contested with Shael's Dexterity (Stealth) check. You can find her statblock in [[Appendix A]]. If the Player fails, tell them it must have been the wind. If they decide to investigate, ask for an Intelligence (Investigation) check contested by another Dexterity (Stealth) check from Shael. If the Player succeeds on either check, they find a little dryad named Shael in the bushes.
+If the player didn't pacify the griffon yet, it will be awake and friendly towards the PC because they're with Simon.
+
+The PC will hear something rustling in the bushes to the west, and Simon will yelp, saying the shrubs are gaining on them. Have the PC make a Wisdom (Perception) check, contested with Shael's Dexterity (Stealth) check. You can find her statblock in [[Appendix A]]. If the Player fails, tell them it must have been the wind. If they decide to investigate, ask for an Intelligence (Investigation) check contested by another Dexterity (Stealth) check from Shael. If the Player succeeds on either check, they find a little dryad named Shael in the bushes.
 
 > You see a beautiful little creature, an elvish-looking girl with green skin and big eyes that stare at you. Her ears are long and pointed, her hair is the color of chestnut, and she's wearing a dress made entirely of leaves.
 
