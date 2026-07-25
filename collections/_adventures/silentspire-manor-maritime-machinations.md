@@ -35,6 +35,8 @@ After Tallis goes down, Agatha will cast fog cloud and the hags will escape. Hav
 
 ***Describing Coven Magic.** As one hag casts a spell with coven magic, describe the two other hags chanting with her and providing somatic components for the spell. A successful DC 15 Intelligence (Arcana) check will reveal that one hag cannot cast a spell alone and needs her sisters for it.*
 
+Usually, NPCs don't get saving throws.
+
 # Appendix A
 
 {% include monster_details.html index="simon-gribblesnout" %}
