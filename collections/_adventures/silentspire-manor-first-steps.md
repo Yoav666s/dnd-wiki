@@ -60,7 +60,7 @@ Through dialogue with him, he will reveal the following things.
 - He doesn’t remember how long he’s been living here.
 - He’d like to stay if the PC will let him.
 - He spent a lot of time in the library and actually kept it quite organized.
-- He's friendly with the griffon 
+- He's friendly with the griffon and has been occasionally feeding it rats. It sometimes flies away to hunt.
 - There’s a giant rat in the basement.
 
 ## House Tour
