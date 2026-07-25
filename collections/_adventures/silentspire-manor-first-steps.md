@@ -334,7 +334,7 @@ Everyone except Simon and Krogg will join this fight.
 Tallis will use his Illusory Duplicate bonus action with his Illusory Army trait to create four duplicates of himself in the front line. Through his Illusory Casting trait, he will cast Fire Bolt (his only offensive spell) through one of the illusions, alternating between them each time. His Fire Bolt will be very potent here, as all of enemies are vulnerable to Fire damage, and he will focus on attacking the giant tree.
 
 #### Shael
-Shael will cast Barkskin and Shillelagh before the fight, staying as far from the tree as possible. She will risk opportunity attacks to use Cure Wounds if anyone goes down, and will repeatedly cast Entangle on the area in front of the tree as it advances to slow it down while Tallis is striking it with Fire Bolt.
+Shael will cast Barkskin and Shillelagh before the fight, staying as far from the tree as possible. She will risk opportunity attacks to use Cure Wounds if anyone gets low, and will repeatedly cast Entangle on the area in front of the tree as it advances to slow it down while Tallis is striking it with Fire Bolt. If anyone goes down, she'll cast Revivify.
 
 #### The Guards
 The guards will finish off the shrubs with their scimitars before focusing on the tree. They won't use their hand crossbows because the enemies are resistant to Piercing damage.
