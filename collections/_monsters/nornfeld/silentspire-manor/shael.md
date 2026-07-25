@@ -35,7 +35,7 @@ actions: |
   
   **Spellcasting.** Shael casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14, +6 to hit with spell attacks):
   
-  At will: Druidcraft
+  At will: Druidcraft, Spare the Dying
   
   3/day each: Barkskin, Cure Wounds, Entangle
   
