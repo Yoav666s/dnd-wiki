@@ -33,6 +33,8 @@ Afterwards, or if the PC is not wearing the *Headband of Intellect*, the three h
 
 After Tallis goes down, Agatha will cast fog cloud and the hags will escape. Have them roll a Dexterity (Stealth) checks as a group against the PC's passive perception. If they fail, tell the Player they hear the front doors slam shut.
 
+***Describing Coven Magic.** As one hag casts a spell with coven magic, describe the two other hags chanting with her and providing somatic components for the spell. A successful DC 15 Intelligence (Arcana) check will reveal that one hag cannot cast a spell alone and needs her sisters for it.*
+
 # Appendix A
 
 {% include monster_details.html index="simon-gribblesnout" %}
