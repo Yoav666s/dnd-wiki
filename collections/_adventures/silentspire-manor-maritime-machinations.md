@@ -31,7 +31,7 @@ Everyone except the hags will be surprised. On her turn, Mathilda will cast Inco
 
 Afterwards, or if the PC is not wearing the *Headband of Intellect*, the three hags will target Tallis with Witch Bolt on their turns unless they can target him with their Piercing Glare. They will continue dealing damage to him in their following turns.
 
-After Tallis goes down, Glinda will cast fog cloud and the hags will escape. Have them roll a Dexterity (Stealth) checks as a group against the PC's passive perception. If they fail, tell the Player they hear the front doors slam shut.
+After Tallis goes down, Agatha will cast fog cloud and the hags will escape. Have them roll a Dexterity (Stealth) checks as a group against the PC's passive perception. If they fail, tell the Player they hear the front doors slam shut.
 
 # Appendix A
 
