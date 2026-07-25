@@ -19,6 +19,14 @@ Shael will say that it's strange that there were awakened plants in the garden. 
 [Organizing the gala]
 
 # The Gala
+At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive uninvited. Tallis will let them in, feeling a little guilty for not inviting them. 
+
+[describe the gala]
+
+Suddenly, the three old ladies will stand near the PC and drop their illusory appearance. Have everyone will have to make Wisdom saving throws. Let the normal guests automatically fail, while rolling for Shael and Tallis.
+
+> The three old ladies turn into three hideous hags. Their skin is a sickly shade of greenish blue, their long hair is brittle and grey, covering their bare chests, and their eyes are cloudy. Everyone is screaming and running away towards the front doors. Roll initiative!
+
 
 
 # Appendix A
