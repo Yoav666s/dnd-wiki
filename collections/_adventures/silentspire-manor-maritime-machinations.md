@@ -49,6 +49,8 @@ The following are brief descriptions of guards, which all use the same Manor Gua
 
 {% include monster_details.html index="mathilda" %}
 
+{% include spell_details.html index="momentary-madness" %}
+
 {% include spell_details.html index="incontinence" %}
 
 # Appendix B
