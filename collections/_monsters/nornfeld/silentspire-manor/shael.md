@@ -39,7 +39,7 @@ actions: |
   
   3/day each: Barkskin, Cure Wounds, Entangle
   
-  1/day each: Goodberry, Plant Growth
+  1/day each: Goodberry, Plant Growth, Revivify
 bonus_actions: |
   **Shillelagh.** Shael casts Shillelagh, using the same spellcasting ability as Spellcasting.
 excerpt: "Medium Fey, Neutral"
