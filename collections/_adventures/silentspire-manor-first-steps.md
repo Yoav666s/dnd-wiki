@@ -260,6 +260,8 @@ Krogg is a professional and he will cook well. Tallis will make sure he makes a 
 ## Hiring Guards
 With his mouth half full, Tallis will say that given how much wine they're keeping in the cellar, they should hire some guards. Guards earn 2 SP a day or 6 GP a month, so the player can choose how many guards to hire depending on how much they earned selling wine. Tallis will pay half, up to 12 GP. He won't find it sensible to hire more than four guards.
 
+If the player argues that they have a griffon protecting the garden, Tallis will say that it's a relatively tame and friendly griffon, and anyone can pacify it with some food. They need guards who will actually stand at the gate and protect the mansion from ill-intentioned strangers
+
 Tallis will tell the Player that they can hire guards in the docks, where there's a broker named Toolscrap who manages mercenary protection for ships. Getting him to part with up to four mercenaries won't be easy, so Tallis will offer to talk to him himself if the PC doesn't have high Charisma. If the Player decides to talk to him themselves, Tallis will come to help them.
 
 > You arrive at the docks and are hit with a refreshing, salty breeze. Deckhands are passing through, carrying crates onto tradeships while captains are shouting orders. You see a big sign that says 'Toolscrap's Duel Chaps' above a counter. As you approach, you see a well dressed goblin taking care of paperwork. He looks up at you. "Yes?"
