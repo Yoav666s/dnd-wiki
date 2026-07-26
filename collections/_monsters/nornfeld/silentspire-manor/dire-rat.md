@@ -8,7 +8,7 @@ type: "Beast"
 alignment: "Unaligned"
 armor_class: "14 (Natural)"
 hit_points: "37 (5d10+10)"
-speed: "walk 50 ft."
+speed: "walk 30 ft."
 str_score: 17
 dex_score: 15
 con_score: 15
@@ -25,7 +25,7 @@ proficiency_bonus: "+2"
 traits: |
   **Keen Hearing and Smell.** The rat has advantage on Wisdom (Perception) checks that rely on hearing or smell.
   
-  **Pack Tactics.** The rat has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+  **Pack Tactics.** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 actions: |
   **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 excerpt: "Medium Beast, Unaligned"
