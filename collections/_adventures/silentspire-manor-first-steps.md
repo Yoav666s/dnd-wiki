@@ -163,7 +163,7 @@ The other rooms are dusty and neglected, but shouldn't be too difficult to clean
 There are three Taverns in Gullenshire: The Thirsty Deckhand, Grunge's Bucketfuls, and Myranda's Meadery. Don't worry about the economy of the game breaking from 120 barrels of wine, as only Drestor Hullenside, the owner of The Thirsty Deckhand, will want to buy 3~6 barrels of wine every two weeks.
 
 ### The Thirsty Deckhand
-> You walk into a luxurious tavern with cobble walls and a clean wooden floor. The patrons are elegant, dressed in fine clothes and speaking politely amongst themselves. The air is filled with the aroma of fine wine and homemade broth, with hints of grilled meat. You are approached by a beautiful half-elf serving girl, with flowing brown hair and rosy cheeks. "Welcome to The Thirsty Deckhand! How can I help you?"
+> You walk into a luxurious tavern with cobble walls and a clean wooden floor. The patrons are elegant, dressed in fine clothes and speaking politely amongst themselves. The air is filled with the aroma of fine wine and homemade broth, with hints of grilled meat. In the background, you hear a beautiful melody played on a harp. You are approached by a beautiful half-elf serving girl, with flowing brown hair and rosy cheeks. "Welcome to The Thirsty Deckhand! How can I help you?"
 
 Upon asking to see the manager with an offer to sell wine, the serving girl, Alanda, will lead the PC and Simon upstairs to a small room down the hall. There they will find Drestor Hullenside, a fine-looking drow with short white hair and red eyes.
 
