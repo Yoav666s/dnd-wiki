@@ -203,7 +203,7 @@ Upon speaking with the dwarf, the PC will learn that his name is Earnest Grunge 
 | Order | Price (CP) |
 | :---: | :---: |
 | A mug of cheap ale | 4 |
-| A literal bucket of ale (serves 4) | 15B|
+| A literal bucket of ale (serves 4) | 15 |
 | Bean and slow-cooked beef stew | 10 |
 | Loaf of crusty, salted bread | 2 |
 
@@ -213,6 +213,12 @@ Upon speaking with the dwarf, the PC will learn that his name is Earnest Grunge 
 Speaking with Myranda, she will say that she doesn't need any wine because she runs a meadery. She will appreciate the offer though, and will give the PC and Simon a free sample of mead, if they want a taste. Simon will definitely take her up on that offer.
 
 Mead, or "honey wine," tastes a lot like a floral white wine with hints of honey. This one is dry, crisp, and soft.
+
+| Order | Price (CP) |
+| :---: | :---: |
+| A glass of dry mead | 20 |
+| Honey-glazed biscuits | 5 |
+| A platter of cheese and fruits | 10 |
 
 ## An Unexpected Guest
 When the PC and Simon eventually return to the manor, at around midday, they will find someone waiting at the gate.
