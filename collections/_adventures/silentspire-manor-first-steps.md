@@ -359,7 +359,9 @@ To make the fight more engaging for a new Player while keeping it simple, have t
 
 | 1d4 | Environmental Effect |
 | :---: | :---- |
-| 1 | Entangling vines sprout from the ground in an attempt to restrain 1d4 random targets. Each target has to succeed a DC 11 Dexterity saving throw or become restrained for 1 round. |
+| 1 | Vines sprout from the ground in an attempt to restrain 1d4 random targets. Each target has to succeed a DC 11 Dexterity saving throw or become restrained for 1 round. |
+| 2 | Roots sprout from the ground in an attempt to trip 1d4 random targets. Each target has to succeed a DC 11 Dexterity saving throw or fall prone. |
+| 3 ||
 
 If the Player attempts to get closer to the tree, have Tallis and Shael warn them not to do that, as the tree will hit them very hard.
 
