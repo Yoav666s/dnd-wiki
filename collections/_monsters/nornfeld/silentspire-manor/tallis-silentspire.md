@@ -27,7 +27,7 @@ traits: |
   
   **Illusory Casting.** While maintaining one or more illusions of himself, Tallis can cast spells as though he was in an illusion's space, but he must still rely on his senses. 
 actions: |
-  **Fire Bolt.** Ranged Attack Roll: +7, range: 120 ft. Hit: 11 (2d10) Fire damage.
+  **Fire Bolt.** Ranged Attack: +7, range: 120 ft. Hit: 11 (2d10) Fire damage.
   
   **Rapier.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) piercing damage.
 
