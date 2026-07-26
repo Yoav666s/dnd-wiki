@@ -35,7 +35,7 @@ actions: |
 
   At will: Disguise Self, Mage Hand, Message, Minor Illusion, Prestidigitation
 
-  1/day each: Dimension Door, Fly, Invisibility, Major Image, Polymorph, Sending, Silent Image
+  1/day each: Dimension Door, Fly, Haste, Invisibility, Major Image, Polymorph, Sending, Silent Image
 bonus_actions: |
   **Illusory Duplicate.** Tallis creates an illusory duplicate of himself that appears in his space or in an unoccupied space he can see within 30 feet. The duplicate vanishes if its more than 30 feet away from Tallis or if he uses this feature again.
   
