@@ -17,7 +17,7 @@ wis_score: 12
 cha_score: 7
 saving_throws: ""
 skills: "Perception +3, Stealth +4"
-senses: "Passive Perception 13"
+senses: "Darkvision 60 ft., Passive Perception 13"
 languages: ""
 challenge_rating: 1
 xp: 200
@@ -27,6 +27,6 @@ traits: |
   
   **Pack Tactics.** The rat has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 actions: |
-  **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+  **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 excerpt: "Medium Beast, Unaligned"
 ---
