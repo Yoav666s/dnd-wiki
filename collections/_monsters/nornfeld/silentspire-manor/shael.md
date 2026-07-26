@@ -7,7 +7,7 @@ size: "Medium"
 type: "Fey"
 alignment: "Neutral"
 armor_class: "11 (Dex), 16 (Barkskin)"
-hit_points: "27 (5d8+5)"
+hit_points: "45 (8d8+8)"
 speed: "walk 30 ft."
 str_score: 10
 dex_score: 12
