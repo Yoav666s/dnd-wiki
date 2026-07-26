@@ -200,6 +200,13 @@ If the Player will want to actually sit at the tavern, these will be the prices.
 
 Upon speaking with the dwarf, the PC will learn that his name is Earnest Grunge and he's the owner of this tavern. If the Player offers to sell him barrels of wine he'll say he doesn't need any and that they should check with Drestor at the Thirsty Deckhand if they haven't already.
 
+| Order | Price (CP) |
+| :---: | :---: |
+| A mug of cheap ale | 4 |
+| A literal bucket of ale (serves 4) | 15B|
+| Bean and slow-cooked beef stew | 10 |
+| Loaf of crusty, salted bread | 2 |
+
 ### Myranda's Meadery
 > You walk into the tavern and the air smells of honey and alcohol. It's relatively quiet, with few patrons sitting sparsely, scattered around the space. You're greeted by an old little halfling with long grey hair and a cheerful, contagious smile. "Welcome to Myranda's Meadery! I'm Myranda. How can I help you, darling?"
 
