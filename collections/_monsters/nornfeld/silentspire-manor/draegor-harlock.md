@@ -32,5 +32,7 @@ actions: |
   **Shortsword.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
   
   **Heavy Crossbow.** Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.
+bonus_actions: |
+  **Aggressive.** Draegor can move up to his speed toward a hostile creature that he can see.
 excerpt: "Medium Humanoid (Orc), Neutral"
 ---
