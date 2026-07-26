@@ -186,6 +186,15 @@ If the player agrees, Drestor will say that he will take care of the logistics o
 
 If the Player tries to sell Drestor more than the number of barrels he asked for, he will say that he doesn't have space for that right now, but he will definitely buy more in two or three weeks.
 
+If the Player will want to actually sit at the tavern, these will be the prices. The food will be very high quality, and the wine will taste like wine.
+
+| Order | Price (SP) |
+| :---: | :---: |
+| A glass of red wine. | 3 |
+| Soup | 2 |
+| Grilled meat | 6 |
+| Mashed potatoes | 1 |
+
 ### Grunge's Bucketfuls
 > You walk into the tavern and are immediately hit with the smell of yeast and hops. A strong aroma of cheap ale fills the air, complimented by a stew of beans and slow-cooked beef. You see sailors everywhere, laughing, brawling, and singing sea shanties. As you approach the bar you see a dwarf with greying black hair and a kind smile (with a few missing teeth). "Welcome! 'Ow can I help ya?"
 
