@@ -35,9 +35,13 @@ actions: |
 
   **Spellcasting.** Tallis casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 15, +7 to hit with spell attacks):
 
-  At will: Disguise Self, Mage Hand, Message, Minor Illusion, Prestidigitation
-
-  1/day each: Dimension Door, Fly, Haste, Invisibility, Major Image, Sending, Silent Image
+  At will: Disguise Self, Mage Armor (included in AC), Mage Hand, Message, Minor Illusion, Prestidigitation
+  
+  3/day each: Silent Image, Sending
+  
+  2/day each: Haste, Invisibility
+  
+  1/day each: Dimension Door, Major Image
 bonus_actions: |
   **Illusory Duplicate.** Tallis creates an illusory duplicate of himself that appears in his space or in an unoccupied space he can see within 30 feet. The duplicate vanishes if its more than 30 feet away from Tallis or if he uses this feature again.
   
@@ -45,8 +49,8 @@ bonus_actions: |
 
   Physical interaction with the image reveals it to be an illusion, as things can pass through it. A duplicate's AC is 13. If an attack hits a duplicate, it is destroyed.
   
-  **Misty Step (2/Day).** Tallis casts Misty Step, using the same spellcasting ability as Spellcasting.
+  **Misty Step (3/Day).** Tallis casts Misty Step, using the same spellcasting ability as Spellcasting.
 reactions: |
-  **Protective Magic (3/Day).** Tallis casts Counterspell or Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+  **Protective Magic (3/Day).** Tallis casts Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
 excerpt: "Medium Human (Sorcerer), Neutral"
 ---
