@@ -31,7 +31,7 @@ traits: |
 actions: |
   **Club.** Melee Weapon Attack: +2 to hit (+6 to hit with shillelagh), reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh.
 
-  **Starry Wisp.** Ranged Attack: +6, range 60 ft. Hit: 9 (2d8) Radiant damage. On a hit, the target emits Dim Light in a 10-foot radius until Shael's next turn and can’t benefit from the Invisible condition.
+  **Starry Wisp.** Ranged Attack: +6 to hit, range 60 ft., one target. Hit: 9 (2d8) Radiant damage. On a hit, the target emits Dim Light in a 10-foot radius until Shael's next turn and can’t benefit from the Invisible condition.
   
   **Spellcasting.** Shael casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14, +6 to hit with spell attacks):
   
