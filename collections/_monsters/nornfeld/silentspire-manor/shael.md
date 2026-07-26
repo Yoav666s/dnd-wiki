@@ -37,7 +37,9 @@ actions: |
   
   At will: Druidcraft, Spare the Dying
   
-  3/day each: Barkskin, Cure Wounds, Entangle
+  3/day each: Barkskin, Healing Word, Entangle
+  
+  2/day each: Cure Wounds, Lesser Restoration
   
   1/day each: Goodberry, Plant Growth, Revivify
 bonus_actions: |
