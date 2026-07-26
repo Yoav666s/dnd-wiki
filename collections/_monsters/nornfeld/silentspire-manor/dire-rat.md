@@ -19,8 +19,8 @@ saving_throws: ""
 skills: "Perception +3, Stealth +4"
 senses: "Darkvision 60 ft., Passive Perception 13"
 languages: ""
-challenge_rating: 1
-xp: 200
+challenge_rating: 0.5
+xp: 100
 proficiency_bonus: "+2"
 traits: |
   **Keen Hearing and Smell.** The rat has advantage on Wisdom (Perception) checks that rely on hearing or smell.
