@@ -27,7 +27,7 @@ At the gala, dozens of guests will arrive and Tallis will stand at the gate to r
 
 [describe the gala]
 
-Suddenly, the three old ladies will stand near the PC and drop their illusory appearance. Have everyone will have to make Wisdom saving throws. Let the normal guests automatically fail, while rolling for Shael and Tallis.
+The three old ladies will stand near the PC and drop their illusory appearance. Everyone will have to make Wisdom saving throws. Let the normal guests and residents automatically fail, while rolling for Shael and Tallis.
 
 > The three old ladies turn into three hideous hags. Their skin is a sickly shade of greenish blue, their long hair is brittle and grey, covering their bare chests, and their eyes are cloudy. Everyone is screaming and running away towards the front doors. Roll initiative!
 
@@ -35,7 +35,7 @@ Everyone except the hags will be surprised. On her turn, Mathilda will cast Inco
 
 Afterwards, or if the PC is not wearing the *Headband of Intellect*, the three hags will target Tallis, Shael, and the PC with Witch Bolt on their turns unless they can target them with their Piercing Glare. They will continue dealing damage to them in their following turns.
 
-After a few rounds, or if one of the hags gets low on hit points, Agatha will cast fog cloud and the hags will escape. Have them roll a Dexterity (Stealth) checks with advantage as a group against the PC's Wisdom (Perception) at disadvantage. If they fail, tell the Player they hear the front doors slam shut.
+After a few rounds, or if one of the hags gets low on hit points, Agatha will cast fog cloud and the hags will escape. Have them roll a Dexterity (Stealth) checks with advantage as a group against the PC's Wisdom (Perception) at disadvantage. If they fail, tell the Player they hear the front doors slam shut. If the PC tries to chase them, they will find nothing (they casted teleport to return to their lair).
 
 ***Describing Coven Magic.** As one hag casts a spell with coven magic, describe the two other hags chanting with her and providing somatic components for the spell. A successful DC 15 Intelligence (Arcana) check will reveal that one hag cannot cast a spell alone and needs her sisters for it.*
 
