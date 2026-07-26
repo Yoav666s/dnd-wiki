@@ -23,9 +23,11 @@ challenge_rating: 2
 xp: 450
 proficiency_bonus: "+3"
 traits: |
-  **Illusory Army (1/Day).** When Tallis creates an Illusory Duplicate, he can instead create four Illusory Duplicates.
+  **Illusory Army (2/Day).** When Tallis creates an Illusory Duplicate, he can instead create four Illusory Duplicates.
   
-  **Illusory Casting.** While maintaining one or more illusions of himself, Tallis can cast spells as though he was in an illusion's space, but he must still rely on his senses. 
+  **Illusory Casting.** While maintaining one or more illusions of himself, Tallis can cast spells as though he was in an illusion's space, but he must still rely on his senses.
+  
+  **Twinned Spell (1/Day).** When Tallis casts a spell that targets one creature and doesn't have a range of self, the spell can target two creatures instead of one.
 actions: |
   **Fire Bolt.** Ranged Attack: +7 to hit, range: 120 ft., one target. Hit: 11 (2d10) Fire damage.
   
