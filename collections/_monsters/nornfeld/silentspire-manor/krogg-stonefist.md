@@ -22,6 +22,8 @@ languages: "Common, Orc"
 challenge_rating: 0
 xp: 10
 proficiency_bonus: "+2"
+traits: |
+  **Orcish Resolve (1/Day).** When Krogg is reduced to 0 hit points, he instead drops to 1 hit point.
 actions: |
   **Meat Cleaver.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
 excerpt: "Medium Humanoid (Half-Orc, Neutral Good"
