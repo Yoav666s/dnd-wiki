@@ -25,6 +25,8 @@ proficiency_bonus: "+2"
 traits: |
   **Orcish Resolve (1/Day).** When Krogg is reduced to 0 hit points, he instead drops to 1 hit point.
 actions: |
-  **Meat Cleaver.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
+  **Meat Cleaver.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
+bonus_actions: |
+  **Aggressive.** Krogg can move up to his speed toward a hostile creature that he can see.
 excerpt: "Medium Humanoid (Half-Orc, Neutral Good"
 ---
