@@ -13,6 +13,8 @@ The goal of this adventure is twofold. First, it’s meant to introduce D&D to a
 
 This module is designed to be used by the DM, and will bring the PC from 1st level to 3rd level through milestone leveling. It's important that the player understands that the first two levels in D&D are generally very weak and this is why in this adventure, they will level up quite rapidly. This will not be the case in the following adventures in this series, as leveling up to 4th level and onward will require completing bigger arcs.
 
+***3rd level variant.** The Player might want to start at 3rd level. This is perfectly fine, and there are balance adjustments where necessary.*
+
 ## Character Building
 The PC should start at 1st level, and their background should contain a reason for them to have inherited a manor that has been neglected and abandoned over the years. It was once a beautiful place, but is now a sad reminder of what was. Whatever the background of the PC is, it should include the following part.
 
@@ -80,7 +82,7 @@ Explain to the Player what attunement is and how it works, then you can let them
 > As you wear the headband, the sapphire glows yet brighter. You feel its energy coursing through you, filling your mind with greater understanding of nature, unlocking memories you have forgotten, providing you with insight about the weave, and deeper knowledge of the gods of this world. It's pleasantly warm against your forehead, and your mind feels sharper.
 
 #### Note to the DM
-Giving out a free, uncommon *Headband of Intellect* might seem incredibly powerful for a 1st level PC, but remember that this is a duet, and the Player is alone. Intelligence doesn't affect too much unless the Player picked an Intelligence-based class; even then, it's a +4 on their primary ability modifier rather than a +3, and shouldn't break the bounded accuracy of the game.
+Giving out a free, uncommon *Headband of Intellect* might seem incredibly powerful for a 1st or 3rd level PC, but remember that this is a duet, and the Player is alone. Intelligence doesn't affect too much unless the Player picked an Intelligence-based class; even then, it's a +4 on their primary ability modifier rather than a +3, and shouldn't break the bounded accuracy of the game.
 
 ### The Drawing Room
 > You enter a large dark room. Simon mutters an incantation and snaps his fingers, lighting the candles of a large chandelier in the center of it. You see two dusty red sofas next to the east wall, a hearth on the south wall, and a bar set at the north wall. "I don't spend a lot of time here," he says. "But I think the drinks here are still good."
@@ -119,6 +121,8 @@ Simon will lead the PC to the basement and ask them to get rid of the giant rat.
 
 You can find the statblock for the giant rat in [[Appendix A]]. If the PC goes unconscious during the fight, they wake up in the main hall next to Simon. He will explain that he listened to the fight and realized that the PC lost, so he snuck in while the rat was sleeping and dragged their unconscious body back up. Thankfully, the giant rat has just ravaged an entire wheel of cheese so it wasn't hungry. The player will have 1 hit point. Let the Player take a short rest and heal up using their hit die before trying again. It is recommended that the rat won't heal, to ensure the Player can defeat it and move on with minimal frustration.
 
+***3rd level variant.** Use the Dire Rat statblock instead of the Giant Rat stat block. This should provide the Player with a fair challenge.*
+
 If the Player has met Shael and asks her to join the fight, they'll have to succeed a DC 10 Charisma (Persuasion) check for her to agree. She will pick up a large root resembling a club, cast Shillelagh on it, and cast Barkskin on herself before the fight. If the PC's AC is lower than 16, she will cast Barkskin on them as well. She will use Cure Wounds on the PC if they go down.
 
 If the Player doesn't take the torch and instead relies on Darkvision or a similar feature, allow them to make a DC 10 Dexterity (Stealth) check to sneak up on the rat. If the range of their Darkvision is over 60 feet and they have a ranged weapon or spell they can use, ask for a DC 10 Intelligence (Nature) check. On success, the PC will know that rats can only have a Darkvision of 60 feet. If the Player tries to attack from 65 feet away or farther, they can roll with advantage since the rat can't see them.
@@ -127,7 +131,7 @@ Once the player defeats the giant rat, there's more work to do. The rat has been
 
 With a successful DC 5 Intelligence (Investigation) check, the Player will learn that the barrels in the basement hall are wine, which should be properly aged by now. On failure, Simon or Shael (if she is present) will realize that instead. If the player takes time to count the barrels, they will find that there are three lines of barrels stacked on top of one another on each side, with a length of 20 barrels each, resulting in 120 barrels total.
 
-*As the introduction part is over, this would be a good time to level up the PC to 2nd level.*
+*As the introduction part is over, this would be a good time to level up the PC to 2nd level if they started at 1st level.*
 
 # In Wine There is Truth
 Upon discovering the hidden trove of aged wine, Simon will be excited. He will try to convince the PC to sell it to local taverns. But first things first---the basement needs to be cleaned.
@@ -363,7 +367,7 @@ The next day, the Player wakes up and see a beautiful, lively garden from their 
 
 > You look out the window, and for a moment you wonder if you're still dreaming. But no, this is real. The grass has a vibrant green color, there are flowers blooming everywhere, the trees are full of life, and you see dragonflies and butterflies and bees buzzing through the flora. You can smell something already cooking in the kitchen, and you make your way to the dining room. As you see Tallis, Simon, Shael, and the guards all sitting at the table, chatting and laughing together, you finally feel at home.
 
-*As they have successfully turned the manor into a living, breathing place and protected their home, this would be a good time to level up the PC to 3rd level.*
+*As they have successfully turned the manor into a living, breathing place and protected their home, this would be a good time to level up the PC to 3rd level if they started at 1st level. If the PC started at 3rd level, they can now level up to 4th level.*
 
 # Appendix A
 
@@ -375,6 +379,8 @@ The next day, the Player wakes up and see a beautiful, lively garden from their 
 {% include monster_details.html index="shael" %}
 
 {% include monster_details.html index="giant-rat" %}
+
+{% include monster_details.html index="dire-rat" %}
 
 {% include monster_details.html index="tallis-silentspire" %}
 
