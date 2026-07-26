@@ -23,6 +23,8 @@ challenge_rating: 0.25
 xp: 50
 proficiency_bonus: "+2"
 actions: |
+  **Longsword.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
+  
   **Shortbow.** Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
 
   **Invade Dreams.** The sprite touches a sleeping creature and magically enters its dreams. It enters a trance state, during which the sprite is aware of its surroundings, but can’t take actions or move. The sprite appears in the target’s dreams and can converse with the target as long as it remains asleep. The sprite can also shapechange in the dream, shape the environment of the dream, creating landscapes, objects, and other images. The sprite can emerge from the trance at any time, ending the effect.
