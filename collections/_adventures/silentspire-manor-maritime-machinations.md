@@ -16,7 +16,7 @@ The Player has inherited Silentspire Manor from their great-aunt Helena Silentsp
 ## A Wholesome Breakfast
 The PC has just woken up and made their way to the dining area, meeting everyone (except Krogg who's in the kitchen). Tallis will inform the Player that he has been thinking about organizing a gala to celebrate the restoration of Silentspire Manor.
 
-When Krogg arrives and hears them talking about the gala, he will like the idea but comment that it would mean he'll have to prepare a lot of food. He'll also ask if they can invite his friend Draegor, a now retired war veteran. Krogg will need a budget for ingredients. If the Player gives him at least 10 GP, he promises a feast of roasted boar, spiced fish, and exquisite pastries.
+When Krogg arrives and hears them talking about the gala, he will like the idea but comment that it would mean he'll have to prepare a lot of food. He'll also ask if they can invite his friend Draegor, a now retired war veteran. Krogg will need a budget for ingredients. If the Player and Tallis each give him 5 GP, he promises a feast of roasted boar, spiced fish, and exquisite pastries.
 
 After the breakfast, Shael will take the PC aside and say that it's strange that there were awakened plants in the garden. She knows this kind of magic, someone bad must have awakened them, considering how quickly they attacked the guard.
 
@@ -24,13 +24,18 @@ After the breakfast, Shael will take the PC aside and say that it's strange that
 Tallis will explain that with food already covered, they'll need to sort out the guest list, hire some entertainment, and decorate the place.
 
 ## Hiring Entertainment
-For music, there will be three options.
+For music, there will be three options. Tallis will pay half of the rates.
 
-**Melena Moonkiss.** A harp player that strums hauntingly beautiful melodies. Perfect for a subtle, understated performance that provides a lovely background for social interaction.
+**The Hillkeeper Brothers (3 GP).** Three brothers who sing together, each playing a different instrument. They're energetic and upbeat, great for sing-alongs.
 
-**The Hillkeeper Brothers.** Three brothers who sing together, each playing a different instrument. They're energetic and upbeat, great for sing-alongs.
+**Melena Moonkiss (5 GP).** A harp player that strums hauntingly beautiful melodies. Perfect for a subtle, understated performance that provides a lovely background for social interaction.
 
-**William Cloversorrow.** An older once-wandering bard who settled down in Gullenshire. He sings heartbreaking ballads with his beautiful, deep singing voice and his effortless plucking on the lute.
+**William Cloversorrow (8 GP).** An older once-wandering bard who settled down in Gullenshire. He sings heartbreaking ballads with his beautiful, deep singing voice and his effortless plucking on the lute.
+
+### Melena Moonkiss
+If the Player chooses to hire Melena, they will find her in no other place than the Thirsty Deckhand.
+
+> You enter the Thirsty Deckhand, greeted once again by the smell of dry wine and homemade broth. 
 
 # The Gala
 At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive uninvited. Tallis will let them in, feeling a little guilty for not inviting them. 
