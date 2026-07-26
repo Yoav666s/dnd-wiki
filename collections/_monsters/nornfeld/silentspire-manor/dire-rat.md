@@ -7,7 +7,7 @@ size: "Medium"
 type: "Beast"
 alignment: "Unaligned"
 armor_class: "14 (Natural)"
-hit_points: "37 (5d10+10)"
+hit_points: "26 (4d8+8)"
 speed: "walk 30 ft."
 str_score: 17
 dex_score: 15
