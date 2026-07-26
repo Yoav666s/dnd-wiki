@@ -35,7 +35,7 @@ For music, there will be three options. Tallis will pay half of the rates.
 ### Melena Moonkiss
 If the Player chooses to hire Melena, they will find her in no other place than the Thirsty Deckhand.
 
-> You enter the Thirsty Deckhand, greeted once again by the smell of dry wine and homemade broth. 
+> You enter the Thirsty Deckhand, greeted once again by the smell of dry wine and homemade broth. You hear a delightfully sad melody filling the room, as if it's coming from everywhere at once. On the stage, you see a gorgeous drow woman with a large harp, her braided, pearl-white hair resting on her shoulder as she plucks the strings.
 
 # The Gala
 At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive uninvited. Tallis will let them in, feeling a little guilty for not inviting them. 
