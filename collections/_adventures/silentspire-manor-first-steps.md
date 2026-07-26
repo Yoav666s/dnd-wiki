@@ -355,13 +355,14 @@ Have two groups of up to four shrubs each surround a different target and focus 
 #### Running the Encounter
 To make the fight more engaging for a new Player while keeping it simple, have them roll the attacks and damage for their allies, while you decide on how each ally acts. With an experienced player who wants more presence on the battlefield, you can let them fully control the actions of their allies. Have all the shrubs act at the same time in initiative order, while the tree has it's own separate turn. Similarly, have all the guards act at the same time while Tallis and Shael have their own turns.
 
-***3rd level variant.** Consult the following table for an environmental effect happening at initiative count 20 while the tree is still alive. You can choose a different effect each round or roll 1d4 to decide.*
+***3rd level variant.** Consult the following table for an environmental effect happening at initiative count 20 while the tree or the shrubs are still alive. You can choose a different effect each round or roll 1d4 to decide.*
 
 | 1d4 | Environmental Effect |
 | :---: | :---- |
 | 1 | Vines sprout from the ground in an attempt to restrain 1d4 random targets. Each target has to succeed a DC 11 Dexterity saving throw or become restrained for 1 round. |
 | 2 | Roots sprout from the ground in an attempt to trip 1d4 random targets. Each target has to succeed a DC 11 Dexterity saving throw or fall prone. |
-| 3 ||
+| 3 | Each awakened shrub lets out a terrifying screech. Every creature within 30 feet of a shrub must succeed a DC 11 Wisdom saving throw or become frightened for 1 round. |
+| 4 |  |
 
 If the Player attempts to get closer to the tree, have Tallis and Shael warn them not to do that, as the tree will hit them very hard.
 
