@@ -23,6 +23,8 @@ challenge_rating: 0.25
 xp: 50
 proficiency_bonus: "+2"
 actions: |
+  **Longsword.** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
+  
   **Shortbow.** Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
 
   **Momentary Madness.** One humanoid the sprite can see within 60 feet must succeed a DC 12 Wisdom saving throw to or be charmed for 1 round. The charmed target uses its action to make a melee attack against a different target that the sprite mentally chooses. If the target successfully saves against the effect, or after the effect on it ends, the target is immune to this sprite’s Momentary Madness for the next 24 hours.
