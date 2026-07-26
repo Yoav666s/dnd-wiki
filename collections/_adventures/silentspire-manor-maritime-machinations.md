@@ -41,7 +41,7 @@ When the Player explains they want to hire Melena, Alanda will say that they'll 
 
 | Order | Price (SP) |
 | :---: | :---: |
-| A glass of red wine. | 3 |
+| A glass of red wine | 3 |
 | Soup | 2 |
 | Grilled meat | 6 |
 | Mashed potatoes | 1 |
