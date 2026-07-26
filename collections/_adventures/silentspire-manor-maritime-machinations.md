@@ -26,7 +26,7 @@ Tallis will explain that with food already covered, they'll need to sort out the
 ## Hiring Entertainment
 For music, there will be three options. Tallis will pay half of the rates.
 
-**The Hillkeeper Brothers (3 GP).** Three brothers who sing together, each playing a different instrument. They're energetic and upbeat, great for sing-alongs.
+**The Hillkeeper Brothers (3 GP).** Three dwarves who sing together, each playing a different instrument. They're energetic and upbeat, great for sing-alongs.
 
 **Melena Moonkiss (5 GP).** A harp player that strums hauntingly beautiful melodies. Perfect for a subtle, understated performance that provides a lovely background for social interaction.
 
