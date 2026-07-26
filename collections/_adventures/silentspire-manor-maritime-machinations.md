@@ -16,6 +16,8 @@ The Player has inherited Silentspire Manor from their great-aunt Helena Silentsp
 ## A Wholesome Breakfast
 The PC has just woken up and made their way to the dining area, meeting everyone (except Krogg who's in the kitchen). Tallis will inform the Player that he has been thinking about organizing a gala to celebrate the restoration of Silentspire Manor.
 
+Krogg will like the idea but comment that it would mean he'll have to prepare a lot of food. He'll also ask if they can invite his friend Draegor to the gala, now retired war veteran.
+
 Shael will say that it's strange that there were awakened plants in the garden. She knows this kind of magic, someone bad must have awakened them, considering how quickly they attacked the guard.
 
 [Organizing the gala]
@@ -33,11 +35,15 @@ Everyone except the hags will be surprised. On her turn, Mathilda will cast Inco
 
 Afterwards, or if the PC is not wearing the *Headband of Intellect*, the three hags will target Tallis with Witch Bolt on their turns unless they can target him with their Piercing Glare. They will continue dealing damage to him in their following turns.
 
+Draegor will attack one of the hags with resolve instead of running away. Mathilda will cast Hold Person on him to try and mitigate his attacks.
+
 After Tallis goes down, Agatha will cast fog cloud and the hags will escape. Have them roll a Dexterity (Stealth) checks as a group against the PC's passive perception. If they fail, tell the Player they hear the front doors slam shut.
 
 ***Describing Coven Magic.** As one hag casts a spell with coven magic, describe the two other hags chanting with her and providing somatic components for the spell. A successful DC 15 Intelligence (Arcana) check will reveal that one hag cannot cast a spell alone and needs her sisters for it.*
 
 Since NPCs don't get death saving throws, Tallis will die. Shael will immediately run to him and cast Revivify.
+
+
 
 # Appendix A
 
