@@ -22,6 +22,8 @@ languages: "Common, Orc"
 challenge_rating: 3
 xp: 700
 proficiency_bonus: "+2"
+traits: |
+  **Orcish Resolve (1/Day).** When Draegor is reduced to 0 hit points, he instead drops to 1 hit point.
 actions: |
   **Multiattack.** Draegor makes two longsword attacks. If he has a shortsword drawn, he can also make a shortsword attack.
   
