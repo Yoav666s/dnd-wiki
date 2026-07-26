@@ -20,7 +20,17 @@ When Krogg arrives and hears them talking about the gala, he will like the idea 
 
 After the breakfast, Shael will take the PC aside and say that it's strange that there were awakened plants in the garden. She knows this kind of magic, someone bad must have awakened them, considering how quickly they attacked the guard.
 
-[Organizing the gala]
+# Organizing the Gala
+Tallis will explain that with food already covered, they'll need to sort out the guest list, hire some entertainment, and decorate the place.
+
+## Hiring Entertainment
+For music, there will be three options.
+
+**Melena Moonkiss.** A harp player that strums hauntingly beautiful melodies. Perfect for a subtle, understated performance that provides a lovely background for social interaction.
+
+**The Hillkeeper Brothers.** Three brothers who sing together, each playing a different instrument. They're energetic and upbeat, great for sing-alongs.
+
+**William Cloversorrow.** An older once-wandering bard who settled down in Gullenshire. He sings heartbreaking ballads with his beautiful, deep singing voice and his effortless plucking on the lute.
 
 # The Gala
 At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive uninvited. Tallis will let them in, feeling a little guilty for not inviting them. 
