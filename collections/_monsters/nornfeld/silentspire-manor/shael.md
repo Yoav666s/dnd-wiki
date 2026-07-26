@@ -20,7 +20,7 @@ skills: "Perception +4, Stealth +5"
 senses: "Darkvision 60 ft., Passive Perception 14"
 languages: "Elvish, Sylvan"
 challenge_rating: 2
-xp: 200
+xp: 450
 proficiency_bonus: "+2"
 traits: |
   **Magic Resistance.** Shael has advantage on saving throws against spells and other magical effects.
