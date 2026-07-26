@@ -35,7 +35,7 @@ Everyone except the hags will be surprised. On her turn, Mathilda will cast Inco
 
 Afterwards, or if the PC is not wearing the *Headband of Intellect*, the three hags will target Tallis, Shael, and the PC with Witch Bolt on their turns unless they can target them with their Piercing Glare. They will continue dealing damage to them in their following turns.
 
-After a few rounds, Agatha will cast fog cloud and the hags will escape. Have them roll a Dexterity (Stealth) checks with advantage as a group against the PC's Wisdom (Perception) at disadvantage. If they fail, tell the Player they hear the front doors slam shut.
+After a few rounds, or if one of the hags gets low on hit points, Agatha will cast fog cloud and the hags will escape. Have them roll a Dexterity (Stealth) checks with advantage as a group against the PC's Wisdom (Perception) at disadvantage. If they fail, tell the Player they hear the front doors slam shut.
 
 ***Describing Coven Magic.** As one hag casts a spell with coven magic, describe the two other hags chanting with her and providing somatic components for the spell. A successful DC 15 Intelligence (Arcana) check will reveal that one hag cannot cast a spell alone and needs her sisters for it.*
 
