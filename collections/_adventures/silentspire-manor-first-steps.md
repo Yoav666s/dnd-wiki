@@ -65,7 +65,7 @@ Through dialogue with him, he will reveal the following things.
 - He's friendly with the griffon and has been occasionally feeding it rats. It sometimes flies away to hunt.
 - There’s a giant rat in the basement.
 
-Ask the player to make a DC 12 Wisdom saving throw. On success, they hear a voice whispering in their mind, "This place is dangerous." On failure, the PC believes that this is a spontaneous thought that occured to them.
+Ask the player to make a DC 12 Wisdom saving throw. On success, they hear a voice whispering in their mind, "This place is dangerous." On failure, the PC believes that this is a spontaneous thought that occurred to them.
 
 ***Note to the DM:** The whisper/implanted thought is sent by the whispering sprite's whisper ability. It will potentially reveal itself in the following adventure, "Silentspire Manor: Maritime Machinations".*
 
@@ -106,7 +106,7 @@ If the Player opens the three other bottles, they find the following.
 
 **Tyll.** A sweet yellow liquor made from peaches, also elvish. This one has turned to vinegar.
 
-Ask the Player to make a DC 12 Wisdom saving throw. On success, they will hear a whisper in their mind, "This place was abandoned for a reason." On failure, they will believe it's a spontaneous thought that occured to them.
+Ask the Player to make a DC 12 Wisdom saving throw. On success, they will hear a whisper in their mind, "This place was abandoned for a reason." On failure, they will believe it's a spontaneous thought that occurred to them.
 
 ### The Garden
 Simon will say that there's nothing to see in the garden, it's all wilted and dry, and he could swear he saw some shrubs moving in the back. If the Player decides to go there anyway, have Simon heavily dissuade them from going to the rear. If they do go there, nothing will move, making Simon seem a little paranoid.
