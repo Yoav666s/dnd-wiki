@@ -137,7 +137,7 @@ If the player is friendly towards the sprite, four more will reveal themselves, 
 
 **Tiptail.** A maddening sprite with messy auburn hair.
 
-**Sammy.** A musing sprite with short red hair.
+**Woodchip.** A musing sprite with short red hair.
 
 **Teacup.** A whispering sprite with a long, blue braid.
 
