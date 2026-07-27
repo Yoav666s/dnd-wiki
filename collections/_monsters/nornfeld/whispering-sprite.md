@@ -27,7 +27,7 @@ actions: |
   
   **Shortbow.** Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
 
-  **Whisper.** The sprite magically whispers a message to a creature it can see within 120 feet. The target must make a Wisdom saving throw. On failure, it believes the message is a spontaneous thought that occurred to it in its mind. On success, the target (and only the target) hears the message, but doesn't recognize the source.
+  **Whisper.** The sprite magically whispers a message to a creature it can see within 120 feet. The target must make a DC 12 Wisdom saving throw. On failure, it believes the message is a spontaneous thought that occurred to it in its mind. On success, the target (and only the target) hears the message, but doesn't recognize the source.
 
   **Invisibility.** The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
 excerpt: "Tiny Fey, Chaotic Neutral"
