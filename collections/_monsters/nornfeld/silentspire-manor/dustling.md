@@ -26,6 +26,8 @@ challenge_rating: 0.5
 xp: 100
 proficiency_bonus: "+2"
 traits: |  
+  **False Appearance.** While motionless, the dustling is indistinguishable from a dust bunny.
+  
   **Innate Spellcasting.** The mephit can innately cast sleep, requiring no material components. Its innate spellcasting ability is Charisma.
 actions: |
   **Claws.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) slashing damage.
