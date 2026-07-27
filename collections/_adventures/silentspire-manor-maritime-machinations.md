@@ -90,7 +90,7 @@ After the performance, Alanda will approach Melena and whisper something in her 
 ### William Morsorrow
 William doesn't perform regularly like the others. He's earned enough throughout his life that he can afford to sit comfortably at his home and focus on writing and composing new pieces. The player will find his house in Sourweed street.
 
-> You knock on the door that says "Morsorrow Residence" and wait for a response. The door opens and you see a well-dressed man at his sixties or seventies, greeting you with a kind smile and a soothing voice. "May I help you?"
+> You knock on the door that says "Morsorrow Residence" and wait for a response. The door opens and you see a well-dressed man in his sixties or seventies, greeting you with a kind smile and a soothing voice. "May I help you?"
 
 When the Player explains that they want to hire him, he will invite them in to discuss this over a cup of tea. He will reveal the following things.
 
