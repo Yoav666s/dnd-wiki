@@ -46,7 +46,11 @@ When the Player explains they want to hire Melena, Alanda will say that they'll 
 | Grilled meat | 6 |
 | Mashed potatoes | 1 |
 
+After the performance, Alanda will approach Melena and whisper something in her ear, nodding with her head towards the PC. Melena will approach the PC and sit at their table, saying that she heard they have an offer for her. Through dialogue, she will reveal the following things.
 
+- She will demand 5 GP for the evening.
+- She doesn't sing, only play the harp.
+- 
 
 # The Gala
 At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive uninvited. Tallis will let them in, feeling a little guilty for not inviting them. 
