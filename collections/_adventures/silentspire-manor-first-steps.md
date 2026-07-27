@@ -415,6 +415,8 @@ The next day, the Player wakes up and see a beautiful, lively garden from their 
 
 {% include monster_details.html index="simon-gribblesnout" %}
 
+{% include monster_details.html index="dustling" %}
+
 {% include monster_details.html index="shael" %}
 
 {% include monster_details.html index="giant-rat" %}
