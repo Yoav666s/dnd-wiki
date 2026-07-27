@@ -24,6 +24,8 @@ Additionally, building a character with a high Charisma score is recommended, wi
 
 Urge the Player to build a friendly character that wouldn't be too suspicious of others, as this adventure series will quickly fall apart if the PC attacks every new person they come across. Explain to them that this campaign thrives on personal connections and non-violent solutions to problems.
 
+Choosing to give the PC 50 GP through their background will go a long way in helping them manage the financial elements of this adventure series. On the other hand, they might feel trivialized for some players who likes to earn their keep. Either way, inform the player that there will be a lot of gold to spend.
+
 ## A New Home
 The PC in this adventure has just inherited Silentspire Manor. It is up to them to bring it back to its former glory, as right now it's in a horribly neglected state. You can read out loud the following description for the Player.
 
