@@ -65,6 +65,8 @@ Through dialogue with him, he will reveal the following things.
 - He's friendly with the griffon and has been occasionally feeding it rats. It sometimes flies away to hunt.
 - There’s a giant rat in the basement.
 
+Ask the player to make a DC 12 Wisdom saving throw. On success, they hear a voice whispering in their mind, "This place is dangerous." On failure, the PC believes that this is a spontaneous thought that occured to them.
+
 ## House Tour
 The Player will probably want a tour of the manor, the layout of which is detailed in [[Appendix B]]. The second floor is an array of ten small bedrooms, and the dining area is a large room with a long table with enough space for twenty people.
 
