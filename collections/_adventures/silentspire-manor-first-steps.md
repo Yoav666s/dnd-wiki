@@ -74,12 +74,14 @@ The Player will probably want a tour of the manor, the layout of which is detail
 In the library and throughout the interior of the manor, the player will find a lot of books. Many of them recount the Last War and the victories of the empire, while others are fiction novels, alchemical recipes, guides for collecting herbs, and more. On the top shelf of one of the bookcases in the library, the player will see something glowing blue.
 
 > You find a small silver headband with a sapphire in the middle of it. The blue gem glows dimly in the dark library, and as you blow away the dust from it, it glows brighter. You feel its essence is magical, but you don't know what kind of magic this is.
->
-> A thick dust bunny on the shelf starts moving and takes the form of an ugly little [noun] made of dust. It shrieks at you as it attempts to bite you, but you quickly yank your hand away. Roll initiative!
 
-The stat block for the dustling is located in Appendix A. Have it use its Blinding Breath against the player on its turn.
+***3rd level variant.** The Player will encounter a dustling after picking up the headband.*
 
-This would be a good time to explain to the player that they can take a short rest focusing on the headband to figure out what it does. If they know the Identify spell, prompt them to cast it as a ritual, instead.
+> A thick dust bunny on the shelf starts moving and takes the form of an ugly little puck made of dust. It shrieks at you as it attempts to bite you, but you quickly yank your hand away. Roll initiative!
+
+The stat block for the dustling is located in [[Appendix A]]. Have it use its Blinding Breath against the player on its turn.
+
+This would be a good time to explain to the player that they can take a short rest focusing on the headband to figure out what it does, and maybe heal up with hit dice if they fought the dustling. If they know the Identify spell, prompt them to cast it as a ritual, instead.
 
 > As you focus on the headband, you feel it brimming with magical power. You learn that while attuned to it, the wearer's Intelligence score is increased to 19. Add the Headband of Intellect to your inventory.
 
