@@ -103,7 +103,7 @@ At the gala, dozens of guests will arrive and Tallis will stand at the gate to r
 
 [describe the gala]
 
-Ask the Player to make a DC 12 Wisdom saving throw. On success, they hear a whisper in their mind, "Stay away from the old ladies." On failure, they believe it's a spontaneous thought that occured to them.
+Ask the Player to make a DC 12 Wisdom saving throw. On success, they hear a whisper in their mind, "Stay away from the old ladies." On failure, they believe it's a spontaneous thought that occurred to them.
 
 ## Coven Ambush 
 The three old ladies will stand near the PC and drop their illusory appearance. Everyone will have to make Wisdom saving throws. Let the normal guests and residents automatically fail, while rolling for Shael and Tallis.
