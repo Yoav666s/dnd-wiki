@@ -26,7 +26,7 @@ Tallis will explain that with food already covered, they'll need to sort out the
 ## Hiring Entertainment
 For music, there will be three options. Tallis will pay half of the rate.
 
-**The Hillkeeper Brothers (3 GP).** Three dwarves who sing together, each playing a different instrument. They're energetic and upbeat, great for sing-alongs.
+**The Hillkeeper Brothers (2 GP).** Three dwarves who sing together, each playing a different instrument. They're energetic and upbeat, great for sing-alongs.
 
 **Melena Moonkiss (5 GP).** A harp player that strums hauntingly beautiful melodies. Perfect for a subtle, understated performance that provides a lovely background for social interaction.
 
@@ -49,7 +49,7 @@ There will be too many people and too much noise for the PC to be able to approa
 After the performance is over, the brothers will get off the stage and approach the bar for a bucket of ale. If the player initiates conversation with them, they will reveal the following.
 
 - They usually don't do galas or high society stuff.
-- Their price will be 3 GP for the evening.
+- Their price will be 2 GP for the evening.
 - They appreciate the offer but highly recommend that the PC will find someone else.
 
 If the player is sure they want to hire the brothers, they will eventually agree.
@@ -73,6 +73,17 @@ After the performance, Alanda will approach Melena and whisper something in her 
 - She will demand 5 GP for the evening.
 - She doesn't sing, only play the harp.
 - Her role is to provide ambience and she doesn't take requests.
+
+## William Morsorrow
+William doesn't perform regularly like the others. He's earned enough throughout his life that he can afford to sit comfortably at his home and focus on writing and composing new pieces. The player will find his house in Sourweed street.
+
+> You knock on the door that says "Morsorrow Residence" and wait for a response. The door opens and you see a well-dressed man at his sixties or seventies, greeting you with a kind smile and a soothing voice. "May I help you?"
+
+When the Player explains that they want to hire him, he will invite them in to discuss this over a cup of tea. He will reveal the following things.
+
+- It's been some time since he'd last performed publicly.
+- He's not cheap, he'll demand 8 GP for the evening.
+- He has some new pieces that no audience has heard yet, and he's excited to see how they'll be received.
 
 # The Gala
 At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive uninvited. Tallis will let them in, feeling a little guilty for not inviting them. 
