@@ -57,11 +57,11 @@ After the performance is over, the brothers will get off the stage and approach 
 
 If the player is sure they want to hire the brothers, they will eventually agree. The following are brief descriptions of each brother, they all look alike except for their facial hair. Brown hair, broad build, and rough hands with thick fingers.
 
-**Dinger.** Energetic, cheerful, and loud. Thick mustache. Plays the Lute.
+**Oliver.** Energetic, cheerful, and loud. Thick mustache. Plays the Lute.
 
-**Regory.** Doesn't speak much when he's not singing. No facial hair. Plays the drums.
+**Harris.** Doesn't speak much when he's not singing. No facial hair. Plays the drums.
 
-**Kordall.** Blunt and unfiltered. Full beard. Plays the bagpipes.
+**Gregory.** Blunt and unfiltered. Full beard. Plays the bagpipes.
 
 ### Melena Moonkiss
 If the Player chooses to hire Melena, they will find her in no other place than the Thirsty Deckhand.
