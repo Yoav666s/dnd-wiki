@@ -30,7 +30,7 @@ For music, there will be three options. Tallis will pay half of the rates.
 
 **Melena Moonkiss (5 GP).** A harp player that strums hauntingly beautiful melodies. Perfect for a subtle, understated performance that provides a lovely background for social interaction.
 
-**William Cloversorrow (8 GP).** An older once-wandering bard who settled down in Gullenshire. He sings heartbreaking ballads with his beautiful, deep singing voice and his effortless plucking on the lute.
+**William Morsorrow (8 GP).** An older once-wandering bard who settled down in Gullenshire. He sings heartbreaking ballads with his beautiful, deep singing voice and his effortless plucking on the lute.
 
 ### Melena Moonkiss
 If the Player chooses to hire Melena, they will find her in no other place than the Thirsty Deckhand.
