@@ -282,7 +282,9 @@ Krogg is a pleasant and kind person despite his intimidating appearance. In dial
 Krogg is a professional and he will cook well. Tallis will make sure he makes a portion for himself, too. When Simon comes back with the ingredients and the change, Krogg will make eggs with bacon, sausages, and serve them with cheese and berries. The sausages will be perfectly roasted, and the eggs and bacon will be cooked just right. The bread will be fresh, crispy on the outside, and fluffy on the inside. Tallis will absolutely want to hire him.
 
 ## Hiring Guards
-With his mouth half full, Tallis will say that given how much wine they're keeping in the cellar, they should hire some guards. Guards earn 2 SP a day or 6 GP a month, so the player can choose how many guards to hire depending on how much they earned selling wine. Tallis will pay half, up to 12 GP. He won't find it sensible to hire more than four guards.
+With his mouth half full, Tallis will say that he had a strange dream in which the PC told him that this place is dangerous and they shouldn't stay here. If the player shares that they heard a whisper that said that or had that thought earlier, Tallis will find it strange but won't dwell on it too much.
+
+Tallis will say that given how much wine they're keeping in the cellar, they should hire some guards. Guards earn 2 SP a day or 6 GP a month, so the player can choose how many guards to hire depending on how much they earned selling wine. Tallis will pay half, up to 12 GP. He won't find it sensible to hire more than four guards.
 
 If the player argues that they have a griffon protecting the garden, Tallis will say that it's a relatively tame and friendly griffon, and anyone can pacify it with some food. They need guards who will actually stand at the gate and protect the mansion from ill-intentioned strangers
 
