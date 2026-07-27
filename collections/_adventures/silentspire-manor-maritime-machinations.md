@@ -26,6 +26,10 @@ Tallis will explain that with food already covered, they'll need to sort out the
 ## Finalizing the Guest List
 Tallis will write down a lot of names the PC won't recognize, but he will ask if they want to invite anyone special.
 
+**Toolscrap.** Tallis will laugh but add him to the list. 
+
+**Agatha, Glinda, and Mathilda.** Tallis will ask the Player if they're sure, but will eventually agree to add them to the list.
+
 ## Hiring Entertainment
 For music, there will be three options. Tallis will pay half of the rate.
 
@@ -95,7 +99,7 @@ When the Player explains that they want to hire him, he will invite them in to d
 - He has some new pieces that no audience has heard yet, and he's excited to see how they'll be received.
 
 # The Gala
-At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive uninvited. Tallis will let them in, feeling a little guilty for not inviting them. 
+At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive even if they weren't invited. Tallis will let them in, feeling a little guilty if they didn't invite them. 
 
 [describe the gala]
 
