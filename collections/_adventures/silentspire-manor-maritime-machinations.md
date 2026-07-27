@@ -21,7 +21,7 @@ When Krogg arrives and hears them talking about the gala, he will like the idea 
 After the breakfast, Shael will take the PC aside and say that it's strange that there were awakened plants in the garden. She knows this kind of magic, someone bad must have awakened them, considering how quickly they attacked the guard.
 
 # Organizing the Gala
-Tallis will explain that with food already covered, they'll need to sort out the guest list, hire some entertainment, and decorate the place.
+Tallis will explain that with food already covered, they'll need to sort out the guest list, hire some entertainment, and decide on a date and time. 
 
 ## Hiring Entertainment
 For music, there will be three options. Tallis will pay half of the rates.
@@ -50,7 +50,7 @@ After the performance, Alanda will approach Melena and whisper something in her 
 
 - She will demand 5 GP for the evening.
 - She doesn't sing, only play the harp.
-- 
+- Her role is to provide ambience and she doesn't take requests.
 
 # The Gala
 At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive uninvited. Tallis will let them in, feeling a little guilty for not inviting them. 
