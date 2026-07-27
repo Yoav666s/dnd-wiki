@@ -37,7 +37,7 @@ If the Player chooses to hire Melena, they will find her in no other place than 
 
 > You enter the Thirsty Deckhand, greeted once again by the smell of dry wine and homemade broth. You hear a delightfully sad melody filling the room, as if it's coming from everywhere at once. On the stage, you see a gorgeous drow woman with a large harp, her braided, pearl-white hair resting on her shoulder as she plucks the strings. You are approached by Alanda. "Welcome to the Thirsty Deckhand! How can I help you today?"
 
-When the Player explains they want to hire Melena, Alanda will say that they'll need to wait for the end of her performance. She'll happily lead them to an empty table and ask if they want to order anything while they wait.
+When the Player explains they want to hire Melena, Alanda will say that they'll need to wait for the end of her performance. She'll happily lead them to an empty table and ask if they want to order anything while they wait (they don't have to, since they're here on business).
 
 | Order | Price (SP) |
 | :---: | :---: |
@@ -45,6 +45,8 @@ When the Player explains they want to hire Melena, Alanda will say that they'll 
 | Soup | 2 |
 | Grilled meat | 6 |
 | Mashed potatoes | 1 |
+
+
 
 # The Gala
 At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive uninvited. Tallis will let them in, feeling a little guilty for not inviting them. 
