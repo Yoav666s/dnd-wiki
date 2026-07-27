@@ -61,7 +61,7 @@ Through dialogue with him, he will reveal the following things.
 
 - He doesn’t remember how long he’s been living here.
 - He’d like to stay if the PC will let him.
-- He spent a lot of time in the library and actually kept it quite organized.
+- He spent a lot of time in the library and actually kept it quite organized, although no matter how much he tried to clean it, there's always more dust.
 - He's friendly with the griffon and has been occasionally feeding it rats. It sometimes flies away to hunt.
 - There’s a giant rat in the basement.
 
@@ -74,6 +74,10 @@ The Player will probably want a tour of the manor, the layout of which is detail
 In the library and throughout the interior of the manor, the player will find a lot of books. Many of them recount the Last War and the victories of the empire, while others are fiction novels, alchemical recipes, guides for collecting herbs, and more. On the top shelf of one of the bookcases in the library, the player will see something glowing blue.
 
 > You find a small silver headband with a sapphire in the middle of it. The blue gem glows dimly in the dark library, and as you blow away the dust from it, it glows brighter. You feel its essence is magical, but you don't know what kind of magic this is.
+>
+> A thick dust bunny on the shelf starts moving and takes the form of an ugly little [noun] made of dust. It shrieks at you as it attempts to bite you, but you quickly yank your hand away. Roll initiative!
+
+The stat block for the dustling is located in Appendix A. Have it use its Blinding Breath against the player on its turn.
 
 This would be a good time to explain to the player that they can take a short rest focusing on the headband to figure out what it does. If they know the Identify spell, prompt them to cast it as a ritual, instead.
 
