@@ -51,8 +51,6 @@ ask for a DC 10 Wisdom (Animal Handling) check to put their hand forward in an a
 
 Once the player pacifies the griffon, they're free to pet it and stroke its beak. It will stay in the wilted garden as the player continues on.
 
-If the player avoided the griffon or somehow failed to pacify it, have it be awake the next time they step out of the manor, and allow them to try and tame it.
-
 > As you arrive at the massive front doors, you push them open. The morning light fills the otherwise dark, dusty interior of the foyer, and you hear a little yelp.
 
 Upon investigating the sound, the PC will find a little gnome named Simon Gribblesnout. He has been living here for years, feeding on rats and drinking from the river that passes through what used to be the garden.
