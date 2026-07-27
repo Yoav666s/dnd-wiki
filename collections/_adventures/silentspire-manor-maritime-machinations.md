@@ -168,6 +168,16 @@ The following are brief descriptions of guards, which all use the same Manor Gua
 
 {% include spell_details.html index="incontinence" %}
 
+{% include monster_details.html index="sprite" %}
+
+{% include monster_details.html index="dreaming-sprite" %}
+
+{% include monster_details.html index="maddening-sprite" %}
+
+{% include monster_details.html index="musing-sprite" %}
+
+{% include monster_details.html index="whispering-sprite" %}
+
 # Appendix B
 
 [:adventures/silentspire-manor/interior:]
