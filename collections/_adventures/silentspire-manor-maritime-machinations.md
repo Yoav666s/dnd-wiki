@@ -24,13 +24,16 @@ After the breakfast, Shael will take the PC aside and say that it's strange that
 Tallis will explain that with food already covered, they'll need to sort out the guest list, hire some entertainment, and decide on a date and time. 
 
 ## Hiring Entertainment
-For music, there will be three options. Tallis will pay half of the rates.
+For music, there will be three options. Tallis will pay half of the rate.
 
 **The Hillkeeper Brothers (3 GP).** Three dwarves who sing together, each playing a different instrument. They're energetic and upbeat, great for sing-alongs.
 
 **Melena Moonkiss (5 GP).** A harp player that strums hauntingly beautiful melodies. Perfect for a subtle, understated performance that provides a lovely background for social interaction.
 
 **William Morsorrow (8 GP).** An older once-wandering bard who settled down in Gullenshire. He sings heartbreaking ballads with his beautiful, deep singing voice and his effortless plucking on the lute.
+
+### The Hillkeeper Brothers
+If the Player chooses to hire the brothers, they will find them in Grunge's Bucketfuls.
 
 ### Melena Moonkiss
 If the Player chooses to hire Melena, they will find her in no other place than the Thirsty Deckhand.
