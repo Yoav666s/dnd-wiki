@@ -7,7 +7,7 @@ size: "Tiny"
 type: "Fey"
 alignment: "Chaotic Neutral"
 armor_class: "15 (Armor)"
-hit_points: "2 (1d4)"
+hit_points: "10 (4d4)"
 speed: "walk 10 ft., fly 40 ft."
 str_score: 3
 dex_score: 18
