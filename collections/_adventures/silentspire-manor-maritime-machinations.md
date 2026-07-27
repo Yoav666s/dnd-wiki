@@ -21,7 +21,7 @@ When Krogg arrives and hears them talking about the gala, he will like the idea 
 After the breakfast, Shael will take the PC aside and say that it's strange that there were awakened plants in the garden. She knows this kind of magic, someone bad must have awakened them, considering how quickly they attacked the guard.
 
 # Organizing the Gala
-Tallis will explain that with food already covered, they'll need to sort out the guest list, hire some entertainment, and decide on a date and time. He will also hand Simon 2 GP to get himself something nice to wear.
+Tallis will explain that with food already covered, they'll need to sort out the guest list, hire some entertainment, and decide on a date and time. He will also hand Simon 2 GP to rent himself something nice to wear.
 
 ## Finalizing the Guest List
 Tallis will write down a lot of names the PC won't recognize, but he will ask if they want to invite anyone special.
