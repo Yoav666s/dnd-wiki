@@ -137,6 +137,8 @@ If the player is friendly towards the sprite, four more will reveal themselves, 
 
 **Teacup.** A whispering sprite with a long, blue braid.
 
+Teacup will confess that she and Peana tried too scare off Tallis and the PC from staying here, but they're glad it didn't work. They were afraid that the PC won't be nice and will make the manor even more miserable because they don't trust strangers. Peana is responsible for Tallis's dream in which the Player warned him not to stay here, and Teacup is responsible for the whispers and/or thoughts that she planted in their mind.
+
 # Appendix A
 
 {% include monster_details.html index="griffon" %}
