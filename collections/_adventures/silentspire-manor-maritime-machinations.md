@@ -103,6 +103,7 @@ At the gala, dozens of guests will arrive and Tallis will stand at the gate to r
 
 [describe the gala]
 
+## Coven Ambush 
 The three old ladies will stand near the PC and drop their illusory appearance. Everyone will have to make Wisdom saving throws. Let the normal guests and residents automatically fail, while rolling for Shael and Tallis.
 
 > The three old ladies turn into three hideous hags. Their skin is a sickly shade of greenish blue, their long hair is brittle and grey, covering their bare chests, and their eyes are cloudy. Everyone is screaming and running away towards the front doors. Roll initiative!
@@ -114,6 +115,21 @@ Afterwards, or if the PC is not wearing the *Headband of Intellect*, the three h
 After a few rounds, or if one of the hags gets low on hit points, Agatha will cast fog cloud and the hags will escape. Have them roll a Dexterity (Stealth) checks with advantage as a group against the PC's Wisdom (Perception) at disadvantage. If they fail, tell the Player they hear the front doors slam shut. If the PC tries to chase them, they will find nothing (they casted teleport to return to their lair).
 
 ***Describing Coven Magic.** As one hag casts a spell with coven magic, describe the two other hags chanting with her and providing somatic components for the spell. A successful DC 15 Intelligence (Arcana) check will reveal that one hag cannot cast a spell alone and needs her sisters for it.*
+
+## After the Ambush
+The PC will feel something warm and gentle touching their arm, but see nothing. If they have a good or neutral alignment, a tiny sprite will reveal himself.
+
+> You see a tiny little creature hovering in the air with fluttering wings. It looks like an elf, but an eighth of the size. It looks at you with black, beady eyes and says, "Are the bad witches gone?"
+
+The tiny sprite is called Quicknip, and will reveal the following through dialogue.
+
+- He and his friends have been living in the manor for a very long time.
+- Helena used to be nice before she turned sour.
+- The witches awakened the trees to protect Helena, for her kindness. She didn't realize she agreed to give her kindness away.
+
+If the player is friendly towards the sprite, four more will reveal themselves, one by one. 
+
+
 
 # Appendix A
 
