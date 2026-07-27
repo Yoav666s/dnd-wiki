@@ -67,7 +67,7 @@ Through dialogue with him, he will reveal the following things.
 
 Ask the player to make a DC 12 Wisdom saving throw. On success, they hear a voice whispering in their mind, "This place is dangerous." On failure, the PC believes that this is a spontaneous thought that occured to them.
 
-***Note:** The whisper/implanted thought is sent by the whispering sprite's whisper ability. It will potentially reveal itself in the following adventure, "Silentspire Manor: Maritime Machinations".*
+***Note to the DM:** The whisper/implanted thought is sent by the whispering sprite's whisper ability. It will potentially reveal itself in the following adventure, "Silentspire Manor: Maritime Machinations".*
 
 ## House Tour
 The Player will probably want a tour of the manor, the layout of which is detailed in [[Appendix B]]. The second floor is an array of ten small bedrooms, and the dining area is a large room with a long table with enough space for twenty people.
@@ -91,8 +91,7 @@ Explain to the Player what attunement is and how it works, then you can let them
 
 > As you wear the headband, the sapphire glows yet brighter. You feel its energy coursing through you, filling your mind with greater understanding of nature, unlocking memories you have forgotten, providing you with insight about the weave, and deeper knowledge of the gods of this world. It's pleasantly warm against your forehead, and your mind feels sharper.
 
-#### Note to the DM
-Giving out a free, uncommon *Headband of Intellect* might seem incredibly powerful for a 1st or 3rd level PC, but remember that this is a duet, and the Player is alone. Intelligence doesn't affect too much unless the Player picked an Intelligence-based class; even then, it's a +4 on their primary ability modifier rather than a +3, and shouldn't break the bounded accuracy of the game.
+***Note to the DM:** Giving out a free, uncommon *Headband of Intellect* might seem incredibly powerful for a 1st or 3rd level PC, but remember that this is a duet, and the Player is alone. Intelligence doesn't affect too much unless the Player picked an Intelligence-based class; even then, it's a +4 on their primary ability modifier rather than a +3, and shouldn't break the bounded accuracy of the game.*
 
 ### The Drawing Room
 > You enter a large dark room. Simon mutters an incantation and snaps his fingers, lighting the candles of a large chandelier in the center of it. You see two dusty red sofas next to the east wall, a hearth on the south wall, and a bar set at the north wall. "I don't spend a lot of time here," he says. "But I think the drinks here are still good."
