@@ -129,7 +129,13 @@ The tiny sprite is called Quicknip, and will reveal the following through dialog
 
 If the player is friendly towards the sprite, four more will reveal themselves, one by one. 
 
+**Peana.** A dreaming sprite with a purple ponytail.
 
+**Tiptail.** A maddening sprite with messy auburn hair.
+
+**Sammy.** A musing sprite with short red hair.
+
+**Teacup.** A whispering sprite with a long, blue braid.
 
 # Appendix A
 
