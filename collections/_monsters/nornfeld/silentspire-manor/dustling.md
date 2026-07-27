@@ -30,6 +30,6 @@ traits: |
 actions: |
   **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 2 (1d4) piercing damage.
   
-  **Blinding Breath (Recharge 6-6).** The dustling exhales a cloud of blinding dust. A creature within 5 feet of it must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+  **Blinding Breath (Recharge 5-6).** The dustling exhales a cloud of blinding dust. A creature within 5 feet of it must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 excerpt: "Small Elemental, Chaotic Neutral"
 ---
