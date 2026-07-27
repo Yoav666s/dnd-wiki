@@ -27,7 +27,7 @@ actions: |
   
   **Shortbow.** Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
 
-  **Intrude Thoughts.** The sprite magically intrudes the thoughts of a creature it can see within 30 feet. If the target has an Intelligence of 3 or lower, it is unaffected. The target hears the sprite in its thoughts, and is forced to imagine whatever the sprite is imagining. If the target is unwilling, it must make a Wisdom saving throw. If it succeeds, the sprite can't intrude its thoughts for the next 24 hours.
+  **Intrude Thoughts.** The sprite magically intrudes the thoughts of a creature it can see within 30 feet. If the target has an Intelligence of 3 or lower, it is unaffected. The target hears the sprite in its thoughts, and is forced to imagine whatever the sprite is imagining. If the target is unwilling, it must make a DC 12 Wisdom saving throw. If it succeeds, the sprite can't intrude its thoughts for the next 24 hours.
 
   **Invisibility.** The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
 excerpt: "Tiny Fey, Chaotic Neutral"
