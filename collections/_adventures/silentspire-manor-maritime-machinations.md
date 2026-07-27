@@ -23,14 +23,17 @@ After the breakfast, Shael will take the PC aside and say that it's strange that
 # Organizing the Gala
 Tallis will explain that with food already covered, they'll need to sort out the guest list, hire some entertainment, and decide on a date and time. 
 
+## Finalizing the Guest List
+Tallis will write down a lot of names the PC won't recognize, but he will ask if they want to invite anyone special.
+
 ## Hiring Entertainment
 For music, there will be three options. Tallis will pay half of the rate.
 
-**The Hillkeeper Brothers (2 GP).** Three dwarves who sing together, each playing a different instrument. They're energetic and upbeat, great for sing-alongs.
+**The Hillkeeper Brothers.** Three dwarves who sing together, each playing a different instrument. They're energetic and upbeat, great for sing-alongs.
 
-**Melena Moonkiss (5 GP).** A harp player that strums hauntingly beautiful melodies. Perfect for a subtle, understated performance that provides a lovely background for social interaction.
+**Melena Moonkiss.** A harp player that strums hauntingly beautiful melodies. Perfect for a subtle, understated performance that provides a lovely background for social interaction.
 
-**William Morsorrow (8 GP).** An older once-wandering bard who settled down in Gullenshire. He sings heartbreaking ballads with his beautiful, deep singing voice and his effortless plucking on the lute.
+**William Morsorrow.** An older once-wandering bard who settled down in Gullenshire. He sings heartbreaking ballads with his beautiful, deep singing voice and his effortless plucking on the lute.
 
 ### The Hillkeeper Brothers
 If the Player chooses to hire the brothers, they will find them in Grunge's Bucketfuls.
@@ -52,7 +55,13 @@ After the performance is over, the brothers will get off the stage and approach 
 - Their price will be 2 GP for the evening.
 - They appreciate the offer but highly recommend that the PC will find someone else.
 
-If the player is sure they want to hire the brothers, they will eventually agree.
+If the player is sure they want to hire the brothers, they will eventually agree. The following are brief descriptions of each brother, they all look alike except for their facial hair. Brown hair, broad build, and rough hands with thick fingers.
+
+**Dinger.** Energetic, cheerful, and loud. Thick mustache. Plays the Lute.
+
+**Regory.** Doesn't speak much when he's not singing. No facial hair. Plays the drums.
+
+**Kordall.** Blunt and unfiltered. Full beard. Plays the bagpipes.
 
 ### Melena Moonkiss
 If the Player chooses to hire Melena, they will find her in no other place than the Thirsty Deckhand.
@@ -74,7 +83,7 @@ After the performance, Alanda will approach Melena and whisper something in her 
 - She doesn't sing, only play the harp.
 - Her role is to provide ambience and she doesn't take requests.
 
-## William Morsorrow
+### William Morsorrow
 William doesn't perform regularly like the others. He's earned enough throughout his life that he can afford to sit comfortably at his home and focus on writing and composing new pieces. The player will find his house in Sourweed street.
 
 > You knock on the door that says "Morsorrow Residence" and wait for a response. The door opens and you see a well-dressed man at his sixties or seventies, greeting you with a kind smile and a soothing voice. "May I help you?"
