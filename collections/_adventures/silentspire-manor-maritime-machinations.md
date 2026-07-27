@@ -35,6 +35,25 @@ For music, there will be three options. Tallis will pay half of the rate.
 ### The Hillkeeper Brothers
 If the Player chooses to hire the brothers, they will find them in Grunge's Bucketfuls.
 
+> You enter Grunge's Bucketfuls and are hit with the wonderful smell of beer and home cooked food. Three dwarves are on stage, singing with everyone and playing a lute, drums, and bagpipes. 
+
+There will be too many people and too much noise for the PC to be able to approach the brothers directly. The Player will have to approach Earnest at the bar and tell him they want to hire them for the gala. Earnest will laugh and say that it would be a very special gala if that's the case. He will say that their performance is almost over, and offer the PC to order something while they wait.
+
+| Order | Price (CP) |
+| :---: | :---: |
+| A mug of cheap ale | 4 |
+| A literal bucket of ale (serves 4) | 15 |
+| Bean and slow-cooked beef stew | 10 |
+| Loaf of crusty, salted bread | 2 |
+
+After the performance is over, the brothers will get off the stage and approach the bar for a bucket of ale. If the player initiates conversation with them, they will reveal the following.
+
+- They usually don't do galas or high society stuff.
+- Their price will be 3 GP for the evening.
+- They appreciate the offer but highly recommend that the PC will find someone else.
+
+If the player is sure they want to hire the brothers, they will eventually agree.
+
 ### Melena Moonkiss
 If the Player chooses to hire Melena, they will find her in no other place than the Thirsty Deckhand.
 
