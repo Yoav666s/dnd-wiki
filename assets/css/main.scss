@@ -1,0 +1,17 @@
+---
+# Front matter is required so Jekyll processes Sass
+---
+
+@charset "utf-8";
+
+// 1. Define custom font variable
+$serif-custom: "Libre Baskerville", Georgia, serif;
+
+// 2. Override theme font families
+$global-font-family: $serif-custom;
+$header-font-family: $serif-custom;
+$caption-font-family: $serif-custom;
+
+// 3. Import theme files (MUST come after your variable overrides)
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
