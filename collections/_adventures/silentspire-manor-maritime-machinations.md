@@ -103,12 +103,12 @@ At the gala, dozens of guests will arrive and Tallis will stand at the gate to r
 
 The following are guests the Player can interact with at the gala. After the Player interacts with 2 (1d4) guests, proceed to initiate the [[Coven Ambush]].
 
-**Drestor Hullenside.** If the Player chose Melena or William to play music at the gala, Drestor will comment that the they made an excellent choice for this kind of evening. If the Player chose the Hillkeeper Brothers, he will say that the player has an interesting taste.
+**Drestor Hullenside.** If the Player chose Melena or William to play music at the gala, Drestor will comment that the they made an excellent choice for this kind of evening. If the Player chose the Hillkeeper Brothers, he will say that the PC has an interesting taste.
 
 **Earnest Grunge.** Earnest will 
 
 ## Coven Ambush 
-The three old ladies will stand near the PC and drop their illusory appearance. Everyone will have to make Wisdom saving throws. Let the normal guests and residents automatically fail, while rolling for Shael and Tallis.
+The three old ladies will surround the PC and drop their illusory appearance. Everyone will have to make three Wisdom saving throws for the hags' Horrific Appearance trait. Let the normal guests and residents automatically fail, while rolling for Shael and Tallis.
 
 > The three old ladies turn into three hideous hags. Their skin is a sickly shade of greenish blue, their long hair is brittle and grey, covering their bare chests, and their eyes are cloudy. Everyone is screaming and running away towards the front doors. Roll initiative!
 
