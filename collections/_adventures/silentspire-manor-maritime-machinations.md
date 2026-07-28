@@ -116,7 +116,7 @@ Afterwards, or if the PC is not wearing the *Headband of Intellect*, the three h
 
 After a few rounds, or if one of the hags gets low on hit points, Agatha will cast fog cloud and the hags will escape. Have them roll a Dexterity (Stealth) checks with advantage as a group against the PC's Wisdom (Perception) at disadvantage. If they fail, tell the Player they hear the front doors slam shut. If the PC tries to chase them, they will find nothing (they casted teleport to return to their lair).
 
-***Describing Coven Magic.** As one hag casts a spell with coven magic, describe the two other hags chanting with her and providing somatic components for the spell. A successful DC 15 Intelligence (Arcana) check will reveal that one hag cannot cast a spell alone and needs her sisters for it.*
+***Describing Coven Magic.** As one hag casts a spell with coven magic, describe the two other hags chanting with her and providing somatic components for the spell. A successful DC 15 Intelligence (Arcana or Religion) check will reveal that one hag cannot cast a spell alone and needs her sisters for it.*
 
 ## After the Ambush
 If Incontinence was cast on the PC and they have no means of cleaning themselves, Simon will use Prestidigitation to clean them.
