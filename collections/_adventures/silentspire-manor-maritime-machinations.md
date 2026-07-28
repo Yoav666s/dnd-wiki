@@ -21,7 +21,7 @@ When Krogg arrives and hears them talking about the gala, he will like the idea 
 After the breakfast, Shael will take the PC aside and say that it's strange that there were awakened plants in the garden. She knows this kind of magic, someone bad must have awakened them, considering how quickly they attacked the guard.
 
 # Organizing the Gala
-Tallis will explain that with food already covered, they'll need to sort out the guest list, hire some entertainment, and decide on a date and time. He will also hand Simon 2 GP to rent himself something nice to wear.
+Tallis will explain that with food already covered, they'll need to sort out the guest list, hire some entertainment, and decide on a date and time. He will also hand Simon and Shael 2 GP each to rent themselves something nice to wear. After the Player finishes their part in organizing the gala, give them a few days of downtime (depending on when they chose the gala to be).
 
 ## Finalizing the Guest List
 Tallis will write down a lot of names the PC won't recognize, but he will ask if they want to invite anyone special. The following are reactions for certain NPCs the Player might want to invite. If the player invites an NPC that doesn't appear here, feel free to improvise a response from Tallis and add them to the list.
@@ -101,9 +101,9 @@ When the Player explains that they want to hire him, he will invite them in to d
 # The Gala
 At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive even if they weren't invited. Tallis will let them in, feeling a little guilty if they didn't invite them. 
 
-[describe the gala]
+The following are guests the Player can interact with at the gala. After the Player interacts with 2 (1d4) guests, proceed to initiate the [[Coven Ambush]].
 
-Ask the Player to make a DC 12 Wisdom saving throw. On success, they hear a whisper in their mind, "Stay away from the old ladies." On failure, they believe it's a spontaneous thought that occurred to them.
+**Drestor.** If the Player chose Melena or William to play music at the gala, Drestor will comment that the they made an excellent choice for this kind of evening. If the Player chose the Hillkeeper Brothers, he will say that the player has an interesting taste.
 
 ## Coven Ambush 
 The three old ladies will stand near the PC and drop their illusory appearance. Everyone will have to make Wisdom saving throws. Let the normal guests and residents automatically fail, while rolling for Shael and Tallis.
