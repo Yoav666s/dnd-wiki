@@ -98,7 +98,7 @@ Explain to the Player what attunement is and how it works, then you can let them
 >
 > Behind the bar, you find four bottles of liquor, and a dozen low glasses. As you open the bottle with the green liquid, you're hit with a sharp smell of alcohol and a faint hint of apples. Truska, an orcish beverage. The color comes not from the apples but the herbs infused in this drink.
 
-If the Player opens the three other bottles, they find the following.
+If the Player opens the three other bottles, they find the following. You can ask for a DC 10 Intelligence (History or Nature) check to recognize each drink, but this is not necessary.
 
 **Sheen.** A clear, highly alcoholic beverage made of distilled cherries, elvish in origin.
 
