@@ -15,3 +15,8 @@ $caption-font-family: $serif-custom;
 // 3. Import theme files (MUST come after your variable overrides)
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
+
+// 4. Custom overrides for hardcoded theme classes
+.archive__item-title {
+  font-family: $serif-custom;
+}
