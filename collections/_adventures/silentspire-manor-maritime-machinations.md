@@ -70,7 +70,7 @@ If the player is sure they want to hire the brothers, they will eventually agree
 ### Melena Moonkiss
 If the Player chooses to hire Melena, they will find her in no other place than the Thirsty Deckhand.
 
-> You enter the Thirsty Deckhand, greeted once again by the smell of dry wine and homemade broth. You hear a delightfully sad melody filling the room, as if it's coming from everywhere at once. On the stage, you see a gorgeous drow woman with a large harp, her braided, pearl-white hair resting on her shoulder as she plucks the strings. You are approached by Alanda. "Welcome to the Thirsty Deckhand! How can I help you today?"
+> You enter the Thirsty Deckhand, greeted once again by the smell of dry wine and homemade broth. You hear a delightfully sad melody filling the room. On the stage, you see a gorgeous drow woman with a large harp, her braided, pearl-white hair resting on her shoulder as she plucks the strings. You are approached by Alanda. "Welcome to the Thirsty Deckhand! How can I help you today?"
 
 When the Player explains they want to hire Melena, Alanda will say that they'll need to wait for the end of her performance. She'll happily lead them to an empty table and ask if they want to order anything while they wait (they don't have to, since they're here on business).
 
