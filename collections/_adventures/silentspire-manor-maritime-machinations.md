@@ -24,7 +24,7 @@ After the breakfast, Shael will take the PC aside and say that it's strange that
 Tallis will explain that with food already covered, they'll need to sort out the guest list, hire some entertainment, and decide on a date and time. He will also hand Simon 2 GP to rent himself something nice to wear.
 
 ## Finalizing the Guest List
-Tallis will write down a lot of names the PC won't recognize, but he will ask if they want to invite anyone special.
+Tallis will write down a lot of names the PC won't recognize, but he will ask if they want to invite anyone special. The following are reactions for certain NPCs the Player might want to invite. If the player invites an NPC that doesn't appear here, feel free to improvise a response from Tallis and add them to the list.
 
 **Toolscrap.** Tallis will laugh but add him to the list. 
 
