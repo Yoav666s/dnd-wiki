@@ -109,6 +109,8 @@ The following are guests the Player can interact with at the gala. After the Pla
 
 **Earnest Grunge.** Earnest will have a great time at the gala, and he will say that the wine is splendid. If the player chose the Hillkeeper Brothers for entertainment, he will say that the atmosphere is surprisingly pleasant.
 
+**Myranda Caelberry.** Myranda will 
+
 ## Coven Ambush 
 The three old ladies will surround the PC and drop their illusory appearance. Everyone will have to make three Wisdom saving throws for the hags' Horrific Appearance trait. Let the normal guests and residents automatically fail, while rolling for Shael and Tallis.
 
