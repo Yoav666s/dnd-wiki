@@ -109,7 +109,11 @@ The following are guests the Player can interact with at the gala. After the Pla
 
 **Earnest Grunge.** Earnest will have a great time at the gala, and he will say that the wine is splendid. If the player chose the Hillkeeper Brothers for entertainment, he will say that the atmosphere is surprisingly pleasant.
 
-**Myranda Caelberry.** Myranda will 
+**Myranda Caelhold.** If the Player chose Melena to play music during the gala, Myranda will comment about the beautiful ambience she provides. She will say that the wine is very high quality now that she had a chance to try it, and she might consider buying a barrel after all.
+
+**The Old Ladies.** The three of them will stay together and be very polite if the Player interacts with them. They will say that this place is just as beautiful as they remember and it's wonderful to see it alive again.
+
+**Toolscrap (if invited).** He will be very flattered for the invitation as he doesn't often attend galas. He will compliment about the wine and the beautiful manor, and say that he doesn't regret giving up a few mercenaries to guard such a beautiful home.
 
 ## Coven Ambush 
 The three old ladies will surround the PC and drop their illusory appearance. Everyone will have to make three Wisdom saving throws for the hags' Horrific Appearance trait. Let the normal guests and residents automatically fail, while rolling for Shael and Tallis.
