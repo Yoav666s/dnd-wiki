@@ -101,13 +101,16 @@ When the Player explains that they want to hire him, he will invite them in to d
 - He has some new pieces that no audience has heard yet, and he's excited to see how they'll be received.
 
 # The Gala
-At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive even if they weren't invited. Tallis will let them in, feeling a little guilty if they didn't invite them. 
+At the gala, dozens of guests will arrive and Tallis will stand at the gate to receive everyone. The three old ladies, Agatha, Glinda, and Mathilda will arrive even if they weren't invited. Tallis will let them in, feeling a little guilty if they didn't invite them.
 
-The following are guests the Player can interact with at the gala. After the Player interacts with 2 (1d4) guests, proceed to initiate the [[Coven Ambush]].
+## Meeting the Guests
+The following are guests the Player can interact with at the gala. After the Player interacts with 3 (1d4+1) guests, proceed to initiate the [[Coven Ambush]].
 
 **Drestor Hullenside.** If the Player chose Melena or William to play music at the gala, Drestor will comment that the they made an excellent choice for this kind of evening. If the Player chose the Hillkeeper Brothers, he will say that the PC has an interesting taste.
 
 **Earnest Grunge.** Earnest will have a great time at the gala, and he will say that the wine is splendid. If the player chose the Hillkeeper Brothers for entertainment, he will say that the atmosphere is surprisingly pleasant.
+
+**Lola Brothcower.** A close friend of Tallis. A blond, beautiful half-elf with green eyes and a green dress. She will hang around Tallis and be nice to the PC. She owns a tailor shop in the city called Sailor's Choice.
 
 **Myranda Caelhold.** If the Player chose Melena to play music during the gala, Myranda will comment about the beautiful ambience she provides. She will say that the wine is very high quality now that she had a chance to try it, and she might consider buying a barrel after all.
 
