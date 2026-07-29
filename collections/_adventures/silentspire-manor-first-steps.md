@@ -223,7 +223,7 @@ Upon speaking with the dwarf, the PC will learn that his name is Earnest Grunge 
 ### Myranda's Meadery
 > You walk into the tavern and the air smells of honey and alcohol. It's relatively quiet, with few patrons sitting sparsely, scattered around the space. You're greeted by an old little halfling with long grey hair and a cheerful, contagious smile. "Welcome to Myranda's Meadery! I'm Myranda. How can I help you, darling?"
 
-Speaking with Myranda, she will say that she doesn't need any wine because she runs a meadery. She will appreciate the offer though, and will give the PC and Simon a free sample of mead, if they want a taste. Simon will definitely take her up on that offer.
+Speaking with Myranda Caelhold, she will say that she doesn't need any wine because she runs a meadery. She will appreciate the offer though, and will give the PC and Simon a free sample of mead, if they want a taste. Simon will definitely take her up on that offer.
 
 Mead, or "honey wine," tastes a lot like a floral white wine with hints of honey. This one is dry, crisp, and soft.
 
