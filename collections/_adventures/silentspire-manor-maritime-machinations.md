@@ -23,6 +23,8 @@ After the breakfast, Shael will take the PC aside and say that it's strange that
 # Organizing the Gala
 Tallis will explain that with food already covered, they'll need to sort out the guest list, hire some entertainment, and decide on a date and time. He will also hand Simon and Shael 2 GP each to rent themselves something nice to wear. After the Player finishes their part in organizing the gala, give them a few days of downtime (depending on when they chose the gala to be).
 
+Tallis will say that it'd be a good idea to open up a barrel of wine for the evening, bit curiously, there are no wine glasses in the manor. He'll take care of buying them and hiring someone to bring the barrel upstairs.
+
 ## Finalizing the Guest List
 Tallis will write down a lot of names the PC won't recognize, but he will ask if they want to invite anyone special. The following are reactions for certain NPCs the Player might want to invite. If the player invites an NPC that doesn't appear here, feel free to improvise a response from Tallis and add them to the list.
 
@@ -105,7 +107,7 @@ The following are guests the Player can interact with at the gala. After the Pla
 
 **Drestor Hullenside.** If the Player chose Melena or William to play music at the gala, Drestor will comment that the they made an excellent choice for this kind of evening. If the Player chose the Hillkeeper Brothers, he will say that the PC has an interesting taste.
 
-**Earnest Grunge.** Earnest will 
+**Earnest Grunge.** Earnest will have a great time at the gala, and he will say that the wine is splendid. If the player chose the Hillkeeper Brothers for entertainment, he will say that the atmosphere is surprisingly pleasant.
 
 ## Coven Ambush 
 The three old ladies will surround the PC and drop their illusory appearance. Everyone will have to make three Wisdom saving throws for the hags' Horrific Appearance trait. Let the normal guests and residents automatically fail, while rolling for Shael and Tallis.
