@@ -445,6 +445,8 @@ If the PC defeats the thug, the following events will unravel in one of these ad
 
 **No resident has been kidnapped and Tallis is not in the party.** Silentspire Manor: 
 
+***Note to the DM:** The Player might want to hire guards after the incident if they weren't kidnapped. See [[Hiring Guards]] before ending the adventure.*
+
 # Ending
 *This would be a good time to level up the PC to 3rd level if they started at 1st level. If the PC started at 3rd level, they can now level up to 4th level.*
 
