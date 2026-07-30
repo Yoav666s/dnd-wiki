@@ -139,7 +139,7 @@ You can find the statblock for the giant rat in [[Appendix A]]. If the PC goes u
 
 If the Player has met Shael and asks her to join the fight, they'll have to succeed a DC 10 Charisma (Persuasion) check for her to agree. She will pick up a large root resembling a club, cast Shillelagh on it, and cast Barkskin on herself before the fight. If the PC's AC is lower than 16, she will cast Barkskin on them as well. She will use Cure Wounds on the PC if they go down.
 
-If the Player doesn't take the torch and instead relies on Darkvision or a similar feature, allow them to make a DC 10 Dexterity (Stealth) check to sneak up on the rat. If the range of their Darkvision is over 60 feet and they have a ranged weapon or spell they can use, ask for a DC 10 Intelligence (Nature) check. On success, the PC will know that rats can only have a Darkvision of 60 feet. If the Player tries to attack from 65 feet away or farther, they can roll with advantage since the rat can't see them.
+If the Player doesn't take the candle and instead relies on Darkvision or a similar feature, allow them to make a DC 10 Dexterity (Stealth) check to sneak up on the rat. If the range of their Darkvision is over 60 feet and they have a ranged weapon or spell they can use, ask for a DC 10 Intelligence (Nature) check. On success, the PC will know that rats can only have a Darkvision of 60 feet. If the Player tries to attack from 65 feet away or farther, they can roll with advantage since the rat can't see them.
 
 Once the player defeats the giant rat, there's more work to do. The rat has been trapped in the basement for gods know how long, and there's urine and feces everywhere. Simon will suggest that the player hires someone to clean it.
 
