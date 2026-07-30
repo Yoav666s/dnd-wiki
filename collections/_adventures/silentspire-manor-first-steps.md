@@ -157,12 +157,12 @@ If the player tries to convince Simon to clean the basement, ask for a DC 10 Cha
 
 | Action | DC Modifier |
 | :---- | :---: |
-| The PC was rude or unfriendly towards him. | +5 |
-| The PC offers to buy him a meal or a drink | -2 |
-| The PC threatens to kick him out or harm him if he doesn't do it | -3 |
-| The PC offers to help (if they can also cast the Prestidigitation cantrip) | -5 |
-| The PC offers to pay Simon (he will demand at least 2 GP) | -5 |
-| The PC offers to hire someone to help | -5 |
+| The PC was rude or unfriendly towards him up until now. | +5 |
+| The PC threatens to kick him out or harm him if he doesn't do it. | +3 |
+| The PC offers to buy him a meal or a drink. | -3 |
+| The PC offers to help (if they can also cast the Prestidigitation cantrip). | -5 |
+| The PC offers to pay Simon (he will demand at least 2 GP). | -5 |
+| The PC offers to hire someone to help. | -5 |
 
 If the Player decides to hire someone to clean the basement, they can head to the docks and try to find deckhands that will agree to this. The price they will demand after hearing the details will be 7 GP per person for a day of work. Two people (possibly including Simon and/or the PC) can clean the basement in a day, and one person can clean it in two days. Even with the Prestidigitation cantrip, this will take hours of work.
 
