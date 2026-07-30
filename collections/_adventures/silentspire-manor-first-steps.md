@@ -179,7 +179,7 @@ The other rooms are dusty and neglected, but shouldn't be too difficult to clean
 
 There are three Taverns in Gullenshire: The Thirsty Deckhand, Grunge's Bucketfuls, and Myranda's Meadery. 
 
-***Note to the DM:** Don't worry about the economy of the game breaking from 120 barrels of wine, as only Drestor Hullenside, the owner of The Thirsty Deckhand, will want to buy 3~6 barrels of wine every two weeks. Do not let the player find a way to sell off the remaining wine barrels in bulk.*
+***Note to the DM:** Don't worry about the economy of the game breaking from 120 barrels of wine, as only Drestor Hullenside, the owner of The Thirsty Deckhand, will want to buy 3~6 barrels of wine every two weeks. If the Player tries to sell the remaining wine barrels in bulk through some creative solution, you'll have to decide if it actually works as a DM. This module does not intend to give the PC 2,000 GP as liquid cash.*
 
 ### The Thirsty Deckhand
 > You walk into a luxurious tavern with cobble walls and a clean wooden floor. The patrons are elegant, dressed in fine clothes and speaking politely amongst themselves. The air is filled with the aroma of fine wine and homemade broth, with hints of grilled meat. In the background, you hear a beautiful melody played on a harp. You are approached by a beautiful half-elf serving girl, with flowing brown hair and rosy cheeks. "Welcome to The Thirsty Deckhand! How can I help you?"
