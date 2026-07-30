@@ -435,6 +435,8 @@ If the Player engages in dialogue, the thug with the Truska will reveal the foll
 - The other residents have already been taken away (unless the PC kicked them out).
 - The PC is not welcome here anymore.
 
+If there are multiple thugs, let them spread out their attacks instead of focusing down on one target with pack tactics.
+
 If the thug defeats the PC, he will do it non-lethally, and the PC will wake up in a dank cell with 1 hit point. The following events will unravel in Silentspire Manor: No Escape.
 
 If the PC defeats the thug, the following events will unravel in one of these adventures.
