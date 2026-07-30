@@ -423,6 +423,8 @@ The next day, the Player wakes up and see a beautiful, lively garden from their 
 
 > You look out the window, and for a moment you wonder if you're still dreaming. But no, this is real. The grass has a vibrant green color, there are flowers blooming everywhere, the trees are full of life, and you see dragonflies and butterflies and bees buzzing through the flora. You can smell something already cooking in the kitchen, and you make your way to the dining room. As you see Tallis, Simon, Shael, and the guards all sitting at the table, chatting and laughing together, you finally feel at home.
 
+If the player let Tallis stay, the following events will unravel in Silentspire Manor: Maritime Machinations. Otherwise, the following events will unravel in Silentspire Manor: Corrupted Garden
+
 ## Not Hiring Guards
 If the Player chooses not to hire guards, the awakened tree and shrubs won't attack. Instead, the following scenario will happen.
 
