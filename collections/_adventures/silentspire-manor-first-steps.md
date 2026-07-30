@@ -418,6 +418,22 @@ After the fight, Shael will use her remaining uses of cure wounds to heal up any
 
 > Shael walks around the garden, muttering words in a language you don't understand and weaving intricate shapes with her fingers, which leave green and yellow trails of dust that fades away instantly. This doesn't seem to have any effect yet, as she explained that this kind of magic takes time. You decide that it's best to leave her to do her thing without interrupting her.
 
+## Not Hiring Guards
+If the Player chooses not to hire guards, the awakened tree and shrubs won't attack. Instead, one of the following scenarios will happen.
+
+### The PC is Alone
+If the PC kicked Simon out and didn't want Sahel and Tallis to stay, the PC will eventually leave the manor and go to the city. When they return, the front doors will be wide open and there will be a thug in the drawing room, drinking a glass of Truska. You can find the thug statblock in Appendix A.
+
+If the Player engages in dialogue, the thug will reveal the following things.
+
+- It was easy to pacify the griffon with a little snack.
+- This Truska is excellent.
+- The PC is not welcome here anymore.
+
+The if the thug defeats the PC, he will do it non-lethally, and the PC will wake up in a dank cell with 1 hit point. The following events will unravel in Silentspire Manor: No Escape.
+
+### 
+
 # Conclusion
 The next day, the Player wakes up and see a beautiful, lively garden from their bedroom window.
 
@@ -449,6 +465,8 @@ The next day, the Player wakes up and see a beautiful, lively garden from their 
 {% include monster_details.html index="awakened-tree" %}
 
 {% include monster_details.html index="awakened-shrub" %}
+
+{% include monster_details.html index="thug" %}
 
 # Appendix B
 
