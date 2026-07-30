@@ -432,11 +432,13 @@ If the Player engages in dialogue, the thug with the Truska will reveal the foll
 
 If the thug defeats the PC, he will do it non-lethally, and the PC will wake up in a dank cell with 1 hit point. The following events will unravel in Silentspire Manor: No Escape.
 
-If the PC defeats the thug, the following events will unravel in one of the following adventures.
+If the PC defeats the thug, the following events will unravel in one of these adventures.
 
-**At least one resident has been kidnapped.** Silentspire Manor: 
+**At least one resident has been kidnapped.** Silentspire Manor: Rescue Mission
 
-**No resident has been kidnapped.** Silentspire Manor: Maritime Machinations.
+**No resident has been kidnapped and Tallis is in the party.** Silentspire Manor: Maritime Machinations.
+
+**No resident has been kidnapped and Tallis is not in the party.** Silentspire Manor: 
 
 # Conclusion
 The next day, the Player wakes up and see a beautiful, lively garden from their bedroom window.
