@@ -254,7 +254,7 @@ The name of the young man is Tallis Silentspire. Conversing with him, the Player
 
 At this point, if the player is friendly towards him, he'll disappear. The real Tallis will come out of hiding from behind the wall (inside the manor garden) and reveal that the PC was speaking to an illusory duplicate of him. He had to be careful because Helena hated him and he didn't know what to expect. He will apologize for deceiving the PC and say that he won't do it again.
 
-If the PC attacks the duplicate before Tallis reveals himself it will disappear, and he will cast Invisibility on himself and walk away.
+If the PC attacks the duplicate before Tallis reveals himself it will disappear, and he will cast Invisibility on himself and walk away. Similarly, if the Player won't let him stay, he will not insist. In any case, if Tallis leaves, ask the Player what they want to do for lunch and prompt them to hire a cook and guards later, if they don't think about it themselves.
 
 If the Player will let him, Tallis comes inside, taking a look at the state of the manor. He notes that it's seen better days, the kitchen is completely empty, and they have no food for lunch. He uses Sending to talk to someone, and says "Hey, it's Tallis. I need all the basic goods to fill up the kitchen in Silentspire Manor." He listens to the response and says that they'll be here within the hour. After forty five minutes or so, they hear banging of metal on metal outside.
 
