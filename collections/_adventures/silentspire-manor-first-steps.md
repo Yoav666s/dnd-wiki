@@ -65,6 +65,8 @@ Through dialogue with him, he will reveal the following things.
 - He's friendly with the griffon and has been occasionally feeding it rats. It sometimes flies away to hunt.
 - There’s a giant rat in the basement.
 
+*If the Player kicks Simon out, redact him from the descriptions in the following parts.*
+
 Ask the player to make a DC 12 Wisdom saving throw. On success, they hear a voice whispering in their mind, "This place is dangerous." On failure, the PC believes that this is a spontaneous thought that occurred to them.
 
 ***Note to the DM:** The whisper/implanted thought is sent by the whispering sprite's whisper ability. It will potentially reveal itself in the following adventure, "Silentspire Manor: Maritime Machinations".*
