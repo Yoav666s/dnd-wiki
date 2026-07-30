@@ -43,6 +43,7 @@ If the Player fails the original Strength check and then another check, let them
 
 > You walk along the path through what seems to have once been a beautiful garden, but is now a mess of weeds, thorns, and dead plants. Curled on the ground, you see a large griffon that appears to be sleeping peacefully.
 
+### The Griffon 
 Ask the Player to make a DC 10 Dexterity (Stealth) check if they want to avoid waking it up. If they fail or don't try to avoid waking it up, read aloud the following paragraph.
 
 > The griffon's eyes snap open, beady and black as it regards you with suspicion. It stands up, flapping its majestic wings in an intimidating assertion of dominance.
@@ -113,7 +114,7 @@ Ask the Player to make a DC 12 Wisdom saving throw. On success, they will hear a
 ### The Garden
 Simon will say that there's nothing to see in the garden, it's all wilted and dry, and he could swear he saw some shrubs moving in the back. If the Player decides to go there anyway, have Simon heavily dissuade them from going to the rear. If they do go there, nothing will move, making Simon seem a little paranoid.
 
-If the player didn't pacify the griffon yet, it will be awake and friendly towards the PC because they're with Simon.
+If the player didn't pacify the griffon yet, it will be awake and friendly if the PC is with Simon. Otherwise, see [[The Griffon]] about how to handle three situation.
 
 The PC will hear something rustling in the bushes to the west, and Simon will yelp, saying the shrubs are gaining on them. Have the PC make a Wisdom (Perception) check, contested with Shael's Dexterity (Stealth) check. You can find her statblock in [[Appendix A]]. If the Player fails, tell them it must have been the wind. If they decide to investigate, ask for an Intelligence (Investigation) check contested by another Dexterity (Stealth) check from Shael. If the Player succeeds on either check, they find a little dryad named Shael in the bushes.
 
@@ -128,9 +129,9 @@ If the player is friendly towards her, Shael will introduce herself and reveal t
 If the player attacks her, she will cast Plant Growth as an action, making the entire garden severly overgrown. Then she will use her Tree Stride trait to leave quickly and flee. The garden will permanently be altered, requiring 4 feet of movement for every 1 foot.
 
 ## Pest Control
-Simon will lead the PC to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. When the Player agrees to deal with the giant rat, Simon goes and grabs an unlit torch from a nearby wall and hands it to the PC, muttering an incantation, waving his hand around it, and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a *Potion of Healing* which he found in the library.
+Simon will lead the PC to the basement and ask them to get rid of the giant rat. He's not much of a fighter so he won't help, but he's curious if there's anything worthwhile in there. When the Player agrees to deal with the giant rat, Simon goes and grabs an unlit candle from a nearby table and hands it to the PC, muttering an incantation, waving his hand around it, and lighting it with a snap of his fingers. He then reaches for his pocket and gives the PC a *Potion of Healing* which he found in the library.
 
-> You descend through the stairs down to the basement and reach a barred door. As you open it, a wave of nauseating stench hits your face. It smells like rot, acrid urine, and feces. The torch lights your way and the hall is full of barrels on both sides, going on for roughly 50 feet. As you continue forward, you see wheels of cheese stacked on top of one another, except for one on the floor which has been ravaged. You hear a screech from the darkness, and a giant rat barges into view. Roll initiative!
+> You descend through the stairs down to the basement and reach a barred door. As you open it, a wave of nauseating stench hits your face. It smells like rot, acrid urine, and feces. The candle lights your way and the hall is full of barrels on both sides, going on for roughly 50 feet. As you continue forward, you see wheels of cheese stacked on top of one another, except for one on the floor which has been ravaged. You hear a screech from the darkness, and a giant rat barges into view. Roll initiative!
 
 You can find the statblock for the giant rat in [[Appendix A]]. If the PC goes unconscious during the fight, they wake up in the main hall next to Simon. He will explain that he listened to the fight and realized that the PC lost, so he snuck in while the rat was sleeping and dragged their unconscious body back up. Thankfully, the giant rat has just ravaged an entire wheel of cheese so it wasn't hungry. The player will have 1 hit point. Let the Player take a short rest and heal up using their hit die before trying again. It is recommended that the rat won't heal, to ensure the Player can defeat it and move on with minimal frustration.
 
