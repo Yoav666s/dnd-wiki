@@ -443,7 +443,7 @@ If the PC defeats the thug, the following events will unravel in one of these ad
 
 **No resident has been kidnapped and Tallis is in the party.** Silentspire Manor: Maritime Machinations.
 
-**No resident has been kidnapped and Tallis is not in the party.** Silentspire Manor: 
+**No resident has been kidnapped and Tallis is not in the party.** Silentspire Manor: Corrupted Garden 
 
 ***Note to the DM:** The Player might want to hire guards after the incident if they weren't kidnapped. See [[Hiring Guards]] before ending the adventure.*
 
