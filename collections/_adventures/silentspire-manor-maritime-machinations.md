@@ -6,7 +6,7 @@ permalink: /adventures/silentspire-manor-maritime-machinations/
 excerpt: "Tallis will inform the Player that he has been thinking about organizing a gala to celebrate the restoration of Silentspire Manor."
 wip: true
 ---
-This adventure is meant for one PC (Player Character) and a DM (Dungeon Master). This style of play is called a Duet. It's the second adventure in the Silentspire Manor duet series, following the events of Silentspire Manor: First Steps. This adventure uses 5e (2014) statblocks but is fully compatible with 5.5e (2024).
+This adventure is meant for one PC (Player Character) and a DM (Dungeon Master). This style of play is called a Duet. It's the second adventure in the Silentspire Manor duet series, following the events of Silentspire Manor: First Steps, assuming Tallis was kept in the party and either the the Player has hired guards or no one was kidnapped. This adventure uses 5e (2014) statblocks but is fully compatible with 5.5e (2024).
 
 # Introduction
 The Player has inherited Silentspire Manor from their great-aunt Helena Silentspire. They have met Simon, an eccentric gnome, Shael, a little dryad, and Tallis, aunt Helena's grandson and the PC's cousin. They've hired a cook and some guards, fought a bunch of awakened shrubs and an awakened tree, and let Shael use her magic to restore the garden. The player should be freshly at 3rd level by now.
