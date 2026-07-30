@@ -288,6 +288,8 @@ If the price is 10 or less, Tallis will try to convince Drestor to increase it b
 
 At this point, the dwarves will return for the third barrel and Drestor will follow them outside, wishing everyone well.
 
+*If the wine cellar is not clean when Drestor and his men arrive, he will cancel the deal and drop the price for future dealings with the PC by one tier. Consult the table in [[The Thirsty Deckhand]] for renegotiating the price if the player attempts to do it.*
+
 # Expanding the Family
 Tallis will wake up the PC and tell them that an older half-orc man has shown up at the front gate.
 
