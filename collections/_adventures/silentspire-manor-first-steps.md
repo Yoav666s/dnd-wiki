@@ -166,6 +166,8 @@ If the player tries to convince Simon to clean the basement, ask for a DC 10 Cha
 
 If the Player decides to hire someone to clean the basement, they can head to the docks and try to find deckhands that will agree to this. The price they will demand after hearing the details will be 7 GP per person for a day of work. Two people (possibly including Simon and/or the PC) can clean the basement in a day, and one person can clean it in two days. Even with the Prestidigitation cantrip, this will take hours of work.
 
+If the Player doesn't manage to persuade him and threatens to kick him out, Simon will choose to leave. If the PC was rude or unfriendly towards Simon and let him work alone, Simon will not have it. He will declare that he is not the PC's slave and refuse to continue cleaning until something changes. He would rather leave than stay here and take orders from an entitled, unkind noble.
+
 ## All in a Day's Work
 After hours of labor, the day is nearly over. The main bedroom was kept fairly clean except for some dust on the shelves. Simon will agree to sleep in one of the smaller bedrooms upstairs, even though he is used to sleeping the big one. If the cleaning process takes longer than one day, there's no real reason to roleplay it unless the Player wants to. Nothing exciting will happen. Feel free to describe it briefly and move on to the next part.
 
