@@ -430,6 +430,8 @@ If the Player chooses not to hire guards, the awakened tree and shrubs won't att
 
 The PC will eventually leave the manor and go to the city. When they return, the front doors will be wide open and there will be a thug in the drawing room, drinking a glass of Truska. You can find the thug statblock in Appendix A. There will be an additional thug for each NPC that accompanied the PC when they left the manor, if any (not counting Simon or Krogg).
 
+***3rd Level Variant.** If the PC is alone and is capable enough in combat, consider adding a second thug to make the fight more challenging.*
+
 If the Player engages in dialogue, the thug with the Truska will reveal the following things.
 
 - It was easy to pacify the griffon with a little snack.
