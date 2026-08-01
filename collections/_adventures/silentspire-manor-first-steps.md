@@ -483,6 +483,8 @@ If the PC defeats the thug, the following events will unravel in one of these ad
 
 {% include monster_details.html index="thug" %}
 
+{% include monster_details.html index="mout" %}
+
 # Appendix B
 
 [:adventures/silentspire-manor/interior:]
