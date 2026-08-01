@@ -55,5 +55,4 @@
   {% if monster.legendary_actions %}<h3>Legendary Actions</h3>
   <p>{{ monster.legendary_actions | markdownify }}</p>{% endif %}
 
-{% assign monster_content = monster.content %}
-{% include render_tooltips.html content=monster_content %}
+{{ monster.content }}
