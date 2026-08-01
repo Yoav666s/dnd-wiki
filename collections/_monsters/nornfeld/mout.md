@@ -25,9 +25,11 @@ proficiency_bonus: "+2"
 actions: |
   **Shocking Grasp.** Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d8) lightning damage. On a hit, the target can’t make Opportunity Attacks until the start of its next turn.
 
-  **Lightning Burst.** Ranged Spell Attack: +4 to hit, 
+  **Lightning Burst.** Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 4 (1d8) lightning damage. If the mout rolls an 8 on the first d8, it can roll another d8.
   
   **Invisibility.** The mout magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the mout wears or carries is invisible with it.
+bonus_actions: |
+  **Hide.** The mout takes the Hide action.
 excerpt: "Tiny Fey, Chaotic Neutral"
 header:
   overlay_image: /assets/images/monsters/mout/header.png
