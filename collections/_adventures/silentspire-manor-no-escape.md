@@ -14,4 +14,4 @@ The Player has inherited Silentspire Manor from their great-aunt Helena Silentsp
 ***4th level variant.** If the PC started the previous adventure at 3rd level instead of 1st level, they should be freshly at 4th level by now. There will be small adjustments throughout the adventure to account for that.*
 
 ## Waking Up
-> You wake up with a headache, still sore from the strike that knocked you out. You look around and find yourself on an uncomfortable bed in a dank cell. There's an empty chamber pot in the corner of the room, and the air smells of moss. You check your pockets, and none of your belongings are on you. 
+> You wake up with a headache, still sore from the strike that knocked you out. You look around and find yourself on an uncomfortable bed in a dank cell. It's moving and swaying, and you realize that you're on a sailing ship. There's an empty chamber pot in the corner of the room, and the air smells of damp wood. You check your pockets, and none of your belongings are on you. 
