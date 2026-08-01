@@ -32,3 +32,5 @@ header:
   teaser: /assets/images/monsters/mout/header.jpg
 source: "Fillumir's Guide to the Feywild"
 ---
+
+[:monsters/mout:]
