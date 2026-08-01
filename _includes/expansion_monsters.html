@@ -1,4 +1,5 @@
 {% assign items = site.monsters | where: "source", page.title | where_exp: "item", "item.v_2024 == nil" %}
 {% for item in items %}
-  {% include monster_details.html index=item.index[0] %}
+  {% assign index = item.index | first %}
+  {% include monster_details.html index=index %}
 {% endfor %}
