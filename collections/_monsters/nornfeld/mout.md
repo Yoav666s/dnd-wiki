@@ -36,6 +36,6 @@ header:
   teaser: /assets/images/monsters/mout/header.jpg
 source: "Fillumir's Guide to the Feywild"
 ---
-The mout is a tiny fey creature. It has an ugly face, a big round nose, pointed ears, and a fat little belly. It's usually invisible but can choose to reveal itself in certain circumstances. It usually lives in households, and feeds on insects and other rodents, using magic to incapacitate them. Despite its grumpy demeanor, it's easily bribed with pastries, cakes, and other baked goods.
+*The mout is a tiny fey creature. It has an ugly face, a big round nose, pointed ears, and a fat little belly. It's usually invisible but can choose to reveal itself in certain circumstances. It usually lives in households, and feeds on insects and other rodents, using magic to incapacitate them. Despite its grumpy demeanor, it's easily bribed with pastries, cakes, and other baked goods.*
 
 [:monsters/mout:]
