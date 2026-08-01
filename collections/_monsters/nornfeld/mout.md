@@ -27,5 +27,8 @@ actions: |
   
   **Invisibility.** The mout magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the mout wears or carries is invisible with it.
 excerpt: "Tiny Fey, Chaotic Neutral"
+header:
+  overlay_image: /assets/images/monsters/mout/header.png
+  teaser: /assets/images/monsters/mout/header.jpg
 source: "Fillumir's Guide to the Feywild"
 ---
