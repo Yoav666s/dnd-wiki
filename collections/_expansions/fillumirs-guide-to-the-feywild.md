@@ -25,6 +25,11 @@ Feywild related subclasses.
 
 {% include expansion_subclasses.html %}
 
+# Chapter ?: Monsters
+Feywild monster.
+
+{% include expansion_monsters.html %}
+
 # Chapter ?: Spells
 Feywild spells.
 
