@@ -15,9 +15,9 @@ range: "Self"
 comp:
   - V
   - S
-duration: "1 Minute (Combat) or 8 Hours (Utility)"
+duration: "1 Minute"
 concentration: true
-cast_time: "1 Bonus Action (Combat) Or 10 Minutes (Utility)"
+cast_time: "1 Bonus Action"
 ritual: false
 attack: "Melee"
 effect: "Force"
