@@ -6,9 +6,8 @@ permalink: /spells/swirling-sands/
 tags:
   - Spell
 available_for:
-  - Sorcerer
-  - Warlock
-  - Wizard
+  - Druid
+  - Ranger
 level: "4th Level"
 school: "Conjuration"
 range: "60 ft"
