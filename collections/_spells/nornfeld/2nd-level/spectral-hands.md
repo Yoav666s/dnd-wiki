@@ -28,7 +28,7 @@ description: |
 
   When you cast this spell and as a bonus action on each of your turns, you can make a melee spell attack with each hand, dealing 1d6 force damage on a hit. Each hand can target the same creature or a different one. A hand can wield a spectral weapon when it makes an attack. The weapon must be a simple or martial melee weapon that lacks the two-handed property, and it doesn't affect the damage or damage type.
 
-  **At higher levels.** When you cast this spell using a spell slot of 3rd level or higher, you create an additional hand for every slot level above 2nd.
+  **At higher levels.** When you cast this spell using a spell slot of 4th level or higher, you create two additional hands for every two slot levels above 2nd.
 excerpt: "Two spectral hands appear floating around you."
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
