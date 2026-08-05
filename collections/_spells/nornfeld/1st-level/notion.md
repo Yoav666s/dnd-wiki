@@ -23,7 +23,7 @@ description: |
   If the target is not another player, the DM decides the consequences of the message. If the message is unreasonable, the target will dismiss it. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message.
   
   You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
-excerpt: "You whisper a message of twenty five words or less intended for a creature within range."
+excerpt: "You whisper a message of twenty-five words or less intended for a creature within range."
 source: "Fillumir's Guide to the Feywild"
 # header:
 #   overlay_image: /assets/images/spells/notion/header.png
