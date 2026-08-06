@@ -13,14 +13,15 @@ source: "Fillumir's Guide to the Feywild"
 ---
 Maybe you're possessed, or maybe you went mad. Perhaps you spent too much time in the Feywild, and are now begining to feel the consequences. Maybe you're a powerful being who's trapped in a mortal body, and you're beginning to remember who you once were. All you know it's that you lose time, and that your powers come from somewhere within.
 
-# Alter Ego Spells
-The magic of your patron ensures you always have certain spells ready, depending on its personality; choose that personality---furious, mad, serene, or studious. When you reach a Warlock level specified in the chosen table, you thereafter always have the listed spells prepared.
+# Expanded Spell List
+The Alter Ego lets you choose from an expanded list of spells when you learn a warlock spell, based on its personality; choose that personality---furious, mad, serene, or studious. The following spells are added to the warlock spell list for you.
 
 ## Furious 
 
-| Warlock Level | Spells |
+| Spell Level | Spells |
 | :---: | :---: |
-| 3 | [[!Hellish Rebuke]], [[!Scorching Ray]], [[!Shatter]], [[!Thunderwave]] |
+| 1st | Absorb Elements, [[!Thunderwave]] |
+| 2nd | [[!Scorching Ray]], [[!Shatter]] |
 | 5 | [[!Fireball]], [[!Sleet Storm]] |
 | 7 | [[!Fire Shield]], [[!Ice Storm]] |
 | 9 | [[!Cone of Cold]], [[!Flame Strike]] |
