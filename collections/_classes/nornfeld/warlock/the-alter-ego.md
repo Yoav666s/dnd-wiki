@@ -51,10 +51,10 @@ The Alter Ego lets you choose from an expanded list of spells when you learn a w
 | Warlock Level | Spells |
 | :---: | :---: |
 | 1st | [[!Magic Missile]], [[!Shield]] |
-| 2nd | [[!Hold Person]], [[!Invisibility]] |
-| 3rd | [[!Fly]], [[!Haste]] |
-| 4th | [[!Dimension Door]], [[!Polymorph]] |
-| 5th | [[!Arcane Hand]], [[!Hold Monster]] |
+| 2nd | [[!Blur]], [[!Silence]] |
+| 3rd | [[!Haste]], [[!Slow]] |
+| 4th | Otiluke's Resilient Sphere, [[!Polymorph]] |
+| 5th | [[!Arcane Hand]], [[!Telekinesis]] |
 
 # Level 3: Time Loss
 Whenever you expend a spell slot to cast a spell during combat, you must succeed a Wisdom saving throw (DC equal to 10 + half your warlock level, rounded down). You can willingly fail this saving throw once per Long Rest. When you lose time, your patron takes over your mind and body for 1 minute. You, the player, control your patron during this time, but your character won't remember anything that happened. You cannot repeat the saving throw while your patron is in control.
