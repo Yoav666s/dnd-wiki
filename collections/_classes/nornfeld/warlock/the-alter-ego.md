@@ -84,7 +84,7 @@ Starting at 14th level, as a bonus action, you can fuse your conscious mind with
 
 **Physical Resistance.** You gain resistance to Bludgeoning, Piercing, and Slashing damage.
 
-**Enhanced Spellcasting.** Your spellcasting ability modifier, spell attack modifier, and spell save DC are increased by 1.
+**Enhanced Spellcasting.** Your Charisma score is increased by 2 to a maximum of 22.
 
 **Magic Resistance.** You have advantage on saving throws against spells and magical abilities.
 
