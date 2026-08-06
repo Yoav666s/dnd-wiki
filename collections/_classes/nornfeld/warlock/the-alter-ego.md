@@ -50,7 +50,8 @@ The Alter Ego lets you choose from an expanded list of spells when you learn a w
 
 | Warlock Level | Spells |
 | :---: | :---: |
-| 1st | [[!Hold Person]], [[!Invisibility]], [[!Magic Missile]], [[!Shield]] |
+| 1st | [[!Magic Missile]], [[!Shield]] |
+| 2nd | [[!Hold Person]], [[!Invisibility]] |
 | 3rd | [[!Fly]], [[!Haste]] |
 | 4th | [[!Dimension Door]], [[!Polymorph]] |
 | 5th | [[!Arcane Hand]], [[!Hold Monster]] |
