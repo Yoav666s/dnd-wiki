@@ -22,36 +22,36 @@ The Alter Ego lets you choose from an expanded list of spells when you learn a w
 | :---: | :---: |
 | 1st | Absorb Elements, [[!Thunderwave]] |
 | 2nd | [[!Scorching Ray]], Aganazzar's Scorcher |
-| 5 | [[!Fireball]], [[!Sleet Storm]] |
-| 7 | [[!Fire Shield]], [[!Ice Storm]] |
-| 9 | [[!Cone of Cold]], [[!Flame Strike]] |
+| 3rd | [[!Fireball]], [[!Sleet Storm]] |
+| 4th | [[!Fire Shield]], [[!Ice Storm]] |
+| 5th | [[!Cone of Cold]], [[!Flame Strike]] |
 
 ## Mad
 
 | Warlock Level | Spells |
 | :---: | :---: |
-| 3 | [[!Command]], [[!Detect Thoughts]], [[!Intrude Thoughts]], [[!Momentary Madness]] |
-| 5 | Enemies Abound, Catnap |
-| 7 | [[!Delusion]], [[!Paranoia]] |
-| 9 | [[!Control Thoughts]], [[!Modify Memory]] |
+| 1st | [[!Command]], [[!Detect Thoughts]], [[!Intrude Thoughts]], [[!Momentary Madness]] |
+| 3rd | Enemies Abound, Catnap |
+| 4th | [[!Delusion]], [[!Paranoia]] |
+| 5th | [[!Control Thoughts]], [[!Modify Memory]] |
 
 ## Serene
 
 | Warlock Level | Spells |
 | :---: | :---: |
-| 3 | [[!Animal Messenger]], [[!Entangle]], [[!Speak with Animals]], [[!Spike Growth]] |
-| 5 | [[!Conjure Animals]], [[!Plant Growth]] |
-| 7 | [[!Blight]], [[!Conjure Woodland Beings]] |
-| 9 | [[!Contagion]], [[!Tree Stride]] |
+| 1st | [[!Animal Messenger]], [[!Entangle]], [[!Speak with Animals]], [[!Spike Growth]] |
+| 3rd | [[!Conjure Animals]], [[!Plant Growth]] |
+| 4th | [[!Giant Insect]], [[!Conjure Woodland Beings]] |
+| 5th | [[!Contagion]], [[!Tree Stride]] |
 
 ## Studious
 
 | Warlock Level | Spells |
 | :---: | :---: |
-| 3 | [[!Hold Person]], [[!Invisibility]], [[!Magic Missile]], [[!Shield]] |
-| 5 | [[!Fly]], [[!Haste]] |
-| 7 | [[!Dimension Door]], [[!Polymorph]] |
-| 9 | [[!Arcane Hand]], [[!Hold Monster]] |
+| 1st | [[!Hold Person]], [[!Invisibility]], [[!Magic Missile]], [[!Shield]] |
+| 3rd | [[!Fly]], [[!Haste]] |
+| 4th | [[!Dimension Door]], [[!Polymorph]] |
+| 5th | [[!Arcane Hand]], [[!Hold Monster]] |
 
 # Level 3: Time Loss
 Whenever you expend a spell slot to cast a spell during combat, you must succeed a Wisdom saving throw (DC equal to 10 + half your warlock level, rounded down). You can willingly fail this saving throw once per Long Rest. When you lose time, your patron takes over your mind and body for 1 minute. You, the player, control your patron during this time, but your character won't remember anything that happened. You cannot repeat the saving throw while your patron is in control.
