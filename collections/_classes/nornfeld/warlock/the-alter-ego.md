@@ -21,7 +21,7 @@ The Alter Ego lets you choose from an expanded list of spells when you learn a w
 | Spell Level | Spells |
 | :---: | :---: |
 | 1st | Absorb Elements, [[!Thunderwave]] |
-| 2nd | [[!Scorching Ray]], [[!Shatter]] |
+| 2nd | [[!Scorching Ray]], Aganazzar's Scorcher |
 | 5 | [[!Fireball]], [[!Sleet Storm]] |
 | 7 | [[!Fire Shield]], [[!Ice Storm]] |
 | 9 | [[!Cone of Cold]], [[!Flame Strike]] |
@@ -31,7 +31,7 @@ The Alter Ego lets you choose from an expanded list of spells when you learn a w
 | Warlock Level | Spells |
 | :---: | :---: |
 | 3 | [[!Command]], [[!Detect Thoughts]], [[!Intrude Thoughts]], [[!Momentary Madness]] |
-| 5 | [[!Fear]], [[!Hypnotic Pattern]] |
+| 5 | Enemies Abound, Catnap |
 | 7 | [[!Delusion]], [[!Paranoia]] |
 | 9 | [[!Control Thoughts]], [[!Modify Memory]] |
 
