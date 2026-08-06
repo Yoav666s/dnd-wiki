@@ -56,15 +56,15 @@ The Alter Ego lets you choose from an expanded list of spells when you learn a w
 | 4th | Otiluke's Resilient Sphere, [[!Polymorph]] |
 | 5th | [[!Arcane Hand]], [[!Telekinesis]] |
 
-# Level 3: Time Loss
-Whenever you expend a spell slot to cast a spell during combat, you must succeed a Wisdom saving throw (DC equal to 10 + half your warlock level, rounded down). You can willingly fail this saving throw once per Long Rest. When you lose time, your patron takes over your mind and body for 1 minute. You, the player, control your patron during this time, but your character won't remember anything that happened. You cannot repeat the saving throw while your patron is in control.
+# Time Loss
+Starting at 1st level, whenever you expend a spell slot to cast a spell during combat, you must succeed a Wisdom saving throw (DC equal to 10 + half your warlock level, rounded down). You can willingly fail this saving throw once per Long Rest. When you lose time, your patron takes over your mind and body for 1 minute. You, the player, control your patron during this time, but your character won't remember anything that happened. You cannot repeat the saving throw while your patron is in control.
 
 Your patron can pretend to be your character, or act completely differently from how your character would. Your patron is always aware while you are conscious, even during times that your character is in control. 
 
 When your patron takes control, you gain temporary hit points equal to your warlock level plus your Charisma modifier. While your patron is in control you cannot be Charmed or Frightened.
 
-# Level 6: Personal Growth
-You gain one of the following benefits depending on your patron's chosen personality.
+# Personal Growth
+Starting at 6th level, you gain one of the following benefits depending on your patron's chosen personality.
 
 **Furious.** Choose between Cold, Fire, or Thunder damage. You have resistance to the chosen damage type. When your patron takes over, each creature of your choice that you can see within 5 feet must make a Dexterity saving throw. A creature takes 2d6 damage of the chosen type on failure, or half as much on success.
 
@@ -74,13 +74,13 @@ You gain one of the following benefits depending on your patron's chosen persona
 
 **Studious.** You gain resistance to Force damage. When your patron takes over, you gain the benefits of Shield until the start of your next turn.
 
-# Level 10: Last Stand
-When you take damage that would reduce you to 0 hit points but doesn't kill you outright, you can instead remain with 1 hit point and let your patron take over for 1 minute.
+# Last Stand
+Starting at 10th level, when you take damage that would reduce you to 0 hit points but doesn't kill you outright, you can instead remain with 1 hit point and let your patron take over for 1 minute.
 
-Once you use this feature, you can't use it again until you finish a Short or Long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
-# Level 14: Unison
-As a bonus action, you can fuse your conscious mind with your patron's, working together in complete synergy for 1 minute. In this awakened state, you gain the following benefits. 
+# Unison
+Starting at 14th level, as a bonus action, you can fuse your conscious mind with your patron's, working together in complete synergy for 1 minute. In this awakened state, you gain the following benefits. 
 
 **Physical Resistance.** You gain resistance to Bludgeoning, Piercing, and Slashing damage.
 
@@ -88,4 +88,4 @@ As a bonus action, you can fuse your conscious mind with your patron's, working 
 
 **Magic Resistance.** You have advantage on saving throws against spells and magical abilities.
 
-You can use this feature whether you or your patron is in control. Once you use this feature, you can't use it again until you finish a Short or Long rest.
+You can use this feature whether you or your patron is in control. Once you use this feature, you can't use it again until you finish a short or long rest.
