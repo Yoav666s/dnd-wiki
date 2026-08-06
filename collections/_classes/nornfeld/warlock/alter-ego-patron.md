@@ -14,7 +14,7 @@ source: "Fillumir's Guide to the Feywild"
 ---
 When you choose this subclass, you start finding out about your true nature. Maybe you're possessed, or maybe you went mad. Perhaps you spent too much time in the Feywild, and are now begining to feel the consequences. Maybe you're a powerful being who's trapped in a mortal body, and you're beginning to remember who you once were. All you know it's that you lose time, and that your powers come from somewhere within.
 
-# Alter Ego Spells
+# Level 3: Alter Ego Spells
 The magic of your patron ensures you always have certain spells ready, depending on its personality; choose that personality---furious, mad, serene, or studious. When you reach a Warlock level specified in the chosen table, you thereafter always have the listed spells prepared.
 
 ## Furious 
