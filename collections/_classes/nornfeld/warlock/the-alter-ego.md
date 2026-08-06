@@ -30,7 +30,8 @@ The Alter Ego lets you choose from an expanded list of spells when you learn a w
 
 | Warlock Level | Spells |
 | :---: | :---: |
-| 1st | [[!Command]], [[!Detect Thoughts]], [[!Intrude Thoughts]], [[!Momentary Madness]] |
+| 1st | [[!Command]], [[!Momentary Madness]] |
+| 2nd | [[!Detect Thoughts]], [[!Intrude Thoughts]] |
 | 3rd | Enemies Abound, Catnap |
 | 4th | [[!Delusion]], [[!Paranoia]] |
 | 5th | [[!Control Thoughts]], [[!Modify Memory]] |
@@ -39,7 +40,8 @@ The Alter Ego lets you choose from an expanded list of spells when you learn a w
 
 | Warlock Level | Spells |
 | :---: | :---: |
-| 1st | [[!Animal Messenger]], [[!Entangle]], [[!Speak with Animals]], [[!Spike Growth]] |
+| 1st | [[!Entangle]], [[!Speak with Animals]] |
+| 2nd | [[!Animal Messenger]], [[!Spike Growth]] |
 | 3rd | [[!Conjure Animals]], [[!Plant Growth]] |
 | 4th | [[!Giant Insect]], [[!Conjure Woodland Beings]] |
 | 5th | [[!Contagion]], [[!Tree Stride]] |
