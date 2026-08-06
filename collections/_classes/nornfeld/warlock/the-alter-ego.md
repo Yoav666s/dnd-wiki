@@ -28,7 +28,7 @@ The Alter Ego lets you choose from an expanded list of spells when you learn a w
 
 ## Mad
 
-| Warlock Level | Spells |
+| Spell Level | Spells |
 | :---: | :---: |
 | 1st | [[!Command]], [[!Momentary Madness]] |
 | 2nd | [[!Detect Thoughts]], [[!Intrude Thoughts]] |
@@ -38,7 +38,7 @@ The Alter Ego lets you choose from an expanded list of spells when you learn a w
 
 ## Serene
 
-| Warlock Level | Spells |
+| Spell Level | Spells |
 | :---: | :---: |
 | 1st | [[!Entangle]], [[!Speak with Animals]] |
 | 2nd | [[!Animal Messenger]], [[!Spike Growth]] |
@@ -48,7 +48,7 @@ The Alter Ego lets you choose from an expanded list of spells when you learn a w
 
 ## Studious
 
-| Warlock Level | Spells |
+| Spell Level | Spells |
 | :---: | :---: |
 | 1st | [[!Magic Missile]], [[!Shield]] |
 | 2nd | [[!Blur]], [[!Silence]] |
