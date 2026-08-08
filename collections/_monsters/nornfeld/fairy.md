@@ -22,6 +22,8 @@ languages: "Common, Elvish, Sylvan"
 challenge_rating: 0.25
 xp: 50
 proficiency_bonus: "+2"
+traits: |
+  **Magic Resistance.** The fairy has advantage on saving throws against spells and other magical effects.
 actions: |
   **Psychic Burst.** Melee or Ranged Attack: +5 to hit, reach 5 ft. or range 120 ft., one target. Hit: 4 (1d8) psychic damage. If the fairy rolls an 8 on a d8, it can roll another d8, up to a total of 3 extra d8s.
     
