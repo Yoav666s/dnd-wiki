@@ -6,28 +6,28 @@ permalink: /monsters/gnit/
 size: "Tiny"
 type: "Fey"
 alignment: "Chaotic Evil"
-armor_class: "15 (Natural)"
+armor_class: "13 (Dex)"
 hit_points: "14 (4d4+4)"
 speed: "walk 20 ft."
 str_score: 3
-dex_score: 20
+dex_score: 16
 con_score: 12
 int_score: 12
 wis_score: 13
 cha_score: 11
 saving_throws: "WIS +3"
-skills: "Perception +3, Stealth +9"
+skills: "Perception +3, Stealth +7"
 senses: "Passive Perception 13"
 languages: "Common, Sylvan"
 challenge_rating: 0.5
 xp: 100
 proficiency_bonus: "+2"
 actions: |
-  **Restrain.** The gnit targets one tiny or prone creature it can see within 5 ft. of it. The target must succeed on a DC 15 Dexterity saving throw or become restrained.
+  **Restrain.** The gnit targets one tiny or prone creature it can see within 5 ft. of it. The target must succeed on a DC 13 Dexterity saving throw or become restrained.
   
-  **Trip.** The gnit targets one creature it can see within 5 ft. of it. The target must succeed on a DC 15 Dexterity saving throw or fall prone.
+  **Trip.** The gnit targets one creature it can see within 5 ft. of it. The target must succeed on a DC 13 Dexterity saving throw or fall prone.
   
-  **Claws.** Melee Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d4+5) slashing damage.
+  **Claws.** Melee Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) slashing damage.
 bonus_actions: |
   **Hide.** The gnit takes the Hide action.
 excerpt: "Tiny Fey, Chaotic Evil"
