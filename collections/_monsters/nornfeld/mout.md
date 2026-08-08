@@ -6,7 +6,7 @@ permalink: /monsters/mout/
 size: "Tiny"
 type: "Fey"
 alignment: "Chaotic Neutral"
-armor_class: "14 (Natural)"
+armor_class: "14 (Dex)"
 hit_points: "10 (4d4)"
 speed: "walk 20 ft., climb 20 ft."
 str_score: 3
