@@ -8,7 +8,7 @@ type: "Fey"
 alignment: "Chaotic Evil"
 armor_class: "15 (Natural)"
 hit_points: "14 (4d4+4)"
-speed: "walk 20 ft., climb 20 ft."
+speed: "walk 20 ft."
 str_score: 3
 dex_score: 20
 con_score: 12
@@ -23,9 +23,11 @@ challenge_rating: 0.25
 xp: 50
 proficiency_bonus: "+2"
 actions: |
-  **Psychic Burst.** Melee or Ranged Attack: +4 to hit, reach 5 ft. or range 120 ft., one target. Hit: 4 (1d8) psychic damage. If the mout rolls an 8 on the first d8, it can roll another d8.
+  **Restrain.** The gnit targets one tiny or prone creature it can see within 5 ft. of it. The target must succeed on a DC 15 Dexterity saving throw or become restrained.
   
-  **Invisibility.** The mout magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the mout wears or carries is invisible with it.
+  **Trip.** The gnit targets one creature it can see within 5 ft. of it. The target must succeed on a DC 15 Dexterity saving throw or fall prone.
+  
+  **Claws.** Melee Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d4+5) slashing damage.
 bonus_actions: |
   **Hide.** The gnit takes the Hide action.
 excerpt: "Tiny Fey, Chaotic Evil"
