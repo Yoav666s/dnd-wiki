@@ -23,7 +23,7 @@ challenge_rating: 0.5
 xp: 100
 proficiency_bonus: "+2"
 actions: |
-  **Restrain.** The gnit targets one tiny or prone creature it can see within 5 ft. of it. The target must succeed on a DC 13 Dexterity saving throw or become restrained.
+  **Restrain.** The gnit targets one tiny or prone creature it can see within 5 ft. of it. The target must succeed on a DC 13 Dexterity saving throw or become restrained. A creature, including the restrained target, can use its action to make a DC 13 Strength (Athletics) or Dexterity (Acrobatics) check, freeing the target on a success.
   
   **Trip.** The gnit targets one medium or smaller creature it can see within 5 ft. of it. The target must succeed on a DC 13 Dexterity saving throw or fall prone.
   
