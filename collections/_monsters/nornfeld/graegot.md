@@ -33,7 +33,7 @@ actions: |
   
   At will: Acid Splash, Druidcraft, Poison Spray
   
-  1/day each:
+  1/day each: Entangle, Fog Cloud
   
   **Swallow.** The graegot makes one bite attack against a Tiny target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the graegot, and it takes 10 (3d6) acid damage at the start of each of the graegot's turns. The graegot can have only one target swallowed at a time. If the graegot dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 excerpt: "Small Fey, Chaotic Neutral"
