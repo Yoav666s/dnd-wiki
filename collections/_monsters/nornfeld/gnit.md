@@ -25,7 +25,7 @@ proficiency_bonus: "+2"
 actions: |
   **Restrain.** The gnit targets one tiny or prone creature it can see within 5 ft. of it. The target must succeed on a DC 13 Dexterity saving throw or become restrained.
   
-  **Trip.** The gnit targets one creature it can see within 5 ft. of it. The target must succeed on a DC 13 Dexterity saving throw or fall prone.
+  **Trip.** The gnit targets one medium or smaller creature it can see within 5 ft. of it. The target must succeed on a DC 13 Dexterity saving throw or fall prone.
   
   **Claws.** Melee Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) slashing damage.
 bonus_actions: |
