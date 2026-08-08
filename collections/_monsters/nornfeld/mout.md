@@ -25,7 +25,9 @@ proficiency_bonus: "+2"
 actions: |
   **Psychic Burst.** Melee or Ranged Spell Attack: +4 to hit, reach 5 ft. or range 120 ft., one target. Hit: 4 (1d8) psychic damage. If the mout rolls an 8 on a d8, it can roll another d8, up to a total of 2 extra d8s.
   
-  **Invisibility.** The mout magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the mout wears or carries is invisible with it.
+  **Spellcasting.** The mout casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks):
+  
+  At will: Invisibility, Subterfuge
 bonus_actions: |
   **Hide.** The mout takes the Hide action.
 excerpt: "Tiny Fey, Chaotic Neutral"
