@@ -34,6 +34,8 @@ actions: |
   **Spellcasting.** The fairy casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13, +5 to hit with spell attacks):
   
   At will: Invisibility, Subterfuge
+  
+  1/day each: Blur, Faerie Fire
 excerpt: "Tiny Fey, Neutral Good"
 source: "Fillumir's Guide to the Feywild"
 ---
