@@ -19,8 +19,8 @@ saving_throws: "WIS +3"
 skills: "Perception +3, Stealth +9"
 senses: "Passive Perception 13"
 languages: "Common, Sylvan"
-challenge_rating: 0.25
-xp: 50
+challenge_rating: 0.5
+xp: 100
 proficiency_bonus: "+2"
 actions: |
   **Restrain.** The gnit targets one tiny or prone creature it can see within 5 ft. of it. The target must succeed on a DC 15 Dexterity saving throw or become restrained.
