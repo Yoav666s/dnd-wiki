@@ -39,3 +39,7 @@ actions: |
 excerpt: "Small Fey, Chaotic Neutral"
 source: "Fillumir's Guide to the Feywild"
 ---
+
+[:monsters/graegot:]
+
+*The graegot is a small fey creature. It's amphibious and has a toad-like humanoid shape. It has dry, thick, and rough skin with wart-like bumps. Its mouth is large like a toad's, and its skin is typically mottled in shades of brown, olive, grey, or tan to blend in with leaf litter, soil, and rocks. It uses magic to defend itself and eats tiny critters it finds in the forest, or maybe fairies or sprites if it gets lucky.*
