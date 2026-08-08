@@ -19,8 +19,8 @@ saving_throws: ""
 skills: "Perception +3, Stealth +8"
 senses: "Passive Perception 13"
 languages: "Common, Elvish, Sylvan"
-challenge_rating: 0.25
-xp: 50
+challenge_rating: 0.5
+xp: 100
 proficiency_bonus: "+2"
 traits: |
   **Magic Resistance.** The fairy has advantage on saving throws against spells and other magical effects.
