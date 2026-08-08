@@ -32,11 +32,11 @@ bonus_actions: |
   **Hide.** The gnit takes the Hide action.
 excerpt: "Tiny Fey, Chaotic Evil"
 header:
-  overlay_image: /assets/images/monsters/mout/header.png
-  teaser: /assets/images/monsters/mout/header.jpg
+  overlay_image: /assets/images/monsters/gnit/header.png
+  teaser: /assets/images/monsters/gnit/header.jpg
 source: "Fillumir's Guide to the Feywild"
 ---
 
-[:monsters/mout:]
+[:monsters/gnit:]
 
-*The mout is a tiny fey creature. It has an ugly face, a big round nose, pointed ears, and a fat little belly. It's usually invisible but can choose to reveal itself in certain circumstances. It usually lives in households, and feeds on insects and other rodents, using magic to incapacitate them. Despite its grumpy demeanor, it's easily bribed with pastries, cakes, and other baked goods.*
+*Gnits are terrifying little fey creatures. They have thick, grey beards and wear pointy hats, their faces are wrinkly and sullen, and they are hungry for blood. They attack in packs, first tripping the victim wire and then surrounding it and restraining it. They are found in forests where they can hide behind trees and ambush unsuspecting travelers.*
