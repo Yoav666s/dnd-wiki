@@ -12,12 +12,12 @@ speed: "walk 20 ft., swim 40 ft."
 str_score: 15
 dex_score: 13
 con_score: 13
-int_score: 2
-wis_score: 10
-cha_score: 3
+int_score: 10
+wis_score: 14
+cha_score: 11
 saving_throws: ""
 skills: ""
-senses: "Darkvision 30 ft., Passive Perception 10"
+senses: "Darkvision 30 ft., Passive Perception 12"
 languages: ""
 challenge_rating: 1
 xp: 200
