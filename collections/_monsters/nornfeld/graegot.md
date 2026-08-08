@@ -16,9 +16,9 @@ int_score: 10
 wis_score: 14
 cha_score: 11
 saving_throws: ""
-skills: ""
-senses: "Darkvision 30 ft., Passive Perception 12"
-languages: ""
+skills: "Perception +4, Stealth +5"
+senses: "Darkvision 30 ft., Passive Perception 14"
+languages: "Common, Sylvan"
 challenge_rating: 1
 xp: 200
 proficiency_bonus: "+2"
