@@ -25,7 +25,7 @@ proficiency_bonus: "+2"
 traits: |
   **Magic Resistance.** The fairy has advantage on saving throws against spells and other magical effects.
 actions: |
-  **Psychic Burst.** Melee or Ranged Attack: +5 to hit, reach 5 ft. or range 120 ft., one target. Hit: 4 (1d8) psychic damage. If the fairy rolls an 8 on a d8, it can roll another d8, up to a total of 3 extra d8s.
+  **Psychic Burst.** Melee or Ranged Spell Attack: +5 to hit, reach 5 ft. or range 120 ft., one target. Hit: 4 (1d8) psychic damage. If the fairy rolls an 8 on a d8, it can roll another d8, up to a total of 3 extra d8s.
     
   **Invisibility.** The fairy magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the fairy wears or carries is invisible with it.
 excerpt: "Tiny Fey, Neutral Good"
