@@ -6,11 +6,11 @@ permalink: /monsters/graegot-shaman/
 size: "Small"
 type: "Fey"
 alignment: "Chaotic Neutral"
-armor_class: "14 (Mage Armor)"
+armor_class: "15 (Mage Armor)"
 hit_points: "27 (6d6+6)"
 speed: "walk 20 ft., swim 40 ft."
 str_score: 14
-dex_score: 13
+dex_score: 14
 con_score: 13
 int_score: 10
 wis_score: 16
@@ -43,6 +43,6 @@ header:
 source: "Fillumir's Guide to the Feywild"
 ---
 
-[:monsters/graegot:]
+[:monsters/graegot-shaman:]
 
 *The graegot is a small fey creature. It's amphibious and has a toad-like humanoid shape. It has dry, thick, and rough skin with wart-like bumps. Its mouth is large like a toad's, and its skin is typically mottled in shades of brown, olive, grey, or tan to blend in with leaf litter, soil, and rocks. It uses magic to defend itself and eats tiny critters it finds in the forest, or maybe fairies or sprites if it gets lucky.*
