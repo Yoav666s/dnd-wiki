@@ -42,11 +42,11 @@ actions: |
   **Swallow.** The graegot makes one bite attack against a Tiny target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the graegot, and it takes 10 (3d6) acid damage at the start of each of the graegot's turns. The graegot can have only one target swallowed at a time. If the graegot dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 excerpt: "Small Fey, Chaotic Neutral"
 header:
-  overlay_image: /assets/images/monsters/graegot-shaman/header.png
-  teaser: /assets/images/monsters/graegot-shaman/header.jpg
+  overlay_image: /assets/images/monsters/graegot/shaman/header.png
+  teaser: /assets/images/monsters/graegot/shaman/header.jpg
 source: "Fillumir's Guide to the Feywild"
 ---
 
-[:monsters/graegot-shaman:]
+[:monsters/graegot/shaman:]
 
 *The graegot is a small fey creature. It's amphibious and has a toad-like humanoid shape. It has dry, thick, and rough skin with wart-like bumps. Its mouth is large like a toad's, and its skin is typically mottled in shades of brown, olive, grey, or tan to blend in with leaf litter, soil, and rocks. It uses magic to defend itself and eats tiny critters it finds in the forest, or maybe fairies or sprites if it gets lucky.*
