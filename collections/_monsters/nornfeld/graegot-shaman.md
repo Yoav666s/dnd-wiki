@@ -16,8 +16,8 @@ int_score: 10
 wis_score: 16
 cha_score: 11
 saving_throws: "Wisdom +5"
-skills: "Nature +2, Perception +4, Stealth +6"
-senses: "Darkvision 30 ft., Passive Perception 14"
+skills: "Nature +2, Perception +5, Stealth +6"
+senses: "Darkvision 30 ft., Passive Perception 15"
 languages: "Common, Sylvan"
 challenge_rating: 1
 xp: 200
