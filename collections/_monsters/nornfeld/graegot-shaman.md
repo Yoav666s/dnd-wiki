@@ -35,7 +35,7 @@ actions: |
   
   **Spellcasting.** The graegot casts one of the following spells without requiring material components, using Wisdom as the spellcasting ability (spell save DC 13, +5 to hit with spell attacks):
   
-  At will: Acid Splash, Druidcraft, Mage Armor (Included in AC) Poison Spray
+  At will: Acid Splash, Druidcraft, Mage Armor (Included in AC), Poison Spray
   
   1/day each: Bane, Entangle, Fog Cloud
   
