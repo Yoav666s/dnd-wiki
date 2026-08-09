@@ -20,7 +20,7 @@ skills: ""
 damage_vulnerabilities: "Fire"
 damage_resistances: "Piercing"
 senses: "Passive Perception 10"
-languages: "Understands Sylvan but cannot soeak it"
+languages: "Understands Sylvan but cannot speak it"
 challenge_rating: 0
 xp: 10
 proficiency_bonus: "+2"
@@ -30,6 +30,6 @@ traits: |
   **False Appearance.** While the sod remains motionless, it is indistinguishable from a normal patch of grass.
 actions: |
   **Rake.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) slashing damage.
-excerpt: "Small Plant, Chaotic Neutral"
+excerpt: "Tiny Plant, Chaotic Neutral"
 source: "Fillumir's Guide to the Feywild"
 ---
