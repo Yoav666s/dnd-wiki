@@ -26,6 +26,10 @@ traits: |
   **Amphibious.** The graegot can breathe air and water
   
   **Standing Leap.** The graegot's long jump is up to 10 ft. and its high jump is up to 10 ft., with or without a running start.
+bonus_actions: |
+  **Healing Word (2/Day).** The graegot casts Healing Word, using the same spellcasting ability as Spellcasting.
+  
+  **Misty Step (3/Day).** The graegot casts Misty Step, using the same spellcasting ability as Spellcasting.
 actions: |
   **Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the graegot can't bite another target.
   
