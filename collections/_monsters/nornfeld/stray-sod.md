@@ -25,7 +25,7 @@ challenge_rating: 0
 xp: 10
 proficiency_bonus: "+2"
 traits: |
-  **Confusion.** A creature that steps on the sod must succeed a DC 10 Wisdom saving throw or lose all sense of direction. An affected creature automatically fails Wisdom (Survival) checks made to navigate and becomes hopelessly lost. This effect lasts for 1d4 hours and ends early if the creature turns a piece of clothing it's wearing inside out.
+  **Lead Astray.** A creature that steps on the sod must succeed a DC 10 Wisdom saving throw or lose all sense of direction. An affected creature automatically fails Wisdom (Survival) checks made to navigate and becomes hopelessly lost. This effect lasts for 1d4 hours and ends early if the creature turns a piece of clothing it's wearing inside out.
   
   **False Appearance.** While the sod remains motionless, it is indistinguishable from a normal patch of grass.
 actions: |
