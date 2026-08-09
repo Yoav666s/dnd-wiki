@@ -6,17 +6,17 @@ permalink: /monsters/graegot/
 size: "Small"
 type: "Fey"
 alignment: "Chaotic Neutral"
-armor_class: "11 (Dex)"
+armor_class: "12 (Dex)"
 hit_points: "27 (6d6+6)"
 speed: "walk 20 ft., swim 40 ft."
 str_score: 15
-dex_score: 13
+dex_score: 14
 con_score: 13
 int_score: 10
 wis_score: 14
 cha_score: 11
 saving_throws: ""
-skills: "Perception +4, Stealth +5"
+skills: "Perception +4, Stealth +6"
 senses: "Darkvision 30 ft., Passive Perception 14"
 languages: "Common, Sylvan"
 challenge_rating: 1
