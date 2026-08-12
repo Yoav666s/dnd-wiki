@@ -88,3 +88,5 @@ As a bonus action, you can fuse your conscious mind with your patron's, working 
 **Magic Resistance.** You have advantage on saving throws against spells and magical abilities.
 
 You can use this feature whether you or your patron is in control. Once you use this feature, you can't use it again until you finish a Short or Long rest.
+
+[:classes/warlock/alter-ego/2024:]
