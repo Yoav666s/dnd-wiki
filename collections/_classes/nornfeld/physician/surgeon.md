@@ -25,3 +25,5 @@ Starting at 11th level, you gain proficiency in Dexterity saving throws. If you 
 Starting at 18th level, when you expend Medical dice to deal damage to a creature, you can deal maximum damage from these dice instead of rolling.
 
 Once you use this feature, you can't do it again until you finish a short or long rest.
+
+[:classes/physician/surgeon:]
