@@ -6,7 +6,7 @@ permalink: /classes/detective/regulator/
 excerpt: "Regulators are responsible for enforcing the laws of modern society."
 subclass: detective 
 header:
-  overlay_image: /assets/images/classes/regulator/strategist/header.png
+  overlay_image: /assets/images/classes/detective/regulator/header.png
   teaser: /assets/images/classes/detective/regulator/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
