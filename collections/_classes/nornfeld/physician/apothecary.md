@@ -40,3 +40,5 @@ Starting at 11th level, you gain proficiency in Constitution saving throws. If y
 Starting at 18th level, you gain the following Alchemical Concoctions option.
 
 **Regenerative Serum.** For 1 minute, the creature regains 1d6 hit points at the end of each of its turns. This effect ends early if the creature is unconscious.
+
+[:classes/physician/apothecary:]
