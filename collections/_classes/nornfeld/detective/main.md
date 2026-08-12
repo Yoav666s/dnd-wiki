@@ -125,3 +125,5 @@ Starting at 18th level, once per turn when you hit with an attack, you can expen
 
 ## Unrivaled Intellect
 At 20th level, your Intelligence score increases by 4. Your maximum for this score is now 24.
+
+[:classes/detective:]
