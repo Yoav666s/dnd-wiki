@@ -30,3 +30,5 @@ Starting at 11th level, you gain resistance to poison and necrotic damage, and y
 
 # Lasting Miasma
 Starting at 18th level, the noxious cloud from your Noxious Miasma feature lasts for 1 minute.
+
+[:classes/physician/plague-doctor:]
