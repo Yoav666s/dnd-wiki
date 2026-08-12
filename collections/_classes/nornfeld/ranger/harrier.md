@@ -42,6 +42,6 @@ Starting at 7th level, when you are subjected to an effect that allows you to ma
 Starting at 11th level, you can cast [[Haste]] on yourself without expending a spell slot. You can do so twice, and you regain all expended uses when you finish a long rest. When cast this way, you don't suffer a wave of lethargy when it ends.
 
 # Relentless Haste
-Starting at 11th level, taking damage can't break your concentration on [[Haste]].
+Starting at 15th level, taking damage can't break your concentration on [[Haste]].
 
 [:classes/ranger/harrier:]
