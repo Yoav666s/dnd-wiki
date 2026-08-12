@@ -28,3 +28,5 @@ Starting at 11th level, while you are charmed or frightened, at the end of your 
 
 # Insidious Technique
 Starting at 18th level, when you charm a creature, it doesn't know it was charmed by you when the effect ends.
+
+[:classes/physician/hypnologist:]

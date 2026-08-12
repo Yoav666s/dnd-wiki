@@ -5,9 +5,9 @@ index:
 permalink: /classes/physician/
 is_class: true
 excerpt: "Physicians are the modern answer for ailments, injuries, and an upset tummy."
-# header:
-#   overlay_image: /assets/images/classes/physician/header.png
-#   teaser: /assets/images/classes/physician/header.jpg
+header:
+  overlay_image: /assets/images/classes/physician/header.png
+  teaser: /assets/images/classes/physician/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
 Physicians are the modern answer for ailments, injuries, and an upset tummy. 
@@ -122,3 +122,5 @@ Starting at 17th level, when you fail a Wisdom (Medicine) check, you can expend 
 At 20th level, when you use your Medical Attention feature, you can restore the maximum amount of health of the expended dice instead of rolling.
 
 Once you use this feature, you can't do it again until you finish a short or long rest.
+
+[:classes/physician:]

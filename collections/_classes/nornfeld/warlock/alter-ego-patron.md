@@ -7,9 +7,9 @@ excerpt: "Maybe you're possessed, or maybe you went mad."
 subclass: warlock
 v_2024: true
 alt_version: the-alter-ego
-# header:
-#   overlay_image: /assets/images/classes/warlock/alter-ego/2024/header.png
-#   teaser: /assets/images/classes/warlock/alter-ego/2024/header.jpg
+header:
+  overlay_image: /assets/images/classes/warlock/alter-ego/2024/header.png
+  teaser: /assets/images/classes/warlock/alter-ego/2024/header.jpg
 source: "Fillumir's Guide to the Feywild"
 ---
 *Manifest the power buried within your psyche.*
@@ -88,3 +88,5 @@ As a bonus action, you can fuse your conscious mind with your patron's, working 
 **Magic Resistance.** You have advantage on saving throws against spells and magical abilities.
 
 You can use this feature whether you or your patron is in control. Once you use this feature, you can't use it again until you finish a Short or Long rest.
+
+[:classes/warlock/alter-ego/2024:]

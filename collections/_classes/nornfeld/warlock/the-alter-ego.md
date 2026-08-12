@@ -6,9 +6,9 @@ permalink: /classes/warlock/the-alter-ego/
 excerpt: "Maybe you're possessed, or maybe you went mad."
 subclass: warlock
 alt_version: alter-ego-patron
-# header:
-#   overlay_image: /assets/images/classes/warlock/alter-ego/header.png
-#   teaser: /assets/images/classes/warlock/alter-ego/header.jpg
+header:
+  overlay_image: /assets/images/classes/warlock/alter-ego/header.png
+  teaser: /assets/images/classes/warlock/alter-ego/header.jpg
 source: "Fillumir's Guide to the Feywild"
 ---
 Maybe you're possessed, or maybe you went mad. Perhaps you spent too much time in the Feywild, and are now begining to feel the consequences. Maybe you're a powerful being who's trapped in a mortal body, and you're beginning to remember who you once were. All you know it's that you lose time, and that your powers come from somewhere within.
@@ -89,3 +89,5 @@ Starting at 14th level, as a bonus action, you can fuse your conscious mind with
 **Magic Resistance.** You have advantage on saving throws against spells and magical abilities.
 
 You can use this feature whether you or your patron is in control. Once you use this feature, you can't use it again until you finish a short or long rest.
+
+[:classes/warlock/alter-ego:]
