@@ -28,3 +28,5 @@ Starting at 13th level, you have advantage on Intelligence (Investigation) check
 
 # Forced Opening
 Starting at 17th level, when an attack that benefits from your Momentary Opening feature misses, the target takes half damage of the additional damage that attack would have dealt.
+
+[:classes/detective/investigator:]
