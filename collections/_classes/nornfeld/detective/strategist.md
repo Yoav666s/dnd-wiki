@@ -30,3 +30,5 @@ Starting at 13th level, when an ally within 30 feet of you is hit with an attack
 Starting at 17th level, when an ally hits with an attack that was a result of your Tactical Command feature, you can turn the hit to a critical hit. 
 
 Once you use this feature, you can't do it again until you finish a short or long rest.
+
+[:classes/detective/strategist:]
