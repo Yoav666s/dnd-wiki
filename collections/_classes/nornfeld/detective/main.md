@@ -6,9 +6,9 @@ permalink: /classes/detective/
 is_class: true
 excerpt: "Detectives are the pinnacle of modern problem solving."
 alt_version: detective-2024
-# header:
-#   overlay_image: /assets/images/classes/detective/header.png
-#   teaser: /assets/images/classes/detective/header.jpg
+header:
+  overlay_image: /assets/images/classes/detective/header.png
+  teaser: /assets/images/classes/detective/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
 Detectives are the pinnacle of modern problem solving. They are elegant, shrewd, and--if the situation escalates--quite capable in combat. They are master investigators and dominate the social battlefield. They exploit their enemys' weaknesses and hit hard, exactly where it hurts.
