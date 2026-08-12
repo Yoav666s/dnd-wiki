@@ -89,3 +89,5 @@ Starting at 14th level, as a bonus action, you can fuse your conscious mind with
 **Magic Resistance.** You have advantage on saving throws against spells and magical abilities.
 
 You can use this feature whether you or your patron is in control. Once you use this feature, you can't use it again until you finish a short or long rest.
+
+[:classes/warlock/alter-ego:]
