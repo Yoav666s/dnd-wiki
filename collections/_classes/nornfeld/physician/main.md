@@ -5,9 +5,9 @@ index:
 permalink: /classes/physician/
 is_class: true
 excerpt: "Physicians are the modern answer for ailments, injuries, and an upset tummy."
-# header:
-#   overlay_image: /assets/images/classes/physician/header.png
-#   teaser: /assets/images/classes/physician/header.jpg
+header:
+  overlay_image: /assets/images/classes/physician/header.png
+  teaser: /assets/images/classes/physician/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
 Physicians are the modern answer for ailments, injuries, and an upset tummy. 
