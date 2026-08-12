@@ -7,9 +7,9 @@ excerpt: "Maybe you're possessed, or maybe you went mad."
 subclass: warlock
 v_2024: true
 alt_version: the-alter-ego
-# header:
-#   overlay_image: /assets/images/classes/warlock/alter-ego/2024/header.png
-#   teaser: /assets/images/classes/warlock/alter-ego/2024/header.jpg
+header:
+  overlay_image: /assets/images/classes/warlock/alter-ego/2024/header.png
+  teaser: /assets/images/classes/warlock/alter-ego/2024/header.jpg
 source: "Fillumir's Guide to the Feywild"
 ---
 *Manifest the power buried within your psyche.*
