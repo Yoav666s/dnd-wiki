@@ -122,3 +122,5 @@ Starting at 17th level, when you fail a Wisdom (Medicine) check, you can expend 
 At 20th level, when you use your Medical Attention feature, you can restore the maximum amount of health of the expended dice instead of rolling.
 
 Once you use this feature, you can't do it again until you finish a short or long rest.
+
+[:classes/physician:]
