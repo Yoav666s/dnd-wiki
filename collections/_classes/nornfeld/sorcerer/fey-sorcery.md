@@ -12,6 +12,8 @@ header:
   overlay_image: /assets/images/classes/sorcerer/fey-soul/2024/header.png
   teaser: /assets/images/classes/sorcerer/fey-soul/2024/header.jpg
 ---
+*Trick People with Whimsical Magic*
+
 Your innate magic comes from the distant realms of the Feywild. You might trace your lineage to an entity from that place, or perhaps you were exposed to its energy and transformed by it.
 
 The power of the Feywild has a noticeable effect over your physical presence. The playful aura of magic and trickery is all too present, frustrating and infuriating both friend and foe.
@@ -23,7 +25,7 @@ You learn additional spells when you reach certain levels in this class, as show
 
 | Sorcerer Level | Spells |
 | :------------: | :----- |
-| 3 | [[!Charm Person]], [[!Silent Image]], [[!Invisibility]], [[!Misty Step]] |
+| 3 | [[!Charm Person]], [[!Silent Image]], [[!Invisibility]], [[!Misty Step]], Subterfuge |
 | 5 | [[!Major Image]], [[!Sending]] |
 | 7 | [[!Confusion]], [[!Greater Invisibility]] |
 | 9 | [[!Dream]], [[!Mislead]] |
