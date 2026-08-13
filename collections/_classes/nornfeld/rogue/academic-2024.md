@@ -12,6 +12,8 @@ header:
   teaser: /assets/images/classes/rogue/academic/2024/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
+*Fight with the Elegance of a Scholar*
+
 The Academic is both an experienced rogue and an intellectual, blending wit and talent into a deadly combination. They learn and apply combative techniques, as well as various fields of study. They rely on their sharp cunning no less than their skills, and their brilliant maneuvers can turn the tide in battle.
 
 # Level 3: Cunning Intellect
