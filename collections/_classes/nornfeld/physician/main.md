@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/classes/physician/header.jpg
   actions:
     - label: "Fight Club XML"
-      url: /assets/files/physician.xml
+      url: /assets/files/classes/physician.xml
 source: "Survivor's Guide to Morgenfell"
 ---
 Physicians are the modern answer for ailments, injuries, and an upset tummy. 
