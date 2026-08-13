@@ -11,6 +11,8 @@ header:
   overlay_image: /assets/images/classes/sorcerer/arcane-soul/2024/header.png
   teaser: /assets/images/classes/sorcerer/arcane-soul/2024/header.jpg
 ---
+*Form a Deep Connection to the Weave*
+
 You are a master of the arcane arts, your magic stemming from a deep connection to the weave.
 
 # Level 3: Arcane Magic
