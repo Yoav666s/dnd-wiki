@@ -11,13 +11,13 @@ header:
   overlay_image: /assets/images/classes/cleric/wind/header.png
   teaser: /assets/images/classes/cleric/wind/header.jpg
 ---
-The Wind domain focuses on the ever-changing nature of wind, drawing power from deities of nature or storm. It encourages mobility, using movement for advantage, and never staying in one place. Clerics of the Wind Domain revere the ever-changing currents, embodying motion, change, and freedom--never static, always advancing. These clerics use wind’s swiftness to outmaneuver foes and guide allies to safety.
+Wind is an ever-changing force of nature. Clerics who learn to command it become one with the element of air, gaining speed and control over what others merely accept. They draw their powers from deities of nature or storm, manipulating the battlefield to their advantage.
 
 # Wind Domain Spells
 
 | Cleric Level | Spells                              |
 | :----------: | :---------------------------------- |
-| 1st | [[!Expeditious Retreat]], [[!Feather Fall]]             |
+| 1st | [[!Expeditious Retreat]], [[!Feather Fall]], Gust             |
 | 3rd | [[!Gust of Wind]], [[!Levitate]] |
 | 5th |	[[!Fly]], [[!Wind Wall]]             |
 | 7th | [[!Divination]], [[!Freedom of Movement]]        |
