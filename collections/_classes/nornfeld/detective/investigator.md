@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/classes/detective/investigator/header.jpg
   actions:
     - label: "Fight Club XML"
-      url: /assets/files/detective.xml
+      url: /assets/files/classes/detective.xml
 source: "Survivor's Guide to Morgenfell"
 ---
 Some detectives adopt a supporting role in combat, enhancing their allies' attacks. Investigators are well versed in the dangers that come with their occupation, and are no strangers to deadly circumstances.
