@@ -8,6 +8,9 @@ subclass: physician
 header:
   overlay_image: /assets/images/classes/physician/surgeon/header.png
   teaser: /assets/images/classes/physician/surgeon/header.jpg
+  actions:
+    - label: "Fight Club XML"
+      url: /assets/files/physician.xml
 source: "Survivor's Guide to Morgenfell"
 ---
 Surgery is still in its infancy, but some things are certain: the physician's knowledge of anatomy allows them to deliver deadly strikes.
