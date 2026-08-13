@@ -11,6 +11,8 @@ header:
   overlay_image: /assets/images/classes/ranger/harrier/2024/header.png
   teaser: /assets/images/classes/ranger/harrier/2024/header.jpg
 ---
+*Attack with the Speed of a Harrier*
+
 Harriers dart across the battlefield, weaving between enemies and circling their foes. Their magic enhances their unrelenting speed and makes them difficult targets to pin down, while their continuous movement builds up momentum for deadlier strikes.
 
 # Level 3: Built for Speed
