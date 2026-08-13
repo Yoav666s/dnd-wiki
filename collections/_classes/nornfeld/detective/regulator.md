@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/classes/detective/regulator/header.jpg
   actions:
     - label: "Fight Club XML"
-      url: /assets/files/detective.xml
+      url: /assets/files/classes/detective.xml
 source: "Survivor's Guide to Morgenfell"
 ---
 Regulators are responsible for enforcing the laws of modern society. After the institution of the Arcane Dictum, they were the ones who made sure that magic stays a thing of the past. They are experts at interrupting the casting of spells, identifying them, and even dispelling magical effects.
