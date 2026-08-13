@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+  <class>
+    <name>Physician</name>
+    <hd>8</hd>
+    <proficiency>Wisdom, Intelligence</proficiency>
+    <numSkills>2</numSkills>
+
+    <!-- LEVEL 1 -->
+    <autolevel level="1">
+      <feature>
+        <name>Starting Proficiencies</name>
+        <text>Armor: Light Armor</text>
+        <text>Weapons: Simple weapons, shortswords, firearms, light crossbows</text>
+        <text>Tools: Herbalism Kit</text>
+        <text>Saving Throws: Wisdom, Intelligence</text>
+        <text>Skills: Choose two from Animal Handling, History, Insight, Investigation, Medicine, Nature, Perception, and Persuasion</text>
+      </feature>
+      <feature>
+        <name>Starting Equipment</name>
+        <text>You start with the following equipment, in addition to the equipment granted by your background:</text>
+        <text>• (a) a pistol and 20 bullets or (b) a light crossbow and 20 bolts</text>
+        <text>• (a) a cane sword (shortsword) or (b) a simple weapon</text>
+        <text>• (a) a scholar's pack or (b) an explorer's pack</text>
+        <text>• A herbalism kit and 2 modern healer's kits</text>
+      </feature>
+      <feature>
+        <name>Multiclassing Requirement</name>
+        <text>You must have an Intelligence score and a Wisdom score of 13 or higher in order to multiclass in or out of this class.</text>
+      </feature>
+      <feature>
+        <name>Medical Attention</name>
+        <text>Starting at 1st level, you can attend to a creature's wound or ailment. You have a pool of Medical dice with which you can tend to creatures and restore their health. Your physician level determines the number and type of dice you have. You regain expended dice when you finish a long rest.</text>
+        <text>As an action, you can heal a conscious or stable creature you can see within 5 feet of you (possibly yourself). You can expend a number of Medical dice equal to up to your Intelligence modifier (minimum of 1) and one use of a healer's kit, rolling the dice and healing the creature by the amount rolled plus your Wisdom modifier (minimum of +1).</text>
+        <text>Alternatively, you can use your action to expend 1 use of a healer's kit to end the poisoned condition on a creature you can see within 5 feet of you (possibly yourself).</text>
+        <text>Medical Dice Progression:</text>
+        <text>• 1st-4th Level: 2d4 / 4d4 / 6d4 / 8d4</text>
+        <text>• 5th-8th Level: 10d6 / 12d6 / 14d6 / 16d6</text>
+        <text>• 9th-12th Level: 18d8 / 20d8 / 22d8 / 24d8</text>
+        <text>• 13th-16th Level: 26d10 / 28d10 / 30d10 / 32d10</text>
+        <text>• 17th-20th Level: 34d12 / 36d12 / 38d12 / 40d12</text>
+      </feature>
+      <feature>
+        <name>Perceptive Aim</name>
+        <text>Starting at 1st level, you can use your Wisdom modifier, in place of your Dexterity modifier, for ranged or finesse attack and damage rolls.</text>
+      </feature>
+      <feature>
+        <name>Unarmored Defense</name>
+        <text>Starting at 1st level, while not wearing armor and not wielding a shield, your AC equals 10 + your Intelligence modifier + your Wisdom modifier.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 2 -->
+    <autolevel level="2">
+      <feature>
+        <name>Patch Up</name>
+        <text>Starting at 2nd level, you can tend to another creature (or yourself) with more extensive care. This process takes 10 minutes and requires you to expend 2 uses of a healer's kit. The creature must be conscious or stable, and within 5 feet of you for the entire duration. The creature regains hit points equal to Xd10 + your Physician level + your Wisdom modifier, where X is your Intelligence modifier. Once a creature has been healed in this way, it must finish a long rest before it can be healed this way again.</text>
+      </feature>
+      <feature>
+        <name>Trained Physician</name>
+        <text>Starting at 2nd level, you gain proficiency in the Medicine skill. If you're already proficient in it, you gain expertise. Additionally, you have advantage on Wisdom (Medicine) checks made to stabilize an unconscious creature that has 0 hit points.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 3 -->
+    <autolevel level="3">
+      <feature>
+        <name>Medical Methodology</name>
+        <text>At 3rd level, you choose a methodology that you emulate in your medicinal practice. Your methodology choice grants you features at 3rd level and then again at 6th, 11th, and 18th level.</text>
+        <text>Available Methodologies from Survivor's Guide to Morgenfell:</text>
+        <text>• Apothecary</text>
+        <text>• Hypnologist</text>
+        <text>• Plague Doctor</text>
+        <text>• Surgeon</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 4 -->
+    <autolevel level="4">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 5 -->
+    <autolevel level="5">
+      <feature>
+        <name>Revive</name>
+        <text>Starting at 5th level, you can expend 10 uses of a healers kit to attempt to revive a creature that has died within the last minute. This process takes up to 5 minutes (until you succeed or fail), during which you need to make a Wisdom (Medicine) check with a DC of 20 minus the creature's Constitution modifier at the end of every minute.</text>
+        <text>You do not gain advantage on these checks from your Trained Physician feature. If you succeed 3 times, the creature is stabilized with 0 hit points and 1d4 levels of exhaustion. If you fail 3 times, the creature remains dead and cannot be revived in this way. Successes and failures do not need to be consecutive.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 6 -->
+    <autolevel level="6">
+      <feature>
+        <name>Medical Methodology Feature</name>
+        <text>You gain a feature granted by your chosen Medical Methodology.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 7 -->
+    <autolevel level="7">
+      <feature>
+        <name>Emergency Response</name>
+        <text>Starting at 7th level, when a creature you can see is reduced to 0 hit points, you can use your reaction to move up to your speed towards it without provoking Opportunity Attacks. If you reach within 5 feet of it, you can attempt to stabilize it as part of the same reaction.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 8 -->
+    <autolevel level="8">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 9 -->
+    <autolevel level="9">
+      <feature>
+        <name>Medical Recovery</name>
+        <text>Starting at 9th level, you regain a number of expended Medical dice equal to your Intelligence modifier when you finish a short rest.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 10 -->
+    <autolevel level="10">
+      <feature>
+        <name>Effective Healing</name>
+        <text>Starting at 10th level, when you use your Patch Up feature, you restore a number of hit points equal to Xd10 + your Physician level + your Wisdom modifier, where X is twice your Intelligence modifier.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 11 -->
+    <autolevel level="11">
+      <feature>
+        <name>Medical Methodology Feature</name>
+        <text>You gain a feature granted by your chosen Medical Methodology.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 12 -->
+    <autolevel level="12">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 13 -->
+    <autolevel level="13">
+      <feature>
+        <name>Sight and Hearing</name>
+        <text>Starting at 13th level, you can use your action to expend 2 uses of a healer's kit to end the blinded or deafened condition on a creature you can see within 5 feet of you (possibly yourself).</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 14 -->
+    <autolevel level="14">
+      <feature>
+        <name>Paralysis Analysis</name>
+        <text>Starting at 14th level, you can use your action to expend 3 uses of a healer's kit to end the paralyzed condition on a creature you can see within 5 feet of you.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 15 -->
+    <autolevel level="15">
+      <feature>
+        <name>Medical Resourcefulness</name>
+        <text>Starting at 15th level, when you roll initiative and have a number of remaining Medical dice lower than your Intelligence modifier, you regain a number of Medical dice until you have a number equal to your Intelligence modifier.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 16 -->
+    <autolevel level="16">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 17 -->
+    <autolevel level="17">
+      <feature>
+        <name>Medical Prowess</name>
+        <text>Starting at 17th level, when you fail a Wisdom (Medicine) check, you can expend a Medical die to reroll the d20 once, and you must use the new roll.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 18 -->
+    <autolevel level="18">
+      <feature>
+        <name>Medical Methodology Feature</name>
+        <text>You gain a feature granted by your chosen Medical Methodology.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 19 -->
+    <autolevel level="19">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+      </feature>
+    </autolevel>
+
+    <!-- LEVEL 20 -->
+    <autolevel level="20">
+      <feature>
+        <name>Medical Perfection</name>
+        <text>At 20th level, when you use your Medical Attention feature, you can restore the maximum amount of health of the expended dice instead of rolling.</text>
+        <text>Once you use this feature, you can't do it again until you finish a short or long rest.</text>
+      </feature>
+    </autolevel>
+
+  </class>
+
+  <!-- ========================================== -->
+  <!--          PHYSICIAN (APOTHECARY)            -->
+  <!-- ========================================== -->
+  <class>
+    <name>Physician (Apothecary)</name>
+
+    <autolevel level="3">
+      <feature>
+        <name>Apothecary: Efficient Craft</name>
+        <text>Starting at 3rd level, you gain expertise with the Herbalism Kit. Additionally, you can craft potions at half the time and cost (rounded up).</text>
+      </feature>
+      <feature>
+        <name>Apothecary: Alchemical Concoctions</name>
+        <text>Starting at 3rd level, you gain proficiency with Alchemist's Supplies. If you already have this proficiency, you gain expertise. When you finish a short or long rest, you can create a number of alchemical concoctions equal to your Intelligence modifier (minimum of 1). They retain their potency for 24 hours. When you create alchemical concoctions, each one can be of a different type:</text>
+        <text>• Fortifying Salve: The creature gains temporary hit points equal to your physician level + your Wisdom modifier.</text>
+        <text>• Adrenaline Shot: The creature gains resistance to non-magical bludgeoning, piercing, and slashing damage for 1 minute. This effect ends early on a creature if it is unconscious or if its turn ends and it hasn’t attacked a creature since its last turn or taken damage since then.</text>
+        <text>• Vigor Stimulant: For 10 minutes, the creature's walking speed increases by 10 feet, and it can take the dash action as a bonus action on its turn.</text>
+        <text>A creature can use its bonus action to drink a concoction or administer it to a creature within 5 feet. A creature can only benefit from one concoction at any given moment. A creature that drinks a concoction while under the effect of another one must succeed a Constitution saving throw (DC equal to 8 + your Intelligence modifier + your proficiency bonus) or take 3d10 poison damage and have the poisoned condition. On a successful save, the creature only takes half damage. The two concoctions neutralize each other completely.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="6">
+      <feature>
+        <name>Apothecary: Potent Concoctions</name>
+        <text>Starting at 6th level, you can create more potent concoctions. You gain the following options for your Alchemical Concoctions feature.</text>
+        <text>• Elixir of Recovery: After 10 minutes, the creature recovers one level of exhaustion.</text>
+        <text>• Reflex Enhancer: For 1 minute, the creature has advantage on Dexterity saving throws and can take the dodge action as a bonus action on its turn.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="11">
+      <feature>
+        <name>Apothecary: Robust Immune System</name>
+        <text>Starting at 11th level, you gain proficiency in Constitution saving throws. If you already have this proficiency, you gain proficiency in Dexterity saving throws.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="18">
+      <feature>
+        <name>Apothecary: Alchemical Mastery</name>
+        <text>Starting at 18th level, you gain the following Alchemical Concoctions option.</text>
+        <text>• Regenerative Serum: For 1 minute, the creature regains 1d6 hit points at the end of each of its turns. This effect ends early if the creature is unconscious.</text>
+      </feature>
+    </autolevel>
+  </class>
+
+  <!-- ========================================== -->
+  <!--         PHYSICIAN (HYPNOLOGIST)            -->
+  <!-- ========================================== -->
+  <class>
+    <name>Physician (Hypnologist)</name>
+
+    <autolevel level="3">
+      <feature>
+        <name>Hypnologist: Soothing Voice</name>
+        <text>Starting at 3rd level, you gain proficiency in the Persuasion skill. If you already have this proficiency, you gain expertise.</text>
+      </feature>
+      <feature>
+        <name>Hypnologist: Hypnotizing Technique</name>
+        <text>Starting at 3rd level, as an action, you can hypnotize a creature that can hear and understand you. It must succeed a Wisdom saving throw (DC equal to 8 + your Intelligence modifier + your proficiency bonus) or be charmed for 1 minute. The target has advantage on the saving throw if you or your companions are fighting it. While charmed in this way, they target is open to suggestion and reveals information freely. When this effect ends, the target knows it was charmed by you.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a short or long rest.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="6">
+      <feature>
+        <name>Hypnologist: Reality Check</name>
+        <text>Starting at 6th level, as an action you can talk to a charmed or frightened creature. If the creature can hear and understand you, you can make a Charisma (Persuasion) check against the triggering DC in an attempt to end that condition.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="11">
+      <feature>
+        <name>Hypnologist: Trained Mind</name>
+        <text>Starting at 11th level, while you are charmed or frightened, at the end of your turn you can end that condition on yourself.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="18">
+      <feature>
+        <name>Hypnologist: Insidious Technique</name>
+        <text>Starting at 18th level, when you charm a creature, it doesn't know it was charmed by you when the effect ends.</text>
+      </feature>
+    </autolevel>
+  </class>
+
+  <!-- ========================================== -->
+  <!--        PHYSICIAN (PLAGUE DOCTOR)           -->
+  <!-- ========================================== -->
+  <class>
+    <name>Physician (Plague Doctor)</name>
+
+    <autolevel level="3">
+      <feature>
+        <name>Plague Doctor: Harbinger of Doom</name>
+        <text>Starting at 3rd level, your presence is often an omen of death. You gain proficiency in the Intimidation skill. If you already have this proficiency, you gain expertise.</text>
+      </feature>
+      <feature>
+        <name>Plague Doctor: Noxious Miasma</name>
+        <text>Starting at 3rd level, you gain proficiency with the Poisoner's Kit. If you already have this proficiency, you gain expertise. When you finish a short or long rest, you can create a number of noxious vials equal to your Intelligence modifier (minimum of 1). They retain their potency for 24 hours.</text>
+        <text>When a creature takes the attack action, it can replace one of its attacks with throwing a noxious vial to a point it can see within 20 feet. When the vial shatters it creates a noxious cloud with a 10-foot radius that lasts until the start of your next turn. Each creature that enters or starts its turn inside the cloud must succeed a Constitution saving throw (DC equal 8 + your Intelligence modifier + your proficiency bonus) or take XdY poison or necrotic damage (your choice) and have the poisoned condition until the end of your next turn, where X is your proficiency bonus and Y is the size of your Medical dice.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="6">
+      <feature>
+        <name>Plague Doctor: Death's Beak</name>
+        <text>Starting at 6th level, your appearance is terrifying. As a bonus action, you can force a creature you can see within 30 feet to succeed a Wisdom saving throw (DC equal to 8 + your Intelligence modifier + your proficiency bonus) or be frightened of you for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+        <text>You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a short or long rest.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="11">
+      <feature>
+        <name>Plague Doctor: Aromatic Mask</name>
+        <text>Starting at 11th level, you gain resistance to poison and necrotic damage, and you have advantage on saving throws you make to avoid or end the poisoned condition.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="18">
+      <feature>
+        <name>Plague Doctor: Lasting Miasma</name>
+        <text>Starting at 18th level, the noxious cloud from your Noxious Miasma feature lasts for 1 minute.</text>
+      </feature>
+    </autolevel>
+  </class>
+
+  <!-- ========================================== -->
+  <!--             PHYSICIAN (SURGEON)            -->
+  <!-- ========================================== -->
+  <class>
+    <name>Physician (Surgeon)</name>
+
+    <autolevel level="3">
+      <feature>
+        <name>Surgeon: Surgical Precision</name>
+        <text>Starting at 3rd level when you choose this methodology, when you hit a creature with a finesse weapon attack, you can expend a number of Medical dice equal up to your Intelligence modifier, rolling the dice and dealing damage of the attack's type equal to the total.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="6">
+      <feature>
+        <name>Surgeon: Extra Attack</name>
+        <text>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="11">
+      <feature>
+        <name>Surgeon: Dexterous Maneuvers</name>
+        <text>Starting at 11th level, you gain proficiency in Dexterity saving throws. If you already have this proficiency, you instead gain proficiency in Constitution saving throws.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="18">
+      <feature>
+        <name>Surgeon: Deadly Precision</name>
+        <text>Starting at 18th level, when you expend Medical dice to deal damage to a creature, you can deal maximum damage from these dice instead of rolling.</text>
+        <text>Once you use this feature, you can't do it again until you finish a short or long rest.</text>
+      </feature>
+    </autolevel>
+  </class>
+</compendium>
