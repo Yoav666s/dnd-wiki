@@ -8,6 +8,9 @@ subclass: physician
 header:
   overlay_image: /assets/images/classes/physician/plague-doctor/header.png
   teaser: /assets/images/classes/physician/plague-doctor/header.jpg
+  actions:
+    - label: "Fight Club XML"
+      url: /assets/files/physician.xml
 source: "Survivor's Guide to Morgenfell"
 ---
 Plague doctors are avid practitioners of the miasma theory, wearing their signature beak mask and waxed leather coats. They use their cane to treat infected subjects without touching them, and they are often the last thing they ever see.
