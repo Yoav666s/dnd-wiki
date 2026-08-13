@@ -8,6 +8,9 @@ subclass: physician
 header:
   overlay_image: /assets/images/classes/physician/apothecary/header.png
   teaser: /assets/images/classes/physician/apothecary/header.jpg
+  actions:
+    - label: "Fight Club XML"
+      url: /assets/files/physician.xml
 source: "Survivor's Guide to Morgenfell"
 ---
 Apothecaries are state of the art alchemists, brewing concoctions and even potions quickly and efficiently. They are invaluable team members and offer a variety of different salves and serums to aid their allies in combat.
