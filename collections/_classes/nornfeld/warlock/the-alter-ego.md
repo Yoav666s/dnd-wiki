@@ -30,6 +30,7 @@ The Alter Ego lets you choose from an expanded list of spells when you learn a w
 
 | Spell Level | Spells |
 | :---: | :---: |
+| Cantrip | [[!Subterfuge]] |
 | 1st | [[!Command]], [[!Momentary Madness]] |
 | 2nd | [[!Detect Thoughts]], [[!Intrude Thoughts]] |
 | 3rd | Enemies Abound, Catnap |
