@@ -12,6 +12,8 @@ header:
   teaser: /assets/images/classes/fighter/marksman/2024/header.jpg
 source: "Survivor's Guide to Morgenfell"
 ---
+*Become an Expert Gunslinger*
+
 The Marksman is a master gunslinger who wields firearms like it's an art. Their aim is unmatched, and their reflexes are quick.
 
 # Level 3: Deadeye Precision
