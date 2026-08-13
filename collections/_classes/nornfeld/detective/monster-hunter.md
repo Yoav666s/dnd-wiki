@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/classes/detective/monster-hunter/header.jpg
   actions:
     - label: "Fight Club XML"
-      url: /assets/files/detective.xml
+      url: /assets/files/classes/detective.xml
 source: "Survivor's Guide to Morgenfell"
 ---
 Monster Hunters are the answer to vampires, werewolves, and eldritch horrors in a continent where magic is no more. They are particularly deadly, securing kills and making sure monsters won't live to prey on the defenseless.
