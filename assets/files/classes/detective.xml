@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+
+  <!-- ========================================== -->
+  <!--               DETECTIVE (5E)               -->
+  <!-- ========================================== -->
+  <class>
+    <name>Detective</name>
+    <hd>8</hd>
+    <proficiency>Dexterity, Intelligence</proficiency>
+    <numSkills>3</numSkills>
+
+    <autolevel level="1">
+      <feature>
+        <name>Starting Proficiencies</name>
+        <text>Armor: Light Armor</text>
+        <text>Weapons: Simple weapons, firearms, rapiers, light crossbows</text>
+        <text>Tools: Forgery Kit</text>
+        <text>Saving Throws: Dexterity, Intelligence</text>
+        <text>Skills: Choose three from Arcana, Deception, History, Insight, Investigation, Medicine, Nature, Perception, Persuasion, Religion, and Survival</text>
+      </feature>
+      <feature>
+        <name>Starting Equipment</name>
+        <text>You start with the following equipment, in addition to the equipment granted by your background:</text>
+        <text>• (a) a pistol and 20 bullets or (b) a light crossbow and 20 bolts</text>
+        <text>• (a) a rapier or (b) a simple weapon</text>
+        <text>• (a) a scholar's pack or (b) an explorer's pack</text>
+        <text>• Studded Leather Armor, a Forgery Kit, and a dagger</text>
+      </feature>
+      <feature>
+        <name>Multiclassing Requirement</name>
+        <text>You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.</text>
+      </feature>
+      <feature>
+        <name>Expertise</name>
+        <text>At 1st level, choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency.</text>
+      </feature>
+      <feature>
+        <name>Professional Talent</name>
+        <text>Starting at 1st level, once per turn when you make an ability check to which you apply your proficiency bonus or when you make an attack roll with a weapon you're proficient in, you can give yourself advantage on the roll.</text>
+        <text>You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="2">
+      <feature>
+        <name>Calculated Action</name>
+        <text>Starting at 2nd level, you can take a bonus action on each of your turns in combat. This action can be used only to take the Disengage, Help, or Search action.</text>
+        <text>Additionally, you can take the Help action to aid an ally in attacking a creature if the target of the attack is within 30 feet you, rather than 5 feet of you.</text>
+      </feature>
+      <feature>
+        <name>Fighting Style</name>
+        <text>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.</text>
+        <text>• Archery: You gain a +2 bonus to attack rolls you make with ranged weapons.</text>
+        <text>• Defense: While you are wearing armor, you gain a +1 bonus to AC.</text>
+        <text>• Dueling: When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
+        <text>• Two-Weapon Fighting: When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="3">
+      <feature>
+        <name>Professional Field</name>
+        <text>At 3rd level, you choose a field in which to expand your abilities. Your field choice grants you features at 3rd level and then again at 7th level, 13th level, and 17th level.</text>
+        <text>Available Fields from Survivor's Guide to Morgenfell:</text>
+        <text>• Investigator</text>
+        <text>• Monster Hunter</text>
+        <text>• Regulator</text>
+        <text>• Strategist</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="4">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="5">
+      <feature>
+        <name>Extra Attack</name>
+        <text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="6">
+      <feature>
+        <name>Expertise</name>
+        <text>At 6th level, you can choose two more of your proficiencies to gain this benefit.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="7">
+      <feature>
+        <name>Professional Field feature</name>
+        <text>You gain a feature granted by your chosen Professional Field.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="8">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="9">
+      <feature>
+        <name>Experienced Investigator</name>
+        <text>Starting at 9th level, you regain all of your expended uses of Professional Talent when you finish a short or long rest.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="10">
+      <feature>
+        <name>Considered Deflection</name>
+        <text>Starting at 10th level, when you are hit with a melee attack while wielding a finesse or ranged weapon, you can use your reaction to add your Intelligence modifier to your AC for that attack, possibly causing the attack to miss.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="11">
+      <feature>
+        <name>Intelligent Strikes</name>
+        <text>Starting at 11th level, when you take the attack action on your turn, your weapon attacks deal additional damage equal to your Intelligence modifier.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="12">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="13">
+      <feature>
+        <name>Professional Field feature</name>
+        <text>You gain a feature granted by your chosen Professional Field.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="14">
+      <feature>
+        <name>Sharp Reflexes</name>
+        <text>Starting at 14th level, when you fail a saving throw, you can use your reaction and expend a use of Professional Talent to reroll the d20, and you must use the new roll.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="15">
+      <feature>
+        <name>Superior Talent</name>
+        <text>Starting at 15th level, when you roll initiative and have no remaining uses of Professional Talent left, you regain one use.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="16">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="17">
+      <feature>
+        <name>Professional Field feature</name>
+        <text>You gain a feature granted by your chosen Professional Field.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="18">
+      <feature>
+        <name>Critical Strike</name>
+        <text>Starting at 18th level, once per turn when you hit with an attack, you can expend one use of Professional Talent to turn the hit into a critical hit.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="19">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="20">
+      <feature>
+        <name>Unrivaled Intellect</name>
+        <text>At 20th level, your Intelligence score increases by 4. Your maximum for this score is now 24.</text>
+        <modifier category="stat">intelligence +4</modifier>
+      </feature>
+    </autolevel>
+  </class>
+
+
+  <!-- ========================================== -->
+  <!--             DETECTIVE [5.5E]               -->
+  <!-- ========================================== -->
+  <class>
+    <name>Detective [5.5e]</name>
+    <hd>8</hd>
+    <proficiency>Dexterity, Intelligence</proficiency>
+    <numSkills>3</numSkills>
+
+    <autolevel level="1">
+      <feature>
+        <name>Core Detective Traits</name>
+        <text>Armor Training: Light Armor</text>
+        <text>Weapon Proficiencies: Simple weapons, firearms, rapiers, light crossbows</text>
+        <text>Tool Proficiencies: Forgery Kit</text>
+        <text>Saving Throws: Dexterity, Intelligence</text>
+        <text>Skill Proficiencies: Choose 3: Arcana, Deception, History, Insight, Investigation, Medicine, Nature, Perception, Persuasion, Religion, and Survival</text>
+      </feature>
+      <feature>
+        <name>Starting Equipment</name>
+        <text>Choose A or B:</text>
+        <text>• (A) Studded Leather Armor, a Dagger, a Rapier, a Pistol, 20 Bullets, a Forgery Kit, an Explorer's Pack and 5 GP</text>
+        <text>• (B) 100 GP</text>
+      </feature>
+      <feature>
+        <name>Expertise</name>
+        <text>You gain Expertise in one of your skill proficiencies of your choice. Investigation or Perception are recommended if you have proficiency in them.</text>
+      </feature>
+      <feature>
+        <name>Professional Talent</name>
+        <text>Once per turn when you make an ability check to which you apply your proficiency bonus or when you make an attack roll with a weapon you're proficient in, you can give yourself advantage on the roll.</text>
+        <text>You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a Long rest.</text>
+      </feature>
+      <feature>
+        <name>Weapon Mastery</name>
+        <text>Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.</text>
+        <text>Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="2">
+      <feature>
+        <name>Calculated Action</name>
+        <text>You can take a bonus action on each of your turns in combat. This action can be used only to take the Disengage, Help, Search, or Study action.</text>
+        <text>Additionally, you can take the Help action to aid an ally in attacking a creature if the target of the attack is within 30 feet you, rather than 5 feet of you.</text>
+      </feature>
+      <feature>
+        <name>Fighting Style</name>
+        <text>You gain a Fighting Style feat of your choice (see chapter 5). Defense is recommended.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="3">
+      <feature>
+        <name>Detective Subclass</name>
+        <text>You gain a Detective subclass of your choice. A subclass is a specialization that grants you features at certain Detective levels. For the rest of your career, you gain each of your subclass’s features that are of your Detective level or lower.</text>
+        <text>Available Fields from Survivor's Guide to Morgenfell:</text>
+        <text>• Investigator</text>
+        <text>• Monster Hunter</text>
+        <text>• Regulator</text>
+        <text>• Strategist</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="4">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Detective levels 8, 12, 16, and 19.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="5">
+      <feature>
+        <name>Extra Attack</name>
+        <text>You can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="6">
+      <feature>
+        <name>Expertise</name>
+        <text>At Detective Level 6, you gain Expertise in two more of your skill proficiencies of your Choice.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="7">
+      <feature>
+        <name>Detective Subclass feature</name>
+        <text>You gain a feature granted by your chosen Detective Subclass.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="8">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="9">
+      <feature>
+        <name>Experienced Investigator</name>
+        <text>You regain all of your expended uses of Professional Talent when you finish a short or long rest.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="10">
+      <feature>
+        <name>Considered Deflection</name>
+        <text>When you are hit with a weapon attack, you can use your reaction to add your Intelligence modifier to your AC, possibly causing the attack to miss. You retain this bonus to your AC until the start of your next turn.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="11">
+      <feature>
+        <name>Intelligent Strikes</name>
+        <text>When you take the attack action on your turn, your weapon attacks deal additional damage equal to your Intelligence modifier.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="12">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="13">
+      <feature>
+        <name>Detective Subclass feature</name>
+        <text>You gain a feature granted by your chosen Detective Subclass.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="14">
+      <feature>
+        <name>Sharp Reflexes</name>
+        <text>When you fail a saving throw, you can use your reaction and expend a use of Professional Talent to reroll the d20, and you must use the new roll.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="15">
+      <feature>
+        <name>Superior Talent</name>
+        <text>When you roll initiative and have no remaining uses of Professional Talent left, you regain one use.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="16">
+      <feature>
+        <name>Ability Score Improvement</name>
+        <text>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="17">
+      <feature>
+        <name>Detective Subclass feature</name>
+        <text>You gain a feature granted by your chosen Detective Subclass.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="18">
+      <feature>
+        <name>Critical Strike</name>
+        <text>Once per turn when you hit with an attack, you can expend one use of Professional Talent to turn the hit into a critical hit.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="19">
+      <feature>
+        <name>Epic Boon</name>
+        <text>You gain an Epic Boon feat or another feat of your choice for which you qualify. Boon of Truesight is recommended.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="20">
+      <feature>
+        <name>Unrivaled Intellect</name>
+        <text>Your Intelligence score increases by 4. Your maximum for this score is now 24.</text>
+        <modifier category="stat">intelligence +4</modifier>
+      </feature>
+    </autolevel>
+  </class>
+
+  <!-- ========================================== -->
+  <!--          DETECTIVE (INVESTIGATOR)          -->
+  <!-- ========================================== -->
+  <class>
+    <name>Detective (Investigator)</name>
+
+    <autolevel level="3">
+      <feature>
+        <name>Investigator: Momentary Opening</name>
+        <text>Starting at 3rd level when you choose this field, once per turn when you take the Help action to aid an ally in attacking a creature, the target of that attack takes an additional 1d6 damage of the attack's type if it hits.</text>
+        <text>This damage increases when you reach certain levels in this class. It becomes 2d6 when you reach 7th level, 3d6 when you reach 13th level, and 4d6 when you reach 17th level.</text>
+      </feature>
+      <feature>
+        <name>Investigator: Quick Evaluation</name>
+        <text>Also at 3rd level, you can take the Search action in combat to make an Intelligence (Investigation) check against a creature's AC. On success, you learn any immunities, resistances, and vulnerabilities it has, and you gain advantage on the next attack you make against it before The end of your next turn. Once you succeed in this check against a creature, you can't do it again on the same creature for 24 hours.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="7">
+      <feature>
+        <name>Investigator: Evasion</name>
+        <text>Starting at 7th level, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="13">
+      <feature>
+        <name>Investigator: Investigator's Reasoning</name>
+        <text>Starting at 13th level, you have advantage on Intelligence (Investigation) checks.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="17">
+      <feature>
+        <name>Investigator: Forced Opening</name>
+        <text>Starting at 17th level, when an attack that benefits from your Momentary Opening feature misses, the target takes half damage of the additional damage that attack would have dealt.</text>
+      </feature>
+    </autolevel>
+  </class>
+
+  <!-- ========================================== -->
+  <!--       DETECTIVE [5.5e] (INVESTIGATOR)      -->
+  <!-- ========================================== -->
+  <class>
+    <name>Detective [5.5e] (Investigator)</name>
+
+    <autolevel level="3">
+      <feature>
+        <name>Investigator: Momentary Opening</name>
+        <text>Starting at 3rd level when you choose this field, once per turn when you take the Help action to aid an ally in attacking a creature, the target of that attack takes an additional 1d6 damage of the attack's type if it hits.</text>
+        <text>This damage increases when you reach certain levels in this class. It becomes 2d6 when you reach 7th level, 3d6 when you reach 13th level, and 4d6 when you reach 17th level.</text>
+      </feature>
+      <feature>
+        <name>Investigator: Quick Evaluation</name>
+        <text>Also at 3rd level, you can take the Search action in combat to make an Intelligence (Investigation) check against a creature's AC. On success, you learn any immunities, resistances, and vulnerabilities it has, and you gain advantage on the next attack you make against it before The end of your next turn. Once you succeed in this check against a creature, you can't do it again on the same creature for 24 hours.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="7">
+      <feature>
+        <name>Investigator: Evasion</name>
+        <text>Starting at 7th level, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="13">
+      <feature>
+        <name>Investigator: Investigator's Reasoning</name>
+        <text>Starting at 13th level, you have advantage on Intelligence (Investigation) checks.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="17">
+      <feature>
+        <name>Investigator: Forced Opening</name>
+        <text>Starting at 17th level, when an attack that benefits from your Momentary Opening feature misses, the target takes half damage of the additional damage that attack would have dealt.</text>
+      </feature>
+    </autolevel>
+  </class>
+
+  <!-- ========================================== -->
+  <!--        DETECTIVE (MONSTER HUNTER)          -->
+  <!-- ========================================== -->
+  <class>
+    <name>Detective (Monster Hunter)</name>
+
+    <autolevel level="3">
+      <feature>
+        <name>Monster Hunter: Cold Deduction</name>
+        <text>Starting at 3rd level, you gain a bonus to Wisdom (Insight, Perception, Survival) checks equal to your Intelligence modifier.</text>
+      </feature>
+      <feature>
+        <name>Monster Hunter: Deadly Aim</name>
+        <text>Starting at 3rd level, when you hit a creature with a weapon, you can deal an extra 1d6 damage to the target, which can take this extra damage only once per turn.</text>
+        <text>The damage die changes when you reach certain levels in this class. It becomes 1d8 when you reach 7th level, 1d10 when you reach 13th level, and 1d12 when you reach 17th level.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="7">
+      <feature>
+        <name>Monster Hunter: Unnerving Composure</name>
+        <text>Starting at 7th level, when you are frightened, you can end that condition on yourself at the end of your turn.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="13">
+      <feature>
+        <name>Monster Hunter: Unerring Consistency</name>
+        <text>Starting at 13th level, once per turn when you roll lower than your Intelligence modifier on a damage die, you can replace the value of that roll with your Intelligence modifier.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="17">
+      <feature>
+        <name>Monster Hunter: Finishing Strike</name>
+        <text>Starting at 17th level, when you hit with an attack, you can deal maximum damage instead of rolling.</text>
+        <text>Once you use this feature, you can't do it again until you finish a short or long rest.</text>
+      </feature>
+    </autolevel>
+  </class>
+
+  <!-- ========================================== -->
+  <!--     DETECTIVE [5.5e] (MONSTER HUNTER)      -->
+  <!-- ========================================== -->
+  <class>
+    <name>Detective [5.5e] (Monster Hunter)</name>
+
+    <autolevel level="3">
+      <feature>
+        <name>Monster Hunter: Cold Deduction</name>
+        <text>Starting at 3rd level, you gain a bonus to Wisdom (Insight, Perception, Survival) checks equal to your Intelligence modifier.</text>
+      </feature>
+      <feature>
+        <name>Monster Hunter: Deadly Aim</name>
+        <text>Starting at 3rd level, when you hit a creature with a weapon, you can deal an extra 1d6 damage to the target, which can take this extra damage only once per turn.</text>
+        <text>The damage die changes when you reach certain levels in this class. It becomes 1d8 when you reach 7th level, 1d10 when you reach 13th level, and 1d12 when you reach 17th level.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="7">
+      <feature>
+        <name>Monster Hunter: Unnerving Composure</name>
+        <text>Starting at 7th level, when you are frightened, you can end that condition on yourself at the end of your turn.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="13">
+      <feature>
+        <name>Monster Hunter: Unerring Consistency</name>
+        <text>Starting at 13th level, once per turn when you roll lower than your Intelligence modifier on a damage die, you can replace the value of that roll with your Intelligence modifier.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="17">
+      <feature>
+        <name>Monster Hunter: Finishing Strike</name>
+        <text>Starting at 17th level, when you hit with an attack, you can deal maximum damage instead of rolling.</text>
+        <text>Once you use this feature, you can't do it again until you finish a short or long rest.</text>
+      </feature>
+    </autolevel>
+  </class>
+
+  <!-- ========================================== -->
+  <!--          DETECTIVE (REGULATOR)             -->
+  <!-- ========================================== -->
+  <class>
+    <name>Detective (Regulator)</name>
+
+    <autolevel level="3">
+      <feature>
+        <name>Regulator: Thoughtful Phrasing</name>
+        <text>Starting at 3rd level, you gain a bonus to Charisma checks equal to your Intelligence modifier. Additionally, you can use your bonus action to make a Charisma (Deception, Intimidation, or Persuasion) check.</text>
+      </feature>
+      <feature>
+        <name>Regulator: Spell Breaker</name>
+        <text>Starting at 3rd level, when a creature you can see casts a spell within 5 feet of you, you can use your reaction to interrupt the casting of the spell. The creature must succeed a Constitution saving throw (DC equal to 8 plus your Intelligence modifier plus your proficiency bonus) or the spell fails.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="7">
+      <feature>
+        <name>Regulator: Studied Eye</name>
+        <text>Starting at 7th level, when a creature you can see casts a spell, you can make an Intelligence (Arcana) check to identify the spell without using your reaction.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="13">
+      <feature>
+        <name>Regulator: Mage's Bane</name>
+        <text>Starting at 13th level, when you successfully prevent the casting of a spell with your Spell Breaker feature, the target is also grappled by you.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="17">
+      <feature>
+        <name>Regulator: Dispelling Routine</name>
+        <text>Starting at 17th level, you have learned how to dispel the effects of certain spells. After 1 minute of preparations, you can make an Intelligence (Arcana) check (DC equal 15 plus the spell's level) to dispel a magical effect. On success, the effect ends. On failure, you can't attempt to dispel this effect again for 24 hours.</text>
+      </feature>
+    </autolevel>
+  </class>
+
+  <!-- ========================================== -->
+  <!--       DETECTIVE [5.5e] (REGULATOR)         -->
+  <!-- ========================================== -->
+  <class>
+    <name>Detective [5.5e] (Regulator)</name>
+
+    <autolevel level="3">
+      <feature>
+        <name>Regulator: Thoughtful Phrasing</name>
+        <text>Starting at 3rd level, you gain a bonus to Charisma checks equal to your Intelligence modifier. Additionally, you can use your bonus action to make a Charisma (Deception, Intimidation, or Persuasion) check.</text>
+      </feature>
+      <feature>
+        <name>Regulator: Spell Breaker</name>
+        <text>Starting at 3rd level, when a creature you can see casts a spell within 5 feet of you, you can use your reaction to interrupt the casting of the spell. The creature must succeed a Constitution saving throw (DC equal to 8 plus your Intelligence modifier plus your proficiency bonus) or the spell fails.</text>
+        <text>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="7">
+      <feature>
+        <name>Regulator: Studied Eye</name>
+        <text>Starting at 7th level, when a creature you can see casts a spell, you can make an Intelligence (Arcana) check to identify the spell without using your reaction.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="13">
+      <feature>
+        <name>Regulator: Mage's Bane</name>
+        <text>Starting at 13th level, when you successfully prevent the casting of a spell with your Spell Breaker feature, the target is also grappled by you.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="17">
+      <feature>
+        <name>Regulator: Dispelling Routine</name>
+        <text>Starting at 17th level, you have learned how to dispel the effects of certain spells. After 1 minute of preparations, you can make an Intelligence (Arcana) check (DC equal 15 plus the spell's level) to dispel a magical effect. On success, the effect ends. On failure, you can't attempt to dispel this effect again for 24 hours.</text>
+      </feature>
+    </autolevel>
+  </class>
+
+  <!-- ========================================== -->
+  <!--          DETECTIVE (STRATEGIST)            -->
+  <!-- ========================================== -->
+  <class>
+    <name>Detective (Strategist)</name>
+
+    <autolevel level="3">
+      <feature>
+        <name>Strategist: Deductive Reasoning</name>
+        <text>Starting at 3rd level, you gain a bonus to your Initiative equal to your Intelligence modifier.</text>
+      </feature>
+      <feature>
+        <name>Strategist: Tactical Command</name>
+        <text>Also at 3rd level, when you take the Help action to aid an ally in attacking a creature, you can command the ally to attack that creature. The ally can use a reaction to make that attack if the target is within range.</text>
+        <text>You can use this feature a number of times equal to your Intelligence modifier, and you regain all expended uses when you finish a short or long rest.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="7">
+      <feature>
+        <name>Strategist: Resilient Mind</name>
+        <text>Starting at 7th level, you have proficiency in Wisdom saving throws. If you already have this proficiency, you gain proficiency in Charisma saving throws, instead.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="13">
+      <feature>
+        <name>Strategist: Strategic Diversion</name>
+        <text>Starting at 13th level, when an ally within 30 feet of you is hit with an attack you can see, you can use your reaction to add your Intelligence modifier to the ally's AC for it that attack, possibly causing it to miss.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="17">
+      <feature>
+        <name>Strategist: Critical Command</name>
+        <text>Starting at 17th level, when an ally hits with an attack that was a result of your Tactical Command feature, you can turn the hit to a critical hit.</text>
+        <text>Once you use this feature, you can't do it again until you finish a short or long rest.</text>
+      </feature>
+    </autolevel>
+  </class>
+
+  <!-- ========================================== -->
+  <!--      DETECTIVE [5.5e] (STRATEGIST)         -->
+  <!-- ========================================== -->
+  <class>
+    <name>Detective [5.5e] (Strategist)</name>
+
+    <autolevel level="3">
+      <feature>
+        <name>Strategist: Deductive Reasoning</name>
+        <text>Starting at 3rd level, you gain a bonus to your Initiative equal to your Intelligence modifier.</text>
+      </feature>
+      <feature>
+        <name>Strategist: Tactical Command</name>
+        <text>Also at 3rd level, when you take the Help action to aid an ally in attacking a creature, you can command the ally to attack that creature. The ally can use a reaction to make that attack if the target is within range.</text>
+        <text>You can use this feature a number of times equal to your Intelligence modifier, and you regain all expended uses when you finish a short or long rest.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="7">
+      <feature>
+        <name>Strategist: Resilient Mind</name>
+        <text>Starting at 7th level, you have proficiency in Wisdom saving throws. If you already have this proficiency, you gain proficiency in Charisma saving throws, instead.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="13">
+      <feature>
+        <name>Strategist: Strategic Diversion</name>
+        <text>Starting at 13th level, when an ally within 30 feet of you is hit with an attack you can see, you can use your reaction to add your Intelligence modifier to the ally's AC for it that attack, possibly causing it to miss.</text>
+      </feature>
+    </autolevel>
+
+    <autolevel level="17">
+      <feature>
+        <name>Strategist: Critical Command</name>
+        <text>Starting at 17th level, when an ally hits with an attack that was a result of your Tactical Command feature, you can turn the hit to a critical hit.</text>
+        <text>Once you use this feature, you can't do it again until you finish a short or long rest.</text>
+      </feature>
+    </autolevel>
+  </class>
+</compendium>
