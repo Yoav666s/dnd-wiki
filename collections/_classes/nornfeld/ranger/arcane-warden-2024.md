@@ -11,6 +11,8 @@ header:
   overlay_image: /assets/images/classes/ranger/arcane-warden/2024/header.png
   teaser: /assets/images/classes/ranger/arcane-warden/2024/header.jpg
 ---
+*Tap into the Arcane*
+
 Some rangers seek to master weapons to better protect their allies, but others turn to the arcane. Arcane Wardens learn specialized spells and techniques for use against the most dangerous enemies.
 
 # Level 3: Arcane Student
