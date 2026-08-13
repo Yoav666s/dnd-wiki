@@ -23,7 +23,7 @@ Wind is an ever-changing force of nature. Clerics who learn to command it become
 | 7th | [[!Divination]], [[!Freedom of Movement]]        |
 | 9th | [[!Commune]], Control Winds         |
 
-# Quick Feet
+# Blustery Boost
 When you choose this domain at 1st level, Your walking speed is increased by 5 feet and you gain a flying speed of 5 feet.
 
 Your walking and flying speeds are increased by an additional 5 feet when you reach 6th level in this class, and by an additional 10 feet when you reach 17th level in this class.
