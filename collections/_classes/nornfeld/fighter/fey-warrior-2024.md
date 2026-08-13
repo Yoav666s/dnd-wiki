@@ -12,6 +12,8 @@ header:
   overlay_image: /assets/images/classes/fighter/fey-warrior/2024/header.png
   teaser: /assets/images/classes/fighter/fey-warrior/2024/header.jpg
 ---
+*Draw on the Mischievous Magic of the Feywild*
+
 Where others rely on brute force or rigid discipline, the Fey Warrior takes a different approach. With a flash of light or a flourish of motion, they become elusive targets and masters of deception. Their presence on the battlefield is as unsettling as it is graceful, never where the enemy expects, never still, and never quite within reach.
 
 # Level 3: Fey Energy
