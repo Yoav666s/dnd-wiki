@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/classes/physician/hypnologist/header.jpg
   actions:
     - label: "Fight Club XML"
-      url: /assets/files/physician.xml
+      url: /assets/files/classes/physician.xml
 source: "Survivor's Guide to Morgenfell"
 ---
 Hypnologists are masters of the mind, and they know exactly what to say and when to say it.
