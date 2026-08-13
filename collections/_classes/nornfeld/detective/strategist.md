@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/classes/detective/strategist/header.jpg
   actions:
     - label: "Fight Club XML"
-      url: /assets/files/detective.xml
+      url: /assets/files/classes/detective.xml
 source: "Survivor's Guide to Morgenfell"
 ---
 Strategists command the battlefield, letting their allies shine in key moments. They direct the flow of combat, making sure that their allies are safe while the enemy is never ready for what comes next.
