@@ -32,7 +32,7 @@ The magic of your patron ensures you always have certain spells ready, depending
 
 | Warlock Level | Spells |
 | :---: | :---: |
-| 3 | [[!Command]], [[!Detect Thoughts]], [[!Intrude Thoughts]], [[!Momentary Madness]] |
+| 3 | [[!Command]], [[!Detect Thoughts]], [[!Intrude Thoughts]], [[!Momentary Madness]], [[!Subterfuge]] |
 | 5 | [[!Fear]], [[!Hypnotic Pattern]] |
 | 7 | [[!Delusion]], [[!Paranoia]] |
 | 9 | [[!Control Thoughts]], [[!Modify Memory]] |
