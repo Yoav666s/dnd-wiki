@@ -12,6 +12,7 @@ header:
   actions:
     - label: "Fight Club XML"
       url: /assets/files/classes/detective.xml
+      download: true
 source: "Survivor's Guide to Morgenfell"
 ---
 Detectives are the pinnacle of modern problem solving. They are elegant, shrewd, and--if the situation escalates--quite capable in combat. They are master investigators and dominate the social battlefield. They exploit their enemys' weaknesses and hit hard, exactly where it hurts.
@@ -71,7 +72,7 @@ At 1st level, choose one of your skill proficiencies. Your proficiency bonus is 
 
 At 6th level, you can choose two more of your proficiencies to gain this benefit.
 
-## Professional Talent 
+## Professional Talent
 Starting at 1st level, once per turn when you make an ability check to which you apply your proficiency bonus or when you make an attack roll with a weapon you're proficient in, you can give yourself advantage on the roll.
 
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
@@ -117,7 +118,7 @@ Starting at 10th level, when you are hit with a melee attack while wielding a fi
 ## Intelligent Strikes
 Starting at 11th level, when you take the attack action on your turn, your weapon attacks deal additional damage equal to your Intelligence modifier.
 
-## Sharp Reflexes 
+## Sharp Reflexes
 Starting at 14th level, when you fail a saving throw, you can use your reaction and expend a use of Professional Talent to reroll the d20, and you must use the new roll.
 
 ## Superior Talent

@@ -11,6 +11,7 @@ header:
   actions:
     - label: "Fight Club XML"
       url: /assets/files/classes/physician.xml
+      download: true
 source: "Survivor's Guide to Morgenfell"
 ---
 Hypnologists are masters of the mind, and they know exactly what to say and when to say it.

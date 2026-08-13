@@ -4,13 +4,14 @@ index:
   - monster-hunter
 permalink: /classes/detective/monster-hunter/
 excerpt: "Monster Hunters are the answer to vampires, werewolves, and eldritch horrors in a continent where magic is no more."
-subclass: detective 
+subclass: detective
 header:
   overlay_image: /assets/images/classes/detective/monster-hunter/header.png
   teaser: /assets/images/classes/detective/monster-hunter/header.jpg
   actions:
     - label: "Fight Club XML"
       url: /assets/files/classes/detective.xml
+      download: true
 source: "Survivor's Guide to Morgenfell"
 ---
 Monster Hunters are the answer to vampires, werewolves, and eldritch horrors in a continent where magic is no more. They are particularly deadly, securing kills and making sure monsters won't live to prey on the defenseless.
@@ -26,7 +27,7 @@ The damage die changes when you reach certain levels in this class. It becomes 1
 # Unnerving Composure
 Starting at 7th level, when you are frightened, you can end that condition on yourself at the end of your turn.
 
-# Unerring Consistency 
+# Unerring Consistency
 Starting at 13th level, once per turn when you roll lower than your Intelligence modifier on a damage die, you can replace the value of that roll with your Intelligence modifier.
 
 # Finishing Strike

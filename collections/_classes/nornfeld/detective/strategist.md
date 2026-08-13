@@ -4,13 +4,14 @@ index:
   - strategist
 permalink: /classes/detective/strategist/
 excerpt: "Strategists command the battlefield, letting their allies shine in key moments."
-subclass: detective 
+subclass: detective
 header:
   overlay_image: /assets/images/classes/detective/strategist/header.png
   teaser: /assets/images/classes/detective/strategist/header.jpg
   actions:
     - label: "Fight Club XML"
       url: /assets/files/classes/detective.xml
+      download: true
 source: "Survivor's Guide to Morgenfell"
 ---
 Strategists command the battlefield, letting their allies shine in key moments. They direct the flow of combat, making sure that their allies are safe while the enemy is never ready for what comes next.
@@ -30,7 +31,7 @@ Starting at 7th level, you have proficiency in Wisdom saving throws. If you alre
 Starting at 13th level, when an ally within 30 feet of you is hit with an attack you can see, you can use your reaction to add your Intelligence modifier to the ally's AC for it that attack, possibly causing it to miss.
 
 # Critical Command
-Starting at 17th level, when an ally hits with an attack that was a result of your Tactical Command feature, you can turn the hit to a critical hit. 
+Starting at 17th level, when an ally hits with an attack that was a result of your Tactical Command feature, you can turn the hit to a critical hit.
 
 Once you use this feature, you can't do it again until you finish a short or long rest.
 

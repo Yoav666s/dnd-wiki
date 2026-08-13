@@ -4,13 +4,14 @@ index:
   - investigator
 permalink: /classes/detective/investigator/
 excerpt: "Some detectives adopt a supporting role in combat, enhancing their allies' attacks."
-subclass: detective 
+subclass: detective
 header:
   overlay_image: /assets/images/classes/detective/investigator/header.png
   teaser: /assets/images/classes/detective/investigator/header.jpg
   actions:
     - label: "Fight Club XML"
       url: /assets/files/classes/detective.xml
+      download: true
 source: "Survivor's Guide to Morgenfell"
 ---
 Some detectives adopt a supporting role in combat, enhancing their allies' attacks. Investigators are well versed in the dangers that come with their occupation, and are no strangers to deadly circumstances.
@@ -23,7 +24,7 @@ This damage increases when you reach certain levels in this class. It becomes 2d
 # Quick Evaluation
 Also at 3rd level, you can take the [[Search]] action in combat to make an Intelligence (Investigation) check against a creature's AC. On success, you learn any immunities, resistances, and vulnerabilities it has, and you gain advantage on the next attack you make against it before The end of your next turn. Once you succeed in this check against a creature, you can't do it again on the same creature for 24 hours.
 
-# Evasion 
+# Evasion
 Starting at 7th level, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 # Investigator's Reasoning

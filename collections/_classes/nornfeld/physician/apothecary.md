@@ -11,6 +11,7 @@ header:
   actions:
     - label: "Fight Club XML"
       url: /assets/files/classes/physician.xml
+      download: true
 source: "Survivor's Guide to Morgenfell"
 ---
 Apothecaries are state of the art alchemists, brewing concoctions and even potions quickly and efficiently. They are invaluable team members and offer a variety of different salves and serums to aid their allies in combat.
@@ -23,7 +24,7 @@ Starting at 3rd level, you gain proficiency with Alchemist's Supplies. If you al
 
 **Fortifying Salve.** The creature gains temporary hit points equal to your physician level + your Wisdom modifier.
 
-**Adrenaline Shot.** The creature gains resistance to non-magical bludgeoning, piercing, and slashing damage for 1 minute. This effect ends early on a creature if it is unconscious or if its turn ends and it hasn’t attacked a creature since its last turn or taken damage since then. 
+**Adrenaline Shot.** The creature gains resistance to non-magical bludgeoning, piercing, and slashing damage for 1 minute. This effect ends early on a creature if it is unconscious or if its turn ends and it hasn’t attacked a creature since its last turn or taken damage since then.
 
 **Vigor Stimulant.** For 10 minutes, the creature's walking speed increases by 10 feet, and it can take the dash action as a bonus action on its turn.
 

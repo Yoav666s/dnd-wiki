@@ -4,13 +4,14 @@ index:
   - regulator
 permalink: /classes/detective/regulator/
 excerpt: "Regulators are responsible for enforcing the laws of modern society."
-subclass: detective 
+subclass: detective
 header:
   overlay_image: /assets/images/classes/detective/regulator/header.png
   teaser: /assets/images/classes/detective/regulator/header.jpg
   actions:
     - label: "Fight Club XML"
       url: /assets/files/classes/detective.xml
+      download: true
 source: "Survivor's Guide to Morgenfell"
 ---
 Regulators are responsible for enforcing the laws of modern society. After the institution of the Arcane Dictum, they were the ones who made sure that magic stays a thing of the past. They are experts at interrupting the casting of spells, identifying them, and even dispelling magical effects.
@@ -29,7 +30,7 @@ Starting at 7th level, when a creature you can see casts a spell, you can make a
 # Mage's Bane
 Starting at 13th level, when you successfully prevent the casting of a spell with your Spell Breaker feature, the target is also grappled by you.
 
-# Dispelling Routine 
+# Dispelling Routine
 Starting at 17th level, you have learned how to dispel the effects of certain spells. After 1 minute of preparations, you can make an Intelligence (Arcana) check (DC equal 15 plus the spell's level) to dispel a magical effect. On success, the effect ends. On failure, you can't attempt to dispel this effect again for 24 hours.
 
 [:classes/detective/regulator:]

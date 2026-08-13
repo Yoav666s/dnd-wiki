@@ -11,6 +11,7 @@ header:
   actions:
     - label: "Fight Club XML"
       url: /assets/files/classes/physician.xml
+      download: true
 source: "Survivor's Guide to Morgenfell"
 ---
 Surgery is still in its infancy, but some things are certain: the physician's knowledge of anatomy allows them to deliver deadly strikes.
@@ -18,7 +19,7 @@ Surgery is still in its infancy, but some things are certain: the physician's kn
 # Surgical Precision
 Starting at 3rd level when you choose this methodology, when you hit a creature with a finesse weapon attack, you can expend a number of Medical dice equal up to your Intelligence modifier, rolling the dice and dealing damage of the attack's type equal to the total.
 
-# Extra Attack 
+# Extra Attack
 Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 # Dexterous Maneuvers

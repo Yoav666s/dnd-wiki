@@ -11,9 +11,10 @@ header:
   actions:
     - label: "Fight Club XML"
       url: /assets/files/classes/physician.xml
+      download: true
 source: "Survivor's Guide to Morgenfell"
 ---
-Physicians are the modern answer for ailments, injuries, and an upset tummy. 
+Physicians are the modern answer for ailments, injuries, and an upset tummy.
 
 *You must have an Intelligence score and a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
 
@@ -112,10 +113,10 @@ Starting at 10th level, when you use your Patch Up feature, you restore a number
 ## Sight and Hearing
 Starting at 13th level, you can use your action to expend 2 uses of a healer's kit to end the blinded or deafened condition on a creature you can see within 5 feet of you (possibly yourself).
 
-## Paralysis Analysis 
+## Paralysis Analysis
 Starting at 14th level, you can use your action to expend 3 uses of a healer's kit to end the paralyzed condition on a creature you can see within 5 feet of you.
 
-## Medical Resourcefulness 
+## Medical Resourcefulness
 Starting at 15th level, when you roll initiative and have a number of remaining Medical dice lower than your Intelligence modifier, you regain a number of Medical dice until you have a number equal to your Intelligence modifier.
 
 ## Medical Prowess
