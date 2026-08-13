@@ -13,6 +13,8 @@ header:
   overlay_image: /assets/images/classes/monk/trickster/2024/header.png
   teaser: /assets/images/classes/monk/trickster/2024/header.jpg
 ---
+*Fight with the Guile of a Fey*
+
 Warriors of Trickery are deviously cunning. They embed the magic and confusing nature of the Feywild in their techniques, beguiling their foes and dazzling their allies.
 
 # Level 3: Fey Trickery
