@@ -28,11 +28,6 @@ When you choose this domain at 1st level, Your walking speed is increased by 5 f
 
 Your walking and flying speeds are increased by an additional 5 feet when you reach 6th level in this class, and by an additional 10 feet when you reach 17th level in this class.
 
-# Wind Lash
-Also starting at 1st level, you can summon wind to ward off a melee attacker. When you're targeted by a melee attack, you can use your reaction to unleash a burst of strong wind towards the attacking creature. It must succeed a Strength saving throw against your spell save DC or be pushed away 10 feet from you, possibly canceling the attack.
-
-You can use this feature a number of times equal to your proficiency bonus, and you gain all expended uses when you finish a long rest. A use is expended only if a target fails its saving throw.
-
 # Channel Divinity: Havoc
 Starting at 2nd level, you can use your Channel Divinity to cause havoc throughout the battlefield.
 
