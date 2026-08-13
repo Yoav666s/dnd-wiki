@@ -24,9 +24,9 @@ Wind is an ever-changing force of nature. Clerics who learn to command it become
 | 9th | [[!Commune]], Control Winds         |
 
 # Quick Feet
-When you choose this domain at 1st level, your walking speed is increased by 5 ft.
+When you choose this domain at 1st level, Your walking speed is increased by 5 feet and you gain a flying speed of 5 feet.
 
-Your walking speed is increased by an additional 5 feet when you reach 6th level, and by an additional 10 feet when you reach 17th level.
+Your walking and flying speeds are increased by an additional 5 feet when you reach 6th level in this class, and by an additional 10 feet when you reach 17th level in this class.
 
 # Wind Lash
 Also starting at 1st level, you can summon wind to ward off a melee attacker. When you're targeted by a melee attack, you can use your reaction to unleash a burst of strong wind towards the attacking creature. It must succeed a Strength saving throw against your spell save DC or be pushed away 10 feet from you, possibly canceling the attack.
