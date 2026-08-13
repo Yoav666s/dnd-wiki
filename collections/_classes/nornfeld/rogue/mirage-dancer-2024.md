@@ -12,6 +12,8 @@ header:
   overlay_image: /assets/images/classes/rogue/mirage-dancer/2024/header.png
   teaser: /assets/images/classes/rogue/mirage-dancer/2024/header.jpg
 ---
+*Embrace the Deceptive Magic of the Desert*
+
 Mirage Dancers are masters of the curved blade, their fighting style an elusive flow of deliberate, slashing strikes and unpredictable movement. With each step, they circle their foes forcing them to shift their defenses until they find an opening. Trained with subtle illusion magic, they appear to teleport throughout the battlefield, utilizing brief invisibility and illusory duplicates.
 
 # Level 3: Dancer's Grace
