@@ -154,7 +154,9 @@ There is a number of actions you can take, detailed below.
 
 **Sprint.** Increase your speed by your Agility modifier.
 
-**.**
+**Trip.** In place of 1 physical attack, you can attempt to trip a creature of your size or smaller within your reach. Make a Brawn check with difficulty based on its DR.
+
+**Improvise.** Take an action that is not listed here, at the Arbiter's discretion.
 
 ## Initiative
 The turn order in combat is determined by rolling initiative. To roll initiative, you can choose any die with a number of faces equal to or lower than your Courage Value (if you decide to roll at all). The number rolled is where you are on initiative order: whoever rolled highest goes first, and whoever rolled lowest (or didn't roll at all) goes last.
