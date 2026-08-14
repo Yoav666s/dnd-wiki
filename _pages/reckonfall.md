@@ -11,7 +11,10 @@ Reckonfall is a brand new TTRPG game system for low fantasy settings. The game m
 # Basic Rules
 
 ## Capability Checks
-In Reckonfall, you roll a d20 when you attempt to do something that might fail or is linked to a certain Attribute (the Value of which is between 2\~12). Your goal is to hit the number 10 on the die, or get as close to it as you can. A 10 is a critical success, an 8-9 or an 11-12 is a normal success, and a 6-7 or 13-14 is a success but with a cost. 2\~5 and 15\~19 is a failure, while 1 and 20 are a critical failure. If you're competent enough, you can roll a competence die and add or subtract the result from the roll to get you closer to 10. You determine the size of the die (d4, d6, etc.), but the number of faces on the die must be equal to or lower than the Attribute Value linked to the roll. If the Attribute Value is lower than 4, you can't roll a competence die. For example, you rolled 13 on the d20 and your Agility is 9; you *could* roll a d8, but a d4 would be a better choice.
+In Reckonfall, you roll a d20 when you attempt to do something that might fail or is linked to a certain Attribute (the Value of which is between 2\~12). Your goal is to hit the number 10 on the die, or get as close to it as you can. A 10 is a critical success, an 8-9 or an 11-12 is a normal success, and a 6-7 or 13-14 is a success but with a cost. 2\~5 and 15\~19 is a failure, while 1 and 20 are a critical failure.
+
+### The Competence Die
+If you're competent enough, you can roll a Competence Die and add or subtract the result from the roll to get you closer to 10. You determine the size of the die (d4, d6, etc.), but the number of faces on the die must be equal to or lower than the Attribute Value linked to the roll. If the Attribute Value is lower than 4, you can't roll a competence die. For example, you rolled 13 on the d20 and your Agility is 9; you *could* roll a d8, but a d4 would be a better choice in this case.
 
 # Building a Character
 
