@@ -150,7 +150,7 @@ The setting of Morgenfell essentially prohibits magical classes unless you want 
 {% include expansion_classes.html %}
 
 # Chapter 5: Subclasses
-With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Triggerman subclass for professional use of firearms.
+With magic being illegal under the authority of the Arcane Dictum, the people of Morgenfell have adapted to the hardships of living amongst the fey, vampires, werewolves, and eldritch horrors. Developing new and unique ways to deal with these challenges, they came up with solutions such as the Medic subclass to make up for the lack of healing and the Marksman subclass for professional use of firearms.
 
 {% include expansion_subclasses.html %}
 
