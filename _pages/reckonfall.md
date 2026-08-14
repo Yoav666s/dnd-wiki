@@ -70,7 +70,7 @@ There are several ways to determine your Attribute Values.
 There are 12 skills, each linked to a Character Attribute.
 
 | Skill | Attribute | Description |
-| :---: | :---: | :---- |
+| :---- | :---- | :---- |
 | Awareness | Intuition | Your ability to notice your surroundings and spot unusual or hidden details. |
 | Brawn | Strength | Your ability to hit hard and operate Brawn weaponry. |
 | Coercion | Courage | Your ability to force your will upon others. |
