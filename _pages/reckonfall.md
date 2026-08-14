@@ -71,6 +71,7 @@ There are 12 skills, each linked to a Character Attribute.
 
 | Skill | Attribute | Description |
 | :---: | :---: | :---- |
-| Aerobic | Resilience | Your ability to run long distances or perform other demanding tasks for an extended period of time. |
+| Endurance | Resilience | Your ability to run long distances or perform other demanding tasks for an extended period of time. |
 | Brawn | Strength | Your ability to hit hard and operate Brawn weaponry. |
+| Covertness | Charisma | Your ability to blend in, hide in plain sight, and mask your intentions. |
 | Precision | Agility | Your ability to hit the mark and operate Precision weaponry. |
