@@ -90,7 +90,7 @@ Attribute Modifiers are calculated as such: `Attribute Value / 3 (rounded down)`
 ## Defense Rank
 Your DR equals your to your Agility Modifier plus your Resilience Modifier plus 2.
 
-**Odd Defense Ranks.** If your DR is an odd number, your opponents will add 1 to the result on the Difficulty Die's penalty, or in case of a DR of 3, they will add or subtract 1 directly from the d20 in your favor.
+**Odd Defense Ranks.** If your DR is an odd number, the DT on attack rolls against you is your DR minus 1.
 
 ## Speed
 Your Speed equals to your Agility Modifier plus 3.
