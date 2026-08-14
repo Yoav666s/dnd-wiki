@@ -203,3 +203,8 @@ The following is a list of Jinxes.
 **Fumble.** You increase the DT of the next check a creature you can see makes in the next minute by 2 to a maximum of 12.
 
 **Stumble.** You cause a creature to stumble as it walks or runs, halving its movement speed until the end of its next turn (rounded down).
+
+# Incantations 
+The following is a list of Incantations. You can't cast the same Incantation two turns in a row.
+
+**Befuddle.** A creature you can see is confused, and spends its next action doing nothing.
