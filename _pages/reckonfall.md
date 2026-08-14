@@ -175,7 +175,7 @@ There are 4 levels of spells. In order to cast them, you need competence in Magi
 
 | Spell Level | Required Willpower Modifier | Description |
 | :---: | :---: | :---- |
-| Jinx | +1 | A spell that can be cast without limit, but generally has a very subtle effect. |
+| Jinx | +1 | A cheap spell that can be cast without limit, but generally has a very subtle effect. |
 | Incantation | +2 | A simple spell that can be cast reliably. |
-| Invocation | +3 ||
-| Sorcery | +4 ||
+| Invocation | +3 | A powerful spell that costs a Stamina point. |
+| Sorcery | +4 | An advanced spell that can only be cast once between Rests. |
