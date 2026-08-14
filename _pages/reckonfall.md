@@ -90,13 +90,30 @@ Attribute Modifiers are calculated as such: `Attribute Value / 3 (rounded down)`
 ## Defense Rank
 Your DR equals your to your Agility Modifier plus your Resilience Modifier plus 2.
 
-**Odd Defense Ranks.** If your DR is an odd number, your opponents will add 1 to the result on the Difficulty Die's penalty, or in case of a DR of 3, they will add or subtract 1 directly to the d20 in your favor.
+**Odd Defense Ranks.** If your DR is an odd number, your opponents will add 1 to the result on the Difficulty Die's penalty, or in case of a DR of 3, they will add or subtract 1 directly from the d20 in your favor.
 
 ## Speed
 Your Speed equals to your Agility Modifier plus 3.
 
 ## Stamina
-Your maximum Stamina Points equals to your Resilience Modifier plus 3. If you run out of Stamina Points, you collapse. You regain 1 missing Stamina Point after a Break, and all missing stamina points after a Rest.
+Your maximum Stamina Points equals to your Resilience Modifier plus 3. If you run out of Stamina Points, you collapse. You regain 1 missing Stamina Point after a Break, and all missing Stamina points after a Rest.
+
+## Hit Points
+Your hit points can be rolled or fixed, consult the following table.
+
+| Resilience Modifier | Rolled Hit Points | Fixed Hit Points |
+| :---: | :---: | :---: |
+| 2 | 2 | 2 |
+| 3 | 3 | 3 |
+| 4 | 4 + 1d4 | 7 |
+| 5 | 5 + 1d4 | 8 |
+| 6 | 6 + 2d6 | 14 |
+| 7 | 7 + 2d6 | 15 |
+| 8 | 8 + 2d8 | 18 |
+| 9 | 9 + 3d8 | 24 |
+| 10 | 10 + 3d10 | 28 |
+| 11 | 11 + 3d10 | 29 |
+| 12 | 12+4d12 | 40 |
 
 ## Skills
 There are 12 skills, each linked to a Character Attribute. You can choose 5 skills to gain competence in.
@@ -119,6 +136,10 @@ There are 12 skills, each linked to a Character Attribute. You can choose 5 skil
 # Resting
 In Reckonfall, you can take a Rest or a Break.
 
+**Rest.** A rest consists of 6\~8 hours of sleep. When you finish a rest, you regain all missing Hit Points and all missing Stamina Points.
+
+**Break.**
+
 # Combat
 In combat, you can do all kinds of stuff. I'll figure it out, don't you worry.
 
@@ -129,4 +150,4 @@ When you attack, whether it be with a Precision weapon (like a rapier or a pisto
 On your turn in combat, you can move a number of a squares (or hexagons) equal to your speed.
 
 ## Rounds
-Each round of combat takes 10 in-game seconds. After every 6 rounds (or 1 in-game minute), on the start of each creature's turn, that creature must succeed an Endurance check.
+Each round of combat takes 10 in-game seconds. After every 6 rounds (or 1 in-game minute), on the start of each creature's turn, that creature must succeed an Endurance check or lose a Stamina Point.
