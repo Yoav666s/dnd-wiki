@@ -147,7 +147,7 @@ In combat, you can do all kinds of stuff. I'll figure it out, don't you worry.
 The turn order in combat is determined by rolling initiative. To roll initiative, you can choose any die with a number of faces equal to or lower than your Courage Value (if you decide to roll at all). The number rolled is where you are on initiative order: whoever rolled highest goes first, and whoever rolled lowest (or didn't roll at all) goes last.
 
 ## Attacking
-When you attack, whether it be with a Precision weapon (like a rapier or a pistol) or with your Brawn (a hammer, a fist, or a kick) you roll with a DT equal to the opponent's DR.
+When you take the attack action on your turn, you can attack a number of times equal to your Courage Modifier. When you attack, whether it be with a Precision weapon (like a rapier or a pistol) or with your Brawn (a hammer, a fist, or a kick) you roll with a DT based on the opponent's DR.
 
 ## Movement
 On your turn in combat, you can move a number of a squares (or hexagons) equal to your speed.
