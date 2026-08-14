@@ -7,12 +7,16 @@ toc_label: "Contents"
 toc_sticky: true
 source: "Reckonfall: Basic Rules"
 ---
-Reckonfall is a brand new TTRPG game system for low fantasy settings. The game master is called the Arbiter.
+Reckonfall is a brand new TTRPG system for low fantasy settings. The game master is called the Arbiter.
 
 # Basic Rules
 
 ## Capability Checks
 In Reckonfall, you roll a d20 when you attempt to do something that might fail or is linked to a certain Attribute (the Value of which is between 2\~12). Your goal is to hit the number 10 on the die, or get as close to it as you can. A 10 is a critical success, an 8-9 or an 11-12 is a normal success, and a 6-7 or 13-14 is a success but with a cost. 2\~5 and 15\~19 is a failure, while 1 and 20 are a critical failure.
+
+| 1\~5 | 6-7 | 8\~12 | 13-14 | 15\~20 |
+| :---: | :---: | :---: | :---: | :---: |
+| Failure | Success with Cost | Success | Success with Cost | Failure |
 
 ### The Competence Die
 If you're competent enough, you can roll a Competence Die and add or subtract the result from the roll to get you closer to 10. You determine the size of the die (d4, d6, etc.), but the number of faces on the die must be equal to or lower than the Attribute Value linked to the roll. If the Attribute Value is lower than 4, you can't roll a competence die. For example, you rolled 13 on the d20 and your Agility is 9; you *could* roll a d8, but a d4 would be a better choice in this case.
@@ -20,7 +24,7 @@ If you're competent enough, you can roll a Competence Die and add or subtract th
 ### Rolling with Difficulty
 Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll a d4, a d6, or maybe even a d12 (based on the Difficulty Tier, or DT), and subtract or add the result to the total, in a way that would get you farther away from 10. For example, you try to shoot a werewolf with a Defense Rank (or DR) of 6, which means hitting it has a DT of 6; you rolled 11 on the d20, and 5 on the Difficulty Die, resulting in a 16. Since you're competent with the pistol and your Agility is 9, you can still roll a Competence Die---a d8 is your best bet here.
 
-**Overshooting.** You might roll a 2 on the d20 and a 4 on the Difficulty Die. This is where the d12 and d10 become valuable. Normally you wouldn't want to risk rolling a 10 or higher, but in this case you still have a fighting chance. Otherwise, a negative result or a result that's higher than 20 is a standard critical failure.
+**Overshooting.** You might roll a 2 on the d20 and a 4 on the Difficulty Die, resulting in --2. This is where the d12 and d10 become valuable. Normally you wouldn't want to risk rolling a 10 or higher, but in this case it will give you a fighting chance. Otherwise, a negative result or a result that's higher than 20 is a standard critical failure.
 
 # Building a Character
 
@@ -52,19 +56,25 @@ There are several ways to determine your Attribute Values.
 
 **Point Buy.** You have a 48 points. All eight Attributes start at 2, costing 0 points each. Consult the following table:
 
-| Attribute Value | Point Cost |
-| :---: | :---: |
-| 2 | 0 |
-| 3 | 1 |
-| 4 | 2 |
-| 5 | 3 |
-| 6 | 4 |
-| 7 | 5 |
-| 8 | 7 |
-| 9 | 9 |
-| 10 | 12 |
-| 11 | 15 |
-| 12 | 19 |
+| Attribute Value | Point Cost | Increment |
+| :---: | :---: | :---: |
+| 2 | 0 | - |
+| 3 | 1 | 1 |
+| 4 | 2 | 1 |
+| 5 | 3 | 1 |
+| 6 | 4 | 1 |
+| 7 | 5 | 1 |
+| 8 | 7 | 2 |
+| 9 | 9 | 2 |
+| 10 | 12 | 3 |
+| 11 | 15 | 3 |
+| 12 | 19 | 4 |
+
+## Attribute Modifiers
+Attribute Modifiers are calculated as such: `Attribute Value / 3 (rounded down)`
+
+## Defense Rank
+Your DR equals your to your Agility value plus 1.
 
 ## Skills
 There are 12 skills, each linked to a Character Attribute. You can choose 5 skills to be competent in.
@@ -88,4 +98,4 @@ There are 12 skills, each linked to a Character Attribute. You can choose 5 skil
 In combat, you can do all kinds of stuff. I'll figure it out, don't you worry.
 
 ## Attacking
-When you attack, whether it be with a Precision weapon (like a rapier or a pistol) or with your Brawn (a hammer, a fist, or a kick), you roll with a DT equal to the opponent's DR. The DR changes based on the Attribute that is required to resist or evade the attack.
+When you attack, whether it be with a Precision weapon (like a rapier or a pistol) or with your Brawn (a hammer, a fist, or a kick) you roll with a DT equal to the opponent's DR.
