@@ -20,6 +20,8 @@ If you're competent enough, you can roll a Competence Die and add or subtract th
 ### Rolling with Difficulty
 Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll a d4, a d6, or maybe even a d12 (based on the Difficulty Tier, or DT), and subtract or add the result to the total, in a way that would get you farther away from 10. For example, you try to shoot a werewolf with a Defence Rank (or DR) of 6, which means hitting it has a DT of 6; you rolled 11 on the d20, and 5 on the Difficulty Die, resulting in a 16. Since you're competent with the pistol and your Agility is 9, you can still roll a Competence Die---a d8 is your best bet here.
 
+**Overshooting.** You might roll a 2 on the d20 and a 4 on the Difficulty Die. This is where the d12 and d10 become valuable. Normally you wouldn't want to risk rolling a 10 or higher, but in this case you still have a fighting chance. Otherwise, a negative result or a result that's higher than 20 is a standard critical failure.
+
 # Building a Character
 
 ## Character Attributes
