@@ -20,6 +20,8 @@ main:
     url: /expansions/
   - title: "ACE"
     url: /ace/
+  - title: "Reckonfall"
+    url: /reckonfall/
 
 adventures:
   - title: "Adventures"
