@@ -92,6 +92,12 @@ Your DR equals your to your Agility Modifier plus your Resilience Modifier plus 
 
 **Odd Defense Ranks.** If your DR is an odd number, your opponents will add 1 to the result on the Difficulty Die's penalty, or in case of a DR of 3, they will add or subtract 1 directly to the d20 in your favor.
 
+## Speed
+Your Speed equals to your Agility Modifier plus 3.
+
+## Stamina
+Your maximum Stamina Points equals to your Resilience Modifier plus 3. If you run out of Stamina Points, you collapse. You regain 1 missing Stamina Point after a Break, and all missing stamina points after a Rest.
+
 ## Skills
 There are 12 skills, each linked to a Character Attribute. You can choose 5 skills to gain competence in.
 
@@ -110,8 +116,17 @@ There are 12 skills, each linked to a Character Attribute. You can choose 5 skil
 | Recall | Knowledge | Your ability to remember important details. |
 | Stealth | Agility | Your ability to move quietly, unheard and unseen. |
 
+# Resting
+In Reckonfall, you can take a Rest or a Break.
+
 # Combat
 In combat, you can do all kinds of stuff. I'll figure it out, don't you worry.
 
 ## Attacking
 When you attack, whether it be with a Precision weapon (like a rapier or a pistol) or with your Brawn (a hammer, a fist, or a kick) you roll with a DT equal to the opponent's DR.
+
+## Movement
+On your turn in combat, you can move a number of a squares (or hexagons) equal to your speed.
+
+## Rounds
+Each round of combat takes 10 in-game seconds. After every 6 rounds (or 1 in-game minute), on the start of each creature's turn, that creature must succeed an Endurance check.
