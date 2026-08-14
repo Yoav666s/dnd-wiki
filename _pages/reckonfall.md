@@ -171,7 +171,7 @@ On your turn in combat, you can move a number of a squares (or hexagons) equal t
 Each round of combat takes 10 in-game seconds. After every 6 rounds (or 1 in-game minute), on the start of each creature's turn, that creature must succeed an Endurance check or lose a Stamina Point.
 
 # Magic
-There are 4 levels of spells. In order to cast them, you need competence in Magic and a high enough Willpower Modifier. If you have competence in Magic, you know a number of spells equal to your Willpower Value. You can't learn a spell if its level requirement is higher than your Willpower Modifier.
+There are 4 levels of spells. In order to cast them, you need competence in Magic and a high enough Willpower Modifier. If you have competence in Magic, you know a number of spells equal to your Willpower Value. You can't learn a spell if its level requirement is higher than your Willpower Modifier. If your Willpower Modifier is 0, you can't learn any spells!
 
 | Spell Level | Required Willpower Modifier | Description |
 | :---: | :---: | :---- |
@@ -179,3 +179,8 @@ There are 4 levels of spells. In order to cast them, you need competence in Magi
 | Incantation | +2 | A simple spell that can be cast reliably. |
 | Invocation | +3 | A powerful spell that costs a Stamina point. |
 | Sorcery | +4 | An advanced spell that can only be cast once between Rests. |
+
+# Jinxes
+The following is a list of Jinxes.
+
+*Fire Play.* You light or snuff out a small flame, such as that of a candle or a gaslamp.
