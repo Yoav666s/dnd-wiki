@@ -141,7 +141,12 @@ In Reckonfall, you can take a Rest or a Break.
 **Break.** A Break is 30 in-game minutes of doing nothing but light activity. At the end of a break, you can roll a die of a size equal or lower to your Resilience Value and regain that many missing Hit Points. You also regain 1 missing Stamina Point. You can benefit from a number of Breaks equal to your Resilience Modifier between Rests.
 
 # Combat
-In combat, you can do all kinds of stuff. I'll figure it out, don't you worry.
+In combat, you have one action and your movement.
+
+## Actions
+There is a number of actions you can take, detailed below.
+
+**Attack.** Make a one or more physical attacks against an opponent.
 
 ## Initiative
 The turn order in combat is determined by rolling initiative. To roll initiative, you can choose any die with a number of faces equal to or lower than your Courage Value (if you decide to roll at all). The number rolled is where you are on initiative order: whoever rolled highest goes first, and whoever rolled lowest (or didn't roll at all) goes last.
@@ -154,3 +159,5 @@ On your turn in combat, you can move a number of a squares (or hexagons) equal t
 
 ## Rounds
 Each round of combat takes 10 in-game seconds. After every 6 rounds (or 1 in-game minute), on the start of each creature's turn, that creature must succeed an Endurance check or lose a Stamina Point.
+
+# Magic
