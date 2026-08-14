@@ -5,7 +5,7 @@ permalink: /reckonfall/
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-source: "Reconfall: Basic Rules"
+source: "Reckonfall: Basic Rules"
 ---
 Reckonfall is a brand new TTRPG game system for low fantasy settings. The game master is called the Arbiter.
 
@@ -71,4 +71,6 @@ There are 12 skills, each linked to a Character Attribute.
 
 | Skill | Attribute | Description |
 | :---: | :---: | :---: |
+| Aerobic | Resilience | Your ability to run long distances or perform other demanding tasks for an extended period of time. |
+|  | ||
 | Precision | Agility | Your ability to hit the mark and operate Precision weaponry. |
