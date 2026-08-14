@@ -195,16 +195,21 @@ Casting spells is a rather obvious ordeal, but you can attempt to cast a spell c
 | Invocation | 8 |
 | Sorcery | 10 |
 
+## Spell Range
+The range of your spells equals to your Intuition modifier plus 3.
+
 # Jinxes
 The following is a list of Jinxes.
 
-**Fire Play.** You light or snuff out a small flame, such as that of a candle or a gaslamp.
+**Fire Play.** You light or snuff out a small flame within range, such as that of a candle or a gaslamp.
 
-**Fumble.** You increase the DT of the next check a creature you can see makes in the next minute by 2 to a maximum of 12.
+**Fumble.** You increase the DT of the next check a creature you can see within range makes in the next minute by 2 to a maximum of 12.
 
-**Stumble.** You cause a creature to stumble as it walks or runs, halving its movement speed until the end of its next turn (rounded down).
+**Stumble.** You cause a creature you can see within range to stumble as it walks or runs, halving its movement speed until the end of its next turn (rounded down).
 
 # Incantations 
 The following is a list of Incantations. You can't cast the same Incantation two turns in a row.
 
-**Befuddle.** A creature you can see is confused, and spends its next action doing nothing.
+**Befuddle.** A creature you can see within range is confused, and spends its next action doing nothing.
+
+**Arcane Missile.** Make an attack against a creature you can see within range. On a hit, that creature takes damage equal to a number of d4s equal to your Willpower Modifier.
