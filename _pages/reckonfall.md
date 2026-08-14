@@ -74,6 +74,7 @@ There are 12 skills, each linked to a Character Attribute.
 | Awareness | Intuition | Your ability to notice your surroundings and spot unusual or hidden details. |
 | Brawn | Strength | Your ability to hit hard and operate Brawn weaponry. |
 | Covertness | Charisma | Your ability to blend in, hide in plain sight, and mask your intentions. |
+| Deceit | Charisma | Your ability to tell lies convincingly and omit important details. |
 | Endurance | Resilience | Your ability to run long distances or perform other demanding tasks for an extended period of time. |
 | Judgement | Intuition | Your ability to discern honesty from deception. |
 | Precision | Agility | Your ability to hit the mark and operate Precision weaponry. |
