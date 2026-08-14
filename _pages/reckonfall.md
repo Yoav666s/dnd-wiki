@@ -78,6 +78,8 @@ There are 12 skills, each linked to a Character Attribute.
 | Deceit | Charisma | Your ability to tell lies convincingly and omit important details. |
 | Endurance | Resilience | Your ability to run long distances or perform other demanding tasks for an extended period of time. |
 | Judgement | Intuition | Your ability to discern honesty from deception. |
+| Magic | Willpower | Your ability to bend reality to do your bidding. |
 | Persuasion | Charisma | Your ability to convince others in good faith. |
 | Precision | Agility | Your ability to hit the mark and operate Precision weaponry. |
+| Recall | Knowledge | Your ability to remember important details. |
 | Stealth | Agility | Your ability to move quietly, unheard and unseen. |
