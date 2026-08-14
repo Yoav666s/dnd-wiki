@@ -22,7 +22,7 @@ In Reckonfall, you roll a d20 when you attempt to do something that might fail o
 If you're competent enough, you can roll a Competence Die and add or subtract the result from the roll to get you closer to 10. You determine the size of the die (d4, d6, etc.), but the number of faces on the die must be equal to or lower than the Attribute Value linked to the roll. If the Attribute Value is lower than 4, you can't roll a competence die. For example, you rolled 13 on the d20 and your Agility is 9; you *could* roll a d8, but a d4 would be a better choice in this case.
 
 ### Rolling with Difficulty
-Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll a d4, a d6, or maybe even a d12 (based on the Difficulty Tier, or DT), and subtract or add the result to the total, in a way that would get you farther away from 10. For example, you try to shoot a werewolf with a Defense Rank (or DR) of 7, which means hitting it has a DT of 6; you rolled 11 on the d20, and 5 on the Difficulty Die, resulting in a 16. Since you're competent with the pistol and your Agility is 9, you can still roll a Competence Die---a d8 is your best bet here.
+Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll a d4, a d6, or maybe even a d12 (based on the Difficulty Tier, or DT. The lowest DT is 2.), and subtract or add the result to the total, in a way that would get you farther away from 10. For example, you try to shoot a werewolf with a Defense Rank (or DR) of 7, which means hitting it has a DT of 6; you rolled 11 on the d20, and 5 on the Difficulty Die, resulting in a 16. Since you're competent with the pistol and your Agility is 9, you can still roll a Competence Die---a d8 is your best bet here.
 
 **Overshooting.** You might roll a 2 on the d20 and a 4 on the Difficulty Die, resulting in --2. This is where the d12 and d10 become valuable. Normally you wouldn't want to risk rolling a 10 or higher, but in this case it will give you a fighting chance. Otherwise, a negative result or a result that's higher than 20 is a standard critical failure.
 
@@ -183,4 +183,6 @@ There are 4 levels of spells. In order to cast them, you need competence in Magi
 # Jinxes
 The following is a list of Jinxes.
 
-*Fire Play.* You light or snuff out a small flame, such as that of a candle or a gaslamp.
+**Fire Play.** You light or snuff out a small flame, such as that of a candle or a gaslamp.
+
+**Fumble.** Increase the DT of the next check a creature you can see makes in the next minute by 2 to a maximum of 12.
