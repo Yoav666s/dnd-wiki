@@ -8,7 +8,9 @@ toc_sticky: true
 ---
 Reckonfall is a brand new TTRPG game system for low fantasy settings.
 
-# Character Attributes
+# Building a Character
+
+## Character Attributes
 Every character has 8 attributes, the values of which range from 2 to 12.
 
 **Agility.** Your capacity to move, maneuver, and operate certain weaponry.
@@ -27,5 +29,25 @@ Every character has 8 attributes, the values of which range from 2 to 12.
 
 **Courage.** Your capacity to perform under pressure and stay calm in dangerous situations.
 
-## Determining Attribute Values
+### Determining Attribute Values
 There are several ways to determine your Attribute Values.
+
+**Rolling for Stats.** Roll 2d6 eight times and write down the results. Distribute the results in a way that fits your character.
+
+**Standard Array.** Assign each value a number from the following array: `10, 9, 8, 7, 7, 6, 5, 4`
+
+**Point Buy.** You have a 48 points. All eight Attributes start at 2, costing 0 points each. Consult the following table:
+
+| Attribute Value | Point Cost |
+| :---: | :---: |
+| 2 | 0 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 3 |
+| 6 | 4 |
+| 7 | 5 |
+| 8 | 7 |
+| 9 | 9 |
+| 10 | 12 |
+| 11 | 15 |
+| 12 | 19 |
