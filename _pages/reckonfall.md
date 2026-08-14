@@ -83,3 +83,9 @@ There are 12 skills, each linked to a Character Attribute. You can choose 5 skil
 | Precision | Agility | Your ability to hit the mark and operate Precision weaponry. |
 | Recall | Knowledge | Your ability to remember important details. |
 | Stealth | Agility | Your ability to move quietly, unheard and unseen. |
+
+# Combat
+In combat, you can do all kinds of stuff. I'll figure it out, don't you worry.
+
+## Attacking
+When you attack, whether it be with a Precision weapon (like a rapier or a pistol) or with your Brawn (a hammer, a fist, or a kick), you roll with a DT equal to the opponent's DR. The DR changes based on the Attribute that is required to resist or evade the attack.
