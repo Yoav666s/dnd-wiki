@@ -73,8 +73,22 @@ There are several ways to determine your Attribute Values.
 ## Attribute Modifiers
 Attribute Modifiers are calculated as such: `Attribute Value / 3 (rounded down)`
 
+| Attribute Value | Attribute Modifier |
+| :---: | :---: |
+| 2 | +0 |
+| 3 | +1 |
+| 4 | +1 |
+| 5 | +1 |
+| 6 | +2 |
+| 7 | +2 |
+| 8 | +2 |
+| 9 | +3 |
+| 10 | +3 |
+| 11 | +3 |
+| 12 | +4 |
+
 ## Defense Rank
-Your DR equals your to your Agility value plus 1.
+Your DR equals your to your Agility Modifier plus your Resilience Modifier plus 2.
 
 ## Skills
 There are 12 skills, each linked to a Character Attribute. You can choose 5 skills to be competent in.
