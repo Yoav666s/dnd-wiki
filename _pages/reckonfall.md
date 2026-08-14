@@ -101,7 +101,7 @@ Your maximum Stamina Points equals to your Resilience Modifier plus 3. If you ru
 ## Hit Points
 Your hit points can be rolled or fixed, consult the following table.
 
-| Resilience Modifier | Rolled Hit Points | Fixed Hit Points |
+| Resilience Value | Rolled Hit Points | Fixed Hit Points |
 | :---: | :---: | :---: |
 | 2 | 2 | 2 |
 | 3 | 3 | 3 |
