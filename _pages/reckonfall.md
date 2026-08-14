@@ -5,6 +5,7 @@ permalink: /reckonfall/
 toc: true
 toc_label: "Contents"
 toc_sticky: true
+source: "Reconfall: Basic Rules"
 ---
 Reckonfall is a brand new TTRPG game system for low fantasy settings. The game master is called the Arbiter.
 
@@ -15,6 +16,9 @@ In Reckonfall, you roll a d20 when you attempt to do something that might fail o
 
 ### The Competence Die
 If you're competent enough, you can roll a Competence Die and add or subtract the result from the roll to get you closer to 10. You determine the size of the die (d4, d6, etc.), but the number of faces on the die must be equal to or lower than the Attribute Value linked to the roll. If the Attribute Value is lower than 4, you can't roll a competence die. For example, you rolled 13 on the d20 and your Agility is 9; you *could* roll a d8, but a d4 would be a better choice in this case.
+
+### Rolling with Difficulty
+Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll a d4, a d6, or maybe even a d12 (based on the Difficulty Tier, or DT), and subtract or add the result to the total, in a way that would get you farther away from 10. For example, you try to shoot a werewolf with a Defence Rank (or DR) of 6, which means hitting it has a DT of 6; you rolled 11 on the d20, and 5 on the Difficulty Die, resulting in a 16. Since you're competent with the pistol and your Agility is 9, you can still roll a Competence Die---a d8 is your best bet here.
 
 # Building a Character
 
