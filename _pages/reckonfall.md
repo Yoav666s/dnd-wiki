@@ -175,8 +175,10 @@ There are 4 levels of spells. In order to cast them, you need competence in Magi
 
 | Spell Level | Required Willpower Modifier |
 | :---: | :---: |
-| Incantation | +1 |
-| Invocation | +2 |
+| Charm | +1 |
+| Incantation | +2 |
+| Invocation | +3 |
+| Sorcery | +4 |
 
 # Incantations
 Incantations can be cast without limit.
