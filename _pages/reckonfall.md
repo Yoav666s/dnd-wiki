@@ -173,12 +173,9 @@ Each round of combat takes 10 in-game seconds. After every 6 rounds (or 1 in-gam
 # Magic
 There are 4 levels of spells. In order to cast them, you need competence in Magic and a high enough Willpower Modifier.
 
-| Spell Level | Required Willpower Modifier |
-| :---: | :---: |
-| Charm | +1 |
-| Incantation | +2 |
-| Invocation | +3 |
-| Sorcery | +4 |
-
-# Incantations
-Incantations can be cast without limit.
+| Spell Level | Required Willpower Modifier | Description |
+| :---: | :---: | :---- |
+| Jinx | +1 | A spell that can be cast without limit, but generally has a very subtle effect. |
+| Incantation | +2 | A simple spell that can be cast reliably. |
+| Invocation | +3 ||
+| Sorcery | +4 ||
