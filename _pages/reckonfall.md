@@ -180,6 +180,11 @@ There are 4 levels of spells. In order to cast them, you need competence in Magi
 | Invocation | +3 | A powerful spell that costs a Stamina point. |
 | Sorcery | +4 | An advanced spell that can only be cast once between Rests. |
 
+# Adversarial Effects
+When you cast a spell with a negative effect on an unwilling (or unknowing) creature, that creature must succeed a Magic check to resist the effect. It can roll a Competence Die only if it is competent with the Magic skill.
+
+The exception to this is is spells which explicitly state that you make an attack. In that case, you make a Magic check with difficulty based on the opponent's DR.
+
 # Jinxes
 The following is a list of Jinxes.
 
