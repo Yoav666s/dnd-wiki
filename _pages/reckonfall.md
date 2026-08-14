@@ -67,7 +67,7 @@ There are several ways to determine your Attribute Values.
 | 12 | 19 |
 
 ## Skills
-There are 12 skills, each linked to a Character Attribute.
+There are 12 skills, each linked to a Character Attribute. You can choose 5 skills to be competent in.
 
 | Skill | Attribute | Description |
 | :---- | :---- | :---- |
