@@ -143,6 +143,9 @@ In Reckonfall, you can take a Rest or a Break.
 # Combat
 In combat, you can do all kinds of stuff. I'll figure it out, don't you worry.
 
+## Initiative
+The turn order in combat is determined by rolling initiative. To roll initiative, you can choose any die with a number of faces equal to or lower than your Courage Value (if you decide to roll at all). The number rolled is where you are on initiative order: whoever rolled highest goes first, and whoever rolled lowest (or didn't roll at all) goes last.
+
 ## Attacking
 When you attack, whether it be with a Precision weapon (like a rapier or a pistol) or with your Brawn (a hammer, a fist, or a kick) you roll with a DT equal to the opponent's DR.
 
