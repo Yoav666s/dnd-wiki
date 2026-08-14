@@ -171,3 +171,12 @@ On your turn in combat, you can move a number of a squares (or hexagons) equal t
 Each round of combat takes 10 in-game seconds. After every 6 rounds (or 1 in-game minute), on the start of each creature's turn, that creature must succeed an Endurance check or lose a Stamina Point.
 
 # Magic
+There are 4 levels of spells. In order to cast them, you need competence in Magic and a high enough Willpower Modifier.
+
+| Spell Level | Required Willpower Modifier |
+| :---: | :---: |
+| Incantation | +1 |
+|  ||
+
+# Incantations
+Incantations can be cast without limit.
