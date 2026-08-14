@@ -185,4 +185,6 @@ The following is a list of Jinxes.
 
 **Fire Play.** You light or snuff out a small flame, such as that of a candle or a gaslamp.
 
-**Fumble.** Increase the DT of the next check a creature you can see makes in the next minute by 2 to a maximum of 12.
+**Fumble.** You increase the DT of the next check a creature you can see makes in the next minute by 2 to a maximum of 12.
+
+**Stumble.** You cause a creature to stumble as it walks or runs, halving its movement speed until the end of its next turn (rounded down).
