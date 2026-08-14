@@ -34,7 +34,7 @@ There are several ways to determine your Attribute Values.
 
 **Rolling for Stats.** Roll 2d6 eight times and write down the results. Distribute the results in a way that fits your character.
 
-**Standard Array.** Assign each value a number from the following array: `10, 9, 8, 7, 7, 6, 5, 4`
+**Standard Array.** Assign each value a number from the following array: `10, 9, 8, 7, 7, 6, 6, 4`
 
 **Point Buy.** You have a 48 points. All eight Attributes start at 2, costing 0 points each. Consult the following table:
 
@@ -51,3 +51,5 @@ There are several ways to determine your Attribute Values.
 | 10 | 12 |
 | 11 | 15 |
 | 12 | 19 |
+
+## Skills
