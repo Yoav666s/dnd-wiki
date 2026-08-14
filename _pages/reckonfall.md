@@ -138,7 +138,7 @@ In Reckonfall, you can take a Rest or a Break.
 
 **Rest.** A rest consists of 6\~8 hours of sleep. When you finish a rest, you regain all missing Hit Points and all missing Stamina Points.
 
-**Break.**
+**Break.** A Break is 30 in-game minutes of doing nothing but light activity. At the end of a break, you can roll a die of a size equal or lower to your Resilience Value and regain that many missing Hit Points. You also regain 1 missing Stamina Point.
 
 # Combat
 In combat, you can do all kinds of stuff. I'll figure it out, don't you worry.
