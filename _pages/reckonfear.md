@@ -343,11 +343,17 @@ The following is a list of weapon categories. You can choose any weapon that fit
 ### Properties
 The following is a list of the different weapon Properties and what they mean.
 
+**Brawn.** The weapon uses the Brawn skill and relies on the Strength Attribute.
+
 **Concealable.** The weapon can be easily concealed on your person, and while holding it, you can make a Covertness check to prevent others from seeing it.
 
 **Light.** The weapon can be comfortably wielded in one hand while keeping the other hand free to wield another Light weapon.
 
-****
+**Precision.** The weapon uses the Precision skill and relies on the Agility Attribute.
+
+**Reload.** After attacking with the weapon once, you must take the Reload Action to reload it before attacking again, and you must have ammunition for it.
+
+**Two-Handed.** The weapon requires two unoccupied hands to wield.
 
 ## Armor
 Most people in the Reckonfear universe don't wear armor in their daily life. However, every now and then you might see a Regulator in his leathers or a cavalry unit with heavy breastplates.
