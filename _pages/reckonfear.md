@@ -22,7 +22,9 @@ In Reckonfear, you roll a d20 when you attempt to do something that might fail o
 If you're competent enough, you can roll a Competence Die and add or subtract the result from the roll to get you closer to 10. You determine the size of the die (d4, d6, etc.), but the number of faces on the die must be equal to or lower than the Attribute Value linked to the roll. If the Attribute Value is lower than 4, you can't roll a competence die. You don't have to roll a Competence Die if you don't want to. For example, you rolled 13 on the d20 and your Agility is 9; you *could* roll a d8, but a d4 would be a better choice in this case.
 
 ### Rolling with Difficulty
-Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll a d4, a d6, or maybe even a d12 (based on the Difficulty Tier, or DT. The lowest DT is 2.), and subtract or add the result to the total, in a way that would get you farther away from 10. For example, you try to shoot a werewolf with a Defense Rank (or DR) of 7, which means hitting it has a DT of 6; you rolled 11 on the d20, and 5 on the Difficulty Die, resulting in a 16. Since you're competent with the pistol and your Agility is 9, you can still roll a Competence Die---a d8 is your best bet here.
+Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll a d4, a d6, or maybe even a d12 (based on the Difficulty Tier, or DT.), and subtract or add the result to the total, in a way that would get you farther away from 10. For example, you try to shoot a werewolf with a Defense Rank (or DR) of 7, which means hitting it has a DT of 6; you rolled 11 on the d20, and 5 on the Difficulty Die, resulting in a 16. Since you're competent with the pistol and your Agility is 9, you can still roll a Competence Die---a d8 is your best bet here.
+
+**Difficulty Tier.** The DT determines the size of the Difficulty Die. It's always an even number between 2~12. If the DT is 2, you don't roll a Difficulty Die.
 
 **Inverse Difficulty.** Some things will require making a check with Inverse Difficulty based on one of your ability Attributes. The DT is `14 -- the Ability Attribute`. If the DT is odd, subtract 1 from it.
 
@@ -332,3 +334,6 @@ The following is a list of weapon categories. You can choose any weapon that fit
 | Heavy Crossbow | AGI mod + 1d12 | Puncture | Precision, Reload, Two-Handed | Military crossbow |
 | Heavy Firearm | AGI mod + 3d10 | Puncture | Precision, Reload, Two-Handed | Hunting rifle, musket |
 | Heavy Weapon | STR mod + 1d12 | Blunt, Gash, or Puncture | Brawn, Reach, Two-Handed | Great sword, maul |
+
+## Armor
+Most people in the Reckonfear universe don't wear armor in their daily life.
