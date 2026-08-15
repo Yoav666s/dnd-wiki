@@ -1,18 +1,18 @@
 ---
 layout: single
-title: "Reckonfall"
-permalink: /reckonfall/
+title: "Reckonfear"
+permalink: /reckonfear/
 toc: true
 toc_label: "Contents"
 toc_sticky: true
-source: "Reckonfall: Basic Rules"
+source: "Reckonfear: Basic Rules"
 ---
-Reckonfall is a brand new TTRPG system for low fantasy settings. The game master is called the Arbiter.
+Reckonfear is a brand new TTRPG system for low fantasy settings. The game master is called the Arbiter.
 
 # Basic Rules
 
 ## Capability Checks
-In Reckonfall, you roll a d20 when you attempt to do something that might fail or is linked to a certain Attribute (the Value of which is between 2\~12). Your goal is to hit the number 10 on the die, or get as close to it as you can. A 10 is a critical success, an 8-9 or an 11-12 is a normal success, and a 6-7 or 13-14 is a success but with a cost. 2\~5 and 15\~19 is a failure, while 1 and 20 are a critical failure.
+In Reckonfear, you roll a d20 when you attempt to do something that might fail or is linked to a certain Attribute (the Value of which is between 2\~12). Your goal is to hit the number 10 on the die, or get as close to it as you can. A 10 is a critical success, an 8-9 or an 11-12 is a normal success, and a 6-7 or 13-14 is a success but with a cost. 2\~5 and 15\~19 is a failure, while 1 and 20 are a critical failure.
 
 | 1\~5 | 6-7 | 8\~12 | 13-14 | 15\~20 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -134,7 +134,7 @@ There are 12 skills, each linked to a Character Attribute. You can choose 5 skil
 | Stealth | Agility | Your ability to move quietly, unheard and unseen. |
 
 # Resting
-In Reckonfall, you can take a Rest or a Break.
+In Reckonfear, you can take a Rest or a Break.
 
 **Rest.** A rest consists of 6\~8 hours of sleep. When you finish a rest, you regain all missing Hit Points and all missing Stamina Points.
 
@@ -186,7 +186,7 @@ When you cast a spell with a negative effect on an unwilling (or unknowing) crea
 The exception to this is is spells which explicitly state that you make an attack. In that case, you make a Magic check with difficulty based on the opponent's DR.
 
 ## Covert Casting
-Casting spells is a rather obvious ordeal, but you can attempt to cast a spell covertly. This will require a Covertness check with difficulty based on the spell level. 
+Casting spells is a rather obvious ordeal, but you can attempt to cast a spell covertly. This will require a Covertness check with difficulty based on the spell level.
 
 | Spell Level | Difficulty Tier |
 | :---: | :---: |
@@ -207,7 +207,7 @@ The following is a list of Jinxes.
 
 **Stumble.** You cause a creature you can see within range to stumble as it walks or runs, halving its movement speed until the end of its next turn (rounded down).
 
-# Incantations 
+# Incantations
 The following is a list of Incantations. You can't cast the same Incantation two turns in a row.
 
 **Befuddle.** A creature you can see within range is confused, and spends its next action doing nothing.
