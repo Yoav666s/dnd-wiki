@@ -351,7 +351,7 @@ The following is a list of the different weapon Properties and what they mean.
 
 **Precision.** The weapon uses the Precision skill and relies on the Agility Attribute.
 
-**Reload.** After attacking with the weapon once, you must take the Reload Action to reload it before attacking again, and you must have ammunition for it.
+**Reload.** After attacking with the weapon once, you must take the Reload Action to reload it before attacking again, and you must have ammunition for it. You must have a free hand to do so.
 
 **Two-Handed.** The weapon requires two unoccupied hands to wield.
 
@@ -375,6 +375,8 @@ Shields are an uncommon sight in the Reckonfear universe, but they are highly ef
 | Light Shield | 2 | 8 Resilience | +2 DT for Endurance checks | Wooden shield |
 | Heavy Shield | 3 | 8 Strength, 8 Resilience | +4 DT for Endurance checks | Kite shield |
 
+**Hand Occupation.** A shield requires a free hand to grasp it, meaning you can't hold a Two-Handed weapon and use a shield simultaneously.
+
 **Maximum Increase.** A shield cannot increase your DR or DTs to be higher than 12.
 
-**Hand Occupation.** A shield requires a free hand to grasp it, meaning you can't hold a Two-Handed weapon and use a shield simultaneously.
+**Reloading with a Buckler.** You can reload a weapon with the Reload Property while holding a Buckler.
