@@ -192,7 +192,7 @@ There are 4 levels of spells. In order to cast them, you need competence in Magi
 | Sorcery | +4 | An advanced spell that can only be cast once between Rests. |
 
 ## Adversarial Effects
-When you cast a spell with a negative effect on an unwilling (or unknowing) creature, that creature must succeed a Magic check with difficulty based on your Willpower Value to resist the effect. It can roll a Competence Die only if it is competent with the Magic skill.
+When you cast a spell with a negative effect on an unwilling (or unknowing) creature, that creature must succeed a Willpower check with difficulty based on your Willpower Value to resist the effect. It can roll a Competence Die if its Willpower is higher than 3.
 
 The exception to this is spells which explicitly state that you make an attack. In that case, you make a Magic check with difficulty based on the opponent's DR, and you can roll a Competence Die if you need to.
 
@@ -217,6 +217,8 @@ If you have competence in Magic, you know a number of spells equal to your Knowl
 
 # Jinxes
 The following is a list of Jinxes.
+
+**Barrier.** As a Sleight, you create a barrier of arcane energy to protect a creature you can see within range (or yourself). The creature's DR is increased by 3 (to a maximum of 12) until the end of its next turn.
 
 **Fire Play.** As a Sleight, you light or snuff out a flame within range, such as that of a candle or a gaslamp. You can also extinguish a flame on a Burning creature within range. Alternatively, you can produce a flame in one or both hands. While you hold a flame, unarmed Brawn attacks you make with it deal an additional 1d4 Fire damage and cause the target to start Burning.
 
