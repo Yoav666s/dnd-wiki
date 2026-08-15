@@ -169,7 +169,9 @@ There is a number of things you can do that don't count as a full action, detail
 
 **Hide.** If you are Unseen, you can make a Stealth check with Inverse Difficulty based on your Agility to become Hidden.
 
-**Magic.** Cast a spell that can be cast as a sleight.
+**Magic.** Cast a spell that can be cast as a Sleight.
+
+**Offhand Attack.** If you took the Attack action and made at least one weapon attack, you can make one offhand attack with a different weapon you're holding as a Sleight.
 
 **Use.** Use an object, like opening a door or drinking a potion.
 
