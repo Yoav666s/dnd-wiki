@@ -233,6 +233,6 @@ The following is a list of Incantations. You can't cast the same Incantation two
 
 **Fire Bolt.** Make an attack against a creature you can see within range. On a hit, that creature takes 2d6 Fire damage.
 
-**Propel.** You propel an object
+**Propel.** You propel a small object within range to hit a target. Make an attack against a creature or object you can see within range. On a hit, both the target and the propelled object take 1d12 + your Willpower Modifier Blunt damage.
 
 **Windstride.** As a Sleight, you cause the wind to boost you as you run. Your current speed is doubled until the end of your turn.
