@@ -178,7 +178,7 @@ On your turn in combat, you can move a number of a squares (or hexagons) equal t
 Each round of combat takes 10 in-game seconds. After every 6 rounds (or 1 in-game minute), on the start of each creature's turn, that creature must succeed an Endurance check or lose a Stamina Point.
 
 # Magic
-There are 4 levels of spells. In order to cast them, you need competence in Magic and a high enough Willpower Modifier. If you have competence in Magic, you know a number of spells equal to your Willpower Value. You can't learn a spell if its level requirement is higher than your Willpower Modifier. If your Willpower Modifier is 0, you can't learn any spells!
+There are 4 levels of spells. In order to cast them, you need competence in Magic and a high enough Willpower Modifier.
 
 | Spell Level | Required Willpower Modifier | Description |
 | :---: | :---: | :---- |
@@ -208,6 +208,9 @@ The range of your spells equals to your Intuition modifier plus 3.
 ## Casting Spells
 Unless stated otherwise, the casting time of a spell is 1 Action. Since casting a spell requires both verbal and somatic components, you can only cast one spell per turn. When you cast a spell on your turn, you can't speak, as you're already performing verbal components.
 
+## Known Spells
+If you have competence in Magic, you know a number of spells equal to your Knowledge Modifier. If you have competence in the Recall skill, you know a number of spells equal to your Knowledge Value, instead. You can't learn a spell if its level requirement is higher than your Willpower Modifier. If your Willpower Modifier is 0, you can't learn any spells!
+
 # Jinxes
 The following is a list of Jinxes.
 
@@ -220,6 +223,8 @@ The following is a list of Jinxes.
 # Incantations
 The following is a list of Incantations. You can't cast the same Incantation two turns in a row.
 
+**Arcane Missile.** Make an attack against a creature you can see within range. On a hit, that creature takes Xd4 damage where X is your Willpower Modifier.
+
 **Befuddle.** A creature you can see within range is confused, and spends its next action doing nothing.
 
-**Arcane Missile.** Make an attack against a creature you can see within range. On a hit, that creature takes Xd4 damage where X is your Willpower Modifier.
+**Fire Bolt.** Make an attack against a creature you can see within range. On a hit,
