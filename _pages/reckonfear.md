@@ -175,6 +175,20 @@ The turn order in combat is determined by rolling initiative. To roll initiative
 ## Physical Attacks
 When you take the attack action on your turn, you can attack a number of times equal to your Courage Modifier. When you make a physical attack, whether it be with a Precision weapon (like a rapier or a pistol) or with your Brawn (a hammer, a fist, or a kick) you roll with a DT based on the opponent's DR. Watch out, if your Courage modifier is 0, you can't attack at all!
 
+**Success with a Cost.** When you hit with a physical attack and succeed with a cost, you deal only half damage.
+
+### Unarmed Attacks
+Unarmed attacks use the Brawn skill and deal damage equal to your Strength Modifier plus your Unarmed Die.
+
+#### Unarmed Die Table
+| Strength Modifier | Unarmed Die |
+| :---: | :---: |
+| +0 | - |
+| +1 | - |
+| +2 | 1d4 |
+| +3 | 1d6 |
+| +4 | 1d8 |
+
 ## Movement
 On your turn in combat, you can move a number of a squares (or hexagons) equal to your speed.
 
