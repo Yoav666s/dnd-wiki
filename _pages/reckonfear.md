@@ -264,7 +264,7 @@ The following is a list of Invocations. After you cast an Invocation, you must s
 
 **Restore.** A creature you can see within range (or yourself) regains XdY missing Hit Points where X is your Willpower Modifier and Y is the largest even number that is equal to or lower than your Willpower Value.
 
-**Shapeshift.** You transform into another creature the same size as you and with the same arrangement of limbs that you have. None of your game statistics change. Your clothing and equipment are not affected. Until your next Rest, you can transform again as an Action. The spell ends if you transform back to your true form.
+**Transform.** You transform into another creature the same size as you and with the same arrangement of limbs that you have. You decide what you look and sound like, though none of your game statistics change. Your clothing and equipment are not affected. Until your next Rest, you can transform again as an Action. The spell ends if you transform back to your true form.
 
 ## Sorceries
 The following is a list of Sorceries. After you cast a Sorcery, you must succeed an Endurance check with Inverse Difficulty based on your Resilience or lose a Stamina Point. A Success with a Cost counts as a Failure. Once you cast a Sorcery, you can't do it again until you finish a Rest.
