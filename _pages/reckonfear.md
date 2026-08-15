@@ -24,6 +24,8 @@ If you're competent enough, you can roll a Competence Die and add or subtract th
 ### Rolling with Difficulty
 Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll a d4, a d6, or maybe even a d12 (based on the Difficulty Tier, or DT. The lowest DT is 2.), and subtract or add the result to the total, in a way that would get you farther away from 10. For example, you try to shoot a werewolf with a Defense Rank (or DR) of 7, which means hitting it has a DT of 6; you rolled 11 on the d20, and 5 on the Difficulty Die, resulting in a 16. Since you're competent with the pistol and your Agility is 9, you can still roll a Competence Die---a d8 is your best bet here.
 
+**Inverse Difficulty.** Some things will require making a check with Inverse Difficulty based on one of your ability Attributes. The DT is `14 -- the Ability Attribute`.
+
 **Overshooting.** You might roll a 2 on the d20 and a 4 on the Difficulty Die, resulting in --2. This is where the d12 and d10 become valuable. Normally you wouldn't want to risk rolling a 10 or higher, but in this case it will give you a fighting chance. Otherwise, a negative result or a result that's higher than 20 is a standard critical failure.
 
 # Building a Character
@@ -161,6 +163,8 @@ There is a number of Actions you can take, detailed below.
 ## Sleights
 There is a number of things you can do that don't count as a full action, detailed below. You can only use one Sleight in a given turn.
 
+**Hide.** If you are Unseen, you can make a Stealth check with Inverse Difficulty based on your Agility to become Hidden.
+
 **Magic.** Cast a spell that can be cast as a sleight.
 
 **Use.** Use an object, like opening a door or drinking a potion.
@@ -216,6 +220,8 @@ The following is a list of Jinxes.
 
 **Fire Play.** As a Sleight, you light or snuff out a flame within range, such as that of a candle or a gaslamp. You can also extinguish a flame on a Burning creature within range. Alternatively, you can produce a flame in one or both hands. While you hold a flame, unarmed Brawn attacks you make with it deal an additional 1d4 Fire damage and cause the target to start Burning.
 
+**Flicker.** You become invisible until the end of your turn.
+
 **Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by 4 to a maximum of 12.
 
 **Minor Telekinesis.** As a Sleight, you manipulate a small object. You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons; make an attack against the creature or object. On a hit, it takes 1d4 Blunt damage per square or hexagon. Alternatively, as an Action if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
@@ -231,22 +237,28 @@ The following is a list of Incantations. You can't cast the same Incantation two
 
 **Befuddle.** A creature you can see within range is confused, and spends its next action doing nothing.
 
+**Blink.** As a Sleight, you translocate to an unoccupied square or hexagon within range.
+
 **Exhaust.** A creature you can see within range loses a number of Stamina Points equal to your Willpower Modifier.
 
 **Fire Bolt.** Make an attack against a creature you can see within range. On a hit, that creature takes 2d6 Fire damage and starts Burning.
 
 **Frostbite.** A layer of frost forms around a creature you can see within range. The target takes 1d6 Frost damage and the DT of every attack it makes is increased by 2 until the end of its next turn.
 
-**Propel.** You propel a small object within range to hit a target. Make an attack against a creature or object you can see within range. On a hit, both the target and the propelled object take 1d12 + your Willpower Modifier Blunt damage.
+**Propel.** You propel a small object within range to hit a target. Make an attack against a creature or object you can see within range. On a hit, both the target and the propelled object take Blunt damage equal to your Willpower Modifier plus 1d12.
 
 **Windstride.** As a Sleight, you cause the wind to boost you as you run. Your current speed is doubled until the end of your turn.
 
 # Invocations
-The following is a list of Invocations. After you cast an Invocation, you must succeed a DT 8 Endurance check or lose a Stamina Point. Success with a Cost counts as a Failure.
+The following is a list of Invocations. After you cast an Invocation, you must succeed an Endurance check with Inverse Difficulty based on your Resilience or lose a Stamina Point. Success with a Cost counts as a Failure.
 
 **Fireball.** Make an attack against a creature you can see within range. On a hit, it takes Fire damage equal to your Willpower Value plus 5d6 and starts Burning. On a miss, it takes half damage only.
 
 **Invisibility.** You become invisible until you attack or cast a spell.
+
+**Restore.** A creature you can see within range (or yourself) regains XdY missing Hit Points where X is your Willpower Modifier and Y is the largest even number that is equal to or lower than your Willpower Value.
+
+**Shapeshift.** You transform into another creature the same size as you and with the same arrangement of limbs that you have. None of your game statistics change. Your clothing and equipment are not affected. Until your next Rest, you can transform again as an Action. The spell ends if you transform back to your true form.
 
 # Conditions
 The following is a list of conditions that a creature may acquire.
@@ -255,4 +267,10 @@ The following is a list of conditions that a creature may acquire.
 
 **Collapsed.** The creature is Prone, can't use its movement to stand up, and it can't use Magic.
 
+**Hidden.** The creature is Unseen. DTs of attacks and Stealth checks are reduced by 4 instead of 2 (to a minimum of 2).
+
+**Invisible.** The creature is Unseen. DTs of attacks and Stealth checks are reduced by 6 instead of 2 (to a minimum of 2).
+
 **Prone.** The creature is lying on the ground, can't make physical attacks, and its DR is halved (rounded down). To get up, it can expend 3 movement squares or hexagons. A Prone creature can crawl at half speed (rounded down).
+
+**Unseen.** No one is looking at the creature. DTs of attacks and Stealth checks are reduced by 2 (to a minimum of 2).
