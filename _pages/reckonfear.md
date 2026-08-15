@@ -198,6 +198,8 @@ Unarmed attacks use the Brawn skill and deal damage equal to your Strength Modif
 | +3 | 1d6 |
 | +4 | 1d8 |
 
+If your Strength Value is 2, your Unarmed Attacks deal no damage!
+
 ## Movement
 On your turn in combat, you can move a number of a squares (or hexagons) equal to your speed.
 
