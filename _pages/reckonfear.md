@@ -30,6 +30,8 @@ Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll
 
 **Overshooting.** You might roll a 2 on the d20 and a 4 on the Difficulty Die, resulting in --2. This is where the d12 and d10 become valuable. Normally you wouldn't want to risk rolling a 10 or higher, but in this case it will give you a fighting chance. Otherwise, a negative result or a result that's higher than 20 is a standard critical failure.
 
+**Who Rolls the Difficulty Die?** You! Not the Arbiter.
+
 # Building a Character
 A step-by-step guide to building a Level 1 character.
 
@@ -283,7 +285,7 @@ The following is a list of Invocations. After you cast an Invocation, you must s
 
 **Conjuration.** You create a large or smaller inanimate object in an unoccupied space you can see within range. It looks completely ordinary, has no monetary value, and disappears after you finish a Rest or cast this spell again. Alternatively, you can conjure a weapon in your hands as a Sleight.
 
-**Fireball.** Make an attack against a creature you can see within range. On a hit, it takes Fire damage equal to your Willpower Modifier plus 3d6 and starts Burning. On a miss, it takes half damage only.
+**Fireball.** Make an attack against a creature you can see within range. On a hit, it takes Fire damage equal to your Willpower Modifier plus 3d10 and starts Burning. On a miss, it takes half damage only.
 
 **Invisibility.** You become Invisible until you attack or cast a spell.
 
