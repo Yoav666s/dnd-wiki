@@ -230,7 +230,7 @@ The following is a list of Jinxes.
 
 **Lesser Conjuration.** As a Sleight, you create a small inanimate object in your hand, such as a pen or a dagger. It looks completely ordinary, has no monetary value, and disappears after 1 minute or if you let go of it.
 
-**Minor Telekinesis.** As a Sleight, you manipulate a small object (such as a paperweight) or mechanism (such as an unlocked door handle). You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons as an Action; make an attack against the creature or object. On a hit, it takes 1d4 Blunt damage per square or hexagon. Alternatively, as an Action, if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
+**Minor Telekinesis.** As a Sleight, you manipulate a small object (such as a paperweight) or mechanism (such as an unlocked door handle). You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons as an Action; make an attack against the creature or object. On a hit, both the manipulated object and the target take 1d4 Blunt damage per square or hexagon. Alternatively, as an Action, if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
 
 **Stumble.** As a Sleight, you cause a creature you can see within range to stumble as it walks or runs, halving its movement Speed until the end of its next turn (rounded down).
 
@@ -263,6 +263,8 @@ The following is a list of Invocations. After you cast an Invocation, you must s
 **Invisibility.** You become Invisible until you attack or cast a spell.
 
 **Restore.** A creature you can see within range (or yourself) regains XdY missing Hit Points where X is your Willpower Modifier and Y is the largest even number that is equal to or lower than your Willpower Value.
+
+**Telekinesis.** You manipulate a large or smaller creature or object you can see within range. You can pose it, utilize it, topple it over, or move it to a place within range. The object or creature moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons; make an attack against the creature or object. On a hit, both the manipulated creature or object and the target take 1dY Blunt damage per square or hexagon, where Y is 4 for a small creature or object, 8 for a medium creature or object, and 12 for a large creature or object. Unless you drop the creature or object, you maintain control over it for 1 minute.
 
 **Transform.** You transform into another creature the same size as you and with the same arrangement of limbs that you have. You decide what you look and sound like, though none of your game statistics change. Your clothing and equipment are not affected. Until your next Rest, you can transform again as an Action. The spell ends if you transform back to your true form.
 
