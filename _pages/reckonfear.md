@@ -224,7 +224,7 @@ The following is a list of Jinxes.
 
 **Fire Play.** As a Sleight, you light or snuff out a flame within range, such as that of a candle or a gaslamp. You can also extinguish a flame on a Burning creature within range. Alternatively, you can produce a flame in one or both hands. While you hold a flame, unarmed Brawn attacks you make with it deal an additional 1d4 Fire damage and cause the target to start Burning.
 
-**Flicker.** You become Invisible until the end of your turn while an idle, illusory image of you appears in your space. When you become visible again, the illusion disappears and it will appear as if you had translocated to your current position.
+**Flicker.** You become Invisible as an idle, illusory image of you appears in your space. You remain Invisible until the start of your next turn or until someone touches your illusion. When you become visible again, the illusion disappears and it will seem as if you had translocated to your current position.
 
 **Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by twice your Willpower Modifier to a maximum of 12.
 
