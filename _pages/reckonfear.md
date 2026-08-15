@@ -214,11 +214,11 @@ If you have competence in Magic, you know a number of spells equal to your Knowl
 # Jinxes
 The following is a list of Jinxes.
 
-**Fire Play.** As a Sleight, you light or snuff out a small flame within range, such as that of a candle or a gaslamp. Alternatively, you can produce a flame in one or both hands. While you hold a flame, Brawn attacks you make with it deal an additional 1d4 Fire damage.
+**Fire Play.** As a Sleight, you light or snuff out a small flame within range, such as that of a candle or a gaslamp. Alternatively, you can produce a flame in one or both hands. While you hold a flame, unarmed Brawn attacks you make with it deal an additional 1d4 Fire damage.
 
-**Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by 2 to a maximum of 12.
+**Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by 4 to a maximum of 12.
 
-**Minor Telekinesis.** As a Sleight, you manipulate a small object. You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage. Alternatively, as an action if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
+**Minor Telekinesis.** As a Sleight, you manipulate a small object. You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage. Alternatively, as an Action if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
 
 **Stumble.** As a Sleight, you cause a creature you can see within range to stumble as it walks or runs, halving its movement Speed until the end of its next turn (rounded down).
 
