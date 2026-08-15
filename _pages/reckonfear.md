@@ -226,9 +226,11 @@ The following is a list of Jinxes.
 
 **Flicker.** You become Invisible until the end of your turn while an idle, illusory image of you appears in your space. When you become visible again, the illusion disappears and it will appear as if you had translocated to your current position.
 
-**Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by 4 to a maximum of 12.
+**Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by twice your Willpower Modifier to a maximum of 12.
 
-**Minor Telekinesis.** As a Sleight, you manipulate a small object (such as a paperweight) or mechanism (such as an unlocked door handle). You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons; make an attack against the creature or object. On a hit, it takes 1d4 Blunt damage per square or hexagon. Alternatively, as an Action, if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
+**Lesser Conjuration.** As a Sleight, you create a small inanimate object in your hand, such as a pen or a dagger. It looks completely ordinary, has no monetary value, and disappears after 1 minute or if you let go of it.
+
+**Minor Telekinesis.** As a Sleight, you manipulate a small object (such as a paperweight) or mechanism (such as an unlocked door handle). You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons as an Action; make an attack against the creature or object. On a hit, it takes 1d4 Blunt damage per square or hexagon. Alternatively, as an Action, if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
 
 **Stumble.** As a Sleight, you cause a creature you can see within range to stumble as it walks or runs, halving its movement Speed until the end of its next turn (rounded down).
 
