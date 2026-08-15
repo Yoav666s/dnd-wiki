@@ -224,14 +224,14 @@ The following is a list of Jinxes.
 
 **Whisper.** As a Sleight, you whisper a short message that a creature you can see within range hears in its mind. You must be able to whisper the message in 10 seconds or less.
 
-**.**
-
 # Incantations
 The following is a list of Incantations. You can't cast the same Incantation two turns in a row.
 
 **Arcane Missile.** Make an attack against a creature you can see within range. On a hit, that creature takes Xd4 Physical damage where X is your Willpower Modifier.
 
 **Befuddle.** A creature you can see within range is confused, and spends its next action doing nothing.
+
+**Exhaust.** A creature you can see within range loses a number of Stamina Points equal to your Willpower Modifier.
 
 **Fire Bolt.** Make an attack against a creature you can see within range. On a hit, that creature takes 2d6 Fire damage.
 
