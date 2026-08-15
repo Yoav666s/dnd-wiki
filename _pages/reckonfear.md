@@ -222,7 +222,7 @@ The following is a list of Jinxes.
 
 **Fire Play.** As a Sleight, you light or snuff out a flame within range, such as that of a candle or a gaslamp. You can also extinguish a flame on a Burning creature within range. Alternatively, you can produce a flame in one or both hands. While you hold a flame, unarmed Brawn attacks you make with it deal an additional 1d4 Fire damage and cause the target to start Burning.
 
-**Flicker.** You become invisible until the end of your turn.
+**Flicker.** You become Invisible until the end of your turn while an idle, illusory image of you appears in your space. When you become visible again, the illusion disappears and it will appear as if you had translocated to your current position.
 
 **Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by 4 to a maximum of 12.
 
@@ -256,7 +256,7 @@ The following is a list of Invocations. After you cast an Invocation, you must s
 
 **Fireball.** Make an attack against a creature you can see within range. On a hit, it takes Fire damage equal to your Willpower Value plus 5d6 and starts Burning. On a miss, it takes half damage only.
 
-**Invisibility.** You become invisible until you attack or cast a spell.
+**Invisibility.** You become Invisible until you attack or cast a spell.
 
 **Restore.** A creature you can see within range (or yourself) regains XdY missing Hit Points where X is your Willpower Modifier and Y is the largest even number that is equal to or lower than your Willpower Value.
 
