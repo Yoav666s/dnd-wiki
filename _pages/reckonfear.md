@@ -277,6 +277,8 @@ The following is a list of Sorceries. After you cast a Sorcery, you must succeed
 
 **Heal.** A number of creatures equal to your Intuition Value that you can see within range regain missing Hit Points until they're back to full. You can also target yourself.
 
+**Greater Invisibility.** As a Sleight, you become Invisible until you attack or cast a spell. Until you finish a Rest, you can use a Sleight to regain this invisibility.
+
 **Mind Control.** A creature you can see within range bends to your will and obeys your mental commands until it finishes a Rest. It repeats the Willpower check whenever it takes damage, ending the effect on a success.
 
 **Translocation.** You and a number of willing creatures equal to up to your Intuition Value that you can see within range translocate to a place you've been to before.
