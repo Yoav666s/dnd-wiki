@@ -325,5 +325,5 @@ The following is a list of weapon categories.
 | Light Blade | AGI mod + 1d6 | Gash or Puncture | Precision, Small, Concealable | Dagger, stiletto |
 | Light Blunt | STR mod + 1d8 | Blunt | Brawn, small | Carpenter's hammer, police baton |
 | Medium Blade | AGI mod + 1d8 | Gash or Puncture | Precision | Rapier, short sword. |
-| Medium Blunt | STR mod + 1d10 | Blunt | Brawn | Light hammer, mace |
+| Medium Blunt | STR mod + 1d10 | Blunt | Brawn | War hammer, mace |
 | Heavy Weapon | STR mod + 1d12 | Blunt, Gash, or Puncture | Brawn, Reach, Two-Handed | Great sword, maul |
