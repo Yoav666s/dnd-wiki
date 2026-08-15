@@ -31,6 +31,7 @@ Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll
 **Overshooting.** You might roll a 2 on the d20 and a 4 on the Difficulty Die, resulting in --2. This is where the d12 and d10 become valuable. Normally you wouldn't want to risk rolling a 10 or higher, but in this case it will give you a fighting chance. Otherwise, a negative result or a result that's higher than 20 is a standard critical failure.
 
 # Building a Character
+A step-by-step guide to building a Level 1 character.
 
 ## Character Attributes
 Every character has 8 attributes, the values of which range from 2 to 12.
@@ -380,3 +381,6 @@ Shields are an uncommon sight in the Reckonfear universe, but they are highly ef
 **Maximum Increase.** A shield cannot increase your DR or DTs to be higher than 12.
 
 **Reloading with a Buckler.** You can reload a weapon with the Reload Property while holding a Buckler.
+
+# Character Progression
+In Reckonfear, characters progress through Milestones Leveling. When a character levels up the player can choose between gaining 4 points to distribute to their attributes (according to Point Buy rules), or gain 2 points and Competence in a new skill.
