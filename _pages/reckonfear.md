@@ -313,6 +313,8 @@ The following is a list of conditions that a creature may acquire.
 
 **Collapsed.** The creature is Prone, can't use its movement to stand up, and it can't use Magic.
 
+**Dying.** The creature is Collapsed, can't take Actions or Sleights, can barely speak, and its speed is 0.
+
 **Hidden.** The creature is Unseen. DTs of attacks and Stealth checks are reduced by 4 instead of 2 (to a minimum of 2). DR is increased by 4 instead of 2 (to a maximum of 12).
 
 **Invisible.** The creature is Unseen. DTs of attacks and Stealth checks are reduced by 6 instead of 2 (to a minimum of 2). DR is increased by 6 instead of 2 (to a maximum of 12).
@@ -384,3 +386,6 @@ Shields are an uncommon sight in the Reckonfear universe, but they are highly ef
 
 # Character Progression
 In Reckonfear, characters progress through Milestones Leveling. When a character levels up the player can choose between gaining 4 points to distribute to their attributes (according to Point Buy rules), or gain 2 points and Competence in a new skill.
+
+# Death
+When you have 0 Hit Points and at least 1 Stamina Point, you are Dying, hanging onto life by a thread. At the start of each of your turns, you make a flat d20 Reckoning check---no DT and no Competence Die. After three successes, you are no longer Dying. After a failure, you lose 1 Stamina Point. A critical success counts as two successes. A critical failure causes you to lose 2 Stamina Points. A success with a cost counts towards your successes, but you still lose 1 Stamina Point. Whenever you take damage while you're at 0 hit points, you lose 1 Stamina Point. If you run out of Stamina Points while you're at 0 Hit Points, you die.
