@@ -220,6 +220,8 @@ The following is a list of Jinxes.
 
 **Barrier.** As a Sleight, you create a barrier of arcane energy to protect a creature you can see within range (or yourself). The creature's DR is increased by 3 (to a maximum of 12) until the end of its next turn.
 
+**Snatch.** You translocate a small object within range that isn't being worn or carried by another creature to one of your free hands. You must be able to see the item or know where it is.
+
 **Fire Play.** As a Sleight, you light or snuff out a flame within range, such as that of a candle or a gaslamp. You can also extinguish a flame on a Burning creature within range. Alternatively, you can produce a flame in one or both hands. While you hold a flame, unarmed Brawn attacks you make with it deal an additional 1d4 Fire damage and cause the target to start Burning.
 
 **Flicker.** You become Invisible until the end of your turn while an idle, illusory image of you appears in your space. When you become visible again, the illusion disappears and it will appear as if you had translocated to your current position.
