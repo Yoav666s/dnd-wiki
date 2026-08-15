@@ -141,14 +141,14 @@ In Reckonfear, you can take a Rest or a Break.
 **Break.** A Break is 30 in-game minutes of doing nothing but light activity. At the end of a break, you can roll a die of a size equal or lower to your Resilience Value and regain that many missing Hit Points. You also regain 1 missing Stamina Point. You can benefit from a number of Breaks equal to your Resilience Modifier between Rests.
 
 # Combat
-In combat, you have one action and your movement. You can speak freely on your turn, but say no more than you could say in 10 seconds.
+In combat, you have an Action, a Sleight, and your movement. You can speak freely on your turn, but say no more than you could say in 10 seconds.
 
 ## Actions
-There is a number of actions you can take, detailed below.
+There is a number of Actions you can take, detailed below.
 
 **Attack.** Make a one or more physical attacks against an opponent.
 
-**Magic.** Cast a spell.
+**Magic.** Cast a spell that requires an action.
 
 **Reload.** Reload a firearm or a crossbow.
 
@@ -157,6 +157,13 @@ There is a number of actions you can take, detailed below.
 **Trip.** In place of 1 physical attack, you can attempt to trip a creature of your size or smaller within your reach. Make a Brawn check with difficulty based on its DR.
 
 **Improvise.** Take an action that is not listed here, at the Arbiter's discretion.
+
+## Sleights
+There is a number of things you can do that don't count as a full action, detailed below. You can only use one Sleight in a given turn.
+
+**Magic.** Cast a spell that can be cast as a sleight.
+
+**Use.** Use an object, like opening a door or drinking a potion.
 
 ## Initiative
 The turn order in combat is determined by rolling initiative. To roll initiative, you can choose any die with a number of faces equal to or lower than your Courage Value (if you decide to roll at all). The number rolled is where you are on initiative order: whoever rolled highest goes first, and whoever rolled lowest (or didn't roll at all) goes last.
@@ -183,7 +190,7 @@ There are 4 levels of spells. In order to cast them, you need competence in Magi
 ## Adversarial Effects
 When you cast a spell with a negative effect on an unwilling (or unknowing) creature, that creature must succeed a Magic check to resist the effect. It can roll a Competence Die only if it is competent with the Magic skill.
 
-The exception to this is is spells which explicitly state that you make an attack. In that case, you make a Magic check with difficulty based on the opponent's DR.
+The exception to this is spells which explicitly state that you make an attack. In that case, you make a Magic check with difficulty based on the opponent's DR.
 
 ## Covert Casting
 Casting spells is a rather obvious ordeal, but you can attempt to cast a spell covertly. This will require a Covertness check with difficulty based on the spell level.
@@ -198,18 +205,21 @@ Casting spells is a rather obvious ordeal, but you can attempt to cast a spell c
 ## Spell Range
 The range of your spells equals to your Intuition modifier plus 3.
 
+## Casting Spells
+Unless stated otherwise, the casting time of a spell is 1 Action. Since casting a spell requires both verbal and somatic components, you can only cast one spell per turn. When you cast a spell on your turn, you can't speak, as you're already performing verbal components.
+
 # Jinxes
 The following is a list of Jinxes.
 
-**Fire Play.** You light or snuff out a small flame within range, such as that of a candle or a gaslamp.
+**Fire Play.** As a Sleight, you light or snuff out a small flame within range, such as that of a candle or a gaslamp.
 
-**Fumble.** You increase the DT of the next check a creature you can see within range makes in the next minute by 2 to a maximum of 12.
+**Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by 2 to a maximum of 12.
 
-**Stumble.** You cause a creature you can see within range to stumble as it walks or runs, halving its movement speed until the end of its next turn (rounded down).
+**Stumble.** As a Sleight, you cause a creature you can see within range to stumble as it walks or runs, halving its movement Speed until the end of its next turn (rounded down).
 
 # Incantations
 The following is a list of Incantations. You can't cast the same Incantation two turns in a row.
 
 **Befuddle.** A creature you can see within range is confused, and spends its next action doing nothing.
 
-**Arcane Missile.** Make an attack against a creature you can see within range. On a hit, that creature takes damage equal to a number of d4s equal to your Willpower Modifier.
+**Arcane Missile.** Make an attack against a creature you can see within range. On a hit, that creature takes Xd4 damage where X is your Willpower Modifier.
