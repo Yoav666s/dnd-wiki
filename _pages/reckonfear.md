@@ -171,7 +171,7 @@ There is a number of things you can do that don't count as a full action, detail
 
 **Magic.** Cast a spell that can be cast as a Sleight.
 
-**Offhand Attack.** If you took the Attack action and made at least one weapon attack, you can make one offhand attack with a different weapon you're holding as a Sleight.
+**Offhand Attack.** If you took the Attack action and made at least one attack with a Light weapon, you can make one offhand attack with a different Light weapon you're holding as a Sleight.
 
 **Use.** Use an object, like opening a door or drinking a potion.
 
@@ -328,16 +328,26 @@ The following is a list of weapon categories. You can choose any weapon that fit
 
 | Category | Damage | Damage Type | Properties | Examples |
 |  :---: | :---: | :---: | :---: | :---: |
-| Tiny Blade | AGI mod + 1d4 | Gash or Puncture | Concealable, Precision, Small | Dagger, stiletto |
-| Tiny Firearm | AGI mod + 1d10 | Puncture | Concealable, Precision, Reload, Small | Derringer, pocket pistol |
-| Light Blade | AGI mod + 1d6 | Gash or Puncture | Precision | Rapier, short sword. |
-| Light Blunt Weapon | STR mod + 1d8 | Blunt | Brawn, small | Carpenter's hammer, police baton |
+| Hand Crossbow | AGI mod + 1d6 | Puncture | Light, Precision, Reload | Hunting crossbow |
+| Tiny Blade | AGI mod + 1d4 | Gash or Puncture | Concealable, Light, Precision, Small | Dagger, stiletto |
+| Tiny Firearm | AGI mod + 1d10 | Puncture | Concealable, Light, Precision, Reload, Small | Derringer, pocket pistol |
+| Light Blade | AGI mod + 1d6 | Gash or Puncture | Light, Precision | Rapier, short sword. |
+| Light Blunt Weapon | STR mod + 1d8 | Blunt | Brawn, Light, Small | Hammer, police baton |
 | Light Crossbow | AGI mod + 1d8 | Puncture | Precision, Reload | Hunting crossbow |
 | Light Firearm | AGI mod + 2d10 | Puncture | Precision, Reload | Flintlock pistol |
 | Medium Weapon | STR mod + 1d10 | Blunt, Gash, or Puncture | Brawn | Long sword, mace |
 | Heavy Crossbow | AGI mod + 1d12 | Puncture | Precision, Reload, Two-Handed | Military crossbow |
 | Heavy Firearm | AGI mod + 3d10 | Puncture | Precision, Reload, Two-Handed | Hunting rifle, musket |
 | Heavy Weapon | STR mod + 1d12 | Blunt, Gash, or Puncture | Brawn, Reach, Two-Handed | Great sword, maul |
+
+### Properties
+The following is a list of the different weapon Properties and what they mean.
+
+**Concealable.** The weapon can be easily concealed on your person, and while holding it, you can make a Covertness check to prevent others from seeing it.
+
+**Light.** The weapon can be comfortably wielded in one hand while keeping the other hand free to wield another Light weapon.
+
+****
 
 ## Armor
 Most people in the Reckonfear universe don't wear armor in their daily life. However, every now and then you might see a Regulator in his leathers or a cavalry unit with heavy breastplates.
