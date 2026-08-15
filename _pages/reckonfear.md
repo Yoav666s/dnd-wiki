@@ -215,7 +215,7 @@ Unless stated otherwise, the casting time of a spell is 1 Action. Since casting 
 ## Known Spells
 If you have competence in Magic, you know a number of spells equal to your Knowledge Modifier. If you have competence in the Recall skill, you know a number of spells equal to your Knowledge Value, instead. You can't learn a spell if its level requirement is higher than your Willpower Modifier. If your Willpower Modifier is 0, or if your Knowledge Value is 2 and you're not competent in the Recall skill, you can't learn any spells!
 
-# Jinxes
+## Jinxes
 The following is a list of Jinxes.
 
 **Barrier.** As a Sleight, you create a barrier of arcane energy to protect a creature you can see within range (or yourself). The creature's DR is increased by 3 (to a maximum of 12) until the end of its next turn.
@@ -236,7 +236,7 @@ The following is a list of Jinxes.
 
 **Whisper.** As a Sleight, you whisper a short message that a creature you can see within range hears in its mind. You must be able to whisper the message in 10 seconds or less.
 
-# Incantations
+## Incantations
 The following is a list of Incantations. You can't cast the same Incantation two turns in a row.
 
 **Arcane Missile.** Make an attack against a creature you can see within range. On a hit, that creature takes Xd4 Physical damage where X is your Willpower Modifier.
@@ -255,8 +255,8 @@ The following is a list of Incantations. You can't cast the same Incantation two
 
 **Windstride.** As a Sleight, you cause the wind to boost you as you run. Your current speed is doubled until the end of your turn.
 
-# Invocations
-The following is a list of Invocations. After you cast an Invocation, you must succeed an Endurance check with Inverse Difficulty based on your Resilience or lose a Stamina Point. Success with a Cost counts as a Failure.
+## Invocations
+The following is a list of Invocations. After you cast an Invocation, you must succeed an Endurance check with Inverse Difficulty based on your Resilience or lose a Stamina Point. A Success with a Cost counts as a Failure. You can't cast the same Invocation two turns in a row.
 
 **Fireball.** Make an attack against a creature you can see within range. On a hit, it takes Fire damage equal to your Willpower Value plus 5d6 and starts Burning. On a miss, it takes half damage only.
 
@@ -265,6 +265,11 @@ The following is a list of Invocations. After you cast an Invocation, you must s
 **Restore.** A creature you can see within range (or yourself) regains XdY missing Hit Points where X is your Willpower Modifier and Y is the largest even number that is equal to or lower than your Willpower Value.
 
 **Shapeshift.** You transform into another creature the same size as you and with the same arrangement of limbs that you have. None of your game statistics change. Your clothing and equipment are not affected. Until your next Rest, you can transform again as an Action. The spell ends if you transform back to your true form.
+
+## Sorceries
+The following is a list of Sorceries. After you cast a Sorcery, you must succeed an Endurance check with Inverse Difficulty based on your Resilience or lose a Stamina Point. A Success with a Cost counts as a Failure. Once you cast a Sorcery, you can't do it again until you finish a Rest.
+
+**Mind Control.** A creature you can see within range bends to your will and obeys your mental commands until it finishes a Rest. It repeats the Willpower check whenever it takes damage, ending the effect on a success.
 
 # Conditions
 The following is a list of conditions that a creature may acquire.
