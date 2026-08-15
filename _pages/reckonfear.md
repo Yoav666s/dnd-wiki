@@ -345,3 +345,16 @@ Most people in the Reckonfear universe don't wear armor in their daily life. How
 | Heavy Armor | 4 | 6 Agility, 8 Strength, 8 Resilience | +4 DT for Endurance and Stealth checks | Plate |
 
 **Maximum Increase.** A piece of armor cannot increase your DR or DTs to be higher than 12.
+
+## Shields
+Shields are an uncommon sight in the Reckonfear universe, but they are highly effective.
+
+| Category | DR Bonus | Requirements | Penalties | Examples |
+| :---: | :---: | :---: | :---: | :---: |
+| Small Shield | 1 | Competence in Precision | - | Buckler |
+| Light Shield | 2 | 8 Resilience | +2 DT for Endurance checks | Wooden shield |
+| Heavy Shield | 3 | 8 Strength, 8 Resilience | +4 DT for Endurance checks | Kite shield |
+
+**Maximum Increase.** A shield cannot increase your DR or DTs to be higher than 12.
+
+**Hand Occupation.** A shield requires a free hand to grasp it, meaning you can't hold a Two-Handed weapon and use a shield simultaneously.
