@@ -323,6 +323,7 @@ The following is a list of weapon categories.
 | Category | Damage | Damage Type | Properties | Examples |
 |  :---: | :---: | :---: | :---: | :---: |
 | Light Blade | AGI mod + 1d6 | Gash or Puncture | Precision, Small, Concealable | Dagger, stiletto |
-| Light Blunt | STR mod + 1d8 | Blunt | Brawn | Carpenter's hammer, police baton |
+| Light Blunt | STR mod + 1d8 | Blunt | Brawn, small | Carpenter's hammer, police baton |
 | Medium Blade | AGI mod + 1d8 | Gash or Puncture | Precision | Rapier, short sword. |
 | Medium Blunt | STR mod + 1d10 | Blunt | Brawn | Light hammer, mace |
+| Heavy Weapon | STR mod + 1d12 | Blunt, Gash, or Puncture | Brawn, Two-Handed | Great sword, maul |
