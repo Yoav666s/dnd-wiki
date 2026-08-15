@@ -220,7 +220,7 @@ The following is a list of Jinxes.
 
 **Barrier.** As a Sleight, you create a barrier of arcane energy to protect a creature you can see within range (or yourself). The creature's DR is increased by 3 (to a maximum of 12) until the end of its next turn.
 
-**Snatch.** You translocate a small object within range that isn't being worn or carried by another creature to one of your free hands. You must be able to see the item or know where it is.
+**Snatch.** As a Sleight, you translocate a small object within range that isn't being worn or carried by another creature to one of your free hands. You must be able to see the item or know where it is.
 
 **Fire Play.** As a Sleight, you light or snuff out a flame within range, such as that of a candle or a gaslamp. You can also extinguish a flame on a Burning creature within range. Alternatively, you can produce a flame in one or both hands. While you hold a flame, unarmed Brawn attacks you make with it deal an additional 1d4 Fire damage and cause the target to start Burning.
 
@@ -228,7 +228,7 @@ The following is a list of Jinxes.
 
 **Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by 4 to a maximum of 12.
 
-**Minor Telekinesis.** As a Sleight, you manipulate a small object. You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons; make an attack against the creature or object. On a hit, it takes 1d4 Blunt damage per square or hexagon. Alternatively, as an Action if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
+**Minor Telekinesis.** As a Sleight, you manipulate a small object (such as a paperweight) or mechanism (such as an unlocked door handle). You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons; make an attack against the creature or object. On a hit, it takes 1d4 Blunt damage per square or hexagon. Alternatively, as an Action, if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
 
 **Stumble.** As a Sleight, you cause a creature you can see within range to stumble as it walks or runs, halving its movement Speed until the end of its next turn (rounded down).
 
