@@ -258,6 +258,8 @@ The following is a list of Incantations. You can't cast the same Incantation two
 ## Invocations
 The following is a list of Invocations. After you cast an Invocation, you must succeed an Endurance check with Inverse Difficulty based on your Resilience or lose a Stamina Point. A Success with a Cost counts as a Failure. You can't cast the same Invocation two turns in a row.
 
+**Conjuration.** You create a large or smaller inanimate object in an unoccupied space you can see within range. It looks completely ordinary, has no monetary value, and disappears after you finish a Rest or cast this spell again. Alternatively, you can conjure a weapon in your hands as a Sleight.
+
 **Fireball.** Make an attack against a creature you can see within range. On a hit, it takes Fire damage equal to your Willpower Value plus 5d6 and starts Burning. On a miss, it takes half damage only.
 
 **Invisibility.** You become Invisible until you attack or cast a spell.
