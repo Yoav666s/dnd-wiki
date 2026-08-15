@@ -236,7 +236,7 @@ If you have competence in Magic, you know a number of spells equal to your Knowl
 ## Jinxes
 The following is a list of Jinxes.
 
-**Barrier.** As a Sleight, you create a barrier of arcane energy to protect a creature you can see within range (or yourself). The creature's DR is increased by 3 (to a maximum of 12) until the end of its next turn.
+**Barrier.** As a Sleight, you create a barrier of arcane energy to protect a creature you can see within range (or yourself). The creature's DR is increased by your Willpower Modifier (to a maximum of 12) until the end of its next turn.
 
 **Snatch.** As a Sleight, you translocate a small object within range that isn't being worn or carried by another creature to one of your free hands. You must be able to see the item or know where it is.
 
