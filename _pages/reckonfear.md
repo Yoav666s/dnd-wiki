@@ -275,6 +275,8 @@ The following is a list of Invocations. After you cast an Invocation, you must s
 ## Sorceries
 The following is a list of Sorceries. After you cast a Sorcery, you must succeed an Endurance check with Inverse Difficulty based on your Resilience or lose a Stamina Point. A Success with a Cost counts as a Failure. Once you cast a Sorcery, you can't do it again until you finish a Rest.
 
+**Heal.** A number of creatures equal to your Intuition Value that you can see within range regain missing Hit Points until they're back to full. You can also target yourself.
+
 **Mind Control.** A creature you can see within range bends to your will and obeys your mental commands until it finishes a Rest. It repeats the Willpower check whenever it takes damage, ending the effect on a success.
 
 **Translocation.** You and a number of willing creatures equal to up to your Intuition Value that you can see within range translocate to a place you've been to before.
