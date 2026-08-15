@@ -209,7 +209,7 @@ The range of your spells equals to your Intuition modifier plus 3.
 Unless stated otherwise, the casting time of a spell is 1 Action. Since casting a spell requires both verbal and somatic components, you can only cast one spell per turn. When you cast a spell on your turn, you can't speak, as you're already performing verbal components.
 
 ## Known Spells
-If you have competence in Magic, you know a number of spells equal to your Knowledge Modifier. If you have competence in the Recall skill, you know a number of spells equal to your Knowledge Value, instead. You can't learn a spell if its level requirement is higher than your Willpower Modifier. If your Willpower Modifier is 0, you can't learn any spells!
+If you have competence in Magic, you know a number of spells equal to your Knowledge Modifier. If you have competence in the Recall skill, you know a number of spells equal to your Knowledge Value, instead. You can't learn a spell if its level requirement is higher than your Willpower Modifier. If your Willpower Modifier is 0, or if your Knowledge Value is 2 and you're not competent in the Recall skill, you can't learn any spells!
 
 # Jinxes
 The following is a list of Jinxes.
