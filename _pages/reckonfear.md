@@ -242,7 +242,7 @@ The following is a list of Jinxes.
 
 **Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by twice your Willpower Modifier to a maximum of 12.
 
-**Lesser Conjuration.** As a Sleight, you create a small inanimate object in your hand, such as a pen or a dagger. It looks completely ordinary, has no monetary value, and disappears after 1 minute or if you let go of it.
+**Lesser Conjuration.** As a Sleight, you create a small inanimate object in your hand, such as a pen, a dagger, or a derringer. It looks and functions like a completely ordinary object, has no monetary value, and disappears after 1 minute or if you let go of it.
 
 **Minor Telekinesis.** As a Sleight, you manipulate a small object (such as a paperweight) or mechanism (such as an unlocked door handle). You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons as an Action; make an attack against the creature or object. On a hit, both the manipulated object and the target take 1d4 Blunt damage per square or hexagon. Alternatively, as an Action, if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
 
@@ -322,8 +322,10 @@ The following is a list of weapon categories. You can choose any weapon that fit
 
 | Category | Damage | Damage Type | Properties | Examples |
 |  :---: | :---: | :---: | :---: | :---: |
-| Light Blade | AGI mod + 1d6 | Gash or Puncture | Precision, Small, Concealable | Dagger, stiletto |
-| Light Blunt | STR mod + 1d8 | Blunt | Brawn, small | Carpenter's hammer, police baton |
+| Tiny Firearm | AGI mod + 1d10 | Puncture | Concealable, Precision, Reload, Small | Derringer, pocket pistol |
+| Light Blade | AGI mod + 1d6 | Gash or Puncture | Concealable, Precision, Small | Dagger, stiletto |
+| Light Blunt Weapon | STR mod + 1d8 | Blunt | Brawn, small | Carpenter's hammer, police baton |
+| Light Firearm | AGI mod + 2d10 | Puncture | Precision, Reload | Flintlock pistol |
 | Medium Blade | AGI mod + 1d8 | Gash or Puncture | Precision | Rapier, short sword. |
-| Medium Blunt | STR mod + 1d10 | Blunt | Brawn | War hammer, mace |
+| Medium Blunt Weapon | STR mod + 1d10 | Blunt | Brawn | War hammer, mace |
 | Heavy Weapon | STR mod + 1d12 | Blunt, Gash, or Puncture | Brawn, Reach, Two-Handed | Great sword, maul |
