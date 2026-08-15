@@ -218,11 +218,13 @@ The following is a list of Jinxes.
 
 **Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by 4 to a maximum of 12.
 
-**Minor Telekinesis.** As a Sleight, you manipulate a small object. You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage. Alternatively, as an Action if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
+**Minor Telekinesis.** As a Sleight, you manipulate a small object. You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons; make an attack against the creature or object. On a hit, it takes 1d4 Blunt damage per square or hexagon. Alternatively, as an Action if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
 
 **Stumble.** As a Sleight, you cause a creature you can see within range to stumble as it walks or runs, halving its movement Speed until the end of its next turn (rounded down).
 
 **Whisper.** As a Sleight, you whisper a short message that a creature you can see within range hears in its mind. You must be able to whisper the message in 10 seconds or less.
+
+**.**
 
 # Incantations
 The following is a list of Incantations. You can't cast the same Incantation two turns in a row.
