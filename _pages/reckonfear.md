@@ -320,8 +320,8 @@ There's equipment in the game!
 ## Weapons
 The following is a list of weapons.
 
-| Name | Skill | Damage | Damage Type | Properties | Object Size |
-|  :---: | :---: | :---: | :---: | :---: | :---: |
-| Dagger | Precision | AGI mod + 1d6 | Gash or Puncture |  |  |
-| Rapier | Precision | AGI mod + 1d12 | Puncture |  |  |
-| Short Sword | Precision | AGI mod + 1d8 | Gash or Puncture |  |  |
+| Name | Damage | Damage Type | Properties |
+|  :---: | :---: | :---: | :---: |
+| Dagger | AGI mod + 1d6 | Gash or Puncture | Precision, Small |
+| Rapier | AGI mod + 1d12 | Puncture | Precision |
+| Short Sword | AGI mod + 1d8 | Gash or Puncture | Precision |
