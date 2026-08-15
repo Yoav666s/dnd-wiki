@@ -214,7 +214,7 @@ If you have competence in Magic, you know a number of spells equal to your Knowl
 # Jinxes
 The following is a list of Jinxes.
 
-**Fire Play.** As a Sleight, you light or snuff out a small flame within range, such as that of a candle or a gaslamp. Alternatively, you can produce a flame in one or both hands. While you hold a flame, unarmed Brawn attacks you make with it deal an additional 1d4 Fire damage.
+**Fire Play.** As a Sleight, you light or snuff out a flame within range, such as that of a candle or a gaslamp. You can also extinguish a flame on a Burning creature within range. Alternatively, you can produce a flame in one or both hands. While you hold a flame, unarmed Brawn attacks you make with it deal an additional 1d4 Fire damage and cause the target to start Burning.
 
 **Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by 4 to a maximum of 12.
 
@@ -233,10 +233,26 @@ The following is a list of Incantations. You can't cast the same Incantation two
 
 **Exhaust.** A creature you can see within range loses a number of Stamina Points equal to your Willpower Modifier.
 
-**Fire Bolt.** Make an attack against a creature you can see within range. On a hit, that creature takes 2d6 Fire damage.
+**Fire Bolt.** Make an attack against a creature you can see within range. On a hit, that creature takes 2d6 Fire damage and starts Burning.
 
 **Frostbite.** A layer of frost forms around a creature you can see within range. The target takes 1d6 Frost damage and the DT of every attack it makes is increased by 2 until the end of its next turn.
 
 **Propel.** You propel a small object within range to hit a target. Make an attack against a creature or object you can see within range. On a hit, both the target and the propelled object take 1d12 + your Willpower Modifier Blunt damage.
 
 **Windstride.** As a Sleight, you cause the wind to boost you as you run. Your current speed is doubled until the end of your turn.
+
+# Invocations
+The following is a list of Invocations. After you cast an Invocation, you must succeed a DT 8 Endurance check or lose a Stamina Point. Success with a Cost counts as a Failure.
+
+**Fireball.** Make an attack against a creature you can see within range. On a hit, it takes Fire damage equal to your Willpower Value plus 5d6 and starts Burning. On a miss, it takes half damage only.
+
+**Invisibility.** You become invisible until you attack or cast a spell.
+
+# Conditions
+The following is a list of conditions that a creature may acquire.
+
+**Burning.** The creature takes 1d4 Fire damage on the start of its turn until it takes an action to roll on the ground and douse the flames, gaining the Prone condition.
+
+**Collapsed.** The creature is Prone, can't use its movement to stand up, and it can't use Magic.
+
+**Prone.** The creature is lying on the ground, can't make physical attacks, and its DR is halved (rounded down). To get up, it can expend 3 movement squares or hexagons. A Prone creature can crawl at half speed (rounded down).
