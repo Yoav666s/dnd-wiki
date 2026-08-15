@@ -341,9 +341,9 @@ The following is a list of weapon categories. You can choose any weapon that fit
 | Light Crossbow | AGI mod + 1d8 | Puncture | Precision, Reload | Hunting crossbow |
 | Light Firearm | AGI mod + 2d10 | Puncture | Precision, Reload | Flintlock pistol |
 | Medium Weapon | STR mod + 1d10 | Blunt, Gash, or Puncture | Brawn | Long sword, mace |
-| Heavy Crossbow | AGI mod + 1d12 | Puncture | Precision, Reload, Two-Handed | Military crossbow |
-| Heavy Firearm | AGI mod + 3d10 | Puncture | Precision, Reload, Two-Handed | Hunting rifle, musket |
-| Heavy Weapon | STR mod + 1d12 | Blunt, Gash, or Puncture | Brawn, Reach, Two-Handed | Great sword, maul |
+| Heavy Crossbow | AGI mod + 1d12 | Puncture | Heavy, Precision, Reload, Two-Handed | Military crossbow |
+| Heavy Firearm | AGI mod + 3d10 | Puncture | Heavy, Precision, Reload, Two-Handed | Hunting rifle, musket |
+| Heavy Weapon | STR mod + 1d12 | Blunt, Gash, or Puncture | Brawn, Heavy, Reach, Two-Handed | Great sword, maul |
 
 ### Properties
 The following is a list of the different weapon Properties and what they mean.
@@ -351,6 +351,8 @@ The following is a list of the different weapon Properties and what they mean.
 **Brawn.** The weapon uses the Brawn skill and relies on the Strength Attribute.
 
 **Concealable.** The weapon can be easily concealed on your person, and while holding it, you can make a Covertness check to prevent others from seeing it.
+
+**Heavy.** The weapon requires a Strength Value of 8 or higher to wield.
 
 **Light.** The weapon can be comfortably wielded in one hand while keeping the other hand free to wield another Light weapon.
 
