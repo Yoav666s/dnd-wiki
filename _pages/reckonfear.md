@@ -318,7 +318,7 @@ The following is a list of conditions that a creature may acquire.
 There's equipment in the game!
 
 ## Weapons
-The following is a list of weapon categories.
+The following is a list of weapon categories. You can choose any weapon that fits your setting and assign it to a befitting category in order to decide how it performs in battle.
 
 | Category | Damage | Damage Type | Properties | Examples |
 |  :---: | :---: | :---: | :---: | :---: |
