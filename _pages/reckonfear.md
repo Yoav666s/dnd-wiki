@@ -236,6 +236,8 @@ The following is a list of Jinxes.
 
 **Whisper.** As a Sleight, you whisper a short message that a creature you can see within range hears in its mind. You must be able to whisper the message in 10 seconds or less.
 
+**Puff of Smoke.** You create a puff of smoke that fills a sphere centered on you with a radius equal to your Spell Range. The smoke disperses at the start of your next turn. Every creature (including you) that enters the area or starts its turn there must succeed an Awareness check or become Blinded until the smoke is gone or it exists the area.
+
 ## Incantations
 The following is a list of Incantations. You can't cast the same Incantation two turns in a row.
 
@@ -275,17 +277,21 @@ The following is a list of Sorceries. After you cast a Sorcery, you must succeed
 
 **Mind Control.** A creature you can see within range bends to your will and obeys your mental commands until it finishes a Rest. It repeats the Willpower check whenever it takes damage, ending the effect on a success.
 
+**Translocation.** You and a number of willing creatures equal to up to your Intuition Value that you can see within range translocate to a place you've been to before.
+
 # Conditions
 The following is a list of conditions that a creature may acquire.
+
+**Blinded.** The creature can't see anything. It treats other creatures as if they were Invisible.
 
 **Burning.** The creature takes 1d4 Fire damage on the start of its turn until it takes an action to roll on the ground and douse the flames, gaining the Prone condition.
 
 **Collapsed.** The creature is Prone, can't use its movement to stand up, and it can't use Magic.
 
-**Hidden.** The creature is Unseen. DTs of attacks and Stealth checks are reduced by 4 instead of 2 (to a minimum of 2).
+**Hidden.** The creature is Unseen. DTs of attacks and Stealth checks are reduced by 4 instead of 2 (to a minimum of 2). DR is increased by 4 instead of 2 (to a maximum of 12).
 
-**Invisible.** The creature is Unseen. DTs of attacks and Stealth checks are reduced by 6 instead of 2 (to a minimum of 2).
+**Invisible.** The creature is Unseen. DTs of attacks and Stealth checks are reduced by 6 instead of 2 (to a minimum of 2). DR is increased by 6 instead of 2 (to a maximum of 12).
 
 **Prone.** The creature is lying on the ground, can't make physical attacks, and its DR is halved (rounded down). To get up, it can expend 3 movement squares or hexagons. A Prone creature can crawl at half speed (rounded down).
 
-**Unseen.** No one is looking at the creature. DTs of attacks and Stealth checks are reduced by 2 (to a minimum of 2).
+**Unseen.** No one is looking at the creature. DTs of attacks and Stealth checks are reduced by 2 (to a minimum of 2). DR is increased by 2 (to a maximum of 12).
