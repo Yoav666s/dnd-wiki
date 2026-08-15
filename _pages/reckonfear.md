@@ -195,7 +195,7 @@ Unarmed attacks use the Brawn skill and deal damage equal to your Strength Modif
 On your turn in combat, you can move a number of a squares (or hexagons) equal to your speed.
 
 ## Rounds
-Each round of combat takes 10 in-game seconds. After every 6 rounds (or 1 in-game minute), on the start of each creature's turn, that creature must succeed an Endurance check or lose a Stamina Point.
+Each round of combat takes 10 in-game seconds. After every 6 rounds (or 1 in-game minute), on the start of each creature's turn, that creature must succeed an Endurance check with Inverse Difficulty based on its Resilience or lose a Stamina Point.
 
 # Magic
 There are 4 levels of spells. In order to cast them, you need competence in Magic and a high enough Willpower Modifier.
@@ -336,4 +336,12 @@ The following is a list of weapon categories. You can choose any weapon that fit
 | Heavy Weapon | STR mod + 1d12 | Blunt, Gash, or Puncture | Brawn, Reach, Two-Handed | Great sword, maul |
 
 ## Armor
-Most people in the Reckonfear universe don't wear armor in their daily life.
+Most people in the Reckonfear universe don't wear armor in their daily life. However, every now and then you might see a Regulator in his leathers or a cavalry unit with heavy breastplates.
+
+| Category | DR Bonus | Requirements | Penalties | Examples |
+| :---: | :---: | :---: | :---: | :---: |
+| Light Armor | 2 | 6 Agility | - | Leather |
+| Medium Armor | 3 | 6 Agility, 8 Resilience | +2 DT for Endurance and Stealth checks | Mail, scale |
+| Heavy Armor | 4 | 6 Agility, 8 Strength, 8 Resilience | +4 DT for Endurance and Stealth checks | Plate |
+
+**Maximum Increase.** A piece of armor cannot increase your DR or DTs to be higher than 12.
