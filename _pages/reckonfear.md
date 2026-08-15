@@ -19,7 +19,7 @@ In Reckonfear, you roll a d20 when you attempt to do something that might fail o
 | Failure | Success with Cost | Success | Success with Cost | Failure |
 
 ### The Competence Die
-If you're competent enough, you can roll a Competence Die and add or subtract the result from the roll to get you closer to 10. You determine the size of the die (d4, d6, etc.), but the number of faces on the die must be equal to or lower than the Attribute Value linked to the roll. If the Attribute Value is lower than 4, you can't roll a competence die. For example, you rolled 13 on the d20 and your Agility is 9; you *could* roll a d8, but a d4 would be a better choice in this case.
+If you're competent enough, you can roll a Competence Die and add or subtract the result from the roll to get you closer to 10. You determine the size of the die (d4, d6, etc.), but the number of faces on the die must be equal to or lower than the Attribute Value linked to the roll. If the Attribute Value is lower than 4, you can't roll a competence die. You don't have to roll a Competence Die if you don't want to. For example, you rolled 13 on the d20 and your Agility is 9; you *could* roll a d8, but a d4 would be a better choice in this case.
 
 ### Rolling with Difficulty
 Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll a d4, a d6, or maybe even a d12 (based on the Difficulty Tier, or DT. The lowest DT is 2.), and subtract or add the result to the total, in a way that would get you farther away from 10. For example, you try to shoot a werewolf with a Defense Rank (or DR) of 7, which means hitting it has a DT of 6; you rolled 11 on the d20, and 5 on the Difficulty Die, resulting in a 16. Since you're competent with the pistol and your Agility is 9, you can still roll a Competence Die---a d8 is your best bet here.
@@ -188,9 +188,9 @@ There are 4 levels of spells. In order to cast them, you need competence in Magi
 | Sorcery | +4 | An advanced spell that can only be cast once between Rests. |
 
 ## Adversarial Effects
-When you cast a spell with a negative effect on an unwilling (or unknowing) creature, that creature must succeed a Magic check to resist the effect. It can roll a Competence Die only if it is competent with the Magic skill.
+When you cast a spell with a negative effect on an unwilling (or unknowing) creature, that creature must succeed a Magic check with difficulty based on your Willpower Value to resist the effect. It can roll a Competence Die only if it is competent with the Magic skill.
 
-The exception to this is spells which explicitly state that you make an attack. In that case, you make a Magic check with difficulty based on the opponent's DR.
+The exception to this is spells which explicitly state that you make an attack. In that case, you make a Magic check with difficulty based on the opponent's DR, and you can roll a Competence Die if you need to.
 
 ## Covert Casting
 Casting spells is a rather obvious ordeal, but you can attempt to cast a spell covertly. This will require a Covertness check with difficulty based on the spell level.
