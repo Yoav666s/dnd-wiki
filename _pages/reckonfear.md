@@ -313,3 +313,15 @@ The following is a list of conditions that a creature may acquire.
 **Prone.** The creature is lying on the ground, can't make physical attacks, and its DR is halved (rounded down). To get up, it can expend 3 movement squares or hexagons. A Prone creature can crawl at half speed (rounded down).
 
 **Unseen.** No one is looking at the creature. DTs of attacks and Stealth checks are reduced by 2 (to a minimum of 2). DR is increased by 2 (to a maximum of 12).
+
+# Equipment
+There's equipment in the game!
+
+## Weapons
+The following is a list of weapons.
+
+| Name | Skill | Damage | Damage Type | Properties | Object Size |
+|  :---: | :---: | :---: | :---: | :---: | :---: |
+| Dagger | Precision | AGI mod + 1d6 | Gash or Puncture |  |  |
+| Rapier | Precision | AGI mod + 1d12 | Puncture |  |  |
+| Short Sword | Precision | AGI mod + 1d8 | Gash or Puncture |  |  |
