@@ -223,8 +223,10 @@ The following is a list of Jinxes.
 # Incantations
 The following is a list of Incantations. You can't cast the same Incantation two turns in a row.
 
-**Arcane Missile.** Make an attack against a creature you can see within range. On a hit, that creature takes Xd4 damage where X is your Willpower Modifier.
+**Arcane Missile.** Make an attack against a creature you can see within range. On a hit, that creature takes Xd4 Physical damage where X is your Willpower Modifier.
 
 **Befuddle.** A creature you can see within range is confused, and spends its next action doing nothing.
 
-**Fire Bolt.** Make an attack against a creature you can see within range. On a hit,
+**Fire Bolt.** Make an attack against a creature you can see within range. On a hit, that creature takes 2d6 Fire damage.
+
+**Windstride.** As a Sleight, you cause the wind to boost you as you run. Your current speed is doubled until the end of your turn.
