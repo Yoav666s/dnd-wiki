@@ -214,11 +214,11 @@ If you have competence in Magic, you know a number of spells equal to your Knowl
 # Jinxes
 The following is a list of Jinxes.
 
-**Fire Play.** As a Sleight, you light or snuff out a small flame within range, such as that of a candle or a gaslamp.
+**Fire Play.** As a Sleight, you light or snuff out a small flame within range, such as that of a candle or a gaslamp. Alternatively, you can produce a flame in one or both hands. While you hold a flame, Brawn attacks you make with it deal an additional 1d4 Fire damage.
 
 **Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by 2 to a maximum of 12.
 
-**Minor Telekinesis.** As a Sleight, you manipulate a small object. You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage.
+**Minor Telekinesis.** As a Sleight, you manipulate a small object. You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage. Alternatively, as an action if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
 
 **Stumble.** As a Sleight, you cause a creature you can see within range to stumble as it walks or runs, halving its movement Speed until the end of its next turn (rounded down).
 
@@ -232,5 +232,7 @@ The following is a list of Incantations. You can't cast the same Incantation two
 **Befuddle.** A creature you can see within range is confused, and spends its next action doing nothing.
 
 **Fire Bolt.** Make an attack against a creature you can see within range. On a hit, that creature takes 2d6 Fire damage.
+
+**Propel.** You propel an object
 
 **Windstride.** As a Sleight, you cause the wind to boost you as you run. Your current speed is doubled until the end of your turn.
