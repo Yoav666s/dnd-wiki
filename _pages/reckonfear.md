@@ -322,13 +322,13 @@ The following is a list of weapon categories. You can choose any weapon that fit
 
 | Category | Damage | Damage Type | Properties | Examples |
 |  :---: | :---: | :---: | :---: | :---: |
+| Tiny Blade | AGI mod + 1d4 | Gash or Puncture | Concealable, Precision, Small | Dagger, stiletto |
 | Tiny Firearm | AGI mod + 1d10 | Puncture | Concealable, Precision, Reload, Small | Derringer, pocket pistol |
-| Light Blade | AGI mod + 1d6 | Gash or Puncture | Concealable, Precision, Small | Dagger, stiletto |
+| Light Blade | AGI mod + 1d6 | Gash or Puncture | Precision | Rapier, short sword. |
 | Light Blunt Weapon | STR mod + 1d8 | Blunt | Brawn, small | Carpenter's hammer, police baton |
 | Light Crossbow | AGI mod + 1d8 | Puncture | Precision, Reload | Hunting crossbow |
 | Light Firearm | AGI mod + 2d10 | Puncture | Precision, Reload | Flintlock pistol |
-| Medium Blade | AGI mod + 1d8 | Gash or Puncture | Precision | Rapier, short sword. |
-| Medium Blunt Weapon | STR mod + 1d10 | Blunt | Brawn | War hammer, mace |
+| Medium Weapon | STR mod + 1d10 | Blunt, Gash, or Puncture | Brawn | Long sword, mace |
 | Heavy Crossbow | AGI mod + 1d12 | Puncture | Precision, Reload, Two-Handed | Military crossbow |
 | Heavy Firearm | AGI mod + 3d10 | Puncture | Precision, Reload, Two-Handed | Hunting rifle, musket |
 | Heavy Weapon | STR mod + 1d12 | Blunt, Gash, or Puncture | Brawn, Reach, Two-Handed | Great sword, maul |
