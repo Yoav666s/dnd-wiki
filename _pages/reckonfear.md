@@ -146,8 +146,17 @@ There are 12 skills, each linked to a Character Attribute. You can choose 5 skil
 Your Associate's position determines your role in society. It can be anything that fits the world you'll be playing in, but here is a non-exhaustive list of examples.
 
 | Position | Description |
-| :---: | :---: |
+| :---- | :---- |
+| Aristocrat | You're a person of high status, possessing wealth and influence. |
+| Bounty Hunter |  |
+| Deserter |  |
 | Investigator |  |
+| Monster Hunter |  |
+| Physician |  |
+| Regulator |  |
+| Urchin |  |
+| Veteran |  |
+| Watchmaker |  |
 
 # Resting
 In Reckonfear, you can take a Rest or a Break.
