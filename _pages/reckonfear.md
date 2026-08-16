@@ -158,6 +158,8 @@ Your Associate's position determines your role in society. It can be anything th
 | Veteran |  |
 | Watchmaker |  |
 
+If you're an Aristocrat, you will have friends in high places and pocket money. If you're a Monster Hunter, you'll naturally know about monsters' weaknesses. Whatever position you choose, whether it's on the list or not, will affect your resources and knowledge.
+
 # Resting
 In Reckonfear, you can take a Rest or a Break.
 
