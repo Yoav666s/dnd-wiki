@@ -7,14 +7,14 @@ toc_label: "Contents"
 toc_sticky: true
 source: "Reckonfear: Basic Rules"
 ---
-Reckonfear is a brand new TTRPG system for low fantasy settings. The game master is called the Arbiter.
+Reckonfear is a brand new TTRPG system for low fantasy settings. The game master is called the Reckoner, and the player characters are called Associates.
 
 # Basic Rules
 
 ## Capability Checks
-In Reckonfear, you roll a d20 when you attempt to do something that might fail or is linked to a certain Attribute (the Value of which is between 2\~12). Your goal is to hit the number 10 on the die, or get as close to it as you can. A 10 is a critical success, an 8-9 or an 11-12 is a normal success, and a 6-7 or 13-14 is a success but with a cost. 2\~5 and 15\~19 is a failure, while 1 and 20 are a critical failure.
+In Reckonfear, you roll a d20 when you attempt to do something that might fail or is linked to a certain Attribute (the Value of which is between 2\~12). Your goal is to hit the number 10 on the die, or get as close to it as you can. A 10 is a critical success, an 8-9 or an 11-12 is a normal success, and a 7 or 13 is a success but with a cost. 2\~6 and 14\~19 is a failure, while 1 and 20 are a critical failure.
 
-| 1\~5 | 6-7 | 8\~12 | 13-14 | 15\~20 |
+| 1\~6 | 7 | 8\~12 | 13 | 14\~20 |
 | :---: | :---: | :---: | :---: | :---: |
 | Failure | Success with Cost | Success | Success with Cost | Failure |
 
@@ -22,7 +22,7 @@ In Reckonfear, you roll a d20 when you attempt to do something that might fail o
 If you're competent enough, you can roll a Competence Die and add or subtract the result from the roll to get you closer to 10. You determine the size of the die (d4, d6, etc.), but the number of faces on the die must be even and equal to or lower than the Attribute Value linked to the roll. If the Attribute Value is lower than 4, you can't roll a competence die. You don't have to roll a Competence Die if you don't want to. For example, you rolled 13 on the d20 and your Agility is 9; you *could* roll a d8, but a d4 would be a better choice in this case.
 
 ### Rolling with Difficulty
-Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll a d4, a d6, or maybe even a d12 (based on the Difficulty Tier, or DT.), and subtract or add the result to the total, in a way that would get you farther away from 10. For example, you try to shoot a werewolf with a Defense Rank (or DR) of 7, which means hitting it has a DT of 6; you rolled 11 on the d20, and 5 on the Difficulty Die, resulting in a 16. Since you're competent with the pistol and your Agility is 9, you can still roll a Competence Die---a d8 is your best bet here.
+Sometimes, the Reckoner will ask you to roll with difficulty. That means you roll a d4, a d6, or maybe even a d12 (based on the Difficulty Tier, or DT.), and subtract or add the result to the total, in a way that would get you farther away from 10. For example, you try to shoot a werewolf with a Defense Rank (or DR) of 7, which means hitting it has a DT of 6; you rolled 11 on the d20, and 5 on the Difficulty Die, resulting in a 16. Since you're competent with the pistol and your Agility is 9, you can still roll a Competence Die---a d8 is your best bet here.
 
 **Difficulty Tier.** The DT determines the size of the Difficulty Die. It's always an even number between 2~12. If the DT is 2, you don't roll a Difficulty Die.
 
@@ -30,13 +30,13 @@ Sometimes, the Arbiter will ask you to roll with difficulty. That means you roll
 
 **Overshooting.** You might roll a 2 on the d20 and a 4 on the Difficulty Die, resulting in --2. This is where the d12 and d10 become valuable. Normally you wouldn't want to risk rolling a 10 or higher, but in this case it will give you a fighting chance. Otherwise, a negative result or a result that's higher than 20 is a standard critical failure.
 
-**Who Rolls the Difficulty Die?** You! Not the Arbiter.
+**Who Rolls the Difficulty Die?** You! Not the Reckoner.
 
 # Building a Character
-A step-by-step guide to building a Level 1 character.
+A step-by-step guide to building a Level 1 Associate.
 
 ## Character Attributes
-Every character has 8 attributes, the values of which range from 2 to 12.
+Every Associate has 8 attributes, the values of which range from 2 to 12.
 
 **Agility.** Your capacity to move, maneuver, and operate certain weaponry.
 
@@ -57,7 +57,7 @@ Every character has 8 attributes, the values of which range from 2 to 12.
 ### Determining Attribute Values
 There are several ways to determine your Attribute Values.
 
-**Rolling for Stats.** Roll 2d6 eight times and write down the results. Distribute the results in a way that fits your character.
+**Rolling for Stats.** Roll 2d6 eight times and write down the results. Distribute them in a way that fits your Associate.
 
 **Standard Array.** Assign each value a number from the following array: `10, 9, 8, 7, 7, 6, 6, 4`
 
@@ -142,6 +142,13 @@ There are 12 skills, each linked to a Character Attribute. You can choose 5 skil
 | Recall | Knowledge | Your ability to remember important details. |
 | Stealth | Agility | Your ability to move quietly, unheard and unseen. |
 
+## Position
+Your Associate's position determines your role in society. It can be anything that fits the world you'll be playing in, but here is a non-exhaustive list of examples.
+
+| Position | Description |
+| :---: | :---: |
+| Investigator |  |
+
 # Resting
 In Reckonfear, you can take a Rest or a Break.
 
@@ -165,7 +172,7 @@ There is a number of Actions you can take, detailed below.
 
 **Trip.** In place of 1 physical attack, you can attempt to trip a creature of your size or smaller within your reach. Make a Brawn check with difficulty based on its DR.
 
-**Improvise.** Take an action that is not listed here, at the Arbiter's discretion.
+**Improvise.** Take an action that is not listed here, at the Reckoner's discretion.
 
 ## Sleights
 There is a number of things you can do that don't count as a full action, detailed below. You can only use one Sleight in a given turn.
@@ -255,7 +262,7 @@ The following is a list of Jinxes.
 
 **Lesser Conjuration.** As a Sleight, you create a small inanimate object in your hand, such as a pen, a dagger, or a derringer. It looks and functions like a completely ordinary object, has no monetary value, and disappears after 1 minute or if you let go of it.
 
-**Minor Telekinesis.** As a Sleight, you manipulate a small object (such as a paperweight) or mechanism (such as an unlocked door handle). You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons as an Action; make an attack against the creature or object. On a hit, both the manipulated object and the target take 1d4 Blunt damage per square or hexagon. Alternatively, as an Action, if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
+**Minor Telekinesis.** As a Sleight, you manipulate a small object (such as a paperweight) or mechanism (such as an unlocked door handle). You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons as an Action; make an attack against the creature or object. On a hit, both the manipulated object and the target take 1d4 Blunt damage per square or hexagon. You can keep the object at a height equal to your Willpower modifier. Alternatively, as an Action, if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
 
 **Stumble.** As a Sleight, you cause a creature you can see within range to stumble as it walks or runs, halving its movement Speed until the end of its next turn (rounded down).
 
@@ -391,7 +398,7 @@ Shields are an uncommon sight in the Reckonfear universe, but they are highly ef
 **Reloading with a Buckler.** You can reload a weapon with the Reload Property while holding a Buckler.
 
 # Character Progression
-In Reckonfear, characters progress through Milestones Leveling. When a character levels up the player can choose between gaining 4 points to distribute to their attributes (according to Point Buy rules), or gain 2 points and Competence in a new skill.
+In Reckonfear, Associates progress through Milestones Leveling. When an Associate levels up the player can choose between gaining 4 points to distribute to their attributes (according to Point Buy rules), or gain 2 points and Competence in a new skill.
 
 # Death
 When you have 0 Hit Points and at least 1 Stamina Point, you are Dying, hanging onto life by a thread. At the start of each of your turns, you make a flat d20 Reckoning check---no DT and no Competence Die. If you succeed, you are no longer Dying. After a failure, you lose 1 Stamina Point. A critical success brings you back to 1 Hit Point. A critical failure causes you to lose 2 Stamina Points. A success with a cost counts will stabilize you, but you still lose 1 Stamina Point. Whenever you take damage while you're at 0 hit points, you lose 1 Stamina Point. If you run out of Stamina Points while you're at 0 Hit Points, you die.
