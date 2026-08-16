@@ -148,15 +148,13 @@ Your Associate's position determines your role in society. It can be anything th
 | Position | Description |
 | :---- | :---- |
 | Aristocrat | You're a person of high status, possessing wealth and influence. |
-| Bounty Hunter |  |
-| Deserter |  |
-| Investigator |  |
-| Monster Hunter |  |
-| Physician |  |
-| Regulator |  |
-| Urchin |  |
-| Veteran |  |
-| Watchmaker |  |
+| Bounty Hunter | You hunt down people unlucky or foolish enough to earn a price on their heads. |
+| Deserter | You abandoned a military post and now live quietly on the fringes of society. |
+| Investigator | You offer your services to solve crimes and unravel mysteries. |
+| Monster Hunter | You live for the thrill of the hunt, killing monsters so that others can sleep safe. |
+| Physician | You treat ailments, concoct ointments, and patch wounds. |
+| Regulator | You patrol the streets, keeping an eye out for illegal use of magic. |
+| Urchin | You live on the streets and you know them well. |
 
 If you're an Aristocrat, you will have friends in high places and pocket money. If you're a Monster Hunter, you'll naturally know about monsters' weaknesses. Whatever position you choose, whether it's on the list or not, will affect your resources and knowledge.
 
@@ -225,7 +223,7 @@ On your turn in combat, you can move a number of a squares (or hexagons) equal t
 Each round of combat takes 10 in-game seconds. After every 6 rounds (or 1 in-game minute), on the start of each creature's turn, that creature must succeed an Endurance check with Inverse Difficulty based on its Resilience or lose a Stamina Point.
 
 # Magic
-There are 4 levels of spells. In order to cast them, you need competence in Magic and a high enough Willpower Modifier.
+In the Reckonfear universe Magic is broadly illegal, but there are those who practice it n secret. There are 4 levels of spells. In order to cast them, you need competence in Magic and a high enough Willpower Modifier.
 
 | Spell Level | Required Willpower Modifier | Description |
 | :---: | :---: | :---- |
@@ -244,10 +242,10 @@ Casting spells is a rather obvious ordeal, but you can attempt to cast a spell c
 
 | Spell Level | Difficulty Tier |
 | :---: | :---: |
-| Jinx | 4 |
-| Incantation | 6 |
-| Invocation | 8 |
-| Sorcery | 10 |
+| Jinx | 2 |
+| Incantation | 4 |
+| Invocation | 6 |
+| Sorcery | 8 |
 
 ## Spell Range
 The range of your spells equals to your Intuition modifier plus 3.
