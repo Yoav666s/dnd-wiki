@@ -52,7 +52,7 @@ Every Associate has 8 attributes, the values of which range from 2 to 12.
 
 **Intuition.** Your capacity to read people and situations, understand clues, and connect related ideas and concepts.
 
-**Courage.** Your capacity to perform under pressure and stay calm in dangerous situations.
+**Grit.** Your capacity to perform under pressure and stay calm in dangerous situations.
 
 ### Determining Attribute Values
 There are several ways to determine your Attribute Values.
@@ -131,7 +131,7 @@ There are 12 skills, each linked to a Character Attribute. You can choose 5 skil
 | :---- | :---- | :---- |
 | Awareness | Intuition | Your ability to notice your surroundings and spot unusual or hidden details. |
 | Brawn | Strength | Your ability to hit hard and operate Brawn weaponry. |
-| Coercion | Charisma | Your ability to force your will upon others. |
+| Coercion | Grit | Your ability to force your will upon others. |
 | Covertness | Charisma | Your ability to blend in, hide in plain sight, and mask your intentions. |
 | Deceit | Charisma | Your ability to tell lies convincingly and omit important details. |
 | Endurance | Resilience | Your ability to run long distances or perform other demanding tasks for an extended period of time. |
@@ -195,10 +195,10 @@ There is a number of things you can do that don't count as a full action, detail
 **Use.** Use an object, like opening a door or drinking a potion.
 
 ## Initiative
-The turn order in combat is determined by rolling initiative. To roll initiative, you can choose any die with a number of faces equal to or lower than your Courage Value (if you decide to roll at all). The number rolled is where you are on initiative order: whoever rolled highest goes first, and whoever rolled lowest (or didn't roll at all) goes last.
+The turn order in combat is determined by rolling initiative. To roll initiative, you can choose any die with a number of faces equal to or lower than your Grit Value (if you decide to roll at all). The number rolled is where you are on initiative order: whoever rolled highest goes first, and whoever rolled lowest (or didn't roll at all) goes last.
 
 ## Physical Attacks
-When you take the attack action on your turn, you can attack a number of times equal to your Courage Modifier. When you make a physical attack, whether it be with a Precision weapon (like a rapier or a pistol) or with your Brawn (a hammer, a fist, or a kick) you roll with a DT based on the opponent's DR. Watch out, if your Courage modifier is 0, you can't attack at all!
+When you take the attack action on your turn, you can attack a number of times equal to your Grit Modifier. When you make a physical attack, whether it be with a Precision weapon (like a rapier or a pistol) or with your Brawn (a hammer, a fist, or a kick) you roll with a DT based on the opponent's DR. Watch out, if your Grit modifier is 0, you can't attack at all!
 
 **Success with a Cost.** When you hit with a physical attack and succeed with a cost, you deal only half damage.
 
