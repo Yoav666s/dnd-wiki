@@ -256,6 +256,9 @@ Unless stated otherwise, the casting time of a spell is 1 Action. Since casting 
 ## Known Spells
 If you have competence in Magic, you know a number of spells equal to your Knowledge Modifier. If you have competence in the Recall skill, you know a number of spells equal to your Knowledge Value, instead. You can't learn a spell if its level requirement is higher than your Willpower Modifier. If your Willpower Modifier is 0, or if your Knowledge Value is 2 and you're not competent in the Recall skill, you can't learn any spells!
 
+## Spell Duration 
+Unless stated otherwise, a continuous spell's duration ends when you take a Break or a rest.
+
 ## Jinxes
 The following is a list of Jinxes.
 
