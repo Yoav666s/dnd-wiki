@@ -200,6 +200,8 @@ The turn order in combat is determined by rolling initiative. To roll initiative
 ## Physical Attacks
 When you take the attack action on your turn, you can attack a number of times equal to your Grit Modifier. When you make a physical attack, whether it be with a Precision weapon (like a rapier or a pistol) or with your Brawn (a hammer, a fist, or a kick) you roll with a DT based on the opponent's DR. Watch out, if your Grit modifier is 0, you can't attack at all!
 
+**Critical Hit.** When you manage to hit exactly 10 after applying both the Difficulty Die and your Competence Die, you deal a critical hit. That means you deal maximum damage with the weapon or spell, then roll the dice and deal additional damage equal to the result. Of you add an Attribute Modifier to the damage, you only add it once.
+
 **Success with a Cost.** When you hit with a physical attack and succeed with a cost, you deal only half damage.
 
 ### Unarmed Attacks
