@@ -394,9 +394,9 @@ Most people in the Reckonfear universe don't wear armor in their daily life. How
 
 | Category | DR Bonus | Requirements | Penalties | Examples |
 | :---: | :---: | :---: | :---: | :---: |
-| Light Armor | 2 | 6 Agility | - | Leather |
-| Medium Armor | 3 | 6 Agility, 8 Resilience | +2 DT for Endurance and Stealth checks | Mail, scale |
-| Heavy Armor | 4 | 6 Agility, 8 Strength, 8 Resilience | +4 DT for Endurance and Stealth checks | Plate |
+| Light Armor | 2 | 8 Agility | - | Leather |
+| Medium Armor | 3 | 8 Agility, 8 Resilience | +2 DT for Endurance and Stealth checks | Mail, scale |
+| Heavy Armor | 4 | 8 Agility, 8 Strength, 8 Resilience | +4 DT for Endurance and Stealth checks | Plate |
 
 **Maximum Increase.** A piece of armor cannot increase your DR or DTs to be higher than 12.
 
