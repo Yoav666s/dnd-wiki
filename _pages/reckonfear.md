@@ -316,7 +316,7 @@ The following is a list of Invocations. After you cast an Invocation, you must s
 
 **Invisibility.** You become Invisible until you attack or cast a spell.
 
-**Restore.** A creature you can see within range (or yourself) regains XdY missing Hit Points where X is your Willpower Modifier and Y is the largest even number that is equal to or lower than your Willpower Value.
+**Restore.** A creature you can see within range (or yourself) regains XdY missing Hit Points where X is your Intuition Modifier and Y is the largest even number that is equal to or lower than your Intuition Value.
 
 **Telekinesis.** You manipulate a large or smaller creature or object you can see within range. You can pose it, utilize it, topple it over, or move it to a place within range. The object or creature moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons; make an attack against the creature or object. On a hit, both the manipulated creature or object and the target take 1dY Blunt damage per square or hexagon, where Y is 4 for a small creature or object, 8 for a medium creature or object, and 12 for a large creature or object. Unless you drop the creature or object, you maintain control over it for 1 minute.
 
