@@ -422,4 +422,43 @@ In Reckonfear, Associates progress through Milestones Leveling. When an Associat
 When you have 0 Hit Points and at least 1 Stamina Point, you are Dying, hanging onto life by a thread. At the start of each of your turns, you make a flat d20 Stabilization check---no DT and no Competence Die. If you succeed, you are no longer Dying. After a failure, you lose 1 Stamina Point. A critical success brings you back to 1 Hit Point. A critical failure causes you to lose 2 Stamina Points. A success with a cost counts will stabilize you, but you still lose 1 Stamina Point. Whenever you take damage while you're at 0 hit points, you lose 1 Stamina Point. If you run out of Stamina Points while you're at 0 Hit Points, you die.
 
 # Example Builds
-The following are examples for legal, specialized builds.
+The following are examples for legal, optimized builds.
+
+## Spellblade
+
+| Attribute | Value | Modifier |
+| :---: | :---: | :---: |
+| Agility | 10 | +3 |
+| Strength | 2 | +0 |
+| Resilience | 10 | +3 |
+| Willpower | 6 | +2 |
+| Charisma | 2 | +3 |
+| Knowledge | 3 | +1 |
+| Intuition | 2 | +0 |
+| Grit | 12 | +4 |
+
+Competence: \
+- Endurance 
+- Magic
+- Precision
+- Recall
+- Stealth
+
+**Armor.** Leather \
+**Weapon.** Light Blade \
+**Shield.** None
+
+| Calculated Value |  |
+| :---: | :---: |
+| Hit Points | 28 |
+| Defense Rank | 10 |
+| Speed | 6 |
+| Stamina | 6 |
+| Known Spells | 3 |
+| Spell Range | 3 |
+
+**Known Spells:** \
+- Barrier
+- Lesser Conjuration
+- Windstride 
+
