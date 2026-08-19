@@ -425,7 +425,7 @@ When you have 0 Hit Points and at least 1 Stamina Point, you are Dying, hanging 
 The following are examples for legal, optimized builds.
 
 ## Spellblade
-The Spellblade is a master sword fighter who relies on Agility and Grit to dish out a surprising number of precise attacks. After drawing a sword, the Spellblade can conjure a dagger or a derringer for a flexible, extra attack. When facing a particularly deadly foe, the Spellblade could cast barrier on each turn instead, sacrificing an extra attack for much needed protection.
+The Spellblade is a master sword fighter who relies on Agility and Grit to dish out a surprising number of precise attacks. After drawing a sword, the Spellblade can conjure a dagger or a derringer for a flexible, extra attack. When facing a particularly deadly foe, the Spellblade could cast Barrier on each turn instead, sacrificing an extra attack for much needed protection.
 
 | Attribute | Value | Modifier |
 | :---: | :---: | :---: |
