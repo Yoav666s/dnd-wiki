@@ -470,6 +470,7 @@ The Battlemage is fierce and dangerous, relying purely on magic to turn the tide
 - Translocation
 
 ## Flame Juggler
+The Flame Juggler is a regular melee combatant wearing medium armor and wielding a heavy weapon. However, the Flame Juggler has a secret weapon: instead of drawing a heavy weapon, cast Fire Play. The Flame Juggler can make 5 separate Unarmed attacks dealing 1d6 + 1d4 + 3 damage on a hit, while also having access to some utility options.
 
 | Attribute | Value | Modifier |
 | :---: | :---: | :---: |
