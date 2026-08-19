@@ -208,6 +208,8 @@ When you take the attack action on your turn, you can attack a number of times e
 
 **Success with a Cost.** When you hit with a physical attack and succeed with a cost, you deal only half damage.
 
+**Critical Miss.** When you critically miss with a physical attack, your DR is lowered by 1 for the next attack the target makes against you. This effect accumulates if you critically miss more than once on your turn.
+
 ### Unarmed Attacks
 Unarmed attacks use the Brawn skill and deal damage equal to your Strength Modifier plus your Unarmed Die.
 
