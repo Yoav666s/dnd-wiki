@@ -427,6 +427,41 @@ When you have 0 Hit Points and at least 1 Stamina Point, you are Dying, hanging 
 # Example Builds
 The following are examples for legal, optimized builds.
 
+## Assassin
+The Assassin wears no armor and wields two Concealable blades, trading raw damage for Covertness.
+
+| Attribute | Value | Modifier |
+| :---: | :---: | :---: |
+| Agility | 10 | +3 |
+| Strength | 2 | +0 |
+| Resilience | 9 | +3 |
+| Willpower | 2 | +2 |
+| Charisma | 6 | +2 |
+| Knowledge | 2 | +1 |
+| Intuition | 6 | +2 |
+| Grit | 12 | +4 |
+
+**Competence:**
+- Awareness
+- Covertness
+- Deceit
+- Precision
+- Stealth
+
+**Armor.** None \
+**Weapon.** 2 Tiny Blades \
+**Shield.** None
+
+| Calculated Value |  |
+| :---: | :---: |
+| Hit Points | 24 |
+| Defense Rank | 8 |
+| Speed | 6 |
+| Stamina | 6 |
+| Known Spells | 0 |
+| Spell Range | - |
+| Unarmed Damage | 0 |
+
 ## Battlemage
 The Battlemage is fierce and dangerous, relying purely on magic to turn the tide in battle. The Battlemage alternates between Arcane Missiles and Fire Bolt, or even Fireball if the situation calls for it. Alternatively, the Battlemage can use Exhaust to cause a foe to collapse, use Mind Control to gain an unlikely ally, use Heal to restore the party back to full health, or use Translation to get everyone out of a dangerous situation.
 
