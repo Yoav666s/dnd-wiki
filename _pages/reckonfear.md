@@ -413,7 +413,7 @@ Shields are an uncommon sight in the Reckonfear universe, but they are highly ef
 
 **Maximum Increase.** A shield cannot increase your DR or DTs to be higher than 12.
 
-**Reloading with a Buckler.** You can reload a weapon with the Reload Property while holding a Buckler.
+**Actions with a Buckler.** You can reload a weapon with the Reload Property while holding a Buckler, and you can cast a spell while holding a Buckler even if your other hand is occupied.
 
 # Character Progression
 In Reckonfear, Associates progress through Milestones Leveling. When an Associate levels up the player can choose between gaining 4 points to distribute to their attributes (according to Point Buy rules), or gain 2 points and Competence in a new skill. Unspent points can be saved up for later levels.
