@@ -156,7 +156,7 @@ Your Associate's position determines your role in society. It can be anything th
 | Regulator | You patrol the streets, keeping an eye out for illegal use of magic. |
 | Urchin | You live on the streets and you know them well. |
 
-If you're an Aristocrat, you will have friends in high places and pocket money. If you're a Monster Hunter, you'll naturally know about monsters' weaknesses. Whatever position you choose, whether it's on the list or not, will affect your resources and knowledge.
+If you're an Aristocrat, you will have friends in high places and pocket money. If you're a Monster Hunter, you'll naturally know about monsters' weaknesses. Whatever position you choose, whether it's on the list or not, will affect your resources and knowledge. If you're not a physician or anything similar, your character wouldn't know how to treat a disease (unless the Reckoner rules that it's common knowledge).
 
 # Resting
 In Reckonfear, you can take a Rest or a Break.
@@ -192,7 +192,7 @@ There is a number of things you can do that don't count as a full action, detail
 
 **Magic.** Cast a spell that can be cast as a Sleight.
 
-**Offhand Attack.** If you took the Attack action and made at least one attack with a Light weapon, you can make one offhand attack with a different Light weapon you're holding as a Sleight.
+**Offhand Attack.** If you took the Attack action and made at least one attack with a Light weapon, you can make one offhand attack with a different Light weapon you're holding as a Sleight. Alternatively, if you took the Attack action and made at least one Unarmed attack, you can make an extra Unarmed attack with your other hand.
 
 **Sheath.** Sheath a weapon or two.
 
@@ -212,6 +212,7 @@ When you take the attack action on your turn, you can attack a number of times e
 Unarmed attacks use the Brawn skill and deal damage equal to your Strength Modifier plus your Unarmed Die.
 
 #### Unarmed Die Table
+
 | Strength Modifier | Unarmed Die |
 | :---: | :---: |
 | +0 | - |
@@ -262,7 +263,7 @@ Unless stated otherwise, the casting time of a spell is 1 Action. Since casting 
 ## Known Spells
 If you have competence in Magic, you know a number of spells equal to your Knowledge Modifier. If you have competence in the Recall skill, you know a number of spells equal to your Knowledge Value, instead. You can't learn a spell if its level requirement is higher than your Willpower Modifier. If your Willpower Modifier is 0, or if your Knowledge Value is 2 and you're not competent in the Recall skill, you can't learn any spells!
 
-## Spell Duration 
+## Spell Duration
 Unless stated otherwise, a continuous spell's duration ends when you take a Break or a rest.
 
 ## Jinxes
@@ -270,9 +271,7 @@ The following is a list of Jinxes.
 
 **Barrier.** As a Sleight, you create a barrier of arcane energy to protect a creature you can see within range (or yourself). The creature's DR is increased by your Willpower Modifier (to a maximum of 12) until the end of its next turn.
 
-**Snatch.** As a Sleight, you translocate a small object within range that isn't being worn or carried by another creature to one of your free hands. You must be able to see the item or know where it is.
-
-**Fire Play.** As a Sleight, you light or snuff out a flame within range, such as that of a candle or a gaslamp. You can also extinguish a flame on a Burning creature within range. Alternatively, you can produce a flame in one or both hands. While you hold a flame, unarmed Brawn attacks you make with it deal an additional 1d4 Fire damage and cause the target to start Burning.
+**Fire Play.** As a Sleight, you light or snuff out a flame within range, such as that of a candle or a gaslamp. You can also extinguish a flame on a Burning creature within range. Alternatively, you can produce a flame in one or both hands. While you hold a flame, Unarmed attacks you make with it deal an additional 1d4 Fire damage and cause the target to start Burning.
 
 **Flicker.** You become Invisible as an idle, illusory image of you appears in your space. You remain Invisible until the start of your next turn or until someone touches your illusion. When you become visible again, the illusion disappears and it will seem as if you had translocated to your current position.
 
@@ -282,11 +281,13 @@ The following is a list of Jinxes.
 
 **Minor Telekinesis.** As a Sleight, you manipulate a small object (such as a paperweight) or mechanism (such as an unlocked door handle). You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons as an Action; make an attack against the creature or object. On a hit, both the manipulated object and the target take 1d4 Blunt damage per square or hexagon. You can keep the object at a height equal to your Willpower modifier. Alternatively, as an Action, if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
 
+**Puff of Smoke.** You create a puff of smoke that fills a sphere centered on you with a radius equal to your Spell Range. The smoke disperses at the start of your next turn. Every creature (including you) that enters the area or starts its turn there must succeed an Awareness check or become Blinded until the smoke is gone or it exists the area.
+
+**Snatch.** As a Sleight, you translocate a small object within range that isn't being worn or carried by another creature to one of your free hands. You must be able to see the item or know where it is.
+
 **Stumble.** As a Sleight, you cause a creature you can see within range to stumble as it walks or runs, halving its movement Speed until the end of its next turn (rounded down).
 
 **Whisper.** As a Sleight, you whisper a short message that a creature you can see within range hears in its mind. You must be able to whisper the message in 10 seconds or less.
-
-**Puff of Smoke.** You create a puff of smoke that fills a sphere centered on you with a radius equal to your Spell Range. The smoke disperses at the start of your next turn. Every creature (including you) that enters the area or starts its turn there must succeed an Awareness check or become Blinded until the smoke is gone or it exists the area.
 
 ## Incantations
 The following is a list of Incantations. You can't cast the same Incantation two turns in a row.
@@ -360,17 +361,17 @@ The following is a list of weapon categories. You can choose any weapon that fit
 
 | Category | Damage | Damage Type | Properties | Examples |
 |  :---: | :---: | :---: | :---: | :---: |
-| Hand Crossbow | AGI mod + 1d6 | Puncture | Light, Precision, Reload | Hunting crossbow |
-| Tiny Blade | AGI mod + 1d4 | Gash or Puncture | Concealable, Light, Precision, Small | Dagger, stiletto |
-| Tiny Firearm | AGI mod + 1d10 | Puncture | Concealable, Light, Precision, Reload, Small | Derringer, pocket pistol |
-| Light Blade | AGI mod + 1d6 | Gash or Puncture | Light, Precision | Rapier, short sword. |
-| Light Blunt Weapon | STR mod + 1d8 | Blunt | Brawn, Light, Small | Hammer, police baton |
-| Light Crossbow | AGI mod + 1d8 | Puncture | Precision, Reload | Hunting crossbow |
-| Light Firearm | AGI mod + 2d10 | Puncture | Precision, Reload | Flintlock pistol |
-| Medium Weapon | STR mod + 1d10 | Blunt, Gash, or Puncture | Brawn | Long sword, mace |
-| Heavy Crossbow | AGI mod + 1d12 | Puncture | Heavy, Precision, Reload, Two-Handed | Military crossbow |
-| Heavy Firearm | AGI mod + 3d10 | Puncture | Heavy, Precision, Reload, Two-Handed | Hunting rifle, musket |
-| Heavy Weapon | STR mod + 1d12 | Blunt, Gash, or Puncture | Brawn, Heavy, Reach, Two-Handed | Great sword, maul |
+| Hand Crossbow | 1d6 + AGI mod | Puncture | Light, Precision, Reload | Hunting crossbow |
+| Tiny Blade | 1d4 + AGI mod | Gash or Puncture | Concealable, Light, Precision, Small | Dagger, stiletto |
+| Tiny Firearm | 1d10 + AGI mod | Puncture | Concealable, Light, Precision, Reload, Small | Derringer, pocket pistol |
+| Light Blade | 1d6 + AGI mod | Gash or Puncture | Light, Precision | Rapier, short sword. |
+| Light Blunt Weapon | 1d8 + STR mod | Blunt | Brawn, Light, Small | Hammer, police baton |
+| Light Crossbow | 1d8 + STR mod | Puncture | Precision, Reload | Hunting crossbow |
+| Light Firearm | 2d10 + AGI mod | Puncture | Precision, Reload | Flintlock pistol |
+| Medium Weapon | 1d10 + STR mod | Blunt, Gash, or Puncture | Brawn | Long sword, mace |
+| Heavy Crossbow | 1d12 + AGI mod | Puncture | Heavy, Precision, Reload, Two-Handed | Military crossbow |
+| Heavy Firearm | 3d10 + AGI mod | Puncture | Heavy, Precision, Reload, Two-Handed | Hunting rifle, musket |
+| Heavy Weapon | 1d12 + STR mod | Blunt, Gash, or Puncture | Brawn, Heavy, Reach, Two-Handed | Great sword, maul |
 
 ### Properties
 The following is a list of the different weapon Properties and what they mean.
@@ -395,8 +396,8 @@ Most people in the Reckonfear universe don't wear armor in their daily life. How
 | Category | DR Bonus | Requirements | Penalties | Examples |
 | :---: | :---: | :---: | :---: | :---: |
 | Light Armor | 2 | 8 Agility | - | Leather |
-| Medium Armor | 3 | 8 Agility, 8 Resilience | +2 DT for Endurance and Stealth checks | Mail, scale |
-| Heavy Armor | 4 | 8 Agility, 8 Strength, 8 Resilience | +4 DT for Endurance and Stealth checks | Plate |
+| Medium Armor | 3 | 8 Resilience | +2 DT for Endurance and Stealth checks | Mail, scale |
+| Heavy Armor | 4 | 8 Strength, 8 Resilience | +4 DT for Endurance and Stealth checks | Plate |
 
 **Maximum Increase.** A piece of armor cannot increase your DR or DTs to be higher than 12.
 
@@ -424,7 +425,7 @@ When you have 0 Hit Points and at least 1 Stamina Point, you are Dying, hanging 
 # Example Builds
 The following are examples for legal, optimized builds.
 
-## Battlemage 
+## Battlemage
 The Battlemage is fierce and dangerous, relying purely on magic to turn the tide in battle. The Battlemage alternates between Arcane Missiles and Fire Bolt, or even Fireball if the situation calls for it. Alternatively, the Battlemage can use Exhaust to cause a foe to collapse, use Mind Control to gain an unlikely ally, use Heal to restore the party back to full health, or use Translation to get everyone out of a dangerous situation.
 
 | Attribute | Value | Modifier |
@@ -440,14 +441,14 @@ The Battlemage is fierce and dangerous, relying purely on magic to turn the tide
 
 **Competence:**
 - Awareness/Covertness
-- Endurance 
+- Endurance
 - Magic
 - Precision
-- Recall 
+- Recall
 
 **Armor.** Leather \
 **Weapon.** Light Blade \
-**Shield.** Buckler 
+**Shield.** Buckler
 
 | Calculated Value |  |
 | :---: | :---: |
@@ -457,15 +458,56 @@ The Battlemage is fierce and dangerous, relying purely on magic to turn the tide
 | Stamina | 6 |
 | Known Spells | 7 |
 | Spell Range | 5 |
+| Unarmed Damage | 0 |
 
 **Known Spells:**
 - Arcane Missiles
 - Exhaust
-- Fireball 
+- Fireball
 - Fire Bolt
 - Heal
 - Mind Control
 - Translocation
+
+## Flame Juggler
+
+| Attribute | Value | Modifier |
+| :---: | :---: | :---: |
+| Agility | 6 | +2 |
+| Strength | 10 | +3 |
+| Resilience | 9 | +3 |
+| Willpower | 4 | +1 |
+| Charisma | 2 | +0 |
+| Knowledge | 4 | +1 |
+| Intuition | 2 | +0 |
+| Grit | 12 | +4 |
+
+**Competence:**
+- Brawn
+- Coercion
+- Endurance
+- Magic
+- Recall
+
+**Armor.** Medium \
+**Weapon.** Heavy Weapon \
+**Shield.** None
+
+| Calculated Value |  |
+| :---: | :---: |
+| Hit Points | 24 |
+| Defense Rank | 10 |
+| Speed | 5 |
+| Stamina | 6 |
+| Known Spells | 4 |
+| Spell Range | 3 |
+| Unarmed Damage | 1d6 + 3 |
+
+**Known Spells:**
+- Fire Play
+- Flicker
+- Minor Telekinesis
+- Puff of Smoke
 
 ## Spellblade
 The Spellblade is a master sword fighter who relies on Agility and Grit to dish out a surprising number of precise attacks. After drawing a sword, the Spellblade can conjure a dagger or a derringer for a flexible, extra attack. When facing a particularly deadly foe, the Spellblade could cast Barrier on each turn instead, sacrificing an extra attack for much needed protection. If the enemy is particularly far, the Spellblade can use Windstride to close the distance.
@@ -482,7 +524,7 @@ The Spellblade is a master sword fighter who relies on Agility and Grit to dish 
 | Grit | 12 | +4 |
 
 **Competence:**
-- Endurance 
+- Endurance
 - Magic
 - Precision
 - Recall
@@ -500,9 +542,9 @@ The Spellblade is a master sword fighter who relies on Agility and Grit to dish 
 | Stamina | 6 |
 | Known Spells | 3 |
 | Spell Range | 3 |
+| Unarmed Damage | 0 |
 
 **Known Spells:**
 - Barrier
 - Lesser Conjuration
-- Windstride 
-
+- Windstride
