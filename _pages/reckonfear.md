@@ -433,7 +433,7 @@ The Spellblade is a master sword fighter who relies on Agility and Grit to dish 
 | Strength | 2 | +0 |
 | Resilience | 10 | +3 |
 | Willpower | 6 | +2 |
-| Charisma | 2 | +3 |
+| Charisma | 2 | +0 |
 | Knowledge | 3 | +1 |
 | Intuition | 2 | +0 |
 | Grit | 12 | +4 |
