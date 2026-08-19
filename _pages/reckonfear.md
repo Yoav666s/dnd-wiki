@@ -95,7 +95,7 @@ Attribute Modifiers are calculated as such: `Attribute Value / 3 (rounded down)`
 | 12 | +4 |
 
 ## Defense Rank
-Your DR equals your to your Agility Modifier plus your Resilience Modifier plus 2.
+Your DR equals to your Agility Modifier plus your Resilience Modifier plus 2.
 
 **Odd Defense Ranks.** If your DR is an odd number, the DT on attack rolls against you is your DR minus 1.
 
