@@ -424,6 +424,49 @@ When you have 0 Hit Points and at least 1 Stamina Point, you are Dying, hanging 
 # Example Builds
 The following are examples for legal, optimized builds.
 
+## Battlemage 
+The Battlemage is fierce and dangerous, relying purely on magic to turn the tide in battle. The Battlemage alternates between Arcane Missiles and Fire Bolt, or even Fireball if the situation calls for it. Alternatively, the Battlemage can use Exhaust to cause a foe to collapse, use Mind Control to gain an unlikely ally, use Heal to restore the party back to full health, or use Translation to get everyone out of a dangerous situation.
+
+| Attribute | Value | Modifier |
+| :---: | :---: | :---: |
+| Agility | 8 | +2 |
+| Strength | 2 | +0 |
+| Resilience | 9 | +3 |
+| Willpower | 12 | +4 |
+| Charisma | 4 | +1 |
+| Knowledge | 7 | +2 |
+| Intuition | 6 | +2 |
+| Grit | 4 | +1 |
+
+**Competence:**
+- Awareness/Covertness
+- Endurance 
+- Magic
+- Precision
+- Recall 
+
+**Armor.** Leather \
+**Weapon.** Light Blade \
+**Shield.** Buckler 
+
+| Calculated Value |  |
+| :---: | :---: |
+| Hit Points | 24 |
+| Defense Rank | 10 |
+| Speed | 5 |
+| Stamina | 6 |
+| Known Spells | 7 |
+| Spell Range | 5 |
+
+**Known Spells:**
+- Arcane Missiles
+- Exhaust
+- Fireball 
+- Fire Bolt
+- Heal
+- Mind Control
+- Translocation
+
 ## Spellblade
 The Spellblade is a master sword fighter who relies on Agility and Grit to dish out a surprising number of precise attacks. After drawing a sword, the Spellblade can conjure a dagger or a derringer for a flexible, extra attack. When facing a particularly deadly foe, the Spellblade could cast Barrier on each turn instead, sacrificing an extra attack for much needed protection. If the enemy is particularly far, the Spellblade can use Windstride to close the distance.
 
