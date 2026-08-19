@@ -186,11 +186,15 @@ There is a number of Actions you can take, detailed below.
 ## Sleights
 There is a number of things you can do that don't count as a full action, detailed below. You can only use one Sleight in a given turn.
 
+**Draw.** Draw a weapon or two.
+
 **Hide.** If you are Unseen, you can make a Stealth check with Inverse Difficulty based on your Agility to become Hidden.
 
 **Magic.** Cast a spell that can be cast as a Sleight.
 
 **Offhand Attack.** If you took the Attack action and made at least one attack with a Light weapon, you can make one offhand attack with a different Light weapon you're holding as a Sleight.
+
+**Sheath.** Sheath a weapon or two.
 
 **Use.** Use an object, like opening a door or drinking a potion.
 
