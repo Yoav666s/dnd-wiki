@@ -483,7 +483,7 @@ The Battlemage is fierce and dangerous, relying purely on magic to turn the tide
 - Precision
 - Recall
 
-**Armor.** Leather \
+**Armor.** Light \
 **Weapon.** Light Blade \
 **Shield.** Buckler
 
