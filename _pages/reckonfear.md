@@ -317,7 +317,7 @@ The following is a list of Invocations. After you cast an Invocation, you must s
 
 **Conjuration.** You create a large or smaller inanimate object in an unoccupied space you can see within range. It looks completely ordinary, has no monetary value, and disappears after you finish a Rest or cast this spell again. Alternatively, you can conjure a weapon in your hands as a Sleight.
 
-**Fireball.** Make an attack against a creature you can see within range. On a hit, it takes Fire damage equal to your Willpower Modifier plus 3d10 and starts Burning. On a miss, it takes half damage only.
+**Fireball.** Make an attack against a creature you can see within range. On a hit, it takes Fire damage equal to 3d12 and starts Burning. On a miss, it takes half damage only.
 
 **Invisibility.** You become Invisible until you attack or cast a spell.
 
