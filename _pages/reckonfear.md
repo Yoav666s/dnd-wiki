@@ -257,7 +257,7 @@ Casting spells is a rather obvious ordeal, but you can attempt to cast a spell c
 | Sorcery | 8 |
 
 ## Spell Range
-The range of your spells equals to your Intuition modifier plus 3.
+The range of your spells equals to twice your Intuition modifier plus 4.
 
 ## Casting Spells
 Unless stated otherwise, the casting time of a spell is 1 Action. Since casting a spell requires both verbal and somatic components, you can only cast one spell per turn. When you cast a spell on your turn, you can't speak, as you're already performing verbal components. You need at least one free hand to cast a spell.
@@ -463,7 +463,7 @@ The Assassin wears no armor and wields two Concealable blades, trading raw damag
 | Unarmed Damage | 0 |
 
 ## Battlemage
-The Battlemage is fierce and dangerous, relying purely on magic to turn the tide in battle. The Battlemage alternates between Arcane Missiles and Fire Bolt, or even Fireball if the situation calls for it. Alternatively, the Battlemage can use Exhaust to cause a foe to collapse, use Mind Control to gain an unlikely ally, use Heal to restore the party back to full health, or use Translation to get everyone out of a dangerous situation.
+The Battlemage is fierce and dangerous, relying purely on magic to turn the tide in battle. The Battlemage alternates between Arcane Missile and Fire Bolt, or even Fireball if the situation calls for it. Alternatively, the Battlemage can use Exhaust to cause a foe to collapse, use Mind Control to gain an unlikely ally, use Heal to restore the party back to full health, or use Translation to get everyone out of a dangerous situation.
 
 | Attribute | Value | Modifier |
 | :---: | :---: | :---: |
@@ -494,11 +494,11 @@ The Battlemage is fierce and dangerous, relying purely on magic to turn the tide
 | Speed | 5 |
 | Stamina | 6 |
 | Known Spells | 7 |
-| Spell Range | 5 |
+| Spell Range | 8 |
 | Unarmed Damage | 0 |
 
 **Known Spells:**
-- Arcane Missiles
+- Arcane Missile
 - Exhaust
 - Fireball
 - Fire Bolt
@@ -538,7 +538,7 @@ The Flame Juggler is a regular melee combatant wearing medium armor and wielding
 | Speed | 5 |
 | Stamina | 6 |
 | Known Spells | 4 |
-| Spell Range | 3 |
+| Spell Range | 4 |
 | Unarmed Damage | 1d6 + 3 |
 
 **Known Spells:**
@@ -546,6 +546,47 @@ The Flame Juggler is a regular melee combatant wearing medium armor and wielding
 - Flicker
 - Minor Telekinesis
 - Puff of Smoke
+
+## Healer
+
+| Attribute | Value | Modifier |
+| :---: | :---: | :---: |
+| Agility | 6 | +2 |
+| Strength | 2 | +0 |
+| Resilience | 9 | +3 |
+| Willpower | 9 | +3 |
+| Charisma | 4 | +1 |
+| Knowledge | 5 | +1 |
+| Intuition | 12 | +4 |
+| Grit | 4 | +1 |
+
+**Competence:**
+- Awareness
+- Endurance
+- Judgement
+- Magic
+- Recall
+
+**Armor.** Medium \
+**Weapon.** None \
+**Shield.** None
+
+| Calculated Value |  |
+| :---: | :---: |
+| Hit Points | 24 |
+| Defense Rank | 10 |
+| Speed | 5 |
+| Stamina | 6 |
+| Known Spells | 5 |
+| Spell Range | 12 |
+| Unarmed Damage | 0 |
+
+**Known Spells:**
+- Arcane Missile
+- Blink
+- Barrier
+- Frostbite
+- Restore
 
 ## Spellblade
 The Spellblade is a master sword fighter who relies on Agility and Grit to dish out a surprising number of precise attacks. After drawing a sword, the Spellblade can conjure a dagger or a derringer for a flexible, extra attack. When facing a particularly deadly foe, the Spellblade could cast Barrier on each turn instead, sacrificing an extra attack for much needed protection. If the enemy is particularly far, the Spellblade can use Windstride to close the distance.
@@ -568,7 +609,7 @@ The Spellblade is a master sword fighter who relies on Agility and Grit to dish 
 - Recall
 - Stealth
 
-**Armor.** Leather \
+**Armor.** Light \
 **Weapon.** Light Blade \
 **Shield.** None
 
@@ -579,7 +620,7 @@ The Spellblade is a master sword fighter who relies on Agility and Grit to dish 
 | Speed | 6 |
 | Stamina | 6 |
 | Known Spells | 3 |
-| Spell Range | 3 |
+| Spell Range | 4 |
 | Unarmed Damage | 0 |
 
 **Known Spells:**
