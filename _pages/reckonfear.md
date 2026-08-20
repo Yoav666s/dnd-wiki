@@ -308,7 +308,7 @@ The following is a list of Incantations. You can't cast the same Incantation two
 
 **Frostbite.** A layer of frost forms around a creature you can see within range. The target takes 1d8 Frost damage and the DT of every attack it makes is increased by 2 until the end of its next turn.
 
-**Propel.** You propel a small object within range to hit a target. Make an attack against a creature or object you can see within range. On a hit, both the target and the propelled object take Blunt damage equal to your Willpower Modifier plus 1d12.
+**Propel.** You propel a small object within range to hit a target. Make an attack against a creature or object you can see within range. On a hit, both the target and the propelled object take 3d4 Blunt damage.
 
 **Windstride.** As a Sleight, you cause the wind to boost you as you run. Your current speed is doubled until the end of your turn.
 
