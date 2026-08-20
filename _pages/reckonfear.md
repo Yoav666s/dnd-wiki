@@ -598,11 +598,11 @@ The Spellblade is a master sword fighter who relies on Agility and Grit to dish 
 | :---: | :---: | :---: |
 | Agility | 10 | +3 |
 | Strength | 2 | +0 |
-| Resilience | 10 | +3 |
+| Resilience | 9 | +3 |
 | Willpower | 6 | +2 |
 | Charisma | 2 | +0 |
-| Knowledge | 3 | +1 |
-| Intuition | 2 | +0 |
+| Knowledge | 4 | +1 |
+| Intuition | 4 | +1 |
 | Grit | 12 | +4 |
 
 **Competence:**
@@ -618,15 +618,16 @@ The Spellblade is a master sword fighter who relies on Agility and Grit to dish 
 
 | Calculated Value |  |
 | :---: | :---: |
-| Hit Points | 28 |
+| Hit Points | 24 |
 | Defense Rank | 10 |
 | Speed | 6 |
 | Stamina | 6 |
-| Known Spells | 3 |
-| Spell Range | 4 |
+| Known Spells | 4 |
+| Spell Range | 6 |
 | Unarmed Damage | 0 |
 
 **Known Spells:**
 - Barrier
+- Fire Bolt
 - Lesser Conjuration
 - Windstride
