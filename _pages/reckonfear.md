@@ -548,7 +548,7 @@ The Flame Juggler is a regular melee combatant wearing medium armor and wielding
 - Puff of Smoke
 
 ## Healer
-The Healer is optimized to heal with maximum Intuition. Healers rely completely on magic to deal damage, as they lack competence in Precision or Brawn.
+The Healer is optimized to heal with maximum Intuition. Healers rely completely on magic to deal damage, as they lack competence in Precision or Brawn. They rely on Frostbite to prevent attacks from hitting altogether, and use their potent Arcane Missile to deal consistent damage. They have Blink and Fireball with maximum range, and Medium armor to defend them from stray bullets.
 
 | Attribute | Value | Modifier |
 | :---: | :---: | :---: |
