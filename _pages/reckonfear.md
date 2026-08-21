@@ -369,7 +369,7 @@ The following is a list of weapon categories. You can choose any weapon that fit
 | Tiny Blade | 1d4 + AGI mod | Gash or Puncture | Concealable, Light, Precision, Small | Dagger, stiletto |
 | Tiny Firearm | 1d10 + AGI mod | Puncture | Concealable, Light, Precision, Reload, Small | Derringer, pocket pistol |
 | Light Blade | 1d6 + AGI mod | Gash or Puncture | Light, Precision | Rapier, short sword. |
-| Light Blunt Weapon | 1d8 + STR mod | Blunt | Brawn, Light, Small | Hammer, police baton |
+| Light Blunt Weapon | 1d8 + STR mod | Blunt | Brawn, Light | Hammer, police baton |
 | Light Crossbow | 1d8 + STR mod | Puncture | Precision, Reload | Hunting crossbow |
 | Light Firearm | 2d10 + AGI mod | Puncture | Precision, Reload | Flintlock pistol |
 | Medium Weapon | 1d10 + STR mod | Blunt, Gash, or Puncture | Brawn | Long sword, mace |
@@ -391,6 +391,8 @@ The following is a list of the different weapon Properties and what they mean.
 **Precision.** The weapon uses the Precision skill and relies on the Agility Attribute.
 
 **Reload.** After attacking with the weapon once, you must take the Reload Action to reload it before attacking again, and you must have ammunition for it. You must have a free hand to do so.
+
+**Small.** The weapon is considered a small object.
 
 **Two-Handed.** The weapon requires two unoccupied hands to wield.
 
