@@ -392,6 +392,8 @@ The following is a list of the different weapon Properties and what they mean.
 
 **Reload.** After attacking with the weapon once, you must take the Reload Action to reload it before attacking again, and you must have ammunition for it. You must have a free hand to do so.
 
+**Reach.** Attacks with the weapon can target creatures within 2 squares or hexagons instead of 1.
+
 **Small.** The weapon is considered a small object. Holding it does not prevent spellcasting even if the other hand is also occupied.
 
 **Two-Handed.** The weapon requires two unoccupied hands to wield.
