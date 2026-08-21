@@ -384,7 +384,7 @@ The following is a list of the different weapon Properties and what they mean.
 
 **Concealable.** The weapon can be easily concealed on your person, and while holding it, you can make a Covertness check to prevent others from seeing it.
 
-**Heavy.** The weapon requires a Strength Value of 8 or higher to wield.
+**Heavy.** The weapon requires a Strength Value of 8 or higher to wield effectively. A wielder with less than 8 Strength suffers an increased DT by +4 when attacking (to a maximum of 12).
 
 **Light.** The weapon can be comfortably wielded in one hand while keeping the other hand free to wield another Light weapon.
 
