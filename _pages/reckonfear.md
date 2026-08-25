@@ -127,7 +127,7 @@ Your hit points can be rolled or fixed, consult the following table.
 **Formula.** The formula for Rolled Hit Points is `Resilience Value + XdY` where X is your Resilience Modifier and Y is the highest even number that is equal to or lower than your Resilience Value (minimum of 4 in order to roll a die). Fixed Hit Points are based on the average roll of the Rolled Hit Points (rounded up).
 
 ## Skills
-There are 12 skills, each linked to a Character Attribute. You can choose 7 skills to gain competence in. You cannot gain competence in a skill if the respective Attribute Value is lower than 4.
+There are 24 skills, each linked to a Character Attribute. You can choose 7 skills to gain competence in. You cannot gain competence in a skill if the respective Attribute Value is lower than 4.
 
 | Skill | Attribute | Description |
 | :---- | :---- | :---- |
