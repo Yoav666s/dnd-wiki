@@ -146,13 +146,13 @@ There are 12 skills, each linked to a Character Attribute. You can choose 7 skil
 | Judgement | Intuition | Your ability to discern honesty from deception. |
 | Magic | Willpower | Your ability to bend reality to do your bidding. |
 | Mobility | Agility | Your ability to move quickly and maneuver through the environment. |
+| Occultism | Knowledge | Your ability to perceive and understand the occult. |
 | Persuasion | Charisma | Your ability to convince others in good faith. |
 | Precision | Agility | Your ability to hit the mark and operate Precision weaponry. |
 | Recall | Knowledge | Your ability to remember important details. |
 | Resistance | Strength | Your ability to stand your ground and withstand physical adversity. |
 | Scrutiny | Intuition | Your ability to scrutinize, investigate, and evaluate events, situations, and environments. |
 | Stealth | Agility | Your ability to move quietly, unheard and unseen. |
-| Occultism | Knowledge | Your ability to perceive and understand the occult. |
 | Vigor | Resilience | Your ability to resist poison and disease. |
 | Vitality | Resilience | Your ability to hold on to your life. |
 
