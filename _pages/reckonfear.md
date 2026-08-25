@@ -376,7 +376,7 @@ The following is a list of conditions that a creature may acquire.
 
 **Invisible.** The creature is Unseen. DTs of attacks and Stealth checks are reduced by 6 instead of 2 (to a minimum of 2). DR is increased by 6 instead of 2 (to a maximum of 12).
 
-**Poisoned.** The creature is poisoned and must succeed a Vigor check with Inverse Difficulty based on its Resilience (success with a cost counts as a failure) at the end of each of its turns or lose a Stamina Point. If it runs out of stamina before the effect ends, it takes 1d12 damage, instead.
+**Poisoned.** The creature is poisoned and must succeed a Vigor check with Inverse Difficulty based on its Resilience (success with a cost counts as a failure) at the end of each of its turns or lose a Stamina Point. On a critical failure, the creature loses 2 Stamina Points. If it runs out of stamina before the effect ends, it takes 1d12 damage, instead.
 
 **Prone.** The creature is lying on the ground, can't make physical attacks, and its DR is halved (rounded down). To get up, it can expend 3 movement squares or hexagons. A Prone creature can crawl at half speed (rounded down).
 
