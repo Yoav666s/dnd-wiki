@@ -659,6 +659,7 @@ The Spellblade is a master sword fighter who relies on Agility and Grit to dish 
 - Windstride
 
 ## Tank
+The Tank can take heavy damage, survive a lot of abuse, and deal a good amount of damage.
 
 | Attribute | Value | Modifier |
 | :---: | :---: | :---: |
