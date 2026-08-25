@@ -127,22 +127,31 @@ Your hit points can be rolled or fixed, consult the following table.
 **Formula.** The formula for Rolled Hit Points is `Resilience Value + XdY` where X is your Resilience Modifier and Y is the highest even number that is equal to or lower than your Resilience Value (minimum of 4 in order to roll a die). Fixed Hit Points are based on the average roll of the Rolled Hit Points (rounded up).
 
 ## Skills
-There are 12 skills, each linked to a Character Attribute. You can choose 5 skills to gain competence in. You cannot gain competence in a skill if the respective Attribute Value is lower than 4.
+There are 12 skills, each linked to a Character Attribute. You can choose 7 skills to gain competence in. You cannot gain competence in a skill if the respective Attribute Value is lower than 4.
 
 | Skill | Attribute | Description |
 | :---- | :---- | :---- |
+| Acclaim | Grit | Your ability to appeal to the public and gain respect. |
 | Awareness | Intuition | Your ability to notice your surroundings and spot unusual or hidden details. |
 | Brawn | Strength | Your ability to hit hard and operate Brawn weaponry. |
 | Coercion | Grit | Your ability to force your will upon others. |
 | Covertness | Charisma | Your ability to blend in, hide in plain sight, and mask your intentions. |
 | Deceit | Charisma | Your ability to tell lies convincingly and omit important details. |
+| Deduction | Knowledge | Your ability to deduce information from observations and reasoning. |
 | Endurance | Resilience | Your ability to run long distances or perform other demanding tasks for an extended period of time. |
+| Exertion | Strength | Your ability to exert force in order to overcome obstacles or perform tasks. |
+| Fortitude | Willpower | Your ability to withstand mental attacks and resist negative magical effects. |
 | Judgement | Intuition | Your ability to discern honesty from deception. |
 | Magic | Willpower | Your ability to bend reality to do your bidding. |
+| Mobility | Agility | Your ability to move quickly and maneuver through the environment. |
 | Persuasion | Charisma | Your ability to convince others in good faith. |
 | Precision | Agility | Your ability to hit the mark and operate Precision weaponry. |
 | Recall | Knowledge | Your ability to remember important details. |
+| Resistance | Strength | Your ability to stand your ground and withstand physical adversity. |
+| Scrutiny | Intuition | Your ability to scrutinize, investigate, and evaluate events, situations, and environments. |
 | Stealth | Agility | Your ability to move quietly, unheard and unseen. |
+| Occultism | Knowledge | Your ability to perceive and understand the occult. |
+| Vigor | Resilience | Your ability to resist poison and disease. |
 
 ## Position
 Your Associate's position determines your role in society. It can be anything that fits the world you'll be playing in, but here is a non-exhaustive list of examples.
@@ -265,7 +274,7 @@ The range of your spells equals to twice your Intuition modifier plus 4.
 Unless stated otherwise, the casting time of a spell is 1 Action. Since casting a spell requires both verbal and somatic components, you can only cast one spell per turn. When you cast a spell on your turn, you can't speak, as you're already performing verbal components. You need at least one free hand to cast a spell.
 
 ## Known Spells
-If you have competence in Magic, you know a number of spells equal to your Knowledge Modifier. If you have competence in the Recall skill, you know a number of spells equal to your Knowledge Value, instead. You can't learn a spell if its level requirement is higher than your Willpower Modifier. If your Willpower Modifier is 0, or if your Knowledge Value is 2, you can't learn any spells!
+If you have competence in Magic, you know a number of spells equal to your Knowledge Modifier. If you have competence in the Occultism skill, you know a number of spells equal to your Knowledge Value, instead. You can't learn a spell if its level requirement is higher than your Willpower Modifier. If your Willpower Modifier is 0, or if your Knowledge Value is 2, you can't learn any spells!
 
 ## Spell Duration
 Unless stated otherwise, a continuous spell's duration ends when you take a Break or a rest.
@@ -486,8 +495,8 @@ The Battlemage is fierce and dangerous, relying purely on magic to turn the tide
 - Awareness/Covertness
 - Endurance
 - Magic
+- Occultism
 - Precision
-- Recall
 
 **Armor.** Light \
 **Weapon.** Light Blade \
@@ -531,7 +540,7 @@ The Flame Juggler is a regular melee combatant wearing medium armor and wielding
 - Coercion
 - Endurance
 - Magic
-- Recall
+- Occultism
 
 **Armor.** Medium \
 **Weapon.** Heavy Weapon \
@@ -572,7 +581,7 @@ The Healer is optimized to heal with maximum Intuition. Healers rely completely 
 - Endurance
 - Judgement
 - Magic
-- Recall
+- Occultism
 
 **Armor.** Medium \
 **Weapon.** None \
@@ -612,8 +621,8 @@ The Spellblade is a master sword fighter who relies on Agility and Grit to dish 
 **Competence:**
 - Endurance
 - Magic
+- Occultism
 - Precision
-- Recall
 - Stealth
 
 **Armor.** Light \
@@ -635,3 +644,23 @@ The Spellblade is a master sword fighter who relies on Agility and Grit to dish 
 - Fire Bolt
 - Lesser Conjuration
 - Windstride
+
+## Tank
+
+| Attribute | Value | Modifier |
+| :---: | :---: | :---: |
+| Agility | 6 | +2 |
+| Strength | 10 | +3 |
+| Resilience | 12 | +4 |
+| Willpower | 6 | +2 |
+| Charisma | 2 | +0 |
+| Knowledge | 2 | +1 |
+| Intuition | 2 | +0 |
+| Grit | 9 | +3 |
+
+**Competence:**
+- Brawn
+- Endurance
+- 
+- 
+-
