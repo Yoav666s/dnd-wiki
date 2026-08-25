@@ -378,7 +378,7 @@ The following is a list of conditions that a creature may acquire.
 
 **Prone.** The creature is lying on the ground, can't make physical attacks, and its DR is halved (rounded down). To get up, it can expend 3 movement squares or hexagons. A Prone creature can crawl at half speed (rounded down).
 
-**Terrified.** The creature is terrified and the DT of attacks it makes is increased by 2 (to a maximum of 12). The creature can't use Magic on its turn unless it succeeds a Composure check with inverse difficulty based on its Willpower (success with a cost counts as a failure, critical success ends the effect). On failure, the Action or Sleight is wasted. If the creature didn't use Magic on its turn, it can make a Composure check with Inverse Difficulty based on its Grit to end the effect (success with a cost counts as a regular success).
+**Terrified.** The creature is terrified and the DT of attacks it makes is increased by 2 (to a maximum of 12). The creature can't use Magic on its turn unless it succeeds a Composure check with inverse difficulty based on its Willpower (success with a cost counts as a failure, critical success ends the effect). On failure, the Action or Sleight is wasted. If the creature didn't use Magic on its turn, it can make a Composure check with the triggering DT to end the effect (success with a cost counts as a regular success).
 
 **Unseen.** No one is looking at the creature. DTs of attacks and Stealth checks are reduced by 2 (to a minimum of 2). DR is increased by 2 (to a maximum of 12).
 
