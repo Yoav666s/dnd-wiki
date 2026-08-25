@@ -207,15 +207,17 @@ There is a number of things you can do that don't count as a full action, detail
 ## Special Actions
 There are special actions that don't require an Action or a Sleight. You can take one Special Action per turn.
 
-**Trip.** In place of 1 physical attack, if you have 2 free hands, you can attempt to trip a creature of your size or smaller within your reach. Make an Exertion check contested with the creature's Resistance.
-
 **Blend In.** Blend in a crowd or the environment. You can make a Covertness check contested with another creature's Awareness, if that creature is looking at you. On success, you become Unseen by that creature. If multiple creatures are looking at you, you make the check with Inverse Difficulty based on your Agility.
 
 **Draw.** Draw a weapon or two.
 
 **Hide.** If you are Unseen, you can make a Stealth check with Inverse Difficulty based on your Agility to become Hidden.
 
+**Investigate.** Make a Scrutiny check to investigate a creature or the environment. If you investigate a creature, the check is contested with the creature's Deceit or Persuasion (depending on the situation and what you're looking for).
+
 **Sheath.** Sheath a weapon or two.
+
+**Trip.** In place of 1 physical attack, if you have 2 free hands, you can attempt to trip a creature of your size or smaller within your reach. Make an Exertion check contested with the creature's Resistance.
 
 **Use.** Use an object, like opening a door or picking up a small rock.
 
