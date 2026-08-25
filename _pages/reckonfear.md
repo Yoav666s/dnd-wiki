@@ -28,7 +28,7 @@ Sometimes, the Reckoner will ask you to roll with difficulty. That means you rol
 
 **Contested Checks.** Some actions will require making a check against another character's Attribute. If the contesting character is competent, the DT of the contested check equals the largest even number that is equal or lower to that character's corresponding Attribute Value. For example, an Associate's Deceit check will be contested with another character's Judgement. The check favors the *active* party, so if an Associate suspects another character is lying, the player will roll a Judgement check contested by the other character's Deceit.
 
-**Inverse Difficulty.** Some things will require making a check with Inverse Difficulty based on one of your ability Attributes. The DT is `14 -- the Ability Attribute`. If the DT is odd, subtract 1 from it.
+**Inverse Difficulty.** Some things will require making a check with Inverse Difficulty based on one of your ability Attributes. The DT is `14 – the Ability Attribute`. If the DT is odd, subtract 1 from it.
 
 **Overshooting.** You might roll a 2 on the d20 and a 4 on the Difficulty Die, resulting in --2. This is where the d12 and d10 become valuable. Normally you wouldn't want to risk rolling a 10 or higher, but in this case it will give you a fighting chance. Otherwise, a negative result or a result that's higher than 20 is a standard critical failure.
 
