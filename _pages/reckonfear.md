@@ -207,7 +207,7 @@ There is a number of things you can do that don't count as a full action, detail
 ## Special Actions
 There are special actions that don't require an Action or a Sleight. You can take one Special Action per turn.
 
-**Trip.** In place of 1 physical attack, you can attempt to trip a creature of your size or smaller within your reach. Make an Exertion check contested with the creature's Resistance.
+**Trip.** In place of 1 physical attack, if you have 2 free hands, you can attempt to trip a creature of your size or smaller within your reach. Make an Exertion check contested with the creature's Resistance.
 
 **Draw.** Draw a weapon or two.
 
