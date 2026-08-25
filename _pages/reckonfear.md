@@ -196,7 +196,7 @@ There is a number of Actions you can take, detailed below.
 ## Sleights
 There is a number of things you can do that don't count as a full action, detailed below. You can only use one Sleight in a given turn.
 
-**Feint.** Make a Deceit check contested with the target's Judgement. On a success, the target's DR is reduced by 1 against your next attack this turn.
+**Feint.** Make a Deceit check contested with the target's Judgement. On a success, the target's DR is reduced by 1 against your next attack this turn. A critical success reduces the target's DR by 2. A success with a cost counts as a failure.
 
 **Magic.** Cast a spell that can be cast as a Sleight.
 
