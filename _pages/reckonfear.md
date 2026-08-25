@@ -202,7 +202,7 @@ There is a number of things you can do that don't count as a full action, detail
 
 **Offhand Attack.** If you took the Attack action and made at least one attack with a Light weapon, you can make one offhand attack with a different Light weapon you're holding as a Sleight. Alternatively, if you took the Attack action and made at least one Unarmed attack, you can make an extra Unarmed attack with your other hand.
 
-**Sprint.** Make a Mobility check with Inverse Difficulty based on your Agility modifier. On success, double your speed. On failure, increase your speed by your Agility modifier.
+**Sprint.** Make a Mobility check with Inverse Difficulty based on your Resilience modifier. On success, double your speed. On failure, increase your speed by your Agility modifier.
 
 ## Special Actions
 There are special actions that don't require an Action or a Sleight. You can take one Special Action per turn.
