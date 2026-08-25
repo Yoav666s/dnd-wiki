@@ -135,8 +135,9 @@ There are 12 skills, each linked to a Character Attribute. You can choose 7 skil
 | Awareness | Intuition | Your ability to notice your surroundings and spot unusual or hidden details. |
 | Brawn | Strength | Your ability to hit hard and operate Brawn weaponry. |
 | Coercion | Grit | Your ability to force your will upon others. |
+| Composure | Grit | Your ability to remain in control and stay calm under pressure. |
 | Covertness | Charisma | Your ability to blend in, hide in plain sight, and mask your intentions. |
-| Deceit | Charisma | Your ability to tell lies convincingly and omit important details. |
+| Deceit | Charisma | Your ability to convincingly tell lies and omit important details. |
 | Deduction | Knowledge | Your ability to deduce information from observations and reasoning. |
 | Endurance | Resilience | Your ability to run long distances or perform other demanding tasks for an extended period of time. |
 | Exertion | Strength | Your ability to exert force in order to overcome obstacles or perform tasks. |
@@ -253,7 +254,7 @@ In the Reckonfear universe Magic is broadly illegal, but there are those who pra
 | Sorcery | +4 | An advanced spell that can only be cast once between Rests. |
 
 ## Adversarial Effects
-When you cast a spell with a negative effect on an unwilling (or unknowing) creature, that creature must succeed a Willpower check with difficulty based on your Willpower Value to resist the effect. It can roll a Competence Die if its Willpower is higher than 3.
+When you cast a spell with a negative effect on an unwilling (or unknowing) creature, that creature must succeed a Fortitude check contested by your Magic to resist the effect.
 
 The exception to this is spells which explicitly state that you make an attack. In that case, you make a Magic check with difficulty based on the opponent's DR, and you can roll a Competence Die if you need to.
 
