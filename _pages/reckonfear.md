@@ -461,8 +461,10 @@ The Assassin wears no armor and wields two Concealable blades, trading raw damag
 
 **Competence:**
 - Awareness
+- Composure
 - Covertness
 - Deceit
+- Mobility
 - Precision
 - Stealth
 
@@ -495,14 +497,16 @@ The Battlemage is fierce and dangerous, relying purely on magic to turn the tide
 | Grit | 4 | +1 |
 
 **Competence:**
-- Awareness/Covertness
-- Endurance
+- Channelling
+- Covertness
+- Fortitude
 - Magic
 - Occultism
 - Precision
+- Vitality
 
 **Armor.** Light \
-**Weapon.** Light Blade \
+**Weapon.** Light Firearm \
 **Shield.** Buckler
 
 | Calculated Value |  |
@@ -539,11 +543,13 @@ The Flame Juggler is a regular melee combatant wearing medium armor and wielding
 | Grit | 12 | +4 |
 
 **Competence:**
+- Acclaim
 - Brawn
-- Coercion
 - Endurance
 - Magic
 - Occultism
+- Resistance
+- Vitality
 
 **Armor.** Medium \
 **Weapon.** Heavy Weapon \
@@ -581,10 +587,12 @@ The Healer is optimized to heal with maximum Intuition. Healers rely completely 
 
 **Competence:**
 - Awareness
-- Endurance
+- Channeling
 - Judgement
 - Magic
 - Occultism
+- Scrutiny
+- Vitality
 
 **Armor.** Medium \
 **Weapon.** None \
@@ -622,11 +630,13 @@ The Spellblade is a master sword fighter who relies on Agility and Grit to dish 
 | Grit | 12 | +4 |
 
 **Competence:**
-- Endurance
+- Acclaim
+- Compusure
 - Magic
 - Occultism
 - Precision
 - Stealth
+- Vitality
 
 **Armor.** Light \
 **Weapon.** Light Blade \
@@ -663,7 +673,23 @@ The Spellblade is a master sword fighter who relies on Agility and Grit to dish 
 
 **Competence:**
 - Brawn
+- Compusure
 - Endurance
-- 
-- 
--
+- Exertion
+- Fortitude
+- Resistance
+- Vitality
+
+**Armor.** Heavy \
+**Weapon.** Heavy Weapon \
+**Shield.** None
+
+| Calculated Value |  |
+| :---: | :---: |
+| Hit Points | 40 |
+| Defense Rank | 12 |
+| Speed | 5 |
+| Stamina | 7 |
+| Known Spells | 0 |
+| Spell Range | - |
+| Unarmed Damage | 1d6 + 3 |
