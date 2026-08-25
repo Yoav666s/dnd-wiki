@@ -458,9 +458,9 @@ The Assassin wears no armor and wields two Concealable blades, trading raw damag
 | Agility | 10 | +3 |
 | Strength | 2 | +0 |
 | Resilience | 9 | +3 |
-| Willpower | 2 | +2 |
+| Willpower | 2 | +0 |
 | Charisma | 6 | +2 |
-| Knowledge | 2 | +1 |
+| Knowledge | 2 | +0 |
 | Intuition | 6 | +2 |
 | Grit | 12 | +4 |
 
@@ -673,7 +673,7 @@ The Tank can take heavy damage, survive a lot of abuse, and deal a good amount o
 | Resilience | 12 | +4 |
 | Willpower | 6 | +2 |
 | Charisma | 2 | +0 |
-| Knowledge | 2 | +1 |
+| Knowledge | 2 | +0 |
 | Intuition | 2 | +0 |
 | Grit | 9 | +3 |
 
