@@ -202,6 +202,8 @@ There is a number of things you can do that don't count as a full action, detail
 
 **Draw.** Draw a weapon or two.
 
+**Feint.** Make a Deceit check contested with the target's Judgement. On a success, the target's DR is reduced by 1 against your next attack this turn.
+
 **Hide.** If you are Unseen, you can make a Stealth check with Inverse Difficulty based on your Agility to become Hidden.
 
 **Magic.** Cast a spell that can be cast as a Sleight.
