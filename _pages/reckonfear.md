@@ -191,28 +191,31 @@ There is a number of Actions you can take, detailed below.
 
 **Reload.** Reload a firearm or a crossbow.
 
-**Sprint.** Increase your speed by your Agility modifier.
-
-**Trip.** In place of 1 physical attack, you can attempt to trip a creature of your size or smaller within your reach. Make a Brawn check contested with the creature's Brawn.
-
 **Improvise.** Take an action that is not listed here, at the Reckoner's discretion.
 
 ## Sleights
 There is a number of things you can do that don't count as a full action, detailed below. You can only use one Sleight in a given turn.
 
-**Draw.** Draw a weapon or two.
-
 **Feint.** Make a Deceit check contested with the target's Judgement. On a success, the target's DR is reduced by 1 against your next attack this turn.
-
-**Hide.** If you are Unseen, you can make a Stealth check with Inverse Difficulty based on your Agility to become Hidden.
 
 **Magic.** Cast a spell that can be cast as a Sleight.
 
 **Offhand Attack.** If you took the Attack action and made at least one attack with a Light weapon, you can make one offhand attack with a different Light weapon you're holding as a Sleight. Alternatively, if you took the Attack action and made at least one Unarmed attack, you can make an extra Unarmed attack with your other hand.
 
+**Sprint.** Make a Mobility check with Inverse Difficulty based on your Agility modifier. On success, double your speed. On failure, increase your speed by your Agility modifier.
+
+## Special Actions
+There are special actions that don't require an Action or a Sleight. You can take one Special Action per turn.
+
+**Trip.** In place of 1 physical attack, you can attempt to trip a creature of your size or smaller within your reach. Make an Exertion check contested with the creature's Resistance.
+
+**Draw.** Draw a weapon or two.
+
+**Hide.** If you are Unseen, you can make a Stealth check with Inverse Difficulty based on your Agility to become Hidden.
+
 **Sheath.** Sheath a weapon or two.
 
-**Use.** Use an object, like opening a door or drinking a potion.
+**Use.** Use an object, like opening a door or picking up a small rock.
 
 ## Initiative
 The turn order in combat is determined by rolling initiative. To roll initiative, you can choose any die with a number of faces equal to or lower than your Grit Value (if you decide to roll at all). The number rolled is where you are on initiative order: whoever rolled highest goes first, and whoever rolled lowest (or didn't roll at all) goes last.
