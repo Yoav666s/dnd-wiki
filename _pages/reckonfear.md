@@ -209,6 +209,8 @@ There are special actions that don't require an Action or a Sleight. You can tak
 
 **Trip.** In place of 1 physical attack, if you have 2 free hands, you can attempt to trip a creature of your size or smaller within your reach. Make an Exertion check contested with the creature's Resistance.
 
+**Blend In.** Blend in a crowd or the environment. You can make a Covertness check contested with another creature's Awareness, if that creature is looking at you. On success, you become Unseen by that creature. If multiple creatures are looking at you, you make the check with Inverse Difficulty based on your Agility.
+
 **Draw.** Draw a weapon or two.
 
 **Hide.** If you are Unseen, you can make a Stealth check with Inverse Difficulty based on your Agility to become Hidden.
