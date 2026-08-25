@@ -215,6 +215,8 @@ There are special actions that don't require an Action or a Sleight. You can tak
 
 **Investigate.** Make a Scrutiny check to investigate a creature or the environment. If you investigate a creature, the check is contested with the creature's Deceit or Persuasion (depending on the situation and what you're looking for). On success, you learn one piece of information about the creature or the environment.
 
+**Recall.** Make a Recall check to learn one general piece of information about a creature or the environment. The Reckoner decides what the DT is depending on the situation and your Position.
+
 **Sheath.** Sheath a weapon or two.
 
 **Trip.** In place of 1 physical attack, if you have 2 free hands, you can attempt to trip a creature of your size or smaller within your reach. Make an Exertion check contested with the creature's Resistance.
