@@ -281,7 +281,7 @@ The following is a list of Jinxes.
 
 **Fumble.** As a Sleight, you increase the DT of the next check a creature you can see within range makes in the next minute by twice your Willpower Modifier to a maximum of 12.
 
-**Lesser Conjuration.** As a Sleight, you create a small inanimate object in your hand, such as a pen, a dagger, or a derringer. It looks and functions like a completely ordinary object, has no monetary value, and disappears after 1 minute or if you let go of it (no action required).
+**Lesser Conjuration.** As a Sleight, you create a small inanimate object in your hand, such as a pen, a dagger, or a derringer. It looks and functions like a completely ordinary object, except for the fact that it's visibly magical. It has no monetary value and disappears after 1 minute or if you let go of it (no action required).
 
 **Minor Telekinesis.** As a Sleight, you manipulate a small object (such as a paperweight) or mechanism (such as an unlocked door handle). You can utilize it, topple it over, or move it to a place within range (possibly to your or another creature's hand). The object moves too slowly to deal damage unless you drop it a distance of 1 or more squares or hexagons as an Action; make an attack against the creature or object. On a hit, both the manipulated object and the target take 1d4 Blunt damage per square or hexagon. You can keep the object at a height equal to your Willpower modifier. Alternatively, as an Action, if you're competent in the Precision skill, you can operate a small Precision weapon (such as a pistol or a dagger) to make 1 attack. The Competence die you roll is based on your Willpower Value.
 
