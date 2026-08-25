@@ -325,7 +325,7 @@ The following is a list of Incantations. You can't cast the same Incantation two
 **Windstride.** As a Sleight, you cause the wind to boost you as you run. Your current speed is doubled until the end of your turn.
 
 ## Invocations
-The following is a list of Invocations. After you cast an Invocation, you must succeed an Endurance check with Inverse Difficulty based on your Resilience or lose a Stamina Point. A Success with a Cost counts as a Failure. You can't cast the same Invocation two turns in a row.
+The following is a list of Invocations. After you cast an Invocation, you must succeed a Channelling check with Inverse Difficulty based on your Resilience or lose a Stamina Point. A Success with a Cost counts as a Failure. You can't cast the same Invocation two turns in a row.
 
 **Conjuration.** You create a large or smaller inanimate object in an unoccupied space you can see within range. It looks completely ordinary, has no monetary value, and disappears after you finish a Rest or cast this spell again. Alternatively, you can conjure a weapon in your hands as a Sleight.
 
@@ -340,7 +340,7 @@ The following is a list of Invocations. After you cast an Invocation, you must s
 **Transform.** You transform into another creature the same size as you and with the same arrangement of limbs that you have. You decide what you look and sound like, though none of your game statistics change. Your clothing and equipment are not affected. Until your next Rest, you can transform again as an Action. The spell ends if you transform back to your true form.
 
 ## Sorceries
-The following is a list of Sorceries. After you cast a Sorcery, you must succeed an Endurance check with Inverse Difficulty based on your Resilience or lose a Stamina Point. A Success with a Cost counts as a Failure. Once you cast a Sorcery, you can't do it again until you finish a Rest.
+The following is a list of Sorceries. After you cast a Sorcery, you must succeed a Channelling check with Inverse Difficulty based on your Resilience or lose a Stamina Point. A Success with a Cost counts as a Failure. Once you cast a Sorcery, you can't do it again until you finish a Rest.
 
 **Heal.** A number of creatures equal to your Intuition Value that you can see within range regain missing Hit Points until they're back to full. You can also target yourself.
 
