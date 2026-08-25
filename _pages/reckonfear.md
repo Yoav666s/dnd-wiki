@@ -545,6 +545,43 @@ The Battlemage is fierce and dangerous, relying purely on magic to turn the tide
 - Mind Control
 - Translocation
 
+## Diplomat
+The Diplomat is a character focused on diplomacy and social interactions, though still able to deal damage in combat, resist magic, and take hits.
+
+| Attribute | Value | Modifier |
+| :---: | :---: | :---: |
+| Agility | 10 | +3 |
+| Strength | 2 | +0 |
+| Resilience | 9 | +3 |
+| Willpower | 6 | +2 |
+| Charisma | 10 | +3 |
+| Knowledge | 2 | +0 |
+| Intuition | 8 | +2 |
+| Grit | 6 | +2 |
+
+**Competence:**
+- Awareness
+- Covertness
+- Deceit
+- Fortitude
+- Judgement
+- Persuasion
+- Precision
+
+**Armor.** None \
+**Weapon.** Light Firearm / Tiny Blade \
+**Shield.** None
+
+| Calculated Value |  |
+| :---: | :---: |
+| Hit Points | 24 |
+| Defense Rank | 8 |
+| Speed | 6 |
+| Stamina | 6 |
+| Known Spells | 0 |
+| Spell Range | - |
+| Unarmed Damage | 0 |
+
 ## Flame Juggler
 The Flame Juggler is a regular melee combatant wearing medium armor and wielding a heavy weapon. However, the Flame Juggler has a secret weapon: instead of drawing a heavy weapon, cast Fire Play. The Flame Juggler can make 5 separate Unarmed attacks dealing 1d6 + 1d4 + 3 damage on a hit, while also having access to some utility options.
 
