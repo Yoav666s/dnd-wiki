@@ -134,6 +134,7 @@ There are 12 skills, each linked to a Character Attribute. You can choose 7 skil
 | Acclaim | Grit | Your ability to appeal to the public and gain respect. |
 | Awareness | Intuition | Your ability to notice your surroundings and spot unusual or hidden details. |
 | Brawn | Strength | Your ability to hit hard and operate Brawn weaponry. |
+| Channelling | Willpower | Your ability to sustain ongoing spells under duress. |
 | Coercion | Grit | Your ability to force your will upon others. |
 | Composure | Grit | Your ability to remain in control and stay calm under pressure. |
 | Covertness | Charisma | Your ability to blend in, hide in plain sight, and mask your intentions. |
@@ -153,6 +154,7 @@ There are 12 skills, each linked to a Character Attribute. You can choose 7 skil
 | Stealth | Agility | Your ability to move quietly, unheard and unseen. |
 | Occultism | Knowledge | Your ability to perceive and understand the occult. |
 | Vigor | Resilience | Your ability to resist poison and disease. |
+| Vitality | Resilience | Your ability to hold on to your life. |
 
 ## Position
 Your Associate's position determines your role in society. It can be anything that fits the world you'll be playing in, but here is a non-exhaustive list of examples.
@@ -438,7 +440,7 @@ Shields are an uncommon sight in the Reckonfear universe, but they are highly ef
 In Reckonfear, Associates progress through Milestones Leveling. When an Associate levels up the player can choose between gaining 4 points to distribute to their attributes (according to Point Buy rules), or gain 2 points and Competence in a new skill. Unspent points can be saved up for later levels.
 
 # Death
-When you have 0 Hit Points and at least 1 Stamina Point, you are Dying, hanging onto life by a thread. At the start of each of your turns, you make a flat d20 Stabilization check---no DT and no Competence Die. If you succeed, you are no longer Dying. After a failure, you lose 1 Stamina Point. A critical success brings you back to 1 Hit Point. A critical failure causes you to lose 2 Stamina Points. A success with a cost counts will stabilize you, but you still lose 1 Stamina Point. Whenever you take damage while you're at 0 hit points, you lose 1 Stamina Point. If you run out of Stamina Points while you're at 0 Hit Points, you die.
+When you have 0 Hit Points and at least 1 Stamina Point, you are Dying, hanging onto life by a thread. At the start of each of your turns, you make a Vitality check. If you succeed, you are no longer Dying. After a failure, you lose 1 Stamina Point. A critical success brings you back to 1 Hit Point. A critical failure causes you to lose 2 Stamina Points. A success with a cost counts will stabilize you, but you still lose 1 Stamina Point. Whenever you take damage while you're at 0 hit points, you lose 1 Stamina Point. If you run out of Stamina Points while you're at 0 Hit Points, you die.
 
 # Example Builds
 The following are examples for legal, optimized builds.
