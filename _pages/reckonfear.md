@@ -189,7 +189,7 @@ There is a number of Actions you can take, detailed below.
 
 **Magic.** Cast a spell that requires an action.
 
-**Reload.** Reload a firearm or a crossbow.
+**Reload.** Reload a firearm or a crossbow. Alternatively, reload two tiny firearms.
 
 **Improvise.** Take an action that is not listed here, at the Reckoner's discretion.
 
