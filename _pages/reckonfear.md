@@ -669,6 +669,43 @@ The Healer is optimized to heal with maximum Intuition. Healers rely completely 
 - Frostbite
 - Restore
 
+## Investigator
+The Investigator is a detective who uses knowledge and intuition to uncover secrets and clues.
+
+| Attribute | Value | Modifier |
+| :---: | :---: | :---: |
+| Agility | 10 | +3 |
+| Strength | 2 | +0 |
+| Resilience | 9 | +3 |
+| Willpower | 6 | +2 |
+| Charisma | 8 | +2 |
+| Knowledge | 8 | +2 |
+| Intuition | 8 | +2 |
+| Grit | 4 | +1 |
+
+**Competence:**
+- Awareness
+- Covertness
+- Deduction
+- Fortitude
+- Precision
+- Scrutiny
+- Stealth
+
+**Armor.** Leather \
+**Weapon.** Light Firearm \
+**Shield.** None
+
+| Calculated Value |  |
+| :---: | :---: |
+| Hit Points | 24 |
+| Defense Rank | 10 |
+| Speed | 6 |
+| Stamina | 6 |
+| Known Spells | 0 |
+| Spell Range | - |
+| Unarmed Damage | 0 |
+
 ## Spellblade
 The Spellblade is a master sword fighter who relies on Agility and Grit to dish out a surprising number of precise attacks. After drawing a sword, the Spellblade can conjure a dagger or a derringer for a flexible, extra attack. When facing a particularly deadly foe, the Spellblade could cast Barrier on each turn instead, sacrificing an extra attack for much needed protection. If the enemy is particularly far, the Spellblade can use Windstride to close the distance.
 
