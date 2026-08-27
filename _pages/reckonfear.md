@@ -693,7 +693,7 @@ The Investigator is a detective who uses knowledge and intuition to uncover secr
 - Stealth
 
 **Armor.** Leather \
-**Weapon.** Light Firearm \
+**Weapon.** 2 Tiny Firearms \
 **Shield.** None
 
 | Calculated Value |  |
