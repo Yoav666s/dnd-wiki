@@ -19,8 +19,8 @@ saving_throws: ""
 skills: "Perception +3, Stealth +8"
 senses: "Passive Perception 13"
 languages: "Common, Elvish, Sylvan"
-challenge_rating: 0.25
-xp: 50
+challenge_rating: 0.5
+xp: 100
 proficiency_bonus: "+2"
 traits: |
   **Dimension Slip.** Whenever the sprite would expend movement to move, it can instead teleport to an unoccupied space it can see within a range equal to the expended movement.
