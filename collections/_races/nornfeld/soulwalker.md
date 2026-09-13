@@ -13,6 +13,8 @@ header:
 
 > Love leaves a bitter aftertaste,
 >
-> Life is but a fickle, treacherous thing;
+> Life is but a fickle, treacherous thing.
 >
+> Death, in the end, is the ultimate truth
 > 
+> And I am somewhere in between.
