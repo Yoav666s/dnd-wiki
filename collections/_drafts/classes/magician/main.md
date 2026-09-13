@@ -78,7 +78,7 @@ You can spend these dice on various tricks. You start knowing three such tricks:
 
 When a trick requires a saving throw, the DC equals 8 + your Charisma modifier + your proficiency bonus.
 
-**Effortless Performance.** When you fail a Dexterity (Sleight of Hand) or Charisma (Deception or Performance) check, you can expend a Trickery die, rolling it and adding the number rolled to the total, possiblity turning the failure into a success.
+**Effortless Performance.** When you fail a Dexterity (Sleight of Hand) or Charisma (Deception or Performance) check, you can expend a Trickery die, rolling it and adding the number rolled to the total, possibly turning the failure into a success.
 
 **Misdirected Strike.** Before you make a weapon or attack or unarmed strike, you can expend a Trickery die to feint a different attack. Roll the die and add the number rolled to the attack roll.
 
