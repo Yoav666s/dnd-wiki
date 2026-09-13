@@ -106,7 +106,7 @@ Starting at 7th level, when you are subjected to an effect that allows you to ma
 ## Smoke and Mirrors
 Starting at 9th level, you learn the following tricks.
 
-**Fire Play.** You can replace one of your attacks with a burst of flame on a creature within 5 feet of you. Expend a number of Trickery dice equal up to your Charisma modifier (minimum of 1), rolling them. The target must make a Dexterity saving throw. On failure, it takes fire damage equal to the total rolled and starts burning. On success, it only takes half damage.
+**Fire Play.** As an action, you can cast a burst of flame on a creature within 5 feet of you. Expend a number of Trickery dice equal up to your Charisma modifier (minimum of 1), rolling them. The target must make a Dexterity saving throw. On failure, it takes fire damage equal to the total rolled and starts burning. On success, it only takes half damage.
 
 **Smoke Cloud.** As a bonus action, you can expend a Trickery die, rolling it. You create an 20-foot-radius sphere of harmless smoke centered on you. The sphere spreads around corners, and its area is heavily obscured. It lasts a number of rounds equal to the number rolled or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
