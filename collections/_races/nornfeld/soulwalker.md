@@ -58,3 +58,5 @@ You don't need to eat, drink, or breathe. Additionally, you don't need to sleep,
 
 ## Languages
 Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.
+
+[:races/soulwalker:]
