@@ -46,7 +46,7 @@ Starting at 1st level, immediately after you expend a spell slot of 1st level or
 If casting the spell already grants you invisibility, you instead gain a flying speed equal to your walking speed until the end of your turn. At the end of your turn, you fall if you are still aloft unless you can stop the fall.
 
 # Animate Object
-Starting at 6th level, you can use your action to animate one Medium or smaller object for 1 minute, as per the [[Animate Objects]] spell. This effect does not require your concentration but ends early if you use it again.
+Starting at 6th level, you can use your action to animate one Medium or smaller object for 1 minute, as per the [[Animate Objects]] spell. This effect does not require your concentration but ends early if you use this feature again.
 
 When you reach 14th level, you can animate a Large or smaller object in this way.
 
