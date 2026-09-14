@@ -45,7 +45,7 @@ Lacking in physical strength, triflings must rely on their cunning guile and qui
 Triflings share certain racial traits as a result of their infernal bloodline.
 
 ## Ability Score Increase
-Your Dexterity score increases by 2 and your Constitution score is increased by 1.
+When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 
 ## Age
 Triflings can live for hundreds of years, and don't have much of a grasp on maturity or elders.
@@ -62,8 +62,13 @@ Thanks to your infernal bloodline, you have superior vision in dark and dim cond
 ## Hellish Resistance
 You are resistant to fire damage.
 
+## Magic Resistance
+When you make an Intelligence, Wisdom, or Charisma saving throw, you can give yourself advantage on the roll.
+
+You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
 ## Infernal Invocations
-You know the [[Produce Flame]] and [[Thaumaturgy]] cantrips. Charisma is your spellcasting ability for these spells.
+You know the [[Produce Flame]] and [[Thaumaturgy]] cantrips. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells.
 
 ## Trickery and Deceit
 You have proficiency in the Deception, Sleight of Hand, or Stealth skill.
@@ -72,14 +77,3 @@ You have proficiency in the Deception, Sleight of Hand, or Stealth skill.
 You can speak, read, and write Common and Infernal.
 
 [:races/trifling/alt:]
-
-# Variant Trifling
-If your campaign uses the 2024 ruleset, your Dungeon Master might allow these variant traits which replace the Ability Score Increase trait and other traits of the same names.
-
-## Magic Resistance
-When you make an Intelligence, Wisdom, or Charisma saving throw, you can give yourself advantage on the roll.
-
-You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-## Infernal Invocations
-You know the [[Produce Flame]] and [[Thaumaturgy]] cantrips. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells.

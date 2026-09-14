@@ -44,7 +44,7 @@ Metamorphes like to blend in with other races in society, hiding their true form
 It’s hard to make generalizations about metamorphes, but your metamorphe character has these traits.
 
 ## Ability Score Increase
-When determining your character’s ability scores, increase one ability score of your choice by 2 and another one by 1. You can't raise any of your scores above 20.
+When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 
 ## Creature Type
 You are a Fey.
@@ -58,6 +58,9 @@ Metamorphes vary widely in height and build, from barely 3 feet to well over 5 f
 ## Speed
 Your base walking speed is 30 feet.
 
+## Darkvision
+You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
 ## Natural Actor
 You are proficient in the Deception skill, and you have advantage on Charisma (Deception) checks when trying to pass yourself off as someone else.
 
@@ -68,9 +71,3 @@ You can alter your shape as an action. You decide what you look like, including 
 You can speak, read, and write Common and one other language of your choice.
 
 [:races/metamorphe:]
-
-# Variant Metamorphe
-If your campaign uses the 2024 ruleset, your Dungeon Master might allow this variant trait which replaces the Ability Score Increase trait.
-
-## Darkvision
-You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.

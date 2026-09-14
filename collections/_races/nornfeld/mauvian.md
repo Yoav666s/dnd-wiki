@@ -44,7 +44,7 @@ If a mauvian found themselves inside a terrestrial atmosphere which lacks Krypto
 Your mauvian character has the following traits.
 
 ## Ability Score Increase
-Your Constitution score increases by 2 and your Wisdom score increases by 1.
+When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 
 ## Size
 Mauvians stand between 3 and 5 feet tall. Your size is Medium or Small.
@@ -65,6 +65,9 @@ As a bonus action, you gain Tremorsense with a range of 30 feet for 1 minute.
 
 You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
+## Mauvian Resilience
+You have resistance to poison damage. You also have advantage on saving throws you make to avoid or end the poisoned condition.
+
 ## Extended Wakefulness
 Mauvians only need to sleep every 60 hours or so. Provided you sleep at the end of every third terrestrial day, you can benefit from a long rest even if you don't sleep, as long as you take at least 8 hours of downtime performing only light activity like reading, talking, eating, or standing watch.
 
@@ -72,9 +75,3 @@ Mauvians only need to sleep every 60 hours or so. Provided you sleep at the end 
 You can speak, read, and write Mauvish.
 
 [:races/mauvian:]
-
-# Variant Mauvian
-If your campaign uses the 2024 ruleset, your Dungeon Master might allow this variant trait which replaces the Ability Score Increase trait.
-
-## Mauvian Resilience
-You have resistance to poison damage. You also have advantage on saving throws you make to avoid or end the poisoned condition.
