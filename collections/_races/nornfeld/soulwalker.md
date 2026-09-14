@@ -20,7 +20,9 @@ header:
 > And I am somewhere in between.
 
 # The Face of Undeath
-Soulwalkers are beings that don't belong in the material plane nor in the ethereal plane. Their bodies are spectral, seemingly made of some partly incorporeal, physical force. They are a shadow of whoever they've been in life, a ghost of someone who once knew love and hate, a phantom that now wanders throughout the land, seeking closure.
+Soulwalkers are beings that don't belong in the material plane nor in the ethereal plane. Their bodies are spectral, seemingly made of some partly incorporeal, physical force. They are a shadow of whoever they've been in life, a ghost of someone who once knew love and hate, a phantom that now wanders across the land, seeking closure.
+
+They resemble who they used to be. They don't rot, because they're not fully tangible, and they can don armor and wield swords, but wine will pass through their body and spill on the floor, and they cannot taste bread or meat. They have already died, but their soul didn't pass on to afterlife, and their corpse is held hostage between two planes of existence.
 
 # Soulwalker Traits
 As a Soulwalker, you have the following traits.
@@ -41,7 +43,7 @@ Your base walking speed is 30 feet.
 You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 
 ## Incorporeal Movement
-As a bonus action, you can become incorporeal until the end of your turn. While in this state, you have a flying speed equal to your walking speed and you can move through other creatures and objects as if they were difficult terrain. You take 3d10 force damage if you end your turn inside an object. At the end of your turn, you fall if you are still aloft, unless you can stop the fall.
+As a bonus action, you can become partially incorporeal until the end of your turn, along with whatever you're wearing or carrying. While in this state, you have a flying speed equal to your walking speed and you can move through other creatures and objects as if they were difficult terrain. You take 3d10 force damage if you end your turn inside an object. At the end of your turn, you fall if you are still aloft, unless you can stop the fall.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
