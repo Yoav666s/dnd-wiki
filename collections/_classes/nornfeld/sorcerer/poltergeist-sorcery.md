@@ -10,6 +10,7 @@ alt_version: poltergeist-soul
 header:
   overlay_image: /assets/images/classes/sorcerer/poltergeist-soul/2024/header.png
   teaser: /assets/images/classes/sorcerer/poltergeist-soul/2024/header.jpg
+source: "Exterminator's Guide to Ghostly Things"
 ---
 *Haunt the Living like a Poltergeist*
 
