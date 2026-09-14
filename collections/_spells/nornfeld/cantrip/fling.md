@@ -30,3 +30,5 @@ header:
   teaser: /assets/images/spells/fling/header.jpg
 source: "Exterminator's Guide to Ghostly Things"
 ---
+
+[:spells/fling:]
