@@ -20,7 +20,7 @@ header:
 > And I am somewhere in between.
 
 # The Face of Undeath
-Soulwalkers are beings that don't belong in the material plane nor in the ethereal plane. Their bodies are spectral, seemingly made of some partly incorporeal, physical force.
+Soulwalkers are beings that don't belong in the material plane nor in the ethereal plane. Their bodies are spectral, seemingly made of some partly incorporeal, physical force. They are a shadow of whoever they've been in life, a ghost of someone who once knew love and hate, a phantom that now wanders throughout the land, seeking closure.
 
 # Soulwalker Traits
 As a Soulwalker, you have the following traits.
