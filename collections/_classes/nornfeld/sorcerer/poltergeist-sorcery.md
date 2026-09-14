@@ -43,7 +43,7 @@ In addition, consult the Poltergeist Manifestations table and choose or randomly
 | 6 | Objects around you rattle or tilt without being touched. |
 
 # Level 3: Animate Object
-You can use your action to animate one Small or Tiny object for 1 minute, as per the [[Animate Objects]] spell. This effect does  not require your concentration but ends early if you use this feature again.
+You can use your bonus action to animate one Small or Tiny object for 1 minute, as per the [[Animate Objects]] spell. This effect does  not require your concentration but ends early if you use this feature again.
 
 When you reach Sorcerer level 6, you can animate a Medium or smaller object in this way. When you reach Sorcerer level 14, you can animate a Large or smaller object in this way.
 
