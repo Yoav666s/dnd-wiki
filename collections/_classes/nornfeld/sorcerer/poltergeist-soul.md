@@ -17,14 +17,14 @@ The power of ethereal magic casts a strange aura over your physical presence. Yo
 # Poltergeist Magic
 
 ## Poltergeist Spells
-You know the [[Fling]] cantrip and it doesn't count against your cantrips known. You learn additional spells when you reach certain levels in this class, as shown on the Poltergeist Spells table. Each spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. These spells can’t be replaced when you gain a level in this class.
+You learn additional spells when you reach certain levels in this class, as shown on the Poltergeist Spells table. Each spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. These spells can’t be replaced when you gain a level in this class.
 
 | Sorcerer Level | Spells |
 | :--: | :--- |
-| 1st | Catapult, Cause Fear |
-| 3rd | [[Invisibility]], [[Levitate]] |
-| 5th | [[Fly]], [[Nondetection]] |
-| 7th | [[Confusion]], [[Freedom of Movement]] |
+| 1st | Catapult, Cause Fear, [[!Fling]] |
+| 3rd | [[!Invisibility]], [[!Levitate]] |
+| 5th | [[!Fly]], [[!Nondetection]] |
+| 7th | [[!Confusion]], [[!Freedom of Movement]] |
 | 9th | [[Animate Objects]], [[Telekinesis]] |
 
 In addition, consult the Poltergeist Manifestations table and choose or randomly determine a way your connection to the ethereal plane manifests while you are casting any of your sorcerer spells.
