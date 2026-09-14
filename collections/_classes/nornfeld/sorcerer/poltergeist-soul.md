@@ -40,8 +40,10 @@ In addition, consult the Poltergeist Manifestations table and choose or randomly
 | 5 | Your skin gets a blue tint to it, and it's almost see-through. |
 | 6 | Objects around you rattle or tilt without being touched. |
 
-# Potent Incantations
-Starting at 1st level, your sorcerer cantrips deal additional damage equal to your Charisma modifier.
+# Ghostly Magic
+Starting at 1st level, immediately after you expend a spell slot of 1st level or higher, you can become invisible until the start of your next turn. The invisibility ends early if you attack or cast a spell.
+
+If casting the spell already grants you invisibility, you instead gain a flying speed equal to your walking speed until the end of your turn. At the end of your turn, you fall if you are still aloft unless you can stop the fall.
 
 # Animate Object
 Starting at 6th level, you can use your action to animate one Medium or smaller object for 1 minute, as per the [[Animate Objects]] spell. This effect ends early if you use this feature again.
