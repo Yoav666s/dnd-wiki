@@ -19,3 +19,8 @@ The following are ghostly subclasses.
 The following are ghostly races.
 
 {% include expansion_races.html %}
+
+# Chapter ?: Spells
+The following are ghostly spells.
+
+{% include expansion_spells.html %}
