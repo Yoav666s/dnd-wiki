@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/expansions/exterminators-guide-to-ghostly-things/header.png
   teaser: /assets/images/expansions/exterminators-guide-to-ghostly-things/header.jpg
 ---
+Do you believe in ghosts? You should!
 
 # Chapter ?: Subclasses
 The following are ghostly subclasses.
