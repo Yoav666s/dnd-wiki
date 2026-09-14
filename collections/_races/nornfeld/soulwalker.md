@@ -10,6 +10,7 @@ tags:
 header:
   overlay_image: /assets/images/races/soulwalker/header.png
   teaser: /assets/images/races/soulwalker/header.jpg
+source: "Exterminator's Guide to Ghostly Things"
 ---
 
 > Love leaves a bitter aftertaste,
