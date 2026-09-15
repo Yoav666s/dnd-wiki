@@ -35,4 +35,5 @@ excerpt: "Two spectral hands appear floating around you."
 # header:
 #   overlay_image: /assets/images/spells/name/header.png
 #   teaser: /assets/images/spells/name/header.jpg
+source: "Exterminator's Guide to Ghostly Things"
 ---
