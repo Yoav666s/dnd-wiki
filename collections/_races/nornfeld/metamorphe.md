@@ -3,7 +3,7 @@ title: "Metamorphe"
 index:
   - metamorphe
 permalink: /races/metamorphe/
-excerpt: "Metamorphes are creatures who can change shape."
+excerpt: "Metamorphes are descendants of the Fey, retaining the ability to change shape at will and use fey magic."
 tags:
   - Race
 source: "Fillumir's Guide to the Feywild"
@@ -37,9 +37,6 @@ Your metamorphe character has these traits.
 
 ## Ability Score Increase
 When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
-
-## Age
-Metamorphes reach adulthood in their late teens and live less than a century.
 
 ## Size
 Metamorphes vary widely in height and build, from barely 3 feet to well over 5 feet tall. Your size is Medium or Small.
