@@ -58,6 +58,11 @@ You can alter your shape as an action. You decide what you look like, including 
 
 You can do this a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. Returning to your true form does not expend a use.
 
+## Fey Magic 
+You know the Subterfuge cantrip. Starting at 3rd level, you can cast the Dimension Slip spell with this trait. Starting at 5th level, you can cast the Blur spell with this trait. Once you cast Dimension Slip or Blur with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+
+Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
+
 ## Languages
 You can speak, read, and write Common and one other language of your choice.
 
