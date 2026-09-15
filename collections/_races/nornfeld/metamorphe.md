@@ -20,7 +20,7 @@ header:
 > and take all that you hold dear.
 
 # Fey Lineage 
-Metamorphes are descendants of the Fey, retaining the ability to change shape at will. Most people don't trust metamorphes. They're known for their deception and dishonesty, even when they reveal their true form. For this reason, most metamorphes protect their identity as their most guarded secret, and show their true face to no one.
+Metamorphes are descendants of the Fey, retaining the ability to change shape at will and use fey magic. Most people don't trust metamorphes. They're known for their deception and dishonesty, even when they reveal their true form. For this reason, most metamorphes protect their identity as their most guarded secret, and show their true face to no one.
 
 # Hideous Creatures
 Metamorphes are known for their unsettling form. Their skin is tight on their slender bodies, their hair is white and thin. Their fingers are long and bony, their ears are sharp, and their teeth are crooked.
