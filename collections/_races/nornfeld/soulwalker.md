@@ -12,7 +12,6 @@ header:
   teaser: /assets/images/races/soulwalker/header.jpg
 source: "Exterminator's Guide to Ghostly Things"
 ---
-
 > Love leaves a bitter aftertaste,
 >
 > Life is but a fickle, treacherous thing.

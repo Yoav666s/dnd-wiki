@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/races/trifling/header.png
   teaser: /assets/images/races/trifling/header.jpg
 ---
-
 > We're not the exception, but the rule.
 >
 > The rivers upon which bridges are built, the ale you pour down your gullet,
