@@ -56,7 +56,7 @@ You are proficient in the Deception skill, and you have advantage on Charisma (D
 ## Shapeshift
 You can alter your shape as an action. You decide what you look like, including your height (Medium or Small), weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. Your basic shape stays the same; you’re bipedal, so you can’t use this trait to become quadrupedal, for instance. Alternatively, you can return to your true form. Otherwise, you remain in the form you choose until you die.
 
-You can do this a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. Returning to your true form does not expend a use.
+You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. Returning to your true form does not expend a use.
 
 ## Fey Magic 
 You know the Subterfuge cantrip. Starting at 3rd level, you can cast the Dimension Slip spell with this trait. Starting at 5th level, you can cast the Blur spell with this trait. Once you cast Dimension Slip or Blur with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
