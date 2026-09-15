@@ -54,7 +54,9 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 You are proficient in the Deception skill, and you have advantage on Charisma (Deception) checks when trying to pass yourself off as someone else.
 
 ## Shapeshift
-You can alter your shape as an action. You decide what you look like, including your height (Medium or Small), weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. Your basic shape stays the same; you’re bipedal, so you can’t use this trait to become quadrupedal, for instance. Alternatively, you can return to your true form.
+You can alter your shape as an action. You decide what you look like, including your height (Medium or Small), weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. Your basic shape stays the same; you’re bipedal, so you can’t use this trait to become quadrupedal, for instance. Alternatively, you can return to your true form. Otherwise, you remain in the form you choose until you die.
+
+You can do this a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. Returning to your true form does not expend a use.
 
 ## Languages
 You can speak, read, and write Common and one other language of your choice.
