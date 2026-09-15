@@ -33,7 +33,7 @@ Their skin has a sickly grey-ish purple tone, and their eyes are pitch black. Th
 Metamorphes like to blend in with other races in society, hiding their true form under the guise of other humanoids. They're good at passing themselves off as other people, and use that ability to their greatest advantage.
 
 # Metamorphe Traits
-It’s hard to make generalizations about metamorphes, but your metamorphe character has these traits.
+Your metamorphe character has these traits.
 
 ## Ability Score Increase
 When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
