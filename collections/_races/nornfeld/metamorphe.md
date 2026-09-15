@@ -11,14 +11,6 @@ header:
   overlay_image: /assets/images/races/metamorphe/header.png
   teaser: /assets/images/races/metamorphe/header.jpg
 ---
-> Never trust a stranger's face,
->
-> for there's a price to pay.
->
-> Don't stray too far from the path
->
-> or you will lose your way.
->
 > A beautiful flower is deadly poison,
 >
 > and sharp teeth mask fear.
@@ -65,7 +57,7 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 You are proficient in the Deception skill, and you have advantage on Charisma (Deception) checks when trying to pass yourself off as someone else.
 
 ## Shapeshift
-You can alter your shape as an action. You decide what you look like, including your height (Medium or Small), weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. Your basic shape stays the same; if you’re bipedal, you can’t use this trait to become quadrupedal, for instance.
+You can alter your shape as an action. You decide what you look like, including your height (Medium or Small), weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. Your basic shape stays the same; you’re bipedal, so you can’t use this trait to become quadrupedal, for instance.
 
 ## Languages
 You can speak, read, and write Common and one other language of your choice.
