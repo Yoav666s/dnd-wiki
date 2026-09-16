@@ -63,8 +63,10 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 
 | Patron                  | Source                     |
 | :---------------------- | :------------------------- |
+| [[!The Alter Ego]] | Fillumir's Guide to the Feywild |
 | [[!The Archfey]]            | Basic Rules                |
 | [[!The Devil]]              | Untold Legends of Nornfeld |
+| [[!The Thing]] | Untold Legends of Nornfeld |
 
 ## Pact Magic
 Your arcane research and the magic bestowed on you by your patron have given you facility with spells.
