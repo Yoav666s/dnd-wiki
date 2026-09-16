@@ -4,13 +4,14 @@ index:
   - phantomancy
   - school-of-phantomancy 
 permalink: /classes/wizard/phantomancy/
-excerpt: ""
+excerpt: "As a phantomancer, you learn to manipulate your magic to draw powers from the Ethereal Plane."
 subclass: wizard
 header:
   overlay_image: /assets/images/classes/wizard/phantomancy/header.png
   teaser: /assets/images/classes/wizard/phantomancy/header.jpg
 source: "Exterminator's Guide to Ghostly Things"
 ---
+As a phantomancer, you learn to manipulate your magic to draw powers from the Ethereal Plane. You can summon ghosts, become incorporeal, and eventually even enter the Ethereal Plane yourself. You haunt enemies with otherworldly horror, frightening them with your magic.
 
 # Friend from the Other Side
 Starting at 2nd level, you learn the Find Familiar spell if you don't already know it, and you always have it prepared. You can cast it as an action without expending a spell slot or material components. Once you cast it in this way, you can't do it again until you finish a long rest.
