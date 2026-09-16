@@ -43,3 +43,5 @@ You can use this feature a number of times equal to your Intelligence modifier, 
 Starting at 14th level, you learn the Etherealness spell if you don't already know it, and you always have it prepared.
 
 While you're on the Ethereal Plane, you can use your action to possess an object of your size or smaller that you can see on the Material Plane. Use the appropriate statistics from the Animate Objects spell. The possession ends if the object reaches 0 hit points or if you end it as an action.
+
+[:classes/wizard/phantomancy:]
