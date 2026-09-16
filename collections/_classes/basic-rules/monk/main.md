@@ -98,8 +98,8 @@ When you reach 3rd level, you commit yourself to a monastic tradition. Your trad
 | Tradition       | Source                     |
 | :-------------- | :------------------------- |
 | [[!Way of the Open Hand]]  | Basic Rules                |
-| [[!Way of the Trickster]]  | Fillumir's Guide to the Feywild |
 | [[!Way of the Sands]]  | Nomad's Guide to Cortenmaas |
+| [[!Way of the Trickster]]  | Fillumir's Guide to the Feywild |
 
 
 ## Deflect Missiles
