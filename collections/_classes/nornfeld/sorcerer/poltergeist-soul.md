@@ -24,7 +24,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | :--: | :--- |
 | 1st | Catapult, Cause Fear, [[!Fling]] |
 | 3rd | [[!Invisibility]], [[!Levitate]] |
-| 5th | [[!Fly]], [[!Nondetection]] |
+| 5th | [[!Fly]], [[!Haunt]] |
 | 7th | [[!Confusion]], [[!Freedom of Movement]] |
 | 9th | [[Animate Objects]], [[Telekinesis]] |
 
