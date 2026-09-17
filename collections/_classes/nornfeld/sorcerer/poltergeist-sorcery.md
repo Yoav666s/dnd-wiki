@@ -26,7 +26,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | Sorcerer Level | Spells |
 | :--: | :--- |
 | 3 | Catapult, Cause Fear, [[!Fling]] [[!Invisibility]], [[!Levitate]] |
-| 5 | [[!Fly]], [[!Nondetection]] |
+| 5 | [[!Fly]], [[!Haunt]] |
 | 7 | [[!Confusion]], [[!Freedom of Movement]] |
 | 9 | [[!Animate Objects]], [[!Telekinesis]] |
 
