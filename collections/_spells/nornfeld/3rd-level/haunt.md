@@ -12,7 +12,7 @@ available_for:
 level: "3rd Level"
 school: "Necromancy"
 range: "60 ft"
-area: "15 ft"
+area: "20 ft"
 shape: "Sphere"
 comp:
   - V
@@ -24,9 +24,9 @@ ritual: false
 attack: "WIS Save"
 effect: "Frightened"
 description: |
-  You create a haunting effect, such as causing nearby objects to rattle, creating the sound of sad wails, or causing creeping mist to condense, in a 15-foot-radius sphere centered on a point within range. Each hostile creature that starts its turn within the sphere or enters it for the first time in a turn must succeed on a Wisdom saving throw or become Frightened of you for until the start of its next turn.
+  You create a haunting effect, such as causing nearby objects to rattle, creating the sound of sad wails, or causing creeping mist to condense, in a 20-foot-radius sphere centered on a point within range. Each hostile creature that starts its turn within the sphere or enters it for the first time in a turn must succeed on a Wisdom saving throw or become Frightened of you for until the start of its next turn.
   
-  **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the radius of the sphere increases by 5 feet for every slot level above 3.
+  **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the radius of the sphere increases by 10 feet for every slot level above 3.
 excerpt: "You create a haunting effect, such as causing nearby objects to rattle, creating the sound of sad wails, or causing creeping mist to condense, in a 15-foot-radius sphere centered on a point within range."
 source: "Exterminator's Guide to Ghostly Things"
 # header:
