@@ -1,5 +1,10 @@
 {% assign all_spells = site.spells | where: "source", page.title | sort: "level" | where_exp: "item", "item.v_2024 == nil" %}
-{% assign levels = all_spells | map: "level" | uniq %}
+{% assign raw_levels = all_spells | map: "level" | uniq %}
+
+{% assign cantrips = raw_levels | where_exp: "item", "item == 'Cantrip'" %}
+{% assign other_levels = raw_levels | where_exp: "item", "item != 'Cantrip'" %}
+{% assign levels = cantrips | concat: other_levels %}
+
 {% for level in levels %}
   <h2 id="{{ level | slugify }}">{{ level | capitalize }}</h2>
   The following are {{ level }} spells.
