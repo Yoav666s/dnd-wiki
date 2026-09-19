@@ -8,7 +8,7 @@ v_2024: true
 alt_version: dimension-dancer
 source: "Fillumir's Guide to the Feywild"
 ---
-*General Feat (Prerequisite: Level 4+, Fey Friend feat)*
+*General Feat (Prerequisite: Level 4+)*
 
 You gain the following benefits.
 
