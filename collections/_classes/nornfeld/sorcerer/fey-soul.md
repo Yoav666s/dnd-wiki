@@ -42,7 +42,7 @@ Consult the Fey Magic Oddities table and choose or randomly determine a way your
 | 6 | Ominous whispers can be heard by you and those affected by your magic. |
 
 # Master of Mischief
-You always have [[Disguise Self]] and [[Illusory Duplicate]] prepared, and your spellcasting ability for them is Charisma. With this feature, you can cast these spells without a spell slot or components. If you have an illusory duplicate while disguised, it looks like your disguise.
+Starting at 1st level, you always have [[Disguise Self]] and [[Illusory Duplicate]] prepared, and your spellcasting ability for them is Charisma. With this feature, you can cast these spells without a spell slot or components. If you have an illusory duplicate while disguised, it looks like your disguise.
 
 # Agent of Chaos
 Beginning at 6th level, while maintaining an illusion of yourself, you can cast spells as though you were in the illusion's space, but you must still rely on your senses.
