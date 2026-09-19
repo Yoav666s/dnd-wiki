@@ -25,7 +25,7 @@ You learn additional spells when you reach certain levels in this class, as show
 
 | Sorcerer Level | Spells |
 | :------------: | :----- |
-| 3 | [[!Charm Person]], [[!Silent Image]], [[!Invisibility]], [[!Misty Step]], Subterfuge |
+| 3 | [[!Charm Person]], [[!Silent Image]], [[!Invisibility]], [[!Misty Step]], [[!Subterfuge]] |
 | 5 | [[!Major Image]], [[!Sending]] |
 | 7 | [[!Confusion]], [[!Greater Invisibility]] |
 | 9 | [[!Dream]], [[!Mislead]] |
@@ -44,33 +44,17 @@ In addition, consult the Fey Magic Oddities table and choose or randomly determi
 | 6 | Ominous whispers can be heard by you and those affected by your magic. |
 
 # Level 3: Master of Mischief
-You gain new abilities, detailed below.
-
-**Disguise Self.** You always have [[Disguise Self]] prepared, and your spellcasting ability for it is Charisma. With this feature, you can cast it without a spell slot or components. If you have an illusory duplicate while disguised in this way, it looks like your disguise.
-
-**Illusory Duplicate.** As a bonus action, you magically create an illusory duplicate of yourself which appears in your space or at an unoccupied space you can see within 30 feet and lasts for 1 minute or until you use this feature again. The duplicate vanishes if you're more than 30 feet away from it.
-
-If you are within range of the illusion, you can use your bonus action to cause it to move to another spot within range. As the image changes location, you can alter its appearance so that its movements appear natural. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
-
-The duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits the duplicate, the duplicate is destroyed and you can't use this feature again for 1 minute unless you expend a Sorcery Point to do so (no action required). A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects.
-
-Physical interaction with the image reveals it to be an illusion, for things can pass through it. A creature that takes the Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against a DC equal to 8 + your proficiency modifier + your Charisma modifier. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
+You always have [[Disguise Self]] and [[Illusory Duplicate]] prepared, and your spellcasting ability for them is Charisma. With this feature, you can cast these spells without a spell slot or components. If you have an illusory duplicate while disguised, it looks like your disguise.
 
 # Level 6: Agent of Chaos
-You learn new ways to enhance your Illusory Duplicate ability.
+You learn new ways to enhance your mischievous abilities.
 
-**Illusory Army.** When you create an illusory duplicate, you can create a number of illusory duplicates equal to your Charisma modifier. You can use your bonus action to control all of them. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 3 Sorcery Points to restore your use of it (no action required).
+**Illusory Army.** When you cast [[Illusory Duplicate]], you can cast it at a level equal to your Charisma modifier (minimum of 2). Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 3 Sorcery Points to restore your use of it (no action required).
 
 **Illusory Casting.** While maintaining an illusion of yourself, you can cast spells as though you were in the illusion's space, but you must still rely on your senses.
 
-**Sly Swap.** You can use your bonus action to switch places with an illusory duplicate if you are within 30 feet of it. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it (no action required).
-
 # Level 14: Distant Projection
-You gain additional abilities, detailed below.
-
-**Misleading Maneuver.** When you create an illusory duplicate in your space, you can turn invisible at the same time for the duration or until you attack, cast a spell, or lose concentration (as if you were concentrating on a spell). If the duplicate is destroyed, your invisibility ends early. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 2 Sorcery Points to restore your use of it (no action required).
-
-**Project Image.** You always have [[Project Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Long Rest unless you expend 9 Sorcery Points to restore your use of it (no action required).
+You always have [[Project Image]] prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Long Rest unless you expend 9 Sorcery Points to restore your use of it (no action required).
 
 # Level 18: Binding Contract
 As an action, you can offer another creature a binding fey contract. The creature must be able to hear you, and the contract must be phrased clearly in a language the creature understands, although you're not required to clarify that it is actually a contract. If it's not obvious that it's a contract, a successful Intelligence saving throw will reveal that it is. If the creature willingly (but not necessarily knowingly) agrees, it is bound by the contract. While bound in this way, the creature gains a level of Exhaustion whenever it deliberately defies the terms of your contract (defying the terms of the contract requires conscious effort).
@@ -86,6 +70,6 @@ A contract can contain up to one term, which can be phrased innocuously. In the 
 
 This effect ends on a creature if you use this feature again or if you dismiss it as an action. A remove curse, greater restoration, or wish spell will also end this effect.
 
-Once you use this feature, you can't do it again until you finish a long rest unless you expend 9 Sorcery Points to restore your use of it (no action required).
+Once you use this feature, you can't do it again until you finish a long rest.
 
 [:classes/sorcerer/fey-soul/2024:]
