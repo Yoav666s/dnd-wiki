@@ -23,34 +23,30 @@ challenge_rating: 2
 xp: 450
 proficiency_bonus: "+3"
 traits: |
-  **Illusory Army (2/Day).** When Tallis creates an Illusory Duplicate, he can instead create four Illusory Duplicates.
+  **Illusory Army (1/Day).** When Tallis casts Illusory Duplicate, he can cast it at 4th level.
   
   **Illusory Casting.** While maintaining one or more illusions of himself, Tallis can cast spells as though he was in an illusion's space, but he must still rely on his senses.
   
   **Twinned Spell (1/Day).** When Tallis casts a spell that targets one creature and doesn't have a range of self, the spell can target two creatures instead of one.
 actions: |
-  **Fire Bolt.** Ranged Attack: +7 to hit, range: 120 ft., one target. Hit: 11 (2d10) Fire damage.
+  **Fire Bolt.** Ranged Spell Attack: +7 to hit, range: 120 ft., one target. Hit: 11 (2d10) Fire damage.
   
   **Rapier.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) piercing damage.
 
   **Spellcasting.** Tallis casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 15, +7 to hit with spell attacks):
 
-  At will: Disguise Self, Mage Armor (included in AC), Mage Hand, Message, Minor Illusion, Prestidigitation
+  At will: Disguise Self (no components), Illusory Duplicate (no components), Mage Armor (included in AC), Mage Hand, Message, Minor Illusion, Prestidigitation
   
   3/day each: Silent Image, Sending
   
   2/day each: Haste, Invisibility
   
   1/day each: Dimension Door, Major Image
-bonus_actions: |
-  **Illusory Duplicate.** Tallis creates an illusory duplicate of himself that appears in his space or in an unoccupied space he can see within 30 feet. The duplicate vanishes if its more than 30 feet away from Tallis or if he uses this feature again.
-  
-  Tallis can use his bonus action to control any number of duplicates, causing them to move to points he can see within range. As the images change location, he can alter their appearance so that their movements appear natural. Similarly, he can cause the illusions to make different sounds at different times, even making them carry on conversation, for example.
-
-  Physical interaction with the image reveals it to be an illusion, as things can pass through it. A duplicate's AC is 13. If an attack hits a duplicate, it is destroyed.
-  
+bonus_actions: |  
   **Misty Step (3/Day).** Tallis casts Misty Step, using the same spellcasting ability as Spellcasting.
 reactions: |
   **Protective Magic (3/Day).** Tallis casts Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+  
+  **Parry.** While holding his rapier or another finesse weapon, Tallis adds +3 to his AC until the start of his next turn in response to a melee attack that hits him.
 excerpt: "Medium Human (Sorcerer), Neutral"
 ---
