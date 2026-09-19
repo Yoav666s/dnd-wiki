@@ -47,7 +47,7 @@ You always have [[Disguise Self]] and [[Illusory Duplicate]] prepared, and your 
 # Agent of Chaos
 Beginning at 6th level, while maintaining an illusion of yourself, you can cast spells as though you were in the illusion's space, but you must still rely on your senses.
 
-Additionally, you can cast [[Illusory Duplicate]] at a level equal to your Charisma modifier (minimum of 2) without expending a spell slot. Once you do so, you can't do it again until you finish a long rest unless you expend 3 Sorcery Points (no action required).
+Additionally, you can cast [[Illusory Duplicate]] at a level equal to your Charisma modifier (minimum of 2) without a spell slot or components. Once you do so, you can't do it again until you finish a long rest unless you expend 3 Sorcery Points (no action required).
 
 # Distant Projection
 Starting at 14th level, you always have [[Project Image]] prepared. With this feature, you can cast it without a expending a spell slot, and your spellcasting ability for it is Charisma. Once you cast it with this feature, you can't do it again until you finish a Long Rest unless you expend 9 Sorcery Points to restore your use of it (no action required).
