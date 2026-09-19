@@ -47,6 +47,6 @@ bonus_actions: |
 reactions: |
   **Protective Magic (3/Day).** Tallis casts Shield in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
   
-  **Parry.** While holding his rapier or another finesse weapon, Tallis adds +3 to his AC until the start of his next turn in response to a melee attack that hits him.
+  **Parry.** While holding his rapier or another finesse weapon, Tallis adds +3 to his AC until the start of his next turn in response to a melee attack that hits him, possibly causing the attack to miss.
 excerpt: "Medium Human (Sorcerer), Neutral"
 ---
