@@ -8,11 +8,9 @@ v_2024: true
 alt_version: dimension-dancer
 source: "Fillumir's Guide to the Feywild"
 ---
-*General Feat (Prerequisite: Level 4+)*
+*Origin Feat*
 
 You gain the following benefits.
-
-**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.
 
 **Fey Slip.** You always have the [[Dimension Slip]] spell prepared, and you can cast it without a spell slot or components at the spell level specified in the Dimension Dancer Spell Level table, based on your proficiency bonus. Once you cast it in this way, you can't do it again until you finish a Long Rest.
 
