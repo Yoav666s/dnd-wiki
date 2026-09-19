@@ -7,8 +7,6 @@ excerpt: "You always have the Dimension Slip spell prepared, and you can cast it
 alt_version: dimension-dancer-2024
 source: "Fillumir's Guide to the Feywild"
 ---
-*Prerequisite: Fey Friend feat*
-
 You gain the following benefits.
 
 - Increase one ability score of your choice by 1, to a maximum of 20.
