@@ -16,4 +16,4 @@ Your connection to the Feywild grants you the following benefits.
 
 **Find Familiar.** You always have the [[Find Familiar]] spell prepared, and you can cast it an as action without expending a spell slot or material components. Once you cast it in this way, you can't do it again until you finish a long rest. When you cast Find Familiar in this way, the familiar must be a fey, and it can also take the form of a [[monsters:Spriteling]] or a [[monsters:Blink Pup]].
 
-**Subterfuge.** You learn the [[Subterfuge]] cantrip. You can cast [[Subterfuge]] as part of drawing or sheathing a weapon of the light property to teleport it to or from your hand. This doesn't require an action, but it takes as much time as it would normally take to draw or sheath a weapon.
+**Subterfuge.** You learn the [[Subterfuge]] cantrip.
