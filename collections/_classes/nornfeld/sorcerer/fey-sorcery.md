@@ -49,7 +49,7 @@ You always have [[Disguise Self]] and [[Illusory Duplicate]] prepared, and your 
 # Level 6: Agent of Chaos
 You learn new ways to enhance your mischievous abilities.
 
-**Illusory Army.** When you cast [[Illusory Duplicate]], you can cast it at a level equal to your Charisma modifier (minimum of 2). Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 3 Sorcery Points to restore your use of it (no action required).
+**Illusory Army.** When you cast [[Illusory Duplicate]], you can cast it at a level equal to your Charisma modifier (minimum of 2) without a spell slot or components. Once you use this feature, you can't use it again until you finish a Long Rest unless you expend 3 Sorcery Points to restore your use of it (no action required).
 
 **Illusory Casting.** While maintaining an illusion of yourself, you can cast spells as though you were in the illusion's space, but you must still rely on your senses.
 
