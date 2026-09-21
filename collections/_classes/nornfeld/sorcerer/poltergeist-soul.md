@@ -61,6 +61,6 @@ Beginning at 14th level, some of your Poltergeist spells gain the following bene
 **Levitate.** You can cast [[Levitate]] on yourself, an object, or a willing creature without expending a spell slot. It doesn't require your concentration, but it ends on a target if you cast it on a different one.
 
 # Effortless Haunting 
-By 18th level, when you cast a spell from your Poltergeist Spells feature that requires concentration, you can expend sorcery points equal to the spell's level in order for it to not require concentration. The spell ends if you dismiss it as an action or use this feature again.
+By 18th level, you automatically succeed Constitution saving throws you make to maintain concentration on your Poltergeist Spells.
 
 [:classes/sorcerer/poltergeist-soul:]
