@@ -24,3 +24,9 @@ The following are ghostly races.
 The following are ghostly spells.
 
 {% include expansion_spells.html %}
+
+# Chapter ?: Items
+The following are items that are essential to running a campaign with ghosts.
+
+{% include expansion_items.html %}
+
