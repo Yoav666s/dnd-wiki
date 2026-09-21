@@ -13,6 +13,6 @@ header:
   overlay_image: /assets/images/items/soul-reliquary/header.png
   teaser: /assets/images/items/soul-reliquary/header.jpg
 ---
-This relic is used to store souls inside it. When opened as an action or destroyed, each soul trapped inside can choose to pass on to afterlife or to haunt the person who trapped it inside the reliquary, remaining in the Material Plane as a Ghost.
+This relic is used to store souls inside it, and it can hold a number of souls equal to your spellcasting ability modifier. When opened as an action or destroyed, each soul trapped inside can choose to pass on to afterlife or to haunt the person who trapped it inside the reliquary, remaining in the Material Plane as a Ghost.
 
 [:items/soul-reliquary:]
