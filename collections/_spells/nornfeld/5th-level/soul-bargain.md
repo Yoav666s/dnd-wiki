@@ -14,11 +14,11 @@ comp:
   - V
   - S
   - M
-material: "a reliquary worth at least 500 GP that contains at least one soul"
+material: "a reliquary worth at least 500 GP that contains a soul"
 duration: "Instantaneous"
 cast_time: "1 Action"
 description: |
-  You attempt to strike a bargain with one soul of your choice that is trapped in the reliquary used as the material component for this spell. You must present it with a benefit and a cost. Consult the following table for possible arrangements, or come up with your own terms at the DM's discretion. If the soul is unwilling, the spell fails. Otherwise, it is bound by the terms of this agreement and cannot defy them.
+  You attempt to strike a bargain with the soul trapped in the reliquary used as the material component for this spell. You must present it with a benefit and a cost. Consult the following table for possible arrangements, or come up with your own terms at the DM's discretion. If the soul is unwilling, the spell fails. Otherwise, it is bound by the terms of this agreement and cannot defy them.
   
   | 1d3 | Benefit | Cost |
   | :---: | :---- | :---- |
