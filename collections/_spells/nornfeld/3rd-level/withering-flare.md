@@ -17,6 +17,8 @@ comp:
 material: "a reliquary worth at least 500 gp that contains at least one soul"
 duration: "Instantaneous"
 cast_time: "1 Action"
+attack: "WIS Save"
+effect: "Necrotic"
 description: |
   You unleash one soul trapped in the reliquary used as the material component for this spell on a creature you can see within range. The target must make a Wisdom saving throw. On failure, it takes 6d12 Necrotic damage and ages 1d4 X 10 years. On success, it takes half damage only. The soul then passes on to afterlife. This spell has no effect on undead or constructs.
   
