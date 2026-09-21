@@ -14,7 +14,7 @@ comp:
   - V
   - S
   - M
-material: "a reliquary worth at least 500 gp that contains at least one soul"
+material: "a reliquary worth at least 500 GP that contains at least one soul"
 duration: "Instantaneous"
 cast_time: "1 Reaction"
 reaction: "which you take when you are reduced to 0 Hit Points but not killed outright"
