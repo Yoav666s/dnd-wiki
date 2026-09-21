@@ -14,7 +14,7 @@ comp:
   - V
   - S
   - M
-material: "a reliquary worth at least 500 gp with the capacity to hold at least one more soul"
+material: "a reliquary worth at least 500 GP with the capacity to hold at least one more soul"
 duration: "Instantaneous"
 cast_time: "1 Action"
 description: |
