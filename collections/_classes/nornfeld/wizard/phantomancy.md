@@ -32,7 +32,7 @@ Also at 2nd level, you learn the Inflict Wounds spell if you don't already know 
 # Soul Catcher
 Starting at 6th level, you learn the Contact Soul, Extract Soul, and Withering Flare spells if you don't already know them, and you always have them prepared.
 
-If you have an empty soul reliquary, as part of a long rest, you can perform a 1 hour ritual in an attempt to catch a wandering soul. Make a DC 15 Intelligence (Arcana) check. On success, a new soul is trapped in your reliquary.
+If you have an empty soul reliquary, as part of a long rest, you can perform a 1 hour ritual in an attempt to catch a wandering soul. Make a DC 17 Intelligence (Arcana) check. On success, a new soul is trapped in your reliquary.
 
 # Partially Incorporeal
 Starting at 10th level, as a bonus action, you can become partially incorporeal for 1 minute. While in this state, you can can move through other creatures and objects as if they were Difficult Terrain. You takes 3d10 Force damage if you end your turn inside an object.
