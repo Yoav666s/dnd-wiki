@@ -26,11 +26,11 @@ When you cast the Find Familiar spell, your familiar can be an undead. If it is 
 
 **Incorporeal Movement.** The ghost familiar can move through other creatures and objects as if they were Difficult Terrain. It takes 1d10 Force damage if it ends its turn inside an object.
 
-# Ghostly Magic
-Also at 2nd level, whenever you cast a spell of 1st level or higher that deals damage, you can replace the damage type with Necrotic damage.
+# Withering Touch
+Also at 2nd level, you learn the Inflict Wounds spell if you don't already know it, and you always have it prepared. When your ghost familiar delivers it, it has advantage on the attack roll.
 
-# Chill of the Grave
-Starting at 6th level, whenever you deal Necrotic damage to a creature, it must succeed on a Wisdom saving throw against your spell save DC or become Frightened of you for 1 minute. At the end of each of its turns, an affected creature can repeat the saving throw, ending the effect on itself on a success. After a creature succeeds on a saving throw against this effect, it is immune to it for 24 hours.
+# Soul Catcher
+Starting at 6th level, you learn the Contact Soul, Extract Soul, and Withering Flare spells if you don't already know them, and you always have them prepared.
 
 # Partially Incorporeal
 Starting at 10th level, as a bonus action, you can become partially incorporeal for 1 minute. While in this state, you can can move through other creatures and objects as if they were Difficult Terrain. You takes 3d10 Force damage if you end your turn inside an object.
