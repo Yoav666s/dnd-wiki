@@ -3,7 +3,7 @@ title: "Ethereal Touched"
 index:
   - ethereal-touched-2024
 permalink: /feats/ethereal-touched-2024/
-excerpt: "You gain the following benefits."
+excerpt: "Your exposure to the Ethereal Plane grants you the following benefits."
 v_2024: true
 alt_version: ethereal-touched
 source: "Exterminator's Guide to Ghostly Things"
