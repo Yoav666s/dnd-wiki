@@ -9,7 +9,7 @@ available_for:
   - Wizard
 level: "5th Level"
 school: "Necromancy"
-range: "60 ft"
+range: "Self"
 comp:
   - V
   - S
