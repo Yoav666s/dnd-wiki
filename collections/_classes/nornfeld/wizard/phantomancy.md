@@ -6,6 +6,7 @@ index:
 permalink: /classes/wizard/phantomancy/
 excerpt: "As a phantomancer, you learn to manipulate your magic to draw powers from the Ethereal Plane."
 subclass: wizard
+alt_version: phantomancer
 header:
   overlay_image: /assets/images/classes/wizard/phantomancy/header.png
   teaser: /assets/images/classes/wizard/phantomancy/header.jpg
