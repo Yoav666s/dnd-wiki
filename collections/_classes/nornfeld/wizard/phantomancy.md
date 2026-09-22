@@ -38,7 +38,7 @@ If you have an empty soul reliquary, as part of a long rest, you can perform a 1
 # Partially Incorporeal
 Starting at 10th level, as a bonus action, you can become partially incorporeal for 1 minute. While in this state, you can can move through other creatures and objects as if they were Difficult Terrain. You takes 3d10 Force damage if you end your turn inside an object.
 
-If you phase through a hostile creature, that creature must succeed on a Wisdom saving throw or become Frightened of you for 1 minute. At the end of each of its turns, an affected creature can repeat the saving throw, ending the effect on itself on a success. After a creature succeeds on a saving throw against this effect, it is immune to it for 24 hours.
+If you phase through a hostile creature, that creature must succeed on a Wisdom saving throw against your spell save DC or become Frightened of you for 1 minute. At the end of each of its turns, an affected creature can repeat the saving throw, ending the effect on itself on a success. After a creature succeeds on a saving throw against this effect, it is immune to it for 24 hours.
 
 You can use this feature a number of times equal to your Intelligence modifier, and you regain all expended uses when you finish a long rest.
 
