@@ -14,7 +14,7 @@ comp:
   - V
   - S
   - M
-material: "an empty reliquary worth at least 500 gp"
+material: "an empty reliquary worth at least 500 GP"
 duration: "Instantaneous"
 cast_time: "1 Action"
 description: |
