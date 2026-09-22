@@ -1,15 +1,12 @@
 ---
 title: "Ethereal Touched"
 index:
-  - ethereal-touched-2024
-permalink: /feats/ethereal-touched-2024/
-excerpt: "You gain the following benefits."
-v_2024: true
-alt_version: ethereal-touched
+  - ethereal-touched
+permalink: /feats/ethereal-touched/
+excerpt: "Your exposure to the Ethereal Plane grants you the following benefits."
+alt_version: ethereal-touched-2024
 source: "Exterminator's Guide to Ghostly Things"
 ---
-*General Feat (Prerequisite: Level 4+)*
-
 Your exposure to the Ethereal Plane grants you the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
