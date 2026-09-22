@@ -7,7 +7,7 @@ tags:
   - Spell
 available_for:
   - Wizard
-level: "3rd"
+level: "3rd Level"
 school: "Necromancy"
 range: "60 ft"
 comp:
