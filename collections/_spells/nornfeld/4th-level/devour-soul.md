@@ -20,6 +20,8 @@ cast_time: "1 Reaction"
 reaction: "which you take when you are reduced to 0 Hit Points but not killed outright"
 description: |
   You instead drop to 1 Hit Point and gain 6d4 + 24 Temporary Hit Points. The soul trapped in the reliquary used as the material component for this spell is destroyed forever.
+  
+  **At higher levels.** When you cast this spell using a spell slot of 5th level or higher, the Temporary Hit Points increase by 5 for each slot level above 4th.
 excerpt: "You instead drop to 1 Hit Point and gain 6d4 + 24 Temporary Hit Points."
 source: "Exterminator's Guide to Ghostly Things"
 header:
