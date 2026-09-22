@@ -23,7 +23,9 @@ description: |
   **At higher levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 excerpt: "You siphon the vital energy of a humanoid within range."
 source: "Exterminator's Guide to Ghostly Things"
-# header:
-#   overlay_image: /assets/images/spells/siphon-soul/header.png
-#   teaser: /assets/images/spells/siphon-soul/header.jpg
+header:
+  overlay_image: /assets/images/spells/siphon-soul/header.png
+  teaser: /assets/images/spells/siphon-soul/header.jpg
 ---
+
+[:spells/siphon-soul:]
