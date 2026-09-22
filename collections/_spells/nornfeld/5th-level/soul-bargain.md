@@ -27,7 +27,9 @@ description: |
   | 3 | The soul returns to life in its original body or a different, readily available one (consuming a diamond worth 300 GP for a body of a humanoid that died in the last minute, or 500 GP for a body of a humanoid that died in the last 10 days). If the soul returns to a different body, it retains its alignment, proficiency bonus, class abilities (if any), and Intelligence, Wisdom, and Charisma scores. | The soul must serve and obey you for 30 days. |
 excerpt: "You attempt to strike a bargain with one soul of your choice that is trapped in the reliquary used as the material component for this spell."
 source: "Exterminator's Guide to Ghostly Things"
-# header:
-#   overlay_image: /assets/images/spells/soul-bargain/header.png
-#   teaser: /assets/images/spells/soul-bargain/header.jpg
+header:
+  overlay_image: /assets/images/spells/soul-bargain/header.png
+  teaser: /assets/images/spells/soul-bargain/header.jpg
 ---
+
+[:spells/soul-bargain:]
