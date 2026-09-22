@@ -27,7 +27,9 @@ description: |
   **At higher levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 2d10 for each slot level above 3rd.
 excerpt: "You unleash the soul trapped in the reliquary used as the material component for this spell on a creature you can see within range."
 source: "Exterminator's Guide to Ghostly Things"
-# header:
-#   overlay_image: /assets/images/spells/withering-flare/header.png
-#   teaser: /assets/images/spells/withering-flare/header.jpg
+header:
+  overlay_image: /assets/images/spells/withering-flare/header.png
+  teaser: /assets/images/spells/withering-flare/header.jpg
 ---
+
+[:spells/withering-flare:]
