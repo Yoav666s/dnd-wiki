@@ -36,7 +36,10 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 
 | d6 | Ideal |
 | :---: | :---- |
-| 1 ||
+| 1 | **Expansion.** We must colonize and populate as many celestial bodies as possible. (Any) |
+| 2 | **Peace.** We should be kind to native inhabiy and make peace with them, if possible.(Good) |
+| 3 | **Exploration.**  |
+| 4 | **Discovery.** |
 
 ## Bonds
 
