@@ -79,7 +79,7 @@ Some prefer to wake up in the early morning, taking rests at the same \~12.5 hou
 
 **Moons.** Terrus has one moon, called Selene. It completes a full orbit approximately every 19.75 days.
 
-**The Terrestrial Calendar.** Since a "year" on Terrus takes 950 days, people don't tend to measure years by the time it takes Terrus to orbit the sun. Instead, they measure the passage of time by the time it takes Selene to orbit Terrus. They divide the year to 3 19-day and nine 20-day months, resulting in a 237-day year. The summer year is 2 days longer, having only one 19-day month.
+**The Terrestrial Calendar.** Since a "year" on Terrus takes 950 days, people don't tend to measure years by the time it takes Terrus to orbit the sun. Instead, they measure the passage of time by the time it takes Selene to orbit Terrus. They divide the year to three 19-day and nine 20-day months, resulting in a 237-day year. The summer year is 2 days longer, having only one 19-day month.
 
 **Seasons.** The seasons on Terrus are long, each taking approximately a year. Summers yield plentiful harvest, resulting in 3 full rotations of crops, which are necessary to hoard for the long winters.
 
