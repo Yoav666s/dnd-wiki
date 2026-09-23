@@ -30,4 +30,6 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | 5 | I love exploring unusual places. |
 | 6 | I want to visit every single planet and moon that has been colonized. |
 | 7 | I have come to learn extreme patience, as astronomy is slow and cannot be rushed. |
-| 8 | I have the utmost respect to the astronomers who came before me |
+| 8 | I have the utmost respect to the astronomers who came before me. |
+
+## Ideals
