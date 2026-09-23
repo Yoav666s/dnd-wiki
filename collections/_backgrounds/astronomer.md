@@ -50,7 +50,8 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | :---: | :---- |
 | 1 | My beloved mentor traveled to an uninhabited planet, and never came back. |
 | 2 | I carry the journal of a great astronomer who vanished while studying a distant moon, and I intend to finish their work. |
-| 3 |  |
+| 3 | I am determined to discover and explore an uninhabited planet on my own. |
+| 4 |  |
 
 ## Flaws
 
