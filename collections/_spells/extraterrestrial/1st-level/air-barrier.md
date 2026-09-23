@@ -6,8 +6,6 @@ permalink: /spells/air-barrier/
 available_for:
   - Cleric
   - Druid
-  - Sorcerer
-  - Warlock
   - Wizard
 level: "1st Level"
 school: "Transmutation"
