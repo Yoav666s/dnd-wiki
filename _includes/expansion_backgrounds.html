@@ -1,0 +1,5 @@
+{% assign backgrounds = site.backgrounds | where: "source", page.title | where_exp: "item", "item.v_2024 == nil" %}
+{% for background in backgrounds %}
+  <h2 id="{{ background.title | slugify }}">{{ background.title }}</h2>
+  {% include page_content.html page=background %}
+{% endfor %}
