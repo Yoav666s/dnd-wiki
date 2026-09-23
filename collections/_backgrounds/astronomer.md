@@ -13,4 +13,5 @@ You have spent years studying astronomy, learning about the celestial bodies of 
 **Tool Proficiencies:** Cartographer's Tools \
 **Equipment:** A bottle of black ink, a quill, a set of cartographer's tools, 8 sheets of Parchment, a set of common clothes, and a pouch containing 11 GP
 
-# Feature: ?
+# Feature: Academic Connections
+As an active participant in the united effort of extraterrestrial travel, you have certain privileges. You can secure passage to another celestial body for you and your companions in any recognized celestial station, and you know where such stations are located throughout the celestial body you are on.
