@@ -29,7 +29,7 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | 3 | I recognize how fragile life is, and how difficult it is to preserve. |
 | 4 | I am very concise with words, as I am used to give replies through the Sending spell. |
 | 5 | I love exploring unusual places. |
-| 6 | I want to visit every single planet and moon that has been colonized. |
+| 6 | I get overly excited when anyone wants to talk about anything that is even remotely related to astronomy. |
 | 7 | I have come to learn extreme patience, as astronomy is slow and cannot be rushed. |
 | 8 | I have the utmost respect to the astronomers who came before me. |
 
@@ -52,7 +52,7 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | 2 | I carry the journal of a great astronomer who vanished while studying a distant moon, and I intend to finish their work. |
 | 3 | I am determined to discover and explore an uninhabited planet on my own. |
 | 4 | Studying and exploring the cosmos is my only purpose. |
-| 5 ||
+| 5 | I want to visit every single planet and moon that has been colonized. |
 
 ## Flaws
 
