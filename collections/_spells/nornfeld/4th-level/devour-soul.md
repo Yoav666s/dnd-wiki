@@ -7,7 +7,7 @@ tags:
   - Spell
 available_for:
   - Wizard
-level: "4th"
+level: "4th Level"
 school: "Necromancy"
 range: "Self"
 comp:
