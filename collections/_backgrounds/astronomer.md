@@ -15,3 +15,6 @@ You have spent years studying astronomy, learning about the celestial bodies of 
 
 # Feature: Academic Connections
 As an active participant in the united effort of extraterrestrial travel, you have certain privileges. You can secure passage to another celestial body for you and your companions in any recognized celestial station, and you know where such stations are located throughout the celestial body you are on.
+
+# Suggested Characteristics
+Astronomers are shaped by their relentless pursuit of studying and colonizing other celestial bodies. As scholars, they recognize that they must rely on the work of great minds who came before them, and leave a legacy for those who will succeed them.
