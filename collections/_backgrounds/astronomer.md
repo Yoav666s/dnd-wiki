@@ -49,7 +49,8 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | d6 | Bond |
 | :---: | :---- |
 | 1 | My beloved mentor traveled to an uninhabited planet, and never came back. |
-| 2 |  |
+| 2 | I carry the journal of a great astronomer who vanished while studying a distant moon, and I intend to finish their work. |
+| 3 |  |
 
 ## Flaws
 
