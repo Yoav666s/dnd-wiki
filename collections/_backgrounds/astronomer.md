@@ -64,4 +64,4 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | 3 | I obsessively collect rocks and minerals from different celestial bodies. |
 | 4 | I look down on terrestrial dwellers who refuse to visit other planets and moons. |
 | 5 | I naively trust strange alien species even when I really shouldn't. |
-| 6 |  |
+| 6 | I find Terrus awfully boring. |
