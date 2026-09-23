@@ -25,6 +25,7 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | :---: | :---- |
 | 1 | I am fascinated by the night sky, and I am bothered by light pollution which obscures it. |
 | 2 | I don't care for terrestrial politics. |
-| 3 ||
+| 3 | I recognize how fragile life is, and how difficult it is to preserve. |
+| 4 |  |
 
 I want to visit every single planet and moon that has been colonized.
