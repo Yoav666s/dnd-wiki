@@ -14,7 +14,7 @@ comp:
 duration: "8 Hours"
 concentration: false
 cast_time: "1 Action"
-ritual: false
+ritual: true
 description: |
   You touch a willing creature and a protective magical force surrounds it and traps the air around it until the spell ends. If the air composition trapped is one the target can breathe, the target can breathe normally regardless of its surrounding atmosphere. If the air trapped inside the barrier isn't compatible with the target's lungs, it begins or continues suffocating unless it is holding its breath. 
   
