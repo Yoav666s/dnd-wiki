@@ -137,3 +137,8 @@ The following are spells that are essential to extraterrestrial travel.
 The following are items that are essential to extraterrestrial travel.
 
 {% include expansion_items.html %}
+
+# Chapter ?: Backgrounds
+The following are backgrounds that are essential to extraterrestrial travel.
+
+{% include expansion_backgrounds.html %}
