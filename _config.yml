@@ -323,6 +323,10 @@ hidden_tags:
   - Feat
 
 collections:
+  backgrounds:
+    output: true
+    permalink: /:collection/:path/
+
   classes:
     output: true
     permalink: /:collection/:path/
@@ -382,6 +386,22 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _backgrounds
+  - scope:
+      path: ""
+      type: backgrounds
+    values:
+      layout: single
+      sidebar:
+        nav:
+          - classes
+      header:
+        overlay_image: /assets/images/classes/header.png
+        overlay_filter: 0.375
+      show_tags: true
+      classes: wide
+      share: true
 
   # _classes
   - scope:
