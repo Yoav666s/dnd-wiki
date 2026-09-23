@@ -102,68 +102,12 @@ Moons and other planets have been observed using a revolutionary invention calle
 
 ## Going to the Moon
 
-> They tell of a wizard who longed for Selene \
-> Saelethil Halter Miatris the third \
-> He wanted to go where no one had been \
-> Everyone else told him it was absurd
->
-> He commissioned a large telescope from a friend \
-> He enchanted it so it would show him the moon \
-> Every night he looked through it, and then in the end \
-> He decided that he would visit there soon
->
 > In the night, shining white, is Selene in the sky \
 > She is lonely and sad without life on her ground \
 > She's so close yet impossibly so far and high \
 > Whoever could reach her, and come back around?
 >
-> With a spell he has traveled, but to his dismay \
-> On the surface of the moon there was no air to breathe \
-> Without words he had brought himself back all the way \
-> And depleted of energy, he fell to his knees
->
-> He has crafted a magical barrier to hold \
-> The air from dispersing into the void \
-> The air would refresh itself, lo and behold \
-> A new spell with all the knowledge he employed
->
-> In the night, shining white, is Selene in the sky...
->
-> He returned and this time, he could breathe all the same \
-> The magnificent view of Terrus above \
-> He knew that history would carry his name \
-> But all that he did, he did it for love
->
-> He was curious so then he set up a dome \
-> To magically preserve a pocket of air \
-> Excited, he hurriedly came back home \
-> And scrambled through books, his notes everywhere
->
-> In the night, shining white, is Selene in the sky... 
->
-> He has crafted a spell for a small atmosphere \
-> And he came to Selene to prepare every day \
-> For a permanent one it would take him a year \
-> But he was more than willing if there was a way
->
-> While he was at it, he hired a crew \
-> To build him a house on the white earthy rock \
-> They laboured all day and when they were through \
-> They would teleport back with a rune drawn in chalk
->
-> In the night, shining white, is Selene in the sky... 
->
-> With a permanent circle to bring him to her \
-> And a porch with a chair to look at the view \
-> He sat there, so happy, in a pocket of air \
-> Watching Terrus from Selene, all pretty and blue
->
-> They tell of a wizard who longed for Selene \
-> Saelethil Halter Miatris the third \
-> He wanted to go where no one had been \
-> Everyone else told him it was absurd
->
-> --folk song, "Lonely Selene"
+> --from a folk song, "Lonely Selene"
 
 The elven wizard who created the first teleseer is called Saelethil Halter Miatris III. He had a telescope specially made by his gnomish friend Guila Horsentuth, and then he enchanted it himself. He used it to scry on the surface of Selene and found no life forms there. After many months of research, he decided to teleport to the Selene using the [[Teleport]] spell. To his horror, he quickly realized that there was no air on the moon, and no sound as well. [[Teleport]] has a verbal component, so he couldn't cast it normally to return home. Thankfully, he had dabbled in metamagic before and knew the Subtle Spell metamagic. Using what little time he had, he teleported back.
 
