@@ -3,8 +3,9 @@ title: "Astronomer"
 index:
   - astronomer-2024
 permalink: /backgrounds/astronomer-2024/
-excerpt: "You have spent years studying astronomy, learning about the celestial bodies of the Ausarian Expanse, and maybe even preparing for extraterrestrial travel."
+v_2024: true 
 alt_version: astronomer
+excerpt: "You have spent years studying astronomy, learning about the celestial bodies of the Ausarian Expanse, and maybe even preparing for extraterrestrial travel."
 source: "Astronomer's Guide to Extraterrestrial Travel"
 ---
 You have spent years studying astronomy, learning about the celestial bodies of the Ausarian Expanse, and maybe even preparing for extraterrestrial travel. Maybe you're an expert on everything that has to do with the strange planet of Albaxia, or perhaps you've been to the moon.
