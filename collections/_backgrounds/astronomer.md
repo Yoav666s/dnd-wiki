@@ -60,4 +60,5 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | d6 | Flaw |
 | :---: | :---- |
 | 1 | I am deeply detached from and don't care for terrestrial matters. |
-| 2 |  |
+| 2 | I meticulously over-prepare for everything. |
+| 3 |  |
