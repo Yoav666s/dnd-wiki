@@ -24,7 +24,7 @@ description: |
   | :---: | :---- | :---- |
   | 1 | The soul peacefully passes on to afterlife. | The soul must tell you a truth it knew in life. |
   | 2 | The soul is released from the reliquary as a Specter, passing on to afterlife when it reaches 0 Hit Points or completes its task. | The soul must find and kill an individual you choose. |
-  | 3 | The soul returns to life in its original body or a different, readily available one (consuming a diamond worth 300 GP for a body of a humanoid that died in the last minute, or 500 GP for a body of a humanoid that died in the last 10 days). If the soul returns to a different body, it retains its alignment, proficiency bonus, class abilities (if any), and Intelligence, Wisdom, and Charisma scores. | The soul must serve and obey you for 30 days. |
+  | 3 | The soul returns to life in its original body or a different, readily available one (consuming a diamond worth 300 GP for a body of a humanoid that died in the last minute, or 500 GP for a body of a humanoid that died in the last 10 days). If the soul returns to a different body, it retains its alignment, proficiency bonus, class abilities (if any), and Intelligence, Wisdom, and Charisma scores. Regardless, upon resurrection the target gains 1d4 levels of Exhaustion. | The soul must serve and obey you for 30 days. |
 excerpt: "You attempt to strike a bargain with one soul of your choice that is trapped in the reliquary used as the material component for this spell."
 source: "Exterminator's Guide to Ghostly Things"
 header:
