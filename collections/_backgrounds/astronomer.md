@@ -18,3 +18,11 @@ As an active participant in the united effort of extraterrestrial travel, you ha
 
 # Suggested Characteristics
 Astronomers are shaped by their relentless pursuit of studying and colonizing other celestial bodies. As scholars, they recognize that they must rely on the work of great minds who came before them, and leave a legacy for those who will succeed them.
+
+## Personality Traits
+
+| d8 | Personality Trait |
+| :---: | :---- |
+| 1 | I am fascinated by the night sky, and I often think about other solar systems. |
+
+I want to visit every single planet and moon that has been colonized.
