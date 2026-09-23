@@ -61,4 +61,5 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | :---: | :---- |
 | 1 | I am deeply detached from and don't care for terrestrial matters. |
 | 2 | I meticulously over-prepare for everything. |
-| 3 |  |
+| 3 | I obsessively hoard rocks and minerals from different celestial bodies. |
+| 4 |  |
