@@ -6,6 +6,7 @@ permalink: /items/soul-reliquary/
 excerpt: ""
 rarity: "Common"
 cost: "500 GP"
+weight: "5 lbs"
 tags:
   - Item
 source: "Exterminator's Guide to Ghostly Things"
