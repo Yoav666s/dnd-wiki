@@ -34,8 +34,18 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 
 ## Ideals
 
-
+| d6 | Ideal |
+| :---: | :---- |
+| 1 ||
 
 ## Bonds
 
+| d6 | Bond |
+| :---: | :---- |
+| 1 ||
+
 ## Flaws
+
+| d6 | Flaw |
+| :---: | :---- |
+| 1 ||
