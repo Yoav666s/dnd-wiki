@@ -53,7 +53,7 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | 3 | I am determined to discover and explore an uninhabited planet on my own. |
 | 4 | Studying and exploring the cosmos is my only purpose. |
 | 5 | I want to visit every single planet and moon that has been colonized. |
-| 6 |  |
+| 6 | Someone has done me a misdeed and escaped to another celestial body. I will find them and exact my revenge. |
 
 ## Flaws
 
