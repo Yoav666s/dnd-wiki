@@ -33,3 +33,9 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | 8 | I have the utmost respect to the astronomers who came before me. |
 
 ## Ideals
+
+
+
+## Bonds
+
+## Flaws
