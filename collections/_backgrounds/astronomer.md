@@ -24,8 +24,9 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | d8 | Personality Trait |
 | :---: | :---- |
 | 1 | I am fascinated by the night sky, and I am bothered by light pollution which obscures it. |
-| 2 | I don't care for terrestrial politics. |
+| 2 | I don't care for terrestrial politics, it hinders progress. |
 | 3 | I recognize how fragile life is, and how difficult it is to preserve. |
-| 4 |  |
+| 4 | I am very concise with words, as I am used to give replies through the Sending spell. |
+| 5 ||
 
 I want to visit every single planet and moon that has been colonized.
