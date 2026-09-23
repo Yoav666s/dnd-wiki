@@ -29,4 +29,5 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | 4 | I am very concise with words, as I am used to give replies through the Sending spell. |
 | 5 | I love exploring unusual places. |
 | 6 | I want to visit every single planet and moon that has been colonized. |
-| 7 |  |
+| 7 | I have come to learn extreme patience, as astronomy is slow and cannot be rushed. |
+| 8 |  |
