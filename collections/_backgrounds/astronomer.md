@@ -11,6 +11,7 @@ You have spent years studying astronomy, learning about the celestial bodies of 
 
 **Skill Proficiencies:** History and Survival \
 **Tool Proficiencies:** Cartographer's Tools \
+**Languages:** Celestial \
 **Equipment:** A bottle of black ink, a quill, a set of cartographer's tools, 8 sheets of Parchment, a set of common clothes, and a pouch containing 11 GP
 
 # Feature: Academic Connections
