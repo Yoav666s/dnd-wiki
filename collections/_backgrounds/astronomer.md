@@ -27,6 +27,7 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | 2 | I don't care for terrestrial politics, it hinders progress. |
 | 3 | I recognize how fragile life is, and how difficult it is to preserve. |
 | 4 | I am very concise with words, as I am used to give replies through the Sending spell. |
-| 5 ||
+| 5 | I love exploring unusual places. |
+| 6 |  |
 
 I want to visit every single planet and moon that has been colonized.
