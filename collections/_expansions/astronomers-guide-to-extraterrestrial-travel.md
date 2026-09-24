@@ -140,7 +140,7 @@ Gertrous shared her findings with other astronomers, leaving out her method of c
 
 Realizing that she was serious about this, a few of her colleagues agreed to come with her. It was unlike her to daydream and imagine such things, and she didn't seem out of her mind to them. Each one of them casted [[Air Barrier]] on themselves and Gertrous teleported all five of them to Albaxia.
 
-It was just like she described in her journal. 
+It was just like she described in her journal. Purple and black plants, blue haze, and Mauvians that were ready to break bread with them. Except they didn't have bread---they had roasted insect legs and Nectar. With the [[]]
 
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
