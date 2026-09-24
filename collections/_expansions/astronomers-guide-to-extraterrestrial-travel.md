@@ -133,6 +133,9 @@ Day after day, Gertrous casted the spell for eight hours at a time, the sensor t
 
 It was an astonishing sight. With a blue haze covering the entire face of the planet, the sunlight was profoundly pink. Sounds were low and deep, and could be heard from a mile away. Sounds! Rustling leaves, footsteps---there was life on this planet! She took out a brand new journal and started noting everything she saw. Small, blue and purple humanoid creatures, so strange and different from anything she ever saw on Terrus. She sketched them out. Day after day, she kept casting the spell, eventually mapping out the entire planet after months of meticulous research.
 
+### Visiting Albaxia
+Gertrous shared her findings with other astronomers, leaving out her method of collecting such detailed data from a place she'd never visited before. Many of her colleagues were skeptical of her claims and even ridiculed her, saying it was all a product of her imagination. Some thought that she went mad.
+
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
 
