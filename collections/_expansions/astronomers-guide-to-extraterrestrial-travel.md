@@ -138,6 +138,10 @@ The Mauvians, as she called them, spoke an entirely different language she had n
 ### Visiting Albaxia
 Gertrous shared her findings with other astronomers, leaving out her method of collecting such detailed data from a place she'd never visited before. Many of her colleagues were skeptical of her claims and even ridiculed her, saying it was all a product of her imagination. Some thought that she went mad. Gertrous didn't back down. She insisted that she was going to teleport there, and invited a few of her colleagues to come with her. They were outraged. Teleporting to a nonexistent destination often resulted in a lethal chain of mishaps, but she insisted that after her research, she knew the planet well enough. She even claimed to have communicated with one of the natives there via the [[Sending]] spell, and that they would gladly host them if they found a way to get there.
 
+Realizing that she was serious about this, a few of her colleagues agreed to come with her. It was unlike her to daydream and imagine such things, and she didn't seem out of her mind to them. Each one of them casted [[Air Barrier]] on themselves and Gertrous teleported all five of them to Albaxia.
+
+It was just like she described in her journal. 
+
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
 
