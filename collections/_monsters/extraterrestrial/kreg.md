@@ -17,10 +17,10 @@ wis_score: 11
 cha_score: 6
 saving_throws: ""
 skills: ""
-senses: "Passive Perception 10"
+senses: "Tremorsense 30 ft., Passive Perception 10"
 languages: ""
-challenge_rating: 4
-xp: 1100
+challenge_rating: 1
+xp: 200
 proficiency_bonus: "+2"
 actions: |
   **Gore.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
