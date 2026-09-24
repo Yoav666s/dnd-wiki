@@ -3,13 +3,13 @@ title: "Kreg"
 index:
   - kreg
 permalink: /monsters/kreg/
-size: "Huge"
+size: "Medium"
 type: "Beast"
 alignment: "Unaligned"
 armor_class: "12 (Natural)"
-hit_points: "76 (8d12+24)"
-speed: "walk 40 ft."
-str_score: 22
+hit_points: "68 (8d8+24)"
+speed: "walk 30 ft."
+str_score: 18
 dex_score: 9
 con_score: 17
 int_score: 3
@@ -22,12 +22,8 @@ languages: ""
 challenge_rating: 4
 xp: 1100
 proficiency_bonus: "+2"
-traits: |
-  **Trampling Charge.** If the elephant moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.
 actions: |
-  **Gore.** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) piercing damage.
-  
-  **Stomp.** Melee Weapon Attack: +8 to hit, reach 5 ft., one prone creature. Hit: 22 (3d10 + 6) bludgeoning damage.
-excerpt: "Huge Beast, Unaligned"
+  **Gore.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
+excerpt: "Medium Beast, Unaligned"
 source: "Astronomer's Guide to Extraterrestrial Travel"
 ---
