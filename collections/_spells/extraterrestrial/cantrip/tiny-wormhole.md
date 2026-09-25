@@ -21,7 +21,7 @@ ritual: false
 description: |
   You create a spherical portal in your space that is connected to another one that appears in an unoccupied space you can see within range. The portals are just big enough to fit your hand through or take a peek, and they close at the end of your turn. Anything that is inside a portal as it closes is shunted out to the nearest unoccupied space. A portal cannot slice, cut, or sever anything as it closes.
   
-  Attacks and spells cannot pass through the portals. You can use your object interaction through the portals or, when you take the Utilize Action, you can use an object through the portals.
+  Attacks and spells cannot pass through the portals. You can use your object interaction through the portals or, when you take the Use an Object Action, you can use an object through the portals.
 excerpt: "You create a spherical portal in your space that is connected to another one that appears in an unoccupied space you can see within range."
 source: "Astronomer's Guide to Extraterrestrial Travel"
 header:
