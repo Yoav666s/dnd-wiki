@@ -149,6 +149,11 @@ The following are races of creatures that live on other planets.
 
 {% include expansion_races.html %}
 
+# Chapter ?: Monsters
+The following are monster statblocks for creatures that live on other planets.
+
+{% include expansion_monsters.html %}
+
 # Chapter ?: Spells
 The following are spells that are essential to extraterrestrial travel.
 
