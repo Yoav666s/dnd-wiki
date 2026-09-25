@@ -24,7 +24,9 @@ description: |
   You can't make melee or ranged attacks nor cast touch spells through a portal. You can use your object interaction through the portals or, when you take the Utilize Action, you can use an object through the portals.
 excerpt: "You create a circular portal in your space that is connected to another one that appears in an unoccupied space you can see within range."
 source: "Astronomer's Guide to Extraterrestrial Travel"
-# header:
-#   overlay_image: /assets/images/spells/tiny-portal/header.png
-#   teaser: /assets/images/spells/tiny-portal/header.jpg
+header:
+  overlay_image: /assets/images/spells/tiny-portal/header.png
+  teaser: /assets/images/spells/tiny-portal/header.jpg
 ---
+
+[:spells/tiny-portal:]
