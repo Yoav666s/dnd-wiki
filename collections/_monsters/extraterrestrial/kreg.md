@@ -27,4 +27,4 @@ actions: |
 excerpt: "Medium Beast, Unaligned"
 source: "Astronomer's Guide to Extraterrestrial Travel"
 ---
-*The kreg is an Albaxian beast with a wide, heavy body, walking on four legs. It has two tusks it uses to defend itself, and it feeds mostly on low-growing plants.*
+*The kreg is an Albaxian beast with a wide, heavy body, walking on four legs. It has two tusks it uses to defend itself, and it feeds mostly on low-growing plants. It has tough, leathery skin that's too thick for large insects to pierce and inject their venom.*
