@@ -17,7 +17,7 @@ comp:
 duration: "1 Round"
 cast_time: "1 Action"
 description: |
-  You create a spherical portal in your space that is connected to another one that appears in an unoccupied space you can see within range. The portals are big enough for a Medium or smaller creature to pass through and last until the start of your next turn. Anything that is inside a portal as it closes is shunted out to the nearest unoccupied space. A portal cannot slice, cut, or sever anything as it closes. Attacks and spells cannot pass through the portals, but the destination is otherwise visible from both ends.
+  You create a spherical portal in your space that is connected to another one that appears in an unoccupied space you can see within range. The portals are big enough for a Medium or smaller creature to pass through and last until the start of your next turn. Stepping through a portal and appearing on the other side costs 5 feet of movement in total. Anything that is inside a portal as it closes is shunted out to the nearest unoccupied space. A portal cannot slice, cut, or sever anything as it closes. Attacks and spells cannot pass through the portals, but the destination is otherwise visible from both ends.
 excerpt: "You create a spherical portal in your space that is connected to another one that appears in an unoccupied space you can see within range."
 source: "Astronomer's Guide to Extraterrestrial Travel"
 # header:
