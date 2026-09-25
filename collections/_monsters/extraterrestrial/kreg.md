@@ -17,7 +17,7 @@ wis_score: 11
 cha_score: 6
 saving_throws: ""
 skills: ""
-senses: "Tremorsense 30 ft., Passive Perception 10"
+senses: "Darkvision 60 ft., Tremorsense 30 ft., Passive Perception 10"
 languages: ""
 challenge_rating: 1
 xp: 200
@@ -27,3 +27,4 @@ actions: |
 excerpt: "Medium Beast, Unaligned"
 source: "Astronomer's Guide to Extraterrestrial Travel"
 ---
+*The kreg is an Albaxian beast with a wide, heavy body, walking on four legs. It has two tusks it uses to defend itself, and it feeds mostly on low-growing plants.*
