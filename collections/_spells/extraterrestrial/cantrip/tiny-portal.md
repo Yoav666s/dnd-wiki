@@ -1,8 +1,8 @@
 ---
-title: "Tiny Portal"
+title: "Tiny Wormhole"
 index:
-  - tiny-portal
-permalink: /spells/tiny-portal/
+  - tiny-wormhole
+permalink: /spells/tiny-wormhole/
 tags:
   - Spell
 available_for:
@@ -25,8 +25,8 @@ description: |
 excerpt: "You create a circular portal in your space that is connected to another one that appears in an unoccupied space you can see within range."
 source: "Astronomer's Guide to Extraterrestrial Travel"
 header:
-  overlay_image: /assets/images/spells/tiny-portal/header.png
-  teaser: /assets/images/spells/tiny-portal/header.jpg
+  overlay_image: /assets/images/spells/tiny-wormhole/header.png
+  teaser: /assets/images/spells/tiny-wormhole/header.jpg
 ---
 
-[:spells/tiny-portal:]
+[:spells/tiny-wormhole:]
