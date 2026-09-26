@@ -37,7 +37,8 @@ Interplanetary drifters are vastly different from one another, but they all shar
 
 | d6 | Ideal |
 | :---: | :---- |
-| 1 |  |
+| 1 | **Ordinarity.** Appreciate the ordinary and simple things in life. (Neutral) |
+| 2 |  |
 
 ## Bonds
 
