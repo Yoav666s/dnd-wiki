@@ -29,7 +29,8 @@ Interplanetary drifters are vastly different from one another, but they all shar
 | 3 | I sometimes forget what planet I am on. |
 | 4 | I always have an absurd story to tell. |
 | 5 | Breathtaking views seem ordinary to me. |
-| 6 |  |
+| 6 | I'll make a bet about anything. |
+| 7 |  |
 
 ## Ideals
 
