@@ -148,7 +148,9 @@ It was a hot day, so they sat in the shade and talked for hours, each time one o
 Extraterrestrial travel complicates a lot of things we normally take for granted. How long is a year on the moon, in terms of magic? What counts as 'a day' on Albaxia? What about Terrus, in general?
 
 ## Earth or Terrus?
-Most D&D campaigns take place on Earth, albeit implicitly.
+Most D&D campaigns take place on Earth, albeit implicitly. We know this because according to the rules, a day is 24 hours, a month is 30 days, and a year is 365 days. Terrus is a different planet in a different solar system---the Ausarian Expanse. What constitutes a year on Terrus is not the same as Earth, and the state of technology is very different, as well. Terrus is the main hub of extraterrestrial travel, teeming with celestial stations that allow daily travel to distant planets that astromancers have discovered and colonized.
+
+## Magic on Different Planets
 
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
