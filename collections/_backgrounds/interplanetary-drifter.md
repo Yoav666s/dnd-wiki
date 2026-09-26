@@ -24,10 +24,11 @@ Interplanetary drifters are vastly different from one another, but they all shar
 
 | d8 | Personality Trait |
 | :---: | :---- |
-| 1 | I stay surprisingly calm in life-threatening situations. |
+| 1 | I stay surprisingly calm in life-threatening circumstances. |
 | 2 | I react with humor in extremely inappropriate situations. |
 | 3 | I sometimes forget what planet I am on. |
-| 4 |  |
+| 4 | I always have an absurd story to tell. |
+| 5 |  |
 
 ## Ideals
 
