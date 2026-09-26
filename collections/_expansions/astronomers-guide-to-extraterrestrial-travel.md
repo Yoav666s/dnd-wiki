@@ -144,6 +144,12 @@ It was just like she described in her journal. Purple and black plants, blue haz
 
 It was a hot day, so they sat in the shade and talked for hours, each time one of Gertrous colleagues casting [[Tongues]] when the previous casting had ended. The exchanged information about each other's lives on each planet, until the air barriers started running low. They agreed that Gertrous would come there every day for a year, casting [[Teleportation Circle]] on the same spot to establish the first celestial station on Albaxia.
 
+# Chapter 2: The Rules of Extraterrestrial Travel
+Extraterrestrial travel complicates a lot of things we normally take for granted. How long is a year on the moon, in terms of magic? What counts as 'a day' on Albaxia? What about Terrus, in general?
+
+## Earth or Terrus?
+Most D&D campaigns take place on Earth, albeit implicitly.
+
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
 
