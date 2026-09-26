@@ -24,7 +24,9 @@ effect: "Communication"
 description: |
   You hold one of the transmitters used as a material component for this spell and a different one projects an illusory image of you in an unoccupied space within 5 feet of it, wherever it is, as long as it's on the same plane of existence. In order to target another transmitter, you must know its unique sigil sequence. The transmitter you are holding projects an illusory image of whoever is holding the other one in an unoccupied space within 5 feet of you.
   
-For the duration, you can speak with whoever is holding the other transmitter. If nobody is holding the other transmitter, it still projects your image and your voice, but the transmitter you are holding projects nothing. You can dismiss the spell early as an action.
+  For the duration, you can speak with whoever is holding the other transmitter. If nobody is holding the other transmitter, it still projects your image and your voice, but the transmitter you are holding projects nothing. You can dismiss the spell early as an action.
+  
+  **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can target an additional transmitter for every slot level above 4th.
 excerpt: "You hold one of the transmitters used as a material component for this spell and the other one projects an illusory image of you in its space, wherever it is, as long as it's on the same plane of existence."
 source: "Astronomer's Guide to Extraterrestrial Travel"
 # header:
