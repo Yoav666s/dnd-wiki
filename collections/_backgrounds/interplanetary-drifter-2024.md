@@ -8,7 +8,7 @@ v_2024: true
 alt_version: astronomer-2024
 source: "Astronomer's Guide to Extraterrestrial Travel"
 ---
-You travel from planet to moon, never staying in one place for too long. You might be a wanted criminal, perhaps you're a fugitive, or maybe you're just a regular person who seeks a sense of adventure. Regardless, passing through so many portals has changed you, granting you the ability to create rifts in reality.
+You travel from planet to moon, never staying in one place for too long. You might be a wanted criminal, perhaps you're a fugitive, or maybe you're just a regular person who seeks a sense of adventure. Regardless, you've seen it all---strange aliens, magnificent views, and several near-death experiences. Passing through so many portals has changed you, granting you the ability to create rifts in reality.
 
 **Ability Scores:** Dexterity, Constitution, Wisdom \
 **Feat:** Rift Manipulator \
