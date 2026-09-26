@@ -12,5 +12,5 @@ You travel from planet to moon, never staying in one place for too long. You mig
 
 **Feat:** Rift Manipulator \
 **Skill Proficiencies:** Insight and Survival \
-**Tool Proficiencies:** Choose a gaming set \
+**Tool Proficiencies:** Choose one kind of Gaming Set \
 **Equipment:** Choose A or B: (A) Quarterstaff, Traveler's Clothes, Rations (5 days), Tinderbox, Towel, 10 GP; or (B) 50 GP
