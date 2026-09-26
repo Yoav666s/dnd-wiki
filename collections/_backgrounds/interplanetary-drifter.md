@@ -52,7 +52,8 @@ Interplanetary drifters are vastly different from one another, but they all shar
 | 2 | I am a wanted interplanetary criminal, but nobody knows what I look like. |
 | 3 | I somehow left my home planet, which is not part of the interplanetary union, and there are no apparent means for me to go back.|
 | 4 | I unknowingly insulted an important person of power, and their bounty hunters are looking for me. |
-| 5 |  |
+| 5 | I botched some illegal interplanetary operation and got away, but my former accomplices are looking for me. |
+| 6 |  |
 
 ## Flaws
 
