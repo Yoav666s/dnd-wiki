@@ -11,7 +11,8 @@ You travel from planet to moon, never staying in one place for too long. You mig
 
 **Skill Proficiencies:** Insight and Survival \
 **Tool Proficiencies:** One type of gaming set \
-**Equipment:** A set of traveler's clothes, a quarterstaff, a waterskin, a tinderbox, a towel, 5 days of rations, and a pouch containing 10 gp.
+**Languages:** One language of your choice \
+**Equipment:** A set of traveler's clothes, a walking staff, a waterskin, a tinderbox, a towel, 5 days of rations, and a pouch containing 10 gp.
 
 # Feature: Unremarkable Appearance
 You don't strike people as anyone significant. Unless you actively draw attention to yourself, guards, citizens, and mostly everyone else will dismiss your presence as someone else's responsibility. You fit right in with the crowd, and you like to keep it that way.
