@@ -64,4 +64,4 @@ Interplanetary drifters are vastly different from one another, but they all shar
 | 3 | I have trust issues. |
 | 4 | I am deeply afraid of commitment. |
 | 5 | I don't get excited over anything anymore. |
-| 6 |  |
+| 6 | I tend to accidentally insult others. |
