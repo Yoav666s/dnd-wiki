@@ -151,7 +151,7 @@ Extraterrestrial travel complicates a lot of things we normally take for granted
 Most D&D campaigns take place on Earth, albeit implicitly. We know this because according to the rules, a day is 24 hours, a month is 30 days, and a year is 365 days. Terrus is a different planet in a different solar system---the Ausarian Expanse. What constitutes a year on Terrus is not the same as Earth, and the state of technology is very different, as well. Terrus is the main hub of extraterrestrial travel, teeming with celestial stations that allow daily travel to distant planets which astromancers have discovered and colonized.
 
 ## Arcane Time
-Magic operates on its own time, and it just so happens that Arcane Time aligns perfectly with Earth's time table. In a world where possibility is infinite, such coincidences are bound to happen.
+Magic operates on its own time, and it just so happens that Arcane Time aligns perfectly with Earth's time cycle. In a world where possibility is infinite, such coincidences are bound to happen. On Terrus, an arcane year is still 365 days long, and on Albaxia, an arcane day is still just 24 hours. Nobody knows why magic works this way, but this is how things are. 
 
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
