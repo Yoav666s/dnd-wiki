@@ -44,10 +44,10 @@ Interplanetary drifters are vastly different from one another, but they all shar
 
 | d6 | Bond |
 | :---: | :---- |
-| 1 | |
+| 1 |  |
 
 ## Flaws
 
 | d6 | Flaw |
 | :---: | :---- |
-| 1 | |
+| 1 |  |
