@@ -38,7 +38,7 @@ Astronomers are shaped by their relentless pursuit of studying and colonizing ot
 | d6 | Ideal |
 | :---: | :---- |
 | 1 | **Expansion.** We must colonize and populate as many celestial bodies as possible. (Lawful) |
-| 2 | **Peace.** We should be kind to native inhabitants and make peace with them, if possible.(Good) |
+| 2 | **Peace.** We should be kind to native inhabitants and make peace with them, if possible. (Good) |
 | 3 | **Exploration.** Different planets are meant to be explored. (Any) |
 | 4 | **Discovery.** We must discover more habitable planets and moons. (Neutral) |
 | 5 | **Extermination.** We must eliminate alien life forms. (Evil) |
