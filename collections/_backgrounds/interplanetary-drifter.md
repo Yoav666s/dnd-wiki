@@ -60,4 +60,5 @@ Interplanetary drifters are vastly different from one another, but they all shar
 | d6 | Flaw |
 | :---: | :---- |
 | 1 | I never bother learning people's names because I assume I'll be leaving before they matter. |
-| 2 |  |
+| 2 | I am intensely paranoid that every guard or official I see is actually looking for me. |
+| 3 |  |
