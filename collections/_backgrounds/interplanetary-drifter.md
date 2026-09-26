@@ -11,7 +11,7 @@ You travel from planet to moon, never staying in one place for too long. You mig
 
 **Skill Proficiencies:** Insight and Survival \
 **Tool Proficiencies:** One type of gaming set \
-**Languages:** One language of your choice \
+**Languages:** One of your choice \
 **Equipment:** A set of traveler's clothes, a walking staff, a waterskin, a tinderbox, a towel, 5 days of rations, and a pouch containing 10 gp.
 
 # Feature: Unremarkable Appearance
@@ -24,7 +24,7 @@ Interplanetary drifters are
 
 | d8 | Personality Trait |
 | :---: | :---- |
-| 1 | |
+| 1 | I stay surprisingly calm in life-threatening situations. |
 
 ## Ideals
 
