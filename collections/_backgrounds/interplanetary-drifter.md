@@ -42,7 +42,7 @@ Interplanetary drifters are vastly different from one another, but they all shar
 | 3 | **Life.** Life is inherently fragile and must be protected at all costs. (Good) |
 | 4 | **Manners.** One is defined by manners and taste. (Lawful) |
 | 5 | **Strangeness.** Life takes many different forms, and one must embrace all of them---no matter how strange. (Chaotic) |
-| 6 |  |
+| 6 | **Calm.** Don't panic. (Any) |
 
 ## Bonds
 
