@@ -160,6 +160,11 @@ The following are spells that are essential to extraterrestrial travel.
 
 {% include expansion_spells.html %}
 
+# Chapter ?: Feats
+The following are feats for campaigns with extraterrestrial travel.
+
+{% include expansion_feats.html %}
+
 
 # Chapter ?: Items
 The following are items that are essential to extraterrestrial travel.
