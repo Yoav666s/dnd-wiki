@@ -3,11 +3,11 @@ title: "Interplanetary Drifter"
 index:
   - interplanetary-drifter
 permalink: /backgrounds/interplanetary-drifter/
-excerpt: ""
+excerpt: "You travel from planet to moon, never staying in one place for too long."
 alt_version: astronomer-2024
 source: "Astronomer's Guide to Extraterrestrial Travel"
 ---
-Blurb.
+You travel from planet to moon, never staying in one place for too long. You might be a wanted criminal, perhaps you're a fugitive, or maybe you're just a regular person who seeks a sense of adventure. Regardless, you've seen it all.
 
 **Skill Proficiencies:** Insight and Survival \
 **Tool Proficiencies:** Choose a gaming set \
