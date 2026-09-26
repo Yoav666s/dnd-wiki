@@ -63,4 +63,5 @@ Interplanetary drifters are vastly different from one another, but they all shar
 | 2 | I am intensely paranoid that every guard or official I see is actually looking for me. |
 | 3 | I have trust issues. |
 | 4 | I am deeply afraid of commitment. |
-| 5 |  |
+| 5 | I don't get excited over anything anymore. |
+| 6 |  |
