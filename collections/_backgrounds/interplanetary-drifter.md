@@ -18,7 +18,7 @@ You travel from planet to moon, never staying in one place for too long. You mig
 You don't strike people as anyone significant. Unless you actively draw attention to yourself, guards, citizens, and mostly everyone else will dismiss your presence as someone else's responsibility. You fit right in with the crowd, and you like to keep it that way.
 
 # Suggested Characteristics
-Interplanetary drifters are
+Interplanetary drifters are vastly different from one another, but they all share the same sense of not belonging anywhere. Drifting from one celestial body to another, having no home to come back to, it changes them.
 
 ## Personality Traits
 
