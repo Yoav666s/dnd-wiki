@@ -11,7 +11,7 @@ Blurb.
 
 **Skill Proficiencies:** Insight and Survival \
 **Tool Proficiencies:** Choose a gaming set \
-**Equipment:** A bottle of black ink, a quill, a set of cartographer's tools, 8 sheets of Parchment, a set of common clothes, and a pouch containing 11 GP
+**Equipment:** A set of traveler's clothes, a quarterstaff, a waterskin, a tinderbox, a towel, 5 days of rations, and a pouch containing 10 gp.
 
 # Feature: ?
 Feature description.
