@@ -5,6 +5,8 @@ index:
 permalink: /items/emitter/
 excerpt: "This attachable device can maintain a personal barrier for an entire adventuring day."
 rarity: "Common"
+cost: "50 GP"
+weight: "1 lbs"
 tags:
   - Item
 source: "Astronomer's Guide to Extraterrestrial Travel"
