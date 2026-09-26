@@ -9,9 +9,8 @@ source: "Astronomer's Guide to Extraterrestrial Travel"
 ---
 Blurb.
 
-**Skill Proficiencies:** History and Survival \
-**Tool Proficiencies:** Cartographer's Tools \
-**Languages:** Celestial \
+**Skill Proficiencies:** Insight and Survival \
+**Tool Proficiencies:** Choose a gaming set \
 **Equipment:** A bottle of black ink, a quill, a set of cartographer's tools, 8 sheets of Parchment, a set of common clothes, and a pouch containing 11 GP
 
 # Feature: ?
