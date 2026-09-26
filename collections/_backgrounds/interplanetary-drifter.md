@@ -48,9 +48,10 @@ Interplanetary drifters are vastly different from one another, but they all shar
 
 | d6 | Bond |
 | :---: | :---- |
-| 1 | I met someone lovely on some planet or moon, and I regret leaving. |
+| 1 | I've met someone lovely on some planet or moon, and I regret leaving. |
 | 2 | I am a wanted interplanetary criminal, but nobody knows what I look like. |
-| 3 |  |
+| 3 | I somehow left my home planet, which is not part of the interplanetary union, and there are no apparent means for me to go back.|
+| 4 |  |
 
 ## Flaws
 
