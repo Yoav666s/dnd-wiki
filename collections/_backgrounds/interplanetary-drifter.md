@@ -40,7 +40,8 @@ Interplanetary drifters are vastly different from one another, but they all shar
 | 1 | **Ordinarity.** Appreciate the ordinary and simple things in life. (Neutral) |
 | 2 | **Exploitation.** Use others and escape to another planet before they realize they've been tricked. (Evil) |
 | 3 | **Life.** Life is inherently fragile and must be protected at all costs. (Good) |
-| 4 |  |
+| 4 | **Manners.** One is defined by manners and taste. (Lawful) |
+| 5 | **.** |
 
 ## Bonds
 
