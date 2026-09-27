@@ -185,6 +185,15 @@ Traveling from planet to moon can be a headache for the DM. Coming up with new i
 
 **Atmosphere.** Rather than coming up with a unique atmosphere composition every time, it is sufficient to decide if it's breathable or not. If you'd like to determine this randomly, oll a d6. On a 5-6 it is breathable for terrestrial creatures.
 
+**Native Life Form.** In addition to the many visitors and colonies, decide whether the planet has its own native sapient species, alien beasts, giant insects, or nothing at all. Consult the following table.
+
+| d4 | Native Life Forms |
+| :---: | :---- |
+| 1 | No native life forms. |
+| 2 | Insects, large and small. |
+| 3 | Alien beasts and insects. |
+| 4 | One or more sapient alien species, insects, and beasts. |
+
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
 
