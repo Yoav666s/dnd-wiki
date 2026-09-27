@@ -148,7 +148,7 @@ It was just like she described in her journal. Purple and black plants, blue haz
 It was a hot day, so they sat in the shade and talked for hours, each time one of Gertrous colleagues casting [[Tongues]] when the previous casting had ended. The exchanged information about each other's lives on each planet, until the air barriers started running low. They agreed that Gertrous would come there every arcane day for an arcane year, casting [[Teleportation Circle]] on the same spot to establish the first celestial station on Albaxia.
 
 ## Discovering Other Planets and Moons
-A
+After establishing a small celestial station on Albaxia, Gertrous shared her [[Far Sight]] spell with her colleagues, insisting that it must remain a secret between astronomers.
 
 # Chapter 2: The Rules of Extraterrestrial Travel
 Extraterrestrial travel complicates a lot of things we normally take for granted. How long is a year on the moon, in terms of magic? What counts as 'a day' on Albaxia? What about Terrus, in general?
