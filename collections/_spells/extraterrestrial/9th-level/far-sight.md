@@ -6,6 +6,7 @@ permalink: /spells/far-sight/
 tags:
   - Spell
 available_for:
+  - Cleric
   - Wizard
 level: "9th Level"
 school: "Divination"
