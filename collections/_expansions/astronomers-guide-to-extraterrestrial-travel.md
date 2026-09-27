@@ -168,7 +168,7 @@ Traveling from planet to moon can be a headache for the DM. Coming up with new i
 
 **Name.** Whenever you need to come up with a name for a planet or moon and can't think of one yourself, you can roll as many d12s as you'd like and consult the following table.
 
-| 1d12 |  |
+| 1d12 | Syllable |
 | :---: | :---: |
 | 1 | ist |
 | 2 | aun |
@@ -182,6 +182,15 @@ Traveling from planet to moon can be a headache for the DM. Coming up with new i
 | 10 | lid |
 | 11 | pol |
 | 12 | han |
+
+If two following syllables sound awkward or are difficult to pronounce, roll on the connector table to connect them.
+
+| 1d4 | Connector |
+| :---: | :---: |
+| 2 | a |
+| 3 | e |
+| 4 | i |
+| 5 | o |
 
 **Atmosphere.** Rather than coming up with a unique atmosphere composition every time, it is sufficient to decide if it's breathable or not. If you'd like to determine this randomly, oll a d6. On a 5-6 it is breathable for terrestrial creatures.
 
