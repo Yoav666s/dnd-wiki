@@ -164,7 +164,7 @@ Magic operates on its own time, and it just so happens that Arcane Time aligns p
 ## Planet Generation
 Traveling from planet to moon can be a headache for the DM. Coming up with new ideas, atmospheres, and alien species can be draining if it happens every other session. The solution isn't to over-prepare, but to roll dice! With the following tables, you can generate an entire planet in minutes, complete with moons and native population.
 
-**Moons.** Roll a `1d6 -- 1`. This is how many moons the planet has.
+**Moons.** Roll a `1d6 – 1`. This is how many moons the planet has.
 
 **Name.** Whenever you need to come up with a name for a planet or moon and can't think of one yourself, you can roll as many d12s as you'd like and consult the following table.
 
@@ -187,10 +187,10 @@ If two following syllables sound awkward or are difficult to pronounce, roll on 
 
 | 1d4 | Connector |
 | :---: | :---: |
-| 2 | a |
-| 3 | e |
-| 4 | i |
-| 5 | o |
+| 1 | a |
+| 2 | e |
+| 3 | i |
+| 4 | o |
 
 **Atmosphere.** Rather than coming up with a unique atmosphere composition every time, it is sufficient to decide if it's breathable or not. If you'd like to determine this randomly, oll a d6. On a 5-6 it is breathable for terrestrial creatures.
 
