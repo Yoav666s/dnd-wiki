@@ -176,6 +176,13 @@ First, roll a `1d6 -- 1`. This is how many moons the planet has. Then roll as ma
 | 5 | jus |
 | 6 | xen |
 
+### Name
+Roll as many d8s as you'd like and consult the following table for the planet's name. 
+
+| 1d8 |  |
+| :---: | :---: |
+| 1 |  |
+
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
 
