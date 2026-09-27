@@ -205,6 +205,15 @@ Traveling from planet to moon can be a headache for the DM. Coming up with new i
 | 5 | Ice |
 | 6 | Mountain |
 
+**Liquid.** Decide if there's a liquid on the planet. Consult the following table.
+
+| 1d4 | Liquid |
+| :---: | :---- |
+| 1 | None. |
+| 2 | Toxic. |
+| 3 | Can be purified. |
+| 4 | Drinkable. |
+
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
 
