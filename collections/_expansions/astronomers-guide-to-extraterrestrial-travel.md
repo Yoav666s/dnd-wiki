@@ -164,10 +164,11 @@ Magic operates on its own time, and it just so happens that Arcane Time aligns p
 ## Planet and Moon Generation
 Traveling from planet to moon can be a headache for the DM. Coming up with new ideas, atmospheres, and alien species can be draining if it happens every other session. The solution isn't to over-prepare, but to roll dice! With the following tables, you can generate an entire planet in minutes, complete with moons and native population.
 
-### Moons
-First, roll a `1d6 -- 1`. This is how many moons the planet has. Then roll as many d6s as you'd like and consult the following table to generate a name for each one, if necessary.
+**Moons.** Roll a `1d6 -- 1`. This is how many moons the planet has.
 
-| 1d6 |  |
+**Name.** Whenever you need to come up with a name for a planet or moon and can't think of one yourself, you can roll as many d12s as you'd like and consult the following table.
+
+| 1d12 |  |
 | :---: | :---: |
 | 1 | ist |
 | 2 | aun |
@@ -175,13 +176,12 @@ First, roll a `1d6 -- 1`. This is how many moons the planet has. Then roll as ma
 | 4 | ghe |
 | 5 | jus |
 | 6 | xen |
-
-### Name
-Roll as many d8s as you'd like and consult the following table for the planet's name. 
-
-| 1d8 |  |
-| :---: | :---: |
-| 1 |  |
+| 7 | tor |
+| 8 | ult |
+| 9 | kes |
+| 10 | lid |
+| 11 | pol |
+| 12 | han |
 
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
