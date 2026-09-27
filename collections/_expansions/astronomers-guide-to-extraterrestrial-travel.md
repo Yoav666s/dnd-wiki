@@ -214,6 +214,14 @@ Traveling from planet to moon can be a headache for the DM. Coming up with new i
 | 3 | Can be purified. |
 | 4 | Drinkable. |
 
+**Gravity.** Decide the gravitational force of the planet. Consult the following table.
+
+| 1d3 | Gravity |
+| :---: | :---: |
+| 1 | **Low.** Jumping distance and carrying capacity doubled, fall damage halved. |
+| 2 | **Normal.** No changes necessary. |
+| 3 | **High.** Jumping distance and carrying capacity halved, fall damage doubled. |
+
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
 
