@@ -149,6 +149,9 @@ It was a hot day, so they sat in the shade and talked for hours, each time one o
 
 After establishing a small celestial station on Albaxia with Terrus's atmosphere, Gertrous shared her [[Far Sight]] spell with her colleagues, insisting that it must remain a secret between astronomers. The used it to scour deep space for years and years, eventually mapping out the entire Ausarian Expanse. They found no life on other planets in the system. By that time Albaxia had become an invaluable asset---it had in abundance plants they could use to create the ink for [[Teleportation Circle]]. A team of volunteers from the astronomers' union had settled in Albaxia and began setting up celestial stations with Terrus's atmosphere near every settlement that agreed to be a part of the union, teaching the Mauvians the [[Air Barrier]] spell to allow them in the station and even to visit Terrus. By the time the astronomers on Terrus finished mapping out the Ausarian Expanse, Albaxia was properly colonized.
 
+## Life Beyond the Ausarian Expanse
+While a diverse team of astronomers were mapping out the Ausarian Expanse, a different team of elven wizards and clerics set out to discover life beyond it. This was no role for humans, as it would take decades and centuries to reach planets in a different system. But eventually, they have. Over a few centuries, this team had managed to map out completely alien systems with dozens of hostile and amiable environments alike. Every habitable planet and moon they could find was colonized, and the astronomers' union had expanded to an intergalactic level.
+
 # Chapter 2: The Rules of Extraterrestrial Travel
 Extraterrestrial travel complicates a lot of things we normally take for granted. How long is a year on the moon, in terms of magic? What counts as 'a day' on Albaxia? What about Terrus, in general?
 
