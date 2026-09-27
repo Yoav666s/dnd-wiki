@@ -203,7 +203,7 @@ Traveling from planet to moon can be a headache for the DM. Coming up with new i
 | 3 | Jungle |
 | 4 | Forest |
 | 5 | Ice |
-| 6 | Rock |
+| 6 | Mountain |
 
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
