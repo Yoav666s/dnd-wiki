@@ -183,7 +183,7 @@ Traveling from planet to moon can be a headache for the DM. Coming up with new i
 | 11 | pol |
 | 12 | han |
 
-**Atmosphere.** Rather than coming up with a unique atmosphere composition every time, it is sufficient to decide if it's breathable or not. If you'd like to determine this randomly, oll a d6. On a 5-6 it is breathable.
+**Atmosphere.** Rather than coming up with a unique atmosphere composition every time, it is sufficient to decide if it's breathable or not. If you'd like to determine this randomly, oll a d6. On a 5-6 it is breathable for terrestrial creatures.
 
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
