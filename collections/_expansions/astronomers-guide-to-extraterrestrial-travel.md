@@ -162,7 +162,19 @@ Most D&D campaigns take place on Earth, albeit implicitly. We know this because 
 Magic operates on its own time, and it just so happens that Arcane Time aligns perfectly with Earth's time cycle. In a world where possibility is infinite, such coincidences are bound to happen. On Terrus, an arcane year is still 365 days long, and on Albaxia, an arcane day is still just 24 hours. Nobody knows why magic works this way, but this is how things are.
 
 ## Planet and Moon Generation
-Traveling from planet to moon can be a headache for the DM. Coming up with new ideas, atmospheres, and alien species can be draining if it happens every other session. The solution isn't to over-prepare, but to roll dice! With the following tables, you can generate an entire planet in minutes.
+Traveling from planet to moon can be a headache for the DM. Coming up with new ideas, atmospheres, and alien species can be draining if it happens every other session. The solution isn't to over-prepare, but to roll dice! With the following tables, you can generate an entire planet in minutes, complete with moons and native population.
+
+### Moons
+First, roll a `1d6 -- 1`. This is how many moons the planet has. Then roll as many d6s as you'd like and consult the following table to generate a name for each one, if necessary.
+
+| 1d6 |  |
+| :---: | :---: |
+| 1 | ist |
+| 2 | aun |
+| 3 | dol |
+| 4 | ghe |
+| 5 | jus |
+| 6 | xen |
 
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
