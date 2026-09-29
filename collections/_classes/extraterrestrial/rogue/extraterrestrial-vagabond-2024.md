@@ -75,7 +75,7 @@ You've studied spells that have to do with extraterrestrial travel. You learn an
 # Level 3: Unratified Passenger
 You've been travelling from planet to moon for a long time, and not in the expensive, regular way. You gain the following benefits. 
 
-**Astronomical Jargon.** You gain a bonus to Charisma skill checks equal to your Intelligence modifier.
+**Astronomical Jargon.** You gain a bonus to Charisma checks equal to your Intelligence modifier.
 
 **Bonus Proficiency.** You gain proficiency with the Forgery Kit if you don't have it already.
 
