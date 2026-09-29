@@ -11,6 +11,7 @@ header:
   teaser: /assets/images/classes/rogue/extraterrestrial-vagabond/header.jpg
 source: "Astronomer's Guide to Extraterrestrial Travel"
 ---
+There are those who are prosecuted for minor crimes in their local neighborhood, and then there are criminals of an interplanetary level. Having studied astronomy and astromancy, extraterrestrial vagabonds travel from planet to moon, applying their knowledge in real life situations---forging teleportation passes, creating controlled wormholes, and manipulating gravity.
 
 # Extraterrestrial Vagabond Spellcasting
 
