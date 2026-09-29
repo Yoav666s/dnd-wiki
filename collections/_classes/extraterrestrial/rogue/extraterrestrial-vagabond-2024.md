@@ -73,7 +73,9 @@ You've studied spells that have to do with extraterrestrial travel. You learn an
 | 19 | Transmit Image |
 
 # Level 3: Unratified Passenger
-You've been travelling from planet to moon for a long time, and not in the expensive, regular way. You gain proficiency with the Forgery Kit if you don't have it already, and you have advantage on Dexterity (Sleight of Hand) checks you make to forge the documents you need for extraterrestrial travel.
+You've been travelling from planet to moon for a long time, and not in the expensive, regular way. You gain the following benefits. 
+
+**Clean Bureaucracy.** You gain proficiency with the Forgery Kit if you don't have it already, and you have advantage on Dexterity (Sleight of Hand) checks you make to forge the documents you need for extraterrestrial travel.
 
 # Level 9: Space Manipulator
 You gain the following Cunning Strike option.
