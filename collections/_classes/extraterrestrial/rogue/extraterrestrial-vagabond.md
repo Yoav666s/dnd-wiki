@@ -92,4 +92,4 @@ Starting at 13th level, you can add your Intelligence modifier to an attack roll
 You can use this feature a number of times equal to your proficiency bonus and you regain all expended uses when you finish a long rest.
 
 # Impeccable Forethought
-Starting at 17th level, when you use your Premeditated Strike feature, you also gain advantage on the attack roll.
+Starting at 17th level, when you use your Premeditated Strike feature, you can reroll the d20 and use either result.
