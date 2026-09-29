@@ -12,6 +12,9 @@ header:
   teaser: /assets/images/classes/rogue/extraterrestrial-vagabond/2024/header.jpg
 source: "Astronomer's Guide to Extraterrestrial Travel"
 ---
+*Traverse Other Planets and Navigate Alien Societies*
+
+There are those who are prosecuted for minor crimes in their local neighborhood, and then there are criminals of an interplanetary level. Having studied astronomy and astromancy, extraterrestrial vagabonds travel from planet to moon, applying their knowledge in real life situations---forging teleportation passes, creating controlled wormholes, and manipulating gravity.
 
 # Level 3: Spellcasting
 You have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules as an Extraterrestrial Vagabond.
