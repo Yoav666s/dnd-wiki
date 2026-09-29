@@ -36,26 +36,26 @@ The number of spells on your list increases as you gain Rogue levels, as shown i
 
 ## Extraterrestrial Vagabond Spellcasting
 
-| Rogue Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th |
+| Rogue Level | Prepared Spells | 1st | 2nd | 3rd | 4th |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 3rd | 2 | 3 | 2 | - | - | - |
-| 4th | 2 | 4 | 3 | - | - | - |
-| 5th | 2 | 4 | 3 | - | - | - |
-| 6th | 2 | 4 | 3 | - | - | - |
-| 7th | 2 | 5 | 4 | 2 | - | - |
-| 8th | 2 | 6 | 4 | 2 | - | - |
-| 9th | 2 | 6 | 4 | 2 | - | - |
-| 10th | 3 | 7 | 4 | 3 | - | - |
-| 11th | 3 | 8 | 4 | 3 | - | - |
-| 12th | 3 | 8 | 4 | 3 | - | - |
-| 13th | 3 | 9 | 4 | 3 | 2 | - |
-| 14th | 3 | 10 | 4 | 3 | 2 | - |
-| 15th | 3 | 10 | 4 | 3 | 2 | - |
-| 16th | 3 | 11 | 4 | 3 | 3 | - |
-| 17th | 3 | 11 | 4 | 3 | 3 | - |
-| 18th | 3 | 11 | 4 | 3 | 3 | - |
-| 19th | 3 | 12 | 4 | 3 | 3 | 1 |
-| 20th | 3 | 13 | 4 | 3 | 3 | 1 |
+| 3 | 3 | 2 | - | - | - |
+| 4 | 4 | 3 | - | - | - |
+| 5 | 4 | 3 | - | - | - |
+| 6 | 4 | 3 | - | - | - |
+| 7 | 5 | 4 | 2 | - | - |
+| 8 | 6 | 4 | 2 | - | - |
+| 9 | 6 | 4 | 2 | - | - |
+| 10 | 7 | 4 | 3 | - | - |
+| 11 | 8 | 4 | 3 | - | - |
+| 12 | 8 | 4 | 3 | - | - |
+| 13 | 9 | 4 | 3 | 2 | - |
+| 14 | 10 | 4 | 3 | 2 | - |
+| 15 | 10 | 4 | 3 | 2 | - |
+| 16 | 11 | 4 | 3 | 3 | - |
+| 17 | 11 | 4 | 3 | 3 | - |
+| 18 | 11 | 4 | 3 | 3 | - |
+| 19 | 12 | 4 | 3 | 3 | 1 |
+| 20 | 13 | 4 | 3 | 3 | 1 |
 
 # Extraterrestrial Magic
 Also at 3rd level, you've studied spells that have to do with extraterrestrial travel. You learn an additional spell when you reach certain levels in this class, as shown in the Extraterrestrial Vagabond Spells table. Each spell counts as a wizard spell for you, but it doesn't count against the number of wizard spells you know.
