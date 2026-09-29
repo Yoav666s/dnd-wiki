@@ -37,7 +37,7 @@ The number of spells on your list increases as you gain Rogue levels, as shown i
 ## Extraterrestrial Vagabond Spellcasting
 
 | Rogue Level | Prepared Spells | 1st | 2nd | 3rd | 4th |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | 3 | 3 | 2 | - | - | - |
 | 4 | 4 | 3 | - | - | - |
 | 5 | 4 | 3 | - | - | - |
@@ -57,8 +57,8 @@ The number of spells on your list increases as you gain Rogue levels, as shown i
 | 19 | 12 | 4 | 3 | 3 | 1 |
 | 20 | 13 | 4 | 3 | 3 | 1 |
 
-# Extraterrestrial Magic
-Also at 3rd level, you've studied spells that have to do with extraterrestrial travel. You learn an additional spell when you reach certain levels in this class, as shown in the Extraterrestrial Vagabond Spells table. Each spell counts as a wizard spell for you, but it doesn't count against the number of wizard spells you know.
+# Level 3: Extraterrestrial Magic
+You've studied spells that have to do with extraterrestrial travel. You learn an additional spell when you reach certain Rogue levels, as shown in the Extraterrestrial Vagabond Spells table. Each spell counts as a wizard spell for you, but it doesn't count against the number of wizard spells you know.
 
 ## Extraterrestrial Vagabond Spells
 
