@@ -86,4 +86,4 @@ You can add your Intelligence modifier to an attack roll you make (minimum of +1
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once) and you regain all expended uses when you finish a Short or Long Rest.
 
 # Level 17: Impeccable Forethought
-When you use your Premeditated Strike feature, you also gain advantage on the attack roll.
+When you use your Premeditated Strike feature, you can reroll the d20 and use either result.
