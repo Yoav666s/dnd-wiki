@@ -3,6 +3,8 @@ title: "Air Barrier"
 index:
   - air-barrier
 permalink: /spells/air-barrier/
+tags:
+  - Spell
 available_for:
   - Cleric
   - Druid
