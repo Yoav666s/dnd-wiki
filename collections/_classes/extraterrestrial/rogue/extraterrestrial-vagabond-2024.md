@@ -77,6 +77,8 @@ You've been travelling from planet to moon for a long time, and not in the expen
 
 **Bonus Proficiency.** You gain proficiency with the Forgery Kit if you don't have it already.
 
+**Astronomical Jargon.** You gain a bonus to Charisma skill checks equal to your Intelligence modifier.
+
 # Level 9: Space Manipulator
 You gain the following Cunning Strike option.
 
