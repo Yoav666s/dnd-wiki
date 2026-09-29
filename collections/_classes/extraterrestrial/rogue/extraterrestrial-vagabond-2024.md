@@ -64,18 +64,18 @@ You've studied spells that have to do with extraterrestrial travel. You learn an
 
 | Rogue Level | Spell |
 | :---: | :---: |
-| 3rd | Air Barrier |
-| 7th | Gravity Field |
-| 13th | Open Wormhole |
-| 19th | Transmit Image |
+| 3 | Air Barrier |
+| 7 | Gravity Field |
+| 13 | Open Wormhole |
+| 19 | Transmit Image |
 
-# Unratified Passenger
-Starting at 3rd level, you've been travelling from planet to moon for a long time, and not in the expensive, regular way. You gain proficiency with the Forgery Kit if you don't have it already, and you have advantage on checks you make to forge the documents you need for extraterrestrial travel.
+# Level 3: Unratified Passenger
+You've been travelling from planet to moon for a long time, and not in the expensive, regular way. You gain proficiency with the Forgery Kit if you don't have it already, and you have advantage on Dexterity (Sleight of Hand) checks you make to forge the documents you need for extraterrestrial travel.
 
-# Wormhole Retreat 
-Starting at 9th level, when you deal damage with your Sneak Attack, you can teleport up to 30 feet to an unoccupied space you can see.
+# Level 9: Space Manipulator
+You gain the following Cunning Strike option.
 
-You can use this feature a number of times equal to your proficiency bonus and you regain all expended uses when you finish a long rest.
+**Wormhole Retreat (Cost: 1d6).** You teleport a distance equal to up to half your speed to an unoccupied space you can see.
 
 # Premeditated Strike
 Starting at 13th level, you can add your Intelligence modifier to an attack roll you make (minimum of +1). You must do so after you roll the d20, but before the DM declares whether the attack hits or misses.
