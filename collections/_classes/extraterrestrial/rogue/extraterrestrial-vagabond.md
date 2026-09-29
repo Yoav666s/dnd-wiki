@@ -81,7 +81,7 @@ Also at 3rd level, you've studied spells that have to do with extraterrestrial t
 # Unratified Passenger
 Starting at 3rd level, you've been travelling from planet to moon for a long time, and not in the expensive, regular way. You gain proficiency with the Forgery Kit if you don't have it already, and you have advantage on checks you make to forge the documents you need for extraterrestrial travel.
 
-Additionally, you gain a bonus to Charisma skill checks equal to your Intelligence modifier.
+Additionally, you gain a bonus to Charisma checks equal to your Intelligence modifier.
 
 # Wormhole Retreat 
 Starting at 9th level, when you deal damage with your Sneak Attack, you can teleport up to 30 feet to an unoccupied space you can see.
