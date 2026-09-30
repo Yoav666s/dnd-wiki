@@ -35,7 +35,7 @@ You can use this feature a number of times equal to your Dexterity modifier, and
 # Level 9: Artful Maneuvers
 You gain the following Cunning Strike options.
 
-**Beguiling Strike (Cost: 2d6).** If you have the Mirage feature's Invisible condition, this attack doesn't end that condition, and your duplicate teleports to your current position.
+**Beguiling Strike (Cost: 1d6).** If you have the Mirage feature's Invisible condition, this attack doesn't end that condition, and your duplicate teleports to your current position.
 
 **Evasive Dance (Cost: 3d6).** All attacks the target makes against you until the start of your next turn have disadvantage.
 
