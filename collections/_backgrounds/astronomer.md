@@ -10,9 +10,9 @@ source: "Astronomer's Guide to Extraterrestrial Travel"
 You have spent years studying astronomy, learning about the celestial bodies of the Ausarian Expanse, and maybe even preparing for extraterrestrial travel. Maybe you're an expert on everything that has to do with the strange planet of Albaxia, or perhaps you've been to the moon.
 
 **Skill Proficiencies:** History and Survival \
-**Tool Proficiencies:** Cartographer's Tools \
+**Tool Proficiencies:** Navigator's Tools \
 **Languages:** Celestial \
-**Equipment:** A bottle of black ink, a quill, a set of cartographer's tools, 8 sheets of Parchment, a set of common clothes, and a pouch containing 11 GP
+**Equipment:** A bottle of black ink, a quill, a set of navigator's tools, 8 sheets of Parchment, a set of common clothes, and a pouch containing 11 GP
 
 # Feature: Academic Connections
 As an active participant in the united effort of extraterrestrial travel, you have certain privileges. You can secure passage to another celestial body for you and your companions in any recognized celestial station, and you know where such stations are located throughout the celestial body you are on.
