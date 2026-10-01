@@ -226,7 +226,7 @@ If two following syllables sound awkward or are difficult to pronounce, roll on 
 **Gravity.** Decide the gravitational force of the planet. Consult the following table.
 
 | 1d3 | Gravity |
-| :---: | :---: |
+| :---: | :---- |
 | 1 | **Low.** Jumping distance and carrying capacity doubled, fall damage halved. |
 | 2 | **Normal.** No changes necessary. |
 | 3 | **High.** Jumping distance and carrying capacity halved, fall damage doubled. |
