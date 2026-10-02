@@ -3,6 +3,8 @@ title: "Miniature Atmosphere"
 index:
   - miniature-atmosphere
 permalink: /spells/miniature-atmosphere/
+tags:
+  - Spell
 available_for:
   - Druid
   - Wizard
