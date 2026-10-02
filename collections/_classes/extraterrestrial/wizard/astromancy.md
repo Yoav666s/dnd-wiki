@@ -4,7 +4,7 @@ index:
   - astromancy 
   - school-of-astromancy
 permalink: /classes/wizard/astromancy/
-excerpt: ""
+excerpt: "Astromancers are the pioneers of extraterrestrial travel."
 subclass: wizard
 alt_version: astromancer
 header:
@@ -12,7 +12,7 @@ header:
   teaser: /assets/images/classes/wizard/astromancy/header.jpg
 source: "Astronomer's Guide to Extraterrestrial Travel"
 ---
-Astromancers are
+Astromancers are the pioneers of extraterrestrial travel. They discover new planets, teleport to them, and colonized them using transmutation magic. Through incessant work, they have set up celestial stations all throughout the galaxy, allowing for instant teleportation between planets and moons. 
 
 # Planetary Researcher
 Starting at 2nd level, you add the Air Barrier, Analyze, and Comprehend Languages spells to your spellbook if they are not there already. You gain a bonus to Wisdom (Insight, Perception, and Survival) checks equal to your Intelligence modifier.
@@ -41,6 +41,8 @@ Whenever you visit a celestial station, you can be given any sigil sequence of a
 
 # Celestial Colonizer
 Starting at 14th level, you add the Miniature Atmosphere and Teleport spells to your spellbook if they are not there already. When you cast Teleport, you can do so without Verbal or Somatic components.
+
+When you reach 17th level, you add the Far Sight spell to your spellbook.
 
 # Momentary Vacuum
 Starting at 14th level, as an action, you can create a 20-foot radius sphere of complete vacuum that lasts until the start of your next turn. No sound can pass through or exist inside the sphere, and all creatures inside are Deafened. Each creature that starts its turn inside the sphere or enters it for the first time in a turn must make a Constitution saving throw, taking 4d8 Cold damage and 4d8 Bludgeoning damage on failure, or half as much on a success. A creature that fails the saving throw is also Blinded while inside the sphere. A creature with an active Air Barrier isn't affected by the sphere.
