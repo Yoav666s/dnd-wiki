@@ -12,6 +12,6 @@ You have spent years studying astronomy, learning about the celestial bodies of 
 
 **Ability Scores:** Constitution, Intelligence, Wisdom \
 **Feat:** Magic Initiate (Wizard) \
-**Skill Proficiencies:** History and Survival \
+**Skill Proficiencies:** Perception and Survival \
 **Tool Proficiencies:** Navigator's Tools \
 **Equipment:** Choose A or B: (A) Quarterstaff, Navigator's Tools, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP
