@@ -45,8 +45,8 @@ Starting at 14th level, you add the Miniature Atmosphere and Teleport spells to 
 When you reach 17th level, you add the Far Sight spell to your spellbook.
 
 # Momentary Vacuum
-Starting at 14th level, as an action, you can create a 20-foot radius sphere of complete vacuum that lasts until the start of your next turn. No sound can pass through or exist inside the sphere, and all creatures inside are Deafened. Each creature that starts its turn inside the sphere or enters it for the first time in a turn must make a Constitution saving throw, taking 4d8 Cold damage and 4d8 Bludgeoning damage on failure, or half as much on a success. A creature that fails the saving throw is also Blinded while inside the sphere. A creature with an active Air Barrier isn't affected by the sphere.
+As an action, you can create a 20-foot radius sphere of complete vacuum centered on a point within 60 feet of you that lasts until the start of your next turn. No sound can pass through or exist inside the sphere, and all creatures inside are Deafened. Each creature that starts its turn inside the sphere or enters it for the first time in a turn must make a Constitution saving throw against your spell save DC, taking 4d8 Cold damage and 4d8 Bludgeoning damage on failure, or half as much on a success. A creature that fails the saving throw is also Blinded while inside the sphere. A creature with an active Air Barrier isn’t affected by the sphere.
 
-Once you use this feature, you can't do it again until you finish a short or long rest.
+Once you use this feature, you can’t do it again until you finish a short or long rest.
 
 [:classes/wizard/astromancy:]
