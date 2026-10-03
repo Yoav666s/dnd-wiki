@@ -17,7 +17,7 @@ Astromancers are the pioneers of extraterrestrial travel. They discover new plan
 # Planetary Researcher
 Starting at 2nd level, you add the Air Barrier, Analyze, and Comprehend Languages spells to your spellbook if they are not there already. You gain a bonus to Wisdom (Insight, Perception, and Survival) checks equal to your Intelligence modifier.
 
-<!-- Air Barrier and Analyze are both 1st level rituals that allow for breathing in hostile atmospheres/vacuum and learning about a material's/atmosphere's elemental composition respectively. The other feature mirrors Fey Wanderer's Otherworldly Glamour, but with skills that match the astronomer theme. This is the main role of the Astromancer and they should do it better than regular wisdom based casters/monks. The skills only get higher if they invest in both intelligence and wisdom, which is a fair price. Don't get dramatic about it -->
+<!-- Air Barrier and Analyze are both 1st level rituals that allow for breathing in hostile atmospheres/vacuum and learning about a material's/atmosphere's elemental composition respectively. The other feature mirrors Fey Wanderer's Otherworldly Glamour, but with skills that match the astronomer theme. This is the main role of the Astromancer and they should do it better than regular wisdom based casters/monks. The skills only get higher if they invest in both intelligence and wisdom, which is a fair price. -->
 
 # Solar Flare
 Starting at 2nd level, once per turn when you deal Fire damage with a spell while a sun is visible (or while within range of a Daylight spell or similar effect), you can convert the damage to Radiant damage and deal an additional 1d6 damage.
