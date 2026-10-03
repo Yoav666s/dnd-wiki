@@ -29,7 +29,7 @@ description: |
   
   Different planets have different atmospheres. Each atmosphere is composed of a different combination of gasses. When you first gain the ability to cast this spell, you learn the atmosphere composition of the planet you are on. You can commit a new atmosphere composition to memory by studying it, either from written notes or by using magic or magical instruments to analyze it.
   
-  You can create a permanent miniature atmosphere by casting this spell in the same spot with the same air composition every day for a year. The air inside is being magically refreshed and stays breathable indefinitely.
+  You can create a permanent miniature atmosphere by casting this spell in the same spot, in the same size, and with the same air composition every day for a year. The air inside is being magically refreshed and stays breathable indefinitely.
 excerpt: "An immobile sphere of force springs into existence around you and remains stationary for the duration."
 source: "Astronomer's Guide to Extraterrestrial Travel"
 # header:
