@@ -231,6 +231,11 @@ If two following syllables sound awkward or are difficult to pronounce, roll on 
 | 2 | **Normal.** No changes necessary. |
 | 3 | **High.** Jumping distance and carrying capacity halved, fall damage doubled. |
 
+# Chapter ?: Subclasses
+The following are subclasses suited for extraterrestrial travel.
+
+{% include expansion_subclasses.html %}
+
 # Chapter ?: Races
 The following are races of creatures that live on other planets.
 
