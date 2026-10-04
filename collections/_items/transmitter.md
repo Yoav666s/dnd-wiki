@@ -16,4 +16,4 @@ header:
 ---
 This device is used for two-way communication. It is the material component of the [[Transmit Image]] spell.
 
-[:items/emitter:]
+[:items/transmitter:]
