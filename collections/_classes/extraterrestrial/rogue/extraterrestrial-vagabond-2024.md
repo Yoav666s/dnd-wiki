@@ -27,7 +27,7 @@ When you reach Rogue level 10, you learn another Wizard cantrip of your choice.
 
 **Spell Slots.** The Extraterrestrial Vagabond Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended spell slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare a list of the level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. Disguise Self, Fog Cloud, and Shield are recommended.
+**Prepared Spells of Level 1+.** You prepare a list of the level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. Disguise Self, Mage Armor, and Shield are recommended.
 
 The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Extraterrestrial Vagabond Spellcasting table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the Extraterrestrial Vagabond Spellcasting table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Wizard spells of level 1 or 2 in any combination.
 
