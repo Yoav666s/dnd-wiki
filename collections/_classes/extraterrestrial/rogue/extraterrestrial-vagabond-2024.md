@@ -89,7 +89,7 @@ You gain the following Cunning Strike option.
 # Level 13: Premeditated Strike
 You can add your Intelligence modifier to an attack roll you make (minimum of +1). You must do so after you roll the d20, but before the DM declares whether the attack hits or misses.
 
-You can use this feature a number of times equal to your Intelligence modifier (minimum of once) and you regain all expended uses when you finish a Short or Long Rest.
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once) and you regain all expended uses when you finish a Long Rest.
 
 # Level 17: Impeccable Forethought
 When you use your Premeditated Strike feature, you can reroll the d20 and use either result.
