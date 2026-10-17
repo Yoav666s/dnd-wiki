@@ -82,7 +82,7 @@ You've been travelling from planet to moon for a long time, and not in the expen
 # Level 9: Space Manipulator
 You gain the following Cunning Strike option.
 
-**Wormhole Retreat (Cost: 1d6).** You teleport a distance equal to up to half your speed to an unoccupied space you can see.
+**Wormhole Retreat (Cost: 2d6).** You teleport up to 30 feet to an unoccupied space you can see.
 
 # Level 13: Premeditated Strike
 You can add your Intelligence modifier to an attack roll you make (minimum of +1). You must do so after you roll the d20, but before the DM declares whether the attack hits or misses.
