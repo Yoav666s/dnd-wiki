@@ -3,7 +3,7 @@ title: "Extraterrestrial Vagabond"
 index:
   - extraterrestrial-vagabond
 permalink: /classes/rogue/extraterrestrial-vagabond/
-excerpt: ""
+excerpt: "There are those who are prosecuted for minor crimes in their local neighborhood, and then there are criminals of an interplanetary level."
 subclass: rogue
 alt_version: extraterrestrial-vagabond-2024
 header:
@@ -79,9 +79,9 @@ Also at 3rd level, you've studied spells that have to do with extraterrestrial t
 | 19th | Transmit Image |
 
 # Unratified Passenger
-Starting at 3rd level, you've been travelling from planet to moon for a long time, and not in the expensive, regular way. You gain proficiency with the Forgery Kit if you don't have it already, and you have advantage on checks you make to forge the documents you need for extraterrestrial travel.
+Starting at 3rd level, you've been travelling from planet to moon for a long time, and not in the expensive, regular way. You gain proficiency with the Forgery Kit if you don't have it already, and you have advantage on checks you make to forge the documents you need for extraterrestrial travel. You also gain a bonus to Charisma checks equal to your Intelligence modifier.
 
-Additionally, you gain a bonus to Charisma checks equal to your Intelligence modifier.
+Additionally, when you cast one of your Wizard cantrips that requires an attack roll, it is eligible to deal Sneak Attack damage if at least one of the conditions is met and you don't have disadvantage on the roll.
 
 # Wormhole Retreat 
 Starting at 9th level, when you deal damage with your Sneak Attack, you can teleport up to 30 feet to an unoccupied space you can see.
