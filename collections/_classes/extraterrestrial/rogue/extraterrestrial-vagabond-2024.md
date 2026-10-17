@@ -3,7 +3,7 @@ title: "Extraterrestrial Vagabond"
 index:
   - extraterrestrial-vagabond-2024
 permalink: /classes/rogue/extraterrestrial-vagabond-2024/
-excerpt: ""
+excerpt: "There are those who are prosecuted for minor crimes in their local neighborhood, and then there are criminals of an interplanetary level."
 subclass: rogue
 v_2024: true
 alt_version: extraterrestrial-vagabond
@@ -19,7 +19,7 @@ There are those who are prosecuted for minor crimes in their local neighborhood,
 # Level 3: Spellcasting
 You have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules as an Extraterrestrial Vagabond.
 
-**Cantrips.** You know two cantrips of your choice from the Wizard spell list (See that class's section for its list). Mind Sliver and Minor Illusion are recommended.
+**Cantrips.** You know two cantrips of your choice from the Wizard spell list (See that class's section for its list). Fire Bolt and Mage Hand are recommended.
 
 Whenever you gain a Rogue level, you can replace one of your cantrips with another Wizard cantrip of your choice.
 
@@ -27,7 +27,7 @@ When you reach Rogue level 10, you learn another Wizard cantrip of your choice.
 
 **Spell Slots.** The Extraterrestrial Vagabond Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended spell slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare a list of the level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. Charm Person, Disguise Self and Fog Cloud are recommended.
+**Prepared Spells of Level 1+.** You prepare a list of the level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. Disguise Self, Fog Cloud, and Shield are recommended.
 
 The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Extraterrestrial Vagabond Spellcasting table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the Extraterrestrial Vagabond Spellcasting table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Wizard spells of level 1 or 2 in any combination.
 
@@ -78,6 +78,8 @@ You've been travelling from planet to moon for a long time, and not in the expen
 **Astronomical Jargon.** You gain a bonus to Charisma checks equal to your Intelligence modifier.
 
 **Bonus Proficiency.** You gain proficiency with the Forgery Kit if you don't have it already.
+
+**Deadly Cantrips.** When you cast one of your Wizard cantrips that requires an attack roll, it is eligible to deal Sneak Attack damage if at least one of the conditions is met and you don't have disadvantage on the roll.
 
 # Level 9: Space Manipulator
 You gain the following Cunning Strike option.
